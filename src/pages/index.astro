@@ -1,17 +1,248 @@
 ---
-
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout
+	title="Zebra — Track flares. Bring proof."
+	description="A symptom tracker for POTS, EDS, and Fibromyalgia. Track flares, orthostatic vitals, salt, hydration, and symptoms in one place."
+>
+	<div class="page-shell">
+		<div class="trust-strip" aria-label="Trust signals">
+			<span>Built for POTS, EDS & Fibromyalgia</span>
+			<span>Designed for brain fog and bad days</span>
+			<span>Private by default</span>
+		</div>
+
+		<header class="site-header">
+			<div class="brand-lockup">
+				<img class="brand-logo" src="/zebra-logo.png" alt="Zebra logo" />
+				<div>
+					<p class="eyebrow">Zebra</p>
+					<p class="brand-subtitle">Symptom tracker for invisible illness</p>
+				</div>
+			</div>
+			<a class="header-link" href="#waitlist">Get early access</a>
+		</header>
+
+		<main>
+			<section class="hero section">
+				<div class="hero-copy">
+					<p class="eyebrow">Built for POTS, EDS & Fibromyalgia</p>
+					<h1>Track flares in one calm place. Walk into appointments with proof.</h1>
+					<p class="hero-text">
+						Zebra brings your symptoms, orthostatic vitals, salt, water, and medications
+						into one clear daily flow, so you are not jumping between three apps when your
+						brain fog is already high.
+					</p>
+					<div class="hero-actions">
+						<a class="button-primary" href="#waitlist">Get early access</a>
+						<a class="button-secondary" href="#how-it-works">See how it works</a>
+					</div>
+					<div class="hero-proof">
+						<span>Under 60 seconds to track the essentials</span>
+						<span>One-tap doctor report</span>
+						<span>Private by default</span>
+					</div>
+				</div>
+
+				<div class="hero-visual" aria-label="Zebra product preview">
+					<div class="visual-card visual-card-main">
+						<div class="phone-topbar">
+							<span>Today</span>
+							<span>8:42 AM</span>
+						</div>
+						<div class="severity-card">
+							<p class="mini-label">Flare severity</p>
+							<div class="severity-row">
+								<strong>4</strong>
+								<span>Moderate flare</span>
+							</div>
+							<div class="severity-scale">
+								<div class="severity-scale-fill"></div>
+							</div>
+						</div>
+						<div class="chip-row">
+							<span class="chip chip-active">Brain fog</span>
+							<span class="chip">Fatigue</span>
+							<span class="chip chip-active">Heart racing</span>
+						</div>
+						<div class="metric-grid">
+							<div class="metric-card">
+								<p class="mini-label">Salt</p>
+								<strong>2,500 mg</strong>
+							</div>
+							<div class="metric-card">
+								<p class="mini-label">Water</p>
+								<strong>72 oz</strong>
+							</div>
+						</div>
+					</div>
+
+					<div class="visual-card visual-card-report">
+						<p class="mini-label">Doctor report</p>
+						<h2>30 days of proof</h2>
+						<ul class="report-list">
+							<li>Flare trends</li>
+							<li>Orthostatic test history</li>
+							<li>Medication and symptom summary</li>
+						</ul>
+					</div>
+
+					<div class="visual-badge">Built for bad days, not ideal days</div>
+				</div>
+			</section>
+
+			<section class="section pain-strip" aria-label="Common problems">
+				<div class="pain-card">
+					<p class="eyebrow">Problem</p>
+					<h3>Too many apps</h3>
+					<p>Tired of jumping between symptom logs, heart-rate apps, and Notes before an appointment.</p>
+				</div>
+				<div class="pain-card">
+					<p class="eyebrow">Problem</p>
+					<h3>Too much setup</h3>
+					<p>Most trackers assume energy you do not have and expect you to build your own system first.</p>
+				</div>
+				<div class="pain-card">
+					<p class="eyebrow">Problem</p>
+					<h3>Not enough proof</h3>
+					<p>Doctors need a clean pattern, not scattered screenshots and half-remembered flare notes.</p>
+				</div>
+			</section>
+
+			<section class="section feature-section" id="how-it-works">
+				<div class="section-heading">
+					<p class="eyebrow">How Zebra works</p>
+					<h2>A softer routine for a harder reality.</h2>
+					<p>
+						The flow is designed around cognitive ease: fewer taps, bigger signals, and a report
+						that actually helps at the moment it matters.
+					</p>
+				</div>
+
+				<div class="steps-grid">
+					<article class="step-card">
+						<span class="step-number">01</span>
+						<h3>Track today’s flare</h3>
+						<p>Log severity, symptoms, meds, salt, and hydration in one daily check-in.</p>
+					</article>
+					<article class="step-card">
+						<span class="step-number">02</span>
+						<h3>Run the orthostatic test</h3>
+						<p>Capture lying, sitting, and standing vitals in a guided flow built for POTS reality.</p>
+					</article>
+					<article class="step-card">
+						<span class="step-number">03</span>
+						<h3>Bring proof to your doctor</h3>
+						<p>Export a clean summary that shows trends over time instead of disconnected data points.</p>
+					</article>
+				</div>
+			</section>
+
+			<section class="section features-bento" id="features" aria-label="Feature highlights">
+				<article class="bento-card bento-large">
+					<p class="eyebrow">Hero feature</p>
+					<h3>Orthostatic vitals that generic trackers miss</h3>
+					<p>
+						Zebra is built around the kind of tracking this audience actually needs, including
+						lying, sitting, and standing heart rate and blood pressure.
+					</p>
+				</article>
+				<article class="bento-card">
+					<p class="eyebrow">Daily use</p>
+					<h3>Brain-fog friendly check-ins</h3>
+					<p>Big touch targets, reduced clutter, and one clear path through the essentials.</p>
+				</article>
+				<article class="bento-card">
+					<p class="eyebrow">Condition specific</p>
+					<h3>Made for the overlap</h3>
+					<p>POTS, EDS, and Fibromyalgia often show up together. Zebra treats that as the default.</p>
+				</article>
+				<article class="bento-card">
+					<p class="eyebrow">Privacy</p>
+					<h3>Your data should feel safe</h3>
+					<p>Private by default, with a calm product experience that does not feel like surveillance.</p>
+				</article>
+			</section>
+
+			<section class="section report-spotlight">
+				<div class="report-copy">
+					<p class="eyebrow">Why it matters</p>
+					<h2>The report is not a nice-to-have. It is the reason the app exists.</h2>
+					<p>
+						Zebra is designed around one emotional job: helping you stop walking into appointments
+						empty-handed. The app leads to one clear output you can actually use.
+					</p>
+				</div>
+				<div class="report-panel">
+					<div class="report-panel-header">
+						<span>Doctor-ready summary</span>
+						<span>Last 30 days</span>
+					</div>
+					<div class="report-chart">
+						<div class="chart-line"></div>
+					</div>
+					<div class="report-stats">
+						<div>
+							<p class="mini-label">Average flare</p>
+							<strong>3.4 / 10</strong>
+						</div>
+						<div>
+							<p class="mini-label">Ortho tests</p>
+							<strong>12 completed</strong>
+						</div>
+						<div>
+							<p class="mini-label">Days tracked</p>
+							<strong>28 days</strong>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="section faq-section" id="faq">
+				<div class="section-heading narrow">
+					<p class="eyebrow">FAQ</p>
+					<h2>Questions people will have before they trust it.</h2>
+				</div>
+				<div class="faq-list">
+					<details class="faq-item" open>
+						<summary>Who is Zebra for?</summary>
+						<p>Zebra is being built for people tracking POTS, EDS, Fibromyalgia, or the overlap between them.</p>
+					</details>
+					<details class="faq-item">
+						<summary>What makes it different from generic symptom trackers?</summary>
+						<p>It starts with condition-specific needs like orthostatic vitals, salt, hydration, flares, and appointment-ready reporting.</p>
+					</details>
+					<details class="faq-item">
+						<summary>Is this meant to replace medical advice?</summary>
+						<p>No. Zebra is a tracking and reporting tool to support conversations with clinicians, not diagnose or treat conditions.</p>
+					</details>
+					<details class="faq-item">
+						<summary>What’s the first launch goal?</summary>
+						<p>A fast daily check-in, guided orthostatic test, history view, and a doctor report you can actually bring to appointments.</p>
+					</details>
+				</div>
+			</section>
+
+			<section class="section final-cta" id="waitlist">
+				<p class="eyebrow">Early access</p>
+				<h2>Be first to try Zebra when the app is ready.</h2>
+				<p>
+					If the idea already feels like relief, join the waitlist and I’ll send the first build
+					when it’s ready to test.
+				</p>
+				<a class="button-primary" href="https://tally.so/" target="_blank" rel="noreferrer">Get early access</a>
+				<p class="footnote">Health-related tracking app for iPhone. Not medical advice.</p>
+			</section>
+		</main>
+
+		<footer class="site-footer">
+			<p class="footer-copy">Zebra is a symptom tracking app concept for POTS, EDS, and Fibromyalgia.</p>
+			<nav class="footer-nav" aria-label="Footer">
+				<a href="/privacy">Privacy</a>
+				<a href="/terms">Terms</a>
+				<a href="mailto:hello@getzebra.app">Contact</a>
+			</nav>
+		</footer>
+	</div>
+</BaseLayout>
