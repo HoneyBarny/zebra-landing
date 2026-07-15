@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteHeader from '../../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../../components/content/ArticleCard.astro';
+import { categoryMeta } from '../../../data/content-taxonomy';
+import { homePage } from '../../../data/site-content';
+import {
+  articleUrl,
+  dateLabel,
+  estimateReadingTime,
+  getArticlesForCategory,
+  getBreadcrumbSchema,
+  getPublishedArticles,
+} from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const articles = getPublishedArticles(await getCollection('articles'));
+  return Object.values(categoryMeta)
+    .filter((category) => articles.some((article) => article.data.categories.includes(category.name)))
+    .map((category) => ({
+      params: { slug: category.slug },
+      props: { category, articles },
+    }));
+}
+
+const { category, articles } = Astro.props;
+const items = getArticlesForCategory(category.slug, articles);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `Zebra ${category.name} Articles`,
+    description: category.description,
+  },
+  getBreadcrumbSchema([
+    { name: 'Home', item: '/' },
+    { name: 'Blog', item: '/blog/' },
+    { name: category.name, item: `/blog/category/${category.slug}/` },
+  ]),
+];
+---
+
+<BaseLayout
+  title={`${category.name} Articles — Zebra`}
+  description={category.description}
+  schema={schema}
+>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section category-hero">
+        <Breadcrumbs
+          items={[
+            { label: 'Home', href: '/' },
+            { label: 'Blog', href: '/blog/' },
+            { label: category.name },
+          ]}
+        />
+        <p class="eyebrow">Category</p>
+        <h1>{category.name}</h1>
+        <p class="blog-hero-copy">{category.description}</p>
+      </section>
+
+      <section class="section">
+        <div class="article-grid">
+          {items.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt)}
+              readingTime={estimateReadingTime(article.body)}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

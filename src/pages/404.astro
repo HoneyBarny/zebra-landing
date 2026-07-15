@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteFooter from '../components/landing/SiteFooter.astro';
+import SiteHeader from '../components/landing/SiteHeader.astro';
+import { homePage } from '../data/site-content';
+
+const schema = [{
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Page not found — Zebra',
+  description: 'The requested Zebra page could not be found.',
+}];
+---
+
+<BaseLayout title="Page not found — Zebra" description="The requested Zebra page could not be found." schema={schema}>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section category-hero">
+        <p class="eyebrow">Page not found</p>
+        <h1>This Zebra page is not here.</h1>
+        <p class="blog-hero-copy">
+          The page may have moved, or the link may be wrong. Start from the landing page, blog, or knowledge hub.
+        </p>
+        <div class="article-chip-row">
+          <a class="article-chip" href="/">Zebra home</a>
+          <a class="article-chip" href="/blog/">Blog</a>
+          <a class="article-chip" href="/knowledge/">Knowledge hub</a>
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

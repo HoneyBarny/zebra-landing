@@ -1,0 +1,36 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import { articleUrl, dateLabel, estimateReadingTime } from '../../lib/content';
+import type { ArticleEntry } from '../../lib/content';
+
+interface Props {
+  articles: ArticleEntry[];
+  title?: string;
+}
+
+const { articles, title = 'Related reading' } = Astro.props;
+---
+
+{articles.length > 0 && (
+  <section class="related-articles section section-band section-band--soft">
+    <div class="section-intro">
+      <p class="eyebrow">Keep exploring</p>
+      <h2>{title}</h2>
+    </div>
+    <div class="article-grid">
+      {articles.map((article) => (
+        <ArticleCard
+          title={article.data.title}
+          href={articleUrl(article.id)}
+          excerpt={article.data.excerpt}
+          category={article.data.category}
+          categories={article.data.categories}
+          publishedAt={dateLabel(article.data.publishedAt)}
+          readingTime={estimateReadingTime(article.body)}
+          image={article.data.heroImage}
+          imageAlt={article.data.heroImageAlt}
+        />
+      ))}
+    </div>
+  </section>
+)}

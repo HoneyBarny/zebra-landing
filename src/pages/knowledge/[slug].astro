@@ -1,0 +1,204 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../components/content/ArticleCard.astro';
+import { homePage } from '../../data/site-content';
+import {
+  articleUrl,
+  dateLabel,
+  entityUrl,
+  estimateReadingTime,
+  getArticlesForEntity,
+  getBreadcrumbSchema,
+  getConditionHubSections,
+  getEntities,
+  getEntityChildren,
+  getEntityClusters,
+  getPublishedArticles,
+  getRelatedEntities,
+} from '../../lib/content';
+
+export async function getStaticPaths() {
+  const articles = getPublishedArticles(await getCollection('articles'));
+
+  return getEntities().map((entity) => ({
+    params: { slug: entity.slug },
+    props: {
+      entity,
+      articles,
+    },
+  }));
+}
+
+const { entity, articles } = Astro.props;
+const relatedArticles = getArticlesForEntity(entity.slug, articles, 6);
+const relatedEntities = getRelatedEntities(entity, 4);
+const childEntities = getEntityChildren(entity);
+const hubSections = entity.entityType === 'condition' ? getConditionHubSections(entity) : [];
+const parentClusters = getEntityClusters(entity);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    name: entity.name,
+    description: entity.summary,
+    termCode: entity.slug,
+    url: new URL(entityUrl(entity.slug), Astro.site).toString(),
+    inDefinedTermSet: new URL('/knowledge/', Astro.site).toString(),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: `${entity.name} — Zebra Knowledge Hub`,
+    description: entity.summary,
+    about: [entity.name, ...parentClusters.map((cluster) => cluster.name)],
+  },
+  getBreadcrumbSchema([
+    { name: 'Home', item: '/' },
+    { name: 'Knowledge Hub', item: '/knowledge/' },
+    { name: entity.name, item: `/knowledge/${entity.slug}/` },
+  ]),
+];
+---
+
+<BaseLayout title={`${entity.name} — Zebra Knowledge Hub`} description={entity.summary} schema={schema}>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section category-hero">
+        <Breadcrumbs
+          items={[
+            { label: 'Home', href: '/' },
+            { label: 'Knowledge Hub', href: '/knowledge/' },
+            { label: entity.name },
+          ]}
+        />
+        <p class="eyebrow">{entity.entityType === 'condition' ? 'Condition hub' : 'Entity'}</p>
+        <h1>{entity.name}</h1>
+        <p class="blog-hero-copy">{entity.definition}</p>
+        <div class="article-chip-row">
+          {parentClusters.map((cluster) => (
+            <a class="article-chip" href={entityUrl(cluster.slug)}>
+              {cluster.name}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="section section-band section-band--soft">
+        <div class="feature-grid">
+          <article class="feature-card">
+            <p class="mini-label">Quick definition</p>
+            <h2>What this page means in Zebra</h2>
+            <p>{entity.summary}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Where it connects</p>
+            <h2>Parent clusters</h2>
+            <ul class="feature-list">
+              {parentClusters.map((cluster) => <li>{cluster.name}</li>)}
+            </ul>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Why it matters</p>
+            <h2>Built for answer-first discovery</h2>
+            <p>
+              This hub connects definitions, related guides, and nearby entities so the concept is
+              useful for people, Google, and AI retrieval.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      {hubSections.length > 0 && (
+        <section class="section">
+          <div class="section-intro">
+            <p class="eyebrow">Condition map</p>
+            <h2>{entity.name} cluster hub</h2>
+            <p class="section-intro-body">
+              These pages are generated from Zebra’s entity graph so the condition hub can keep
+              related symptoms, workflows, testing context, and reports connected without manual
+              link lists.
+            </p>
+          </div>
+          <div class="cluster-section-grid">
+            {hubSections.map((section) => (
+              <article class="knowledge-card">
+                <p class="mini-label">{section.title}</p>
+                <ul class="feature-list">
+                  {section.items.map((item) => (
+                    <li><a href={entityUrl(item.slug)}>{item.name}</a></li>
+                  ))}
+                </ul>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {childEntities.length > 0 && (
+        <section class="section">
+          <div class="section-intro">
+            <p class="eyebrow">Related entities</p>
+            <h2>What belongs near {entity.name}</h2>
+          </div>
+          <div class="knowledge-grid">
+            {childEntities.slice(0, 8).map((item) => (
+              <article class="knowledge-card">
+                <p class="mini-label">{item.entityType}</p>
+                <h2><a href={entityUrl(item.slug)}>{item.name}</a></h2>
+                <p>{item.summary}</p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedEntities.length > 0 && (
+        <section class="section section-band">
+          <div class="section-intro">
+            <p class="eyebrow">Nearby concepts</p>
+            <h2>Other pages the graph connects automatically</h2>
+          </div>
+          <div class="guides-grid">
+            {relatedEntities.map((item) => (
+              <a class="guide-card" href={entityUrl(item.slug)}>
+                <strong>{item.name}</strong>
+                <p>{item.summary}</p>
+                <span>Open entity</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow">Related guides</p>
+          <h2>Where this concept shows up in published articles</h2>
+        </div>
+        <div class="article-grid">
+          {relatedArticles.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt)}
+              readingTime={estimateReadingTime(article.body)}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

@@ -1,0 +1,41 @@
+---
+import PhoneMedia from './PhoneMedia.astro';
+import SectionIntro from './SectionIntro.astro';
+
+interface ScreenshotItem {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+  title: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: ScreenshotItem[];
+}
+
+const { eyebrow, title, intro, items } = Astro.props;
+---
+
+<section class="section screenshot-carousel-section" aria-labelledby="screenshot-carousel-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="screenshot-carousel-heading" narrow={true} />
+  <div class="screenshot-carousel" aria-label="Zebra app screenshots">
+    {items.map((item) => (
+      <article class="screenshot-slide">
+        <PhoneMedia {...item} shell="default" />
+        <div class="screenshot-slide-copy">
+          <p class="mini-label">{item.meta ?? item.label}</p>
+          <h3>{item.title}</h3>
+          <p>{item.body}</p>
+        </div>
+      </article>
+    ))}
+  </div>
+</section>

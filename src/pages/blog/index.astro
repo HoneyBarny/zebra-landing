@@ -1,0 +1,116 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../components/content/ArticleCard.astro';
+import { categoryMeta } from '../../data/content-taxonomy';
+import { homePage } from '../../data/site-content';
+import {
+  articleUrl,
+  categorySlugFromName,
+  categoryUrl,
+  dateLabel,
+  estimateReadingTime,
+  getFeaturedArticle,
+  getPublishedArticles,
+  sortArticles,
+} from '../../lib/content';
+
+const articles = sortArticles(getPublishedArticles(await getCollection('articles')));
+const featured = getFeaturedArticle(articles);
+const rest = articles.filter((article) => article.id !== featured.id);
+const availableCategories = Object.values(categoryMeta).filter((category) =>
+  articles.some((article) => article.data.categories.includes(category.name)),
+);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Zebra Blog',
+    description:
+      'Educational articles from Zebra about symptom tracking, POTS, dysautonomia, doctor-ready reports, and specialist appointment preparation.',
+    about: ['Symptom Tracking', 'POTS', 'Dysautonomia', 'Doctor-Ready Report'],
+  },
+];
+---
+
+<BaseLayout
+  title="Zebra Blog — Symptom Tracking, POTS, and Appointment Preparation"
+  description="Read Zebra guides on symptom tracking, doctor-ready reports, specialist appointments, POTS, dysautonomia, and low-energy chronic illness workflows."
+  schema={schema}
+>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section blog-hero">
+        <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Blog' }]} />
+        <p class="eyebrow">Knowledge hub</p>
+        <h1>Articles that turn scattered symptoms into a clearer story.</h1>
+        <p class="blog-hero-copy">
+          Zebra’s blog is built around symptom tracking, specialist appointments, orthostatic
+          symptoms, and the doctor-ready report workflow.
+        </p>
+        <div class="filter-row" aria-label="Category filters">
+          {availableCategories.map((category) => (
+            <a class="filter-chip" href={categoryUrl(category.slug)}>
+              {category.name}
+            </a>
+          ))}
+          <a class="filter-chip" href="/knowledge/">Knowledge Hub</a>
+        </div>
+      </section>
+
+      <section class="section section-band featured-article">
+        <div class="section-intro">
+          <p class="eyebrow">Featured article</p>
+          <h2>{featured.data.title}</h2>
+          <p class="section-intro-body">{featured.data.excerpt}</p>
+        </div>
+        <div class="featured-article-grid">
+          <a class="featured-article-media" href={articleUrl(featured.id)}>
+            <img src={featured.data.heroImage} alt={featured.data.heroImageAlt} loading="eager" decoding="async" />
+          </a>
+          <div class="featured-article-copy">
+            <div class="article-card-meta">
+              <span>{featured.data.category}</span>
+              <span>{dateLabel(featured.data.publishedAt)}</span>
+              <span>{estimateReadingTime(featured.body)} min read</span>
+            </div>
+            <p>{featured.data.subtitle}</p>
+            <div class="article-chip-row">
+              {featured.data.entities.slice(0, 4).map((entity) => <span class="article-chip">{entity}</span>)}
+            </div>
+            <a class="inline-cta" href={articleUrl(featured.id)}>Read the guide</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow">Latest articles</p>
+          <h2>The Sprint 1 library</h2>
+        </div>
+        <div class="article-grid">
+          {rest.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt)}
+              readingTime={estimateReadingTime(article.body)}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

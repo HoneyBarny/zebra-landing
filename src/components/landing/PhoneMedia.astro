@@ -1,0 +1,71 @@
+---
+interface Props {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+  loading?: 'eager' | 'lazy';
+  priority?: boolean;
+  shell?: 'default' | 'hero' | 'report';
+  hideMeta?: boolean;
+}
+
+const {
+  kind = 'image',
+  src,
+  alt,
+  width,
+  height,
+  label,
+  meta,
+  loading = 'lazy',
+  priority = false,
+  shell = 'default',
+  hideMeta = false,
+} = Astro.props;
+
+const ratio = `${width} / ${height}`;
+const optimizedWebpSrcSet =
+  kind === 'image' && src.startsWith('/screenshots/') && src.endsWith('.png')
+    ? [510, 765, 1020]
+        .map((size) => {
+          const optimizedSrc = src.replace('/screenshots/', '/screenshots/optimized/').replace('.png', `-${size}.webp`);
+          return `${optimizedSrc} ${size}w`;
+        })
+        .join(', ')
+    : undefined;
+const responsiveSizes = '(max-width: 740px) 82vw, (max-width: 1100px) 34vw, 360px';
+---
+
+<figure class:list={['phone-media', `phone-media--${shell}`]} style={`--phone-ratio:${ratio};`}>
+  {!hideMeta && (label || meta) && (
+    <div class="phone-media-meta">
+      <span>{label}</span>
+      {meta && <span>{meta}</span>}
+    </div>
+  )}
+  <div class="phone-media-frame">
+    {kind === 'video' ? (
+      <video class="phone-media-asset" autoplay muted loop playsinline preload="metadata" aria-label={alt}>
+        <source src={src} />
+      </video>
+    ) : (
+      <picture>
+        {optimizedWebpSrcSet && <source type="image/webp" srcset={optimizedWebpSrcSet} sizes={responsiveSizes} />}
+        <img
+          class="phone-media-asset"
+          src={src}
+          alt={alt}
+          width={width}
+          height={height}
+          loading={loading}
+          decoding="async"
+          fetchpriority={priority ? 'high' : undefined}
+        />
+      </picture>
+    )}
+  </div>
+</figure>

@@ -1,0 +1,33 @@
+---
+interface Props {
+  title: string;
+  href: string;
+  excerpt: string;
+  category: string;
+  categories: string[];
+  publishedAt: string;
+  readingTime: number;
+  image: string;
+  imageAlt: string;
+}
+
+const { title, href, excerpt, category, categories, publishedAt, readingTime, image, imageAlt } = Astro.props;
+---
+
+<article class="article-card">
+  <a class="article-card-media" href={href}>
+    <img src={image} alt={imageAlt} loading="lazy" decoding="async" />
+  </a>
+  <div class="article-card-body">
+    <div class="article-card-meta">
+      <span>{category}</span>
+      <span>{publishedAt}</span>
+      <span>{readingTime} min read</span>
+    </div>
+    <h2><a href={href}>{title}</a></h2>
+    <p>{excerpt}</p>
+    <div class="article-card-tags" aria-label="Article categories">
+      {categories.slice(0, 3).map((item) => <span>{item}</span>)}
+    </div>
+  </div>
+</article>

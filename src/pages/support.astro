@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { supportPage } from '../data/site-content';
+---
+
+<BaseLayout
+	title={supportPage.seo.title}
+	description={supportPage.seo.description}
+>
+	<main class="support-shell">
+		<a class="legal-back" href={supportPage.backHref}>{`← ${supportPage.backLabel}`}</a>
+		<div class="support-card">
+			<p class="eyebrow">{supportPage.eyebrow}</p>
+			<h1>{supportPage.title}</h1>
+			<p>{supportPage.intro}</p>
+
+			<div class="support-grid">
+				<div>
+					{supportPage.columns.primary.map((section) => (
+						<section>
+							<h2>{section.heading}</h2>
+							{section.listItems && (
+								<ul class="support-checklist">
+									{section.listItems.map((item) => (
+										<li>{item}</li>
+									))}
+								</ul>
+							)}
+							{section.paragraphs?.map((paragraph) => <p>{paragraph}</p>)}
+						</section>
+					))}
+				</div>
+
+				<div>
+					{supportPage.columns.secondary.map((section) => (
+						<section>
+							<h2>{section.heading}</h2>
+							{section.kind === 'contact-list' ? (
+								<ul class="support-contacts">
+									{section.links.map((link) => (
+										<li>
+											<a
+												href={link.href}
+												target={link.external ? '_blank' : undefined}
+												rel={link.external ? 'noopener noreferrer' : undefined}
+											>
+												{link.label}
+											</a>
+										</li>
+									))}
+								</ul>
+							) : (
+								<nav class="support-links" aria-label={section.ariaLabel}>
+									{section.links.map((link) => (
+										<a href={link.href}>{link.label}</a>
+									))}
+								</nav>
+							)}
+						</section>
+					))}
+				</div>
+			</div>
+		</div>
+	</main>
+</BaseLayout>

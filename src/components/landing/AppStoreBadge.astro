@@ -1,0 +1,27 @@
+---
+interface Props {
+  href: string;
+  src: string;
+  loading?: 'eager' | 'lazy';
+  className?: string;
+}
+
+const { href, src, loading = 'lazy', className } = Astro.props;
+---
+
+<a
+  class:list={['app-store-badge-link', className]}
+  href={href}
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    class="app-store-badge"
+    src={src}
+    alt="Download on the App Store"
+    width="246"
+    height="82"
+    loading={loading}
+    decoding="async"
+  />
+</a>

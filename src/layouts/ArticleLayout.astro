@@ -1,0 +1,149 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import SiteHeader from '../components/landing/SiteHeader.astro';
+import SiteFooter from '../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../components/content/Breadcrumbs.astro';
+import RelatedArticles from '../components/content/RelatedArticles.astro';
+import { authorProfiles } from '../data/content-taxonomy';
+import { homePage } from '../data/site-content';
+import {
+  articleUrl,
+  authorUrl,
+  categorySlugFromName,
+  categoryUrl,
+  dateLabel,
+  entitySlugFromName,
+  entityUrl,
+  estimateReadingTime,
+} from '../lib/content';
+import type { ArticleEntry } from '../lib/content';
+
+interface Props {
+  article: ArticleEntry;
+  headings: Array<{ depth: number; slug: string; text: string }>;
+  relatedArticles: ArticleEntry[];
+  canonical: string;
+  schema: Array<Record<string, unknown>>;
+}
+
+const { article, headings, relatedArticles, canonical, schema } = Astro.props;
+const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
+const tocHeadings = headings.filter((heading) => heading.depth <= 2);
+---
+
+<BaseLayout
+  title={article.data.seoTitle}
+  description={article.data.metaDescription}
+  ogImage={article.data.heroImage}
+  ogImageAlt={article.data.heroImageAlt}
+  ogType="article"
+  publishedTime={article.data.publishedAt}
+  modifiedTime={article.data.updatedAt}
+  schema={schema}
+>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section article-hero">
+        <Breadcrumbs
+          items={[
+            { label: 'Home', href: '/' },
+            { label: 'Blog', href: '/blog/' },
+            { label: article.data.category, href: categoryUrl(article.data.categories[0].toLowerCase().replace(/[^a-z0-9]+/g, '-')) },
+            { label: article.data.title },
+          ]}
+        />
+
+        <div class="article-hero-grid">
+          <div class="article-hero-copy">
+            <p class="eyebrow">{article.data.cluster}</p>
+            <h1>{article.data.title}</h1>
+            <p class="article-subtitle">{article.data.subtitle}</p>
+            <div class="article-meta-row">
+              <a href={authorUrl(author.slug)}>{author.name}</a>
+              <span>{dateLabel(article.data.publishedAt)}</span>
+              <span>Updated {dateLabel(article.data.updatedAt ?? article.data.publishedAt)}</span>
+              <span>{estimateReadingTime(article.body)} min read</span>
+            </div>
+            <div class="article-chip-row">
+              {article.data.categories.map((category) => (
+                <a class="article-chip" href={categoryUrl(categorySlugFromName(category))}>
+                  {category}
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <figure class="article-hero-media">
+            <img
+              src={article.data.heroImage}
+              alt={article.data.heroImageAlt}
+              width="1530"
+              height="3036"
+              loading="eager"
+              decoding="async"
+            />
+          </figure>
+        </div>
+      </section>
+
+      <section class="section article-shell">
+        <div class="article-main">
+          <slot />
+
+          <section class="article-cta-card" aria-label="Download Zebra">
+            <p class="eyebrow">Put this into practice</p>
+            <h2>{article.data.ctaLabel}</h2>
+            <p>{article.data.ctaNote}</p>
+            <a class="inline-cta" href={article.data.ctaHref}>Download Zebra</a>
+          </section>
+
+          <section class="entity-links" aria-label="Knowledge entities">
+            <p class="mini-label">Knowledge hub</p>
+            <div class="article-chip-row">
+              {article.data.entities.map((entity) => (
+                <a class="article-chip" href={entityUrl(entitySlugFromName(entity))}>
+                  {entity}
+                </a>
+              ))}
+            </div>
+          </section>
+        </div>
+
+        <aside class="article-sidebar">
+          {tocHeadings.length > 1 && (
+            <nav class="toc-card" aria-label="Table of contents">
+              <p class="mini-label">On this page</p>
+              <ol>
+                {tocHeadings.map((heading) => (
+                  <li><a href={`#${heading.slug}`}>{heading.text}</a></li>
+                ))}
+              </ol>
+            </nav>
+          )}
+
+          <div class="toc-card">
+            <p class="mini-label">Why this page exists</p>
+            <p class="toc-copy">{article.data.description}</p>
+          </div>
+
+          <div class="toc-card">
+            <p class="mini-label">Editorial review</p>
+            <p class="toc-copy">
+              Reviewed by {article.data.reviewedBy}. Last reviewed {dateLabel(article.data.lastReviewed ?? article.data.updatedAt ?? article.data.publishedAt)}.
+            </p>
+          </div>
+
+          <div class="toc-card">
+            <p class="mini-label">Direct route</p>
+            <a class="inline-link" href={canonical}>{articleUrl(article.id)}</a>
+            
+          </div>
+        </aside>
+      </section>
+
+      <RelatedArticles articles={relatedArticles} />
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

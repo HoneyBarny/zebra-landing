@@ -1,0 +1,31 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface GuideItem {
+  href: string;
+  label: string;
+  description: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: GuideItem[];
+}
+
+const { eyebrow, title, intro, items } = Astro.props;
+---
+
+<section class="section guides-section" id="popular-guides" aria-labelledby="guides-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="guides-heading" narrow={true} />
+  <div class="guides-grid">
+    {items.map((item) => (
+      <a class="guide-card" href={item.href}>
+        <strong>{item.label}</strong>
+        <p>{item.description}</p>
+        <span>Open page</span>
+      </a>
+    ))}
+  </div>
+</section>

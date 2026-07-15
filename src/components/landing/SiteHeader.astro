@@ -1,0 +1,48 @@
+---
+interface LinkItem {
+  href: string;
+  label: string;
+}
+
+interface Brand {
+  href: string;
+  name: string;
+  subtitle: string;
+  logo: {
+    src: string;
+    alt: string;
+    width: number;
+    height: number;
+  };
+}
+
+interface Props {
+  brand: Brand;
+  links: LinkItem[];
+}
+
+const { brand, links } = Astro.props;
+---
+
+<header class="site-header">
+  <a class="brand-lockup" href={brand.href} aria-label={`${brand.name} home`}>
+    <img
+      class="brand-logo"
+      src={brand.logo.src}
+      alt={brand.logo.alt}
+      width={brand.logo.width}
+      height={brand.logo.height}
+    />
+    <div>
+      <p class="eyebrow brand-name">{brand.name}</p>
+      <p class="brand-subtitle">{brand.subtitle}</p>
+    </div>
+  </a>
+  <nav class="site-nav" aria-label="Primary">
+    {links.map((link) => (
+      <a href={link.href}>
+        {link.label}
+      </a>
+    ))}
+  </nav>
+</header>

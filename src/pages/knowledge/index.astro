@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import { clusterMeta } from '../../data/content-taxonomy';
+import { homePage } from '../../data/site-content';
+import {
+  entityUrl,
+  getArticlesForEntity,
+  getEntities,
+  getPublishedArticles,
+} from '../../lib/content';
+
+const articles = getPublishedArticles(await getCollection('articles'));
+const entities = getEntities()
+  .map((entity) => ({
+    ...entity,
+    articles: getArticlesForEntity(entity.slug, articles),
+  }))
+  .sort((a, b) => {
+    if (Number(Boolean(b.featured)) !== Number(Boolean(a.featured))) {
+      return Number(Boolean(b.featured)) - Number(Boolean(a.featured));
+    }
+
+    return b.articles.length - a.articles.length;
+  });
+
+const conditionHubs = Object.values(clusterMeta).filter((cluster) =>
+  ['pots', 'dysautonomia', 'eds', 'fibromyalgia', 'long-covid', 'me-cfs'].includes(cluster.slug),
+);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Zebra Knowledge Hub',
+    description:
+      'Canonical definitions and connected articles for symptom tracking, doctor-ready reports, POTS, dysautonomia, orthostatic symptoms, and appointment preparation.',
+  },
+];
+---
+
+<BaseLayout
+  title="Zebra Knowledge Hub — Entities, Definitions, and Related Guides"
+  description="Browse Zebra’s knowledge hub for connected definitions, symptom-tracking concepts, and article clusters built around specialist appointment preparation."
+  schema={schema}
+>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section blog-hero">
+        <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Knowledge Hub' }]} />
+        <p class="eyebrow">Knowledge hub</p>
+        <h1>Connected definitions, not isolated pages.</h1>
+        <p class="blog-hero-copy">
+          These entity pages connect Zebra’s articles into one understandable map for people,
+          search engines, and AI systems.
+        </p>
+        <div class="filter-row" aria-label="Condition hubs">
+          {conditionHubs.map((cluster) => (
+            <a class="filter-chip" href={entityUrl(cluster.slug)}>
+              {cluster.name}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="knowledge-grid">
+          {entities.map((entity) => (
+            <article class="knowledge-card">
+              <p class="mini-label">{entity.articles.length} related articles</p>
+              <h2><a href={entityUrl(entity.slug)}>{entity.name}</a></h2>
+              <p>{entity.summary}</p>
+              <div class="article-chip-row">
+                {entity.clusters.slice(0, 3).map((item) => (
+                  <span class="article-chip">
+                    {clusterMeta[item as keyof typeof clusterMeta]?.name ?? item}
+                  </span>
+                ))}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

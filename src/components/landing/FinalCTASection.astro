@@ -1,0 +1,31 @@
+---
+import AppStoreBadge from './AppStoreBadge.astro';
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  body: string;
+  endState: string;
+  trustLine: string;
+  appStoreURL: string;
+  appStoreBadgeURL: string;
+}
+
+const { eyebrow, title, body, endState, trustLine, appStoreURL, appStoreBadgeURL } = Astro.props;
+---
+
+<section class="section final-cta-band" aria-labelledby="final-cta-heading">
+  <div class="final-cta-inner">
+    <p class="eyebrow">{eyebrow}</p>
+    <h2 id="final-cta-heading">{title}</h2>
+    <p>{body}</p>
+    <div class="final-cta-points" aria-label="Why download Zebra">
+      <span>Track daily</span>
+      <span>See the pattern</span>
+      <span>Export the report</span>
+    </div>
+    <p class="final-end-state">{endState}</p>
+    <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} className="final-store-button" />
+    <p class="footnote">{trustLine}</p>
+  </div>
+</section>

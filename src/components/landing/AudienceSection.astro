@@ -1,0 +1,36 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface Props {
+  id: string;
+  eyebrow: string;
+  title: string;
+  intro: string;
+  groups: Array<{
+    title: string;
+    items: string[];
+  }>;
+  quickAnswer: string[];
+  footnote: string;
+}
+
+const { id, eyebrow, title, intro, groups, quickAnswer, footnote } = Astro.props;
+---
+
+<section class="section section-band section-band--soft" id={id} aria-labelledby={`${id}-heading`}>
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id={`${id}-heading`} narrow={true} />
+  <div class="audience-quick-answer" aria-label="Why people choose Zebra">
+    {quickAnswer.map((item) => <span>{item}</span>)}
+  </div>
+  <div class="audience-groups">
+    {groups.map((group) => (
+      <article class="audience-group">
+        <h3>{group.title}</h3>
+        <ul class="audience-list" aria-label={group.title}>
+          {group.items.map((item) => <li>{item}</li>)}
+        </ul>
+      </article>
+    ))}
+  </div>
+  <p class="audience-footnote">{footnote}</p>
+</section>

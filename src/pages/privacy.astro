@@ -1,89 +1,43 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { privacyPage } from '../data/site-content';
 ---
 
 <BaseLayout
-	title="Privacy Policy — Zebra"
-	description="Privacy policy for Zebra, a symptom tracker for POTS, EDS, and Fibromyalgia."
+	title={privacyPage.seo.title}
+	description={privacyPage.seo.description}
 >
-	<div class="legal-shell">
-		<a class="legal-back" href="/">← Back to Zebra</a>
+	<main class="legal-shell">
+		<a class="legal-back" href={privacyPage.backHref}>{`← ${privacyPage.backLabel}`}</a>
 		<div class="legal-card">
-			<p class="eyebrow">Privacy</p>
-			<h1>Privacy Policy</h1>
-			<p class="legal-updated">Last updated: May 18, 2026</p>
+			<p class="eyebrow">{privacyPage.eyebrow}</p>
+			<h1>{privacyPage.title}</h1>
+			<p class="legal-updated">{privacyPage.updated}</p>
 
-			<p>
-				Zebra is a symptom tracker for people with POTS, EDS, and Fibromyalgia. This policy
-				covers both the Zebra app and this website.
-			</p>
+			{privacyPage.intro.map((paragraph) => <p>{paragraph}</p>)}
 
-			<h2>App health data</h2>
-			<p>
-				All health information you enter in the Zebra app — including daily check-ins, flare
-				logs, orthostatic test results, symptoms, medications, and salt and hydration entries —
-				is stored locally on your device using Apple's SwiftData framework. This data is synced
-				privately to your personal iCloud account via CloudKit. We never receive, access, or
-				store your health data on our servers.
-			</p>
+			{privacyPage.sections.map((section) => (
+				<>
+					<h2>{section.heading}</h2>
+					{section.paragraphs.map((paragraph, index) => (
+						<p>
+							{paragraph}
+							{section.appendContactEmail && index === section.paragraphs.length - 1 && (
+								<>
+									{' '}
+									<a href={`mailto:${privacyPage.contactEmail}`}>{privacyPage.contactEmail}</a>.
+								</>
+							)}
+						</p>
+					))}
+				</>
+			))}
 
-			<h2>Apple Health (HealthKit)</h2>
-			<p>
-				If you grant permission, Zebra reads heart rate data from Apple Health to support the
-				orthostatic test flow. Zebra does not write data back to Apple Health and does not share
-				HealthKit data with any third party. You can revoke this permission at any time in
-				iOS Settings → Health → Data Access & Devices.
-			</p>
-
-			<h2>Notifications</h2>
-			<p>
-				If you enable daily reminders, Zebra uses local notifications delivered entirely on
-				your device. No notification content leaves your device. You can manage or disable
-				notifications in iOS Settings → Zebra.
-			</p>
-
-			<h2>Doctor reports</h2>
-			<p>
-				PDF doctor reports are generated on your device from the data you have entered. Zebra
-				does not upload, transmit, or store these reports. You decide if and where to share
-				any export.
-			</p>
-
-			<h2>Subscriptions</h2>
-			<p>
-				Zebra Premium subscriptions are processed entirely through Apple. We do not collect,
-				see, or store your payment information. Subscription management is handled through
-				your Apple ID account.
-			</p>
-
-			<h2>Website and waitlist</h2>
-			<p>
-				If you join the waitlist or contact us via this website, we may collect your email
-				address and any information you voluntarily include. We use this to send updates about
-				Zebra and reply to questions. We do not sell your personal information. We may use
-				third-party services such as email or hosting providers to manage communications.
-			</p>
-
-			<h2>Data retention</h2>
-			<p>
-				We retain waitlist and contact information only as long as necessary to communicate
-				with interested users. App health data lives on your device and iCloud account and
-				is not held by us.
-			</p>
-
-			<h2>Your choices</h2>
-			<p>
-				You can delete all app data by deleting the Zebra app from your device. To request
-				removal of waitlist or contact information, email us at
-				<a href="mailto:riznewhite@gmail.com">riznewhite@gmail.com</a>.
-			</p>
-
-			<h2>Medical information</h2>
-			<p>
-				Zebra is not a medical provider. Nothing in this app or on this website constitutes
-				medical advice, diagnosis, or treatment. Always consult a qualified medical professional
-				for medical decisions.
-			</p>
+			<nav class="support-links" aria-label="Privacy links">
+				{privacyPage.relatedLinks.map((link) => (
+					<a href={link.href}>{link.label}</a>
+				))}
+			</nav>
 		</div>
-	</div>
+	</main>
 </BaseLayout>

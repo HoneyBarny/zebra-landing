@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import { authorProfiles } from '../../data/content-taxonomy';
+import { homePage } from '../../data/site-content';
+import { authorUrl, getBreadcrumbSchema, getPublishedArticles } from '../../lib/content';
+
+const articles = getPublishedArticles(await getCollection('articles'));
+const authors = Object.values(authorProfiles).map((author) => ({
+  ...author,
+  articleCount: articles.filter((article) => article.data.author === author.slug).length,
+}));
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Zebra Authors',
+    description: 'Editorial profiles behind Zebra’s symptom-tracking, appointment-preparation, and knowledge-hub content.',
+  },
+  getBreadcrumbSchema([
+    { name: 'Home', item: '/' },
+    { name: 'Authors', item: '/authors/' },
+  ]),
+];
+---
+
+<BaseLayout title="Zebra Authors" description="Editorial profiles behind Zebra’s knowledge hub." schema={schema}>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section category-hero">
+        <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Authors' }]} />
+        <p class="eyebrow">Editorial</p>
+        <h1>Who publishes the knowledge hub.</h1>
+      </section>
+
+      <section class="section">
+        <div class="knowledge-grid">
+          {authors.map((author) => (
+            <article class="knowledge-card">
+              <p class="mini-label">{author.articleCount} articles</p>
+              <h2><a href={authorUrl(author.slug)}>{author.name}</a></h2>
+              <p>{author.bio}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

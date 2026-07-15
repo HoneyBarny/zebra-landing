@@ -1,0 +1,50 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import {
+  articleUrl,
+  getArticleSchema,
+  getBreadcrumbSchema,
+  getFaqSchema,
+  getPublishedArticles,
+  getRelatedArticles,
+} from '../../lib/content';
+
+export async function getStaticPaths() {
+  const articles = getPublishedArticles(await getCollection('articles'));
+
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article, articles },
+  }));
+}
+
+const { article, articles } = Astro.props;
+const { Content, headings } = await render(article);
+const canonical = new URL(articleUrl(article.id), Astro.site).toString();
+
+const schema = [
+  getArticleSchema(article, canonical),
+  getBreadcrumbSchema([
+    { name: 'Home', item: '/' },
+    { name: 'Blog', item: '/blog/' },
+    { name: article.data.title, item: articleUrl(article.id) },
+  ]),
+].filter(Boolean);
+
+const faqSchema = getFaqSchema(article);
+if (faqSchema) schema.push(faqSchema);
+
+const relatedArticles = getRelatedArticles(article, articles);
+---
+
+<ArticleLayout
+  article={article}
+  headings={headings}
+  relatedArticles={relatedArticles}
+  canonical={canonical}
+  schema={schema}
+>
+  <Content />
+</ArticleLayout>

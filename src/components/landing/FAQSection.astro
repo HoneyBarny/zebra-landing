@@ -1,0 +1,28 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  items: FaqItem[];
+}
+
+const { eyebrow, title, items } = Astro.props;
+---
+
+<section class="section faq-section" id="faq" aria-labelledby="faq-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} id="faq-heading" narrow={true} />
+  <div class="faq-list">
+    {items.map((item, index) => (
+      <details class="faq-item" open={index === 0}>
+        <summary>{item.question}</summary>
+        <p>{item.answer}</p>
+      </details>
+    ))}
+  </div>
+</section>

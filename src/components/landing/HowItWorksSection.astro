@@ -1,0 +1,34 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface StepItem {
+  label: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  timeline: string[];
+  steps: StepItem[];
+}
+
+const { eyebrow, title, intro, timeline, steps } = Astro.props;
+---
+
+<section class="section" id="how-it-works" aria-labelledby="how-it-works-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="how-it-works-heading" narrow={true} />
+  <div class="journey-line" aria-label="Journey from symptom to appointment">
+    {timeline.map((item) => <span>{item}</span>)}
+  </div>
+  <ol class="steps-grid">
+    {steps.map((step, index) => (
+      <li class="step-card">
+        <span class="step-number">0{index + 1}</span>
+        <h3>{step.label}</h3>
+        <p>{step.body}</p>
+      </li>
+    ))}
+  </ol>
+</section>

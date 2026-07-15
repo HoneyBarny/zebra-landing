@@ -1,0 +1,97 @@
+---
+import PhoneShowcase from './PhoneShowcase.astro';
+import SectionIntro from './SectionIntro.astro';
+
+interface CardItem {
+  eyebrow?: string;
+  title: string;
+  body: string;
+}
+
+interface MediaItem {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+}
+
+interface Props {
+  id: string;
+  eyebrow: string;
+  title: string;
+  intro: string;
+  body: string[];
+  momentLabel: string;
+  sequence: string[];
+  bullets: string[];
+  cards: CardItem[];
+  ctaLabel: string;
+  ctaHref: string;
+  ctaNote: string;
+  layout?: 'default' | 'reverse';
+  media: MediaItem;
+}
+
+const {
+  id,
+  eyebrow,
+  title,
+  intro,
+  body,
+  momentLabel,
+  sequence,
+  bullets,
+  cards,
+  ctaLabel,
+  ctaHref,
+  ctaNote,
+  layout = 'default',
+  media,
+} = Astro.props;
+---
+
+<section
+  class:list={['section section-band showcase-section', layout === 'reverse' && 'showcase-section--reverse']}
+  id={id}
+  aria-labelledby={`${id}-heading`}
+>
+  <div class="showcase-grid">
+    <div class="showcase-copy">
+      <SectionIntro eyebrow={eyebrow} title={title} body={intro} id={`${id}-heading`} narrow={true} />
+      <div class="showcase-body">
+        {body.map((paragraph) => <p>{paragraph}</p>)}
+      </div>
+      <div class="experience-strip" aria-label={momentLabel}>
+        <p class="mini-label">{momentLabel}</p>
+        <div class="experience-sequence">
+          {sequence.map((item) => <span>{item}</span>)}
+        </div>
+      </div>
+      <ul class="showcase-list" aria-label={`${title} highlights`}>
+        {bullets.map((bullet) => <li>{bullet}</li>)}
+      </ul>
+      <div class="feature-grid">
+        {cards.map((card) => (
+          <article class="feature-card">
+            {card.eyebrow && <p class="mini-label">{card.eyebrow}</p>}
+            <h3>{card.title}</h3>
+            <p>{card.body}</p>
+          </article>
+        ))}
+      </div>
+      <div class="showcase-cta">
+        <a class="text-action" href={ctaHref}>{ctaLabel}</a>
+        <p class="inline-cta-note">{ctaNote}</p>
+      </div>
+    </div>
+
+    <div class="showcase-visual">
+      <div class="showcase-visual-stage">
+        <PhoneShowcase items={[media]} />
+      </div>
+    </div>
+  </div>
+</section>

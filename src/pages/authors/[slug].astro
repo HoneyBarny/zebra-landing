@@ -1,0 +1,130 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../components/content/ArticleCard.astro';
+import { authorProfiles } from '../../data/content-taxonomy';
+import { homePage } from '../../data/site-content';
+import {
+  articleUrl,
+  dateLabel,
+  estimateReadingTime,
+  getBreadcrumbSchema,
+  getPublishedArticles,
+} from '../../lib/content';
+
+export async function getStaticPaths() {
+  const articles = getPublishedArticles(await getCollection('articles'));
+
+  return Object.values(authorProfiles).map((author) => ({
+    params: { slug: author.slug },
+    props: {
+      author,
+      articles: articles.filter((article) => article.data.author === author.slug),
+    },
+  }));
+}
+
+const { author, articles } = Astro.props;
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ProfilePage',
+    name: author.name,
+    description: author.bio,
+  },
+  getBreadcrumbSchema([
+    { name: 'Home', item: '/' },
+    { name: 'Authors', item: '/authors/' },
+    { name: author.name, item: `/authors/${author.slug}/` },
+  ]),
+];
+---
+
+<BaseLayout title={`${author.name} — Zebra`} description={author.bio} schema={schema}>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section category-hero">
+        <Breadcrumbs
+          items={[
+            { label: 'Home', href: '/' },
+            { label: 'Authors', href: '/authors/' },
+            { label: author.name },
+          ]}
+        />
+        <p class="eyebrow">Author</p>
+        <h1>{author.name}</h1>
+        <p class="blog-hero-copy">{author.bio}</p>
+      </section>
+
+      <section class="section section-band section-band--soft">
+        <div class="feature-grid">
+          <article class="feature-card">
+            <p class="mini-label">Editorial policy</p>
+            <h2>How Zebra publishes</h2>
+            <p>{author.editorialPolicy}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Research methodology</p>
+            <h2>How pages are built</h2>
+            <p>{author.researchMethodology}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Review process</p>
+            <h2>How accuracy is protected</h2>
+            <p>{author.reviewMethodology}</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="feature-grid">
+          <article class="feature-card">
+            <p class="mini-label">Update policy</p>
+            <p>{author.updatePolicy}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Sources policy</p>
+            <p>{author.sourcesPolicy}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Citation standards</p>
+            <p>{author.citationStandards}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Medical disclaimer</p>
+            <p>{author.medicalDisclaimer}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">Content freshness</p>
+            <p>{author.contentFreshnessPolicy}</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="article-grid">
+          {articles.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt)}
+              readingTime={estimateReadingTime(article.body)}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

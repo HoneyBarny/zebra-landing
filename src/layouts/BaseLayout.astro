@@ -1,36 +1,75 @@
 ---
 import '../styles/global.css';
+import { siteConfig } from '../data/site-config';
 
 interface Props {
-  title?: string;
-  description?: string;
-  noindex?: boolean;
+	title?: string;
+	description?: string;
+	noindex?: boolean;
+	ogImage?: string;
+	ogImageAlt?: string;
+	ogType?: string;
+	publishedTime?: string;
+	modifiedTime?: string;
+	schema?: Array<Record<string, unknown>>;
 }
 
 const {
-  title = 'Zebra — Symptom Tracker for POTS, EDS & Fibromyalgia',
-  description = 'Track flares, orthostatic vitals, salt, hydration, and symptoms in one calm place. Built to help you walk into appointments with proof.',
-  noindex = false,
+	title = 'Zebra Symptom Tracker for POTS, EDS & Fibromyalgia',
+	description = 'Track flares, orthostatic vitals, symptoms, salt, hydration, and medications in one place. Export a doctor-ready report for specialist appointments.',
+	noindex = false,
+	ogImage,
+	ogImageAlt,
+	ogType = 'website',
+	publishedTime,
+	modifiedTime,
+	schema = [],
 } = Astro.props;
 
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const resolvedOgImage = ogImage
+	? Astro.site
+		? new URL(ogImage, Astro.site).toString()
+		: ogImage
+	: undefined;
 ---
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
+		<link rel="icon" type="image/svg+xml" href={siteConfig.assets.favicon.svg} />
+		<link rel="icon" href={siteConfig.assets.favicon.ico} />
+		<link rel="alternate" type="application/rss+xml" title="Zebra Blog RSS" href="/rss.xml" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap"
+		/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="generator" content={Astro.generator} />
+		<meta name="theme-color" content="#faf7f9" />
 		<title>{title}</title>
 		<meta name="description" content={description} />
 		{canonical && <link rel="canonical" href={canonical} />}
 		<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
-		<meta property="og:type" content="website" />
+		<meta property="og:type" content={ogType} />
+		<meta property="og:site_name" content="Zebra" />
 		{canonical && <meta property="og:url" content={canonical} />}
+		{resolvedOgImage && <meta property="og:image" content={resolvedOgImage} />}
+		{ogImageAlt && <meta property="og:image:alt" content={ogImageAlt} />}
+		{publishedTime && <meta property="article:published_time" content={publishedTime} />}
+		{modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+		<meta name="twitter:card" content={resolvedOgImage ? 'summary_large_image' : 'summary'} />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		{resolvedOgImage && <meta name="twitter:image" content={resolvedOgImage} />}
+		{ogImageAlt && <meta name="twitter:image:alt" content={ogImageAlt} />}
+		{schema.map((entry) => (
+			<script type="application/ld+json" set:html={JSON.stringify(entry)} />
+		))}
 	</head>
 	<body>
 		<slot />

@@ -1,0 +1,96 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface DifferenceItem {
+  label: string;
+  generic: string;
+  zebra: string;
+}
+
+interface ConditionItem {
+  name: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  answer: string;
+  differencesTitle: string;
+  differences: DifferenceItem[];
+  conditionsTitle: string;
+  conditionsIntro: string;
+  conditions: ConditionItem[];
+  trustTitle: string;
+  trustBody: string;
+  trustItems: string[];
+}
+
+const {
+  eyebrow,
+  title,
+  intro,
+  answer,
+  differencesTitle,
+  differences,
+  conditionsTitle,
+  conditionsIntro,
+  conditions,
+  trustTitle,
+  trustBody,
+  trustItems,
+} = Astro.props;
+---
+
+<section class="section seo-content-section section-band" id="why-zebra" aria-labelledby="why-zebra-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="why-zebra-heading" narrow={true} />
+
+  <p class="answer-block seo-answer">{answer}</p>
+
+  <div class="seo-comparison" aria-labelledby="seo-comparison-heading">
+    <h3 id="seo-comparison-heading">{differencesTitle}</h3>
+    <div class="seo-comparison-grid">
+      {differences.map((item) => (
+        <article class="seo-comparison-card">
+          <p class="mini-label">{item.label}</p>
+          <div>
+            <strong>Generic tracker</strong>
+            <p>{item.generic}</p>
+          </div>
+          <div>
+            <strong>Zebra</strong>
+            <p>{item.zebra}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+
+  <div class="seo-conditions" aria-labelledby="seo-conditions-heading">
+    <div class="section-intro section-intro--narrow">
+      <p class="eyebrow">Condition-specific tracking</p>
+      <h3 id="seo-conditions-heading">{conditionsTitle}</h3>
+      <p class="section-intro-body">{conditionsIntro}</p>
+    </div>
+    <div class="seo-condition-grid">
+      {conditions.map((item) => (
+        <article class="seo-condition-card">
+          <strong>{item.name}</strong>
+          <p>{item.body}</p>
+        </article>
+      ))}
+    </div>
+  </div>
+
+  <aside class="seo-trust-block" aria-labelledby="seo-trust-heading">
+    <div>
+      <p class="mini-label">Medical safety boundary</p>
+      <h3 id="seo-trust-heading">{trustTitle}</h3>
+      <p>{trustBody}</p>
+    </div>
+    <ul>
+      {trustItems.map((item) => <li>{item}</li>)}
+    </ul>
+  </aside>
+</section>

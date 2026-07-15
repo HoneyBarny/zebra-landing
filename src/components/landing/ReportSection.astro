@@ -1,0 +1,129 @@
+---
+import AppStoreBadge from './AppStoreBadge.astro';
+import PhoneShowcase from './PhoneShowcase.astro';
+
+interface Media {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  answer: string;
+  body: string[];
+  bullets: string[];
+  preview: {
+    eyebrow: string;
+    title: string;
+    body: string;
+    items: Array<{
+      label: string;
+      body: string;
+    }>;
+  };
+  proofLabel: string;
+  proofTitle: string;
+  proofBody: string;
+  outcomesLabel: string;
+  outcomes: string[];
+  comparison: Array<{
+    label: string;
+    title: string;
+    points: string[];
+  }>;
+  ctaNote: string;
+  media: Media;
+  appStoreURL: string;
+  appStoreBadgeURL: string;
+}
+
+const {
+  eyebrow,
+  title,
+  answer,
+  body,
+  bullets,
+  preview,
+  proofLabel,
+  proofTitle,
+  proofBody,
+  outcomesLabel,
+  outcomes,
+  comparison,
+  ctaNote,
+  media,
+  appStoreURL,
+  appStoreBadgeURL,
+} = Astro.props;
+---
+
+<section class="section report-section section-band" id="doctor-report" aria-labelledby="report-heading">
+  <p class="eyebrow">{eyebrow}</p>
+  <h2 id="report-heading">{title}</h2>
+  <div class="report-grid">
+    <div class="report-copy">
+      <p class="answer-block">{answer}</p>
+      <div class="report-flow" aria-label="Tracking becomes a doctor-ready report">
+        <span>30-day history</span>
+        <span>Patterns</span>
+        <span>Doctor-ready PDF</span>
+        <span>Appointment</span>
+      </div>
+      {body.map((paragraph) => <p>{paragraph}</p>)}
+      <ul class="report-list">
+        {bullets.map((bullet) => <li>{bullet}</li>)}
+      </ul>
+      <div class="report-preview-panel" aria-label={preview.title}>
+        <div class="report-preview-intro">
+          <p class="mini-label">{preview.eyebrow}</p>
+          <h3>{preview.title}</h3>
+          <p>{preview.body}</p>
+        </div>
+        <div class="report-preview-grid">
+          {preview.items.map((item) => (
+            <article class="report-preview-card">
+              <strong>{item.label}</strong>
+              <p>{item.body}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+      <div class="report-proof-block">
+        <p class="mini-label">{proofLabel}</p>
+        <strong>{proofTitle}</strong>
+        <p>{proofBody}</p>
+      </div>
+      <div class="report-outcomes" aria-label={outcomesLabel}>
+        <p class="mini-label">{outcomesLabel}</p>
+        <ul class="report-outcomes-list">
+          {outcomes.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+      <div class="report-compare" aria-label="Before and after using Zebra">
+        {comparison.map((column) => (
+          <article class="report-compare-card">
+            <p class="mini-label">{column.label}</p>
+            <h3>{column.title}</h3>
+            <ul>
+              {column.points.map((point) => <li>{point}</li>)}
+            </ul>
+          </article>
+        ))}
+      </div>
+      <div class="inline-cta-row">
+        <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} />
+        <p class="inline-cta-note">{ctaNote}</p>
+      </div>
+    </div>
+
+    <div class="report-visual">
+      <PhoneShowcase items={[media]} />
+    </div>
+  </div>
+</section>

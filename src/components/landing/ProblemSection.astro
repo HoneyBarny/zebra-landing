@@ -1,0 +1,38 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  statement: string;
+  support: string;
+  flowLabel: string;
+  bullets: string[];
+  quotes: string[];
+}
+
+const { eyebrow, title, statement, support, flowLabel, bullets, quotes } = Astro.props;
+---
+
+<section class="section problem-section" aria-labelledby="problem-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} id="problem-heading" narrow={true} />
+  <div class="problem-grid">
+    <div class="problem-copy">
+      <p class="mini-label">{flowLabel}</p>
+      <div class="problem-flow" aria-label="Scattered tracking becomes one clear record">
+        <span>Notes</span>
+        <span>Screenshots</span>
+        <span>Memory</span>
+        <span>Zebra</span>
+      </div>
+      <p class="problem-statement">{statement}</p>
+      <p>{support}</p>
+      <ul class="problem-list" aria-label="Core frustrations">
+        {bullets.map((bullet) => <li>{bullet}</li>)}
+      </ul>
+    </div>
+    <div class="problem-quotes" aria-label="Customer language highlights">
+      {quotes.map((quote) => <blockquote>"{quote}"</blockquote>)}
+    </div>
+  </div>
+</section>

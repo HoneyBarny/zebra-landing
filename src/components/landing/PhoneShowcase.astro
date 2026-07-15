@@ -1,0 +1,47 @@
+---
+import PhoneMedia from './PhoneMedia.astro';
+
+interface ShowcaseItem {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+}
+
+interface Props {
+  items: ShowcaseItem[];
+  variant?: 'hero' | 'single';
+  priorityFirst?: boolean;
+}
+
+const { items, variant = 'single', priorityFirst = false } = Astro.props;
+const [primary, ...secondary] = items;
+---
+
+<div class:list={['phone-showcase', `phone-showcase--${variant}`]}>
+  {primary && (
+    <div class="phone-showcase-primary">
+      <div class="phone-showcase-glow" aria-hidden="true"></div>
+      <PhoneMedia
+        {...primary}
+        loading={priorityFirst ? 'eager' : 'lazy'}
+        priority={priorityFirst}
+        shell={variant === 'hero' ? 'hero' : 'default'}
+      />
+    </div>
+  )}
+
+  {secondary.length > 0 && (
+    <div class="phone-showcase-stack" aria-hidden="true">
+      {secondary.map((item) => (
+        <div class="phone-showcase-stack-item">
+          <div class="phone-showcase-chip">{item.meta ?? item.label}</div>
+          <PhoneMedia {...item} shell="default" hideMeta={true} />
+        </div>
+      ))}
+    </div>
+  )}
+</div>

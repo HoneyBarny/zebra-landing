@@ -1,0 +1,84 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface TrustItem {
+  title: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  highlight: {
+    eyebrow: string;
+      title: string;
+      body: string;
+  };
+  calmState: {
+    eyebrow: string;
+    title: string;
+    body: string;
+  };
+  items: TrustItem[];
+  links: Array<{
+    label: string;
+    href: string;
+  }>;
+  resources?: Array<{
+    eyebrow: string;
+    title: string;
+    body: string;
+    href: string;
+  }>;
+}
+
+const { eyebrow, title, intro, highlight, calmState, items, links, resources = [] } = Astro.props;
+---
+
+<section class="section section-band trust-section" aria-labelledby="trust-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="trust-heading" narrow={true} />
+  <div class="trust-layout">
+    <article class="trust-highlight">
+      <p class="mini-label">{highlight.eyebrow}</p>
+      <h3>{highlight.title}</h3>
+      <p>{highlight.body}</p>
+      <div class="trust-calm-state">
+        <p class="mini-label">{calmState.eyebrow}</p>
+        <strong>{calmState.title}</strong>
+        <p>{calmState.body}</p>
+      </div>
+      <div class="trust-links" aria-label="Trust resources">
+        {links.map((link) => (
+          <a class="text-action" href={link.href}>{link.label}</a>
+        ))}
+      </div>
+    </article>
+    <div class="trust-grid">
+      {items.map((item) => (
+        <article class="trust-card">
+          <h3>{item.title}</h3>
+          <p>{item.body}</p>
+        </article>
+      ))}
+    </div>
+  </div>
+  {resources.length > 0 && (
+    <div class="trust-resources">
+      <div class="section-intro section-intro--narrow">
+        <p class="eyebrow">Editorial trust</p>
+        <h3>See how Zebra maintains its content and knowledge hub.</h3>
+      </div>
+      <div class="guides-grid">
+        {resources.map((resource) => (
+          <a class="guide-card" href={resource.href}>
+            <p class="mini-label">{resource.eyebrow}</p>
+            <strong>{resource.title}</strong>
+            <p>{resource.body}</p>
+            <span>Open page</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+</section>

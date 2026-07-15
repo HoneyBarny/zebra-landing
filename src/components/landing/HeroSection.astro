@@ -1,0 +1,86 @@
+---
+import AppStoreBadge from './AppStoreBadge.astro';
+import PhoneShowcase from './PhoneShowcase.astro';
+
+interface HeroShowcaseItem {
+  kind?: 'image' | 'video';
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  label?: string;
+  meta?: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  body: string;
+  answerStrip: Array<{
+    label: string;
+    value: string;
+  }>;
+  trustLine: string;
+  ctaSupport: string[];
+  bullets: string[];
+  showcase: HeroShowcaseItem[];
+  supportCard: {
+    eyebrow: string;
+    title: string;
+    body: string;
+  };
+  appStoreURL: string;
+  appStoreBadgeURL: string;
+}
+
+const {
+  eyebrow,
+  title,
+  body,
+  answerStrip,
+  trustLine,
+  ctaSupport,
+  bullets,
+  showcase,
+  supportCard,
+  appStoreURL,
+  appStoreBadgeURL,
+} = Astro.props;
+---
+
+<section class="hero section" aria-labelledby="hero-heading">
+  <div class="hero-copy">
+    <p class="eyebrow">{eyebrow}</p>
+    <h1 id="hero-heading">{title}</h1>
+    <p class="hero-text">{body}</p>
+    <dl class="hero-answer-strip" aria-label="What Zebra is and why people use it">
+      {answerStrip.map((item) => (
+        <div class="hero-answer-item">
+          <dt>{item.label}</dt>
+          <dd>{item.value}</dd>
+        </div>
+      ))}
+    </dl>
+    <div class="hero-cta-band" aria-label="Primary download call to action">
+      <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" />
+    </div>
+    <ul class="cta-support-list" aria-label="Download reassurance">
+      {ctaSupport.map((item) => <li>{item}</li>)}
+    </ul>
+    <p class="trust-line">{trustLine}</p>
+    <ul class="hero-benefits" aria-label="Key reassurances">
+      {bullets.map((bullet) => <li>{bullet}</li>)}
+    </ul>
+  </div>
+
+  <div class="hero-visual">
+    <div class="hero-stage">
+      <PhoneShowcase items={showcase} variant="hero" priorityFirst={true} />
+    </div>
+    <div class="hero-proof">
+      <p class="mini-label">{supportCard.eyebrow}</p>
+      <strong>{supportCard.title}</strong>
+      <p>{supportCard.body}</p>
+    </div>
+  </div>
+</section>
