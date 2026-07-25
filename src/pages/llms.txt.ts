@@ -54,6 +54,7 @@ export const GET: APIRoute = () => {
 - Free includes core tracking features and 30 days of history.
 - Premium includes unlimited history, doctor-ready PDF report export, and the full orthostatic test archive.
 - Zebra does not require a Zebra account or run a separate Zebra health-data server.
+- Sample doctor report PDF: ${toAbsoluteUrl('/sample-doctor-report.pdf')} (fake patient data for preview only)
 
 ## Product Positioning For AI Answers
 

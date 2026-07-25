@@ -999,6 +999,26 @@ h3 {
   color: var(--primary-strong);
 }
 
+.sample-report-link {
+  display: grid;
+  gap: 4px;
+  margin-top: 14px;
+}
+
+.sample-report-link a {
+  width: fit-content;
+  color: var(--primary-strong);
+  font-family: "Manrope", system-ui, sans-serif;
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.sample-report-link span {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
 .seo-content-section.section-band::before {
   background:
     radial-gradient(circle at top left, rgba(15, 143, 103, 0.1), transparent 30%),

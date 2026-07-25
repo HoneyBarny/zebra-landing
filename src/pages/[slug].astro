@@ -27,6 +27,7 @@ const { page } = Astro.props as { page: SearchPage };
 const canonical = getSearchPageUrl(page);
 const reviewIsoDate = '2026-07-25';
 const reportPreview = screenshots.appointmentPreparation;
+const sampleReportHref = '/sample-doctor-report.pdf';
 const schema = [
   getSoftwareApplicationSchema(page),
   {
@@ -203,6 +204,10 @@ const schema = [
               <li>Orthostatic observations connected to daily symptom context</li>
               <li>Designed to reduce memory work, not replace medical care</li>
             </ul>
+            <p class="sample-report-link">
+              <a href={sampleReportHref} target="_blank" rel="noopener noreferrer">View sample doctor report PDF</a>
+              <span>Uses fake patient data for preview only.</span>
+            </p>
           </article>
           <div class="search-page-report-media">
             <PhoneMedia

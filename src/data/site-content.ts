@@ -334,7 +334,7 @@ export const homePage = {
     bullets: [
       'Symptoms, flares, meds, and triggers together in one dated history',
       'Orthostatic vitals, hydration, and salt kept beside the rest of the timeline',
-      'Functional impact and notes preserved before brain fog erases detail',
+      'Notes and appointment context preserved before brain fog erases detail',
       'Questions and changes worth discussing before the visit',
       'Careful in its claims and not a diagnostic or treatment tool',
     ],
@@ -357,10 +357,15 @@ export const homePage = {
           body: 'The context that helps explain what changed around a flare.',
         },
         {
-          label: 'Function and notes',
-          body: 'Functional impact, notes, and appointment questions worth discussing before the visit ends.',
+          label: 'Notes and questions',
+          body: 'Notes, symptom context, and appointment questions worth discussing before the visit ends.',
         },
       ],
+    },
+    sampleReport: {
+      href: '/sample-doctor-report.pdf',
+      label: 'View sample doctor report PDF',
+      note: 'Uses fake patient data for preview only.',
     },
     proofLabel: 'The outcome',
     proofTitle: 'The doctor report is the payoff.',

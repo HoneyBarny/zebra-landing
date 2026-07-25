@@ -27,6 +27,11 @@ interface Props {
       body: string;
     }>;
   };
+  sampleReport?: {
+    href: string;
+    label: string;
+    note: string;
+  };
   proofLabel: string;
   proofTitle: string;
   proofBody: string;
@@ -50,6 +55,7 @@ const {
   body,
   bullets,
   preview,
+  sampleReport,
   proofLabel,
   proofTitle,
   proofBody,
@@ -84,6 +90,12 @@ const {
           <p class="mini-label">{preview.eyebrow}</p>
           <h3>{preview.title}</h3>
           <p>{preview.body}</p>
+          {sampleReport && (
+            <p class="sample-report-link">
+              <a href={sampleReport.href} target="_blank" rel="noopener noreferrer">{sampleReport.label}</a>
+              <span>{sampleReport.note}</span>
+            </p>
+          )}
         </div>
         <div class="report-preview-grid">
           {preview.items.map((item) => (
