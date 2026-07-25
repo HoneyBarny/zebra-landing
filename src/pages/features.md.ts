@@ -24,6 +24,17 @@ Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomi
 - Gentle daily reminders users can control
 - Doctor-ready PDF report export with Premium
 
+## Entity Facts
+
+- Zebra is available for iPhone on the Apple App Store.
+- Zebra is built for POTS, EDS/hEDS, Fibromyalgia, dysautonomia, Long COVID, ME/CFS, and overlapping invisible illness.
+- Zebra's core job is tracking patient-entered history and preparing doctor-ready reports.
+- Zebra's free tier includes core tracking features and 30 days of history.
+- Zebra Premium includes unlimited history, doctor-ready PDF report export, and the full orthostatic test archive.
+- Zebra reads Apple Health heart-rate data only if the user grants HealthKit permission.
+- Zebra uses local notifications for daily reminders only if the user enables reminders.
+- Zebra does not require a Zebra account.
+
 ## Product Boundaries
 
 - Zebra is not a diagnostic tool.

@@ -2,7 +2,7 @@ export const screenshots = {
   dailyCheckIn: {
     id: 'daily-check-in',
     src: '/screenshots/daily-tracking.png',
-    alt: 'Zebra iPhone symptom tracker check-in for POTS, dysautonomia, EDS, and Fibromyalgia showing symptoms, triggers, hydration, medications, function, and notes in one record.',
+    alt: 'Zebra iPhone symptom tracker check-in for POTS, dysautonomia, EDS, and Fibromyalgia showing symptoms, triggers, hydration, medications, and notes in one record.',
     width: 1530,
     height: 3036,
     label: 'Daily check-in',

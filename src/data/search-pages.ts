@@ -3,6 +3,7 @@ import { siteConfig, toAbsoluteUrl } from './site-config';
 export interface SearchPage {
   slug: string;
   kind: 'condition' | 'feature' | 'comparison';
+  lastReviewed: string;
   title: string;
   description: string;
   eyebrow: string;
@@ -13,6 +14,8 @@ export interface SearchPage {
   why: string[];
   tracksTitle: string;
   tracks: string[];
+  bestFor: string[];
+  notFor: string[];
   trust: string;
   cta: string;
   related: Array<{ label: string; href: string }>;
@@ -58,6 +61,8 @@ export const trustedReferences = [
   },
 ] as const;
 
+const lastReviewed = 'July 25, 2026';
+
 const defaultFaqs = [
   {
     question: 'Does Zebra diagnose POTS, EDS, Fibromyalgia, or dysautonomia?',
@@ -92,16 +97,37 @@ const commonTracks = [
 
 const commonRelated = [
   { label: 'POTS tracker', href: '/pots-tracker/' },
+  { label: 'Orthostatic vitals test', href: '/orthostatic-vitals-test/' },
+  { label: 'Flare tracker', href: '/flare-tracker/' },
   { label: 'EDS tracker', href: '/eds-tracker/' },
   { label: 'Fibromyalgia tracker', href: '/fibromyalgia-tracker/' },
   { label: 'Doctor report', href: '/doctor-report/' },
   { label: 'Zebra vs Bearable', href: '/zebra-vs-bearable/' },
   { label: 'Zebra vs Visible', href: '/zebra-vs-visible/' },
+  { label: 'Best POTS tracker apps', href: '/best-pots-symptom-tracker-apps/' },
+  { label: 'Invisible illness tracker', href: '/symptom-tracker-for-invisible-illness/' },
 ];
 
 function withDefaults(page: SearchPage): SearchPage {
   return {
     ...page,
+    lastReviewed: page.lastReviewed || lastReviewed,
+    bestFor:
+      page.bestFor.length > 0
+        ? page.bestFor
+        : [
+            'You want POTS, EDS/hEDS, Fibromyalgia, dysautonomia, and overlap symptoms in one iPhone app.',
+            'You are preparing for a doctor appointment and need a clearer history than memory or scattered notes.',
+            'You need low-energy flare tracking with symptoms, meds, salt, water, triggers, and orthostatic vitals together.',
+          ],
+    notFor:
+      page.notFor.length > 0
+        ? page.notFor
+        : [
+            'You are looking for diagnosis, treatment advice, urgent care, or medication recommendations.',
+            'You primarily want fitness goals, habit streaks, workouts, or a generic wellness dashboard.',
+            'You need Android support today.',
+          ],
     faqs: [...page.faqs, ...defaultFaqs],
     related: page.related.length > 0 ? page.related : commonRelated,
   };
@@ -111,6 +137,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'pots-tracker',
     kind: 'condition',
+    lastReviewed,
     title: 'POTS Tracker App for iPhone | Zebra Symptom Tracker',
     description:
       'Track POTS flares, symptoms, salt, water, medications, orthostatic vitals, and doctor-ready reports in one iPhone app.',
@@ -130,6 +157,8 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra helps track for POTS',
     tracks: commonTracks,
+    bestFor: [],
+    notFor: [],
     trust:
       'Talk with a clinician before changing salt, fluids, medications, compression, or activity. Zebra helps organize your history; it does not interpret symptoms or provide medical advice.',
     cta: 'Get Zebra for iPhone',
@@ -150,6 +179,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'eds-tracker',
     kind: 'condition',
+    lastReviewed,
     title: 'EDS Tracker App for iPhone | Zebra Symptom Tracker',
     description:
       'Track EDS and hEDS pain, fatigue, instability, overlap symptoms, flares, medications, notes, and doctor reports with Zebra.',
@@ -169,6 +199,8 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra helps track for EDS and hEDS',
     tracks: commonTracks,
+    bestFor: [],
+    notFor: [],
     trust:
       'EDS and HSD care decisions belong with qualified healthcare professionals. Zebra helps you track what you experience and prepare questions for care conversations.',
     cta: 'Start tracking EDS symptoms',
@@ -189,6 +221,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'fibromyalgia-tracker',
     kind: 'condition',
+    lastReviewed,
     title: 'Fibromyalgia Tracker App for Flares, Pain & Brain Fog | Zebra',
     description:
       'Track fibromyalgia flares, pain, fatigue, brain fog, medications, triggers, notes, and doctor-ready reports on iPhone.',
@@ -208,6 +241,8 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra helps track for fibromyalgia',
     tracks: commonTracks,
+    bestFor: [],
+    notFor: [],
     trust:
       'Zebra does not interpret pain or recommend treatment. Talk with a healthcare professional about diagnosis, medication, therapy, concerning symptoms, and care decisions.',
     cta: 'Track fibromyalgia flares',
@@ -228,6 +263,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'orthostatic-vitals-test',
     kind: 'feature',
+    lastReviewed,
     title: 'Orthostatic Vitals Test Tracker for iPhone | Zebra',
     description:
       'Use Zebra to track lying, sitting, and standing orthostatic vitals beside symptoms, flares, salt, water, medications, and doctor reports.',
@@ -247,6 +283,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What the Zebra orthostatic flow helps preserve',
     tracks: ['Lying observations', 'Sitting observations', 'Standing observations', ...commonTracks.slice(1)],
+    bestFor: [
+      'People who want a guided place to record lying, sitting, and standing observations.',
+      'People who want orthostatic vitals connected to symptoms, meds, salt, water, triggers, and notes.',
+      'People preparing for a cardiology or specialist visit who do not want vitals stuck in screenshots.',
+    ],
+    notFor: [
+      'People looking for Zebra to diagnose POTS or interpret whether a test result is normal.',
+      'People who need clinician-directed testing, emergency care, or treatment advice.',
+      'People who need Android support today.',
+    ],
     trust:
       'Zebra tracks observations you enter. It does not diagnose POTS, determine whether a test is normal, or replace clinician-directed testing.',
     cta: 'Track orthostatic vitals',
@@ -267,6 +313,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'doctor-report',
     kind: 'feature',
+    lastReviewed,
     title: 'Doctor-Ready Symptom Report App for iPhone | Zebra',
     description:
       'Create a doctor-ready report from flares, symptoms, meds, salt, water, orthostatic vitals, triggers, notes, and appointment context.',
@@ -286,6 +333,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra can include in the report',
     tracks: commonTracks,
+    bestFor: [
+      'People who want a 30-day symptom summary before a doctor or specialist appointment.',
+      'People who forget details under appointment pressure and want flares, meds, salt, water, triggers, notes, and orthostatic vitals in one report.',
+      'People who want a Premium PDF export after tracking their own history.',
+    ],
+    notFor: [
+      'People looking for a diagnostic report, clinician interpretation, treatment plan, or guaranteed doctor response.',
+      'People who need full export formats beyond the current PDF report workflow.',
+      'People who need Android support today.',
+    ],
     trust:
       'A report can support a clearer conversation, but it does not ensure belief, diagnosis, treatment, or any specific medical outcome.',
     cta: 'Create your first doctor report',
@@ -306,6 +363,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'flare-tracker',
     kind: 'feature',
+    lastReviewed,
     title: 'Flare Tracker App for Invisible Illness | Zebra',
     description:
       'Track chronic illness flares, severity, symptoms, triggers, medications, notes, and doctor-ready reports in under 60 seconds.',
@@ -325,6 +383,8 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra helps track during a flare',
     tracks: commonTracks,
+    bestFor: [],
+    notFor: [],
     trust:
       'Zebra is not an emergency tool. Seek urgent care or emergency services for concerning, severe, or rapidly worsening symptoms.',
     cta: 'Start tracking flares',
@@ -345,6 +405,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'symptom-tracker-for-invisible-illness',
     kind: 'feature',
+    lastReviewed,
     title: 'Symptom Tracker for Invisible Illness | Zebra',
     description:
       'Zebra is an iPhone symptom tracker for invisible illness, brain fog, flare days, orthostatic vitals, and doctor-ready reports.',
@@ -364,6 +425,8 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'What Zebra keeps in one place',
     tracks: commonTracks,
+    bestFor: [],
+    notFor: [],
     trust:
       'Zebra supports self-organization and care conversations. It is not a diagnostic tool, treatment plan, or replacement for medical advice.',
     cta: 'Download Zebra',
@@ -384,6 +447,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'zebra-vs-bearable',
     kind: 'comparison',
+    lastReviewed,
     title: 'Zebra vs Bearable for POTS, EDS & Fibromyalgia Tracking',
     description:
       'Compare Zebra vs Bearable for chronic illness tracking, POTS, EDS, Fibromyalgia, orthostatic vitals, and doctor reports.',
@@ -402,6 +466,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Where Zebra is strongest',
     tracks: commonTracks,
+    bestFor: [
+      'Choose Zebra if you want condition-aware tracking for POTS, EDS/hEDS, Fibromyalgia, orthostatic vitals, and appointment reports.',
+      'Choose Zebra if heavy setup or blank-page tracking is hard on flare days.',
+      'Choose Zebra if the main payoff is a doctor-ready PDF report with Premium.',
+    ],
+    notFor: [
+      'Bearable may be a better fit if you want a broad, highly customizable tracker across many personal factors.',
+      'Bearable may be a better fit if you already have a setup that works and do not need POTS/EDS/Fibromyalgia-specific structure.',
+      'Zebra is not a diagnosis, treatment, or emergency tool.',
+    ],
     trust:
       'This comparison is based on product positioning and public-facing feature fit. It is not medical advice and does not attack competitor users.',
     cta: 'Try Zebra for appointment prep',
@@ -431,6 +505,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'zebra-vs-visible',
     kind: 'comparison',
+    lastReviewed,
     title: 'Zebra vs Visible for Chronic Illness Tracking',
     description:
       'Compare Zebra vs Visible for POTS, EDS, Fibromyalgia, pacing, flare tracking, orthostatic vitals, and doctor appointment reports.',
@@ -449,6 +524,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Where Zebra is strongest',
     tracks: commonTracks,
+    bestFor: [
+      'Choose Zebra if you need symptom tracking, orthostatic context, medications, salt, water, and appointment reports in one place.',
+      'Choose Zebra if your next job is preparing a clearer history for a doctor visit.',
+      'Choose Zebra if you want an iPhone app without separate Zebra hardware.',
+    ],
+    notFor: [
+      'Visible may be a better fit if your primary need is pacing support for energy-limiting illness.',
+      'Visible may be a better fit if you specifically want a pacing-first workflow rather than appointment-prep tracking.',
+      'Zebra is not a pacing coach, diagnosis tool, or treatment plan.',
+    ],
     trust:
       'This comparison is about use case fit. Zebra does not replace pacing guidance, clinical care, or medical advice.',
     cta: 'Download Zebra for iPhone',
@@ -478,6 +563,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'zebra-vs-apple-notes',
     kind: 'comparison',
+    lastReviewed,
     title: 'Zebra vs Apple Notes for Symptom Tracking',
     description:
       'Compare Zebra vs Apple Notes for tracking POTS, EDS, Fibromyalgia, flares, orthostatic vitals, and doctor reports.',
@@ -496,6 +582,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Where Zebra is strongest',
     tracks: commonTracks,
+    bestFor: [
+      'Choose Zebra if Notes have become too scattered to review before appointments.',
+      'Choose Zebra if you want structured fields for flares, symptoms, meds, salt, water, triggers, notes, and orthostatic vitals.',
+      'Choose Zebra if you want Premium PDF report export instead of manually summarizing a note.',
+    ],
+    notFor: [
+      'Apple Notes may be enough if you only need occasional free-form thoughts.',
+      'Apple Notes may be better if you want a completely unstructured writing space.',
+      'Zebra is not a replacement for emergency care, diagnosis, or treatment advice.',
+    ],
     trust: 'Zebra helps organize information you enter. It does not decide what your symptoms mean.',
     cta: 'Replace scattered notes',
     related: [],
@@ -524,6 +620,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'zebra-vs-spreadsheet',
     kind: 'comparison',
+    lastReviewed,
     title: 'Zebra vs Spreadsheet for Symptom Tracking',
     description:
       'Compare Zebra vs spreadsheets for chronic illness symptom tracking, POTS, EDS, Fibromyalgia, flares, and doctor reports.',
@@ -542,6 +639,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Where Zebra is strongest',
     tracks: commonTracks,
+    bestFor: [
+      'Choose Zebra if spreadsheet upkeep falls apart on dizzy, foggy, painful, or exhausted days.',
+      'Choose Zebra if you want iPhone-first check-ins and a Premium doctor-ready PDF report.',
+      'Choose Zebra if you want less setup and more appointment-prep structure.',
+    ],
+    notFor: [
+      'A spreadsheet may be better if you want custom formulas, custom charts, or full control over every column.',
+      'A spreadsheet may be better if you want raw data modeling more than low-energy tracking.',
+      'Zebra is not a medical calculator or diagnostic spreadsheet.',
+    ],
     trust: 'Zebra is not a medical spreadsheet or diagnostic calculator. It is a patient-entered tracking and report tool.',
     cta: 'Track without spreadsheet upkeep',
     related: [],
@@ -570,6 +677,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'best-pots-symptom-tracker-apps',
     kind: 'comparison',
+    lastReviewed,
     title: 'Best POTS Symptom Tracker Apps | Zebra',
     description:
       'Compare what to look for in a POTS symptom tracker app: orthostatic vitals, salt, water, meds, flares, and doctor-ready reports.',
@@ -588,6 +696,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Why Zebra is a strong fit',
     tracks: commonTracks,
+    bestFor: [
+      'People comparing POTS tracker apps for orthostatic vitals, salt, water, meds, symptoms, and appointment prep.',
+      'People who want condition-aware structure without building a tracker from scratch.',
+      'People who want an iPhone app focused on doctor report preparation.',
+    ],
+    notFor: [
+      'People who need Android support today.',
+      'People who mainly want fitness, workouts, or habit streaks.',
+      'People looking for diagnosis, treatment advice, or clinician interpretation.',
+    ],
     trust:
       'This page helps compare tracking features. Ask a clinician about diagnosis, treatment, salt/fluid changes, medications, and concerning symptoms.',
     cta: 'Try Zebra for POTS tracking',
@@ -617,6 +735,7 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'best-chronic-illness-symptom-tracker-apps',
     kind: 'comparison',
+    lastReviewed,
     title: 'Best Chronic Illness Symptom Tracker Apps | Zebra',
     description:
       'Compare chronic illness symptom tracker apps for invisible illness, brain fog, flares, POTS, EDS, Fibromyalgia, and doctor reports.',
@@ -635,6 +754,16 @@ export const searchPages: SearchPage[] = [
     ],
     tracksTitle: 'Why Zebra is a strong fit',
     tracks: commonTracks,
+    bestFor: [
+      'People comparing chronic illness symptom trackers for invisible illness, brain fog, flares, and appointment reports.',
+      'People who want POTS, EDS/hEDS, Fibromyalgia, dysautonomia, Long COVID, and ME/CFS context in one iPhone app.',
+      'People who need a lower-effort alternative to scattered notes or complex trackers.',
+    ],
+    notFor: [
+      'People who need Android support today.',
+      'People who want a broad fitness, wellness, or workout app.',
+      'People looking for diagnosis, treatment advice, or guaranteed medical outcomes.',
+    ],
     trust:
       'Zebra helps organize patient-entered history. It does not replace care, diagnose conditions, or tell you what symptoms mean.',
     cta: 'Download Zebra for iPhone',

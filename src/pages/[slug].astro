@@ -2,8 +2,10 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppStoreBadge from '../components/landing/AppStoreBadge.astro';
 import Breadcrumbs from '../components/content/Breadcrumbs.astro';
+import PhoneMedia from '../components/landing/PhoneMedia.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import SiteHeader from '../components/landing/SiteHeader.astro';
+import { screenshots } from '../data/screenshots';
 import { homePage } from '../data/site-content';
 import { siteConfig, toAbsoluteUrl } from '../data/site-config';
 import {
@@ -23,6 +25,8 @@ export function getStaticPaths() {
 
 const { page } = Astro.props as { page: SearchPage };
 const canonical = getSearchPageUrl(page);
+const reviewIsoDate = '2026-07-25';
+const reportPreview = screenshots.appointmentPreparation;
 const schema = [
   getSoftwareApplicationSchema(page),
   {
@@ -31,7 +35,7 @@ const schema = [
     name: page.h1,
     url: canonical,
     description: page.description,
-    dateModified: '2026-07-25',
+    dateModified: reviewIsoDate,
     about: ['POTS', 'EDS', 'Fibromyalgia', 'Symptom tracking', 'Doctor-ready report'],
   },
   {
@@ -64,6 +68,21 @@ const schema = [
       },
     })),
   },
+  ...(page.comparison
+    ? [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: `${page.h1} comparison factors`,
+          itemListElement: page.comparison.rows.map((row, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            name: row.factor,
+            description: `${page.comparison?.columns[0]}: ${row.first} ${page.comparison?.columns[1]}: ${row.second}`,
+          })),
+        },
+      ]
+    : []),
 ];
 ---
 
@@ -82,6 +101,7 @@ const schema = [
         <div class="search-page-hero-grid">
           <div>
             <p class="eyebrow">{page.eyebrow}</p>
+            <p class="reviewed-line">Last reviewed: {page.lastReviewed}</p>
             <h1>{page.h1}</h1>
             <p class="direct-answer">{page.directAnswer}</p>
             <div class="hero-cta-row">
@@ -124,6 +144,7 @@ const schema = [
           <div class="section-intro section-intro--narrow">
             <p class="eyebrow">Comparison table</p>
             <h2 id="comparison-heading">How the options compare</h2>
+            <p>Use this as a fit check, not a winner-takes-all verdict. The right tracker is the one you can keep using when symptoms are already taking up the day.</p>
           </div>
           <div class="comparison-table-wrap">
             <table class="comparison-table">
@@ -147,6 +168,51 @@ const schema = [
           </div>
         </section>
       )}
+
+      <section class="section search-page-section" aria-labelledby="decision-heading">
+        <div class="search-page-columns">
+          <article>
+            <p class="eyebrow">Best fit</p>
+            <h2 id="decision-heading">Choose Zebra if...</h2>
+            <ul class="check-list">
+              {page.bestFor.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+          <article>
+            <p class="eyebrow">Not trying to be</p>
+            <h2>Choose something else if...</h2>
+            <ul class="check-list">
+              {page.notFor.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-band search-page-section" aria-labelledby="report-preview-heading">
+        <div class="search-page-report-grid">
+          <article>
+            <p class="eyebrow">Report preview</p>
+            <h2 id="report-preview-heading">See what the appointment payoff looks like.</h2>
+            <p>
+              Zebra turns patient-entered history into a doctor-ready PDF report with flares,
+              symptoms, medications, salt, water, triggers, notes, and orthostatic vitals.
+              Premium includes PDF report export.
+            </p>
+            <ul class="check-list">
+              <li>30-day summary for appointment prep</li>
+              <li>Orthostatic observations connected to daily symptom context</li>
+              <li>Designed to reduce memory work, not replace medical care</li>
+            </ul>
+          </article>
+          <div class="search-page-report-media">
+            <PhoneMedia
+              {...reportPreview}
+              shell="report"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </section>
 
       <section class="section search-page-section">
         <div class="search-page-columns">
