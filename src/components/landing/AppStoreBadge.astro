@@ -4,9 +4,10 @@ interface Props {
   src: string;
   loading?: 'eager' | 'lazy';
   className?: string;
+  trackingLocation?: string;
 }
 
-const { href, src, loading = 'lazy', className } = Astro.props;
+const { href, src, loading = 'lazy', className, trackingLocation } = Astro.props;
 ---
 
 <a
@@ -14,6 +15,9 @@ const { href, src, loading = 'lazy', className } = Astro.props;
   href={href}
   target="_blank"
   rel="noopener noreferrer"
+  data-app-store-cta={trackingLocation ? 'true' : undefined}
+  data-cta-location={trackingLocation}
+  data-cta-label="Download on the App Store"
 >
   <img
     class="app-store-badge"

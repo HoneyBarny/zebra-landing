@@ -90,9 +90,9 @@ const faqItems = [
 
 export const homePage = {
   seo: {
-    title: 'Symptom Tracker for POTS, EDS & Dysautonomia | Zebra',
+    title: 'Download Zebra: POTS, EDS & Fibromyalgia Symptom Tracker for iPhone',
     description:
-      'Track symptoms, orthostatic vitals, salt, hydration, meds, and flares in one iPhone app. Export a doctor-ready report before appointments.',
+      'Download Zebra for iPhone to track POTS, EDS, Fibromyalgia, flares, meds, salt, water, orthostatic vitals, and doctor-ready reports.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
       'Zebra doctor-ready report preview built from tracked symptoms, orthostatic vitals, medications, and appointment notes.',
@@ -597,6 +597,12 @@ export const homePage = {
     ],
     resources: [
       {
+        eyebrow: 'Feedback',
+        title: 'Send feedback or request a feature',
+        body: 'Tell us what would make Zebra easier to use before appointments, especially on flare days.',
+        href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback`,
+      },
+      {
         eyebrow: 'Editorial standards',
         title: 'See how Zebra content is reviewed',
         body: 'Meet the editorial team, review process, update policy, and medical-language guardrails behind the knowledge hub.',
@@ -789,6 +795,10 @@ export const homePage = {
     trustLine:
       'Available now on the App Store. Track free. Premium includes doctor report export and full history. Not medical advice.',
   },
+  mobileStickyCta: {
+    label: 'Get Zebra',
+    note: 'iPhone app available now',
+  },
   footer: {
     body: 'Zebra is an iPhone symptom tracker for POTS, dysautonomia, EDS, Fibromyalgia, and overlapping chronic illness, built for clearer records and specialist appointments.',
     trustLine: 'Private by design. Built for iPhone. Patient-entered data only. Not a diagnostic tool.',
@@ -820,9 +830,36 @@ export const homePage = {
       applicationSubCategory: 'Symptom tracker',
       operatingSystem: 'iOS',
       description:
-        'Zebra is an iPhone symptom tracker for POTS, EDS, dysautonomia, and overlapping chronic illness. Track symptoms, orthostatic vitals, medications, salt, water, and notes, then export a doctor-ready report for appointments.',
+        'Zebra is an iPhone symptom tracker for POTS, EDS, Fibromyalgia, dysautonomia, and overlapping invisible illness. Track flares, symptoms, orthostatic vitals, medications, salt, water, and notes, then export a doctor-ready PDF report for appointments.',
       url: siteConfig.siteUrl,
       downloadUrl: siteConfig.appStore.url,
+      installUrl: siteConfig.appStore.url,
+      offers: [
+        {
+          '@type': 'Offer',
+          price: '0',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Free tracking tier with core tracking features and 30 days of history.',
+        },
+        {
+          '@type': 'Offer',
+          price: '4.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Monthly Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+        },
+        {
+          '@type': 'Offer',
+          price: '39.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Annual Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+        },
+      ],
       featureList: [
         'Track daily flares, symptoms, triggers, hydration, salt, and medications',
         'Record orthostatic vitals in one guided flow',

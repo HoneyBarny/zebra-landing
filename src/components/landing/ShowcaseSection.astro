@@ -51,6 +51,9 @@ const {
   layout = 'default',
   media,
 } = Astro.props;
+
+const isExternalCta = ctaHref.startsWith('http');
+const isAppStoreCta = ctaHref.includes('apps.apple.com');
 ---
 
 <section
@@ -83,7 +86,17 @@ const {
         ))}
       </div>
       <div class="showcase-cta">
-        <a class="text-action" href={ctaHref}>{ctaLabel}</a>
+        <a
+          class="text-action"
+          href={ctaHref}
+          target={isExternalCta ? '_blank' : undefined}
+          rel={isExternalCta ? 'noopener noreferrer' : undefined}
+          data-app-store-cta={isAppStoreCta ? 'true' : undefined}
+          data-cta-location={isAppStoreCta ? id : undefined}
+          data-cta-label={isAppStoreCta ? ctaLabel : undefined}
+        >
+          {ctaLabel}
+        </a>
         <p class="inline-cta-note">{ctaNote}</p>
       </div>
     </div>

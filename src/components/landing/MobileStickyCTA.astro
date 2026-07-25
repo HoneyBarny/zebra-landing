@@ -1,0 +1,23 @@
+---
+interface Props {
+  href: string;
+  label: string;
+  note: string;
+}
+
+const { href, label, note } = Astro.props;
+---
+
+<aside class="mobile-sticky-cta" aria-label="Download Zebra on the App Store">
+  <span>{note}</span>
+  <a
+    href={href}
+    target="_blank"
+    rel="noopener noreferrer"
+    data-app-store-cta="true"
+    data-cta-location="mobile_sticky"
+    data-cta-label={label}
+  >
+    {label}
+  </a>
+</aside>

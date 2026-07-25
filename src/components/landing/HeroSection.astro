@@ -76,8 +76,18 @@ const {
       </div>
     )}
     <div class="hero-cta-band" aria-label="Primary download call to action">
-      <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" />
-      <a class="hero-text-cta" href={appStoreURL} target="_blank" rel="noopener noreferrer">{ctaText}</a>
+      <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" trackingLocation="hero_badge" />
+      <a
+        class="hero-text-cta"
+        href={appStoreURL}
+        target="_blank"
+        rel="noopener noreferrer"
+        data-app-store-cta="true"
+        data-cta-location="hero_text_cta"
+        data-cta-label={ctaText}
+      >
+        {ctaText}
+      </a>
     </div>
     <ul class="cta-support-list" aria-label="Download reassurance">
       {ctaSupport.map((item) => <li>{item}</li>)}

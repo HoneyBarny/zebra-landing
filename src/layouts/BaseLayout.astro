@@ -70,6 +70,31 @@ const resolvedOgImage = ogImage
 		{schema.map((entry) => (
 			<script type="application/ld+json" set:html={JSON.stringify(entry)} />
 		))}
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			document.addEventListener('click', (event) => {
+				const target = event.target instanceof Element
+					? event.target.closest('[data-app-store-cta="true"]')
+					: null;
+
+				if (!(target instanceof HTMLElement)) {
+					return;
+				}
+
+				const payload = {
+					event: 'zebra_app_store_cta_clicked',
+					cta_location: target.dataset.ctaLocation || 'unknown',
+					cta_label: target.dataset.ctaLabel || target.textContent?.trim() || 'unknown',
+					destination: target instanceof HTMLAnchorElement ? target.href : '',
+				};
+
+				window.dataLayer.push(payload);
+
+				if (typeof window.gtag === 'function') {
+					window.gtag('event', payload.event, payload);
+				}
+			});
+		</script>
 	</head>
 	<body>
 		<slot />

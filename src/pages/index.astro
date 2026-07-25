@@ -6,6 +6,7 @@ import FinalCTASection from '../components/landing/FinalCTASection.astro';
 import GuidesSection from '../components/landing/GuidesSection.astro';
 import HeroSection from '../components/landing/HeroSection.astro';
 import HowItWorksSection from '../components/landing/HowItWorksSection.astro';
+import MobileStickyCTA from '../components/landing/MobileStickyCTA.astro';
 import ProblemSection from '../components/landing/ProblemSection.astro';
 import ReportSection from '../components/landing/ReportSection.astro';
 import SearchContentSection from '../components/landing/SearchContentSection.astro';
@@ -60,5 +61,6 @@ import { homePage } from '../data/site-content';
     </main>
 
     <SiteFooter {...homePage.footer} />
+    <MobileStickyCTA {...homePage.mobileStickyCta} href={homePage.appStore.url} />
   </div>
 </BaseLayout>
