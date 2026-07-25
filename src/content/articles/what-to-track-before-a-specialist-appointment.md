@@ -1,5 +1,6 @@
 ---
 title: "How to Track Symptoms Before a Specialist Appointment"
+status: "published"
 subtitle: "If you have a specialist appointment coming up, the most useful thing to track is not everything that has ever happened. It is the recent symptom history that helps you explain what changed, what is affecting daily life, what you have tried, and what questions you need answered. The goal is to walk in with a clear picture, not a perfect diary."
 description: "Learn what to track before a specialist appointment, including symptoms, flares, medications, function changes, and your top questions."
 excerpt: "Learn what to track before a specialist appointment, including symptoms, flares, medications, function changes, and your top questions."

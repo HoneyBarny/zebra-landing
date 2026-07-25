@@ -1,5 +1,6 @@
 ---
 title: "What Does an Orthostatic Test Help You Record?"
+status: "published"
 subtitle: "An orthostatic test helps you record what happens to symptoms and, when relevant, heart rate or blood pressure as you move through different positions such as lying down, sitting, and standing. It is useful because it captures a structured snapshot of upright symptom change instead of leaving that history spread across memory and disconnected notes."
 description: "Learn what an orthostatic test helps you record and why position-based observations are more useful when kept with symptom history."
 excerpt: "Learn what an orthostatic test helps you record and why position-based observations are more useful when kept with symptom history."

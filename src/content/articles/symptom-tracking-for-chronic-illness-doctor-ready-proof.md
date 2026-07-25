@@ -1,5 +1,6 @@
 ---
 title: "Symptom Tracking for Chronic Illness: How to Build Doctor-Ready Proof"
+status: "published"
 subtitle: "Symptom tracking for chronic illness matters most when it helps you explain what has been happening without rebuilding your history from memory. Doctor-ready proof is not about tracking every possible detail. It is about creating a clear record of symptoms, changes, function, and questions that you can actually use before an appointment."
 description: "Learn how to turn symptom tracking into doctor-ready proof with a simple framework for symptoms, flares, function, and appointment prep."
 excerpt: "Learn how to turn symptom tracking into doctor-ready proof with a simple framework for symptoms, flares, function, and appointment prep."

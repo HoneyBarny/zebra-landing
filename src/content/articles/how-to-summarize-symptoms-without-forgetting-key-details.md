@@ -1,5 +1,6 @@
 ---
 title: "How to Summarize Symptoms Without Forgetting Key Details"
+status: "published"
 subtitle: "To summarize symptoms without forgetting key details, start with what changed, what affected daily life, what treatment or routine shifts matter, and what you need help with now. A good symptom summary is short enough to use under pressure and structured enough to keep important details from disappearing when brain fog hits."
 description: "Learn how to summarize symptoms clearly for appointments without losing the details that matter most."
 excerpt: "Learn how to summarize symptoms clearly for appointments without losing the details that matter most."

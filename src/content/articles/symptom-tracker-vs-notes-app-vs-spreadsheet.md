@@ -1,5 +1,6 @@
 ---
 title: "Symptom Tracker vs Notes App vs Spreadsheet"
+status: "published"
 subtitle: "If you are deciding between a symptom tracker, a notes app, or a spreadsheet, the best choice depends on what job you need done. Notes are fine for quick capture. Spreadsheets can work if you enjoy structure. A dedicated symptom tracker is usually the best choice when you need pattern review, cleaner appointment prep, and one place for symptoms, context, and changes over time."
 description: "Compare symptom trackers, notes apps, and spreadsheets to see which works best for chronic illness tracking and appointment prep."
 excerpt: "Compare symptom trackers, notes apps, and spreadsheets to see which works best for chronic illness tracking and appointment prep."

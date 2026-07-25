@@ -1,6 +1,6 @@
 ---
 slug: "how-to-track-mecfs-symptoms-without-triggering-pem"
-status: "scheduled"
+status: "published"
 title: "How to Track ME/CFS Symptoms Without Triggering PEM"
 subtitle: "If you have ME/CFS, the hardest part of symptom tracking is often the same part that makes you want to track in the first place: your energy is limited, your recall is unreliable on worse days, and overdoing the process can backfire. A useful tracking system for ME/CFS should help you notice patterns without turning logging into another form of exertion."
 description: "Learn how to track ME/CFS symptoms in a lower-effort way that preserves useful patterns without creating more post-exertional strain."
@@ -8,9 +8,9 @@ excerpt: "A low-friction guide to tracking ME/CFS symptoms, delayed crashes, and
 author: "zebra-editorial"
 publishedAt: "2026-07-17"
 scheduledAt: "2026-07-17"
-updatedAt: "2026-07-12"
-reviewedAt: "2026-07-04"
-lastReviewed: "2026-07-04"
+updatedAt: "2026-07-22"
+reviewedAt: "2026-07-22"
+lastReviewed: "2026-07-22"
 nextReview: "2026-12-31"
 reviewedBy: "Zebra Editorial Team"
 featured: false

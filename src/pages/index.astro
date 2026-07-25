@@ -34,7 +34,6 @@ import { homePage } from '../data/site-content';
         appStoreBadgeURL={homePage.appStore.badgeUrl}
       />
       <ProblemSection {...homePage.problem} />
-      <SearchContentSection {...homePage.searchContent} />
       <ReportSection
         {...homePage.doctorReport}
         appStoreURL={homePage.appStore.url}
@@ -45,8 +44,10 @@ import { homePage } from '../data/site-content';
       <ShowcaseSection {...homePage.dailyTracking} />
       <ShowcaseSection {...homePage.orthostaticTest} />
       <ShowcaseSection {...homePage.trends} />
-      <TrustSection {...homePage.trust} />
+      <ShowcaseSection {...homePage.careContext} />
       <AudienceSection {...homePage.audience} />
+      <TrustSection {...homePage.trust} />
+      <SearchContentSection {...homePage.searchContent} />
       <GuidesSection {...homePage.guides} />
       <FAQSection {...homePage.faq} />
       <FinalCTASection

@@ -1,5 +1,6 @@
 ---
 title: "What to Bring to a POTS Cardiology Appointment"
+status: "published"
 subtitle: "For a POTS cardiology appointment, the most useful things to bring are a short symptom summary, a medication and supplement list, relevant home heart rate or blood pressure observations, and a clear list of questions. You do not need a perfect binder. You need the information that helps your cardiologist understand what happens when you are upright, what changed recently, and what is affecting daily life."
 description: "A practical POTS cardiology appointment checklist covering symptoms, orthostatic observations, medications, salt, hydration, and questions."
 excerpt: "A practical POTS cardiology appointment checklist covering symptoms, orthostatic observations, medications, salt, hydration, and questions."

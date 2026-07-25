@@ -615,6 +615,13 @@ h3 {
   margin-top: 18px;
 }
 
+.hero-quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  margin-top: 18px;
+}
+
 .hero-answer-item {
   padding: 12px 15px;
   border: 1px solid var(--line);
@@ -708,6 +715,10 @@ h3 {
   background: rgba(255, 255, 255, 0.72);
   color: var(--primary-strong);
   font-size: 0.91rem;
+}
+
+.hero-quick-links .text-action {
+  font-size: 0.94rem;
 }
 
 .hero-visual {

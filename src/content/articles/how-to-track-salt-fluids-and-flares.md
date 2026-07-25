@@ -1,5 +1,6 @@
 ---
 title: "How to Track Salt, Fluids, and Flares"
+status: "published"
 subtitle: "If you are tracking POTS or related dysautonomia symptoms, salt, fluids, and flare history are often more useful when they live in the same record as your symptoms. The goal is not to create a perfect management log. It is to make daily changes easier to notice and easier to review before appointments."
 description: "Learn how to track salt, fluids, flares, and symptoms in one clear record without creating more daily overwhelm."
 excerpt: "Learn how to track salt, fluids, flares, and symptoms in one clear record without creating more daily overwhelm."

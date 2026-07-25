@@ -1,5 +1,6 @@
 ---
 title: "Why POTS, EDS, and Fibromyalgia Often Overlap"
+status: "published"
 subtitle: "POTS, EDS, and Fibromyalgia often overlap because they can share symptoms, daily limitations, and diagnostic pathways, even though they are not the same condition. Many people end up tracking dizziness, fatigue, pain, brain fog, function changes, and flares across more than one label at once."
 description: "Learn why POTS, EDS, and Fibromyalgia symptoms often overlap and why that makes tracking and appointment prep harder."
 excerpt: "Learn why POTS, EDS, and Fibromyalgia symptoms often overlap and why that makes tracking and appointment prep harder."

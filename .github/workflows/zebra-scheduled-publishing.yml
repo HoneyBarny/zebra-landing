@@ -2,16 +2,28 @@ name: Zebra Scheduled Publishing
 
 on:
   schedule:
-    - cron: '0 15 * * 2'
-    - cron: '0 15 * * 5'
+    # Primary publish windows. Avoid the top of the hour because GitHub-hosted
+    # runners are more likely to be delayed or dropped during peak cron bursts.
+    - cron: '17 15 * * 2'
+    - cron: '17 15 * * 5'
+    # Same-day backup attempts. The publish script is idempotent, so these exit
+    # cleanly if the primary run already published and committed the article.
+    - cron: '47 15 * * 2'
+    - cron: '47 15 * * 5'
+    - cron: '17 16 * * 2'
+    - cron: '17 16 * * 5'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+env:
+  PUBLISH_TIME_ZONE: America/Winnipeg
+
 jobs:
   publish-scheduled:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,12 +39,35 @@ jobs:
         run: npm ci
 
       - name: Publish scheduled articles
+        run: npm run publish:scheduled
+
+      - name: Detect published content changes
+        id: changes
+        run: |
+          if git diff --quiet -- src/content/articles src/data/site-content.ts src/pages/index.astro; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No scheduled publishing changes detected."
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "Scheduled publishing changes detected."
+          fi
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.changes.outputs.has_changes == 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: npm run publish:scheduled
+        run: npm run deploy:pages
+
+      - name: Validate production deployment
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          VALIDATION_ATTEMPTS: '9'
+          VALIDATION_DELAY_MS: '10000'
+        run: npm run publish:scheduled:validate
 
       - name: Commit published articles
+        if: steps.changes.outputs.has_changes == 'true'
         run: |
           if git diff --quiet; then
             echo "No content changes to commit."
@@ -40,6 +75,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/content/articles package-lock.json package.json
+          git add src/content/articles src/data/site-content.ts src/pages/index.astro package-lock.json package.json
           git commit -m "Publish scheduled Zebra articles"
           git push

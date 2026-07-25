@@ -1,5 +1,6 @@
 ---
 title: "What Is Orthostatic Intolerance?"
+status: "published"
 subtitle: "Orthostatic intolerance is a term used when symptoms appear or worsen while sitting upright or standing and improve when you lie down. It describes a symptom pattern, not a diagnosis by itself."
 description: "A simple explanation of orthostatic intolerance, upright symptoms, and why position-related tracking can be useful."
 excerpt: "A simple explanation of orthostatic intolerance, upright symptoms, and why position-related tracking can be useful."

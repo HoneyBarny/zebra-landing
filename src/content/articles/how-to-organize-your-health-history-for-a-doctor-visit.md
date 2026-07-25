@@ -1,5 +1,6 @@
 ---
 title: "How to Organize Your Health History for a Doctor Visit"
+status: "published"
 subtitle: "To organize your health history for a doctor visit, start by pulling recent symptom changes, medication changes, function impact, and your top questions into one short summary. Your doctor does not need every note you have ever taken first. They need the version that helps them understand what changed and what you need help with now."
 description: "Learn how to organize symptom history, medications, function changes, and questions into a clear doctor-visit summary."
 excerpt: "Learn how to organize symptom history, medications, function changes, and questions into a clear doctor-visit summary."

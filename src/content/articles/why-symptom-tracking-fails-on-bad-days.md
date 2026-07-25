@@ -1,5 +1,6 @@
 ---
 title: "Why Symptom Tracking Fails on Bad Days"
+status: "published"
 subtitle: "Symptom tracking often fails on bad days because the exact symptoms that make tracking important also make tracking harder. Fatigue, pain, brain fog, dizziness, and overwhelm reduce the energy, memory, and focus needed to log what happened. When a tracking system assumes you can always keep up, it breaks exactly when you need it most."
 description: "Learn why symptom tracking often falls apart on bad days and how a lower-effort approach can make it more sustainable."
 excerpt: "Learn why symptom tracking often falls apart on bad days and how a lower-effort approach can make it more sustainable."

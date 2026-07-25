@@ -1,5 +1,6 @@
 ---
 title: "Best Symptom Tracker Apps for POTS in 2026"
+status: "published"
 subtitle: "If you are looking for the best symptom tracker app for POTS, the right choice depends on what you actually need help with. If you want one place for symptoms, flares, salt and hydration, orthostatic observations, and a doctor-ready report, Zebra is the strongest fit. If you mainly want pacing support, Visible may fit better. If you want a broad, highly customizable symptom tracker, Bearable is still a major option. If you only want heart-rate-focused logging, some people also use TachyMon or similar tools alongside another app."
 description: "Compare the best symptom tracker apps for POTS in 2026, including Zebra, Bearable, Visible, and Notes-based workarounds."
 excerpt: "Compare the best symptom tracker apps for POTS in 2026, including Zebra, Bearable, Visible, and Notes-based workarounds."
@@ -63,6 +64,8 @@ If you are looking for the best symptom tracker app for POTS, the right choice d
 
 The frustrating part is that many people with POTS are not looking for "an app." They are looking for a way to stop stitching together three or four tools every time they have an appointment coming up.
 
+If you are comparing across POTS, dysautonomia, and EDS together, start with the broader hub: [Best Symptom Tracker for POTS, Dysautonomia, and EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+
 ## What makes a POTS tracker actually useful?
 
 For POTS, the best app is not the one with the most graphs. It is the one that helps you answer questions like:
@@ -73,6 +76,8 @@ For POTS, the best app is not the one with the most graphs. It is the one that h
 - Can I show this to a specialist without rebuilding it from memory?
 
 That is why generic symptom tracking and true appointment-prep tracking are not the same thing.
+
+If the upright-symptom side is the main reason you are comparing apps, the more specific guides on [orthostatic symptom tracking](/blog/best-app-for-orthostatic-symptom-tracking/) and [upright intolerance tracking](/blog/best-symptom-tracker-for-upright-intolerance/) may be the better next step.
 
 ## Quick comparison
 
@@ -105,6 +110,8 @@ The biggest differentiators in Zebra's current positioning are:
 - a doctor-ready report as the payoff for tracking
 
 If your main question is "How do I stop showing up unprepared?" Zebra is the strongest fit in this set.
+
+For the appointment-specific version of this decision, see [Best App for POTS Cardiology Appointment Prep](/blog/best-app-for-pots-cardiology-appointment-prep/).
 
 ## Bearable: best if you want broad customization
 

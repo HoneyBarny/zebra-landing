@@ -1,5 +1,6 @@
 ---
 title: "What Is a Symptom Journal?"
+status: "published"
 subtitle: "A symptom journal is a record of symptoms, changes, and related context over time. It can be as simple as a notes app or as structured as a dedicated tracker. The point is not to create a perfect diary. The point is to make your symptom history easier to understand and easier to discuss later."
 description: "Learn what a symptom journal is, what belongs in one, and why structure matters for chronic illness tracking."
 excerpt: "Learn what a symptom journal is, what belongs in one, and why structure matters for chronic illness tracking."

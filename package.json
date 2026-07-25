@@ -12,8 +12,11 @@
     "astro": "astro",
     "content:ops": "node --experimental-strip-types ./scripts/content-ops.ts",
     "next": "node --experimental-strip-types ./scripts/next.ts",
-    "publish:scheduled": "node ./scripts/publish-scheduled.mjs --deploy --validate",
-    "publish:scheduled:local": "node ./scripts/publish-scheduled.mjs"
+    "publish:scheduled": "node ./scripts/publish-scheduled.mjs",
+    "publish:scheduled:full": "node ./scripts/publish-scheduled.mjs --deploy --validate",
+    "publish:scheduled:local": "node ./scripts/publish-scheduled.mjs",
+    "publish:scheduled:validate": "node ./scripts/publish-scheduled.mjs --validate-only",
+    "deploy:pages": "npx wrangler pages deploy dist --project-name zebra-landing"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",

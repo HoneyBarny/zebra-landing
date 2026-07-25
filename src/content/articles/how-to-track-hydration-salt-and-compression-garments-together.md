@@ -1,6 +1,6 @@
 ---
 slug: "how-to-track-hydration-salt-and-compression-garments-together"
-status: "scheduled"
+status: "published"
 title: "How to Track Hydration, Salt, and Compression Garments Together"
 subtitle: "Hydration, salt, and compression garments are often tracked as separate habits, but they are more useful when they stay connected to symptoms, upright tolerance, and flare history. The point is not to prove what caused a better or worse day. It is to keep enough context to review what changed before an appointment."
 description: "Learn how to track hydration, salt, compression garments, symptoms, and upright tolerance together without turning the record into extra work."
@@ -8,9 +8,9 @@ excerpt: "A practical guide to tracking hydration, salt, compression garments, a
 author: "zebra-editorial"
 publishedAt: "2026-07-22"
 scheduledAt: "2026-07-22"
-updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-07-22"
+reviewedAt: "2026-07-22"
+lastReviewed: "2026-07-22"
 nextReview: "2027-01-08"
 reviewedBy: "Zebra Editorial Team"
 featured: false

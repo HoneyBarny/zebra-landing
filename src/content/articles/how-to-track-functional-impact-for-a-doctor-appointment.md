@@ -1,6 +1,6 @@
 ---
 slug: "how-to-track-functional-impact-for-a-doctor-appointment"
-status: "scheduled"
+status: "published"
 title: "How to Track Functional Impact for a Doctor Appointment"
 subtitle: "Functional impact is the part of symptom tracking that explains what symptoms changed in real life. Instead of only writing down pain, fatigue, dizziness, or brain fog, track what those symptoms stopped you from doing, changed, delayed, or made harder."
 description: "Learn how to track functional impact before a doctor appointment so symptoms are easier to explain with real daily-life examples."
@@ -8,9 +8,9 @@ excerpt: "A practical framework for tracking how symptoms affect daily life befo
 author: "zebra-editorial"
 publishedAt: "2026-07-24"
 scheduledAt: "2026-07-24"
-updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-07-24"
+reviewedAt: "2026-07-24"
+lastReviewed: "2026-07-24"
 nextReview: "2027-01-10"
 reviewedBy: "Zebra Editorial Team"
 featured: false

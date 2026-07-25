@@ -1,5 +1,6 @@
 ---
 title: "How EDS and Dysautonomia Symptoms Overlap"
+status: "published"
 subtitle: "EDS and dysautonomia symptoms often overlap in ways that make day-to-day tracking and appointment prep confusing. Many people end up dealing with dizziness, fatigue, brain fog, exercise intolerance, pain, and function changes at the same time, even when those symptoms do not feel like they belong to just one label."
 description: "Learn how EDS and dysautonomia symptoms can overlap, what that looks like in daily life, and how to track the pattern more clearly."
 excerpt: "A practical explanation of EDS and dysautonomia overlap, plus how to keep the symptom history reviewable."

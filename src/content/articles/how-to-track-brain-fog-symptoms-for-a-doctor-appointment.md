@@ -1,5 +1,6 @@
 ---
 title: "How to Track Brain Fog Symptoms for a Doctor Appointment"
+status: "published"
 subtitle: "To track brain fog symptoms for a doctor appointment, focus on when it happens, how it affects daily life, what changed around it, and how often it is showing up. Brain fog is hard to explain when it stays abstract. It becomes easier to discuss when you can point to what it actually did to your day."
 description: "Learn how to track brain fog symptoms, function changes, and context so the history is easier to explain at appointments."
 excerpt: "Learn how to track brain fog symptoms, function changes, and context so the history is easier to explain at appointments."

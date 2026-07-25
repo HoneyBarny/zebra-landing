@@ -1,5 +1,6 @@
 ---
 title: "Bearable vs Zebra for Chronic Illness Tracking"
+status: "published"
 subtitle: "Bearable and Zebra solve related problems in very different ways. Bearable is a broad, highly customizable symptom tracker. Zebra is a condition-specific tracking system built around POTS, EDS, Fibromyalgia overlap, and doctor-ready appointment prep. If you want maximum customization, Bearable may fit better. If you want a faster path from tracking to a specialist-ready summary, Zebra is the better fit."
 description: "Compare Bearable and Zebra to see which is better for generic symptom tracking, overlap conditions, and appointment prep."
 excerpt: "Compare Bearable and Zebra to see which is better for generic symptom tracking, overlap conditions, and appointment prep."

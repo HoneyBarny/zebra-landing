@@ -1,5 +1,6 @@
 ---
 title: "How to Keep a Symptom Journal With Brain Fog"
+status: "published"
 subtitle: "If you have brain fog, the best symptom journal is the one you can still use when your thinking is slow, your memory feels unreliable, and writing a full paragraph feels impossible. That usually means a shorter structure, fewer decisions, and a lower bar for what counts as a useful entry."
 description: "Learn how to keep a symptom journal with brain fog using a low-effort, structured system that still helps before appointments."
 excerpt: "Learn how to keep a symptom journal with brain fog using a low-effort, structured system that still helps before appointments."

@@ -1,5 +1,6 @@
 ---
 title: "How to Track POTS Symptoms and Orthostatic Changes"
+status: "published"
 subtitle: "To track POTS symptoms well, focus on the symptoms that matter most, when they happen, how they change with position, and what else was happening around them. The goal is not to collect endless numbers. It is to build a clear history of upright symptoms, flares, and related context that you can review later or bring to an appointment."
 description: "Learn how to track POTS symptoms, upright changes, flares, and relevant home observations in one clear history."
 excerpt: "Learn how to track POTS symptoms, upright changes, flares, and relevant home observations in one clear history."

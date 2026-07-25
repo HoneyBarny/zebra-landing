@@ -1,5 +1,6 @@
 ---
 title: "What Is a Doctor-Ready Symptom Report?"
+status: "published"
 subtitle: "A doctor-ready symptom report is a structured summary of patient-entered symptom history designed to make an appointment easier to prepare for and easier to discuss. It is not a diagnosis, a clinical report, or proof that tells a doctor what to decide. It is an organized record of what happened, what changed, and what matters most right now."
 description: "Learn what a doctor-ready symptom report is, what it should include, and why it helps with chronic illness appointment prep."
 excerpt: "Learn what a doctor-ready symptom report is, what it should include, and why it helps with chronic illness appointment prep."

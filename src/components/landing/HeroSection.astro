@@ -20,6 +20,10 @@ interface Props {
     label: string;
     value: string;
   }>;
+  quickLinks?: Array<{
+    label: string;
+    href: string;
+  }>;
   trustLine: string;
   ctaSupport: string[];
   bullets: string[];
@@ -38,6 +42,7 @@ const {
   title,
   body,
   answerStrip,
+  quickLinks = [],
   trustLine,
   ctaSupport,
   bullets,
@@ -61,6 +66,13 @@ const {
         </div>
       ))}
     </dl>
+    {quickLinks.length > 0 && (
+      <div class="hero-quick-links" aria-label="Popular Zebra guides">
+        {quickLinks.map((link) => (
+          <a class="text-action" href={link.href}>{link.label}</a>
+        ))}
+      </div>
+    )}
     <div class="hero-cta-band" aria-label="Primary download call to action">
       <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" />
     </div>

@@ -1,5 +1,6 @@
 ---
 title: "How to Prepare for a Specialist Appointment When You Have Chronic Illness"
+status: "published"
 subtitle: "Preparing for a specialist appointment with chronic illness is usually less about bringing more information and more about bringing the right information in a format you can actually use. The goal is to walk in knowing what changed, what is affecting daily life, what you have tried, and what you want help with."
 description: "A practical specialist-appointment checklist for chronic illness, including symptom summaries, medications, questions, and timeline prep."
 excerpt: "A practical specialist-appointment checklist for chronic illness, including symptom summaries, medications, questions, and timeline prep."
