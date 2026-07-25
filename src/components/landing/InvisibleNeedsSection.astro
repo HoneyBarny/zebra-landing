@@ -1,0 +1,33 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface NeedItem {
+  title: string;
+  body: string;
+  source: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: NeedItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, items, note } = Astro.props;
+---
+
+<section class="section invisible-needs-section" aria-labelledby="invisible-needs-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="invisible-needs-heading" narrow={true} />
+  <div class="invisible-needs-grid">
+    {items.map((item) => (
+      <article class="invisible-need-card">
+        <p class="mini-label">{item.source}</p>
+        <h3>{item.title}</h3>
+        <p>{item.body}</p>
+      </article>
+    ))}
+  </div>
+  <p class="tracks-note">{note}</p>
+</section>

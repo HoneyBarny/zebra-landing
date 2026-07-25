@@ -1,0 +1,31 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface ReferenceItem {
+  label: string;
+  href: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: ReferenceItem[];
+}
+
+const { eyebrow, title, intro, items } = Astro.props;
+---
+
+<section class="section trusted-references-section" aria-labelledby="trusted-references-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="trusted-references-heading" narrow={true} />
+  <div class="references-grid">
+    {items.map((item) => (
+      <a class="reference-card" href={item.href} target="_blank" rel="noopener noreferrer">
+        <strong>{item.label}</strong>
+        <p>{item.body}</p>
+        <span>Open reference</span>
+      </a>
+    ))}
+  </div>
+</section>

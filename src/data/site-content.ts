@@ -168,34 +168,68 @@ export const homePage = {
     items: [
       {
         title: 'Daily flares',
-        body: 'Track flare severity, duration, and what changed without writing a full diary.',
+        body: 'Track severity, duration, and what changed so a bad day does not have to be reconstructed from memory later.',
       },
       {
         title: 'Symptoms',
-        body: 'Keep POTS, EDS, Fibromyalgia, dysautonomia, pain, fatigue, dizziness, and brain fog in one history.',
+        body: 'Keep dizziness, pain, fatigue, brain fog, palpitations, sleep issues, and overlap symptoms in one dated history.',
       },
       {
         title: 'Medications',
-        body: 'Record medication timing and notes so changes are easier to review later.',
+        body: 'Record timing and notes so medication changes are easier to discuss with a clinician.',
       },
       {
         title: 'Salt and water',
-        body: 'Track hydration and salt beside symptoms instead of in a separate note.',
+        body: 'Track hydration and salt beside symptoms, while leaving medical decisions about salt and fluids to your care team.',
       },
       {
         title: 'Orthostatic vitals',
-        body: 'Save lying, sitting, and standing observations with the rest of the day.',
+        body: 'Save lying, sitting, and standing observations with the symptoms and context from the same day.',
       },
       {
         title: 'Triggers and notes',
-        body: 'Add context when it helps, but skip it when you are tired.',
+        body: 'Capture possible triggers, activity, stress, infection, heat, or notes when they matter, and skip them when you are tired.',
       },
       {
         title: 'Doctor-ready PDF reports',
-        body: 'Turn 30 days of tracking into a cleaner appointment summary.',
+        body: 'Turn recent tracking into a clearer appointment summary instead of handing over a pile of disconnected notes.',
       },
     ],
     note: 'Zebra is for tracking and appointment preparation. It does not diagnose, treat, or replace medical care.',
+  },
+  invisibleNeeds: {
+    eyebrow: 'Built around real invisible illness needs',
+    title: 'Zebra keeps the details that matter when symptoms overlap.',
+    intro:
+      'The page stays product-led, but the tracking structure is grounded in common needs described by trusted medical and patient-education sources.',
+    items: [
+      {
+        source: 'POTS and dysautonomia',
+        title: 'Upright symptoms deserve context.',
+        body:
+          'POTS can involve dizziness, fatigue, brain fog, palpitations, and symptoms that worsen when upright. Zebra keeps orthostatic vitals beside daily symptoms instead of separating the numbers from the day.',
+      },
+      {
+        source: 'EDS / HSD',
+        title: 'Invisible disability is rarely one symptom.',
+        body:
+          'EDS and hypermobility spectrum disorders can affect multiple body systems and daily function. Zebra gives pain, fatigue, mobility impact, notes, and overlap symptoms one calm place to land.',
+      },
+      {
+        source: 'Fibromyalgia',
+        title: 'Pain, fatigue, sleep, and brain fog belong together.',
+        body:
+          'Fibromyalgia commonly involves widespread pain, fatigue, sleep problems, and thinking or memory issues. Zebra helps keep those changes reviewable before an appointment.',
+      },
+      {
+        source: 'Long COVID and ME/CFS overlap',
+        title: 'Timing can matter when symptoms worsen later.',
+        body:
+          'Long COVID and ME/CFS guidance highlights post-exertional symptom worsening and flare history. Zebra helps preserve timing, possible triggers, function changes, and recovery notes without turning tracking into homework.',
+      },
+    ],
+    note:
+      'This section is educational context, not medical advice. Talk with a healthcare professional about diagnosis, treatment, medication, salt or fluid changes, and concerning symptoms.',
   },
   problem: {
     eyebrow: 'Recognize the problem',
@@ -290,7 +324,7 @@ export const homePage = {
   },
   doctorReport: {
     eyebrow: 'Doctor-ready report',
-    title: 'Download Zebra and create proof for the next appointment.',
+    title: 'A clearer way to show what happened between appointments.',
     answer:
       'Zebra turns patient-entered symptom history into a doctor-ready PDF report you can review before a specialist appointment instead of reconstructing the month from memory.',
     body: [
@@ -558,7 +592,7 @@ export const homePage = {
     items: [
       {
         title: 'Privacy-first',
-        body: 'Your app health data stays on your iPhone and private iCloud account. Zebra does not run a health-data server.',
+        body: 'Your app health data stays on your iPhone and private iCloud account. Zebra does not require an account or run a health-data server.',
       },
       {
         title: 'Best for specialist prep',
@@ -582,7 +616,7 @@ export const homePage = {
       },
       {
         title: 'Not for emergencies',
-        body: 'Zebra is not an emergency tool, symptom checker, or replacement for urgent medical care.',
+        body: 'Zebra is not an emergency tool, symptom checker, or replacement for urgent or professional medical care.',
       },
       {
         title: 'Patient-entered data',
@@ -785,6 +819,54 @@ export const homePage = {
     eyebrow: 'FAQ',
     title: 'Questions about Zebra.',
     items: faqItems,
+  },
+  trustedReferences: {
+    eyebrow: 'Trusted references',
+    title: 'The condition context on this page is intentionally careful.',
+    intro:
+      'Zebra uses trusted sources for plain-language framing, then keeps the product promise narrow: track your own history, prepare for appointments, and talk with a clinician.',
+    items: [
+      {
+        label: 'Johns Hopkins Medicine: POTS',
+        href: 'https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots',
+        body: 'Used for POTS symptom and orthostatic context.',
+      },
+      {
+        label: 'Dysautonomia International',
+        href: 'https://dysautonomiainternational.org/',
+        body: 'Used for dysautonomia education and patient-resource framing.',
+      },
+      {
+        label: 'The Ehlers-Danlos Society: What is EDS?',
+        href: 'https://www.ehlers-danlos.com/what-is-eds/',
+        body: 'Used for EDS and HSD multi-system context.',
+      },
+      {
+        label: 'EDS UK: What is EDS?',
+        href: 'https://www.ehlers-danlos.org/what-is-eds/',
+        body: 'Used as an additional EDS patient-education reference.',
+      },
+      {
+        label: 'CDC: Fibromyalgia',
+        href: 'https://www.cdc.gov/chronic-disease/fibromyalgia/index.html',
+        body: 'Used for fibromyalgia symptoms and chronic-disease framing.',
+      },
+      {
+        label: 'NIAMS: Fibromyalgia',
+        href: 'https://www.niams.nih.gov/health-topics/fibromyalgia',
+        body: 'Used for pain, fatigue, sleep, and fibro fog context.',
+      },
+      {
+        label: 'CDC: Long COVID symptoms',
+        href: 'https://www.cdc.gov/long-covid/signs-symptoms/index.html',
+        body: 'Used for symptom variability, brain fog, disability, and post-exertional worsening context.',
+      },
+      {
+        label: 'NICE: ME/CFS guideline',
+        href: 'https://www.nice.org.uk/guidance/ng206/chapter/recommendations',
+        body: 'Used for flare-up, relapse, and post-exertional malaise language safety.',
+      },
+    ],
   },
   finalCta: {
     eyebrow: 'Download Zebra',

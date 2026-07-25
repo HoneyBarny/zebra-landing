@@ -6,8 +6,10 @@ import FinalCTASection from '../components/landing/FinalCTASection.astro';
 import GuidesSection from '../components/landing/GuidesSection.astro';
 import HeroSection from '../components/landing/HeroSection.astro';
 import HowItWorksSection from '../components/landing/HowItWorksSection.astro';
+import InvisibleNeedsSection from '../components/landing/InvisibleNeedsSection.astro';
 import MobileStickyCTA from '../components/landing/MobileStickyCTA.astro';
 import ProblemSection from '../components/landing/ProblemSection.astro';
+import ReferencesSection from '../components/landing/ReferencesSection.astro';
 import ReportSection from '../components/landing/ReportSection.astro';
 import SearchContentSection from '../components/landing/SearchContentSection.astro';
 import ScreenshotCarouselSection from '../components/landing/ScreenshotCarouselSection.astro';
@@ -37,6 +39,7 @@ import { homePage } from '../data/site-content';
       />
       <ProblemSection {...homePage.problem} />
       <WhatZebraTracksSection {...homePage.whatZebraTracks} />
+      <InvisibleNeedsSection {...homePage.invisibleNeeds} />
       <ReportSection
         {...homePage.doctorReport}
         appStoreURL={homePage.appStore.url}
@@ -53,6 +56,7 @@ import { homePage } from '../data/site-content';
       <SearchContentSection {...homePage.searchContent} />
       <GuidesSection {...homePage.guides} />
       <FAQSection {...homePage.faq} />
+      <ReferencesSection {...homePage.trustedReferences} />
       <FinalCTASection
         {...homePage.finalCta}
         appStoreURL={homePage.appStore.url}
