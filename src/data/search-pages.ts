@@ -82,9 +82,11 @@ const defaultFaqs = [
 
 const commonTracks = [
   'Daily flares, severity, duration, and notes',
-  'Symptoms, triggers, and functional impact',
-  'Medications, salt, water, and appointment questions',
+  'Symptoms, triggers, notes, and appointment context',
+  'Medications, salt, water, and questions to bring up',
   'Orthostatic vitals with lying, sitting, and standing observations',
+  'Optional HealthKit heart-rate support for the orthostatic flow',
+  'Gentle daily reminders users can control',
   'Doctor-ready PDF report export with Premium',
 ];
 
@@ -175,7 +177,7 @@ export const searchPages: SearchPage[] = [
       {
         question: 'Can Zebra track EDS and dysautonomia overlap?',
         answer:
-          'Yes. Zebra keeps pain, fatigue, function, orthostatic symptoms, medications, triggers, and notes in one timeline so overlap is easier to review.',
+          'Yes. Zebra keeps pain, fatigue, orthostatic symptoms, medications, triggers, notes, and appointment context in one timeline so overlap is easier to review.',
       },
       {
         question: 'Is Zebra only for hypermobile EDS?',
@@ -189,11 +191,11 @@ export const searchPages: SearchPage[] = [
     kind: 'condition',
     title: 'Fibromyalgia Tracker App for Flares, Pain & Brain Fog | Zebra',
     description:
-      'Track fibromyalgia flares, pain, fatigue, sleep problems, brain fog, medications, triggers, notes, and doctor-ready reports on iPhone.',
+      'Track fibromyalgia flares, pain, fatigue, brain fog, medications, triggers, notes, and doctor-ready reports on iPhone.',
     eyebrow: 'Fibromyalgia tracker',
-    h1: 'Fibromyalgia tracker for flares, pain, fatigue, sleep, and brain fog.',
+    h1: 'Fibromyalgia tracker for flares, pain, fatigue, and brain fog.',
     directAnswer:
-      'Zebra is an iPhone fibromyalgia tracker for people who need a low-energy way to track flares, pain, fatigue, sleep problems, brain fog, medications, triggers, and appointment notes.',
+      'Zebra is an iPhone fibromyalgia tracker for people who need a low-energy way to track flares, pain, fatigue, brain fog, medications, triggers, and appointment notes.',
     summary: [
       'Fibromyalgia commonly involves pain, fatigue, sleep problems, and thinking or memory issues. Zebra keeps those changes in one dated record for appointment prep.',
       'On a hard day, one quick check-in is enough. You can add more context later if you have the energy.',
@@ -201,7 +203,7 @@ export const searchPages: SearchPage[] = [
     whyTitle: 'Why fibromyalgia flare tracking matters',
     why: [
       'Flares are easy to remember in the moment and hard to summarize weeks later.',
-      'Pain, sleep, fatigue, medications, and brain fog are more useful when they stay connected.',
+      'Pain, fatigue, medications, brain fog, and notes are more useful when they stay connected.',
       'A doctor-ready report helps you review recent history without relying on perfect recall.',
     ],
     tracksTitle: 'What Zebra helps track for fibromyalgia',
@@ -217,9 +219,9 @@ export const searchPages: SearchPage[] = [
           'Yes. Zebra is built for brain fog and low-energy days, with short check-ins and doctor reports that reduce memory work before appointments.',
       },
       {
-        question: 'Can Zebra track pain and sleep context together?',
+        question: 'Can I note sleep problems beside pain and fatigue?',
         answer:
-          'Yes. Zebra can keep symptoms, flare severity, sleep-related notes, medications, triggers, and functional impact in one timeline.',
+          'Yes. Zebra can keep symptoms, flare severity, sleep-related notes, medications, triggers, and appointment context in one timeline. It is not a dedicated sleep tracker.',
       },
     ],
   }),
@@ -267,11 +269,11 @@ export const searchPages: SearchPage[] = [
     kind: 'feature',
     title: 'Doctor-Ready Symptom Report App for iPhone | Zebra',
     description:
-      'Create a doctor-ready report from flares, symptoms, meds, salt, water, orthostatic vitals, triggers, notes, and functional impact.',
+      'Create a doctor-ready report from flares, symptoms, meds, salt, water, orthostatic vitals, triggers, notes, and appointment context.',
     eyebrow: 'Doctor report',
     h1: 'A doctor-ready symptom report from the history you already tracked.',
     directAnswer:
-      'Zebra turns patient-entered flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and functional impact into a doctor-ready PDF report for appointments.',
+      'Zebra turns patient-entered flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context into a doctor-ready PDF report for appointments.',
     summary: [
       'The report is designed for the moment when memory gets thin and the appointment clock is running.',
       'It gives you a clearer way to show what happened between appointments without promising a diagnosis or specific outcome.',
@@ -279,7 +281,7 @@ export const searchPages: SearchPage[] = [
     whyTitle: 'Why a doctor-ready report helps',
     why: [
       'A dated summary is easier to review than scattered notes, screenshots, and app exports.',
-      'Recent symptoms, medications, orthostatic context, salt, water, and functional impact can stay in one report.',
+      'Recent symptoms, medications, orthostatic context, salt, water, triggers, and notes can stay in one report.',
       'You can use the report to prepare questions before the visit and spend less energy rebuilding the timeline.',
     ],
     tracksTitle: 'What Zebra can include in the report',
@@ -297,7 +299,7 @@ export const searchPages: SearchPage[] = [
       {
         question: 'What should I track before an appointment?',
         answer:
-          'Start with flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, function, and questions you want to ask.',
+          'Start with flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and questions you want to ask.',
       },
     ],
   }),
@@ -310,7 +312,7 @@ export const searchPages: SearchPage[] = [
     eyebrow: 'Flare tracker',
     h1: 'A flare tracker for bad days, brain fog, and appointment proof.',
     directAnswer:
-      'Zebra is an iPhone flare tracker that helps people quickly track severity, duration, symptoms, medications, triggers, notes, and functional impact, then use that history for a doctor report.',
+      'Zebra is an iPhone flare tracker that helps people quickly track severity, duration, symptoms, medications, triggers, and notes, then use that history for a doctor report.',
     summary: [
       'A flare tracker only works if it is usable during the flare. Zebra keeps the check-in short so a dizzy, exhausted, foggy, or painful day can still be captured.',
       'Later, those short check-ins become a clearer timeline for appointments.',
@@ -468,7 +470,7 @@ export const searchPages: SearchPage[] = [
       rows: [
         { factor: 'Best fit', first: 'Pacing and energy management support', second: 'Symptom tracking and appointment reports' },
         { factor: 'Condition focus', first: 'Energy-limiting chronic illness', second: 'POTS, EDS, Fibromyalgia, dysautonomia overlap' },
-        { factor: 'Hardware', first: 'May involve wearable hardware depending on plan', second: 'iPhone app only' },
+        { factor: 'Hardware', first: 'Pacing workflows may use additional wearable context', second: 'iPhone app; no separate Zebra hardware required' },
         { factor: 'Doctor report', first: 'Not the primary promise', second: 'Core workflow and Premium payoff' },
       ],
     },
@@ -652,7 +654,7 @@ export const searchPages: SearchPage[] = [
     comparison: {
       columns: ['Generic chronic illness apps', 'Zebra'],
       rows: [
-        { factor: 'Main framing', first: 'Often broad wellness or habit tracking', second: 'Invisible illness and appointment prep' },
+        { factor: 'Main framing', first: 'Often broad wellness or routine tracking', second: 'Invisible illness and appointment prep' },
         { factor: 'Overlap support', first: 'May require custom setup', second: 'POTS, EDS, Fibromyalgia together' },
         { factor: 'Bad-day use', first: 'Can become too much', second: 'Under-60-second check-ins' },
         { factor: 'Report payoff', first: 'Varies by app', second: 'Doctor-ready PDF report with Premium' },

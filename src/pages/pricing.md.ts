@@ -13,7 +13,7 @@ Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 
 - Core tracking features
 - 30 days of history
-- Track flares, symptoms, medications, salt, water, triggers, notes, function, and orthostatic vitals
+- Track flares, symptoms, medications, salt, water, triggers, notes, appointment context, and orthostatic vitals
 
 ## Premium
 
@@ -21,7 +21,7 @@ Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 - Unlimited history
 - Doctor-ready PDF report export
 - Full orthostatic test archive
-- Eligible new subscribers may receive a 7-day free trial through Apple
+- The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing
 
 ## Important Notes
 

@@ -20,7 +20,7 @@ const faqItems = [
   {
     question: 'What does Zebra track?',
     answer:
-      'Zebra tracks daily flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, functional impact, and doctor-ready PDF reports.',
+      'Zebra tracks daily flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, appointment context, and doctor-ready PDF reports.',
   },
   {
     question: 'Can Zebra help prepare for appointments?',
@@ -30,12 +30,12 @@ const faqItems = [
   {
     question: 'How is Zebra different from a generic symptom tracker app?',
     answer:
-      'Zebra is built for chronic illness tracking and appointment preparation rather than generic wellness streaks. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, function, and notes in one timeline so the history is easier to review later.',
+      'Zebra is built for chronic illness tracking and appointment preparation rather than generic wellness streaks. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, triggers, and notes in one timeline so the history is easier to review later.',
   },
   {
     question: 'Can Zebra help with EDS, dysautonomia, Fibromyalgia, Long COVID, or ME/CFS?',
     answer:
-      'Yes. Zebra is designed for overlapping chronic illness patterns where symptoms, function, triggers, medications, and appointment context are hard to summarize from memory.',
+      'Yes. Zebra is designed for overlapping chronic illness patterns where symptoms, triggers, medications, notes, and appointment context are hard to summarize from memory.',
   },
   {
     question: 'Why use Zebra instead of Notes or a spreadsheet?',
@@ -50,7 +50,7 @@ const faqItems = [
   {
     question: 'Where is Zebra data stored?',
     answer:
-      'Your data stays on your iPhone and iCloud. Zebra does not require an account or run a health-data server.',
+      'App health data is stored on your iPhone and may sync through your personal iCloud account, depending on Apple/iCloud settings and the current app build. Zebra does not require a Zebra account or run a separate Zebra health-data server.',
   },
   {
     question: 'Does Zebra diagnose or treat anything?',
@@ -60,7 +60,7 @@ const faqItems = [
   {
     question: 'What does Premium include?',
     answer:
-      'The free tier includes core tracking and 30 days of history. Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive. Eligible new subscribers may receive a 7-day free trial through Apple.',
+      'The free tier includes core tracking and 30 days of history. Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive. The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing.',
   },
   {
     question: 'Is Zebra available on Android?',
@@ -75,7 +75,7 @@ const faqItems = [
   {
     question: 'Can I export a doctor report?',
     answer:
-      'Yes. Zebra can turn your tracked history into a doctor-ready PDF report with symptoms, flares, medications, salt, water, orthostatic vitals, notes, and functional impact.',
+      'Yes. Zebra can turn your tracked history into a doctor-ready PDF report with symptoms, flares, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context.',
   },
   {
     question: 'Is Zebra a fitness app?',
@@ -172,7 +172,7 @@ export const homePage = {
       },
       {
         title: 'Symptoms',
-        body: 'Keep dizziness, pain, fatigue, brain fog, palpitations, sleep issues, and overlap symptoms in one dated history.',
+        body: 'Keep dizziness, pain, fatigue, brain fog, palpitations, notes, and overlap symptoms in one dated history.',
       },
       {
         title: 'Medications',
@@ -213,19 +213,19 @@ export const homePage = {
         source: 'EDS / HSD',
         title: 'Invisible disability is rarely one symptom.',
         body:
-          'EDS and hypermobility spectrum disorders can affect multiple body systems and daily function. Zebra gives pain, fatigue, mobility impact, notes, and overlap symptoms one calm place to land.',
+          'EDS and hypermobility spectrum disorders can affect multiple body systems. Zebra gives pain, fatigue, notes, and overlap symptoms one calm place to land.',
       },
       {
         source: 'Fibromyalgia',
-        title: 'Pain, fatigue, sleep, and brain fog belong together.',
+        title: 'Pain, fatigue, notes, and brain fog belong together.',
         body:
-          'Fibromyalgia commonly involves widespread pain, fatigue, sleep problems, and thinking or memory issues. Zebra helps keep those changes reviewable before an appointment.',
+          'Fibromyalgia commonly involves widespread pain, fatigue, sleep problems, and thinking or memory issues. Zebra helps keep flares, symptoms, medications, triggers, and notes reviewable before an appointment.',
       },
       {
         source: 'Long COVID and ME/CFS overlap',
         title: 'Timing can matter when symptoms worsen later.',
         body:
-          'Long COVID and ME/CFS guidance highlights post-exertional symptom worsening and flare history. Zebra helps preserve timing, possible triggers, function changes, and recovery notes without turning tracking into homework.',
+          'Long COVID and ME/CFS guidance highlights post-exertional symptom worsening and flare history. Zebra helps preserve timing, possible triggers, and recovery notes without turning tracking into homework.',
       },
     ],
     note:
@@ -255,13 +255,13 @@ export const homePage = {
     intro:
       'Most tracker apps make you build your own system or frame the body like a wellness project. Zebra is built for the harder job: tracking POTS, EDS, Fibromyalgia, dysautonomia, and overlapping symptoms when you are already tired.',
     answer:
-      'Zebra is an iPhone symptom tracker for invisible illness. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, function, triggers, and notes in one record so you can create proof for appointments. The goal is not diagnosis. The goal is less memory work and a clearer doctor report.',
+      'Zebra is an iPhone symptom tracker for invisible illness. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, triggers, notes, and appointment context in one record so you can create proof for appointments. The goal is not diagnosis. The goal is less memory work and a clearer doctor report.',
     differencesTitle: 'Why use Zebra instead of Notes, spreadsheets, or a generic symptom tracker app?',
     differences: [
       {
         label: 'Structure',
         generic: 'Notes and spreadsheets start blank, so you have to invent the system while you are already tired and trying to remember what matters.',
-        zebra: 'Zebra gives symptom tracking structure from the start: flares, symptoms, function, triggers, meds, salt, water, orthostatic vitals, and notes.',
+        zebra: 'Zebra gives symptom tracking structure from the start: flares, symptoms, triggers, meds, salt, water, orthostatic vitals, and notes.',
       },
       {
         label: 'Orthostatic tracking',
@@ -294,11 +294,11 @@ export const homePage = {
       },
       {
         name: 'Dysautonomia symptom tracker',
-        body: 'Keep autonomic symptoms, position changes, triggers, medications, and daily function in one timeline instead of scattered notes.',
+        body: 'Keep autonomic symptoms, position changes, triggers, medications, and notes in one timeline instead of scattered notes.',
       },
       {
         name: 'EDS and hEDS symptom tracking',
-        body: 'Record pain, fatigue, mobility limits, overlap symptoms, and functional impact so variability is easier to explain later.',
+        body: 'Record pain, fatigue, overlap symptoms, and notes so variability is easier to explain later.',
       },
       {
         name: 'Fibromyalgia symptom tracker',
@@ -310,7 +310,7 @@ export const homePage = {
       },
       {
         name: 'ME/CFS symptom journal',
-        body: 'Use lower-effort check-ins to preserve history around fatigue, post-exertional worsening, function, and recovery windows.',
+        body: 'Use lower-effort check-ins to preserve history around fatigue, post-exertional worsening, and recovery notes.',
       },
     ],
     trustTitle: 'Zebra helps organize health history. It does not diagnose or replace medical care.',
@@ -329,7 +329,7 @@ export const homePage = {
       'Zebra turns patient-entered symptom history into a doctor-ready PDF report you can review before a specialist appointment instead of reconstructing the month from memory.',
     body: [
       'Instead of retelling the month from memory, you can review a dated record of what happened, how often, and what changed.',
-      'The 30-day summary can include flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and functional impact so appointment prep depends less on perfect recall.',
+      'The 30-day summary can include flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context so appointment prep depends less on perfect recall.',
     ],
     bullets: [
       'Symptoms, flares, meds, and triggers together in one dated history',
@@ -369,7 +369,7 @@ export const homePage = {
     outcomesLabel: 'What you have after 30 days',
     outcomes: [
       'A clearer symptom history instead of scattered notes',
-      'A timeline of flares, changes, and function impact',
+      'A timeline of flares, changes, and notes',
       'Context around triggers, medications, salt, water, and orthostatic changes',
       'Orthostatic test history connected to the rest of the month',
       'A doctor-ready report you can review or share before the visit',
@@ -397,7 +397,7 @@ export const homePage = {
     steps: [
       {
         label: 'Track symptoms and context',
-        body: 'Log symptoms, flares, orthostatic vitals, meds, salt, water, function, and notes in one quick check-in.',
+        body: 'Log symptoms, flares, orthostatic vitals, meds, salt, water, triggers, and notes in one quick check-in.',
       },
       {
         label: 'See patterns over time',
@@ -423,7 +423,7 @@ export const homePage = {
       {
         ...screenshotStory.dailyTracking,
         title: 'Daily check-in',
-        body: 'Track symptoms, triggers, hydration, meds, function, and notes.',
+        body: 'Track symptoms, triggers, hydration, meds, and notes.',
       },
       {
         ...screenshotStory.orthostaticTest,
@@ -542,14 +542,14 @@ export const homePage = {
   },
   careContext: {
     id: 'care-context',
-    eyebrow: 'Medication, hydration, salt, function, and notes',
+    eyebrow: 'Medication, hydration, salt, triggers, and notes',
     title: 'Keep the context that usually gets lost.',
     intro: 'Symptoms make more sense when the surrounding context is still attached to the same day.',
     body: [
-      'Zebra keeps medications, hydration, salt, function changes, and notes beside symptoms so flares are easier to review later and appointment prep takes less reconstructing.',
+      'Zebra keeps medications, hydration, salt, triggers, and notes beside symptoms so flares are easier to review later and appointment prep takes less reconstructing.',
     ],
     momentLabel: 'The context that stays attached',
-    sequence: ['Medication changes', 'Hydration and salt', 'Function impact', 'Notes for later'],
+    sequence: ['Medication changes', 'Hydration and salt', 'Triggers', 'Notes for later'],
     bullets: [
       'Medication context beside symptoms',
       'Salt and water tracked with the rest of the day',
@@ -592,7 +592,7 @@ export const homePage = {
     items: [
       {
         title: 'Privacy-first',
-        body: 'Your app health data stays on your iPhone and private iCloud account. Zebra does not require an account or run a health-data server.',
+        body: 'App health data is stored on your iPhone and may sync through your personal iCloud account, depending on Apple/iCloud settings and the current app build. Zebra does not require a Zebra account or run a separate Zebra health-data server.',
       },
       {
         title: 'Best for specialist prep',
@@ -669,7 +669,7 @@ export const homePage = {
           'deal with brain fog or low-energy days',
           'track flares and symptom changes across the month',
           'need better appointment preparation before a specialist visit',
-          'want better context around symptoms, heart rate, medications, and daily function',
+          'want better context around symptoms, heart rate, medications, and notes',
         ],
       },
       {
@@ -721,7 +721,7 @@ export const homePage = {
       {
         href: '/fibromyalgia-tracker/',
         label: 'Fibromyalgia tracker app',
-        description: 'A focused page for tracking fibro flares, pain, fatigue, sleep problems, brain fog, medications, and appointment notes.',
+        description: 'A focused page for tracking fibro flares, pain, fatigue, brain fog, medications, and appointment notes.',
       },
       {
         href: '/orthostatic-vitals-test/',
@@ -786,7 +786,7 @@ export const homePage = {
       {
         href: '/blog/what-to-track-before-a-specialist-appointment/',
         label: 'What to track before a specialist appointment',
-        description: 'A practical checklist for symptoms, flares, meds, function changes, and questions.',
+        description: 'A practical checklist for symptoms, flares, meds, notes, and questions.',
       },
       {
         href: '/blog/how-to-track-pots-symptoms-and-orthostatic-changes/',
@@ -866,7 +866,7 @@ export const homePage = {
       {
         href: '/knowledge/eds/',
         label: 'EDS / hEDS condition hub',
-        description: 'A connected guide to EDS/hEDS overlap symptoms, daily function, and specialist appointment preparation.',
+        description: 'A connected guide to EDS/hEDS overlap symptoms, notes, and specialist appointment preparation.',
       },
       {
         href: '/blog/best-symptom-tracker-apps-for-pots-2026/',
@@ -919,7 +919,7 @@ export const homePage = {
       {
         label: 'NIAMS: Fibromyalgia',
         href: 'https://www.niams.nih.gov/health-topics/fibromyalgia',
-        body: 'Used for pain, fatigue, sleep, and fibro fog context.',
+        body: 'Used for pain, fatigue, notes, and fibro fog context.',
       },
       {
         label: 'CDC: Long COVID symptoms',
@@ -1084,7 +1084,7 @@ export const privacyPage = {
     {
       heading: 'App health data',
       paragraphs: [
-        "All health information you enter in the Zebra app — including daily check-ins, flare logs, orthostatic test results, symptoms, medications, and salt and hydration entries — is stored locally on your device using Apple's SwiftData framework. This data is synced privately to your personal iCloud account via CloudKit. We never receive, access, or store your health data on our servers.",
+        "All health information you enter in the Zebra app — including daily check-ins, flare logs, orthostatic test results, symptoms, medications, and salt and hydration entries — is stored locally on your device using Apple's SwiftData framework. Depending on Apple/iCloud settings and the current app build, this data may sync privately to your personal iCloud account via CloudKit. We never receive, access, or store your health data on our servers.",
       ],
     },
     {
@@ -1120,7 +1120,7 @@ export const privacyPage = {
     {
       heading: 'Data retention',
       paragraphs: [
-        'We retain website contact information only as long as necessary to communicate with users and respond to support requests. App health data lives on your device and iCloud account and is not held by us.',
+        'We retain website contact information only as long as necessary to communicate with users and respond to support requests. App health data is stored on your device and may sync through your personal iCloud account, depending on Apple/iCloud settings and the current app build. It is not held by us.',
       ],
     },
     {
@@ -1175,7 +1175,7 @@ export const termsPage = {
       heading: 'Subscriptions',
       paragraphs: [
         'Zebra offers auto-renewable subscriptions under the name Zebra Premium:',
-        'Prices are in USD and may vary by region as determined by Apple. Eligible new subscribers receive a 7-day free trial. After the trial period, payment is charged through your Apple ID account. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription at any time in iOS Settings → Apple ID → Subscriptions.',
+        'Prices are in USD and may vary by region as determined by Apple. The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing. After the trial period, payment is charged through your Apple ID account. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription at any time in iOS Settings → Apple ID → Subscriptions.',
       ],
       listItems: ['Monthly — $4.99 per month', 'Annual — $39.99 per year'],
     },

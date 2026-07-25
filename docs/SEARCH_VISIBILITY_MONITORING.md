@@ -8,7 +8,7 @@ Short description:
 Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, and Fibromyalgia that helps users track flares, symptoms, medications, salt, water, triggers, notes, and orthostatic vitals, then create a doctor-ready report.
 
 Long description:
-Zebra is a calm iPhone symptom tracker for people with invisible illness, especially POTS, EDS/hEDS, Fibromyalgia, dysautonomia overlap, Long COVID, and ME/CFS. It is built for low-energy days and brain fog, so users can track flares, symptoms, medications, salt, water, triggers, notes, functional impact, and orthostatic vitals in one place. Zebra turns patient-entered history into a doctor-ready report for appointments. Zebra does not diagnose, treat, cure, or replace medical care.
+Zebra is a calm iPhone symptom tracker for people with invisible illness, especially POTS, EDS/hEDS, Fibromyalgia, dysautonomia overlap, Long COVID, and ME/CFS. It is built for low-energy days and brain fog, so users can track flares, symptoms, medications, salt, water, triggers, notes, appointment context, and orthostatic vitals in one place. Zebra turns patient-entered history into a doctor-ready report for appointments. Zebra does not diagnose, treat, cure, or replace medical care.
 
 ## Monthly AI/Search Queries
 
@@ -41,7 +41,7 @@ Track these monthly across Google Search, Google AI Overviews, ChatGPT, Perplexi
 ## Outreach Blurbs
 
 Directory submission:
-Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, and Fibromyalgia. It helps people track flares, symptoms, medications, salt, water, triggers, notes, functional impact, and orthostatic vitals in under 60 seconds, then create a doctor-ready report for appointments.
+Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, and Fibromyalgia. It helps people track flares, symptoms, medications, salt, water, triggers, notes, appointment context, and orthostatic vitals in under 60 seconds, then create a doctor-ready report for appointments.
 
 Creator outreach:
 I built Zebra for people with invisible illness who are tired of jumping between notes, spreadsheets, and generic trackers. It is an iPhone app for POTS, EDS/hEDS, and Fibromyalgia that keeps flares, symptoms, meds, salt, water, orthostatic vitals, and appointment notes in one place, then turns them into a doctor-ready report.

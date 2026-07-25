@@ -10,7 +10,7 @@ export const GET: APIRoute = () => {
 
 Last updated: 2026-07-25
 
-Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomia, Long COVID, ME/CFS, and overlapping invisible illness. It helps users track flares, symptoms, medications, salt, water, triggers, notes, function, and orthostatic vitals, then create a doctor-ready report.
+Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomia, Long COVID, ME/CFS, and overlapping invisible illness. It helps users track flares, symptoms, medications, salt, water, triggers, notes, appointment context, and orthostatic vitals, then create a doctor-ready report.
 
 ## Main Features
 
@@ -19,8 +19,9 @@ Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomi
 - Medication tracking
 - Salt and water tracking
 - Trigger and note tracking
-- Functional impact tracking
 - Guided orthostatic vitals tracking with lying, sitting, and standing observations
+- Optional HealthKit heart-rate support for the orthostatic flow
+- Gentle daily reminders users can control
 - Doctor-ready PDF report export with Premium
 
 ## Product Boundaries
