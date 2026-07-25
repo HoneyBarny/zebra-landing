@@ -14,6 +14,7 @@ import ShowcaseSection from '../components/landing/ShowcaseSection.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import SiteHeader from '../components/landing/SiteHeader.astro';
 import TrustSection from '../components/landing/TrustSection.astro';
+import WhatZebraTracksSection from '../components/landing/WhatZebraTracksSection.astro';
 import { homePage } from '../data/site-content';
 ---
 
@@ -34,6 +35,7 @@ import { homePage } from '../data/site-content';
         appStoreBadgeURL={homePage.appStore.badgeUrl}
       />
       <ProblemSection {...homePage.problem} />
+      <WhatZebraTracksSection {...homePage.whatZebraTracks} />
       <ReportSection
         {...homePage.doctorReport}
         appStoreURL={homePage.appStore.url}

@@ -5,7 +5,7 @@ const faqItems = [
   {
     question: 'What is Zebra?',
     answer:
-      'Zebra is an iPhone symptom tracker for POTS, dysautonomia, EDS/hEDS, Fibromyalgia, Long COVID, ME/CFS, and overlapping chronic illness symptoms. It helps you track patient-entered history and turn it into a doctor-ready report for appointments.',
+      'Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomia, and overlapping invisible illness symptoms. It helps you track patient-entered history and turn it into proof for doctor appointments.',
   },
   {
     question: 'Who is Zebra for?',
@@ -20,7 +20,7 @@ const faqItems = [
   {
     question: 'What does Zebra track?',
     answer:
-      'Symptoms, flares, orthostatic vitals, medications, triggers, salt, water, function, and notes all stay in one timeline.',
+      'Zebra tracks daily flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, functional impact, and doctor-ready PDF reports.',
   },
   {
     question: 'Can Zebra help prepare for appointments?',
@@ -60,7 +60,27 @@ const faqItems = [
   {
     question: 'What does Premium include?',
     answer:
-      'Premium unlocks doctor report export, unlimited history, and the full orthostatic archive. The free tier includes core tracking and 30 days of history.',
+      'The free tier includes core tracking and 30 days of history. Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive. Eligible new subscribers may receive a 7-day free trial through Apple.',
+  },
+  {
+    question: 'Is Zebra available on Android?',
+    answer:
+      'Not yet. Zebra is currently built for iPhone and available on the Apple App Store.',
+  },
+  {
+    question: 'Can I use Zebra before I am diagnosed?',
+    answer:
+      'Yes. Zebra can help you track symptoms, flares, and appointment notes before or after a diagnosis. It does not diagnose conditions or replace medical care.',
+  },
+  {
+    question: 'Can I export a doctor report?',
+    answer:
+      'Yes. Zebra can turn your tracked history into a doctor-ready PDF report with symptoms, flares, medications, salt, water, orthostatic vitals, notes, and functional impact.',
+  },
+  {
+    question: 'Is Zebra a fitness app?',
+    answer:
+      'No. Zebra is not a fitness app, wellness streak app, or habit tracker. It is built for invisible illness tracking and appointment preparation.',
   },
   {
     question: 'How do I get Zebra support?',
@@ -92,22 +112,22 @@ export const homePage = {
     ],
   },
   hero: {
-    eyebrow: 'Symptom tracker for POTS, EDS, and dysautonomia',
-    title: 'Track POTS, EDS, and dysautonomia symptoms in one iPhone app before the next appointment.',
+    eyebrow: 'Now available on the App Store',
+    title: 'Track your flares. Bring proof to your doctor.',
     body:
-      'Zebra is an iPhone symptom tracker built for specialist appointment prep. Track symptoms, flares, orthostatic vitals, medications, salt, water, function, and notes in one record so you can walk in with a doctor-ready report instead of rebuilding the month from memory.',
+      'Zebra is live on iPhone for people tracking POTS, EDS, Fibromyalgia, dysautonomia, and overlapping invisible illness. Track symptoms, meds, salt, water, orthostatic vitals, flares, and notes in under 60 seconds, then turn the history into a doctor-ready report.',
     answerStrip: [
       {
         label: 'What it is',
-        value: 'An iPhone symptom tracker for POTS, EDS, and dysautonomia that turns patient-entered history into a doctor-ready report.',
+        value: 'A live iPhone app for tracking POTS, EDS, Fibromyalgia, dysautonomia, flares, and appointment proof.',
       },
       {
         label: 'Who it is for',
-        value: 'People managing POTS, dysautonomia, EDS/hEDS, and overlapping chronic illness symptoms that are hard to explain later.',
+        value: 'People with invisible illness, brain fog, chronic flares, and symptoms that are hard to explain from memory.',
       },
       {
         label: 'Why it is different',
-        value: 'It keeps orthostatic context, daily symptom history, and appointment prep in one place instead of splitting them across Notes, spreadsheets, or generic trackers.',
+        value: 'It keeps daily tracking, orthostatic context, and doctor reports in one place without wellness streaks or generic setup.',
       },
     ],
     quickLinks: [
@@ -125,19 +145,57 @@ export const homePage = {
       },
     ],
     trustLine:
-      'Track free. Export the doctor report with Premium. Your data stays on your iPhone and iCloud. Zebra is for tracking and appointment prep, not diagnosis.',
-    ctaSupport: ['Private by design', 'No account required', 'Patient-entered history only', 'Not medical advice'],
+      'Now available on the App Store. Track free. Export doctor-ready PDF reports with Premium. Built for iPhone, invisible illness, and appointment prep, not diagnosis.',
+    ctaText: 'Start tracking today',
+    ctaSupport: ['Available for iPhone', 'Built for flare days', 'Private by design', 'Not medical advice'],
     bullets: [
-      'Built for brain fog',
-      'Made for specialist appointments',
-      'Built around orthostatic context',
+      'Under-60-second check-ins',
+      'POTS + EDS + Fibromyalgia in one app',
+      'Doctor-ready proof',
     ],
     showcase: heroShowcase,
     supportCard: {
       eyebrow: 'The report is the payoff',
-      title: 'The appointment starts with the symptom history already organized.',
-      body: 'The daily tracker exists so the report can show what changed, how often it happened, and what might be connected before the specialist starts asking.',
+      title: 'Open Zebra before the appointment instead of rebuilding the month from memory.',
+      body: 'Daily flare tracking becomes proof: symptoms, meds, salt, water, orthostatic vitals, and notes organized into a report you can review.',
     },
+  },
+  whatZebraTracks: {
+    eyebrow: 'What Zebra tracks',
+    title: 'One calm place for the details that usually get scattered.',
+    intro:
+      'Zebra keeps the daily record short, structured, and useful later. On a hard day, track only what matters and leave.',
+    items: [
+      {
+        title: 'Daily flares',
+        body: 'Track flare severity, duration, and what changed without writing a full diary.',
+      },
+      {
+        title: 'Symptoms',
+        body: 'Keep POTS, EDS, Fibromyalgia, dysautonomia, pain, fatigue, dizziness, and brain fog in one history.',
+      },
+      {
+        title: 'Medications',
+        body: 'Record medication timing and notes so changes are easier to review later.',
+      },
+      {
+        title: 'Salt and water',
+        body: 'Track hydration and salt beside symptoms instead of in a separate note.',
+      },
+      {
+        title: 'Orthostatic vitals',
+        body: 'Save lying, sitting, and standing observations with the rest of the day.',
+      },
+      {
+        title: 'Triggers and notes',
+        body: 'Add context when it helps, but skip it when you are tired.',
+      },
+      {
+        title: 'Doctor-ready PDF reports',
+        body: 'Turn 30 days of tracking into a cleaner appointment summary.',
+      },
+    ],
+    note: 'Zebra is for tracking and appointment preparation. It does not diagnose, treat, or replace medical care.',
   },
   problem: {
     eyebrow: 'Recognize the problem',
@@ -159,17 +217,17 @@ export const homePage = {
   },
   searchContent: {
     eyebrow: 'Why Zebra is different',
-    title: 'A symptom tracker for POTS, EDS, and dysautonomia built for appointments, not wellness streaks.',
+    title: 'Built for invisible illness, not generic wellness tracking.',
     intro:
-      'Most symptom tracker apps help you log a day. Zebra is built for the harder job: keeping enough context to explain POTS, EDS, dysautonomia, and overlapping symptoms later in a specialist visit.',
+      'Most tracker apps make you build your own system or frame the body like a wellness project. Zebra is built for the harder job: tracking POTS, EDS, Fibromyalgia, dysautonomia, and overlapping symptoms when you are already tired.',
     answer:
-      'Zebra is an iPhone symptom tracker for POTS, EDS, and dysautonomia that keeps symptoms, flares, orthostatic vitals, medications, salt, water, function, and notes in one record. The goal is not diagnosis. The goal is a clearer doctor-ready report before a specialist appointment.',
+      'Zebra is an iPhone symptom tracker for invisible illness. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, function, triggers, and notes in one record so you can create proof for appointments. The goal is not diagnosis. The goal is less memory work and a clearer doctor report.',
     differencesTitle: 'Why use Zebra instead of Notes, spreadsheets, or a generic symptom tracker app?',
     differences: [
       {
         label: 'Structure',
         generic: 'Notes and spreadsheets start blank, so you have to invent the system while you are already tired and trying to remember what matters.',
-        zebra: 'Zebra gives symptom tracking structure from the start: symptoms, flares, function, triggers, meds, salt, water, and notes.',
+        zebra: 'Zebra gives symptom tracking structure from the start: flares, symptoms, function, triggers, meds, salt, water, orthostatic vitals, and notes.',
       },
       {
         label: 'Orthostatic tracking',
@@ -184,7 +242,12 @@ export const homePage = {
       {
         label: 'Privacy',
         generic: 'Many health tools require an account, sync through a service, or feel broader than the problem you need solved.',
-        zebra: 'Zebra is private by design, requires no account, and keeps the focus on your own record for care conversations.',
+        zebra: 'Zebra is private by design and keeps the focus on your own record for care conversations.',
+      },
+      {
+        label: 'Flare days',
+        generic: 'Wellness and habit apps can make tracking feel like another task you failed to complete.',
+        zebra: 'Zebra is designed for dizzy, exhausted, foggy, or painful days where one quick check-in is enough.',
       },
     ],
     conditionsTitle: 'Built first for POTS, EDS, and dysautonomia, with support for overlapping conditions too.',
@@ -227,12 +290,12 @@ export const homePage = {
   },
   doctorReport: {
     eyebrow: 'Doctor-ready report',
-    title: 'The main payoff is walking in with a doctor-ready report.',
+    title: 'Download Zebra and create proof for the next appointment.',
     answer:
-      'Zebra turns patient-entered symptom history into a report you can review before a specialist appointment instead of reconstructing the month from memory.',
+      'Zebra turns patient-entered symptom history into a doctor-ready PDF report you can review before a specialist appointment instead of reconstructing the month from memory.',
     body: [
       'Instead of retelling the month from memory, you can review a dated record of what happened, how often, and what changed.',
-      'The report is built from patient-entered symptoms, flares, orthostatic vitals, medications, triggers, salt, water, notes, and functional impact so the visit can start from a cleaner shared picture.',
+      'The 30-day summary can include flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and functional impact so appointment prep depends less on perfect recall.',
     ],
     bullets: [
       'Symptoms, flares, meds, and triggers together in one dated history',
@@ -289,7 +352,7 @@ export const homePage = {
         points: ['Review the timeline', 'Export the doctor report', 'Spend the visit talking, not reconstructing'],
       },
     ],
-    ctaNote: 'Start free now. Upgrade only when you want to export the report.',
+    ctaNote: 'Download Zebra and create your first report. Track free; report export is included with Premium.',
     media: screenshotStory.doctorReport,
   },
   howItWorks: {
@@ -348,11 +411,11 @@ export const homePage = {
   },
   dailyTracking: {
     id: 'daily-tracking',
-    eyebrow: 'Daily tracking',
-    title: 'Track symptoms and flares without building your own system first.',
-    intro: 'Symptoms, triggers, hydration, medications, function, and notes stay in one low-effort flow.',
+    eyebrow: 'Built for flare days',
+    title: 'On a hard day, one quick check-in is enough.',
+    intro: 'Zebra is designed to stay usable when you are dizzy, exhausted, foggy, or in pain.',
     body: [
-      'You open Zebra, log what matters, and move on. No blank setup. No wellness homework. No second app just for notes.',
+      'Open Zebra, tap what changed, and leave. No blank setup. No wellness homework. No streaks. The goal is a usable record, not more time in the app.',
     ],
     momentLabel: 'What happens in under a minute',
     sequence: ['Open Zebra', 'Tap what changed', 'Return to your day'],
@@ -373,7 +436,7 @@ export const homePage = {
         body: 'That is what makes the doctor report possible.',
       },
     ],
-    ctaLabel: 'Start tracking on iPhone',
+    ctaLabel: 'Start tracking today',
     ctaHref: siteConfig.appStore.url,
     ctaNote: 'One calm place for the daily record.',
     media: screenshotStory.dailyTracking,
@@ -438,7 +501,7 @@ export const homePage = {
         body: 'You can review what happened before the room gets overwhelming.',
       },
     ],
-    ctaLabel: 'Download Zebra',
+    ctaLabel: 'Get Zebra for iPhone',
     ctaHref: siteConfig.appStore.url,
     ctaNote: 'The clearer the history, the better the report.',
     media: screenshotStory.trends,
@@ -495,7 +558,7 @@ export const homePage = {
     items: [
       {
         title: 'Privacy-first',
-        body: 'Your data stays on your iPhone and private iCloud account.',
+        body: 'Your app health data stays on your iPhone and private iCloud account. Zebra does not run a health-data server.',
       },
       {
         title: 'Best for specialist prep',
@@ -507,7 +570,7 @@ export const homePage = {
       },
       {
         title: 'Brain-fog-friendly',
-        body: 'Short flows, clear hierarchy, low-energy use.',
+        body: 'Short flows, clear hierarchy, and low-energy use for flare days.',
       },
       {
         title: 'Specialist focused',
@@ -719,12 +782,12 @@ export const homePage = {
   },
   finalCta: {
     eyebrow: 'Download Zebra',
-    title: 'Start tracking before the next appointment asks you to remember everything.',
+    title: 'Get Zebra for iPhone before your next appointment.',
     body:
-      'Begin with the free tracker today. Upgrade only when you want doctor report export and full history.',
+      'Start tracking today with the free tier. Upgrade only when you want unlimited history, doctor-ready PDF reports, and the full orthostatic archive.',
     endState: 'A calmer appointment starts with a record you do not have to rebuild.',
     trustLine:
-      'Track free. No account required. Doctor report export with Premium. Your data stays on your device. Not medical advice.',
+      'Available now on the App Store. Track free. Premium includes doctor report export and full history. Not medical advice.',
   },
   footer: {
     body: 'Zebra is an iPhone symptom tracker for POTS, dysautonomia, EDS, Fibromyalgia, and overlapping chronic illness, built for clearer records and specialist appointments.',
@@ -761,10 +824,10 @@ export const homePage = {
       url: siteConfig.siteUrl,
       downloadUrl: siteConfig.appStore.url,
       featureList: [
-        'Track symptoms, flares, triggers, hydration, and medications',
+        'Track daily flares, symptoms, triggers, hydration, salt, and medications',
         'Record orthostatic vitals in one guided flow',
         'Organize POTS, EDS, dysautonomia, Fibromyalgia, Long COVID, and ME/CFS symptom history',
-        'Export a doctor-ready report for appointments',
+        'Export a doctor-ready PDF report for appointments',
       ],
     },
     {
@@ -865,22 +928,22 @@ export const privacyPage = {
       ],
     },
     {
-      heading: 'Website and waitlist',
+      heading: 'Website contact',
       paragraphs: [
-        'If you join the waitlist or contact us via this website, we may collect your email address and any information you voluntarily include. We use this to send updates about Zebra and reply to questions. We do not sell your personal information. We may use third-party services such as email or hosting providers to manage communications.',
+        'If you contact us via this website, we may collect your email address and any information you voluntarily include. We use this to reply to questions and send product-related support when requested. We do not sell your personal information. We may use third-party services such as email or hosting providers to manage communications.',
       ],
     },
     {
       heading: 'Data retention',
       paragraphs: [
-        'We retain waitlist and contact information only as long as necessary to communicate with interested users. App health data lives on your device and iCloud account and is not held by us.',
+        'We retain website contact information only as long as necessary to communicate with users and respond to support requests. App health data lives on your device and iCloud account and is not held by us.',
       ],
     },
     {
       heading: 'Your choices',
       appendContactEmail: true,
       paragraphs: [
-        'You can delete all app data by deleting the Zebra app from your device. To request removal of waitlist or contact information, email us using the contact link below.',
+        'You can delete all app data by deleting the Zebra app from your device. To request removal of website contact information, email us using the contact link below.',
       ],
     },
     {

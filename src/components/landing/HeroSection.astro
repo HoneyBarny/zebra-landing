@@ -25,6 +25,7 @@ interface Props {
     href: string;
   }>;
   trustLine: string;
+  ctaText: string;
   ctaSupport: string[];
   bullets: string[];
   showcase: HeroShowcaseItem[];
@@ -44,6 +45,7 @@ const {
   answerStrip,
   quickLinks = [],
   trustLine,
+  ctaText,
   ctaSupport,
   bullets,
   showcase,
@@ -75,6 +77,7 @@ const {
     )}
     <div class="hero-cta-band" aria-label="Primary download call to action">
       <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" />
+      <a class="hero-text-cta" href={appStoreURL} target="_blank" rel="noopener noreferrer">{ctaText}</a>
     </div>
     <ul class="cta-support-list" aria-label="Download reassurance">
       {ctaSupport.map((item) => <li>{item}</li>)}

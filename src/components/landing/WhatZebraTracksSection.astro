@@ -1,0 +1,31 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface TrackItem {
+  title: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: TrackItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, items, note } = Astro.props;
+---
+
+<section class="section tracks-section section-band" id="what-zebra-tracks" aria-labelledby="tracks-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="tracks-heading" narrow={true} />
+  <div class="tracks-grid">
+    {items.map((item) => (
+      <article class="track-card">
+        <h3>{item.title}</h3>
+        <p>{item.body}</p>
+      </article>
+    ))}
+  </div>
+  <p class="tracks-note">{note}</p>
+</section>
