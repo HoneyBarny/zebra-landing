@@ -1,9 +1,13 @@
 import type { APIRoute } from 'astro';
 
+import { searchPages } from '../data/search-pages';
 import { siteConfig, toAbsoluteUrl } from '../data/site-config';
 
 const appName = siteConfig.brand.productName;
 const appStoreUrl = siteConfig.appStore.url;
+const searchPageLinks = searchPages
+  .map((page) => `- ${page.h1}: ${toAbsoluteUrl(`/${page.slug}/`)}`)
+  .join('\n');
 
 export const GET: APIRoute = () => {
   const body = `# ${appName}
@@ -64,6 +68,14 @@ export const GET: APIRoute = () => {
 - Terms: ${toAbsoluteUrl(siteConfig.routes.terms)}
 - Sitemap: ${toAbsoluteUrl('/sitemap.xml')}
 - RSS: ${toAbsoluteUrl('/rss.xml')}
+- Pricing summary: ${toAbsoluteUrl('/pricing.md')}
+- Features summary: ${toAbsoluteUrl('/features.md')}
+- Medical disclaimer: ${toAbsoluteUrl('/medical-disclaimer.md')}
+- Privacy summary: ${toAbsoluteUrl('/privacy-summary.md')}
+
+## Core Product Pages
+
+${searchPageLinks}
 
 ## High-Value Guides
 

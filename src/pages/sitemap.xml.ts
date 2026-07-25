@@ -4,6 +4,7 @@ import { stat } from 'node:fs/promises';
 import { join } from 'node:path';
 
 import { authorProfiles, categoryMeta, entityMetaBySlug } from '../data/content-taxonomy';
+import { searchPageRoutes } from '../data/search-pages';
 import { indexableRoutes, toAbsoluteUrl } from '../data/site-config';
 import {
   articleUrl,
@@ -131,6 +132,7 @@ export const GET: APIRoute = async () => {
 
   const urls = [
     ...indexableRoutes.map((route) => ({ route, lastmod: staticRouteDates.get(route) ?? latestArticleDate })),
+    ...searchPageRoutes.map((route) => ({ route, lastmod: staticRouteDates.get('/') ?? latestArticleDate })),
     { route: '/authors/', lastmod: staticRouteDates.get('/authors/') ?? latestArticleDate },
     ...authorRoutes,
     ...categoryRoutes,

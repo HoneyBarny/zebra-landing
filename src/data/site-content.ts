@@ -80,7 +80,7 @@ const faqItems = [
   {
     question: 'Is Zebra a fitness app?',
     answer:
-      'No. Zebra is not a fitness app, wellness streak app, or habit tracker. It is built for invisible illness tracking and appointment preparation.',
+      'No. Zebra is not a fitness app or streak-based wellness app. It is built for invisible illness tracking and appointment preparation.',
   },
   {
     question: 'How do I get Zebra support?',
@@ -708,6 +708,71 @@ export const homePage = {
     intro:
       'If you are comparing apps, preparing for an appointment, or trying to track POTS, EDS, and dysautonomia more clearly, these are the best places to start.',
     items: [
+      {
+        href: '/pots-tracker/',
+        label: 'POTS tracker app',
+        description: 'A top-level product page for tracking POTS flares, orthostatic vitals, salt, water, medications, and appointment proof.',
+      },
+      {
+        href: '/eds-tracker/',
+        label: 'EDS / hEDS tracker app',
+        description: 'A condition-aware page for EDS overlap symptoms, pain, fatigue, instability, invisible illness, and doctor report prep.',
+      },
+      {
+        href: '/fibromyalgia-tracker/',
+        label: 'Fibromyalgia tracker app',
+        description: 'A focused page for tracking fibro flares, pain, fatigue, sleep problems, brain fog, medications, and appointment notes.',
+      },
+      {
+        href: '/orthostatic-vitals-test/',
+        label: 'Orthostatic vitals test tracker',
+        description: 'A product page for tracking lying, sitting, and standing observations beside symptoms and daily context.',
+      },
+      {
+        href: '/doctor-report/',
+        label: 'Doctor-ready symptom report',
+        description: 'A conversion page explaining how Zebra turns recent symptom history into a clearer appointment summary.',
+      },
+      {
+        href: '/flare-tracker/',
+        label: 'Flare tracker app',
+        description: 'A low-energy tracking page for bad days, symptom severity, triggers, notes, and report-ready history.',
+      },
+      {
+        href: '/symptom-tracker-for-invisible-illness/',
+        label: 'Symptom tracker for invisible illness',
+        description: 'A page for people searching for proof, brain fog support, low-energy check-ins, and appointment preparation.',
+      },
+      {
+        href: '/zebra-vs-visible/',
+        label: 'Zebra vs Visible',
+        description: 'A top-level comparison for people deciding between pacing support and doctor-ready symptom tracking.',
+      },
+      {
+        href: '/zebra-vs-bearable/',
+        label: 'Zebra vs Bearable',
+        description: 'A top-level comparison for people choosing between flexible general tracking and POTS/EDS/Fibro appointment prep.',
+      },
+      {
+        href: '/zebra-vs-apple-notes/',
+        label: 'Zebra vs Apple Notes',
+        description: 'A comparison for people deciding whether structured tracking is better than scattered notes before appointments.',
+      },
+      {
+        href: '/zebra-vs-spreadsheet/',
+        label: 'Zebra vs spreadsheet',
+        description: 'A comparison for people who want symptom history without maintaining columns, formulas, and manual summaries.',
+      },
+      {
+        href: '/best-pots-symptom-tracker-apps/',
+        label: 'Best POTS symptom tracker apps',
+        description: 'A decision-stage page explaining what matters in a POTS tracker before cardiology or specialist appointments.',
+      },
+      {
+        href: '/best-chronic-illness-symptom-tracker-apps/',
+        label: 'Best chronic illness symptom tracker apps',
+        description: 'A broad comparison page for invisible illness, brain fog, flare tracking, and doctor-ready reports.',
+      },
       {
         href: '/blog/best-symptom-tracker-for-pots-dysautonomia-eds/',
         label: 'Best symptom tracker for POTS, dysautonomia, and EDS',

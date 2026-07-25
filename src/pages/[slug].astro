@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppStoreBadge from '../components/landing/AppStoreBadge.astro';
+import Breadcrumbs from '../components/content/Breadcrumbs.astro';
+import SiteFooter from '../components/landing/SiteFooter.astro';
+import SiteHeader from '../components/landing/SiteHeader.astro';
+import { homePage } from '../data/site-content';
+import { siteConfig, toAbsoluteUrl } from '../data/site-config';
+import {
+  getSearchPageUrl,
+  getSoftwareApplicationSchema,
+  searchPages,
+  trustedReferences,
+  type SearchPage,
+} from '../data/search-pages';
+
+export function getStaticPaths() {
+  return searchPages.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props as { page: SearchPage };
+const canonical = getSearchPageUrl(page);
+const schema = [
+  getSoftwareApplicationSchema(page),
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: page.h1,
+    url: canonical,
+    description: page.description,
+    dateModified: '2026-07-25',
+    about: ['POTS', 'EDS', 'Fibromyalgia', 'Symptom tracking', 'Doctor-ready report'],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: toAbsoluteUrl('/'),
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: page.h1,
+        item: canonical,
+      },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: page.faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  },
+];
+---
+
+<BaseLayout
+  title={page.title}
+  description={page.description}
+  ogImage={homePage.seo.ogImage}
+  ogImageAlt={homePage.seo.ogImageAlt}
+  schema={schema}
+>
+  <div class="page-shell">
+    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <main>
+      <section class="section search-page-hero">
+        <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: page.eyebrow }]} />
+        <div class="search-page-hero-grid">
+          <div>
+            <p class="eyebrow">{page.eyebrow}</p>
+            <h1>{page.h1}</h1>
+            <p class="direct-answer">{page.directAnswer}</p>
+            <div class="hero-cta-row">
+              <AppStoreBadge
+                href={siteConfig.appStore.url}
+                src={siteConfig.appStore.badgeUrl}
+                loading="eager"
+                trackingLocation={`search_page_${page.slug}_hero`}
+              />
+              <p>{page.cta}. Built for iPhone. Not medical advice.</p>
+            </div>
+          </div>
+          <aside class="search-page-proof">
+            <p class="mini-label">Zebra in one sentence</p>
+            <strong>Track flares, symptoms, meds, salt, water, and orthostatic vitals in under 60 seconds.</strong>
+            <p>Then create a doctor-ready report from the history you entered.</p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section search-page-section">
+        <div class="search-page-columns">
+          <article>
+            <p class="eyebrow">Plain answer</p>
+            <h2>What this page is about</h2>
+            {page.summary.map((paragraph) => <p>{paragraph}</p>)}
+          </article>
+          <article>
+            <p class="eyebrow">Why it matters</p>
+            <h2>{page.whyTitle}</h2>
+            <ul class="check-list">
+              {page.why.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      {page.comparison && (
+        <section class="section section-band search-page-section" aria-labelledby="comparison-heading">
+          <div class="section-intro section-intro--narrow">
+            <p class="eyebrow">Comparison table</p>
+            <h2 id="comparison-heading">How the options compare</h2>
+          </div>
+          <div class="comparison-table-wrap">
+            <table class="comparison-table">
+              <thead>
+                <tr>
+                  <th>Factor</th>
+                  <th>{page.comparison.columns[0]}</th>
+                  <th>{page.comparison.columns[1]}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {page.comparison.rows.map((row) => (
+                  <tr>
+                    <th>{row.factor}</th>
+                    <td>{row.first}</td>
+                    <td>{row.second}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      <section class="section search-page-section">
+        <div class="search-page-columns">
+          <article>
+            <p class="eyebrow">What Zebra tracks</p>
+            <h2>{page.tracksTitle}</h2>
+            <ul class="check-list">
+              {page.tracks.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+          <article class="search-page-trust">
+            <p class="eyebrow">Trust and safety</p>
+            <h2>Medically careful by design.</h2>
+            <p>{page.trust}</p>
+            <p>
+              Zebra does not diagnose, treat, prevent, cure, replace medical care, or interpret symptoms.
+              Bring concerning symptoms, medication questions, salt/fluid changes, and treatment decisions
+              to a qualified healthcare professional.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-band search-page-section" aria-labelledby="faq-heading">
+        <div class="section-intro section-intro--narrow">
+          <p class="eyebrow">FAQ</p>
+          <h2 id="faq-heading">Questions people ask before downloading Zebra.</h2>
+        </div>
+        <div class="faq-list">
+          {page.faqs.map((faq) => (
+            <details class="faq-item">
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="section search-page-section">
+        <div class="search-page-columns">
+          <article>
+            <p class="eyebrow">Related pages</p>
+            <h2>Keep exploring the same search cluster.</h2>
+            <div class="related-link-grid">
+              {page.related.map((link) => <a class="filter-chip" href={link.href}>{link.label}</a>)}
+            </div>
+          </article>
+          <article>
+            <p class="eyebrow">Trusted references</p>
+            <h2>Source-backed condition framing.</h2>
+            <ul class="reference-list">
+              {trustedReferences.map((reference) => (
+                <li><a href={reference.href} target="_blank" rel="noopener noreferrer">{reference.label}</a></li>
+              ))}
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section final-cta">
+        <p class="eyebrow">Download Zebra</p>
+        <h2>Start tracking today, before the next appointment asks for the whole story.</h2>
+        <p>{page.cta}. Track free; Premium includes unlimited history, PDF report export, and the full orthostatic archive.</p>
+        <AppStoreBadge
+          href={siteConfig.appStore.url}
+          src={siteConfig.appStore.badgeUrl}
+          trackingLocation={`search_page_${page.slug}_final`}
+        />
+      </section>
+    </main>
+    <SiteFooter {...homePage.footer} />
+  </div>
+</BaseLayout>

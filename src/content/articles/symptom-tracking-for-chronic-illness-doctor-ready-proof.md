@@ -162,7 +162,7 @@ It is easier to review, easier to discuss, and less dependent on perfect recall.
 
 Zebra is built around this exact workflow. The point is not just to log symptoms. The point is to keep symptom history, flares, function, meds, hydration, and related observations together so they can become a doctor-ready report later.
 
-Zebra does not diagnose conditions or guarantee how a doctor will respond. It helps organize patient-entered history so the conversation is easier to prepare for.
+Zebra does not diagnose conditions or control how a doctor will respond. It helps organize patient-entered history so the conversation is easier to prepare for.
 
 ## Key takeaways
 
