@@ -751,8 +751,9 @@ h3 {
 
 .hero-visual {
   display: grid;
-  gap: 24px;
+  gap: 18px;
   padding-left: 22px;
+  transform: translateY(-18px);
 }
 
 .hero-proof,
@@ -1960,8 +1961,10 @@ h3 {
 }
 
 .phone-showcase--hero.phone-showcase--solo {
-  grid-template-columns: minmax(0, 410px);
+  grid-template-columns: minmax(0, 1fr);
   justify-content: center;
+  max-width: 360px;
+  margin-inline: auto;
 }
 
 .phone-showcase-primary {
@@ -2221,6 +2224,11 @@ h3 {
 
   .hero-visual {
     padding-left: 0;
+    transform: none;
+  }
+
+  .phone-showcase--hero.phone-showcase--solo {
+    max-width: min(100%, 340px);
   }
 
   .showcase-section--reverse .showcase-copy,
