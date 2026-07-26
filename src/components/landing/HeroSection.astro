@@ -60,21 +60,6 @@ const {
     <p class="eyebrow">{eyebrow}</p>
     <h1 id="hero-heading">{title}</h1>
     <p class="hero-text">{body}</p>
-    <dl class="hero-answer-strip" aria-label="What Zebra is and why people use it">
-      {answerStrip.map((item) => (
-        <div class="hero-answer-item">
-          <dt>{item.label}</dt>
-          <dd>{item.value}</dd>
-        </div>
-      ))}
-    </dl>
-    {quickLinks.length > 0 && (
-      <div class="hero-quick-links" aria-label="Popular Zebra guides">
-        {quickLinks.map((link) => (
-          <a class="text-action" href={link.href}>{link.label}</a>
-        ))}
-      </div>
-    )}
     <div class="hero-cta-band" aria-label="Primary download call to action">
       <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" trackingLocation="hero_badge" />
       <a
@@ -93,6 +78,21 @@ const {
       {ctaSupport.map((item) => <li>{item}</li>)}
     </ul>
     <p class="trust-line">{trustLine}</p>
+    <dl class="hero-answer-strip" aria-label="What Zebra is and why people use it">
+      {answerStrip.map((item) => (
+        <div class="hero-answer-item">
+          <dt>{item.label}</dt>
+          <dd>{item.value}</dd>
+        </div>
+      ))}
+    </dl>
+    {quickLinks.length > 0 && (
+      <div class="hero-quick-links" aria-label="Popular Zebra guides">
+        {quickLinks.map((link) => (
+          <a class="text-action" href={link.href}>{link.label}</a>
+        ))}
+      </div>
+    )}
     <ul class="hero-benefits" aria-label="Key reassurances">
       {bullets.map((bullet) => <li>{bullet}</li>)}
     </ul>
