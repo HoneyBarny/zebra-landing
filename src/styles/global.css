@@ -1959,6 +1959,11 @@ h3 {
   gap: 22px;
 }
 
+.phone-showcase--hero.phone-showcase--solo {
+  grid-template-columns: minmax(0, 410px);
+  justify-content: center;
+}
+
 .phone-showcase-primary {
   position: relative;
 }

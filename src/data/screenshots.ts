@@ -51,17 +51,13 @@ export const screenshots = {
 
 export const heroShowcase = [
   {
-    ...screenshots.appointmentPreparation,
-    label: 'Doctor report preview',
-    meta: 'Appointment-ready proof',
-  },
-  {
-    ...screenshots.dailyCheckIn,
-    meta: 'Track in under 60 seconds',
-  },
-  {
-    ...screenshots.evidenceCapture,
-    meta: 'Orthostatic evidence',
+    kind: 'video',
+    src: '/videos/zebra-intro.mp4',
+    alt: 'Zebra iPhone app intro video showing symptom tracking, appointment preparation, and doctor-ready report screens.',
+    width: 1080,
+    height: 1920,
+    label: 'Zebra intro',
+    meta: 'See the app in motion',
   },
 ] as const;
 

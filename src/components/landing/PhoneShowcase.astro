@@ -21,7 +21,7 @@ const { items, variant = 'single', priorityFirst = false } = Astro.props;
 const [primary, ...secondary] = items;
 ---
 
-<div class:list={['phone-showcase', `phone-showcase--${variant}`]}>
+<div class:list={['phone-showcase', `phone-showcase--${variant}`, secondary.length === 0 && 'phone-showcase--solo']}>
   {primary && (
     <div class="phone-showcase-primary">
       <div class="phone-showcase-glow" aria-hidden="true"></div>
