@@ -7,6 +7,7 @@ import GuidesSection from '../components/landing/GuidesSection.astro';
 import HeroSection from '../components/landing/HeroSection.astro';
 import HowItWorksSection from '../components/landing/HowItWorksSection.astro';
 import InvisibleNeedsSection from '../components/landing/InvisibleNeedsSection.astro';
+import LeadMagnetsSection from '../components/landing/LeadMagnetsSection.astro';
 import MobileStickyCTA from '../components/landing/MobileStickyCTA.astro';
 import ProblemSection from '../components/landing/ProblemSection.astro';
 import ReferencesSection from '../components/landing/ReferencesSection.astro';
@@ -37,6 +38,7 @@ import { homePage } from '../data/site-content';
         appStoreURL={homePage.appStore.url}
         appStoreBadgeURL={homePage.appStore.badgeUrl}
       />
+      <LeadMagnetsSection {...homePage.leadMagnets} />
       <ProblemSection {...homePage.problem} />
       <WhatZebraTracksSection {...homePage.whatZebraTracks} />
       <InvisibleNeedsSection {...homePage.invisibleNeeds} />
@@ -65,6 +67,6 @@ import { homePage } from '../data/site-content';
     </main>
 
     <SiteFooter {...homePage.footer} />
-    <MobileStickyCTA {...homePage.mobileStickyCta} href={homePage.appStore.url} />
+    <MobileStickyCTA {...homePage.mobileStickyCta} href={homePage.appStore.url} badgeUrl={homePage.appStore.badgeUrl} />
   </div>
 </BaseLayout>

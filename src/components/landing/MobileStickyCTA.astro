@@ -1,23 +1,17 @@
 ---
+import AppStoreBadge from './AppStoreBadge.astro';
+
 interface Props {
   href: string;
   label: string;
   note: string;
+  badgeUrl: string;
 }
 
-const { href, label, note } = Astro.props;
+const { href, label, note, badgeUrl } = Astro.props;
 ---
 
 <aside class="mobile-sticky-cta" aria-label="Download Zebra on the App Store">
   <span>{note}</span>
-  <a
-    href={href}
-    target="_blank"
-    rel="noopener noreferrer"
-    data-app-store-cta="true"
-    data-cta-location="mobile_sticky"
-    data-cta-label={label}
-  >
-    {label}
-  </a>
+  <AppStoreBadge href={href} src={badgeUrl} className="mobile-sticky-badge" trackingLocation="mobile_sticky" />
 </aside>

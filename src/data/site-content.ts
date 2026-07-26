@@ -107,6 +107,7 @@ export const homePage = {
     links: [
       { href: `${siteConfig.routes.home}#doctor-report`, label: 'Report' },
       { href: `${siteConfig.routes.home}#daily-tracking`, label: 'Tracking' },
+      { href: `${siteConfig.routes.home}#free-tools`, label: 'Free tools' },
       { href: siteConfig.routes.privacy, label: 'Privacy' },
       { href: siteConfig.routes.blog, label: 'Guides' },
     ],
@@ -132,21 +133,21 @@ export const homePage = {
     ],
     quickLinks: [
       {
-        label: 'Symptom tracker for doctor appointments',
-        href: '/blog/symptom-tracker-for-doctor-appointments/',
+        label: 'POTS appointment blog guide',
+        href: '/blog/what-to-bring-to-a-pots-cardiology-appointment/',
       },
       {
-        label: 'Best symptom tracker apps for POTS',
-        href: '/blog/best-symptom-tracker-apps-for-pots-2026/',
+        label: '30-day doctor report sample PDF',
+        href: '/sample-doctor-report.pdf',
       },
       {
-        label: 'What is a doctor-ready symptom report?',
-        href: '/blog/what-is-a-doctor-ready-symptom-report/',
+        label: 'What To Track After Diagnosis',
+        href: '/blog/what-to-track-before-a-specialist-appointment/',
       },
     ],
+    quickLinksTitle: 'Free tools',
     trustLine:
       'Now available on the App Store. Track free. Export doctor-ready PDF reports with Premium. Built for iPhone, invisible illness, and appointment prep, not diagnosis.',
-    ctaText: 'Start tracking today',
     ctaSupport: ['Available for iPhone', 'Built for flare days', 'Private by design', 'Not medical advice'],
     bullets: [
       'Under-60-second check-ins',
@@ -159,6 +160,40 @@ export const homePage = {
       title: 'Open Zebra before the appointment instead of rebuilding the month from memory.',
       body: 'Daily flare tracking becomes proof: symptoms, meds, salt, water, orthostatic vitals, and notes organized into a report you can review.',
     },
+  },
+  leadMagnets: {
+    eyebrow: 'Free appointment-prep tools',
+    title: 'Free tools you can open right now',
+    intro:
+      'Start with the exact asset you need: a POTS appointment blog guide, a sample doctor report PDF, or a simple guide on what to track after diagnosis.',
+    items: [
+      {
+        title: 'POTS Appointment Prep Checklist',
+        audience: 'For appointment prep and diagnostic limbo',
+        body:
+          'A simple checklist for symptoms, orthostatic readings, medication changes, function impact, and the questions you do not want to forget in the room.',
+        href: '/blog/what-to-bring-to-a-pots-cardiology-appointment/',
+        cta: 'Open the POTS appointment blog guide',
+      },
+      {
+        title: '30-Day Doctor Report Sample',
+        audience: 'For seeing what doctor-ready proof looks like',
+        body:
+          'Preview how tracked flares, symptoms, orthostatic vitals, medications, salt, water, triggers, and notes can turn into a calmer summary.',
+        href: '/sample-doctor-report.pdf',
+        cta: 'Open the sample PDF',
+      },
+      {
+        title: 'What To Track After Diagnosis',
+        audience: 'For newly diagnosed users who need a starting point',
+        body:
+          'A short starter guide for deciding what to track first, what can wait, and how to avoid turning symptom tracking into another exhausting project.',
+        href: '/blog/what-to-track-before-a-specialist-appointment/',
+        cta: 'Get the guide',
+      },
+    ],
+    note:
+      'These tools are educational and organizational only. They do not diagnose, replace medical advice, or promise what a clinician will conclude.',
   },
   whatZebraTracks: {
     eyebrow: 'What Zebra tracks',
@@ -478,6 +513,7 @@ export const homePage = {
     ctaLabel: 'Start tracking today',
     ctaHref: siteConfig.appStore.url,
     ctaNote: 'One calm place for the daily record.',
+    appStoreBadgeURL: siteConfig.appStore.badgeUrl,
     media: screenshotStory.dailyTracking,
   },
   orthostaticTest: {
@@ -543,6 +579,7 @@ export const homePage = {
     ctaLabel: 'Get Zebra for iPhone',
     ctaHref: siteConfig.appStore.url,
     ctaNote: 'The clearer the history, the better the report.',
+    appStoreBadgeURL: siteConfig.appStore.badgeUrl,
     media: screenshotStory.trends,
   },
   careContext: {

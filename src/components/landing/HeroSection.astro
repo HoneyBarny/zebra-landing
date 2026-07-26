@@ -24,8 +24,8 @@ interface Props {
     label: string;
     href: string;
   }>;
+  quickLinksTitle?: string;
   trustLine: string;
-  ctaText: string;
   ctaSupport: string[];
   bullets: string[];
   showcase: HeroShowcaseItem[];
@@ -44,8 +44,8 @@ const {
   body,
   answerStrip,
   quickLinks = [],
+  quickLinksTitle,
   trustLine,
-  ctaText,
   ctaSupport,
   bullets,
   showcase,
@@ -62,17 +62,6 @@ const {
     <p class="hero-text">{body}</p>
     <div class="hero-cta-band" aria-label="Primary download call to action">
       <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" trackingLocation="hero_badge" />
-      <a
-        class="hero-text-cta"
-        href={appStoreURL}
-        target="_blank"
-        rel="noopener noreferrer"
-        data-app-store-cta="true"
-        data-cta-location="hero_text_cta"
-        data-cta-label={ctaText}
-      >
-        {ctaText}
-      </a>
     </div>
     <ul class="cta-support-list" aria-label="Download reassurance">
       {ctaSupport.map((item) => <li>{item}</li>)}
@@ -87,11 +76,14 @@ const {
       ))}
     </dl>
     {quickLinks.length > 0 && (
-      <div class="hero-quick-links" aria-label="Popular Zebra guides">
-        {quickLinks.map((link) => (
-          <a class="text-action" href={link.href}>{link.label}</a>
-        ))}
-      </div>
+      <>
+        {quickLinksTitle && <p class="mini-label hero-quick-links-title">{quickLinksTitle}</p>}
+        <div class="hero-quick-links" aria-label="Popular Zebra guides">
+          {quickLinks.map((link) => (
+            <a class="text-action" href={link.href}>{link.label}</a>
+          ))}
+        </div>
+      </>
     )}
     <ul class="hero-benefits" aria-label="Key reassurances">
       {bullets.map((bullet) => <li>{bullet}</li>)}

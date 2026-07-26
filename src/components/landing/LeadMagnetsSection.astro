@@ -1,0 +1,43 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface LeadMagnetItem {
+  title: string;
+  audience: string;
+  body: string;
+  href: string;
+  cta: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: LeadMagnetItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, items, note } = Astro.props;
+---
+
+<section class="section lead-magnets-section section-band section-band--soft" id="free-tools" aria-labelledby="lead-magnets-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="lead-magnets-heading" narrow={true} />
+  <div class="lead-magnets-grid">
+    {items.map((item) => (
+      <article class="lead-magnet-card">
+        <p class="mini-label">{item.audience}</p>
+        <h3>{item.title}</h3>
+        <p>{item.body}</p>
+        <a
+          class="text-action"
+          href={item.href}
+          target={item.href.endsWith('.pdf') ? '_blank' : undefined}
+          rel={item.href.endsWith('.pdf') ? 'noopener noreferrer' : undefined}
+        >
+          {item.cta}
+        </a>
+      </article>
+    ))}
+  </div>
+  <p class="lead-magnets-note">{note}</p>
+</section>

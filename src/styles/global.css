@@ -628,6 +628,10 @@ h3 {
   margin-top: 18px;
 }
 
+.hero-quick-links-title {
+  margin-top: 22px;
+}
+
 .hero-answer-item {
   padding: 12px 15px;
   border: 1px solid var(--line);
@@ -656,28 +660,6 @@ h3 {
   align-items: center;
   gap: 14px;
   margin-top: 24px;
-}
-
-.hero-text-cta {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 52px;
-  padding: 0 20px;
-  border: 1px solid rgba(8, 112, 79, 0.24);
-  border-radius: 999px;
-  background: var(--accent);
-  color: #fff;
-  font-weight: 800;
-  box-shadow: 0 14px 30px rgba(8, 112, 79, 0.18);
-  transition:
-    transform 160ms ease,
-    background-color 160ms ease;
-}
-
-.hero-text-cta:hover {
-  transform: translateY(-1px);
-  background: var(--accent-strong);
 }
 
 .cta-support-list {
@@ -1038,12 +1020,29 @@ h3 {
   gap: 14px;
 }
 
+.lead-magnets-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
 .track-card {
   min-height: 164px;
   padding: 22px;
   border: 1px solid var(--line);
   border-radius: var(--radius-lg);
   background: var(--surface);
+  box-shadow: var(--shadow-card);
+}
+
+.lead-magnet-card {
+  display: grid;
+  gap: 14px;
+  align-content: start;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.88);
   box-shadow: var(--shadow-card);
 }
 
@@ -1055,8 +1054,20 @@ h3 {
   color: var(--primary-strong);
 }
 
+.lead-magnet-card h3 {
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: 1.18rem;
+  line-height: 1.18;
+  color: var(--primary-strong);
+}
+
 .track-card p,
 .tracks-note {
+  color: var(--text-soft);
+  line-height: 1.62;
+}
+
+.lead-magnet-card p {
   color: var(--text-soft);
   line-height: 1.62;
 }
@@ -1068,6 +1079,17 @@ h3 {
   border: 1px solid rgba(8, 112, 79, 0.14);
   border-radius: var(--radius-md);
   background: rgba(255, 255, 255, 0.76);
+}
+
+.lead-magnets-note {
+  max-width: 48rem;
+  margin-top: 20px;
+  padding: 16px 18px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--text-soft);
+  line-height: 1.62;
 }
 
 .invisible-needs-section,
@@ -2200,6 +2222,7 @@ h3 {
   .trust-grid,
   .audience-groups,
   .guides-grid,
+  .lead-magnets-grid,
   .cluster-section-grid,
   .report-compare,
   .seo-comparison-grid,
