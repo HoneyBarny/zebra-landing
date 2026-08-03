@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { siteConfig } from '../data/site-config';
+import ConsentBanner from '../components/ConsentBanner.astro';
 
 interface Props {
 	title?: string;
@@ -25,6 +26,11 @@ const {
 	modifiedTime,
 	schema = [],
 } = Astro.props;
+
+// Empty until PUBLIC_META_PIXEL_ID is set. Every pixel branch below is keyed
+// off this, so an unconfigured site emits no Meta script, no <noscript> image,
+// and no network request — the state the site ships in today.
+const metaPixelId = siteConfig.analytics.metaPixelId;
 
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
 const resolvedOgImage = ogImage
@@ -93,10 +99,103 @@ const resolvedOgImage = ogImage
 				if (typeof window.gtag === 'function') {
 					window.gtag('event', payload.event, payload);
 				}
+
+				// Meta conversion. `fbq` only exists once a Pixel ID is
+				// configured *and* consent was granted, so this is a no-op
+				// otherwise and the dataLayer/gtag path above is unaffected.
+				//
+				// Deliberately no `destination` and no URL: Meta gets the two
+				// fields needed to tell one placement from another, and nothing
+				// that describes where the visitor went or what they read.
+				if (typeof window.fbq === 'function') {
+					window.fbq('trackCustom', 'appstore_click', {
+						cta_location: payload.cta_location,
+						cta_label: payload.cta_label,
+					});
+				}
 			});
 		</script>
+
+		{metaPixelId && (
+			<script is:inline define:vars={{ metaPixelId }}>
+				(function () {
+					var CONSENT_KEY = 'zebra_consent_v1';
+
+					function consentGranted() {
+						try {
+							var raw = window.localStorage.getItem(CONSENT_KEY);
+							if (!raw) return false;
+							return JSON.parse(raw).status === 'granted';
+						} catch (error) {
+							// No storage access means no recorded opt-in, which
+							// is treated as no consent.
+							return false;
+						}
+					}
+
+					function initPixel() {
+						// The event can fire more than once across a session,
+						// and a stored decision plus an event in the same load
+						// would otherwise init twice and double every metric.
+						if (window.__zebraPixelReady) return;
+						window.__zebraPixelReady = true;
+
+						// Meta's standard bootstrap, injected here rather than
+						// in <head> so it cannot run before consent exists.
+						!function (f, b, e, v, n, t, s) {
+							if (f.fbq) return;
+							n = f.fbq = function () {
+								n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+							};
+							if (!f._fbq) f._fbq = n;
+							n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = [];
+							t = b.createElement(e); t.async = !0; t.src = v;
+							s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+						}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+						window.fbq('init', metaPixelId);
+						window.fbq('track', 'PageView');
+						// Top-of-funnel signal for delivery optimisation to
+						// learn from, alongside the appstore_click conversion.
+						window.fbq('track', 'ViewContent');
+					}
+
+					if (consentGranted()) initPixel();
+
+					document.addEventListener('zebra:consent', function (event) {
+						if (event.detail && event.detail.status === 'granted') initPixel();
+					});
+				})();
+			</script>
+		)}
 	</head>
 	<body>
+		{/*
+			First in the body so a keyboard user reaches it on the first Tab and
+			a screen reader meets it before the page, without a focus trap.
+		*/}
+		<ConsentBanner />
 		<slot />
+		{metaPixelId && (
+			<noscript>
+				{/*
+					A plain <img>, so it fires for a no-JavaScript visitor before
+					any consent decision can be recorded — this one CANNOT be
+					consent-gated client-side, because the gate is JavaScript.
+					It is here because it is Meta's documented snippet, but the
+					JS pixel above covers the ads use case on its own. If a
+					tracking pixel firing pre-consent for JS-disabled visitors is
+					not acceptable for the UK/EU audience, delete this block; you
+					lose nothing that matters for optimisation.
+				*/}
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt=""
+					src={`https://www.facebook.com/tr?id=${encodeURIComponent(metaPixelId)}&ev=PageView&noscript=1`}
+				/>
+			</noscript>
+		)}
 	</body>
 </html>

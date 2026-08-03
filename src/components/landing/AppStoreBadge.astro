@@ -1,4 +1,6 @@
 ---
+import { appStoreUrlFor } from '../../lib/appStoreUrl';
+
 interface Props {
   href: string;
   src: string;
@@ -8,11 +10,17 @@ interface Props {
 }
 
 const { href, src, loading = 'lazy', className, trackingLocation } = Astro.props;
+
+// Campaign attribution is applied here rather than at each call site, so all
+// six badge usages get it from one place and none can drift. Falls through to
+// the given href untouched when there is no tracking location, or when the
+// href is not an App Store link.
+const resolvedHref = appStoreUrlFor(trackingLocation, href);
 ---
 
 <a
   class:list={['app-store-badge-link', className]}
-  href={href}
+  href={resolvedHref}
   target="_blank"
   rel="noopener noreferrer"
   data-app-store-cta={trackingLocation ? 'true' : undefined}

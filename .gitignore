@@ -14,8 +14,13 @@ pnpm-debug.log*
 
 
 # environment variables
+# Ignore every .env variant Astro reads (.env.local, .env.development, ...),
+# not just the two that happened to be listed, so a real Pixel ID cannot be
+# committed by using a filename nobody thought of. .env.example is the one
+# file that must stay tracked — it documents the variables and holds no values.
 .env
-.env.production
+.env.*
+!.env.example
 
 # macOS-specific files
 .DS_Store

@@ -1,0 +1,245 @@
+---
+/**
+ * Consent gate for the Meta pixel.
+ *
+ * Default state is "no decision", which behaves exactly like "denied" — nothing
+ * loads until someone actively chooses. The banner is rendered as the first
+ * element in <body> so a keyboard user reaches it on the first Tab and a screen
+ * reader meets it before the page content, without a focus trap and without
+ * stealing focus on load. Focus is moved only when the visitor re-opens it from
+ * the footer, where the movement is the expected result of their own click.
+ *
+ * Accept and Decline are the same size, weight, and prominence. This audience
+ * has been on the wrong end of enough dishonest design; a nudged Decline would
+ * cost more trust than the measurement is worth.
+ */
+---
+
+<div
+	class="consent-banner"
+	id="zebra-consent-banner"
+	role="dialog"
+	aria-labelledby="zebra-consent-title"
+	aria-describedby="zebra-consent-body"
+	hidden
+>
+	<div class="consent-banner__inner">
+		<div class="consent-banner__copy">
+			<h2 class="consent-banner__title" id="zebra-consent-title" tabindex="-1">Measuring our ads</h2>
+			<p class="consent-banner__body" id="zebra-consent-body">
+				We use Meta&rsquo;s pixel to measure whether our ads reach the right people. Nothing about your
+				health is collected &mdash; this site has no access to anything in the app.
+			</p>
+		</div>
+		<div class="consent-banner__actions">
+			<button class="consent-banner__button" type="button" data-consent-action="granted">Accept</button>
+			<button class="consent-banner__button" type="button" data-consent-action="denied">Decline</button>
+		</div>
+	</div>
+</div>
+
+<style>
+	.consent-banner {
+		position: fixed;
+		inset-inline: 0;
+		bottom: 0;
+		z-index: 60;
+		padding: 16px;
+		background: var(--surface-strong);
+		border-top: 1px solid var(--line-strong);
+		box-shadow: var(--shadow-soft);
+	}
+
+	.consent-banner[hidden] {
+		display: none;
+	}
+
+	.consent-banner__inner {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 16px;
+		max-width: var(--max-width);
+		margin: 0 auto;
+	}
+
+	.consent-banner__copy {
+		flex: 1 1 320px;
+		min-width: 0;
+	}
+
+	.consent-banner__title {
+		margin: 0 0 4px;
+		font-size: 16px;
+		font-weight: 600;
+		color: var(--text);
+	}
+
+	.consent-banner__title:focus-visible {
+		outline: 2px solid var(--primary);
+		outline-offset: 4px;
+	}
+
+	.consent-banner__body {
+		margin: 0;
+		font-size: 14px;
+		line-height: 1.5;
+		color: var(--text-soft);
+	}
+
+	.consent-banner__actions {
+		display: flex;
+		flex: 0 0 auto;
+		gap: 12px;
+	}
+
+	/* Both buttons are identical on purpose. Do not make Decline quieter. */
+	.consent-banner__button {
+		min-height: 44px;
+		min-width: 116px;
+		padding: 10px 20px;
+		font-family: inherit;
+		font-size: 15px;
+		font-weight: 600;
+		color: var(--primary-strong);
+		background: var(--primary-wash);
+		border: 1px solid var(--line-strong);
+		border-radius: var(--radius-sm);
+		cursor: pointer;
+	}
+
+	.consent-banner__button:hover {
+		background: var(--surface-muted);
+	}
+
+	.consent-banner__button:focus-visible {
+		outline: 2px solid var(--primary);
+		outline-offset: 2px;
+	}
+
+	@media (max-width: 640px) {
+		.consent-banner__actions {
+			flex: 1 1 100%;
+		}
+
+		.consent-banner__button {
+			flex: 1 1 0;
+		}
+	}
+
+	@media (prefers-reduced-motion: no-preference) {
+		.consent-banner:not([hidden]) {
+			animation: consent-banner-in 200ms ease-out;
+		}
+
+		@keyframes consent-banner-in {
+			from {
+				transform: translateY(8px);
+				opacity: 0;
+			}
+		}
+	}
+</style>
+
+<script>
+	const STORAGE_KEY = 'zebra_consent_v1';
+
+	type ConsentStatus = 'granted' | 'denied';
+
+	const banner = document.getElementById('zebra-consent-banner');
+	const title = document.getElementById('zebra-consent-title');
+
+	/**
+	 * localStorage throws in Safari private mode and when storage is blocked
+	 * entirely. A visitor who cannot store a decision has, in effect, not
+	 * granted one — which is the safe direction to fail in.
+	 */
+	function readDecision(): ConsentStatus | null {
+		try {
+			const raw = window.localStorage.getItem(STORAGE_KEY);
+			if (!raw) return null;
+			const parsed = JSON.parse(raw) as { status?: unknown };
+			return parsed?.status === 'granted' || parsed?.status === 'denied' ? parsed.status : null;
+		} catch {
+			return null;
+		}
+	}
+
+	function writeDecision(status: ConsentStatus): void {
+		try {
+			window.localStorage.setItem(STORAGE_KEY, JSON.stringify({ status, ts: Date.now() }));
+		} catch {
+			// Nothing to do — the session still honours the choice in memory
+			// via the event below, it just will not be remembered next visit.
+		}
+	}
+
+	function show(moveFocus: boolean): void {
+		if (!banner) return;
+		banner.hidden = false;
+		// Only on an explicit re-open. Grabbing focus on first load would
+		// interrupt someone mid-read for a decision they did not ask to make.
+		if (moveFocus) title?.focus();
+	}
+
+	function decide(status: ConsentStatus): void {
+		writeDecision(status);
+		if (banner) banner.hidden = true;
+		document.dispatchEvent(
+			new CustomEvent('zebra:consent', { detail: { status } }),
+		);
+	}
+
+	banner?.addEventListener('click', (event) => {
+		const target = event.target instanceof Element
+			? event.target.closest('[data-consent-action]')
+			: null;
+		if (!(target instanceof HTMLElement)) return;
+
+		const action = target.dataset.consentAction;
+		if (action === 'granted' || action === 'denied') decide(action);
+	});
+
+	/**
+	 * Re-opening clears the stored decision rather than flipping it, so the
+	 * banner returns to a genuine no-decision state and the visitor chooses
+	 * again from scratch. Nothing re-grants consent implicitly.
+	 *
+	 * Note: this cannot unload a pixel already running in this page's
+	 * lifetime. Declining after having accepted takes effect for every
+	 * subsequent page load; the current one is not re-fetched.
+	 */
+	window.zebraOpenConsent = () => {
+		try {
+			window.localStorage.removeItem(STORAGE_KEY);
+		} catch {
+			// Ignore — the banner still opens and the choice still dispatches.
+		}
+		show(true);
+	};
+
+	/**
+	 * Any element marked `data-consent-reopen` becomes a re-open control — the
+	 * footer button, and the one on the legal pages, which have no footer.
+	 *
+	 * Wired here rather than in each host component for two reasons: Astro
+	 * bundles component scripts without guaranteeing that this one runs before
+	 * theirs, and delegating from `document` avoids duplicate element ids on a
+	 * page that ends up with more than one control.
+	 *
+	 * They ship `hidden` and are revealed here, so a visitor without
+	 * JavaScript is never shown a control that cannot do anything.
+	 */
+	document.querySelectorAll<HTMLElement>('[data-consent-reopen]').forEach((control) => {
+		control.hidden = false;
+	});
+
+	document.addEventListener('click', (event) => {
+		const control = event.target instanceof Element
+			? event.target.closest('[data-consent-reopen]')
+			: null;
+		if (control instanceof HTMLElement) window.zebraOpenConsent?.();
+	});
+
+	if (readDecision() === null) show(false);
+</script>

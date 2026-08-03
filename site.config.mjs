@@ -27,6 +27,10 @@ export const siteConfig = {
     badgeUrl:
       'https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1776124800',
   },
+  analytics: {
+    metaPixelId: import.meta.env.PUBLIC_META_PIXEL_ID || '',
+    appleCampaignProviderToken: import.meta.env.PUBLIC_APPLE_PT || '',
+  },
   assets: {
     favicon: {
       svg: '/favicon.svg',

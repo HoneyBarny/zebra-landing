@@ -2,6 +2,7 @@
 import AppStoreBadge from './AppStoreBadge.astro';
 import PhoneShowcase from './PhoneShowcase.astro';
 import SectionIntro from './SectionIntro.astro';
+import { appStoreUrlFor } from '../../lib/appStoreUrl';
 
 interface CardItem {
   eyebrow?: string;
@@ -57,6 +58,11 @@ const {
 
 const isExternalCta = ctaHref.startsWith('http');
 const isAppStoreCta = ctaHref.includes('apps.apple.com');
+
+// The badge branch resolves its own URL inside AppStoreBadge. This is the
+// plain-text-link branch, which needs the same campaign parameters from the
+// same helper so the two cannot report a click differently.
+const textCtaHref = isAppStoreCta ? appStoreUrlFor(id, ctaHref) : ctaHref;
 ---
 
 <section
@@ -94,7 +100,7 @@ const isAppStoreCta = ctaHref.includes('apps.apple.com');
         ) : (
           <a
             class="text-action"
-            href={ctaHref}
+            href={textCtaHref}
             target={isExternalCta ? '_blank' : undefined}
             rel={isExternalCta ? 'noopener noreferrer' : undefined}
             data-app-store-cta={isAppStoreCta ? 'true' : undefined}

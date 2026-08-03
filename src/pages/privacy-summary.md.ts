@@ -15,6 +15,17 @@ Zebra is private by design. The current landing page describes Zebra as an iPhon
 - Zebra does not require a Zebra account.
 - Zebra does not run a separate Zebra health-data server.
 - Zebra summarizes patient-entered history for the user's own care conversations.
+- The iOS app contains no analytics or advertising SDK.
+
+## Marketing Website
+
+The app and this website are separate systems. The website cannot see anything entered in the app.
+
+- This website can load the Meta (Facebook/Instagram) pixel to measure advertising, and only after the visitor presses Accept in the consent banner. Nothing is loaded and no request is made to Meta before that.
+- If accepted, Meta receives page views and App Store button clicks, plus what any site receives from a browser request such as IP address.
+- Meta receives nothing health-related. No app data reaches this website.
+- A visitor can change the decision at any time via the "Cookie preferences" control on the privacy policy page and in the site footer. The choice is stored only in the visitor's own browser.
+- App Store links carry an Apple campaign parameter that Apple reads server-side. It runs no script and stores nothing in the browser.
 
 ## Important Note
 

@@ -20,5 +20,32 @@ const { body, trustLine, links } = Astro.props;
   </div>
   <nav class="footer-nav" aria-label="Footer">
     {links.map((link) => <a href={link.href}>{link.label}</a>)}
+    {/*
+      A control, not a destination, so it is a button rather than a link — but
+      it sits with the footer links because that is where people look for it.
+      Hidden until the script confirms it can actually do something, so a
+      visitor without JavaScript is never offered a dead control.
+    */}
+    <button class="footer-consent-button" type="button" data-consent-reopen hidden>
+      Cookie preferences
+    </button>
   </nav>
 </footer>
+
+<style>
+  /* Matches .footer-nav a rather than introducing a style of its own. */
+  .footer-consent-button {
+    padding: 0;
+    font: inherit;
+    color: inherit;
+    text-decoration: underline;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .footer-consent-button[hidden] {
+    display: none;
+  }
+</style>
+

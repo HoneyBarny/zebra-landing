@@ -37,7 +37,34 @@ import { privacyPage } from '../data/site-content';
 				{privacyPage.relatedLinks.map((link) => (
 					<a href={link.href}>{link.label}</a>
 				))}
+				{/*
+					This page has no site footer, so it carries its own copy of
+					the control. The policy text above points at it, and a
+					privacy policy that names a control the reader cannot find
+					on the page they are reading is worse than not naming one.
+					Wiring and reveal are handled by ConsentBanner.
+				*/}
+				<button class="privacy-consent-button" type="button" data-consent-reopen hidden>
+					Cookie preferences
+				</button>
 			</nav>
 		</div>
 	</main>
 </BaseLayout>
+
+<style>
+	/* Matches the sibling links in .support-links rather than adding a style. */
+	.privacy-consent-button {
+		padding: 0;
+		font: inherit;
+		color: inherit;
+		text-decoration: underline;
+		background: none;
+		border: 0;
+		cursor: pointer;
+	}
+
+	.privacy-consent-button[hidden] {
+		display: none;
+	}
+</style>
