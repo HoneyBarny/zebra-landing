@@ -1,6 +1,6 @@
 ---
 slug: "how-to-prepare-a-monthly-symptom-summary"
-status: "scheduled"
+status: "published"
 title: "How to Prepare a Monthly Symptom Summary"
 subtitle: "A monthly symptom summary turns scattered daily notes into a short review of what changed, what repeated, what affected function, and what questions you want to bring to care. It should be short enough to use before an appointment and clear enough to review when brain fog is high."
 description: "Learn how to prepare a monthly symptom summary from symptoms, flares, medications, function changes, and appointment questions."
@@ -8,9 +8,9 @@ excerpt: "A simple framework for turning a month of symptom tracking into a clea
 author: "zebra-editorial"
 publishedAt: "2026-07-31"
 scheduledAt: "2026-07-31"
-updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-08-04"
+reviewedAt: "2026-08-04"
+lastReviewed: "2026-08-04"
 nextReview: "2027-01-17"
 reviewedBy: "Zebra Editorial Team"
 featured: false

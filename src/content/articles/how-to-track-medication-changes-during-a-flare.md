@@ -1,6 +1,6 @@
 ---
 slug: "how-to-track-medication-changes-during-a-flare"
-status: "scheduled"
+status: "published"
 title: "How to Track Medication Changes During a Flare"
 subtitle: "Medication changes are easier to discuss later when they stay connected to the flare, symptoms, timing, and daily context around them. The goal is not to interpret medication effects yourself. It is to keep a careful patient-entered record you can review with a clinician."
 description: "Learn how to track medication changes during a flare without separating them from symptoms, timing, and appointment context."
@@ -8,9 +8,9 @@ excerpt: "A practical guide to keeping medication changes, flares, symptoms, and
 author: "zebra-editorial"
 publishedAt: "2026-07-29"
 scheduledAt: "2026-07-29"
-updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-08-04"
+reviewedAt: "2026-08-04"
+lastReviewed: "2026-08-04"
 nextReview: "2027-01-15"
 reviewedBy: "Zebra Editorial Team"
 featured: false
