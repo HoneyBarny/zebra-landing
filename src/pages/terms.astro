@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ConsentPreferencesButton from '../components/ConsentPreferencesButton.astro';
 import { termsPage } from '../data/site-content';
 ---
 
@@ -44,6 +45,8 @@ import { termsPage } from '../data/site-content';
 				{termsPage.relatedLinks.map((link) => (
 					<a href={link.href}>{link.label}</a>
 				))}
+				{/* This page has no site footer, so it carries its own copy of the control. */}
+				<ConsentPreferencesButton />
 			</nav>
 		</div>
 	</main>

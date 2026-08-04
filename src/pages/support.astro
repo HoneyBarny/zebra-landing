@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ConsentPreferencesButton from '../components/ConsentPreferencesButton.astro';
 import { supportPage } from '../data/site-content';
 ---
 
@@ -60,6 +61,11 @@ import { supportPage } from '../data/site-content';
 					))}
 				</div>
 			</div>
+
+			{/* This page has no site footer, so it carries its own copy of the control. */}
+			<nav class="support-links" aria-label="Consent">
+				<ConsentPreferencesButton />
+			</nav>
 		</div>
 	</main>
 </BaseLayout>

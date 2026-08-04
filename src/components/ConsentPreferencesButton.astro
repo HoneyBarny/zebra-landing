@@ -1,0 +1,34 @@
+---
+/**
+ * The "Cookie preferences" control, shared by every place that needs one:
+ * the site footer, and the legal pages (privacy, terms, support) that have
+ * no footer of their own. Wiring and reveal are handled by ConsentBanner's
+ * script via `data-consent-reopen`; it ships `hidden` so a visitor without
+ * JavaScript is never shown a control that cannot do anything.
+ */
+interface Props {
+	class?: string;
+}
+
+const { class: className } = Astro.props;
+---
+
+<button class:list={['consent-preferences-button', className]} type="button" data-consent-reopen hidden>
+	Cookie preferences
+</button>
+
+<style>
+	.consent-preferences-button {
+		padding: 0;
+		font: inherit;
+		color: inherit;
+		text-decoration: underline;
+		background: none;
+		border: 0;
+		cursor: pointer;
+	}
+
+	.consent-preferences-button[hidden] {
+		display: none;
+	}
+</style>
