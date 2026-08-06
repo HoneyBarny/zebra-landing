@@ -8,9 +8,9 @@ excerpt: "A practical guide to keeping medication changes, flares, symptoms, and
 author: "zebra-editorial"
 publishedAt: "2026-07-29"
 scheduledAt: "2026-07-29"
-updatedAt: "2026-08-04"
-reviewedAt: "2026-08-04"
-lastReviewed: "2026-08-04"
+updatedAt: "2026-07-31"
+reviewedAt: "2026-07-31"
+lastReviewed: "2026-07-31"
 nextReview: "2027-01-15"
 reviewedBy: "Zebra Editorial Team"
 featured: false

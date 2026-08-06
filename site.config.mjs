@@ -10,7 +10,7 @@ export const siteConfig = {
       height: 64,
     },
   },
-  siteUrl: 'https://zebra-landing.pages.dev',
+  siteUrl: 'https://zebratracker.app',
   routes: {
     home: '/',
     blog: '/blog/',

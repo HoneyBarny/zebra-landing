@@ -135,6 +135,86 @@ function withDefaults(page: SearchPage): SearchPage {
 
 export const searchPages: SearchPage[] = [
   withDefaults({
+    slug: 'appointment-prep-checklist',
+    kind: 'feature',
+    lastReviewed: 'August 1, 2026',
+    title: 'Chronic Illness Appointment Prep Checklist | Zebra',
+    description:
+      'What to track 7 days before a chronic illness appointment: flares, symptoms, meds, salt, water, orthostatic vitals, impact, and questions.',
+    eyebrow: 'Appointment prep checklist',
+    h1: 'What to track 7 days before a chronic illness appointment.',
+    directAnswer:
+      'Before a chronic illness appointment, track the details that are hardest to rebuild from memory: recent flares, top symptoms, medication changes, salt and water context, orthostatic vitals if relevant, functional impact, and the questions you want to ask.',
+    summary: [
+      'The week before an appointment is usually when the memory work starts: opening Notes, searching screenshots, trying to remember which flare was worse, and hoping the important question does not disappear in the room.',
+      'This checklist is built for invisible illness, POTS, EDS/hEDS, Fibromyalgia, dysautonomia, and overlapping symptoms. It is practical appointment prep, not a diagnostic checklist.',
+    ],
+    whyTitle: 'Why 7 days of focused tracking can be enough to start',
+    why: [
+      'A short recent record is easier to complete than a perfect month-long reconstruction.',
+      'Flares, medication changes, orthostatic context, salt, water, and functional impact are more useful when they stay connected.',
+      'A focused checklist helps you prepare even if brain fog, pain, dizziness, or fatigue makes full daily tracking unrealistic.',
+    ],
+    tracksTitle: 'The 7 details to track before the visit',
+    tracks: [
+      'Recent flares: severity, duration, and what changed',
+      'Top symptoms: the few symptoms you most need to explain',
+      'Medication changes: timing, dose notes, side effects, and questions',
+      'Salt and water context when relevant to your care plan',
+      'Orthostatic vitals: lying, sitting, and standing observations if relevant',
+      'Functional impact: standing, work, school, errands, sleep, and recovery',
+      'Questions for the room so stress or brain fog does not erase them',
+    ],
+    bestFor: [
+      'People preparing for a specialist, cardiology, primary care, pain, rheumatology, or follow-up appointment.',
+      'People in diagnostic limbo who need to explain what is happening without pretending they already know why.',
+      'People who missed days and still want a useful recent summary instead of giving up on tracking.',
+    ],
+    notFor: [
+      'People looking for a diagnostic checklist, treatment plan, medication advice, or urgent medical guidance.',
+      'People who need a clinician-directed test instead of an organizing aid.',
+      'People who need Android support today.',
+    ],
+    trust:
+      'This checklist helps organize patient-entered history for care conversations. It does not diagnose, treat, interpret symptoms, or promise what a clinician will conclude.',
+    cta: 'Download Zebra and start the 7-day checklist',
+    related: [
+      { label: 'Doctor report', href: '/doctor-report/' },
+      { label: 'Sample doctor report PDF', href: '/sample-doctor-report.pdf' },
+      { label: 'What to track before a specialist appointment', href: '/blog/what-to-track-before-a-specialist-appointment/' },
+      { label: 'POTS cardiology appointment prep', href: '/blog/what-to-bring-to-a-pots-cardiology-appointment/' },
+      { label: 'How to track functional impact', href: '/blog/how-to-track-functional-impact-for-a-doctor-appointment/' },
+      { label: 'Zebra vs Notes', href: '/zebra-vs-apple-notes/' },
+    ],
+    faqs: [
+      {
+        question: 'Can I use this checklist before I am diagnosed?',
+        answer:
+          'Yes. The checklist is useful before or after diagnosis because it tracks what happened, not what caused it. Zebra does not diagnose or replace medical care.',
+      },
+      {
+        question: 'What if I missed most of the week?',
+        answer:
+          'Missed days are normal with chronic illness. Start with today, add the flare or medication note you remember, and use the report as a clearer recent record rather than a perfect archive.',
+      },
+      {
+        question: 'Will a checklist make my doctor believe me?',
+        answer:
+          'No checklist can guarantee how a clinician responds. A clearer history can reduce memory pressure and make the conversation easier to review than scattered notes.',
+      },
+      {
+        question: 'What should POTS or dysautonomia patients track before cardiology?',
+        answer:
+          'Commonly useful context includes upright symptoms, orthostatic observations, salt and water context, medication changes, flares, and questions for the visit. Ask your care team what they specifically want you to track.',
+      },
+      {
+        question: 'What should EDS or Fibromyalgia patients track before an appointment?',
+        answer:
+          'Start with pain or flare changes, fatigue, brain fog, instability or function changes, medications, notes, and the daily impact you want the clinician to understand.',
+      },
+    ],
+  }),
+  withDefaults({
     slug: 'pots-tracker',
     kind: 'condition',
     lastReviewed,

@@ -8,9 +8,9 @@ excerpt: "A simple framework for turning a month of symptom tracking into a clea
 author: "zebra-editorial"
 publishedAt: "2026-07-31"
 scheduledAt: "2026-07-31"
-updatedAt: "2026-08-04"
-reviewedAt: "2026-08-04"
-lastReviewed: "2026-08-04"
+updatedAt: "2026-07-31"
+reviewedAt: "2026-07-31"
+lastReviewed: "2026-07-31"
 nextReview: "2027-01-17"
 reviewedBy: "Zebra Editorial Team"
 featured: false

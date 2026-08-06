@@ -6,7 +6,7 @@ import { readField, readFrontmatterParts, upsertField } from './frontmatter.ts';
 
 const rootDir = resolve(fileURLToPath(new URL('..', import.meta.url)));
 const articlesDir = join(rootDir, 'src/content/articles');
-const siteUrl = 'https://zebra-landing.pages.dev';
+const siteUrl = 'https://zebratracker.app';
 const projectName = 'zebra-landing';
 
 const args = new Set(process.argv.slice(2));

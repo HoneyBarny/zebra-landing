@@ -606,6 +606,10 @@ h3 {
   .article-main td {
     padding: 12px;
   }
+
+  .appointment-prep-item {
+    grid-template-columns: 1fr;
+  }
 }
 
 .hero-text {
@@ -888,6 +892,72 @@ h3 {
   color: var(--primary-strong);
 }
 
+.proof-bridge-section {
+  padding-top: 36px;
+}
+
+.proof-bridge-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.proof-bridge-card {
+  display: grid;
+  gap: 18px;
+  padding: 24px;
+  border: 1px solid rgba(82, 66, 122, 0.12);
+  border-radius: var(--radius-lg);
+  background:
+    radial-gradient(circle at top right, rgba(15, 143, 103, 0.08), transparent 34%),
+    rgba(255, 255, 255, 0.86);
+  box-shadow: var(--shadow-card);
+}
+
+.proof-bridge-card h3 {
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: clamp(1.25rem, 2vw, 1.55rem);
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+  color: var(--primary-strong);
+}
+
+.proof-bridge-pair {
+  display: grid;
+  gap: 12px;
+}
+
+.proof-bridge-pair div {
+  min-height: 132px;
+  padding: 16px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.proof-bridge-pair span {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--primary-strong);
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+.proof-bridge-pair p,
+.proof-bridge-note {
+  color: var(--text-soft);
+  line-height: 1.62;
+}
+
+.proof-bridge-note {
+  max-width: 48rem;
+  margin-top: 20px;
+  padding: 16px 18px;
+  border: 1px solid rgba(8, 112, 79, 0.14);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.76);
+}
+
 .report-section > .eyebrow {
   margin-bottom: 10px;
 }
@@ -1000,6 +1070,103 @@ h3 {
 .sample-report-link span {
   color: var(--text-muted);
   font-size: 0.9rem;
+}
+
+.appointment-prep-section {
+  padding-top: 48px;
+}
+
+.appointment-prep-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.7fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.appointment-prep-panel,
+.appointment-prep-paths {
+  border: 1px solid rgba(82, 66, 122, 0.12);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: var(--shadow-card);
+}
+
+.appointment-prep-panel {
+  padding: 24px;
+}
+
+.appointment-prep-paths {
+  display: grid;
+  gap: 18px;
+  padding: 22px;
+  background:
+    radial-gradient(circle at top right, rgba(15, 143, 103, 0.08), transparent 34%),
+    rgba(255, 255, 255, 0.88);
+}
+
+.appointment-prep-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.appointment-prep-item {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  padding: 16px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(247, 242, 249, 0.72);
+}
+
+.appointment-prep-item > span {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--primary-strong);
+  color: #fff;
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.appointment-prep-item h3,
+.appointment-prep-path-list h3 {
+  margin-bottom: 6px;
+  color: var(--primary-strong);
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
+.appointment-prep-item p,
+.appointment-prep-path-list p,
+.appointment-prep-note {
+  color: var(--text-soft);
+  line-height: 1.62;
+}
+
+.appointment-prep-path-list {
+  display: grid;
+  gap: 12px;
+}
+
+.appointment-prep-path-list article {
+  padding: 16px;
+  border: 1px solid rgba(8, 112, 79, 0.14);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.76);
+}
+
+.appointment-prep-note {
+  padding: 14px 16px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(247, 242, 249, 0.72);
 }
 
 .seo-content-section.section-band::before {
@@ -2205,6 +2372,8 @@ h3 {
 @media (max-width: 980px) {
   .hero,
   .problem-grid,
+  .proof-bridge-grid,
+  .appointment-prep-grid,
   .showcase-grid,
   .report-grid,
   .search-page-hero-grid,
@@ -2383,6 +2552,9 @@ h3 {
   .hero-proof,
   .step-card,
   .feature-card,
+  .proof-bridge-card,
+  .appointment-prep-panel,
+  .appointment-prep-paths,
   .trust-card,
   .faq-item,
   .legal-card,

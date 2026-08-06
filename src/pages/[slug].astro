@@ -25,7 +25,7 @@ export function getStaticPaths() {
 
 const { page } = Astro.props as { page: SearchPage };
 const canonical = getSearchPageUrl(page);
-const reviewIsoDate = '2026-07-25';
+const reviewIsoDate = page.lastReviewed === 'August 1, 2026' ? '2026-08-01' : '2026-07-25';
 const reportPreview = screenshots.appointmentPreparation;
 const sampleReportHref = '/sample-doctor-report.pdf';
 const schema = [
