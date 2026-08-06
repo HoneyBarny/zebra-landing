@@ -1,24 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import FAQSection from '../components/landing/FAQSection.astro';
-import AudienceSection from '../components/landing/AudienceSection.astro';
 import FinalCTASection from '../components/landing/FinalCTASection.astro';
-import GuidesSection from '../components/landing/GuidesSection.astro';
 import HeroSection from '../components/landing/HeroSection.astro';
 import HowItWorksSection from '../components/landing/HowItWorksSection.astro';
-import InvisibleNeedsSection from '../components/landing/InvisibleNeedsSection.astro';
-import LeadMagnetsSection from '../components/landing/LeadMagnetsSection.astro';
 import MobileStickyCTA from '../components/landing/MobileStickyCTA.astro';
 import ProblemSection from '../components/landing/ProblemSection.astro';
-import ReferencesSection from '../components/landing/ReferencesSection.astro';
 import ReportSection from '../components/landing/ReportSection.astro';
-import SearchContentSection from '../components/landing/SearchContentSection.astro';
 import ScreenshotCarouselSection from '../components/landing/ScreenshotCarouselSection.astro';
 import ShowcaseSection from '../components/landing/ShowcaseSection.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import SiteHeader from '../components/landing/SiteHeader.astro';
 import TrustSection from '../components/landing/TrustSection.astro';
-import WhatZebraTracksSection from '../components/landing/WhatZebraTracksSection.astro';
 import { homePage } from '../data/site-content';
 ---
 
@@ -38,10 +31,7 @@ import { homePage } from '../data/site-content';
         appStoreURL={homePage.appStore.url}
         appStoreBadgeURL={homePage.appStore.badgeUrl}
       />
-      <LeadMagnetsSection {...homePage.leadMagnets} />
       <ProblemSection {...homePage.problem} />
-      <WhatZebraTracksSection {...homePage.whatZebraTracks} />
-      <InvisibleNeedsSection {...homePage.invisibleNeeds} />
       <ReportSection
         {...homePage.doctorReport}
         appStoreURL={homePage.appStore.url}
@@ -51,14 +41,8 @@ import { homePage } from '../data/site-content';
       <ScreenshotCarouselSection {...homePage.screenshotCarousel} />
       <ShowcaseSection {...homePage.dailyTracking} />
       <ShowcaseSection {...homePage.orthostaticTest} />
-      <ShowcaseSection {...homePage.trends} />
-      <ShowcaseSection {...homePage.careContext} />
-      <AudienceSection {...homePage.audience} />
       <TrustSection {...homePage.trust} />
-      <SearchContentSection {...homePage.searchContent} />
-      <GuidesSection {...homePage.guides} />
       <FAQSection {...homePage.faq} />
-      <ReferencesSection {...homePage.trustedReferences} />
       <FinalCTASection
         {...homePage.finalCta}
         appStoreURL={homePage.appStore.url}
