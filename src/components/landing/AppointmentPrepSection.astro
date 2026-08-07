@@ -1,0 +1,60 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface PrepItem {
+  label: string;
+  body: string;
+}
+
+interface PrepPath {
+  condition: string;
+  body: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  checklistTitle: string;
+  checklist: PrepItem[];
+  pathsTitle: string;
+  paths: PrepPath[];
+  note: string;
+}
+
+const { eyebrow, title, intro, checklistTitle, checklist, pathsTitle, paths, note } = Astro.props;
+---
+
+<section class="section appointment-prep-section" id="appointment-prep" aria-labelledby="appointment-prep-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="appointment-prep-heading" narrow={true} />
+
+  <div class="appointment-prep-grid">
+    <article class="appointment-prep-panel">
+      <p class="mini-label">{checklistTitle}</p>
+      <div class="appointment-prep-list">
+        {checklist.map((item, index) => (
+          <div class="appointment-prep-item">
+            <span aria-hidden="true">{String(index + 1).padStart(2, '0')}</span>
+            <div>
+              <h3>{item.label}</h3>
+              <p>{item.body}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </article>
+
+    <aside class="appointment-prep-paths" aria-label={pathsTitle}>
+      <p class="mini-label">{pathsTitle}</p>
+      <div class="appointment-prep-path-list">
+        {paths.map((path) => (
+          <article>
+            <h3>{path.condition}</h3>
+            <p>{path.body}</p>
+          </article>
+        ))}
+      </div>
+      <p class="appointment-prep-note">{note}</p>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,43 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface BridgeItem {
+  label: string;
+  title: string;
+  before: string;
+  after: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: BridgeItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, items, note } = Astro.props;
+---
+
+<section class="section proof-bridge-section" aria-labelledby="proof-bridge-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="proof-bridge-heading" narrow={true} />
+  <div class="proof-bridge-grid">
+    {items.map((item) => (
+      <article class="proof-bridge-card">
+        <p class="mini-label">{item.label}</p>
+        <h3>{item.title}</h3>
+        <div class="proof-bridge-pair">
+          <div>
+            <span>Before Zebra</span>
+            <p>{item.before}</p>
+          </div>
+          <div>
+            <span>With Zebra</span>
+            <p>{item.after}</p>
+          </div>
+        </div>
+      </article>
+    ))}
+  </div>
+  <p class="proof-bridge-note">{note}</p>
+</section>
