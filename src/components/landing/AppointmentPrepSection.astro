@@ -1,14 +1,19 @@
 ---
 import SectionIntro from './SectionIntro.astro';
 
-interface PrepItem {
+interface ChecklistItem {
   label: string;
   body: string;
 }
 
-interface PrepPath {
+interface PathItem {
   condition: string;
   body: string;
+}
+
+interface ReportRow {
+  label: string;
+  value: string;
 }
 
 interface Props {
@@ -16,43 +21,78 @@ interface Props {
   title: string;
   intro: string;
   checklistTitle: string;
-  checklist: PrepItem[];
+  checklist: ChecklistItem[];
   pathsTitle: string;
-  paths: PrepPath[];
+  paths: PathItem[];
+  samplePreview: {
+    eyebrow: string;
+    title: string;
+    meta: string;
+    rows: ReportRow[];
+    note: string;
+  };
   note: string;
 }
 
-const { eyebrow, title, intro, checklistTitle, checklist, pathsTitle, paths, note } = Astro.props;
+const {
+  eyebrow,
+  title,
+  intro,
+  checklistTitle,
+  checklist,
+  pathsTitle,
+  paths,
+  samplePreview,
+  note,
+} = Astro.props;
 ---
 
-<section class="section appointment-prep-section" id="appointment-prep" aria-labelledby="appointment-prep-heading">
-  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="appointment-prep-heading" narrow={true} />
-
+<section class="section appointment-prep-section section-band" id="appointment-prep" aria-labelledby="appointment-prep-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="appointment-prep-heading" />
   <div class="appointment-prep-grid">
-    <article class="appointment-prep-panel">
+    <div class="appointment-prep-panel">
       <p class="mini-label">{checklistTitle}</p>
       <div class="appointment-prep-list">
         {checklist.map((item, index) => (
-          <div class="appointment-prep-item">
-            <span aria-hidden="true">{String(index + 1).padStart(2, '0')}</span>
+          <article class="appointment-prep-item">
+            <span>{String(index + 1).padStart(2, '0')}</span>
             <div>
               <h3>{item.label}</h3>
               <p>{item.body}</p>
             </div>
-          </div>
-        ))}
-      </div>
-    </article>
-
-    <aside class="appointment-prep-paths" aria-label={pathsTitle}>
-      <p class="mini-label">{pathsTitle}</p>
-      <div class="appointment-prep-path-list">
-        {paths.map((path) => (
-          <article>
-            <h3>{path.condition}</h3>
-            <p>{path.body}</p>
           </article>
         ))}
+      </div>
+    </div>
+
+    <aside class="appointment-prep-paths" aria-label={samplePreview.title}>
+      <div class="sample-report-preview">
+        <div class="sample-report-header">
+          <p class="mini-label">{samplePreview.eyebrow}</p>
+          <h3>{samplePreview.title}</h3>
+          <p>{samplePreview.meta}</p>
+        </div>
+        <div class="sample-report-rows">
+          {samplePreview.rows.map((row) => (
+            <div class="sample-report-row">
+              <span>{row.label}</span>
+              <strong>{row.value}</strong>
+            </div>
+          ))}
+        </div>
+        <p class="sample-report-note">{samplePreview.note}</p>
+      </div>
+
+      <div>
+        <p class="mini-label">{pathsTitle}</p>
+        <div class="appointment-prep-path-list">
+          {paths.map((path) => (
+            <article>
+              <h3>{path.condition}</h3>
+              <p>{path.body}</p>
+            </article>
+          ))}
+        </div>
       </div>
       <p class="appointment-prep-note">{note}</p>
     </aside>

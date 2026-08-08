@@ -191,6 +191,43 @@ export const homePageEsEs = {
       alt: 'Pantalla de Zebra con informe para el medico y preparacion de cita a partir del historial introducido por la persona.',
     },
   },
+  appointmentPrep: {
+    ...homePage.appointmentPrep,
+    eyebrow: 'Preparacion de cita',
+    title: 'Siete dias antes de la visita, registra las partes que no quieres reconstruir de memoria.',
+    intro:
+      'Zebra te ayuda a convertir la semana antes de una cita en una historia mas clara: que cambio, que se repitio, que afecto la vida diaria y que quieres preguntar mientras estas en la consulta.',
+    checklistTitle: 'Que capturar primero',
+    checklist: [
+      { label: 'Brotes recientes', body: 'Registra gravedad, duracion y que cambio para que los peores dias no desaparezcan cuando el brote pasa.' },
+      { label: 'Sintomas principales', body: 'Elige los sintomas que mas importan en vez de intentar documentar cada sensacion perfectamente.' },
+      { label: 'Cambios de medicamentos', body: 'Mantiene horarios, notas de dosis, efectos secundarios y preguntas junto al historial de sintomas.' },
+      { label: 'Sal, agua y contexto', body: 'Registra hidratacion y sal junto a sintomas cuando sean relevantes para tu plan de cuidado.' },
+      { label: 'Signos ortostaticos', body: 'Guarda observaciones acostada, sentada y de pie con los sintomas y notas del mismo dia.' },
+      { label: 'Impacto funcional', body: 'Captura que cambiaron los sintomas sobre estar de pie, trabajar, estudiar, dormir, hacer recados o recuperarte.' },
+      { label: 'Preguntas para la consulta', body: 'Escribe las preguntas que no quieres que borren el brain fog, el estres o una cita corta.' },
+    ],
+    pathsTitle: 'Ejemplos por condicion',
+    paths: [
+      { condition: 'POTS y disautonomia', body: 'Lleva sintomas al estar erguida, observaciones ortostaticas, contexto de sal y agua, notas de medicamentos y timing de brotes a una sola vista.' },
+      { condition: 'EDS / hEDS', body: 'Mantiene dolor, inestabilidad, fatiga, lesiones, notas y sintomas solapados conectados en vez de dispersos.' },
+      { condition: 'Fibromialgia y brotes solapados', body: 'Conserva dolor, fatiga, brain fog, cambios de medicamentos, contexto de sueno e impacto funcional para una conversacion de seguimiento mas clara.' },
+    ],
+    samplePreview: {
+      eyebrow: 'Informe de ejemplo',
+      title: 'Como puede verse una vista de cita de una pagina',
+      meta: 'Solo ejemplo, con datos ficticios.',
+      rows: [
+        { label: 'Cambio principal', value: 'Mas mareo y fatiga despues de tareas cortas de pie' },
+        { label: 'Brotes recientes', value: '3 dias de brote notables, recuperacion mas lenta que lo habitual' },
+        { label: 'Contexto', value: 'Cambio de medicamento, menor hidratacion, dos dias de calor' },
+        { label: 'Pregunta en cita', value: 'Que deberia registrar antes del proximo seguimiento?' },
+      ],
+      note: 'La vista previa del informe no es un diagnostico. Muestra como Zebra puede ordenar historial introducido por la persona para una conversacion mas clara.',
+    },
+    note:
+      'Usa esto como ayuda de organizacion, no como lista diagnostica. Zebra no diagnostica, no trata y no dice que deberia concluir un clinico.',
+  },
   howItWorks: {
     eyebrow: 'Como funciona Zebra',
     title: 'Tres pasos sencillos, incluso en dias de poca energia.',

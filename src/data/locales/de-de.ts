@@ -191,6 +191,43 @@ export const homePageDeDe = {
       alt: 'Zebra-Arztbericht und Terminvorbereitung mit veraenderten Symptomen, Terminbrief-Vorschau und selbst eingegebenem Verlauf.',
     },
   },
+  appointmentPrep: {
+    ...homePage.appointmentPrep,
+    eyebrow: 'Terminvorbereitung',
+    title: 'Sieben Tage vor dem Termin: erfassen, was Sie nicht aus dem Gedaechtnis rekonstruieren wollen.',
+    intro:
+      'Zebra hilft, die Woche vor einem Termin in eine klarere Geschichte zu verwandeln: was sich veraendert hat, was wiederkam, was den Alltag beeinflusst hat und was Sie im Termin fragen moechten.',
+    checklistTitle: 'Was zuerst erfasst werden sollte',
+    checklist: [
+      { label: 'Aktuelle Schuebe', body: 'Erfassen Sie Schwere, Dauer und Veraenderungen, damit die schlechten Tage nicht verschwinden, sobald der Schub vorbei ist.' },
+      { label: 'Wichtigste Symptome', body: 'Waehlen Sie die Symptome, die am meisten zaehlen, statt jede Empfindung perfekt dokumentieren zu wollen.' },
+      { label: 'Medikamentenaenderungen', body: 'Halten Sie Timing, Dosisnotizen, Nebenwirkungen und Fragen neben dem Symptomverlauf fest.' },
+      { label: 'Salz, Wasser und Kontext', body: 'Erfassen Sie Hydration und Salz neben Symptomen, wenn sie fuer Ihren Behandlungsplan relevant sind.' },
+      { label: 'Orthostatische Vitalwerte', body: 'Speichern Sie Liegen-, Sitzen- und Stehen-Beobachtungen mit Symptomen und Notizen desselben Tages.' },
+      { label: 'Alltagsauswirkung', body: 'Halten Sie fest, was Symptome an Stehen, Arbeit, Schule, Schlaf, Erledigungen oder Erholung veraendert haben.' },
+      { label: 'Fragen fuer den Raum', body: 'Schreiben Sie die Fragen auf, die Brain Fog, Stress oder ein kurzer Termin nicht loeschen sollen.' },
+    ],
+    pathsTitle: 'Nach Erkrankung orientierte Beispiele',
+    paths: [
+      { condition: 'POTS und Dysautonomie', body: 'Bringen Sie Symptome im Aufrechten, orthostatische Beobachtungen, Salz- und Wasserkontext, Medikamentennotizen und Schubtiming in eine Ansicht.' },
+      { condition: 'EDS / hEDS', body: 'Halten Sie Schmerz, Instabilitaet, Fatigue, Verletzungen, Notizen und ueberlappende Symptome verbunden statt verstreut.' },
+      { condition: 'Fibromyalgie und ueberlappende Schuebe', body: 'Bewahren Sie Schmerz, Fatigue, Brain Fog, Medikamentenaenderungen, Schlafkontext und Alltagsauswirkung fuer ein klareres Folgegespraech.' },
+    ],
+    samplePreview: {
+      eyebrow: 'Beispielbericht',
+      title: 'So kann eine einseitige Terminansicht aussehen',
+      meta: 'Nur Beispiel, mit fiktiven Patientendaten.',
+      rows: [
+        { label: 'Hauptveraenderung', value: 'Mehr Schwindel und Fatigue nach kurzen Aufgaben im Stehen' },
+        { label: 'Aktuelle Schuebe', value: '3 deutliche Schubtage, Erholung langsamer als sonst' },
+        { label: 'Kontext', value: 'Medikamentenaenderung, weniger Hydration, zwei Hitzetage' },
+        { label: 'Frage im Termin', value: 'Was sollte ich bis zum naechsten Termin erfassen?' },
+      ],
+      note: 'Die Berichtsvorschau ist keine Diagnose. Sie zeigt, wie Zebra selbst eingegebenen Verlauf fuer ein klareres Gespraech ordnen kann.',
+    },
+    note:
+      'Nutzen Sie dies als Organisationshilfe, nicht als diagnostische Checkliste. Zebra diagnostiziert und behandelt nicht und sagt nicht, was ein Arzt schlussfolgern sollte.',
+  },
   howItWorks: {
     eyebrow: 'So funktioniert Zebra',
     title: 'Drei einfache Schritte, auch an Tagen mit wenig Energie.',

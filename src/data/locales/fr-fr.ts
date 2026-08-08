@@ -191,6 +191,43 @@ export const homePageFrFr = {
       alt: 'Ecran Zebra de rapport medical et preparation de rendez-vous a partir de l historique saisi par la personne.',
     },
   },
+  appointmentPrep: {
+    ...homePage.appointmentPrep,
+    eyebrow: 'Preparation du rendez-vous',
+    title: 'Sept jours avant la visite, suivez ce que vous ne voulez pas reconstruire de memoire.',
+    intro:
+      'Zebra vous aide a transformer la semaine avant un rendez-vous en histoire plus claire: ce qui a change, ce qui s est repete, ce qui a affecte la vie quotidienne et ce que vous voulez demander pendant la consultation.',
+    checklistTitle: 'Ce qu il faut capturer en premier',
+    checklist: [
+      { label: 'Poussees recentes', body: 'Suivez l intensite, la duree et ce qui a change pour que les pires jours ne disparaissent pas une fois la poussee passee.' },
+      { label: 'Symptomes principaux', body: 'Choisissez les symptomes qui comptent le plus au lieu d essayer de tout documenter parfaitement.' },
+      { label: 'Changements de medicaments', body: 'Gardez horaires, doses, effets secondaires et questions a cote de l historique des symptomes.' },
+      { label: 'Sel, eau et contexte', body: 'Suivez hydratation et sel a cote des symptomes quand ils sont pertinents pour votre plan de soins.' },
+      { label: 'Mesures orthostatiques', body: 'Enregistrez les observations couche, assis et debout avec les symptomes et notes du meme jour.' },
+      { label: 'Impact fonctionnel', body: 'Capturez ce que les symptomes ont change pour rester debout, travailler, etudier, dormir, faire des courses ou recuperer.' },
+      { label: 'Questions pour la consultation', body: 'Ecrivez les questions que le brain fog, le stress ou un rendez-vous court ne doivent pas effacer.' },
+    ],
+    pathsTitle: 'Exemples par condition',
+    paths: [
+      { condition: 'POTS et dysautonomie', body: 'Rassemblez symptomes en position debout, observations orthostatiques, contexte sel et eau, notes de medicaments et timing des poussees dans une seule vue.' },
+      { condition: 'EDS / hEDS', body: 'Gardez douleur, instabilite, fatigue, blessures, notes et symptomes qui se chevauchent connectes au lieu de disperses.' },
+      { condition: 'Fibromyalgie et poussees qui se chevauchent', body: 'Preservez douleur, fatigue, brain fog, changements de medicaments, contexte de sommeil et impact fonctionnel pour un suivi plus clair.' },
+    ],
+    samplePreview: {
+      eyebrow: 'Rapport exemple',
+      title: 'A quoi peut ressembler une vue de rendez-vous en une page',
+      meta: 'Exemple uniquement, avec donnees fictives.',
+      rows: [
+        { label: 'Changement principal', value: 'Plus de vertiges et de fatigue apres de courtes taches debout' },
+        { label: 'Poussees recentes', value: '3 jours de poussee notables, recuperation plus lente que d habitude' },
+        { label: 'Contexte', value: 'Changement de medicament, hydratation plus faible, deux jours de chaleur' },
+        { label: 'Question en visite', value: 'Que dois-je suivre avant le prochain rendez-vous?' },
+      ],
+      note: 'L apercu du rapport n est pas un diagnostic. Il montre comment Zebra peut organiser l historique saisi par la personne pour une conversation plus claire.',
+    },
+    note:
+      'Utilisez ceci comme aide d organisation, pas comme checklist diagnostique. Zebra ne diagnostique pas, ne traite pas et ne dit pas ce qu un clinicien devrait conclure.',
+  },
   howItWorks: {
     eyebrow: 'Comment fonctionne Zebra',
     title: 'Trois etapes simples, meme les jours a faible energie.',

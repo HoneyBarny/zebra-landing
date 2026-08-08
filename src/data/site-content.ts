@@ -435,6 +435,18 @@ export const homePage = {
         body: 'Preserve pain, fatigue, brain fog, medication changes, sleep context, and functional impact for a clearer follow-up conversation.',
       },
     ],
+    samplePreview: {
+      eyebrow: 'Sample report',
+      title: 'What a one-page appointment view can look like',
+      meta: 'Example only, using fake patient data.',
+      rows: [
+        { label: 'Main change', value: 'More dizziness and fatigue after short standing tasks' },
+        { label: 'Recent flares', value: '3 notable flare days, recovery slower than usual' },
+        { label: 'Context', value: 'Medication change, lower hydration, two high-heat days' },
+        { label: 'Ask at visit', value: 'What should I track before the next follow-up?' },
+      ],
+      note: 'The report preview is not a diagnosis. It shows how Zebra can organize patient-entered history for a clearer conversation.',
+    },
     note:
       'Use this as an organizing aid, not a diagnostic checklist. Zebra does not diagnose, treat, or tell you what a clinician should conclude.',
   },

@@ -3,6 +3,7 @@ import FAQSection from './FAQSection.astro';
 import FinalCTASection from './FinalCTASection.astro';
 import HeroSection from './HeroSection.astro';
 import HowItWorksSection from './HowItWorksSection.astro';
+import AppointmentPrepSection from './AppointmentPrepSection.astro';
 import MobileStickyCTA from './MobileStickyCTA.astro';
 import ProblemSection from './ProblemSection.astro';
 import ReportSection from './ReportSection.astro';
@@ -36,6 +37,7 @@ const { page } = Astro.props;
       appStoreBadgeURL={page.appStore.badgeUrl}
       appStoreBadgeAlt={page.appStore.badgeAlt}
     />
+    <AppointmentPrepSection {...page.appointmentPrep} />
     <HowItWorksSection {...page.howItWorks} />
     <ScreenshotCarouselSection {...page.screenshotCarousel} />
     <ShowcaseSection
