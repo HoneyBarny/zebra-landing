@@ -1,0 +1,136 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteHeader from '../../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../../components/content/ArticleCard.astro';
+import { categoryMeta } from '../../../data/content-taxonomy';
+import { getLocalizedHubCopy, localizedHubCopy } from '../../../data/locales/phase2';
+import { alternatesForPath } from '../../../data/locales/shared';
+import { localizedArticleUrl, type ArticleLocale } from '../../../data/locales/article-translations';
+import {
+  articleUrl,
+  categoryUrl,
+  dateLabel,
+  estimateReadingTime,
+  getFeaturedArticle,
+  getPublishedArticles,
+  sortArticles,
+} from '../../../lib/content';
+
+export function getStaticPaths() {
+  return Object.keys(localizedHubCopy).map((locale) => ({
+    params: { locale },
+  }));
+}
+
+const copy = getLocalizedHubCopy(Astro.params.locale ?? '');
+
+if (!copy) {
+  return Astro.redirect('/404/');
+}
+
+const locale = Astro.params.locale as ArticleLocale;
+const translatedArticles = await getCollection('localizedArticles', ({ data }) => data.locale === locale);
+const englishArticles = await getCollection('articles');
+const publishedTranslatedArticles = getPublishedArticles(translatedArticles as never);
+const hasTranslations = publishedTranslatedArticles.length > 0;
+const articles = sortArticles((hasTranslations ? publishedTranslatedArticles : getPublishedArticles(englishArticles)) as never);
+const featured = getFeaturedArticle(articles);
+const rest = articles.filter((article) => article.id !== featured.id);
+const availableCategories = Object.values(categoryMeta).filter((category) =>
+  articles.some((article) => article.data.categories.includes(category.name)),
+);
+const dateLocale = copy.home.locale.htmlLang;
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: copy.blog.title,
+    description: copy.blog.description,
+    about: ['Symptom Tracking', 'POTS', 'Dysautonomia', 'Doctor-Ready Report'],
+  },
+];
+---
+
+<BaseLayout
+  lang={copy.home.locale.htmlLang}
+  title={copy.blog.title}
+  description={copy.blog.description}
+  schema={schema}
+  alternates={alternatesForPath('/blog/')}
+  consentBanner={copy.home.consentBanner}
+>
+  <div class="page-shell">
+    <SiteHeader brand={copy.home.header.brand} links={copy.home.header.links} localeSwitcher={copy.home.localeSwitcher} />
+    <main>
+      <section class="section blog-hero">
+        <Breadcrumbs items={[{ label: copy.blog.breadcrumbs.home, href: copy.home.locale.path }, { label: copy.blog.breadcrumbs.blog }]} />
+        <p class="eyebrow">{copy.blog.eyebrow}</p>
+        <h1>{copy.blog.heading}</h1>
+        <p class="blog-hero-copy">{copy.blog.intro}</p>
+        <div class="filter-row" aria-label={copy.blog.filtersLabel}>
+          {availableCategories.map((category) => (
+            <a class="filter-chip" href={categoryUrl(category.slug)}>
+              {category.name}
+            </a>
+          ))}
+          <a class="filter-chip" href={`${copy.home.locale.path}knowledge/`}>{copy.blog.knowledgeLabel}</a>
+        </div>
+      </section>
+
+      <section class="section section-band featured-article">
+        <div class="section-intro">
+          <p class="eyebrow">{copy.blog.featuredEyebrow}</p>
+          <h2>{featured.data.title}</h2>
+          <p class="section-intro-body">{featured.data.excerpt}</p>
+        </div>
+        <div class="featured-article-grid">
+          <a class="featured-article-media" href={hasTranslations ? localizedArticleUrl(locale, featured.data.originalSlug) : articleUrl(featured.id)}>
+            <img src={featured.data.heroImage} alt={featured.data.heroImageAlt} loading="eager" decoding="async" />
+          </a>
+          <div class="featured-article-copy">
+            <div class="article-card-meta">
+              <span>{featured.data.category}</span>
+              <span>{dateLabel(featured.data.publishedAt, dateLocale)}</span>
+              <span>{estimateReadingTime(featured.body)} {copy.blog.minRead}</span>
+            </div>
+            <p>{featured.data.subtitle}</p>
+            <div class="article-chip-row">
+              {featured.data.entities.slice(0, 4).map((entity) => <span class="article-chip">{entity}</span>)}
+            </div>
+            <a class="inline-cta" href={hasTranslations ? localizedArticleUrl(locale, featured.data.originalSlug) : articleUrl(featured.id)}>{copy.blog.readGuide}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow">{copy.blog.latestEyebrow}</p>
+          <h2>{copy.blog.latestTitle}</h2>
+        </div>
+        <div class="article-grid">
+          {rest.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={hasTranslations ? localizedArticleUrl(locale, article.data.originalSlug) : articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt, dateLocale)}
+              readingTime={estimateReadingTime(article.body)}
+              minReadLabel={copy.blog.minRead}
+              categoriesLabel={copy.blog.filtersLabel}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...copy.home.footer} localeSwitcher={copy.home.localeSwitcher} />
+  </div>
+</BaseLayout>

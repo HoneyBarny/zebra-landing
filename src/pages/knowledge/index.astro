@@ -6,6 +6,7 @@ import SiteHeader from '../../components/landing/SiteHeader.astro';
 import SiteFooter from '../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import { clusterMeta } from '../../data/content-taxonomy';
+import { alternatesForPath } from '../../data/locales/shared';
 import { homePage } from '../../data/site-content';
 import {
   entityUrl,
@@ -47,6 +48,7 @@ const schema = [
   title="Zebra Knowledge Hub — Entities, Definitions, and Related Guides"
   description="Browse Zebra’s knowledge hub for connected definitions, symptom-tracking concepts, and article clusters built around specialist appointment preparation."
   schema={schema}
+  alternates={alternatesForPath('/knowledge/')}
 >
   <div class="page-shell">
     <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />

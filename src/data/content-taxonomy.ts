@@ -148,6 +148,16 @@ type KnowledgeEntity = {
   clusters: string[];
   hubSection: HubSection;
   relatedCategorySlugs: string[];
+  practicalUse?: {
+    title: string;
+    body: string;
+    items: string[];
+  };
+  appointmentUse?: {
+    title: string;
+    body: string;
+    items: string[];
+  };
   aliases?: string[];
   featured?: boolean;
 };
@@ -439,6 +449,7 @@ export const knowledgeEntities: KnowledgeEntity[] = [
     clusters: ['symptom-tracking', 'appointment-preparation', 'doctor-reports'],
     hubSection: 'medication-tracking',
     relatedCategorySlugs: ['symptom-tracking', 'appointment-preparation', 'doctor-reports'],
+    aliases: ['Medication Timeline'],
   },
   {
     slug: 'flare',
@@ -454,13 +465,34 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'baseline-symptoms',
     name: 'Baseline Symptoms',
-    summary: 'A workflow page for the symptoms that are normal for you, which makes new or worse changes easier to explain.',
+    summary: 'A workflow page for writing down what is normal for you before a flare, medication change, or doctor visit makes the details harder to remember.',
     definition:
-      'Baseline symptoms is a Zebra workflow page for clarifying what is typical versus what has newly changed or worsened before an appointment.',
+      'Baseline symptoms is a Zebra workflow page for separating your usual symptom pattern from what has newly changed, worsened, or started happening more often before an appointment.',
     entityType: 'workflow',
     clusters: ['symptom-tracking', 'appointment-preparation'],
     hubSection: 'doctor-visits',
     relatedCategorySlugs: ['symptom-tracking', 'appointment-preparation'],
+    practicalUse: {
+      title: 'What to write down first',
+      body:
+        'A baseline is most useful when it is plain and specific. It does not need to explain why symptoms happen. It only needs to capture what a normal week usually looks like before something changes.',
+      items: [
+        'The symptoms that are usually present, even on an ordinary day',
+        'What counts as worse than normal for pain, dizziness, fatigue, brain fog, or heart-rate symptoms',
+        'What you can usually do, such as standing, walking, cooking, working, or leaving the house',
+        'Medication, salt, water, sleep, heat, or activity context that is usually part of the pattern',
+      ],
+    },
+    appointmentUse: {
+      title: 'How it helps before a doctor visit',
+      body:
+        'The appointment value is contrast. Instead of trying to explain the whole month from memory, you can point to what was typical, what changed, and when the change started.',
+      items: [
+        'Use it before a new medication or dose change',
+        'Use it after a flare so the worse period has something to compare against',
+        'Use it before an appointment when symptoms have been shifting for several weeks',
+      ],
+    },
   },
   {
     slug: 'trigger',
@@ -570,7 +602,10 @@ export const entityMetaBySlug = Object.fromEntries(
 ) as Record<string, KnowledgeEntity>;
 
 export const entityMeta = Object.fromEntries(
-  knowledgeEntities.map((entity) => [entity.name, entity]),
+  knowledgeEntities.flatMap((entity) => [
+    [entity.name, entity],
+    ...(entity.aliases ?? []).map((alias) => [alias, entity] as const),
+  ]),
 ) as Record<string, KnowledgeEntity>;
 
 export type CategoryMeta = (typeof categoryMeta)[keyof typeof categoryMeta];

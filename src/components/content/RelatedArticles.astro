@@ -6,15 +6,17 @@ import type { ArticleEntry } from '../../lib/content';
 interface Props {
   articles: ArticleEntry[];
   title?: string;
+  eyebrow?: string;
+  minReadLabel?: string;
 }
 
-const { articles, title = 'Related reading' } = Astro.props;
+const { articles, title = 'Related reading', eyebrow = 'Keep exploring', minReadLabel = 'min read' } = Astro.props;
 ---
 
 {articles.length > 0 && (
   <section class="related-articles section section-band section-band--soft">
     <div class="section-intro">
-      <p class="eyebrow">Keep exploring</p>
+      <p class="eyebrow">{eyebrow}</p>
       <h2>{title}</h2>
     </div>
     <div class="article-grid">
@@ -27,6 +29,7 @@ const { articles, title = 'Related reading' } = Astro.props;
           categories={article.data.categories}
           publishedAt={dateLabel(article.data.publishedAt)}
           readingTime={estimateReadingTime(article.body)}
+          minReadLabel={minReadLabel}
           image={article.data.heroImage}
           imageAlt={article.data.heroImageAlt}
         />

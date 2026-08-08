@@ -13,6 +13,19 @@
  * has been on the wrong end of enough dishonest design; a nudged Decline would
  * cost more trust than the measurement is worth.
  */
+interface Props {
+	title?: string;
+	body?: string;
+	acceptLabel?: string;
+	declineLabel?: string;
+}
+
+const {
+	title = 'Measuring our ads',
+	body = 'We use Meta’s pixel to measure whether our ads reach the right people. Nothing about your health is collected — this site has no access to anything in the app.',
+	acceptLabel = 'Accept',
+	declineLabel = 'Decline',
+} = Astro.props;
 ---
 
 <div
@@ -25,15 +38,14 @@
 >
 	<div class="consent-banner__inner">
 		<div class="consent-banner__copy">
-			<h2 class="consent-banner__title" id="zebra-consent-title" tabindex="-1">Measuring our ads</h2>
+			<h2 class="consent-banner__title" id="zebra-consent-title" tabindex="-1">{title}</h2>
 			<p class="consent-banner__body" id="zebra-consent-body">
-				We use Meta&rsquo;s pixel to measure whether our ads reach the right people. Nothing about your
-				health is collected &mdash; this site has no access to anything in the app.
+				{body}
 			</p>
 		</div>
 		<div class="consent-banner__actions">
-			<button class="consent-banner__button" type="button" data-consent-action="granted">Accept</button>
-			<button class="consent-banner__button" type="button" data-consent-action="denied">Decline</button>
+			<button class="consent-banner__button" type="button" data-consent-action="granted">{acceptLabel}</button>
+			<button class="consent-banner__button" type="button" data-consent-action="denied">{declineLabel}</button>
 		</div>
 	</div>
 </div>

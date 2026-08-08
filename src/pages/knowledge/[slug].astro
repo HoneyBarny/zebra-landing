@@ -7,8 +7,10 @@ import SiteFooter from '../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../components/content/ArticleCard.astro';
 import { homePage } from '../../data/site-content';
+import { alternatesForPath } from '../../data/locales/shared';
 import {
   articleUrl,
+  clusterUrl,
   dateLabel,
   entityUrl,
   estimateReadingTime,
@@ -66,7 +68,12 @@ const schema = [
 ];
 ---
 
-<BaseLayout title={`${entity.name} — Zebra Knowledge Hub`} description={entity.summary} schema={schema}>
+<BaseLayout
+  title={`${entity.name} — Zebra Knowledge Hub`}
+  description={entity.summary}
+  schema={schema}
+  alternates={alternatesForPath(`/knowledge/${entity.slug}/`)}
+>
   <div class="page-shell">
     <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
     <main>
@@ -83,7 +90,7 @@ const schema = [
         <p class="blog-hero-copy">{entity.definition}</p>
         <div class="article-chip-row">
           {parentClusters.map((cluster) => (
-            <a class="article-chip" href={entityUrl(cluster.slug)}>
+            <a class="article-chip" href={clusterUrl(cluster.slug)}>
               {cluster.name}
             </a>
           ))}
@@ -137,6 +144,37 @@ const schema = [
                 </ul>
               </article>
             ))}
+          </div>
+        </section>
+      )}
+
+      {(entity.practicalUse || entity.appointmentUse) && (
+        <section class="section" aria-labelledby="practical-use-heading">
+          <div class="section-intro">
+            <p class="eyebrow">Practical use</p>
+            <h2 id="practical-use-heading">How to use {entity.name.toLowerCase()} without overbuilding it</h2>
+          </div>
+          <div class="search-page-columns">
+            {entity.practicalUse && (
+              <article>
+                <p class="eyebrow">Start here</p>
+                <h3>{entity.practicalUse.title}</h3>
+                <p>{entity.practicalUse.body}</p>
+                <ul class="check-list">
+                  {entity.practicalUse.items.map((item) => <li>{item}</li>)}
+                </ul>
+              </article>
+            )}
+            {entity.appointmentUse && (
+              <article>
+                <p class="eyebrow">Appointment prep</p>
+                <h3>{entity.appointmentUse.title}</h3>
+                <p>{entity.appointmentUse.body}</p>
+                <ul class="check-list">
+                  {entity.appointmentUse.items.map((item) => <li>{item}</li>)}
+                </ul>
+              </article>
+            )}
           </div>
         </section>
       )}

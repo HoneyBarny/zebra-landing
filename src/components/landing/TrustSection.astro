@@ -31,9 +31,28 @@ interface Props {
     body: string;
     href: string;
   }>;
+  resourcesIntro?: {
+    eyebrow: string;
+    title: string;
+  };
+  resourcesCtaLabel?: string;
 }
 
-const { eyebrow, title, intro, highlight, calmState, items, links, resources = [] } = Astro.props;
+const {
+  eyebrow,
+  title,
+  intro,
+  highlight,
+  calmState,
+  items,
+  links,
+  resources = [],
+  resourcesIntro = {
+    eyebrow: 'Editorial trust',
+    title: 'See how Zebra maintains its content and knowledge hub.',
+  },
+  resourcesCtaLabel = 'Open page',
+} = Astro.props;
 ---
 
 <section class="section section-band trust-section" aria-labelledby="trust-heading">
@@ -66,8 +85,8 @@ const { eyebrow, title, intro, highlight, calmState, items, links, resources = [
   {resources.length > 0 && (
     <div class="trust-resources">
       <div class="section-intro section-intro--narrow">
-        <p class="eyebrow">Editorial trust</p>
-        <h3>See how Zebra maintains its content and knowledge hub.</h3>
+        <p class="eyebrow">{resourcesIntro.eyebrow}</p>
+        <h3>{resourcesIntro.title}</h3>
       </div>
       <div class="guides-grid">
         {resources.map((resource) => (
@@ -75,7 +94,7 @@ const { eyebrow, title, intro, highlight, calmState, items, links, resources = [
             <p class="mini-label">{resource.eyebrow}</p>
             <strong>{resource.title}</strong>
             <p>{resource.body}</p>
-            <span>Open page</span>
+            <span>{resourcesCtaLabel}</span>
           </a>
         ))}
       </div>

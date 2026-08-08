@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HomePage from '../../components/landing/HomePage.astro';
+import { getLocalizedHomePage, localizedHomePages } from '../../data/locales';
+
+export function getStaticPaths() {
+  return Object.keys(localizedHomePages).map((locale) => ({
+    params: { locale },
+  }));
+}
+
+const page = getLocalizedHomePage(Astro.params.locale ?? '');
+
+if (!page) {
+  return Astro.redirect('/404/');
+}
+---
+
+<BaseLayout
+  lang={page.locale.htmlLang}
+  title={page.seo.title}
+  description={page.seo.description}
+  ogImage={page.seo.ogImage}
+  ogImageAlt={page.seo.ogImageAlt}
+  schema={page.schema}
+  alternates={page.seo.alternates}
+  consentBanner={page.consentBanner}
+>
+  <HomePage page={page} />
+</BaseLayout>

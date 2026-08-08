@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "content:ops": "node --experimental-strip-types ./scripts/content-ops.ts",
+    "translate:articles": "node ./scripts/translate-articles.mjs",
     "next": "node --experimental-strip-types ./scripts/next.ts",
     "publish:scheduled": "node ./scripts/publish-scheduled.mjs",
     "publish:scheduled:full": "node ./scripts/publish-scheduled.mjs --deploy --validate",

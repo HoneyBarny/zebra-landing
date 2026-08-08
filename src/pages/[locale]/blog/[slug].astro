@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
+import { getArticleLocaleCopy, localizedArticleUrl, type ArticleLocale } from '../../../data/locales/article-translations';
+import {
+  getArticleSchema,
+  getBreadcrumbSchema,
+  getFaqSchema,
+  getPublishedArticles,
+  getRelatedArticles,
+  type ArticleEntry,
+} from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const localizedArticles = await getCollection('localizedArticles', ({ data }) => data.status === 'published');
+
+  return localizedArticles.map((article) => ({
+    params: { locale: article.data.locale, slug: article.data.originalSlug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const locale = Astro.params.locale as ArticleLocale;
+const copy = getArticleLocaleCopy(locale);
+
+if (!copy) {
+  return Astro.redirect('/404/');
+}
+
+const englishArticles = getPublishedArticles(await getCollection('articles'));
+const originalArticle = englishArticles.find((entry) => entry.id === article.data.originalSlug);
+const relatedArticles = originalArticle ? getRelatedArticles(originalArticle, englishArticles) : [];
+const { Content, headings } = await render(article);
+const articlePath = localizedArticleUrl(locale, article.data.originalSlug);
+const canonical = new URL(articlePath, Astro.site).toString();
+
+const schema = [
+  getArticleSchema(article as unknown as ArticleEntry, canonical),
+  getBreadcrumbSchema([
+    { name: copy.labels.home, item: copy.home.locale.path },
+    { name: copy.labels.blog, item: `${copy.home.locale.path}blog/` },
+    { name: article.data.title, item: articlePath },
+  ]),
+].filter(Boolean);
+
+const faqSchema = getFaqSchema(article as unknown as ArticleEntry);
+if (faqSchema) schema.push(faqSchema);
+---
+
+<ArticleLayout
+  article={article as unknown as ArticleEntry}
+  headings={headings}
+  relatedArticles={relatedArticles}
+  canonical={canonical}
+  schema={schema}
+  lang={copy.home.locale.htmlLang}
+  localePath={copy.home.locale.path}
+  articlePath={articlePath}
+  alternatesPath={`/blog/${article.data.originalSlug}/`}
+  brand={copy.home.header.brand}
+  headerLinks={copy.home.header.links}
+  footer={copy.home.footer}
+  localeSwitcher={copy.home.localeSwitcher}
+  consentBanner={copy.home.consentBanner}
+  labels={copy.labels}
+>
+  <Content />
+</ArticleLayout>

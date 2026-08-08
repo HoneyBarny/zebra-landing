@@ -1,0 +1,21 @@
+---
+import LegalPage from '../../components/content/LegalPage.astro';
+import SupportPage from '../../components/content/SupportPage.astro';
+import { getPhase2Page, phase2Pages } from '../../data/locales/phase2';
+
+export function getStaticPaths() {
+  return Object.entries(phase2Pages).flatMap(([locale, pages]) =>
+    Object.keys(pages).map((page) => ({
+      params: { locale, page },
+    })),
+  );
+}
+
+const page = getPhase2Page(Astro.params.locale ?? '', Astro.params.page ?? '');
+
+if (!page) {
+  return Astro.redirect('/404/');
+}
+---
+
+{Astro.params.page === 'support' ? <SupportPage page={page} /> : <LegalPage page={page} />}

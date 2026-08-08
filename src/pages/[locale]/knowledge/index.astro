@@ -1,0 +1,118 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteHeader from '../../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
+import { clusterMeta } from '../../../data/content-taxonomy';
+import type { ClusterMeta } from '../../../data/content-taxonomy';
+import {
+  getEntityPageCopy,
+  localizeEntity,
+  localizedEntityUrl,
+  type EntityLocale,
+} from '../../../data/locales/entity-translations';
+import { getLocalizedHubCopy, localizedHubCopy } from '../../../data/locales/phase2';
+import { alternatesForPath } from '../../../data/locales/shared';
+import {
+  getArticlesForEntity,
+  getEntityBySlug,
+  getEntities,
+  getPublishedArticles,
+} from '../../../lib/content';
+
+export function getStaticPaths() {
+  return Object.keys(localizedHubCopy).map((locale) => ({
+    params: { locale },
+  }));
+}
+
+const copy = getLocalizedHubCopy(Astro.params.locale ?? '');
+const locale = Astro.params.locale as EntityLocale;
+const entityCopy = getEntityPageCopy(locale);
+
+if (!copy || !entityCopy) {
+  return Astro.redirect('/404/');
+}
+
+const articles = getPublishedArticles(await getCollection('articles'));
+const entities = getEntities()
+  .map((entity) => ({
+    ...localizeEntity(entity, locale),
+    articles: getArticlesForEntity(entity.slug, articles),
+  }))
+  .sort((a, b) => {
+    if (Number(Boolean(b.featured)) !== Number(Boolean(a.featured))) {
+      return Number(Boolean(b.featured)) - Number(Boolean(a.featured));
+    }
+
+    return b.articles.length - a.articles.length;
+  });
+
+const conditionHubs = Object.values(clusterMeta).filter((cluster) =>
+  ['pots', 'dysautonomia', 'eds', 'fibromyalgia', 'long-covid', 'me-cfs'].includes(cluster.slug),
+);
+
+function localizedConditionHub(cluster: ClusterMeta) {
+  const entity = getEntityBySlug(cluster.slug);
+  return entity ? localizeEntity(entity, locale).name : entityCopy.clusters[cluster.slug as keyof typeof entityCopy.clusters] ?? cluster.name;
+}
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: copy.knowledge.title,
+    description: copy.knowledge.description,
+  },
+];
+---
+
+<BaseLayout
+  lang={copy.home.locale.htmlLang}
+  title={copy.knowledge.title}
+  description={copy.knowledge.description}
+  schema={schema}
+  alternates={alternatesForPath('/knowledge/')}
+  consentBanner={copy.home.consentBanner}
+>
+  <div class="page-shell">
+    <SiteHeader brand={copy.home.header.brand} links={copy.home.header.links} localeSwitcher={copy.home.localeSwitcher} />
+    <main>
+      <section class="section blog-hero">
+        <Breadcrumbs items={[{ label: copy.knowledge.breadcrumbs.home, href: copy.home.locale.path }, { label: copy.knowledge.breadcrumbs.knowledge }]} />
+        <p class="eyebrow">{copy.knowledge.eyebrow}</p>
+        <h1>{copy.knowledge.heading}</h1>
+        <p class="blog-hero-copy">{copy.knowledge.intro}</p>
+        <div class="filter-row" aria-label={copy.knowledge.conditionHubsLabel}>
+          {conditionHubs.map((cluster) => (
+            <a class="filter-chip" href={localizedEntityUrl(locale, cluster.slug)}>
+              {localizedConditionHub(cluster)}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="knowledge-grid">
+          {entities.map((entity) => (
+            <article class="knowledge-card">
+              <p class="mini-label">{entity.articles.length} {copy.knowledge.relatedArticles}</p>
+              <h2><a href={localizedEntityUrl(locale, entity.slug)}>{entity.name}</a></h2>
+              <p>{entity.summary}</p>
+              <div class="article-chip-row">
+                {entity.clusters.slice(0, 3).map((item) => (
+                  <span class="article-chip">
+                    {entityCopy.clusters[item as keyof typeof entityCopy.clusters] ?? clusterMeta[item as keyof typeof clusterMeta]?.name ?? item}
+                  </span>
+                ))}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...copy.home.footer} localeSwitcher={copy.home.localeSwitcher} />
+  </div>
+</BaseLayout>

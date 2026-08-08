@@ -36,6 +36,7 @@ interface Props {
   };
   appStoreURL: string;
   appStoreBadgeURL: string;
+  appStoreBadgeAlt?: string;
 }
 
 const {
@@ -52,6 +53,7 @@ const {
   supportCard,
   appStoreURL,
   appStoreBadgeURL,
+  appStoreBadgeAlt,
 } = Astro.props;
 ---
 
@@ -61,7 +63,7 @@ const {
     <h1 id="hero-heading">{title}</h1>
     <p class="hero-text">{body}</p>
     <div class="hero-cta-band" aria-label="Primary download call to action">
-      <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} loading="eager" trackingLocation="hero_badge" />
+      <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} alt={appStoreBadgeAlt} loading="eager" trackingLocation="hero_badge" />
     </div>
     <ul class="cta-support-list" aria-label="Download reassurance">
       {ctaSupport.map((item) => <li>{item}</li>)}

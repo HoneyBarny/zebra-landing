@@ -6,12 +6,14 @@ interface Props {
   label: string;
   note: string;
   badgeUrl: string;
+  badgeAlt?: string;
+  ariaLabel?: string;
 }
 
-const { href, label, note, badgeUrl } = Astro.props;
+const { href, label, note, badgeUrl, badgeAlt, ariaLabel = 'Download Zebra on the App Store' } = Astro.props;
 ---
 
-<aside class="mobile-sticky-cta" aria-label="Download Zebra on the App Store">
+<aside class="mobile-sticky-cta" aria-label={ariaLabel}>
   <span>{note}</span>
-  <AppStoreBadge href={href} src={badgeUrl} className="mobile-sticky-badge" trackingLocation="mobile_sticky" />
+  <AppStoreBadge href={href} src={badgeUrl} alt={badgeAlt} className="mobile-sticky-badge" trackingLocation="mobile_sticky" />
 </aside>

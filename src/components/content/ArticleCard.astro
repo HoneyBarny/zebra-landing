@@ -7,11 +7,25 @@ interface Props {
   categories: string[];
   publishedAt: string;
   readingTime: number;
+  minReadLabel?: string;
+  categoriesLabel?: string;
   image: string;
   imageAlt: string;
 }
 
-const { title, href, excerpt, category, categories, publishedAt, readingTime, image, imageAlt } = Astro.props;
+const {
+  title,
+  href,
+  excerpt,
+  category,
+  categories,
+  publishedAt,
+  readingTime,
+  minReadLabel = 'min read',
+  categoriesLabel = 'Article categories',
+  image,
+  imageAlt,
+} = Astro.props;
 ---
 
 <article class="article-card">
@@ -22,11 +36,11 @@ const { title, href, excerpt, category, categories, publishedAt, readingTime, im
     <div class="article-card-meta">
       <span>{category}</span>
       <span>{publishedAt}</span>
-      <span>{readingTime} min read</span>
+      <span>{readingTime} {minReadLabel}</span>
     </div>
     <h2><a href={href}>{title}</a></h2>
     <p>{excerpt}</p>
-    <div class="article-card-tags" aria-label="Article categories">
+    <div class="article-card-tags" aria-label={categoriesLabel}>
       {categories.slice(0, 3).map((item) => <span>{item}</span>)}
     </div>
   </div>

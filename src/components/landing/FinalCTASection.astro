@@ -7,11 +7,25 @@ interface Props {
   body: string;
   endState: string;
   trustLine: string;
+  points?: string[];
+  pointsLabel?: string;
   appStoreURL: string;
   appStoreBadgeURL: string;
+  appStoreBadgeAlt?: string;
 }
 
-const { eyebrow, title, body, endState, trustLine, appStoreURL, appStoreBadgeURL } = Astro.props;
+const {
+  eyebrow,
+  title,
+  body,
+  endState,
+  trustLine,
+  points = ['Track daily', 'See the pattern', 'Export the report'],
+  pointsLabel = 'Why download Zebra',
+  appStoreURL,
+  appStoreBadgeURL,
+  appStoreBadgeAlt,
+} = Astro.props;
 ---
 
 <section class="section final-cta-band" aria-labelledby="final-cta-heading">
@@ -19,13 +33,11 @@ const { eyebrow, title, body, endState, trustLine, appStoreURL, appStoreBadgeURL
     <p class="eyebrow">{eyebrow}</p>
     <h2 id="final-cta-heading">{title}</h2>
     <p>{body}</p>
-    <div class="final-cta-points" aria-label="Why download Zebra">
-      <span>Track daily</span>
-      <span>See the pattern</span>
-      <span>Export the report</span>
+    <div class="final-cta-points" aria-label={pointsLabel}>
+      {points.map((point) => <span>{point}</span>)}
     </div>
     <p class="final-end-state">{endState}</p>
-    <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} className="final-store-button" trackingLocation="final_cta" />
+    <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} alt={appStoreBadgeAlt} className="final-store-button" trackingLocation="final_cta" />
     <p class="footnote">{trustLine}</p>
   </div>
 </section>

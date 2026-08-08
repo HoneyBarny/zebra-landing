@@ -6,15 +6,15 @@ import Breadcrumbs from '../components/content/Breadcrumbs.astro';
 import RelatedArticles from '../components/content/RelatedArticles.astro';
 import { authorProfiles } from '../data/content-taxonomy';
 import { homePage } from '../data/site-content';
+import { alternatesForPath } from '../data/locales/shared';
 import {
   articleUrl,
   authorUrl,
   categorySlugFromName,
   categoryUrl,
   dateLabel,
-  entitySlugFromName,
-  entityUrl,
   estimateReadingTime,
+  topicUrlFromName,
 } from '../lib/content';
 import type { ArticleEntry } from '../lib/content';
 
@@ -24,11 +24,70 @@ interface Props {
   relatedArticles: ArticleEntry[];
   canonical: string;
   schema: Array<Record<string, unknown>>;
+  lang?: string;
+  localePath?: string;
+  articlePath?: string;
+  alternatesPath?: string;
+  brand?: typeof homePage.header.brand;
+  headerLinks?: typeof homePage.header.links;
+  footer?: typeof homePage.footer;
+  localeSwitcher?: unknown;
+  consentBanner?: unknown;
+  labels?: {
+    home: string;
+    blog: string;
+    updated: string;
+    minRead: string;
+    putIntoPractice: string;
+    downloadZebra: string;
+    knowledgeHub: string;
+    tableOfContents: string;
+    whyThisPageExists: string;
+    editorialReview: string;
+    reviewedBy: string;
+    lastReviewed: string;
+    directRoute: string;
+    relatedReading: string;
+    keepExploring: string;
+  };
 }
 
-const { article, headings, relatedArticles, canonical, schema } = Astro.props;
+const {
+  article,
+  headings,
+  relatedArticles,
+  canonical,
+  schema,
+  lang = 'en',
+  localePath = '/',
+  articlePath = articleUrl(article.id),
+  alternatesPath = articlePath,
+  brand = homePage.header.brand,
+  headerLinks = homePage.header.links,
+  footer = homePage.footer,
+  localeSwitcher,
+  consentBanner,
+  labels = {
+    home: 'Home',
+    blog: 'Blog',
+    updated: 'Updated',
+    minRead: 'min read',
+    putIntoPractice: 'Put this into practice',
+    downloadZebra: 'Download Zebra',
+    knowledgeHub: 'Knowledge hub',
+    tableOfContents: 'Table of contents',
+    whyThisPageExists: 'Why this page exists',
+    editorialReview: 'Editorial review',
+    reviewedBy: 'Reviewed by',
+    lastReviewed: 'Last reviewed',
+    directRoute: 'Direct route',
+    relatedReading: 'Related reading',
+    keepExploring: 'Keep exploring',
+  },
+} = Astro.props;
 const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
 const tocHeadings = headings.filter((heading) => heading.depth <= 2);
+const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lang === 'fr-FR' ? 'fr-FR' : 'en-US';
 ---
 
 <BaseLayout
@@ -40,15 +99,18 @@ const tocHeadings = headings.filter((heading) => heading.depth <= 2);
   publishedTime={article.data.publishedAt}
   modifiedTime={article.data.updatedAt}
   schema={schema}
+  lang={lang}
+  alternates={alternatesForPath(alternatesPath)}
+  consentBanner={consentBanner}
 >
   <div class="page-shell">
-    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
+    <SiteHeader brand={brand} links={headerLinks} localeSwitcher={localeSwitcher} />
     <main>
       <section class="section article-hero">
         <Breadcrumbs
           items={[
-            { label: 'Home', href: '/' },
-            { label: 'Blog', href: '/blog/' },
+            { label: labels.home, href: localePath },
+            { label: labels.blog, href: `${localePath === '/' ? '' : localePath}blog/` },
             { label: article.data.category, href: categoryUrl(article.data.categories[0].toLowerCase().replace(/[^a-z0-9]+/g, '-')) },
             { label: article.data.title },
           ]}
@@ -61,9 +123,9 @@ const tocHeadings = headings.filter((heading) => heading.depth <= 2);
             <p class="article-subtitle">{article.data.subtitle}</p>
             <div class="article-meta-row">
               <a href={authorUrl(author.slug)}>{author.name}</a>
-              <span>{dateLabel(article.data.publishedAt)}</span>
-              <span>Updated {dateLabel(article.data.updatedAt ?? article.data.publishedAt)}</span>
-              <span>{estimateReadingTime(article.body)} min read</span>
+              <span>{dateLabel(article.data.publishedAt, dateLocale)}</span>
+              <span>{labels.updated} {dateLabel(article.data.updatedAt ?? article.data.publishedAt, dateLocale)}</span>
+              <span>{estimateReadingTime(article.body)} {labels.minRead}</span>
             </div>
             <div class="article-chip-row">
               {article.data.categories.map((category) => (
@@ -92,17 +154,17 @@ const tocHeadings = headings.filter((heading) => heading.depth <= 2);
           <slot />
 
           <section class="article-cta-card" aria-label="Download Zebra">
-            <p class="eyebrow">Put this into practice</p>
+            <p class="eyebrow">{labels.putIntoPractice}</p>
             <h2>{article.data.ctaLabel}</h2>
             <p>{article.data.ctaNote}</p>
-            <a class="inline-cta" href={article.data.ctaHref}>Download Zebra</a>
+            <a class="inline-cta" href={article.data.ctaHref}>{labels.downloadZebra}</a>
           </section>
 
           <section class="entity-links" aria-label="Knowledge entities">
-            <p class="mini-label">Knowledge hub</p>
+            <p class="mini-label">{labels.knowledgeHub}</p>
             <div class="article-chip-row">
               {article.data.entities.map((entity) => (
-                <a class="article-chip" href={entityUrl(entitySlugFromName(entity))}>
+                <a class="article-chip" href={topicUrlFromName(entity)}>
                   {entity}
                 </a>
               ))}
@@ -112,8 +174,8 @@ const tocHeadings = headings.filter((heading) => heading.depth <= 2);
 
         <aside class="article-sidebar">
           {tocHeadings.length > 1 && (
-            <nav class="toc-card" aria-label="Table of contents">
-              <p class="mini-label">On this page</p>
+            <nav class="toc-card" aria-label={labels.tableOfContents}>
+              <p class="mini-label">{labels.tableOfContents}</p>
               <ol>
                 {tocHeadings.map((heading) => (
                   <li><a href={`#${heading.slug}`}>{heading.text}</a></li>
@@ -123,27 +185,27 @@ const tocHeadings = headings.filter((heading) => heading.depth <= 2);
           )}
 
           <div class="toc-card">
-            <p class="mini-label">Why this page exists</p>
+            <p class="mini-label">{labels.whyThisPageExists}</p>
             <p class="toc-copy">{article.data.description}</p>
           </div>
 
           <div class="toc-card">
-            <p class="mini-label">Editorial review</p>
+            <p class="mini-label">{labels.editorialReview}</p>
             <p class="toc-copy">
-              Reviewed by {article.data.reviewedBy}. Last reviewed {dateLabel(article.data.lastReviewed ?? article.data.updatedAt ?? article.data.publishedAt)}.
+              {labels.reviewedBy} {article.data.reviewedBy}. {labels.lastReviewed} {dateLabel(article.data.lastReviewed ?? article.data.updatedAt ?? article.data.publishedAt, dateLocale)}.
             </p>
           </div>
 
           <div class="toc-card">
-            <p class="mini-label">Direct route</p>
-            <a class="inline-link" href={canonical}>{articleUrl(article.id)}</a>
+            <p class="mini-label">{labels.directRoute}</p>
+            <a class="inline-link" href={canonical}>{articlePath}</a>
             
           </div>
         </aside>
       </section>
 
-      <RelatedArticles articles={relatedArticles} />
+      <RelatedArticles articles={relatedArticles} title={labels.relatedReading} eyebrow={labels.keepExploring} />
     </main>
-    <SiteFooter {...homePage.footer} />
+    <SiteFooter {...footer} localeSwitcher={localeSwitcher} />
   </div>
 </BaseLayout>

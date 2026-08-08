@@ -7,9 +7,10 @@ interface Props {
   loading?: 'eager' | 'lazy';
   className?: string;
   trackingLocation?: string;
+  alt?: string;
 }
 
-const { href, src, loading = 'lazy', className, trackingLocation } = Astro.props;
+const { href, src, loading = 'lazy', className, trackingLocation, alt = 'Download on the App Store' } = Astro.props;
 
 // Campaign attribution is applied here rather than at each call site, so all
 // six badge usages get it from one place and none can drift. Falls through to
@@ -25,12 +26,12 @@ const resolvedHref = appStoreUrlFor(trackingLocation, href);
   rel="noopener noreferrer"
   data-app-store-cta={trackingLocation ? 'true' : undefined}
   data-cta-location={trackingLocation}
-  data-cta-label="Download on the App Store"
+  data-cta-label={alt}
 >
   <img
     class="app-store-badge"
     src={src}
-    alt="Download on the App Store"
+    alt={alt}
     width="246"
     height="82"
     loading={loading}

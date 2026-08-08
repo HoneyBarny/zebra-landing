@@ -34,6 +34,7 @@ interface Props {
   ctaHref: string;
   ctaNote: string;
   appStoreBadgeURL?: string;
+  appStoreBadgeAlt?: string;
   layout?: 'default' | 'reverse';
   media: MediaItem;
 }
@@ -52,6 +53,7 @@ const {
   ctaHref,
   ctaNote,
   appStoreBadgeURL,
+  appStoreBadgeAlt,
   layout = 'default',
   media,
 } = Astro.props;
@@ -96,7 +98,7 @@ const textCtaHref = isAppStoreCta ? appStoreUrlFor(id, ctaHref) : ctaHref;
       </div>
       <div class="showcase-cta">
         {isAppStoreCta && appStoreBadgeURL ? (
-          <AppStoreBadge href={ctaHref} src={appStoreBadgeURL} trackingLocation={id} />
+          <AppStoreBadge href={ctaHref} src={appStoreBadgeURL} alt={appStoreBadgeAlt} trackingLocation={id} />
         ) : (
           <a
             class="text-action"

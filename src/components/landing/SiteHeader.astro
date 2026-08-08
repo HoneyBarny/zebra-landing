@@ -19,9 +19,13 @@ interface Brand {
 interface Props {
   brand: Brand;
   links: LinkItem[];
+  localeSwitcher?: {
+    label: string;
+    links: Array<LinkItem & { locale?: string; flag?: string }>;
+  };
 }
 
-const { brand, links } = Astro.props;
+const { brand, links, localeSwitcher } = Astro.props;
 ---
 
 <header class="site-header">
@@ -38,11 +42,23 @@ const { brand, links } = Astro.props;
       <p class="brand-subtitle">{brand.subtitle}</p>
     </div>
   </a>
-  <nav class="site-nav" aria-label="Primary">
-    {links.map((link) => (
-      <a href={link.href}>
-        {link.label}
-      </a>
-    ))}
-  </nav>
+  <div class="header-actions">
+    <nav class="site-nav" aria-label="Primary">
+      {links.map((link) => (
+        <a href={link.href}>
+          {link.label}
+        </a>
+      ))}
+    </nav>
+    {localeSwitcher && (
+      <nav class="locale-switcher" aria-label={localeSwitcher.label}>
+        {localeSwitcher.links.map((link) => (
+          <a href={link.href} lang={link.locale}>
+            {link.flag && <span class="locale-flag" aria-hidden="true">{link.flag}</span>}
+            <span>{link.label}</span>
+          </a>
+        ))}
+      </nav>
+    )}
+  </div>
 </header>

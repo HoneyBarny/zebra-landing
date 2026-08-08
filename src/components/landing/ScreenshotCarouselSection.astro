@@ -18,15 +18,16 @@ interface Props {
   eyebrow: string;
   title: string;
   intro: string;
+  label?: string;
   items: ScreenshotItem[];
 }
 
-const { eyebrow, title, intro, items } = Astro.props;
+const { eyebrow, title, intro, label = 'Zebra app screenshots', items } = Astro.props;
 ---
 
 <section class="section screenshot-carousel-section" aria-labelledby="screenshot-carousel-heading">
   <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="screenshot-carousel-heading" narrow={true} />
-  <div class="screenshot-carousel" aria-label="Zebra app screenshots">
+  <div class="screenshot-carousel" aria-label={label}>
     {items.map((item) => (
       <article class="screenshot-slide">
         <PhoneMedia {...item} shell="default" />

@@ -3,7 +3,9 @@ import { getCollection } from 'astro:content';
 import { stat } from 'node:fs/promises';
 import { join } from 'node:path';
 
-import { authorProfiles, categoryMeta, entityMetaBySlug } from '../data/content-taxonomy';
+import { authorProfiles, categoryMeta, entityMetaBySlug, knowledgeEntities } from '../data/content-taxonomy';
+import { localeRoutes } from '../data/locales';
+import { localizedArticleUrl, type ArticleLocale } from '../data/locales/article-translations';
 import { searchPageRoutes } from '../data/search-pages';
 import { indexableRoutes, toAbsoluteUrl } from '../data/site-config';
 import {
@@ -31,6 +33,7 @@ async function getFileDate(...paths: string[]) {
 
 export const GET: APIRoute = async () => {
   const articles = getPublishedArticles(await getCollection('articles'));
+  const localizedArticles = getPublishedArticles(await getCollection('localizedArticles') as never);
   const articleLastmodByRoute = new Map(
     articles.map((article) => [
       articleUrl(article.id),
@@ -132,6 +135,25 @@ export const GET: APIRoute = async () => {
 
   const urls = [
     ...indexableRoutes.map((route) => ({ route, lastmod: staticRouteDates.get(route) ?? latestArticleDate })),
+    ...Object.values(localeRoutes)
+      .filter((route) => route !== '/')
+      .map((route) => ({ route, lastmod: staticRouteDates.get('/') ?? latestArticleDate })),
+    ...Object.values(localeRoutes)
+      .filter((route) => route !== '/')
+      .flatMap((localeRoute) =>
+        ['/blog/', '/knowledge/', '/privacy/', '/terms/', '/support/'].map((route) => ({
+          route: `${localeRoute}${route.replace(/^\//, '')}`,
+          lastmod: staticRouteDates.get(route) ?? latestArticleDate,
+        })),
+      ),
+    ...Object.values(localeRoutes)
+      .filter((route) => route !== '/')
+      .flatMap((localeRoute) =>
+        knowledgeEntities.map((entity) => ({
+          route: `${localeRoute}knowledge/${entity.slug}/`,
+          lastmod: staticRouteDates.get('/knowledge/') ?? latestArticleDate,
+        })),
+      ),
     ...searchPageRoutes.map((route) => ({ route, lastmod: staticRouteDates.get('/') ?? latestArticleDate })),
     { route: '/authors/', lastmod: staticRouteDates.get('/authors/') ?? latestArticleDate },
     ...authorRoutes,
@@ -140,6 +162,10 @@ export const GET: APIRoute = async () => {
     ...articles.map((article) => ({
       route: articleUrl(article.id),
       lastmod: articleLastmodByRoute.get(articleUrl(article.id)) ?? latestArticleDate,
+    })),
+    ...localizedArticles.map((article) => ({
+      route: localizedArticleUrl(article.data.locale as ArticleLocale, article.data.originalSlug),
+      lastmod: article.data.updatedAt || article.data.publishedAt || latestArticleDate,
     })),
   ]
     .map(

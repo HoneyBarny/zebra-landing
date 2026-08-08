@@ -8,13 +8,14 @@
  */
 interface Props {
 	class?: string;
+	label?: string;
 }
 
-const { class: className } = Astro.props;
+const { class: className, label = 'Cookie preferences' } = Astro.props;
 ---
 
 <button class:list={['consent-preferences-button', className]} type="button" data-consent-reopen hidden>
-	Cookie preferences
+	{label}
 </button>
 
 <style>

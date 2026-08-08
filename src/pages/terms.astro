@@ -1,53 +1,15 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import ConsentPreferencesButton from '../components/ConsentPreferencesButton.astro';
+import LegalPage from '../components/content/LegalPage.astro';
 import { termsPage } from '../data/site-content';
+import { alternatesForPath } from '../data/locales/shared';
+
+const page = {
+	...termsPage,
+	seo: {
+		...termsPage.seo,
+		alternates: alternatesForPath('/terms/'),
+	},
+};
 ---
 
-<BaseLayout
-	title={termsPage.seo.title}
-	description={termsPage.seo.description}
->
-	<main class="legal-shell">
-		<a class="legal-back" href={termsPage.backHref}>{`← ${termsPage.backLabel}`}</a>
-		<div class="legal-card">
-			<p class="eyebrow">{termsPage.eyebrow}</p>
-			<h1>{termsPage.title}</h1>
-			<p class="legal-updated">{termsPage.updated}</p>
-
-			{termsPage.intro.map((paragraph) => <p>{paragraph}</p>)}
-
-			{termsPage.sections.map((section) => (
-				<>
-					<h2>{section.heading}</h2>
-					{section.paragraphs.map((paragraph, index) => (
-						<p>
-							{paragraph}
-							{section.appendContactEmail && index === section.paragraphs.length - 1 && (
-								<>
-									{' '}
-									<a href={`mailto:${termsPage.contactEmail}`}>{termsPage.contactEmail}</a>.
-								</>
-							)}
-						</p>
-					))}
-					{section.listItems && (
-						<ul>
-							{section.listItems.map((item) => (
-								<li>{item}</li>
-							))}
-						</ul>
-					)}
-				</>
-			))}
-
-			<nav class="support-links" aria-label="Terms links">
-				{termsPage.relatedLinks.map((link) => (
-					<a href={link.href}>{link.label}</a>
-				))}
-				{/* This page has no site footer, so it carries its own copy of the control. */}
-				<ConsentPreferencesButton />
-			</nav>
-		</div>
-	</main>
-</BaseLayout>
+<LegalPage page={page} />

@@ -33,6 +33,13 @@ export function entityUrl(slug: string) {
   return `${siteConfig.routes.knowledge}${slug}/`;
 }
 
+export function clusterUrl(slug: string) {
+  if (entityMetaBySlug[slug]) return entityUrl(slug);
+  if (categoryMeta[slug as keyof typeof categoryMeta]) return categoryUrl(slug);
+
+  return siteConfig.routes.knowledge;
+}
+
 export function authorUrl(slug: string) {
   return `/authors/${slug}/`;
 }
@@ -85,6 +92,16 @@ export function categorySlugFromName(name: string) {
 export function entitySlugFromName(name: string) {
   const match = entityMeta[name];
   return match?.slug ?? slugify(name);
+}
+
+export function topicUrlFromName(name: string) {
+  const entity = entityMeta[name];
+  if (entity) return entityUrl(entity.slug);
+
+  const category = Object.values(categoryMeta).find((item) => item.name === name);
+  if (category) return categoryUrl(category.slug);
+
+  return siteConfig.routes.knowledge;
 }
 
 export function getEntityBySlug(slug: string) {
@@ -316,12 +333,12 @@ export function getArticleSchema(article: ArticleEntry, canonical: string) {
   };
 }
 
-export function dateLabel(value?: string) {
+export function dateLabel(value?: string, locale = 'en-US') {
   if (!value) return 'Not published';
 
   const stableDate = value.includes('T') ? new Date(value) : new Date(`${value}T12:00:00`);
 
-  return stableDate.toLocaleDateString('en-US', {
+  return stableDate.toLocaleDateString(locale, {
     year: 'numeric',
     month: 'long',
     day: 'numeric',

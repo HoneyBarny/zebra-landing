@@ -1,56 +1,20 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import FAQSection from '../components/landing/FAQSection.astro';
-import FinalCTASection from '../components/landing/FinalCTASection.astro';
-import HeroSection from '../components/landing/HeroSection.astro';
-import HowItWorksSection from '../components/landing/HowItWorksSection.astro';
-import MobileStickyCTA from '../components/landing/MobileStickyCTA.astro';
-import ProblemSection from '../components/landing/ProblemSection.astro';
-import ReportSection from '../components/landing/ReportSection.astro';
-import ScreenshotCarouselSection from '../components/landing/ScreenshotCarouselSection.astro';
-import ShowcaseSection from '../components/landing/ShowcaseSection.astro';
-import SiteFooter from '../components/landing/SiteFooter.astro';
-import SiteHeader from '../components/landing/SiteHeader.astro';
-import TrustSection from '../components/landing/TrustSection.astro';
-import { homePage } from '../data/site-content';
+import HomePage from '../components/landing/HomePage.astro';
+import { homePageEn } from '../data/locales';
+
+const homePage = homePageEn;
 ---
 
 <BaseLayout
+  lang={homePage.locale.htmlLang}
   title={homePage.seo.title}
   description={homePage.seo.description}
   ogImage={homePage.seo.ogImage}
   ogImageAlt={homePage.seo.ogImageAlt}
   schema={homePage.schema}
+  alternates={homePage.seo.alternates}
+  consentBanner={homePage.consentBanner}
 >
-  <div class="page-shell">
-    <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />
-
-    <main>
-      <HeroSection
-        {...homePage.hero}
-        appStoreURL={homePage.appStore.url}
-        appStoreBadgeURL={homePage.appStore.badgeUrl}
-      />
-      <ProblemSection {...homePage.problem} />
-      <ReportSection
-        {...homePage.doctorReport}
-        appStoreURL={homePage.appStore.url}
-        appStoreBadgeURL={homePage.appStore.badgeUrl}
-      />
-      <HowItWorksSection {...homePage.howItWorks} />
-      <ScreenshotCarouselSection {...homePage.screenshotCarousel} />
-      <ShowcaseSection {...homePage.dailyTracking} />
-      <ShowcaseSection {...homePage.orthostaticTest} />
-      <TrustSection {...homePage.trust} />
-      <FAQSection {...homePage.faq} />
-      <FinalCTASection
-        {...homePage.finalCta}
-        appStoreURL={homePage.appStore.url}
-        appStoreBadgeURL={homePage.appStore.badgeUrl}
-      />
-    </main>
-
-    <SiteFooter {...homePage.footer} />
-    <MobileStickyCTA {...homePage.mobileStickyCta} href={homePage.appStore.url} badgeUrl={homePage.appStore.badgeUrl} />
-  </div>
+  <HomePage page={homePage} />
 </BaseLayout>

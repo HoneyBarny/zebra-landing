@@ -1,0 +1,64 @@
+---
+import FAQSection from './FAQSection.astro';
+import FinalCTASection from './FinalCTASection.astro';
+import HeroSection from './HeroSection.astro';
+import HowItWorksSection from './HowItWorksSection.astro';
+import MobileStickyCTA from './MobileStickyCTA.astro';
+import ProblemSection from './ProblemSection.astro';
+import ReportSection from './ReportSection.astro';
+import ScreenshotCarouselSection from './ScreenshotCarouselSection.astro';
+import ShowcaseSection from './ShowcaseSection.astro';
+import SiteFooter from './SiteFooter.astro';
+import SiteHeader from './SiteHeader.astro';
+import TrustSection from './TrustSection.astro';
+
+interface Props {
+  page: any;
+}
+
+const { page } = Astro.props;
+---
+
+<div class="page-shell">
+  <SiteHeader brand={page.header.brand} links={page.header.links} localeSwitcher={page.localeSwitcher} />
+
+  <main>
+    <HeroSection
+      {...page.hero}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <ProblemSection {...page.problem} />
+    <ReportSection
+      {...page.doctorReport}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <HowItWorksSection {...page.howItWorks} />
+    <ScreenshotCarouselSection {...page.screenshotCarousel} />
+    <ShowcaseSection
+      {...page.dailyTracking}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <ShowcaseSection {...page.orthostaticTest} />
+    <TrustSection {...page.trust} />
+    <FAQSection {...page.faq} />
+    <FinalCTASection
+      {...page.finalCta}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+  </main>
+
+  <SiteFooter {...page.footer} localeSwitcher={page.localeSwitcher} />
+  <MobileStickyCTA
+    {...page.mobileStickyCta}
+    href={page.appStore.url}
+    badgeUrl={page.appStore.badgeUrl}
+    badgeAlt={page.appStore.badgeAlt}
+  />
+</div>

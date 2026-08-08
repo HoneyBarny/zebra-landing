@@ -10,9 +10,22 @@ interface Props {
   body: string;
   trustLine: string;
   links: FooterLink[];
+  navLabel?: string;
+  localeSwitcher?: {
+    label: string;
+    links: Array<FooterLink & { locale?: string; flag?: string }>;
+  };
+  consentPreferencesLabel?: string;
 }
 
-const { body, trustLine, links } = Astro.props;
+const {
+  body,
+  trustLine,
+  links,
+  navLabel = 'Footer',
+  localeSwitcher,
+  consentPreferencesLabel,
+} = Astro.props;
 ---
 
 <footer class="site-footer">
@@ -20,13 +33,22 @@ const { body, trustLine, links } = Astro.props;
     <p class="footer-copy">{body}</p>
     <p class="footer-trust">{trustLine}</p>
   </div>
-  <nav class="footer-nav" aria-label="Footer">
+  {localeSwitcher && (
+    <nav class="footer-locale-switcher" aria-label={localeSwitcher.label}>
+      {localeSwitcher.links.map((link) => (
+        <a href={link.href} lang={link.locale}>
+          {link.flag && <span class="locale-flag" aria-hidden="true">{link.flag}</span>}
+          <span>{link.label}</span>
+        </a>
+      ))}
+    </nav>
+  )}
+  <nav class="footer-nav" aria-label={navLabel}>
     {links.map((link) => <a href={link.href}>{link.label}</a>)}
     {/*
       A control, not a destination, so it is a button rather than a link — but
       it sits with the footer links because that is where people look for it.
     */}
-    <ConsentPreferencesButton />
+    <ConsentPreferencesButton label={consentPreferencesLabel} />
   </nav>
 </footer>
-

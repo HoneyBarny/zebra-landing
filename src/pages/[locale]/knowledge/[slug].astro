@@ -1,0 +1,263 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteHeader from '../../../components/landing/SiteHeader.astro';
+import SiteFooter from '../../../components/landing/SiteFooter.astro';
+import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
+import ArticleCard from '../../../components/content/ArticleCard.astro';
+import { clusterMeta } from '../../../data/content-taxonomy';
+import {
+  getEntityPageCopy,
+  localizeEntities,
+  localizeEntity,
+  localizedEntityUrl,
+  type EntityLocale,
+} from '../../../data/locales/entity-translations';
+import { getLocalizedHubCopy, localizedHubCopy } from '../../../data/locales/phase2';
+import { alternatesForPath } from '../../../data/locales/shared';
+import {
+  articleUrl,
+  clusterUrl,
+  dateLabel,
+  estimateReadingTime,
+  getArticlesForEntity,
+  getBreadcrumbSchema,
+  getConditionHubSections,
+  getEntities,
+  getEntityChildren,
+  getEntityClusters,
+  getPublishedArticles,
+  getRelatedEntities,
+} from '../../../lib/content';
+
+export async function getStaticPaths() {
+  return Object.keys(localizedHubCopy).flatMap((locale) =>
+    getEntities().map((entity) => ({
+      params: { locale, slug: entity.slug },
+      props: { entity },
+    })),
+  );
+}
+
+const locale = Astro.params.locale as EntityLocale;
+const hubCopy = getLocalizedHubCopy(locale);
+const pageCopy = getEntityPageCopy(locale);
+
+if (!hubCopy || !pageCopy) {
+  return Astro.redirect('/404/');
+}
+
+const sourceEntity = Astro.props.entity;
+const entity = localizeEntity(sourceEntity, locale);
+const articles = getPublishedArticles(await getCollection('articles'));
+const relatedArticles = getArticlesForEntity(sourceEntity.slug, articles, 6);
+const relatedEntities = localizeEntities(getRelatedEntities(sourceEntity, 4), locale);
+const childEntities = localizeEntities(getEntityChildren(sourceEntity), locale);
+const hubSections = sourceEntity.entityType === 'condition'
+  ? getConditionHubSections(sourceEntity).map((section) => ({
+      ...section,
+      title: pageCopy.hubSections[section.key],
+      items: localizeEntities(section.items, locale),
+    }))
+  : [];
+const parentClusters = getEntityClusters(sourceEntity);
+const canonicalPath = localizedEntityUrl(locale, sourceEntity.slug);
+
+function localizedClusterName(slug: string) {
+  return pageCopy.clusters[slug as keyof typeof pageCopy.clusters] ?? clusterMeta[slug as keyof typeof clusterMeta]?.name ?? slug;
+}
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    name: entity.name,
+    description: entity.summary,
+    termCode: entity.slug,
+    url: new URL(canonicalPath, Astro.site).toString(),
+    inDefinedTermSet: new URL(`${hubCopy.home.locale.path}knowledge/`, Astro.site).toString(),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: `${entity.name} — ${pageCopy.titleSuffix}`,
+    description: entity.summary,
+    about: [entity.name, ...parentClusters.map((cluster) => localizedClusterName(cluster.slug))],
+  },
+  getBreadcrumbSchema([
+    { name: pageCopy.breadcrumbs.home, item: hubCopy.home.locale.path },
+    { name: pageCopy.breadcrumbs.knowledge, item: `${hubCopy.home.locale.path}knowledge/` },
+    { name: entity.name, item: canonicalPath },
+  ]),
+];
+---
+
+<BaseLayout
+  lang={hubCopy.home.locale.htmlLang}
+  title={`${entity.name} — ${pageCopy.titleSuffix}`}
+  description={entity.summary}
+  schema={schema}
+  alternates={alternatesForPath(`/knowledge/${sourceEntity.slug}/`)}
+  consentBanner={hubCopy.home.consentBanner}
+>
+  <div class="page-shell">
+    <SiteHeader brand={hubCopy.home.header.brand} links={hubCopy.home.header.links} localeSwitcher={hubCopy.home.localeSwitcher} />
+    <main>
+      <section class="section category-hero">
+        <Breadcrumbs
+          items={[
+            { label: pageCopy.breadcrumbs.home, href: hubCopy.home.locale.path },
+            { label: pageCopy.breadcrumbs.knowledge, href: `${hubCopy.home.locale.path}knowledge/` },
+            { label: entity.name },
+          ]}
+        />
+        <p class="eyebrow">{sourceEntity.entityType === 'condition' ? pageCopy.conditionHub : pageCopy.entity}</p>
+        <h1>{entity.name}</h1>
+        <p class="blog-hero-copy">{entity.definition}</p>
+        <div class="article-chip-row">
+          {parentClusters.map((cluster) => (
+            <a class="article-chip" href={clusterUrl(cluster.slug).startsWith('/knowledge/') ? localizedEntityUrl(locale, cluster.slug) : clusterUrl(cluster.slug)}>
+              {localizedClusterName(cluster.slug)}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="section section-band section-band--soft">
+        <div class="feature-grid">
+          <article class="feature-card">
+            <p class="mini-label">{pageCopy.quickDefinition}</p>
+            <h2>{pageCopy.whatThisMeans}</h2>
+            <p>{entity.summary}</p>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">{pageCopy.whereItConnects}</p>
+            <h2>{pageCopy.parentClusters}</h2>
+            <ul class="feature-list">
+              {parentClusters.map((cluster) => <li>{localizedClusterName(cluster.slug)}</li>)}
+            </ul>
+          </article>
+          <article class="feature-card">
+            <p class="mini-label">{pageCopy.whyItMatters}</p>
+            <h2>{pageCopy.answerFirstTitle}</h2>
+            <p>{pageCopy.answerFirstBody}</p>
+          </article>
+        </div>
+      </section>
+
+      {hubSections.length > 0 && (
+        <section class="section">
+          <div class="section-intro">
+            <p class="eyebrow">{pageCopy.conditionMap}</p>
+            <h2>{entity.name} {pageCopy.clusterHubSuffix}</h2>
+            <p class="section-intro-body">{pageCopy.conditionMapBody}</p>
+          </div>
+          <div class="cluster-section-grid">
+            {hubSections.map((section) => (
+              <article class="knowledge-card">
+                <p class="mini-label">{section.title}</p>
+                <ul class="feature-list">
+                  {section.items.map((item) => (
+                    <li><a href={localizedEntityUrl(locale, item.slug)}>{item.name}</a></li>
+                  ))}
+                </ul>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {(entity.practicalUse || entity.appointmentUse) && (
+        <section class="section" aria-labelledby="practical-use-heading">
+          <div class="section-intro">
+            <p class="eyebrow">{pageCopy.practicalUse}</p>
+            <h2 id="practical-use-heading">{pageCopy.useWithoutOverbuilding(entity.name)}</h2>
+          </div>
+          <div class="search-page-columns">
+            {entity.practicalUse && (
+              <article>
+                <p class="eyebrow">{pageCopy.startHere}</p>
+                <h3>{entity.practicalUse.title}</h3>
+                <p>{entity.practicalUse.body}</p>
+                <ul class="check-list">
+                  {entity.practicalUse.items.map((item) => <li>{item}</li>)}
+                </ul>
+              </article>
+            )}
+            {entity.appointmentUse && (
+              <article>
+                <p class="eyebrow">{pageCopy.appointmentPrep}</p>
+                <h3>{entity.appointmentUse.title}</h3>
+                <p>{entity.appointmentUse.body}</p>
+                <ul class="check-list">
+                  {entity.appointmentUse.items.map((item) => <li>{item}</li>)}
+                </ul>
+              </article>
+            )}
+          </div>
+        </section>
+      )}
+
+      {childEntities.length > 0 && (
+        <section class="section">
+          <div class="section-intro">
+            <p class="eyebrow">{pageCopy.relatedEntities}</p>
+            <h2>{pageCopy.belongsNear(entity.name)}</h2>
+          </div>
+          <div class="knowledge-grid">
+            {childEntities.slice(0, 8).map((item) => (
+              <article class="knowledge-card">
+                <p class="mini-label">{pageCopy.entityTypes[item.entityType]}</p>
+                <h2><a href={localizedEntityUrl(locale, item.slug)}>{item.name}</a></h2>
+                <p>{item.summary}</p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedEntities.length > 0 && (
+        <section class="section section-band">
+          <div class="section-intro">
+            <p class="eyebrow">{pageCopy.nearbyConcepts}</p>
+            <h2>{pageCopy.graphConnects}</h2>
+          </div>
+          <div class="guides-grid">
+            {relatedEntities.map((item) => (
+              <a class="guide-card" href={localizedEntityUrl(locale, item.slug)}>
+                <strong>{item.name}</strong>
+                <p>{item.summary}</p>
+                <span>{pageCopy.openEntity}</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow">{pageCopy.relatedGuides}</p>
+          <h2>{pageCopy.conceptInArticles}</h2>
+        </div>
+        <div class="article-grid">
+          {relatedArticles.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              href={articleUrl(article.id)}
+              excerpt={article.data.excerpt}
+              category={article.data.category}
+              categories={article.data.categories}
+              publishedAt={dateLabel(article.data.publishedAt)}
+              readingTime={estimateReadingTime(article.body)}
+              minReadLabel={hubCopy.blog.minRead}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+    <SiteFooter {...hubCopy.home.footer} localeSwitcher={hubCopy.home.localeSwitcher} />
+  </div>
+</BaseLayout>

@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ConsentPreferencesButton from '../ConsentPreferencesButton.astro';
+
+interface LegalSection {
+  heading: string;
+  paragraphs: string[];
+  appendContactEmail?: boolean;
+  listItems?: string[];
+}
+
+interface LegalPageData {
+  seo: {
+    title: string;
+    description: string;
+    alternates?: ReadonlyArray<{ hreflang: string; href: string }>;
+  };
+  lang?: string;
+  backHref: string;
+  backLabel: string;
+  eyebrow: string;
+  title: string;
+  updated: string;
+  intro: string[];
+  sections: LegalSection[];
+  relatedLinks: Array<{ href: string; label: string }>;
+  relatedLinksLabel?: string;
+  contactEmail: string;
+  consentPreferencesLabel?: string;
+  consentBanner?: {
+    title: string;
+    body: string;
+    acceptLabel: string;
+    declineLabel: string;
+  };
+}
+
+interface Props {
+  page: LegalPageData;
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+  lang={page.lang}
+  title={page.seo.title}
+  description={page.seo.description}
+  alternates={page.seo.alternates}
+  consentBanner={page.consentBanner}
+>
+  <main class="legal-shell">
+    <a class="legal-back" href={page.backHref}>{`← ${page.backLabel}`}</a>
+    <div class="legal-card">
+      <p class="eyebrow">{page.eyebrow}</p>
+      <h1>{page.title}</h1>
+      <p class="legal-updated">{page.updated}</p>
+
+      {page.intro.map((paragraph) => <p>{paragraph}</p>)}
+
+      {page.sections.map((section) => (
+        <>
+          <h2>{section.heading}</h2>
+          {section.paragraphs.map((paragraph, index) => (
+            <p>
+              {paragraph}
+              {section.appendContactEmail && index === section.paragraphs.length - 1 && (
+                <>
+                  {' '}
+                  <a href={`mailto:${page.contactEmail}`}>{page.contactEmail}</a>.
+                </>
+              )}
+            </p>
+          ))}
+          {section.listItems && (
+            <ul>
+              {section.listItems.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ul>
+          )}
+        </>
+      ))}
+
+      <nav class="support-links" aria-label={page.relatedLinksLabel ?? `${page.title} links`}>
+        {page.relatedLinks.map((link) => (
+          <a href={link.href}>{link.label}</a>
+        ))}
+        <ConsentPreferencesButton label={page.consentPreferencesLabel} />
+      </nav>
+    </div>
+  </main>
+</BaseLayout>

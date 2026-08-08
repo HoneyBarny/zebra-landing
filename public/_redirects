@@ -1,0 +1,7 @@
+https://www.zebratracker.app/* https://zebratracker.app/:splat 301
+http://www.zebratracker.app/* https://zebratracker.app/:splat 301
+/knowledge/symptom-tracking/ /blog/category/symptom-tracking/ 301
+/knowledge/appointment-preparation/ /blog/category/appointment-preparation/ 301
+/knowledge/doctor-reports/ /blog/category/doctor-reports/ 301
+/knowledge/medication-timeline/ /knowledge/medication-tracking/ 301
+/404/ / 301

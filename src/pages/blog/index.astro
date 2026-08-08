@@ -7,6 +7,7 @@ import SiteFooter from '../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../components/content/ArticleCard.astro';
 import { categoryMeta } from '../../data/content-taxonomy';
+import { alternatesForPath } from '../../data/locales/shared';
 import { homePage } from '../../data/site-content';
 import {
   articleUrl,
@@ -42,6 +43,7 @@ const schema = [
   title="Zebra Blog — Symptom Tracking, POTS, and Appointment Preparation"
   description="Read Zebra guides on symptom tracking, doctor-ready reports, specialist appointments, POTS, dysautonomia, and low-energy chronic illness workflows."
   schema={schema}
+  alternates={alternatesForPath('/blog/')}
 >
   <div class="page-shell">
     <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />

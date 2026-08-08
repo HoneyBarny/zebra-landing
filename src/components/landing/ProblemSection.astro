@@ -7,11 +7,12 @@ interface Props {
   statement: string;
   support: string;
   flowLabel: string;
+  flow?: string[];
   bullets: string[];
   quotes: string[];
 }
 
-const { eyebrow, title, statement, support, flowLabel, bullets, quotes } = Astro.props;
+const { eyebrow, title, statement, support, flowLabel, flow = ['Notes', 'Screenshots', 'Memory', 'Zebra'], bullets, quotes } = Astro.props;
 ---
 
 <section class="section problem-section" aria-labelledby="problem-heading">
@@ -19,11 +20,8 @@ const { eyebrow, title, statement, support, flowLabel, bullets, quotes } = Astro
   <div class="problem-grid">
     <div class="problem-copy">
       <p class="mini-label">{flowLabel}</p>
-      <div class="problem-flow" aria-label="Scattered tracking becomes one clear record">
-        <span>Notes</span>
-        <span>Screenshots</span>
-        <span>Memory</span>
-        <span>Zebra</span>
+      <div class="problem-flow" aria-label={flowLabel}>
+        {flow.map((item) => <span>{item}</span>)}
       </div>
       <p class="problem-statement">{statement}</p>
       <p>{support}</p>

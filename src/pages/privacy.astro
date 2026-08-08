@@ -1,51 +1,15 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import ConsentPreferencesButton from '../components/ConsentPreferencesButton.astro';
+import LegalPage from '../components/content/LegalPage.astro';
 import { privacyPage } from '../data/site-content';
+import { alternatesForPath } from '../data/locales/shared';
+
+const page = {
+	...privacyPage,
+	seo: {
+		...privacyPage.seo,
+		alternates: alternatesForPath('/privacy/'),
+	},
+};
 ---
 
-<BaseLayout
-	title={privacyPage.seo.title}
-	description={privacyPage.seo.description}
->
-	<main class="legal-shell">
-		<a class="legal-back" href={privacyPage.backHref}>{`← ${privacyPage.backLabel}`}</a>
-		<div class="legal-card">
-			<p class="eyebrow">{privacyPage.eyebrow}</p>
-			<h1>{privacyPage.title}</h1>
-			<p class="legal-updated">{privacyPage.updated}</p>
-
-			{privacyPage.intro.map((paragraph) => <p>{paragraph}</p>)}
-
-			{privacyPage.sections.map((section) => (
-				<>
-					<h2>{section.heading}</h2>
-					{section.paragraphs.map((paragraph, index) => (
-						<p>
-							{paragraph}
-							{section.appendContactEmail && index === section.paragraphs.length - 1 && (
-								<>
-									{' '}
-									<a href={`mailto:${privacyPage.contactEmail}`}>{privacyPage.contactEmail}</a>.
-								</>
-							)}
-						</p>
-					))}
-				</>
-			))}
-
-			<nav class="support-links" aria-label="Privacy links">
-				{privacyPage.relatedLinks.map((link) => (
-					<a href={link.href}>{link.label}</a>
-				))}
-				{/*
-					This page has no site footer, so it carries its own copy of
-					the control. The policy text above points at it, and a
-					privacy policy that names a control the reader cannot find
-					on the page they are reading is worse than not naming one.
-				*/}
-				<ConsentPreferencesButton />
-			</nav>
-		</div>
-	</main>
-</BaseLayout>
+<LegalPage page={page} />

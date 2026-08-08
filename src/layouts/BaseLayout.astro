@@ -4,6 +4,7 @@ import { siteConfig } from '../data/site-config';
 import ConsentBanner from '../components/ConsentBanner.astro';
 
 interface Props {
+	lang?: string;
 	title?: string;
 	description?: string;
 	noindex?: boolean;
@@ -13,9 +14,20 @@ interface Props {
 	publishedTime?: string;
 	modifiedTime?: string;
 	schema?: Array<Record<string, unknown>>;
+	alternates?: ReadonlyArray<{
+		hreflang: string;
+		href: string;
+	}>;
+	consentBanner?: {
+		title: string;
+		body: string;
+		acceptLabel: string;
+		declineLabel: string;
+	};
 }
 
 const {
+	lang = 'en',
 	title = 'Zebra Symptom Tracker for POTS, EDS & Fibromyalgia',
 	description = 'Track flares, orthostatic vitals, symptoms, salt, hydration, and medications in one place. Export a doctor-ready report for specialist appointments.',
 	noindex = false,
@@ -25,6 +37,8 @@ const {
 	publishedTime,
 	modifiedTime,
 	schema = [],
+	alternates = [],
+	consentBanner,
 } = Astro.props;
 
 // Empty until PUBLIC_META_PIXEL_ID is set. Every pixel branch below is keyed
@@ -32,7 +46,11 @@ const {
 // and no network request — the state the site ships in today.
 const metaPixelId = siteConfig.analytics.metaPixelId;
 
-const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const canonical = !noindex && Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const resolvedAlternates = alternates.map((alternate) => ({
+	...alternate,
+	href: Astro.site ? new URL(alternate.href, Astro.site).toString() : alternate.href,
+}));
 const resolvedOgImage = ogImage
 	? Astro.site
 		? new URL(ogImage, Astro.site).toString()
@@ -40,7 +58,7 @@ const resolvedOgImage = ogImage
 	: undefined;
 ---
 
-<html lang="en">
+<html lang={lang}>
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href={siteConfig.assets.favicon.svg} />
@@ -58,6 +76,9 @@ const resolvedOgImage = ogImage
 		<title>{title}</title>
 		<meta name="description" content={description} />
 		{canonical && <link rel="canonical" href={canonical} />}
+		{resolvedAlternates.map((alternate) => (
+			<link rel="alternate" hreflang={alternate.hreflang} href={alternate.href} />
+		))}
 		<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
@@ -174,7 +195,7 @@ const resolvedOgImage = ogImage
 			First in the body so a keyboard user reaches it on the first Tab and
 			a screen reader meets it before the page, without a focus trap.
 		*/}
-		<ConsentBanner />
+		<ConsentBanner {...consentBanner} />
 		<slot />
 		{metaPixelId && (
 			<noscript>

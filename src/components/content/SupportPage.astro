@@ -1,0 +1,119 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ConsentPreferencesButton from '../ConsentPreferencesButton.astro';
+
+interface SupportLink {
+  href: string;
+  label: string;
+  external?: boolean;
+}
+
+interface SupportSection {
+  kind?: 'contact-list' | 'link-nav';
+  heading: string;
+  ariaLabel?: string;
+  listItems?: string[];
+  paragraphs?: string[];
+  links?: SupportLink[];
+}
+
+interface SupportPageData {
+  seo: {
+    title: string;
+    description: string;
+    alternates?: ReadonlyArray<{ hreflang: string; href: string }>;
+  };
+  lang?: string;
+  backHref: string;
+  backLabel: string;
+  eyebrow: string;
+  title: string;
+  intro: string;
+  columns: {
+    primary: SupportSection[];
+    secondary: SupportSection[];
+  };
+  consentLabel?: string;
+  consentPreferencesLabel?: string;
+  consentBanner?: {
+    title: string;
+    body: string;
+    acceptLabel: string;
+    declineLabel: string;
+  };
+}
+
+interface Props {
+  page: SupportPageData;
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+  lang={page.lang}
+  title={page.seo.title}
+  description={page.seo.description}
+  alternates={page.seo.alternates}
+  consentBanner={page.consentBanner}
+>
+  <main class="support-shell">
+    <a class="legal-back" href={page.backHref}>{`← ${page.backLabel}`}</a>
+    <div class="support-card">
+      <p class="eyebrow">{page.eyebrow}</p>
+      <h1>{page.title}</h1>
+      <p>{page.intro}</p>
+
+      <div class="support-grid">
+        <div>
+          {page.columns.primary.map((section) => (
+            <section>
+              <h2>{section.heading}</h2>
+              {section.listItems && (
+                <ul class="support-checklist">
+                  {section.listItems.map((item) => (
+                    <li>{item}</li>
+                  ))}
+                </ul>
+              )}
+              {section.paragraphs?.map((paragraph) => <p>{paragraph}</p>)}
+            </section>
+          ))}
+        </div>
+
+        <div>
+          {page.columns.secondary.map((section) => (
+            <section>
+              <h2>{section.heading}</h2>
+              {section.kind === 'contact-list' ? (
+                <ul class="support-contacts">
+                  {section.links?.map((link) => (
+                    <li>
+                      <a
+                        href={link.href}
+                        target={link.external ? '_blank' : undefined}
+                        rel={link.external ? 'noopener noreferrer' : undefined}
+                      >
+                        {link.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <nav class="support-links" aria-label={section.ariaLabel}>
+                  {section.links?.map((link) => (
+                    <a href={link.href}>{link.label}</a>
+                  ))}
+                </nav>
+              )}
+            </section>
+          ))}
+        </div>
+      </div>
+
+      <nav class="support-links" aria-label={page.consentLabel ?? 'Consent'}>
+        <ConsentPreferencesButton label={page.consentPreferencesLabel} />
+      </nav>
+    </div>
+  </main>
+</BaseLayout>
