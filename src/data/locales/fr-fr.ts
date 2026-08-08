@@ -126,6 +126,52 @@ export const homePageFrFr = {
       'Rien ne montrait l ensemble quand j en avais besoin.',
     ],
   },
+  trackingPaths: {
+    eyebrow: 'Choisir votre parcours de suivi',
+    title: 'Commencez par l histoire de symptomes dont votre rendez-vous a vraiment besoin.',
+    intro:
+      'Chaque condition cree un stress different avant une consultation. Zebra donne a chaque parcours un point de depart clair pour suivre ce qui compte sans construire un systeme de zero.',
+    items: [
+      {
+        label: 'POTS et dysautonomie',
+        title: 'Suivre les symptomes debout avec le contexte orthostatique.',
+        body:
+          'Utilisez Zebra comme tracker de symptomes POTS pour vertiges, palpitations, fatigue, brain fog, hydratation, sel, notes de medicaments et observations couche-assis-debout.',
+        pain: 'Utile quand il faut expliquer ce qui se passe apres station debout, chaleur, deshydratation, changement de medicament ou poussee.',
+        href: localizedPath(localePath, '/knowledge/pots/'),
+        cta: 'Ouvrir le hub POTS',
+      },
+      {
+        label: 'EDS / hEDS',
+        title: 'Garder douleur, instabilite, fatigue et symptomes qui se chevauchent ensemble.',
+        body:
+          'Utilisez Zebra comme tracker de symptomes EDS quand douleur articulaire, blessures, symptomes de dysautonomie, fatigue et notes sont trop disperses pour resumer vite.',
+        pain: 'Utile quand un specialiste demande un seul systeme du corps, mais que votre mois en a implique plusieurs.',
+        href: localizedPath(localePath, '/knowledge/eds/'),
+        cta: 'Ouvrir le hub EDS',
+      },
+      {
+        label: 'Fibromyalgie',
+        title: 'Preserver les schemas de poussees avant que le brain fog efface les details.',
+        body:
+          'Utilisez Zebra comme tracker de fibromyalgie pour douleur, fatigue, contexte de sommeil, brain fog, changements de medicaments, declencheurs et impact fonctionnel.',
+        pain: 'Utile quand douleur et fatigue ont change la journee, mais que la chronologie exacte est difficile a reconstruire ensuite.',
+        href: localizedPath(localePath, '/knowledge/fibromyalgia/'),
+        cta: 'Ouvrir le hub fibromyalgie',
+      },
+      {
+        label: 'Preparation de rendez-vous',
+        title: 'Transformer les symptomes recents en rapport pour le medecin.',
+        body:
+          'Utilisez Zebra avant une consultation specialisee pour reunir poussees, symptomes principaux, constantes orthostatiques, changements de medicaments, questions et impact quotidien.',
+        pain: 'Utile quand la consultation est courte et que vous ne voulez pas la passer a chercher des notes ou deviner de memoire.',
+        href: localizedPath(localePath, '/knowledge/chronic-illness-appointment-prep/'),
+        cta: 'Ouvrir la preparation',
+      },
+    ],
+    note:
+      'Zebra est un outil d organisation pour historique saisi par la personne. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins medicaux.',
+  },
   doctorReport: {
     ...homePage.doctorReport,
     eyebrow: 'Le resultat',

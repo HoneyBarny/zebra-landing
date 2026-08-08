@@ -1306,6 +1306,18 @@ h3 {
   gap: 18px;
 }
 
+.tracking-path-section.section-band::before {
+  background:
+    radial-gradient(circle at top right, rgba(15, 143, 103, 0.12), transparent 28%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(247, 242, 249, 0.86));
+}
+
+.tracking-path-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
 .track-card {
   min-height: 164px;
   padding: 22px;
@@ -1326,6 +1338,18 @@ h3 {
   box-shadow: var(--shadow-card);
 }
 
+.tracking-path-card {
+  display: grid;
+  gap: 14px;
+  align-content: start;
+  min-height: 100%;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: var(--shadow-card);
+}
+
 .track-card h3 {
   margin-bottom: 10px;
   font-family: "Manrope", system-ui, sans-serif;
@@ -1341,6 +1365,13 @@ h3 {
   color: var(--primary-strong);
 }
 
+.tracking-path-card h3 {
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: 1.14rem;
+  line-height: 1.22;
+  color: var(--primary-strong);
+}
+
 .track-card p,
 .tracks-note {
   color: var(--text-soft);
@@ -1350,6 +1381,35 @@ h3 {
 .lead-magnet-card p {
   color: var(--text-soft);
   line-height: 1.62;
+}
+
+.tracking-path-card > p,
+.tracking-path-pain p {
+  color: var(--text-soft);
+  line-height: 1.58;
+}
+
+.tracking-path-pain {
+  display: grid;
+  grid-template-columns: 26px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  padding: 14px;
+  border: 1px solid rgba(15, 143, 103, 0.14);
+  border-radius: var(--radius-sm);
+  background: rgba(232, 246, 239, 0.62);
+}
+
+.tracking-path-pain span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 800;
 }
 
 .tracks-note {
@@ -1362,6 +1422,17 @@ h3 {
 }
 
 .lead-magnets-note {
+  max-width: 48rem;
+  margin-top: 20px;
+  padding: 16px 18px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--text-soft);
+  line-height: 1.62;
+}
+
+.tracking-path-note {
   max-width: 48rem;
   margin-top: 20px;
   padding: 16px 18px;
@@ -2504,6 +2575,7 @@ h3 {
   .trust-grid,
   .audience-groups,
   .guides-grid,
+  .tracking-path-grid,
   .lead-magnets-grid,
   .cluster-section-grid,
   .report-compare,

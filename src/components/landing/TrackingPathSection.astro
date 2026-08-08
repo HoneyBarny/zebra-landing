@@ -1,0 +1,43 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface TrackingPathItem {
+  label: string;
+  title: string;
+  body: string;
+  pain: string;
+  href: string;
+  cta: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  items: TrackingPathItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, items, note } = Astro.props;
+---
+
+<section class="section tracking-path-section section-band section-band--soft" id="tracking-paths" aria-labelledby="tracking-path-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="tracking-path-heading" narrow={true} />
+
+  <div class="tracking-path-grid">
+    {items.map((item) => (
+      <article class="tracking-path-card">
+        <p class="mini-label">{item.label}</p>
+        <h3>{item.title}</h3>
+        <p>{item.body}</p>
+        <div class="tracking-path-pain">
+          <span aria-hidden="true">?</span>
+          <p>{item.pain}</p>
+        </div>
+        <a class="text-action" href={item.href}>{item.cta}</a>
+      </article>
+    ))}
+  </div>
+
+  <p class="tracking-path-note">{note}</p>
+</section>

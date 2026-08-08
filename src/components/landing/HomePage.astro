@@ -11,6 +11,7 @@ import ScreenshotCarouselSection from './ScreenshotCarouselSection.astro';
 import ShowcaseSection from './ShowcaseSection.astro';
 import SiteFooter from './SiteFooter.astro';
 import SiteHeader from './SiteHeader.astro';
+import TrackingPathSection from './TrackingPathSection.astro';
 import TrustSection from './TrustSection.astro';
 
 interface Props {
@@ -31,6 +32,7 @@ const { page } = Astro.props;
       appStoreBadgeAlt={page.appStore.badgeAlt}
     />
     <ProblemSection {...page.problem} />
+    <TrackingPathSection {...page.trackingPaths} />
     <ReportSection
       {...page.doctorReport}
       appStoreURL={page.appStore.url}

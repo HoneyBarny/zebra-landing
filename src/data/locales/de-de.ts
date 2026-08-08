@@ -126,6 +126,52 @@ export const homePageDeDe = {
       'Nichts zeigte das ganze Bild, als ich es gebraucht haette.',
     ],
   },
+  trackingPaths: {
+    eyebrow: 'Waehlen Sie Ihren Tracking-Pfad',
+    title: 'Beginnen Sie mit der Symptomgeschichte, die Ihr Termin wirklich braucht.',
+    intro:
+      'Verschiedene Erkrankungen erzeugen verschiedene Arten von Terminstress. Zebra gibt jedem Pfad einen klareren Startpunkt, damit Sie das Wichtige erfassen koennen, ohne ein eigenes System zu bauen.',
+    items: [
+      {
+        label: 'POTS und Dysautonomie',
+        title: 'Symptome im Aufrechten mit orthostatischem Kontext erfassen.',
+        body:
+          'Nutzen Sie Zebra als POTS-Symptomtracker fuer Schwindel, Herzklopfen, Fatigue, Brain Fog, Hydration, Salz, Medikamentennotizen und Liegen-Sitzen-Stehen-Beobachtungen.',
+        pain: 'Besonders hilfreich, wenn Sie erklaeren muessen, was nach Stehen, Hitze, Dehydrierung, Medikamentenaenderungen oder einem Schub passiert.',
+        href: localizedPath(localePath, '/knowledge/pots/'),
+        cta: 'POTS-Hub oeffnen',
+      },
+      {
+        label: 'EDS / hEDS',
+        title: 'Schmerz, Instabilitaet, Fatigue und ueberschneidende Symptome zusammenhalten.',
+        body:
+          'Nutzen Sie Zebra als EDS-Symptomtracker, wenn Gelenkschmerz, Verletzungen, Dysautonomie-Symptome, Fatigue und Notizen zu verstreut sind, um sie schnell zusammenzufassen.',
+        pain: 'Besonders hilfreich, wenn ein Facharzt nach einem Koerpersystem fragt, Ihr Monat aber mehrere betroffen hat.',
+        href: localizedPath(localePath, '/knowledge/eds/'),
+        cta: 'EDS-Hub oeffnen',
+      },
+      {
+        label: 'Fibromyalgie',
+        title: 'Schubmuster sichern, bevor Brain Fog Details loescht.',
+        body:
+          'Nutzen Sie Zebra als Fibromyalgie-Symptomtracker fuer Schmerz, Fatigue, Schlafkontext, Brain Fog, Medikamentenaenderungen, Ausloeser und Alltagsauswirkung.',
+        pain: 'Besonders hilfreich, wenn Schmerz und Fatigue den Tag veraendert haben, der genaue Verlauf spaeter aber schwer rekonstruierbar ist.',
+        href: localizedPath(localePath, '/knowledge/fibromyalgia/'),
+        cta: 'Fibromyalgie-Hub oeffnen',
+      },
+      {
+        label: 'Terminvorbereitung',
+        title: 'Aus aktuellen Symptomen einen arztbereiten Bericht machen.',
+        body:
+          'Nutzen Sie Zebra vor einem Facharzttermin, um Schuebe, wichtigste Symptome, orthostatische Werte, Medikamentenaenderungen, Fragen und Alltagsauswirkung an einem Ort zu sammeln.',
+        pain: 'Besonders hilfreich, wenn der Termin kurz ist und Sie ihn nicht mit Notizensuche oder Erinnerungsluecken verbringen wollen.',
+        href: localizedPath(localePath, '/knowledge/chronic-illness-appointment-prep/'),
+        cta: 'Terminvorbereitung oeffnen',
+      },
+    ],
+    note:
+      'Zebra ist ein Organisationstool fuer selbst eingegebenen Verlauf. Es diagnostiziert und behandelt nicht und ersetzt keine medizinische Versorgung.',
+  },
   doctorReport: {
     ...homePage.doctorReport,
     eyebrow: 'Der Nutzen',

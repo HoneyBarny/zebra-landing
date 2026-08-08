@@ -208,6 +208,52 @@ export const homePage = {
       'Nothing showed the full picture when I needed it.',
     ],
   },
+  trackingPaths: {
+    eyebrow: 'Choose your tracking path',
+    title: 'Start with the symptom story your appointment actually needs.',
+    intro:
+      'Different conditions create different kinds of appointment stress. Zebra gives each path a clearer starting point, so you can track what matters without building a system from scratch.',
+    items: [
+      {
+        label: 'POTS and dysautonomia',
+        title: 'Track upright symptoms with orthostatic context.',
+        body:
+          'Use Zebra as a POTS symptom tracker for dizziness, palpitations, fatigue, brain fog, hydration, salt, medication notes, and lying-sitting-standing observations.',
+        pain: 'Best when you need to explain what happens after standing, heat, dehydration, medication changes, or a flare.',
+        href: '/knowledge/pots/',
+        cta: 'Open the POTS hub',
+      },
+      {
+        label: 'EDS / hEDS',
+        title: 'Keep pain, instability, fatigue, and overlap symptoms together.',
+        body:
+          'Use Zebra as an EDS symptom tracker when joint pain, injuries, dysautonomia symptoms, fatigue, and notes are too scattered to summarize quickly.',
+        pain: 'Best when one specialist asks about one body system, but your month involved several.',
+        href: '/knowledge/eds/',
+        cta: 'Open the EDS hub',
+      },
+      {
+        label: 'Fibromyalgia',
+        title: 'Preserve flare patterns before brain fog erases the details.',
+        body:
+          'Use Zebra as a fibromyalgia symptom tracker for pain, fatigue, sleep context, brain fog, medication changes, triggers, and function impact.',
+        pain: 'Best when pain and fatigue changed your day, but the exact timeline is hard to rebuild later.',
+        href: '/knowledge/fibromyalgia/',
+        cta: 'Open the fibromyalgia hub',
+      },
+      {
+        label: 'Doctor appointment prep',
+        title: 'Turn recent symptoms into a doctor-ready report.',
+        body:
+          'Use Zebra before a specialist visit to gather flares, top symptoms, orthostatic vitals, medication changes, questions, and daily-life impact in one place.',
+        pain: 'Best when the visit is short and you do not want to spend it searching notes or guessing from memory.',
+        href: '/knowledge/chronic-illness-appointment-prep/',
+        cta: 'Open appointment prep',
+      },
+    ],
+    note:
+      'Zebra is an organizing tool for patient-entered history. It does not diagnose, treat, or replace medical care.',
+  },
   proofBridge: {
     eyebrow: 'What changes with Zebra',
     title: 'From scattered symptoms to one doctor-ready story.',
