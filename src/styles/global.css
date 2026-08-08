@@ -1443,6 +1443,66 @@ h3 {
   line-height: 1.62;
 }
 
+.comparison-section {
+  padding-top: 66px;
+}
+
+.comparison-card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.comparison-card {
+  display: grid;
+  gap: 18px;
+  align-content: start;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.84);
+  box-shadow: var(--shadow-card);
+}
+
+.comparison-card h3 {
+  font-family: "Manrope", system-ui, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  color: var(--primary-strong);
+}
+
+.comparison-card-body {
+  display: grid;
+  gap: 10px;
+}
+
+.comparison-card-body > div {
+  padding: 14px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-sm);
+  background: rgba(247, 242, 249, 0.72);
+}
+
+.comparison-card-body .comparison-zebra {
+  border-color: rgba(15, 143, 103, 0.16);
+  background: rgba(232, 246, 239, 0.62);
+}
+
+.comparison-card p,
+.comparison-note {
+  color: var(--text-soft);
+  line-height: 1.58;
+}
+
+.comparison-note {
+  max-width: 48rem;
+  margin-top: 20px;
+  padding: 16px 18px;
+  border: 1px solid rgba(82, 66, 122, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.78);
+}
+
 .invisible-needs-section,
 .trusted-references-section {
   padding-top: 0;
@@ -2576,6 +2636,7 @@ h3 {
   .audience-groups,
   .guides-grid,
   .tracking-path-grid,
+  .comparison-card-grid,
   .lead-magnets-grid,
   .cluster-section-grid,
   .report-compare,

@@ -172,6 +172,54 @@ export const homePageDeDe = {
     note:
       'Zebra ist ein Organisationstool fuer selbst eingegebenen Verlauf. Es diagnostiziert und behandelt nicht und ersetzt keine medizinische Versorgung.',
   },
+  comparison: {
+    eyebrow: 'Warum nicht einfach Notizen?',
+    title: 'Notizen, Tabellen und allgemeine Tracker lassen Sie die Ordnung zweimal machen.',
+    intro:
+      'Sie koennen Fragmente festhalten, aber der Termin braucht trotzdem einen klaren Verlauf. Zebra ist fuer genau diesen Sprung gebaut: vom taeglichen Symptomverlauf zum arztbereiten Bericht.',
+    alternativesLabel: 'Ueblicher Umweg',
+    zebraLabel: 'Was Zebra verbunden haelt',
+    items: [
+      {
+        name: 'Apple Notizen',
+        problem:
+          'Schnell fuer einen Gedanken, aber spaeter schwer nach Schub, Symptom, Medikamentenaenderung, orthostatischen Werten oder Terminfrage zu sortieren.',
+        zebra:
+          'Zebra haelt Symptome, Schuebe, Medikamente, Salz, Wasser, Vitalwerte, Ausloeser, Notizen und Fragen in einer datierten Struktur.',
+        href: '/zebra-vs-apple-notes/',
+        cta: 'Zebra und Notizen vergleichen',
+      },
+      {
+        name: 'Tabellen',
+        problem:
+          'Flexibel, aber Tracking wird zu Setup-Arbeit und kann an Schwindel-, Schmerz- oder Erschoepfungstagen zu viel werden.',
+        zebra:
+          'Zebra beginnt mit ruhigen Check-ins und macht auch unvollstaendige Eintraege nuetzlich, damit der Verlauf schlechte Tage uebersteht.',
+        href: '/zebra-vs-spreadsheet/',
+        cta: 'Zebra und Tabellen vergleichen',
+      },
+      {
+        name: 'Allgemeine Symptomtracker',
+        problem:
+          'Viele Tracker trennen Vitalwerte, Symptome, Medikamente und Notizen, wodurch POTS-, EDS- und Ueberlappungsverlauf schwerer zu pruefen ist.',
+        zebra:
+          'Zebra ist zuerst fuer unsichtbare Erkrankungen, orthostatischen Kontext, ueberschneidende Symptome und Facharzttermine gebaut.',
+        href: localizedPath(localePath, '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/'),
+        cta: 'Tracker-Vergleich lesen',
+      },
+      {
+        name: 'Habit- und Wellness-Apps',
+        problem:
+          'Streaks und Wellness-Ziele koennen Schubtage wie Scheitern wirken lassen, obwohl genau diese Tage oft wichtig zu dokumentieren sind.',
+        zebra:
+          'Zebra behandelt Tracking als Aufbau von Verlauf, nicht als Selbstoptimierung. Ein nuetzlicher Check-in reicht.',
+        href: localizedPath(localePath, '/blog/why-symptom-tracking-fails-on-bad-days/'),
+        cta: 'Lesen, warum Tracking scheitert',
+      },
+    ],
+    note:
+      'Das Ziel ist nicht perfektes Tracking. Das Ziel ist genug selbst eingegebener Verlauf, damit der naechste Termin mit weniger Raten beginnt.',
+  },
   doctorReport: {
     ...homePage.doctorReport,
     eyebrow: 'Der Nutzen',

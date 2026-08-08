@@ -172,6 +172,54 @@ export const homePageEsEs = {
     note:
       'Zebra es una herramienta de organizacion para historial introducido por la persona. No diagnostica, no trata y no reemplaza la atencion medica.',
   },
+  comparison: {
+    eyebrow: 'Por que no usar solo Notas?',
+    title: 'Notas, hojas de calculo y trackers genericos te hacen organizar dos veces.',
+    intro:
+      'Pueden guardar fragmentos, pero la cita sigue necesitando una linea temporal clara. Zebra esta pensado para ese salto: del historial diario de sintomas a un informe para el medico.',
+    alternativesLabel: 'Solucion habitual',
+    zebraLabel: 'Lo que Zebra mantiene conectado',
+    items: [
+      {
+        name: 'Apple Notas',
+        problem:
+          'Rapido para una idea, pero dificil de ordenar despues por brote, sintoma, cambio de medicacion, constantes ortostaticas o pregunta para la cita.',
+        zebra:
+          'Zebra mantiene sintomas, brotes, medicacion, sal, agua, constantes, desencadenantes, notas y preguntas en una estructura con fechas.',
+        href: '/zebra-vs-apple-notes/',
+        cta: 'Comparar Zebra y Notas',
+      },
+      {
+        name: 'Hojas de calculo',
+        problem:
+          'Flexibles, pero convierten el registro en trabajo de configuracion y pueden ser demasiado en dias de mareo, dolor o poca energia.',
+        zebra:
+          'Zebra empieza con check-ins tranquilos y mantiene utiles las entradas parciales, para que el historial sobreviva a los dias malos.',
+        href: '/zebra-vs-spreadsheet/',
+        cta: 'Comparar Zebra y hojas',
+      },
+      {
+        name: 'Trackers genericos',
+        problem:
+          'Muchos separan constantes, sintomas, medicacion y notas, lo que dificulta revisar POTS, EDS e historial con sintomas solapados.',
+        zebra:
+          'Zebra esta creado primero para enfermedad invisible, contexto ortostatico, sintomas solapados y preparacion de citas con especialistas.',
+        href: localizedPath(localePath, '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/'),
+        cta: 'Leer la comparacion',
+      },
+      {
+        name: 'Apps de habitos y bienestar',
+        problem:
+          'Las rachas y metas de bienestar pueden hacer que un dia de brote parezca un fallo, aunque sea un dia importante para documentar.',
+        zebra:
+          'Zebra trata el registro como construccion de evidencia, no como autooptimizacion. Un check-in util es suficiente.',
+        href: localizedPath(localePath, '/blog/why-symptom-tracking-fails-on-bad-days/'),
+        cta: 'Leer por que falla el registro',
+      },
+    ],
+    note:
+      'El objetivo no es registrar perfectamente. El objetivo es conservar suficiente historial introducido por ti para que la proxima cita empiece con menos suposiciones.',
+  },
   doctorReport: {
     ...homePage.doctorReport,
     eyebrow: 'El resultado',

@@ -4,6 +4,7 @@ import FinalCTASection from './FinalCTASection.astro';
 import HeroSection from './HeroSection.astro';
 import HowItWorksSection from './HowItWorksSection.astro';
 import AppointmentPrepSection from './AppointmentPrepSection.astro';
+import ComparisonSection from './ComparisonSection.astro';
 import MobileStickyCTA from './MobileStickyCTA.astro';
 import ProblemSection from './ProblemSection.astro';
 import ReportSection from './ReportSection.astro';
@@ -33,6 +34,7 @@ const { page } = Astro.props;
     />
     <ProblemSection {...page.problem} />
     <TrackingPathSection {...page.trackingPaths} />
+    <ComparisonSection {...page.comparison} />
     <ReportSection
       {...page.doctorReport}
       appStoreURL={page.appStore.url}

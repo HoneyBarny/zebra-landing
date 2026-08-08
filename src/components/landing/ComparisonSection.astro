@@ -1,0 +1,48 @@
+---
+import SectionIntro from './SectionIntro.astro';
+
+interface ComparisonItem {
+  name: string;
+  problem: string;
+  zebra: string;
+  href: string;
+  cta: string;
+}
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  intro: string;
+  alternativesLabel: string;
+  zebraLabel: string;
+  items: ComparisonItem[];
+  note: string;
+}
+
+const { eyebrow, title, intro, alternativesLabel, zebraLabel, items, note } = Astro.props;
+---
+
+<section class="section comparison-section" id="comparison" aria-labelledby="comparison-heading">
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="comparison-heading" narrow={true} />
+
+  <div class="comparison-card-grid">
+    {items.map((item) => (
+      <article class="comparison-card">
+        <h3>{item.name}</h3>
+        <div class="comparison-card-body">
+          <div>
+            <p class="mini-label">{alternativesLabel}</p>
+            <p>{item.problem}</p>
+          </div>
+          <div class="comparison-zebra">
+            <p class="mini-label">{zebraLabel}</p>
+            <p>{item.zebra}</p>
+          </div>
+        </div>
+        <a class="text-action" href={item.href}>{item.cta}</a>
+      </article>
+    ))}
+  </div>
+
+  <p class="comparison-note">{note}</p>
+</section>

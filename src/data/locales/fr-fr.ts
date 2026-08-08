@@ -172,6 +172,54 @@ export const homePageFrFr = {
     note:
       'Zebra est un outil d organisation pour historique saisi par la personne. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins medicaux.',
   },
+  comparison: {
+    eyebrow: 'Pourquoi pas juste Notes ?',
+    title: 'Notes, tableurs et trackers generalistes vous font organiser deux fois.',
+    intro:
+      'Ils peuvent garder des fragments, mais le rendez-vous demande quand meme une chronologie claire. Zebra est concu pour ce passage : de l historique quotidien au rapport pour le medecin.',
+    alternativesLabel: 'Solution courante',
+    zebraLabel: 'Ce que Zebra garde relie',
+    items: [
+      {
+        name: 'Apple Notes',
+        problem:
+          'Rapide pour une idee, mais difficile a trier ensuite par poussee, symptome, changement de medicament, constantes orthostatiques ou question de consultation.',
+        zebra:
+          'Zebra garde symptomes, poussees, medicaments, sel, eau, constantes, declencheurs, notes et questions dans une structure datee.',
+        href: '/zebra-vs-apple-notes/',
+        cta: 'Comparer Zebra et Notes',
+      },
+      {
+        name: 'Tableurs',
+        problem:
+          'Flexibles, mais ils transforment le suivi en travail de configuration et peuvent devenir trop lourds les jours de vertige, douleur ou faible energie.',
+        zebra:
+          'Zebra commence par des check-ins calmes et garde les entrees partielles utiles, pour que l historique survive aux mauvais jours.',
+        href: '/zebra-vs-spreadsheet/',
+        cta: 'Comparer Zebra et tableurs',
+      },
+      {
+        name: 'Trackers de symptomes generalistes',
+        problem:
+          'Beaucoup separent constantes, symptomes, medicaments et notes, ce qui complique la relecture du POTS, du SED et des chevauchements.',
+        zebra:
+          'Zebra est construit d abord pour maladie invisible, contexte orthostatique, symptomes qui se chevauchent et preparation de rendez-vous specialise.',
+        href: localizedPath(localePath, '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/'),
+        cta: 'Lire la comparaison',
+      },
+      {
+        name: 'Apps habitudes et bien-etre',
+        problem:
+          'Les series et objectifs bien-etre peuvent faire ressembler une poussee a un echec, alors que ces jours sont souvent importants a documenter.',
+        zebra:
+          'Zebra traite le suivi comme construction d historique, pas comme optimisation personnelle. Un check-in utile suffit.',
+        href: localizedPath(localePath, '/blog/why-symptom-tracking-fails-on-bad-days/'),
+        cta: 'Lire pourquoi le suivi echoue',
+      },
+    ],
+    note:
+      'Le but n est pas de suivre parfaitement. Le but est de garder assez d historique saisi par vous pour que le prochain rendez-vous commence avec moins de suppositions.',
+  },
   doctorReport: {
     ...homePage.doctorReport,
     eyebrow: 'Le resultat',

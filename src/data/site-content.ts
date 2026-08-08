@@ -254,6 +254,54 @@ export const homePage = {
     note:
       'Zebra is an organizing tool for patient-entered history. It does not diagnose, treat, or replace medical care.',
   },
+  comparison: {
+    eyebrow: 'Why not just use Notes?',
+    title: 'Notes, spreadsheets, and generic trackers make you do the organizing twice.',
+    intro:
+      'They can capture fragments, but the appointment still asks for a clear timeline. Zebra is built around the exact jump from daily symptom history to a doctor-ready report.',
+    alternativesLabel: 'Common workaround',
+    zebraLabel: 'What Zebra keeps connected',
+    items: [
+      {
+        name: 'Apple Notes',
+        problem:
+          'Fast for a thought, but hard to sort later by flare, symptom, medication change, orthostatic vitals, or appointment question.',
+        zebra:
+          'Zebra keeps symptoms, flares, meds, salt, water, vitals, triggers, notes, and questions in one dated structure.',
+        href: '/zebra-vs-apple-notes/',
+        cta: 'Compare Zebra and Notes',
+      },
+      {
+        name: 'Spreadsheets',
+        problem:
+          'Flexible, but they turn tracking into setup work and can become too much on dizzy, painful, or low-energy days.',
+        zebra:
+          'Zebra starts with calm check-ins and keeps partial entries useful, so the record can survive bad days.',
+        href: '/zebra-vs-spreadsheet/',
+        cta: 'Compare Zebra and spreadsheets',
+      },
+      {
+        name: 'Generic symptom trackers',
+        problem:
+          'Many trackers separate vitals, symptoms, medications, and notes, which makes POTS, EDS, and overlap history harder to review.',
+        zebra:
+          'Zebra is built first for invisible illness, orthostatic context, overlapping symptoms, and specialist appointment prep.',
+        href: '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/',
+        cta: 'Read the tracker comparison',
+      },
+      {
+        name: 'Habit and wellness apps',
+        problem:
+          'Streaks and wellness goals can make flare days feel like failure, even when those are the days worth documenting.',
+        zebra:
+          'Zebra treats tracking as evidence-building, not self-optimization. One useful check-in is enough.',
+        href: '/blog/why-symptom-tracking-fails-on-bad-days/',
+        cta: 'Read why tracking fails',
+      },
+    ],
+    note:
+      'The goal is not to track perfectly. The goal is to keep enough patient-entered history that your next appointment starts with less guessing.',
+  },
   proofBridge: {
     eyebrow: 'What changes with Zebra',
     title: 'From scattered symptoms to one doctor-ready story.',
