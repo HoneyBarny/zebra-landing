@@ -190,27 +190,27 @@ const schema = [
               <article class="knowledge-card">
                 <p class="mini-label">{item.entityType}</p>
                 <h2><a href={entityUrl(item.slug)}>{item.name}</a></h2>
-                <p>{item.summary}</p>
               </article>
             ))}
           </div>
         </section>
       )}
 
-      {relatedEntities.length > 0 && (
+      {relatedEntities.filter((item) => !childEntities.some((child) => child.slug === item.slug)).length > 0 && (
         <section class="section section-band">
           <div class="section-intro">
             <p class="eyebrow">Nearby concepts</p>
             <h2>Other pages the graph connects automatically</h2>
           </div>
           <div class="guides-grid">
-            {relatedEntities.map((item) => (
-              <a class="guide-card" href={entityUrl(item.slug)}>
-                <strong>{item.name}</strong>
-                <p>{item.summary}</p>
-                <span>Open entity</span>
-              </a>
-            ))}
+            {relatedEntities
+              .filter((item) => !childEntities.some((child) => child.slug === item.slug))
+              .map((item) => (
+                <a class="guide-card" href={entityUrl(item.slug)}>
+                  <strong>{item.name}</strong>
+                  <span>Open entity</span>
+                </a>
+              ))}
           </div>
         </section>
       )}

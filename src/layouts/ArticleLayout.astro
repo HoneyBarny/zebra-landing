@@ -110,7 +110,7 @@ const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lan
         <Breadcrumbs
           items={[
             { label: labels.home, href: localePath },
-            { label: labels.blog, href: `${localePath === '/' ? '' : localePath}blog/` },
+            { label: labels.blog, href: `${localePath === '/' ? '/' : localePath}blog/` },
             { label: article.data.category, href: categoryUrl(article.data.categories[0].toLowerCase().replace(/[^a-z0-9]+/g, '-')) },
             { label: article.data.title },
           ]}

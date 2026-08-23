@@ -210,27 +210,27 @@ const schema = [
               <article class="knowledge-card">
                 <p class="mini-label">{pageCopy.entityTypes[item.entityType]}</p>
                 <h2><a href={localizedEntityUrl(locale, item.slug)}>{item.name}</a></h2>
-                <p>{item.summary}</p>
               </article>
             ))}
           </div>
         </section>
       )}
 
-      {relatedEntities.length > 0 && (
+      {relatedEntities.filter((item) => !childEntities.some((child) => child.slug === item.slug)).length > 0 && (
         <section class="section section-band">
           <div class="section-intro">
             <p class="eyebrow">{pageCopy.nearbyConcepts}</p>
             <h2>{pageCopy.graphConnects}</h2>
           </div>
           <div class="guides-grid">
-            {relatedEntities.map((item) => (
-              <a class="guide-card" href={localizedEntityUrl(locale, item.slug)}>
-                <strong>{item.name}</strong>
-                <p>{item.summary}</p>
-                <span>{pageCopy.openEntity}</span>
-              </a>
-            ))}
+            {relatedEntities
+              .filter((item) => !childEntities.some((child) => child.slug === item.slug))
+              .map((item) => (
+                <a class="guide-card" href={localizedEntityUrl(locale, item.slug)}>
+                  <strong>{item.name}</strong>
+                  <span>{pageCopy.openEntity}</span>
+                </a>
+              ))}
           </div>
         </section>
       )}
