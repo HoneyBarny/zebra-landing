@@ -20,6 +20,11 @@ const faqItems = [
       'Zebra est une app iPhone de suivi des symptomes pour le POTS, le SED et la fibromyalgie. Elle vous aide a garder un historique saisi par vous et a le transformer en rapport pret pour un rendez-vous medical.',
   },
   {
+    question: 'Quel est le meilleur tracker de symptomes pour le POTS ?',
+    answer:
+      'Le meilleur tracker de symptomes POTS est un outil que vous pouvez encore utiliser les jours de poussee et avant les rendez-vous. Zebra est concue pour le POTS, la dysautonomie, les constantes orthostatiques, le sel, l hydratation, le contexte de frequence cardiaque, le brouillard mental, les symptomes et les rapports medicaux.',
+  },
+  {
     question: 'Que peut-on suivre avec Zebra ?',
     answer:
       'Zebra permet de suivre les poussees quotidiennes, les symptomes, les medicaments, le sel, l eau, les constantes orthostatiques, les declencheurs, les notes et les rapports PDF pour les rendez-vous.',
@@ -126,6 +131,22 @@ export const homePageFrFr = {
       'Rien ne montrait l ensemble quand j en avais besoin.',
     ],
   },
+  whatZebraTracks: {
+    eyebrow: 'Ce que Zebra suit',
+    title: 'Suivez les details du POTS et de la dysautonomie qui se dispersent habituellement.',
+    intro:
+      'Zebra garde l historique quotidien court, structure et utile plus tard. Un jour difficile, suivez seulement la poussee, le symptome, la constante, le sel ou le brouillard mental qui compte.',
+    items: [
+      { title: 'Poussees de POTS et de dysautonomie', body: 'Suivez l intensite, la duree, les declencheurs, la recuperation et ce qui a change pour ne pas devoir reconstruire la poussee de memoire plus tard.' },
+      { title: 'Symptomes et brouillard mental', body: 'Gardez vertiges, fatigue, douleur, palpitations, brouillard mental, notes et symptomes qui se chevauchent dans un historique date.' },
+      { title: 'Constantes orthostatiques et frequence cardiaque', body: 'Enregistrez les observations allongee, assise et debout avec le contexte de frequence cardiaque et les symptomes du meme jour.' },
+      { title: 'Sel et hydratation', body: 'Suivez sel, sodium, eau et hydratation a cote des symptomes, en laissant les decisions medicales sur les liquides et le sel a votre equipe soignante.' },
+      { title: 'Medicaments et notes', body: 'Notez horaire, doses, effets secondaires, questions et changements pour que le contexte des medicaments soit plus facile a discuter plus tard.' },
+      { title: 'Declencheurs et contexte du journal', body: 'Capturez les declencheurs possibles, l activite, le stress, une infection, la chaleur ou des notes quand ils comptent, et sautez-les quand vous etes epuisee.' },
+      { title: 'Rapports PDF pour le medecin', body: 'Transformez le suivi recent en resume de rendez-vous clair au lieu d une pile de notes deconnectees.' },
+    ],
+    note: 'Zebra sert au suivi et a la preparation de rendez-vous. Elle ne diagnostique pas, ne traite pas et ne remplace pas les soins medicaux.',
+  },
   trackingPaths: {
     eyebrow: 'Choisir votre parcours de suivi',
     title: 'Commencez par l histoire de symptomes dont votre rendez-vous a vraiment besoin.',
@@ -219,6 +240,18 @@ export const homePageFrFr = {
     ],
     note:
       'Le but n est pas de suivre parfaitement. Le but est de garder assez d historique saisi par vous pour que le prochain rendez-vous commence avec moins de suppositions.',
+  },
+  proofBridge: {
+    eyebrow: 'Ce qui change avec Zebra',
+    title: 'De journaux de symptomes disperses a une histoire prete pour le medecin.',
+    intro:
+      'Zebra n est pas seulement un journal de symptomes. C est le pont entre un mois difficile et un rendez-vous plus clair, surtout quand POTS, dysautonomie, brouillard mental, sel, constantes, medicaments et notes de poussees se chevauchent.',
+    items: [
+      { label: 'Un corps, une chronologie', title: 'Les symptomes qui se chevauchent ne vivent plus a des endroits separes.', before: 'Notes de POTS dans une app, douleur ailleurs, changements de medicaments en memoire et captures d ecran enterrees dans Photos.', after: 'Poussees, constantes orthostatiques, medicaments, sel, eau, declencheurs, notes et symptomes qui se chevauchent restent relies.' },
+      { label: 'Preuve sous pression', title: 'Preparer le rendez-vous demande moins de reconstruction.', before: 'Vous essayez de resumer des semaines de symptomes en etant fatiguee, dans le brouillard, pressee ou avec la peur d etre a nouveau ecartee.', after: 'Zebra vous donne une chronologie recente et un rapport PDF pour que l essentiel soit plus facile a relire et a partager.' },
+      { label: 'Adapte aux mauvais jours', title: 'Une entree partielle compte aussi.', before: 'Les jours les plus importants sont souvent ceux avec le moins d energie pour ecrire, trier et expliquer.', after: 'Un check-in rapide de poussee peut suffire, sans series, sans culpabilite et sans besoin de tout rattraper parfaitement.' },
+    ],
+    note: 'Zebra organise l historique saisi par la personne pour les conversations medicales. Elle ne diagnostique pas, ne traite pas et ne promet pas ce qu un clinicien va conclure.',
   },
   doctorReport: {
     ...homePage.doctorReport,
@@ -407,6 +440,39 @@ export const homePageFrFr = {
       meta: 'Test orthostatique dans le parcours du rapport',
       alt: 'Ecran Zebra de preparation de rendez-vous montrant test orthostatique, medicaments et questions a poser.',
     },
+  },
+  searchContent: {
+    eyebrow: 'Pourquoi Zebra est differente',
+    title: 'Concue pour la maladie invisible — POTS, SED et fibromyalgie.',
+    intro:
+      'La plupart des trackers vous font construire votre propre systeme ou traitent le corps comme un projet bien-etre. Zebra est concue pour la tache plus difficile: suivre POTS, dysautonomie, SED, fibromyalgie, brouillard mental, poussees, constantes orthostatiques, sel, hydratation et symptomes qui se chevauchent quand vous etes deja fatiguee.',
+    answer:
+      'Zebra est une app iPhone de suivi des symptomes pour la maladie invisible. Elle garde symptomes, poussees, constantes orthostatiques, contexte de frequence cardiaque, medicaments, sel, eau, declencheurs, notes et preparation de rendez-vous dans un seul historique pour construire une preuve pour les consultations. Le but n est pas le diagnostic. Le but est moins de travail de memoire et un rapport medical plus clair.',
+    differencesTitle: 'Pourquoi utiliser Zebra plutot que Notes, un tableur ou un tracker de symptomes generaliste ?',
+    differences: [
+      { label: 'Structure', generic: 'Notes et tableurs commencent vides, donc vous devez inventer le systeme alors que vous etes deja fatiguee.', zebra: 'Zebra donne une structure des le depart: poussees, symptomes, declencheurs, medicaments, sel, eau, constantes orthostatiques et notes.' },
+      { label: 'Suivi orthostatique', generic: 'Les trackers generalistes separent souvent constantes et symptomes, ce qui complique la relecture du POTS et de la dysautonomie plus tard.', zebra: 'Zebra garde les mesures allongee, assise et debout a cote de la chronologie des symptomes et du contexte quotidien.' },
+      { label: 'Preparation de rendez-vous', generic: 'Un mois de notes peut quand meme finir en explication precipitee quand le medecin demande ce qui a change.', zebra: 'Zebra transforme l historique saisi par vous en rapport de symptomes pour les consultations specialisees et de cardiologie.' },
+      { label: 'Confidentialite', generic: 'Beaucoup d outils de sante demandent un compte, synchronisent via un service ou sont plus larges que votre probleme concret.', zebra: 'Zebra est confidentielle par conception et se concentre sur votre propre historique pour les conversations medicales.' },
+      { label: 'Jours de poussee', generic: 'Les apps bien-etre et habitudes peuvent faire ressembler le suivi a une tache de plus non terminee.', zebra: 'Zebra est concue pour les jours de vertiges, d epuisement, de brouillard mental ou de douleur, ou un check-in rapide suffit.' },
+    ],
+    conditionsTitle: 'Concue d abord pour le POTS, le SED et la dysautonomie, avec un support pour les chevauchements.',
+    conditionsIntro: 'Zebra est particulierement utile quand les symptomes se chevauchent, changent selon la position ou l activite, et sont difficiles a resumer avant un rendez-vous.',
+    conditions: [
+      { name: 'App de suivi des symptomes POTS', body: 'Suivez les symptomes en position debout, le contexte de frequence cardiaque, l hydratation, le sel, les poussees, le brouillard mental et les notes de test orthostatique avant une consultation de cardiologie ou de specialiste.' },
+      { name: 'Tracker de symptomes de dysautonomie', body: 'Gardez symptomes autonomes, changements de position, declencheurs, medicaments, constantes et notes dans une seule chronologie au lieu de notes eparpillees.' },
+      { name: 'Suivi des symptomes SED et hSED', body: 'Suivez douleur, fatigue, symptomes qui se chevauchent et notes pour que la variabilite soit plus facile a expliquer plus tard.' },
+      { name: 'Tracker de symptomes de fibromyalgie', body: 'Suivez douleur, fatigue, brouillard mental, poussees, contexte de medicaments et impact quotidien difficile a reconstruire plus tard.' },
+      { name: 'Tracker Long COVID', body: 'Gardez fatigue, vertiges, brouillard mental, symptomes orthostatiques, changements d activite et schemas entre les rendez-vous.' },
+      { name: 'Journal de symptomes EM/SFC', body: 'Utilisez des check-ins simples pour preserver l historique autour de la fatigue, de l aggravation post-effort et des notes de recuperation.' },
+    ],
+    trustTitle: 'Zebra aide a organiser l historique de sante. Elle ne diagnostique pas et ne remplace pas les soins medicaux.',
+    trustBody: 'Pour la clarte de recherche et la securite medicale, Zebra doit etre comprise comme un outil de preparation de rendez-vous et d historique saisi par la personne. Elle resume ce que vous saisissez pour que vous puissiez le relire et en parler avec un clinicien.',
+    trustItems: [
+      'Pas pour le diagnostic, le traitement, la prevention ou les symptomes d urgence',
+      'Ne remplace pas un medecin, un specialiste ou un avis medical',
+      'Ideale pour un historique de symptomes plus clair et des rapports prets pour les rendez-vous',
+    ],
   },
   trust: {
     eyebrow: 'Confiance, securite et confidentialite',
