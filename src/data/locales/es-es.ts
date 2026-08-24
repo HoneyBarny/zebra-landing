@@ -20,17 +20,27 @@ const faqItems = [
       'Zebra es una app de iPhone para registrar sintomas de POTS, EDS y fibromialgia. Te ayuda a guardar tu historial introducido por ti y convertirlo en un informe listo para revisar antes de una cita medica.',
   },
   {
-    question: 'Que registra Zebra?',
+    question: 'Cual es un buen tracker de sintomas para POTS?',
     answer:
-      'Zebra registra brotes diarios, sintomas, medicacion, sal, agua, constantes ortostaticas, desencadenantes, notas e informes PDF para citas medicas.',
+      'Un buen tracker de POTS debe seguir siendo usable en dias de brote y antes de citas. Zebra esta creado para POTS, disautonomia, constantes ortostaticas, sodio/sal, hidratacion, frecuencia cardiaca, niebla mental, sintomas e informes para el medico.',
+  },
+  {
+    question: 'Puede Zebra registrar constantes ortostaticas y frecuencia cardiaca?',
+    answer:
+      'Si. Zebra puede mantener mediciones tumbada, sentada y de pie en la misma linea temporal que sintomas, brotes, medicacion, sodio/sal, hidratacion, notas y preguntas para la cita.',
   },
   {
     question: 'Puede Zebra ayudarme a preparar una cita?',
     answer:
-      'Si. Zebra mantiene tu historial de sintomas organizado, muestra patrones con el tiempo y exporta un informe que puedes revisar antes de una cita con un especialista.',
+      'Si. Zebra mantiene tu historial de sintomas organizado, muestra patrones con el tiempo y exporta un informe para revisar antes de una cita con especialista, cardiologia o seguimiento.',
   },
   {
-    question: 'En que se diferencia Zebra de Notas o de un tracker generico?',
+    question: 'Puedo registrar sodio, hidratacion, sintomas y niebla mental juntos?',
+    answer:
+      'Si. Zebra mantiene sodio/sal, agua, sintomas, niebla mental, fatiga, medicacion, desencadenantes, notas y contexto de brote juntos para revisar mejor el historial despues.',
+  },
+  {
+    question: 'En que se diferencia Zebra de Notas o de un registro generico?',
     answer:
       'Notas y las hojas de calculo empiezan en blanco. Zebra ya trae estructura para estas condiciones, registro de constantes ortostaticas y un informe para el medico, sin rachas de bienestar ni configuracion generica.',
   },
@@ -59,9 +69,9 @@ export const homePageEsEs = {
     path: localePath,
   },
   seo: {
-    title: 'Zebra: tracker de sintomas para POTS, EDS y fibromialgia en iPhone',
+    title: 'Tracker de POTS para brotes, constantes y citas medicas | Zebra',
     description:
-      'Registra sintomas de POTS, EDS y fibromialgia, brotes, constantes ortostaticas y medicacion, y convierte el historial en un informe para tu medico.',
+      'Registra brotes de POTS, sintomas de disautonomia, constantes ortostaticas, sodio, hidratacion, frecuencia cardiaca, niebla mental, medicacion y notas de cita.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
       'Vista previa de un informe de Zebra creado a partir de sintomas, constantes ortostaticas, medicacion y notas para una cita.',
@@ -86,14 +96,15 @@ export const homePageEsEs = {
     eyebrow: 'Para POTS, EDS y fibromialgia',
     title: 'Llega a la cita con una historia clara de tus sintomas.',
     body:
-      'Registra sintomas, brotes, constantes ortostaticas, medicacion, sal, agua y notas en un solo lugar tranquilo, y convierte ese historial en un informe para tu medico.',
+      'Zebra te ayuda a registrar sintomas de POTS, EDS y fibromialgia, brotes, constantes ortostaticas, frecuencia cardiaca, medicacion, sodio/sal, agua y notas en un lugar tranquilo, y convertir el historial en un informe para el medico.',
     trustLine:
       'Gratis para registrar. Privado por diseno. Tus datos permanecen en tu dispositivo.',
     ctaSupport: ['Privado por diseno', 'Sin cuenta obligatoria', 'No es consejo medico'],
     bullets: [
-      'Una app para POTS, EDS y fibromialgia',
+      'Tracking para POTS, EDS y fibromialgia',
+      'Constantes ortostaticas, sodio y sintomas',
       'Check-ins de menos de 60 segundos',
-      'Informe PDF para el medico',
+      'Informe listo para la cita',
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
@@ -125,6 +136,22 @@ export const homePageEsEs = {
       'Sabia que era importante, pero se me olvido en la cita.',
       'Nada mostraba la imagen completa cuando la necesitaba.',
     ],
+  },
+  whatZebraTracks: {
+    eyebrow: 'Que registra Zebra',
+    title: 'Registra los detalles de POTS y disautonomia que normalmente quedan dispersos.',
+    intro:
+      'Zebra mantiene el historial diario corto, estructurado y util despues. En un dia dificil, registra solo el brote, sintoma, constante, sodio o niebla mental que importa.',
+    items: [
+      { title: 'Brotes de POTS y disautonomia', body: 'Registra intensidad, duracion, desencadenantes, recuperacion y que cambio para no reconstruir el brote de memoria despues.' },
+      { title: 'Sintomas y niebla mental', body: 'Mantiene mareo, fatiga, dolor, palpitaciones, niebla mental, notas y sintomas solapados en un historial con fechas.' },
+      { title: 'Constantes ortostaticas y frecuencia cardiaca', body: 'Guarda observaciones tumbada, sentada y de pie con frecuencia cardiaca y sintomas del mismo dia.' },
+      { title: 'Sodio e hidratacion', body: 'Registra sodio, sal, agua e hidratacion junto a sintomas, dejando las decisiones medicas sobre liquidos y sodio a tu equipo clinico.' },
+      { title: 'Medicacion y notas', body: 'Anota horario, dosis, efectos, preguntas y cambios para que el contexto de medicacion sea mas facil de revisar.' },
+      { title: 'Desencadenantes y contexto del registro', body: 'Captura actividad, estres, infeccion, calor o notas cuando importan, y saltatelos cuando estas agotada.' },
+      { title: 'Informes PDF para el medico', body: 'Convierte el seguimiento reciente en un resumen de cita claro en vez de una pila de notas desconectadas.' },
+    ],
+    note: 'Zebra es para seguimiento y preparacion de citas. No diagnostica, no trata y no reemplaza la atencion medica.',
   },
   trackingPaths: {
     eyebrow: 'Elige tu camino de registro',
@@ -219,6 +246,18 @@ export const homePageEsEs = {
     ],
     note:
       'El objetivo no es registrar perfectamente. El objetivo es conservar suficiente historial introducido por ti para que la proxima cita empiece con menos suposiciones.',
+  },
+  proofBridge: {
+    eyebrow: 'Que cambia con Zebra',
+    title: 'De registros de sintomas dispersos a una historia lista para el medico.',
+    intro:
+      'Zebra no es solo un registro de sintomas. Es el puente entre un mes dificil y una cita mas clara, especialmente cuando POTS, disautonomia, niebla mental, sodio, constantes, medicacion y notas de brotes se solapan.',
+    items: [
+      { label: 'Un cuerpo, una linea temporal', title: 'Los sintomas solapados dejan de vivir en lugares separados.', before: 'Notas de POTS en una app, dolor en otra parte, cambios de medicacion en la memoria y capturas enterradas en Fotos.', after: 'Brotes, constantes ortostaticas, medicacion, sal, agua, desencadenantes, notas y sintomas solapados quedan conectados.' },
+      { label: 'Prueba bajo presion', title: 'Preparar la cita requiere menos reconstruccion.', before: 'Intentas resumir semanas de sintomas estando cansada, con niebla mental, prisa o miedo a que te descarten otra vez.', after: 'Zebra te da una linea temporal reciente y un informe PDF para que sea mas facil revisar y compartir lo importante.' },
+      { label: 'Amigable en dias malos', title: 'Una entrada parcial tambien cuenta.', before: 'Los dias que mas importan suelen ser los dias con menos energia para escribir, ordenar y explicar.', after: 'Un check-in rapido de brote puede servir por si solo, sin rachas, culpa ni necesidad de ponerse al dia perfectamente.' },
+    ],
+    note: 'Zebra organiza historial introducido por la persona para conversaciones medicas. No diagnostica, no trata ni promete que concluira un clinico.',
   },
   doctorReport: {
     ...homePage.doctorReport,
@@ -407,6 +446,39 @@ export const homePageEsEs = {
       meta: 'Test ortostatico dentro del flujo de informe',
       alt: 'Pantalla de Zebra con evidencia de test ortostatico, medicacion y preguntas para una cita.',
     },
+  },
+  searchContent: {
+    eyebrow: 'Por que Zebra es diferente',
+    title: 'Creada para enfermedad invisible — POTS, EDS y fibromialgia.',
+    intro:
+      'La mayoria de trackers te hacen crear tu propio sistema o tratan el cuerpo como un proyecto de bienestar. Zebra esta creada para una tarea mas dificil: registrar POTS, disautonomia, EDS, fibromialgia, niebla mental, brotes, constantes ortostaticas, sodio, hidratacion y sintomas solapados cuando ya estas cansada.',
+    answer:
+      'Zebra es un tracker de sintomas para iPhone pensado para enfermedad invisible. Mantiene sintomas, brotes, constantes ortostaticas, frecuencia cardiaca, medicacion, sodio, agua, desencadenantes, notas y preparacion de citas en un mismo historial para crear prueba para la consulta. El objetivo no es diagnosticar. El objetivo es menos trabajo de memoria y un informe mas claro.',
+    differencesTitle: 'Por que usar Zebra en vez de Notas, hojas de calculo o un tracker generico?',
+    differences: [
+      { label: 'Estructura', generic: 'Notas y hojas empiezan en blanco, asi que tienes que inventar el sistema cuando ya estas cansada.', zebra: 'Zebra da estructura desde el inicio: brotes, sintomas, desencadenantes, medicacion, sal, agua, constantes ortostaticas y notas.' },
+      { label: 'Tracking ortostatico', generic: 'Los trackers genericos suelen separar constantes y sintomas, lo que dificulta revisar POTS y disautonomia despues.', zebra: 'Zebra mantiene mediciones tumbada, sentada y de pie junto a la linea temporal de sintomas y el contexto diario.' },
+      { label: 'Preparacion de citas', generic: 'Un mes de notas puede terminar en una explicacion apresurada cuando el medico pregunta que cambio.', zebra: 'Zebra convierte historial introducido por ti en un informe de sintomas para especialistas y cardiologia.' },
+      { label: 'Privacidad', generic: 'Muchas herramientas de salud requieren cuenta, sincronizan por un servicio o son mas amplias que el problema que necesitas resolver.', zebra: 'Zebra es privada por diseno y se centra en tu propio historial para conversaciones medicas.' },
+      { label: 'Dias de brote', generic: 'Las apps de bienestar y habitos pueden hacer que registrar parezca otra tarea fallida.', zebra: 'Zebra esta pensada para dias con mareo, agotamiento, niebla mental o dolor, donde un check-in rapido basta.' },
+    ],
+    conditionsTitle: 'Creada primero para POTS, EDS y disautonomia, con apoyo para condiciones solapadas.',
+    conditionsIntro: 'Zebra es mas util cuando los sintomas se solapan, cambian con la postura o actividad y son dificiles de resumir antes de una cita.',
+    conditions: [
+      { name: 'Tracker de sintomas POTS', body: 'Registra sintomas al estar de pie, frecuencia cardiaca, hidratacion, sodio, brotes, niebla mental y notas de test ortostatico antes de cardiologia o especialista.' },
+      { name: 'Tracker de sintomas de disautonomia', body: 'Mantiene sintomas autonomicos, cambios de postura, desencadenantes, medicacion, constantes y notas en una linea temporal.' },
+      { name: 'Seguimiento de EDS y hEDS', body: 'Registra dolor, fatiga, sintomas solapados y notas para explicar mejor la variabilidad despues.' },
+      { name: 'Tracker de fibromialgia', body: 'Registra dolor, fatiga, niebla mental, brotes, medicacion e impacto diario dificil de reconstruir.' },
+      { name: 'Tracker de Long COVID', body: 'Captura fatiga, mareo, niebla mental, sintomas ortostaticos, cambios de actividad y patrones entre citas.' },
+      { name: 'Diario de sintomas ME/CFS', body: 'Usa check-ins de baja energia para preservar historial de fatiga, empeoramiento post-esfuerzo y recuperacion.' },
+    ],
+    trustTitle: 'Zebra ayuda a organizar historial de salud. No diagnostica ni reemplaza la atencion medica.',
+    trustBody: 'Para claridad de busqueda y seguridad medica, Zebra debe entenderse como una herramienta de preparacion de citas e historial introducido por la persona. Resume lo que introduces para revisarlo y hablarlo con un clinico.',
+    trustItems: [
+      'No es para diagnostico, tratamiento, prevencion ni sintomas de emergencia',
+      'No reemplaza a un medico, especialista ni consejo medico',
+      'Mejor para preparar un historial mas claro y un informe para citas',
+    ],
   },
   trust: {
     eyebrow: 'Confianza, seguridad y privacidad',

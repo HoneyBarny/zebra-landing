@@ -20,17 +20,27 @@ const faqItems = [
       'Zebra ist ein iPhone-Symptomtracker fuer POTS, EDS und Fibromyalgie. Die App hilft Ihnen, selbst eingegebene Verlaufsdaten zu erfassen und daraus einen arztbereiten Bericht fuer Facharzttermine zu erstellen.',
   },
   {
-    question: 'Was kann ich mit Zebra erfassen?',
+    question: 'Was ist ein guter Symptomtracker fuer POTS?',
     answer:
-      'Zebra erfasst taegliche Schuebe, Symptome, Medikamente, Salz, Wasser, orthostatische Vitalwerte, Ausloeser, Notizen und arztbereite PDF-Berichte.',
+      'Ein guter POTS-Symptomtracker bleibt auch an Schubtagen und vor Terminen nutzbar. Zebra ist fuer POTS, Dysautonomie, orthostatische Vitalwerte, Salz/Natrium, Hydration, Herzfrequenz-Kontext, Brain Fog, Symptome und arztbereite Berichte gebaut.',
+  },
+  {
+    question: 'Kann Zebra orthostatische Vitalwerte und Herzfrequenz erfassen?',
+    answer:
+      'Ja. Zebra kann Werte im Liegen, Sitzen und Stehen in derselben Timeline halten wie Symptome, Schuebe, Medikamente, Salz/Natrium, Hydration, Notizen und Terminfragen.',
   },
   {
     question: 'Hilft Zebra bei der Vorbereitung auf Arzttermine?',
     answer:
-      'Ja. Zebra haelt Ihre Symptomgeschichte geordnet, zeigt Veraenderungen ueber die Zeit und exportiert einen Bericht, den Sie vor einem Facharzttermin durchgehen koennen.',
+      'Ja. Zebra haelt Ihre Symptomgeschichte geordnet, zeigt Veraenderungen ueber die Zeit und exportiert einen arztbereiten Bericht, den Sie vor Facharzt-, Kardiologie- oder Kontrollterminen durchgehen koennen.',
   },
   {
-    question: 'Wie unterscheidet sich Zebra von Notizen oder allgemeinen Trackern?',
+    question: 'Kann ich Salz, Hydration, Symptome und Brain Fog zusammen erfassen?',
+    answer:
+      'Ja. Zebra haelt Salz/Natrium, Wasser, Symptome, Brain Fog, Fatigue, Medikamente, Ausloeser, Notizen und Schubkontext zusammen, damit der Verlauf spaeter leichter pruefbar ist.',
+  },
+  {
+    question: 'Wie unterscheidet sich Zebra von Notizen oder einem allgemeinen Symptomlog?',
     answer:
       'Notizen und Tabellen starten leer. Zebra bietet von Anfang an eine krankheitsbezogene Struktur, orthostatische Messungen und einen arztbereiten Bericht, ohne Wellness-Streaks oder allgemeines Setup.',
   },
@@ -59,9 +69,9 @@ export const homePageDeDe = {
     path: localePath,
   },
   seo: {
-    title: 'Zebra: POTS-, EDS- und Fibromyalgie-Symptomtracker fuer iPhone',
+    title: 'POTS-Symptomtracker fuer Schuebe, Vitalwerte und Arzttermine | Zebra',
     description:
-      'Erfassen Sie POTS-, EDS- und Fibromyalgie-Symptome, Schuebe, orthostatische Vitalwerte und Medikamente und erstellen Sie daraus einen arztbereiten Bericht.',
+      'Erfassen Sie POTS-Schuebe, Dysautonomie-Symptome, orthostatische Vitalwerte, Salz/Natrium, Hydration, Herzfrequenz, Brain Fog, Medikamente und Terminnotizen.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
       'Zebra-Vorschau eines arztbereiten Berichts aus Symptomen, orthostatischen Vitalwerten, Medikamenten und Terminnotizen.',
@@ -86,14 +96,15 @@ export const homePageDeDe = {
     eyebrow: 'Fuer POTS, EDS und Fibromyalgie',
     title: 'Gut vorbereitet zum Arzttermin.',
     body:
-      'Erfassen Sie Symptome, Schuebe, orthostatische Vitalwerte, Medikamente, Salz, Wasser und Notizen an einem ruhigen Ort und erstellen Sie daraus einen arztbereiten Bericht.',
+      'Zebra hilft Ihnen, POTS-, EDS- und Fibromyalgie-Symptome, Schuebe, orthostatische Vitalwerte, Herzfrequenz-Kontext, Medikamente, Salz/Natrium, Wasser und Notizen an einem ruhigen Ort zu erfassen und daraus einen arztbereiten Bericht zu erstellen.',
     trustLine:
       'Kostenlos tracken. Datenschutzorientiert. Ihre Daten bleiben auf Ihrem Geraet.',
     ctaSupport: ['Datenschutzorientiert', 'Kein Konto erforderlich', 'Keine medizinische Beratung'],
     bullets: [
-      'Eine App fuer POTS, EDS und Fibromyalgie',
+      'POTS-, EDS- und Fibromyalgie-Tracking',
+      'Orthostatische Werte, Salz und Symptome',
       'Check-ins in unter 60 Sekunden',
-      'Arztbereiter PDF-Bericht',
+      'Arztbereiter Terminbericht',
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
@@ -125,6 +136,22 @@ export const homePageDeDe = {
       'Ich wusste, dass es wichtig war, aber beim Termin war es weg.',
       'Nichts zeigte das ganze Bild, als ich es gebraucht haette.',
     ],
+  },
+  whatZebraTracks: {
+    eyebrow: 'Was Zebra erfasst',
+    title: 'Tracken Sie die POTS- und Dysautonomie-Details, die sonst verstreut bleiben.',
+    intro:
+      'Zebra haelt den taeglichen Verlauf kurz, strukturiert und spaeter nutzbar. An schweren Tagen erfassen Sie nur den Schub, das Symptom, den Vitalwert, Salz/Natrium oder Brain Fog, der wichtig ist.',
+    items: [
+      { title: 'POTS- und Dysautonomie-Schuebe', body: 'Erfassen Sie Staerke, Dauer, Ausloeser, Erholung und Veraenderungen, damit ein Schub spaeter nicht aus dem Gedaechtnis rekonstruiert werden muss.' },
+      { title: 'Symptome und Brain Fog', body: 'Halten Sie Schwindel, Fatigue, Schmerz, Herzklopfen, Brain Fog, Notizen und ueberschneidende Symptome in einem datierten Verlauf.' },
+      { title: 'Orthostatische Vitalwerte und Herzfrequenz', body: 'Speichern Sie Beobachtungen im Liegen, Sitzen und Stehen mit Herzfrequenz-Kontext und Symptomen desselben Tages.' },
+      { title: 'Salz/Natrium und Hydration', body: 'Erfassen Sie Salz, Natrium, Wasser und Hydration neben Symptomen, waehrend medizinische Entscheidungen bei Ihrem Behandlungsteam bleiben.' },
+      { title: 'Medikamente und Notizen', body: 'Notieren Sie Zeitpunkt, Dosisnotizen, Nebenwirkungen, Fragen und Aenderungen, damit Medikamentenkontext leichter besprechbar wird.' },
+      { title: 'Ausloeser und Symptomlog-Kontext', body: 'Halten Sie moegliche Ausloeser, Aktivitaet, Stress, Infektion, Hitze oder Notizen fest, wenn sie wichtig sind, und lassen Sie sie aus, wenn Sie erschoepft sind.' },
+      { title: 'Arztbereite PDF-Berichte', body: 'Machen Sie aus aktuellem Tracking eine klarere Terminzusammenfassung statt einer Sammlung unverbundener Notizen.' },
+    ],
+    note: 'Zebra ist fuer Tracking und Terminvorbereitung. Es diagnostiziert und behandelt nicht und ersetzt keine medizinische Versorgung.',
   },
   trackingPaths: {
     eyebrow: 'Waehlen Sie Ihren Tracking-Pfad',
@@ -219,6 +246,18 @@ export const homePageDeDe = {
     ],
     note:
       'Das Ziel ist nicht perfektes Tracking. Das Ziel ist genug selbst eingegebener Verlauf, damit der naechste Termin mit weniger Raten beginnt.',
+  },
+  proofBridge: {
+    eyebrow: 'Was sich mit Zebra aendert',
+    title: 'Aus verstreuten Symptomlogs wird eine arztbereite Geschichte.',
+    intro:
+      'Zebra ist nicht nur ein Symptomlog. Es verbindet einen schweren Monat mit einem klareren Termin, besonders wenn POTS, Dysautonomie, Brain Fog, Salz, Vitalwerte, Medikamente und Schubnotizen sich ueberschneiden.',
+    items: [
+      { label: 'Ein Koerper, eine Timeline', title: 'Ueberschneidende Symptome leben nicht mehr an getrennten Orten.', before: 'POTS-Notizen in einer App, Schmerz woanders, Medikamentenaenderungen im Kopf und Screenshots in Fotos.', after: 'Schuebe, orthostatische Werte, Medikamente, Salz, Wasser, Ausloeser, Notizen und ueberschneidende Symptome bleiben verbunden.' },
+      { label: 'Nachweis unter Druck', title: 'Terminvorbereitung braucht weniger Neuaufbau.', before: 'Sie versuchen Wochen von Symptomen zusammenzufassen, waehrend Sie muede, foggy, gehetzt oder wieder besorgt sind, nicht ernst genommen zu werden.', after: 'Zebra gibt Ihnen eine aktuelle Timeline und einen arztbereiten PDF-Bericht, damit die wichtigen Teile leichter zu pruefen sind.' },
+      { label: 'Fuer schlechte Tage', title: 'Auch ein unvollstaendiger Eintrag zaehlt.', before: 'Die wichtigsten Tage sind oft die Tage mit der wenigsten Energie zum Tippen, Sortieren und Erklaeren.', after: 'Ein kurzer Schub-Check-in kann fuer sich stehen, ohne Streaks, Schuldgefuehl oder perfektes Nachtragen.' },
+    ],
+    note: 'Zebra ordnet selbst eingegebene Verlaufsdaten fuer Arztgespraeche. Es diagnostiziert und behandelt nicht und verspricht nicht, was ein Arzt daraus schliesst.',
   },
   doctorReport: {
     ...homePage.doctorReport,
@@ -436,6 +475,39 @@ export const homePageDeDe = {
       meta: 'Orthostatischer Test im Berichtsablauf',
       alt: 'Zebra-Terminvorbereitung mit orthostatischen Testdaten, Medikamentenverlauf und Fragen fuer den Termin.',
     },
+  },
+  searchContent: {
+    eyebrow: 'Warum Zebra anders ist',
+    title: 'Gebaut fuer unsichtbare Erkrankungen — POTS, EDS und Fibromyalgie.',
+    intro:
+      'Die meisten Tracker lassen Sie Ihr eigenes System bauen oder rahmen den Koerper wie ein Wellness-Projekt. Zebra ist fuer die schwierigere Aufgabe gebaut: POTS, Dysautonomie, EDS, Fibromyalgie, Brain Fog, Schuebe, orthostatische Vitalwerte, Salz/Natrium, Hydration und ueberschneidende Symptome zu erfassen, wenn Sie bereits muede sind.',
+    answer:
+      'Zebra ist ein iPhone-Symptomtracker fuer unsichtbare Erkrankungen. Die App haelt Symptome, Schuebe, orthostatische Vitalwerte, Herzfrequenz-Kontext, Medikamente, Salz/Natrium, Wasser, Ausloeser, Notizen und Terminvorbereitung in einem Verlauf, damit Sie Nachweis fuer Termine aufbauen koennen. Ziel ist nicht Diagnose. Ziel ist weniger Erinnerungsarbeit und ein klarerer Arztbericht.',
+    differencesTitle: 'Warum Zebra statt Notizen, Tabellen oder allgemeinem Symptomtracker nutzen?',
+    differences: [
+      { label: 'Struktur', generic: 'Notizen und Tabellen starten leer, also muessen Sie das System erfinden, waehrend Sie schon muede sind.', zebra: 'Zebra gibt Struktur von Anfang an: Schuebe, Symptome, Ausloeser, Medikamente, Salz, Wasser, orthostatische Werte und Notizen.' },
+      { label: 'Orthostatisches Tracking', generic: 'Allgemeine Tracker trennen Vitalwerte oft von Symptomen, wodurch POTS- und Dysautonomie-Verlauf spaeter schwerer zu pruefen ist.', zebra: 'Zebra haelt Werte im Liegen, Sitzen und Stehen neben Symptomtimeline und Tageskontext.' },
+      { label: 'Terminvorbereitung', generic: 'Ein Monat Notizen kann trotzdem zu einer gehetzten Erklaerung werden, wenn der Arzt fragt, was sich veraendert hat.', zebra: 'Zebra macht aus selbst eingegebenem Verlauf einen arztbereiten Symptombericht fuer Facharzt- und Kardiologietermine.' },
+      { label: 'Datenschutz', generic: 'Viele Gesundheitstools brauchen ein Konto, synchronisieren ueber einen Dienst oder sind breiter als Ihr konkretes Problem.', zebra: 'Zebra ist datenschutzorientiert und fokussiert auf Ihren eigenen Verlauf fuer Arztgespraeche.' },
+      { label: 'Schubtage', generic: 'Wellness- und Habit-Apps koennen Tracking wie eine weitere unerledigte Aufgabe wirken lassen.', zebra: 'Zebra ist fuer schwindlige, erschoepfte, foggy oder schmerzhafte Tage gebaut, an denen ein kurzer Check-in reicht.' },
+    ],
+    conditionsTitle: 'Zuerst fuer POTS, EDS und Dysautonomie gebaut, mit Unterstuetzung fuer Ueberschneidungen.',
+    conditionsIntro: 'Zebra ist besonders nuetzlich, wenn Symptome sich ueberschneiden, je nach Position oder Aktivitaet wechseln und vor Terminen schwer zusammenzufassen sind.',
+    conditions: [
+      { name: 'POTS-Symptomtracker-App', body: 'Erfassen Sie Symptome im Aufrechten, Herzfrequenz-Kontext, Hydration, Salz/Natrium, Schuebe, Brain Fog und orthostatische Testnotizen vor Kardiologie- oder Facharztterminen.' },
+      { name: 'Dysautonomie-Symptomtracker', body: 'Halten Sie autonome Symptome, Positionswechsel, Ausloeser, Medikamente, Vitalwerte und Notizen in einer Timeline statt in verstreuten Notizen.' },
+      { name: 'EDS- und hEDS-Symptomtracking', body: 'Erfassen Sie Schmerz, Fatigue, Ueberschneidungssymptome und Notizen, damit Veraenderlichkeit spaeter leichter erklaerbar ist.' },
+      { name: 'Fibromyalgie-Symptomtracker', body: 'Tracken Sie Schmerz, Fatigue, Brain Fog, Schuebe, Medikamentenkontext und Alltagsauswirkung, die spaeter schwer rekonstruierbar sein kann.' },
+      { name: 'Long-COVID-Tracker', body: 'Halten Sie Fatigue, Schwindel, Brain Fog, orthostatische Symptome, Aktivitaetsaenderungen und Muster zwischen Terminen fest.' },
+      { name: 'ME/CFS-Symptomjournal', body: 'Nutzen Sie einfache Check-ins, um Verlauf rund um Fatigue, post-exertional worsening und Erholungsnotizen zu sichern.' },
+    ],
+    trustTitle: 'Zebra hilft, Gesundheitsverlauf zu ordnen. Es diagnostiziert nicht und ersetzt keine medizinische Versorgung.',
+    trustBody: 'Aus Gruenden der Suchklarheit und medizinischen Sicherheit sollte Zebra als Terminvorbereitungs- und Verlaufswerkzeug verstanden werden. Es fasst zusammen, was Sie eingeben, damit Sie es pruefen und mit einem Arzt besprechen koennen.',
+    trustItems: [
+      'Nicht fuer Diagnose, Behandlung, Praevention oder Notfallsymptome',
+      'Kein Ersatz fuer Arzt, Facharzt oder medizinische Beratung',
+      'Am besten fuer klarere Symptomgeschichte und arztbereite Berichte vor Terminen',
+    ],
   },
   trust: {
     eyebrow: 'Vertrauen, Sicherheit und Datenschutz',

@@ -8,17 +8,27 @@ const faqItems = [
       'Zebra is an iPhone symptom tracker for POTS, EDS, and Fibromyalgia. It helps you track patient-entered history and turn it into a doctor-ready report for specialist appointments.',
   },
   {
-    question: 'What does Zebra track?',
+    question: 'What is the best symptom tracker for POTS?',
     answer:
-      'Zebra tracks daily flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and doctor-ready PDF reports.',
+      'The best POTS symptom tracker is one you can still use on flare days and before appointments. Zebra is built for POTS, dysautonomia, orthostatic vitals, sodium, hydration, heart rate context, brain fog, symptoms, and doctor-ready reports.',
   },
   {
-    question: 'Can Zebra help prepare for appointments?',
+    question: 'Can Zebra track orthostatic vitals and heart rate?',
     answer:
-      'Yes. Zebra keeps your symptom history organized, shows patterns over time, and exports a doctor-ready report you can review before a specialist visit.',
+      'Yes. Zebra can keep lying, sitting, and standing orthostatic vitals in the same timeline as symptoms, flares, medications, sodium, hydration, notes, and appointment questions.',
   },
   {
-    question: 'How is Zebra different from Notes or a generic tracker?',
+    question: 'Can Zebra help with appointment prep?',
+    answer:
+      'Yes. Zebra keeps your symptom history organized, shows patterns over time, and exports a doctor-ready report you can review before a specialist, cardiology, or follow-up appointment.',
+  },
+  {
+    question: 'Can I track sodium, hydration, symptoms, and brain fog together?',
+    answer:
+      'Yes. Zebra keeps sodium, water, symptoms, brain fog, fatigue, medications, triggers, notes, and flare context together so the history is easier to review later.',
+  },
+  {
+    question: 'How is Zebra different from Notes or a generic symptom log?',
     answer:
       'Notes and spreadsheets start blank. Zebra gives you condition-specific structure, orthostatic vitals tracking, and a one-tap doctor report — without wellness streaks or generic setup.',
   },
@@ -41,9 +51,9 @@ const faqItems = [
 
 export const homePage = {
   seo: {
-    title: 'Zebra: POTS, EDS & Fibromyalgia Symptom Tracker for iPhone',
+    title: 'POTS Symptom Tracker for Flares, Vitals & Doctor Prep | Zebra',
     description:
-      'Track POTS, EDS & Fibromyalgia symptoms, flares, orthostatic vitals, and meds — then turn the history into a doctor-ready report. Free to track.',
+      'Track POTS flares, dysautonomia symptoms, orthostatic vitals, sodium, hydration, heart rate, brain fog, meds, and appointment notes in Zebra.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
       'Zebra doctor-ready report preview built from tracked symptoms, orthostatic vitals, medications, and appointment notes.',
@@ -66,7 +76,7 @@ export const homePage = {
     eyebrow: 'For POTS, EDS & Fibromyalgia',
     title: 'Finally have proof for your doctor.',
     body:
-      'Track symptoms, flares, orthostatic vitals, meds, salt, water, and notes in one calm place — then turn the history into a doctor-ready report.',
+      'Zebra helps you track POTS, EDS, and Fibromyalgia symptoms, flares, orthostatic vitals, heart rate context, meds, sodium, water, and notes in one calm place, then turn the history into a doctor-ready report.',
     answerStrip: [],
     quickLinks: [],
     quickLinksTitle: '',
@@ -74,9 +84,10 @@ export const homePage = {
       'Free to track. Private by design. Your data stays on your device.',
     ctaSupport: ['Private by design', 'No account required', 'Not medical advice'],
     bullets: [
-      'One app for POTS, EDS, and Fibromyalgia',
+      'POTS, EDS & Fibromyalgia tracking',
+      'Orthostatic vitals, sodium, and symptoms',
       'Under-60-second check-ins',
-      'Doctor-ready PDF report',
+      'Doctor-ready appointment report',
     ],
     showcase: heroShowcase,
     supportCard: {
@@ -121,32 +132,32 @@ export const homePage = {
   },
   whatZebraTracks: {
     eyebrow: 'What Zebra tracks',
-    title: 'One calm place for the details that usually get scattered.',
+    title: 'Track the POTS and dysautonomia details that usually get scattered.',
     intro:
-      'Zebra keeps the daily record short, structured, and useful later. On a hard day, track only what matters and leave.',
+      'Zebra keeps the daily record short, structured, and useful later. On a hard day, track only the flare, symptom, vitals, sodium, or brain fog detail that matters and leave.',
     items: [
       {
-        title: 'Daily flares',
-        body: 'Track severity, duration, and what changed so a bad day does not have to be reconstructed from memory later.',
+        title: 'POTS and dysautonomia flares',
+        body: 'Track severity, duration, triggers, recovery, and what changed so a flare does not have to be reconstructed from memory later.',
       },
       {
-        title: 'Symptoms',
-        body: 'Keep dizziness, pain, fatigue, brain fog, palpitations, notes, and overlap symptoms in one dated history.',
+        title: 'Symptoms and brain fog',
+        body: 'Keep dizziness, fatigue, pain, palpitations, brain fog, notes, and overlap symptoms in one dated history.',
       },
       {
-        title: 'Medications',
-        body: 'Record timing and notes so medication changes are easier to discuss with a clinician.',
+        title: 'Orthostatic vitals and heart rate',
+        body: 'Save lying, sitting, and standing observations with heart rate context and symptoms from the same day.',
       },
       {
-        title: 'Salt and water',
-        body: 'Track hydration and salt beside symptoms, while leaving medical decisions about salt and fluids to your care team.',
+        title: 'Sodium and hydration',
+        body: 'Track sodium, salt, water, and hydration beside symptoms, while leaving medical decisions about fluids and sodium to your care team.',
       },
       {
-        title: 'Orthostatic vitals',
-        body: 'Save lying, sitting, and standing observations with the symptoms and context from the same day.',
+        title: 'Medications and notes',
+        body: 'Record timing, dose notes, side effects, questions, and changes so medication context is easier to discuss later.',
       },
       {
-        title: 'Triggers and notes',
+        title: 'Triggers and symptom log context',
         body: 'Capture possible triggers, activity, stress, infection, heat, or notes when they matter, and skip them when you are tired.',
       },
       {
@@ -210,7 +221,7 @@ export const homePage = {
   },
   trackingPaths: {
     eyebrow: 'Choose your tracking path',
-    title: 'Start with the symptom story your appointment actually needs.',
+    title: 'Start with the symptom story your doctor actually needs.',
     intro:
       'Different conditions create different kinds of appointment stress. Zebra gives each path a clearer starting point, so you can track what matters without building a system from scratch.',
     items: [
@@ -304,9 +315,9 @@ export const homePage = {
   },
   proofBridge: {
     eyebrow: 'What changes with Zebra',
-    title: 'From scattered symptoms to one doctor-ready story.',
+    title: 'From scattered symptom logs to one doctor-ready story.',
     intro:
-      'Zebra is not just a place to track. It is the bridge between a hard month and a clearer appointment, especially when symptoms overlap and memory gets unreliable.',
+      'Zebra is not just a symptom log. It is the bridge between a hard month and a clearer appointment, especially when POTS, dysautonomia, brain fog, sodium, vitals, meds, and flare notes overlap.',
     items: [
       {
         label: 'One body, one timeline',
@@ -338,11 +349,11 @@ export const homePage = {
   },
   searchContent: {
     eyebrow: 'Why Zebra is different',
-    title: 'Built for invisible illness, not generic wellness tracking.',
+    title: 'Built for invisible illness — POTS, EDS & Fibromyalgia tracking.',
     intro:
-      'Most tracker apps make you build your own system or frame the body like a wellness project. Zebra is built for the harder job: tracking POTS, EDS, Fibromyalgia, dysautonomia, and overlapping symptoms when you are already tired.',
+      'Most tracker apps make you build your own system or frame the body like a wellness project. Zebra is built for the harder job: tracking POTS, dysautonomia, EDS, Fibromyalgia, brain fog, flares, orthostatic vitals, sodium, hydration, and overlapping symptoms when you are already tired.',
     answer:
-      'Zebra is an iPhone symptom tracker for invisible illness. It keeps symptoms, flares, orthostatic vitals, medications, salt, water, triggers, notes, and appointment context in one record so you can create proof for appointments. The goal is not diagnosis. The goal is less memory work and a clearer doctor report.',
+      'Zebra is an iPhone symptom tracker for invisible illness. It keeps symptoms, flares, orthostatic vitals, heart rate context, medications, sodium, water, triggers, notes, and appointment prep in one record so you can create proof for appointments. The goal is not diagnosis. The goal is less memory work and a clearer doctor report.',
     differencesTitle: 'Why use Zebra instead of Notes, spreadsheets, or a generic symptom tracker app?',
     differences: [
       {
@@ -377,11 +388,11 @@ export const homePage = {
     conditions: [
       {
         name: 'POTS symptom tracker app',
-        body: 'Track upright symptoms, heart-rate context, hydration, salt, flares, and orthostatic test notes before a cardiology or specialist visit.',
+        body: 'Track upright symptoms, heart rate context, hydration, sodium, flares, brain fog, and orthostatic test notes before a cardiology or specialist visit.',
       },
       {
         name: 'Dysautonomia symptom tracker',
-        body: 'Keep autonomic symptoms, position changes, triggers, medications, and notes in one timeline instead of scattered notes.',
+        body: 'Keep autonomic symptoms, position changes, triggers, medications, vitals, and notes in one timeline instead of scattered notes.',
       },
       {
         name: 'EDS and hEDS symptom tracking',
