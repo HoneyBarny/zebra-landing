@@ -26,8 +26,9 @@ function isDuplicateHost(hostname) {
 
 export function onRequest(context) {
   const url = new URL(context.request.url);
+  const requestHost = context.request.headers.get('host') ?? url.hostname;
 
-  if (isDuplicateHost(url.hostname)) {
+  if (isDuplicateHost(requestHost)) {
     url.protocol = 'https:';
     url.hostname = CANONICAL_HOST;
     url.port = '';
