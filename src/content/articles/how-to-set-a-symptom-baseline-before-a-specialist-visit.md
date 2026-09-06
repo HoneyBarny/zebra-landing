@@ -75,11 +75,11 @@ A baseline helps with three specific problems:
 2. **It gives your own perception something to stand on.** Noticing that something feels different is real information, even before it is confirmed by a test or a clinician. A documented baseline turns that feeling into something specific enough to discuss.
 3. **It shortens the visit.** Instead of describing your whole history, you can say what your usual has been and what has changed from it.
 
-None of this requires a perfect record. It requires a baseline that is honest enough to be useful.
+None of this requires a perfect history. It requires a baseline that is honest enough to be useful.
 
 ## What to track to build a baseline
 
-Keep this narrower than it sounds. A baseline is built from a few consistent categories, not an exhaustive log.
+Keep this narrower than it sounds. A baseline is built from a few consistent categories, not exhaustive daily tracking.
 
 ### 1. Your usual symptoms
 

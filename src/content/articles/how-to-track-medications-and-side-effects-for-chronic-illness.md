@@ -1,18 +1,18 @@
 ---
 title: "How to Track Medications and Side Effects for Chronic Illness"
 status: "scheduled"
-subtitle: "When you are managing several medications and supplements at once, the question that actually matters is simple: is this helping, is this causing something new, or is it too soon to tell. A short, consistent record of doses, changes, and what followed is usually enough to answer that, without turning medication tracking into a spreadsheet project."
-description: "Learn how to track medications and side effects for chronic illness, including what to record for each change, how to tell a side effect from a symptom, and how to keep it simple."
-excerpt: "Learn how to track medications and side effects for chronic illness, including what to record for each change, how to tell a side effect from a symptom, and how to keep it simple."
+subtitle: "When you are managing several medications and supplements at once, the question that actually matters is simple: is this helping, is this causing something new, or is it too soon to tell. A short, consistent tracked history of doses, changes, and what followed is usually enough to answer that, without turning medication tracking into a spreadsheet project."
+description: "Learn how to track medications and side effects for chronic illness, including what to track for each change, how to tell a side effect from a symptom, and how to keep it simple."
+excerpt: "Learn how to track medications and side effects for chronic illness, including what to track for each change, how to tell a side effect from a symptom, and how to keep it simple."
 author: "zebra-editorial"
 scheduledAt: "2026-09-18"
 cluster: "Doctor Reports"
 category: "Doctor Reports"
 primaryKeyword: "track medications and side effects chronic illness"
 seoTitle: "How to Track Medications and Side Effects | Zebra"
-metaDescription: "Learn how to track medications and side effects for chronic illness: what to record, how to tell a side effect from a symptom, and what to skip."
+metaDescription: "Learn how to track medications and side effects for chronic illness: what to track, how to tell a side effect from a symptom, and what to skip."
 ogTitle: "How to Track Medications and Side Effects for Chronic Illness"
-ogDescription: "A short, consistent record of doses, changes, and what followed is enough to answer whether a medication is helping. Here is how to keep it simple."
+ogDescription: "A short, consistent tracked history of doses, changes, and what followed is enough to answer whether a medication is helping. Here is how to keep it simple."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Medication and dose timeline showing changes alongside symptoms for a chronic illness review."
 ctaLabel: "Download Zebra"
@@ -58,12 +58,12 @@ faq:
   - question: "How do I track an as-needed (PRN) medication?"
     answer: "Note when you took it, why, and roughly how it went afterward. Over time, this shows whether a PRN medication is reliably helping, inconsistently helping, or not doing much."
   - question: "What if I am on several medications and cannot track every detail?"
-    answer: "Focus on changes: new medications, dose changes, and anything new that followed. You do not need to log a stable, unchanged medication every day to keep a useful record."
+    answer: "Focus on changes: new medications, dose changes, and anything new that followed. You do not need to track a stable, unchanged medication every day to keep a useful history."
 ---
 
-When you are managing several medications and supplements at once, the question that actually matters is simple: is this helping, is this causing something new, or is it too soon to tell. A short, consistent record of doses, changes, and what followed is usually enough to answer that, without turning medication tracking into a spreadsheet project.
+When you are managing several medications and supplements at once, the question that actually matters is simple: is this helping, is this causing something new, or is it too soon to tell. A short, consistent tracked history of doses, changes, and what followed is usually enough to answer that, without turning medication tracking into a spreadsheet project.
 
-For people managing POTS, dysautonomia, EDS, fibromyalgia, or overlapping conditions, medication regimens are often complex and change more than once a year. Without a record, it becomes hard to remember which change lined up with which new symptom, or whether something that felt like a side effect three months ago was ever mentioned to a clinician at all.
+For people managing POTS, dysautonomia, EDS, fibromyalgia, or overlapping conditions, medication regimens are often complex and change more than once a year. Without a tracked history, it becomes hard to remember which change lined up with which new symptom, or whether something that felt like a side effect three months ago was ever mentioned to a clinician at all.
 
 ## Why medication tracking is different from symptom tracking
 
@@ -75,9 +75,9 @@ This matters for three common situations:
 2. **An unclear response to treatment.** Is a medication working, not working yet, or not working at all?
 3. **A repeated conversation with a clinician.** Explaining your current regimen and its history from memory, every visit, is tiring and easy to get wrong.
 
-## What to record for each medication
+## What to track for each medication
 
-Keep the record proportional. A stable, unchanged medication does not need daily attention. A change does.
+Keep the tracking proportional. A stable, unchanged medication does not need daily attention. A change does.
 
 ### 1. What it is and the current dose
 
@@ -97,7 +97,7 @@ For medications you take only when needed, note the date, the reason, and roughl
 
 ### 5. What it seems to be doing, described carefully
 
-"Symptoms seem somewhat improved since the increase" is a useful, honest observation. "This medication fixed it" or "this medication is definitely causing X" overstates what a personal record can actually confirm, especially when other things are also changing at the same time.
+"Symptoms seem somewhat improved since the increase" is a useful, honest observation. "This medication fixed it" or "this medication is definitely causing X" overstates what personal tracking can actually confirm, especially when other things are also changing at the same time.
 
 ## How to tell a side effect from a symptom flare
 
@@ -126,7 +126,7 @@ If you are short on energy, this is enough:
 
 - [Date]: took [medication] for [reason]. Result: [helped, no change, unclear]
 
-This is enough structure to answer "what changed and what happened after" without asking you to log a stable regimen every single day.
+This is enough structure to answer "what changed and what happened after" without asking you to track a stable regimen every single day.
 
 ## Common mistakes when tracking medications
 
@@ -168,11 +168,11 @@ Instead of trying to remember when a dose changed or whether a symptom started b
 
 so that Zebra's [doctor report](/doctor-report/) can show a clinician the same timeline you have been living, instead of a summary reconstructed from memory in the appointment.
 
-Zebra does not identify side effects or confirm whether a medication is working. It helps you keep an accurate, dated record so you and a clinician can look at the same history together.
+Zebra does not identify side effects or confirm whether a medication is working. It helps you keep an accurate, dated timeline so you and a clinician can look at the same history together.
 
 ## Key takeaways
 
-- Keep medication changes and symptoms in the same dated record, not separate lists.
+- Keep medication changes and symptoms in the same dated timeline, not separate lists.
 - A stable, unchanged medication does not need daily tracking; a change does.
 - Note timing carefully. It is often what makes a pattern visible later.
 - Track PRN medication use over time, not just once, to see whether it reliably helps.
@@ -202,4 +202,4 @@ Note when you took it, why, and roughly how it went afterward. Over time, this s
 
 ### What if I am on several medications and cannot track every detail?
 
-Focus on changes: new medications, dose changes, and anything new that followed. You do not need to log a stable, unchanged medication every day to keep a useful record.
+Focus on changes: new medications, dose changes, and anything new that followed. You do not need to track a stable, unchanged medication every day to keep a useful history.

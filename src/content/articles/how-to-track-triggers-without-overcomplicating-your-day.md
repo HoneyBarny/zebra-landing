@@ -1,7 +1,7 @@
 ---
 title: "How to Track Triggers Without Overcomplicating Your Day"
 status: "scheduled"
-subtitle: "You do not need to log every meal, every weather change, and every stressful email to notice a pattern worth mentioning to a doctor. A short, consistent list of context beats an exhaustive one, and the goal is association worth discussing, not proof of a cause."
+subtitle: "You do not need to track every meal, every weather change, and every stressful email to notice a pattern worth mentioning to a doctor. A short, consistent list of context beats an exhaustive one, and the goal is association worth discussing, not proof of a cause."
 description: "Learn how to track triggers without overcomplicating your day: what context is actually worth noting, how to spot an association without overclaiming, and what to skip."
 excerpt: "Learn how to track triggers without overcomplicating your day: what context is actually worth noting, how to spot an association without overclaiming, and what to skip."
 author: "zebra-editorial"
@@ -12,7 +12,7 @@ primaryKeyword: "how to track triggers chronic illness"
 seoTitle: "How to Track Triggers Without Overcomplicating It | Zebra"
 metaDescription: "Learn how to track triggers without overcomplicating your day: what context is worth noting, how to spot an association, and what to skip entirely."
 ogTitle: "How to Track Triggers Without Overcomplicating Your Day"
-ogDescription: "A short, consistent list of context beats an exhaustive log. Here is what is actually worth tracking, and what to leave out."
+ogDescription: "A short, consistent list of context beats exhaustive tracking. Here is what is actually worth tracking, and what to leave out."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Pattern view comparing symptom days against a short list of tracked context like sleep, standing, and activity."
 ctaLabel: "Download Zebra"
@@ -60,7 +60,7 @@ faq:
     answer: "Keep the list short, treat findings as observations rather than rules, and remember that an association is a starting point for a conversation, not a verdict on what you can safely do."
 ---
 
-You do not need to log every meal, every weather change, and every stressful email to notice a pattern worth mentioning to a doctor. A short, consistent list of context beats an exhaustive one, and the goal is association worth discussing, not proof of a cause.
+You do not need to track every meal, every weather change, and every stressful email to notice a pattern worth mentioning to a doctor. A short, consistent list of context beats an exhaustive one, and the goal is association worth discussing, not proof of a cause.
 
 For people managing POTS, dysautonomia, EDS, fibromyalgia, or overlapping conditions, this matters because the instinct after a bad flare is often to track everything, just in case. That usually backfires. A long list is harder to keep up with, and more variables make any single pattern harder to see, not easier. A short list, tracked consistently, works better than a long list tracked for three days and abandoned.
 
@@ -106,7 +106,7 @@ That is the full list. Most people do not need more than this to start noticing 
 
 Some symptoms show up right away. Others, especially post-exertional malaise or payback from overdoing it, can appear hours later or the next day. If you only track context on the day symptoms happen, you will miss this entirely.
 
-A simple fix: note context on ordinary days too, not just symptomatic ones. If a hard day tends to follow a demanding day by 24 to 48 hours, that pattern only becomes visible if the demanding day was also recorded.
+A simple fix: note context on ordinary days too, not just symptomatic ones. If a hard day tends to follow a demanding day by 24 to 48 hours, that pattern only becomes visible if the demanding day was also tracked.
 
 ## How to notice an association without overclaiming it
 
@@ -171,7 +171,7 @@ A single instance is a data point, not a pattern. Look for repetition before tre
 
 ### Chasing certainty
 
-Some patterns stay unclear for a while, and some never resolve into a clean answer. "No clear pattern yet" is a valid and honest result, not a sign that tracking failed.
+Some patterns stay unclear for a while, and some never resolve into a clean answer. "No clear pattern yet" is a valid and honest result, not a sign that anything went wrong.
 
 ## If you have brain fog, use the minimum useful version
 
@@ -185,7 +185,7 @@ That is still enough to add to the pattern over time.
 
 ## How Zebra fits into this workflow
 
-Zebra keeps a short, consistent set of context alongside your symptoms, so a pattern can surface without asking you to log everything.
+Zebra keeps a short, consistent set of context alongside your symptoms, so a pattern can surface without asking you to track everything.
 
 Instead of an open-ended list, Zebra can help you track:
 

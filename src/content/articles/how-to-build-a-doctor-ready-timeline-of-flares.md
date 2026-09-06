@@ -1,23 +1,23 @@
 ---
 title: "How to Build a Doctor-Ready Timeline of Flares"
 status: "scheduled"
-subtitle: "A flare timeline is not a diary of everything that happened. It is a short, dated record of your worst stretches, built so a clinician can see the pattern in under a minute instead of hearing it rebuilt from memory in the room. A handful of well-recorded flares is more useful than months of scattered notes."
-description: "Learn how to build a doctor-ready timeline of flares, including what to record for each one, how far back to go, and how to keep it from becoming a second job."
-excerpt: "Learn how to build a doctor-ready timeline of flares, including what to record for each one, how far back to go, and how to keep it from becoming a second job."
+subtitle: "A flare timeline is not a diary of everything that happened. It is a short, dated account of your worst stretches, built so a clinician can see the pattern in under a minute instead of hearing it rebuilt from memory in the room. A handful of well-tracked flares is more useful than months of scattered notes."
+description: "Learn how to build a doctor-ready timeline of flares, including what to track for each one, how far back to go, and how to keep it from becoming a second job."
+excerpt: "Learn how to build a doctor-ready timeline of flares, including what to track for each one, how far back to go, and how to keep it from becoming a second job."
 author: "zebra-editorial"
 scheduledAt: "2026-09-11"
 cluster: "Doctor Reports"
 category: "Doctor Reports"
 primaryKeyword: "doctor ready timeline of flares"
 seoTitle: "How to Build a Flare Timeline for Your Doctor | Zebra"
-metaDescription: "Learn how to build a doctor-ready timeline of flares: what to record, how far back to go, and how to keep it useful instead of overwhelming."
+metaDescription: "Learn how to build a doctor-ready timeline of flares: what to track, how far back to go, and how to keep it useful instead of overwhelming."
 ogTitle: "How to Build a Doctor-Ready Timeline of Flares"
-ogDescription: "A short, dated record of your worst stretches is more useful in an appointment than months of scattered notes. Here is how to build one."
+ogDescription: "A short, dated account of your worst stretches is more useful in an appointment than months of scattered notes. Here is how to build one."
 heroImage: "/screenshots/evidence-capture.png"
-heroImageAlt: "Timeline view of recorded flares with dates, severity, and duration ready to bring to a doctor appointment."
+heroImageAlt: "Timeline view of tracked flares with dates, severity, and duration ready to bring to a doctor appointment."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Download Zebra to keep a dated record of your flares that turns into a doctor-ready report in one tap."
+ctaNote: "Download Zebra to keep a dated history of your flares that turns into a doctor-ready report in one tap."
 featured: false
 categories:
   - "Doctor Reports"
@@ -48,20 +48,20 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "What is a flare timeline?"
-    answer: "A flare timeline is a short, dated record of your significant symptom flares, including severity, duration, and functional impact, organized so a clinician can see the pattern quickly."
+    answer: "A flare timeline is a short, dated account of your significant symptom flares, including severity, duration, and functional impact, organized so a clinician can see the pattern quickly."
   - question: "How many flares should I include for a doctor appointment?"
-    answer: "Quality matters more than completeness. Four to eight well-recorded flares from the relevant time period are usually more useful than a long list with thin detail."
+    answer: "Quality matters more than completeness. Four to eight well-tracked flares from the relevant time period are usually more useful than a long list with thin detail."
   - question: "Do I need to know what triggered each flare?"
     answer: "No. Note what was happening around the flare if you noticed anything, but describe it as context, not a confirmed cause. A clinician can help interpret patterns; the timeline just needs to preserve the context accurately."
   - question: "How far back should a flare timeline go?"
     answer: "For most appointments, the last one to three months is the most useful window. Include an older flare only if it was unusually severe or represents a repeating pattern worth flagging."
   - question: "What if I cannot remember exact details from past flares?"
-    answer: "Record what you are confident about and mark the rest as approximate. An honest approximate timeline is more useful than a precise-sounding one built from guessing."
-  - question: "How is a flare timeline different from a full symptom log?"
-    answer: "A full symptom log tries to capture everything, every day. A flare timeline focuses only on the significant events, which makes it far faster to build and far easier for a clinician to read."
+    answer: "Track what you are confident about and mark the rest as approximate. An honest approximate timeline is more useful than a precise-sounding one built from guessing."
+  - question: "How is a flare timeline different from tracking every symptom every day?"
+    answer: "Tracking every symptom every day tries to capture everything. A flare timeline focuses only on the significant events, which makes it far faster to build and far easier for a clinician to read."
 ---
 
-A flare timeline is not a diary of everything that happened. It is a short, dated record of your worst stretches, built so a clinician can see the pattern in under a minute instead of hearing it rebuilt from memory in the room. A handful of well-recorded flares is more useful than months of scattered notes.
+A flare timeline is not a diary of everything that happened. It is a short, dated account of your worst stretches, built so a clinician can see the pattern in under a minute instead of hearing it rebuilt from memory in the room. A handful of well-tracked flares is more useful than months of scattered notes.
 
 For people managing POTS, dysautonomia, EDS, fibromyalgia, or overlapping conditions, flares are often the most clinically relevant part of the history, and also the part most likely to blur together afterward. A timeline exists to fix that specific problem: not to document every symptom, but to preserve the events that actually matter for the visit.
 
@@ -69,15 +69,15 @@ For people managing POTS, dysautonomia, EDS, fibromyalgia, or overlapping condit
 
 Appointments are short, and recall under pressure is unreliable, especially with brain fog or fatigue in the mix. A flare timeline solves three problems at once:
 
-1. **It replaces memory with a record.** You are not trying to reconstruct dates and severity on the spot.
+1. **It replaces memory with a tracked history.** You are not trying to reconstruct dates and severity on the spot.
 2. **It shows a pattern, not just a story.** A clinician can see frequency, duration, and trend at a glance instead of piecing it together from a narrative.
 3. **It compresses well.** A short timeline can be read in the time available, then expanded into detail only if something specific comes up.
 
-This is also why a timeline works better than a general log for this purpose. A log tries to capture every day. A timeline captures only what is significant, which is exactly what an appointment has time for.
+This is also why a timeline works better than tracking every single day for this purpose. Tracking every day captures everything; a timeline captures only what is significant, which is exactly what an appointment has time for.
 
-## What to record for each flare
+## What to track for each flare
 
-Keep each entry short. A useful flare record usually includes:
+Keep each entry short. A useful flare entry usually includes:
 
 ### 1. Date and duration
 
@@ -147,7 +147,7 @@ Repeat for each significant flare in the window you chose. Zebra's [doctor repor
 
 ### Trying to include every symptom day
 
-This turns a timeline into a full log again, which defeats the purpose. Keep it to flares that were significant enough to remember and matter for the visit.
+This turns a timeline back into full daily tracking again, which defeats the purpose. Keep it to flares that were significant enough to remember and matter for the visit.
 
 ### Overstating a trigger
 
@@ -155,11 +155,11 @@ Noting that a flare followed a stressful week is useful context. Stating it as t
 
 ### Leaving out functional impact
 
-A flare described only by symptom names is easy to underestimate. Functional impact is often what makes the record clinically useful.
+A flare described only by symptom names is easy to underestimate. Functional impact is often what makes the entry clinically useful.
 
 ### Waiting until the appointment is imminent
 
-If flares are already happening, start recording them now, even briefly. A late but real record is still useful; a record built entirely from memory the morning of the visit is not.
+If flares are already happening, start tracking them now, even briefly. A late but real timeline entry is still useful; one built entirely from memory the morning of the visit is not.
 
 ## If you have brain fog, use the minimum useful version
 
@@ -184,11 +184,11 @@ Instead of reconstructing flares from memory, Zebra can help you keep:
 
 so that by the time an appointment comes around, the timeline already exists. Zebra's doctor report turns this history into a one-page summary you can review beforehand, with the option to look deeper into any single flare if needed.
 
-Zebra does not identify triggers or diagnose a pattern. It helps you keep an accurate, organized record so you and a clinician can look at the same timeline together.
+Zebra does not identify triggers or diagnose a pattern. It helps you keep an accurate, organized timeline so you and a clinician can look at the same history together.
 
 ## Key takeaways
 
-- A flare timeline records significant events, not every day.
+- A flare timeline tracks significant events, not every day.
 - Include duration, severity relative to your usual, main symptoms, and functional impact for each flare.
 - Describe context as context, not as a confirmed cause.
 - The last one to three months is usually the most useful window for a visit.
@@ -198,11 +198,11 @@ Zebra does not identify triggers or diagnose a pattern. It helps you keep an acc
 
 ### What is a flare timeline?
 
-A flare timeline is a short, dated record of your significant symptom flares, including severity, duration, and functional impact, organized so a clinician can see the pattern quickly.
+A flare timeline is a short, dated account of your significant symptom flares, including severity, duration, and functional impact, organized so a clinician can see the pattern quickly.
 
 ### How many flares should I include for a doctor appointment?
 
-Quality matters more than completeness. Four to eight well-recorded flares from the relevant time period are usually more useful than a long list with thin detail.
+Quality matters more than completeness. Four to eight well-tracked flares from the relevant time period are usually more useful than a long list with thin detail.
 
 ### Do I need to know what triggered each flare?
 
@@ -214,8 +214,8 @@ For most appointments, the last one to three months is the most useful window. I
 
 ### What if I cannot remember exact details from past flares?
 
-Record what you are confident about and mark the rest as approximate. An honest approximate timeline is more useful than a precise-sounding one built from guessing.
+Track what you are confident about and mark the rest as approximate. An honest approximate timeline is more useful than a precise-sounding one built from guessing.
 
-### How is a flare timeline different from a full symptom log?
+### How is a flare timeline different from tracking every symptom every day?
 
-A full symptom log tries to capture everything, every day. A flare timeline focuses only on the significant events, which makes it far faster to build and far easier for a clinician to read.
+Tracking every symptom every day tries to capture everything. A flare timeline focuses only on the significant events, which makes it far faster to build and far easier for a clinician to read.
