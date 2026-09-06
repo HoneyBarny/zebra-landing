@@ -164,6 +164,8 @@ Es mas facil de revisar, mas facil de comentar y depende menos de una memoria pe
 
 Zebra esta construido alrededor de este flujo exacto. El punto no es solo registrar sintomas. El punto es mantener juntos historial de sintomas, brotes, funcion, medicacion, hidratacion y observaciones relacionadas para que despues puedan convertirse en un informe listo para el medico.
 
+Este mismo enfoque es el centro de la pagina [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/), pensada para dias de poca energia y niebla mental.
+
 Zebra no diagnostica condiciones ni controla como respondera un medico. Ayuda a organizar historial introducido por el paciente para que la conversacion sea mas facil de preparar.
 
 ## Puntos clave

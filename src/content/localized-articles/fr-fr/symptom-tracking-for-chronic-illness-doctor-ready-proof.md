@@ -164,6 +164,8 @@ Elle est plus facile a relire, plus facile a discuter et moins dependante d'un r
 
 Zebra est construit autour de ce flux exact. Le but n'est pas seulement de noter les symptomes. Le but est de garder ensemble l'historique des symptomes, les poussees, le fonctionnement, les medicaments, l'hydratation et les observations liees, afin qu'ils puissent devenir plus tard un rapport pret pour le medecin.
 
+Cette meme approche est au coeur de la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/), pensee pour les journees a faible energie et le brain fog.
+
 Zebra ne diagnostique pas les conditions et ne controle pas la reaction d'un medecin. Il aide a organiser l'historique saisi par le patient pour rendre la conversation plus facile a preparer.
 
 ## Points cles

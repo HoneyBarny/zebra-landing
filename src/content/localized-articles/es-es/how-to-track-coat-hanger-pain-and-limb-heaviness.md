@@ -236,6 +236,8 @@ Informacion util:
 
 Zebra ayuda a mantener dolor tipo percha, pesadez de extremidades, [fatiga](/es-es/knowledge/fatigue/), [mareo](/es-es/knowledge/dizziness/), hidratacion, medicamentos, desencadenantes, observaciones ortostaticas e impacto funcional en una sola linea de tiempo.
 
+Para el seguimiento mas amplio relacionado con POTS, el [registro de POTS](/es-es/pots-tracker/) es un buen punto de partida.
+
 No diagnostica la causa del dolor de cuello ni de extremidades pesadas. Ayuda a llevar un patron mas claro a la cita.
 
 ## Puntos clave

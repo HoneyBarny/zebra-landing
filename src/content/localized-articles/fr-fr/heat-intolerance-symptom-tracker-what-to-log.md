@@ -248,6 +248,8 @@ Lecture utile:
 
 Zebra aide a garder exposition a la chaleur, symptomes orthostatiques, hydratation, sel, medicaments, refroidissement, recuperation et questions pour le medecin dans une meme timeline.
 
+Pour le suivi specifique au POTS, le [journal POTS Zebra](/fr-fr/pots-tracker/) relie chaleur, poussees, hydratation, sel, medicaments et notes de rendez-vous dans un meme historique.
+
 Il ne diagnostique pas intolerance a la chaleur ou conditions autonomes. Il aide a apporter un motif de chaleur plus clair, pret pour le medecin.
 
 ## Points cles

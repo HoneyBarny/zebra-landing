@@ -236,6 +236,8 @@ Informations utiles:
 
 Zebra aide a garder douleur en cintre, membres lourds, [fatigue](/fr-fr/knowledge/fatigue/), [vertige](/fr-fr/knowledge/dizziness/), hydratation, medicaments, declencheurs, observations orthostatiques et impact fonctionnel dans une chronologie.
 
+Pour le suivi plus large lie au POTS, le [journal POTS](/fr-fr/pots-tracker/) est un bon point de depart.
+
 Il ne diagnostique pas la cause de la douleur au cou ou des membres lourds. Il vous aide a apporter un schema plus clair au rendez-vous.
 
 ## Points cles

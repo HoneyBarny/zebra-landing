@@ -262,6 +262,8 @@ Lectura util:
 
 Zebra ayuda a guardar cambios de color, tiempo de pie, postura, mareo, frecuencia cardiaca, compresion, hidratacion, sal, recuperacion, impacto funcional y preguntas para el medico en una sola linea de tiempo.
 
+Si el blood pooling es parte de tu seguimiento de POTS, el [registro de POTS de Zebra](/es-es/pots-tracker/) puede ayudar a mantener juntos color, tiempo de pie, sintomas, sal, agua y notas de citas.
+
 No diagnostica blood pooling ni problemas de circulacion. Ayuda a llevar notas mas claras al medico.
 
 ## Puntos clave

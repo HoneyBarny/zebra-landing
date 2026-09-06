@@ -237,6 +237,8 @@ Informacion util:
 
 Zebra ayuda a mantener notas de [prueba ortostatica](/es-es/knowledge/orthostatic-test/), sintomas, frecuencia cardiaca, presion arterial, medicamentos, hidratacion, contexto de sal, desencadenantes y preguntas para citas en un solo lugar.
 
+Para el seguimiento mas amplio de sintomas, brotes y citas relacionadas con POTS, el [diario POTS](/es-es/pots-tracker/) es el punto de partida mas adecuado.
+
 No diagnostica POTS ni interpreta tus lecturas. Ayuda a llevar un registro mas claro a la persona que si puede hacerlo.
 
 ## Puntos clave

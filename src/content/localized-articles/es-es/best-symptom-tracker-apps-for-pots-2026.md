@@ -113,7 +113,7 @@ Los mayores diferenciadores del posicionamiento actual de Zebra son:
 
 Si tu pregunta principal es "Como dejo de llegar sin preparacion?", Zebra es la opcion mas fuerte en este grupo.
 
-Para la version especifica de citas de esta decision, consulta [Mejor app para preparar una cita de cardiologia por POTS](/blog/best-app-for-pots-cardiology-appointment-prep/).
+Para la version especifica de citas de esta decision, consulta [Mejor app para preparar una cita de cardiologia por POTS](/blog/best-app-for-pots-cardiology-appointment-prep/). Para ver directamente el camino de Zebra, la pagina [Registro de POTS](/es-es/pots-tracker/) es el punto de entrada mas directo.
 
 ## Bearable: mejor si quieres personalizacion amplia
 

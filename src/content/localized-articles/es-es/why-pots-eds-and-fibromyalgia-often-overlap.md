@@ -113,6 +113,8 @@ Esto crea un registro que sigue siendo util incluso cuando la interpretacion exa
 
 Zebra se posiciono especificamente alrededor de este problema de solapamiento. Esta disenado para personas cansadas de intentar forzar realidades de POTS, EDS y fibromialgia en herramientas separadas y cajas mentales separadas.
 
+La pagina [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/) presenta este mismo enfoque para quienes manejan varias condiciones invisibles a la vez.
+
 ## Puntos clave
 
 - POTS, EDS y fibromialgia pueden solaparse en patrones de sintomas vividos aunque son condiciones distintas.

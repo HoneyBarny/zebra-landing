@@ -104,6 +104,8 @@ Cela peut rendre les conversations de soins plus faciles a preparer.
 
 Zebra aide a garder l historique de symptomes et les observations liees a la posture dans le meme dossier, ce qui est particulierement utile lorsque les symptomes en position debout font partie du tableau plus large que vous essayez d expliquer.
 
+Quand POTS est au centre du tableau, le [journal POTS](/fr-fr/pots-tracker/) est le point d entree le plus adapte.
+
 ## Points cles
 
 - L intolerance orthostatique signifie que les symptomes s aggravent en position verticale et s ameliorent en position allongee.

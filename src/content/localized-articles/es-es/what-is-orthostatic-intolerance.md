@@ -104,6 +104,8 @@ Eso puede facilitar la preparacion de conversaciones medicas.
 
 Zebra ayuda a mantener el historial de sintomas y las observaciones relacionadas con la postura en el mismo registro, algo especialmente util cuando los sintomas al estar de pie forman parte del cuadro mas amplio que intentas explicar.
 
+Cuando POTS es el centro del cuadro, el [diario POTS](/es-es/pots-tracker/) es el punto de partida mas adecuado.
+
 ## Ideas clave
 
 - La intolerancia ortostatica significa que los sintomas empeoran en posicion vertical y mejoran al tumbarse.

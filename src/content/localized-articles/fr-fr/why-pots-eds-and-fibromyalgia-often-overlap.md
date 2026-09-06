@@ -113,6 +113,8 @@ Cela cree un dossier qui reste utile meme quand l'interpretation exacte evolue e
 
 Zebra a ete positionne specifiquement autour de ce probleme de chevauchement. Il est concu pour les personnes fatiguees d'essayer de forcer les realites POTS, EDS et fibromyalgie dans des outils separes et des cases mentales separees.
 
+La page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) presente cette meme approche pour les personnes qui gerent plusieurs conditions invisibles a la fois.
+
 ## Points cles
 
 - POTS, EDS et fibromyalgie peuvent se chevaucher dans les tendances de symptomes vecues, meme si ce sont des conditions distinctes.

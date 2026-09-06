@@ -107,6 +107,8 @@ Cela compte quand meme.
 
 La proposition de valeur de Zebra est construite autour de la reduction de l'effort les jours difficiles, au lieu d'en demander plus. Le dossier aide seulement si vous pouvez encore l'utiliser quand les symptomes sont au pire.
 
+Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutot qu'une application de bien-etre generale, la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) explique cette approche.
+
 ## Points cles
 
 - Le suivi echoue les mauvais jours parce que les symptomes reduisent la capacite necessaire pour les noter.

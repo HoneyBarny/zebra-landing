@@ -107,6 +107,8 @@ Eso todavia cuenta.
 
 La propuesta de valor de Zebra esta construida alrededor de reducir el esfuerzo en dias dificiles en lugar de pedir mas. El registro solo ayuda si todavia puedes usarlo cuando los sintomas estan peor.
 
+Para quienes buscan un seguimiento pensado para la enfermedad invisible en lugar de una app de bienestar generica, la pagina [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/) explica este enfoque.
+
 ## Puntos clave
 
 - El rastreo falla en dias malos porque los sintomas reducen la capacidad necesaria para registrarlos.

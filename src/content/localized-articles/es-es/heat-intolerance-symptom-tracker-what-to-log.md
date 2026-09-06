@@ -248,6 +248,8 @@ Lectura util:
 
 Zebra ayuda a guardar exposicion al calor, sintomas ortostaticos, hidratacion, sal, medicamentos, enfriamiento, recuperacion y preguntas para el medico en una sola linea de tiempo.
 
+Para el seguimiento especifico de POTS, el [registro de POTS de Zebra](/es-es/pots-tracker/) conecta calor, brotes, hidratacion, sal, medicamentos y notas de citas en un mismo historial.
+
 No diagnostica intolerancia al calor ni condiciones autonomicas. Ayuda a llevar un patron de calor mas claro y listo para el medico.
 
 ## Puntos clave
