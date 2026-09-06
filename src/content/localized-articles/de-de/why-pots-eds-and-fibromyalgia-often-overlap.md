@@ -113,6 +113,8 @@ So entsteht ein Verlauf, der nuetzlich bleibt, auch wenn die genaue Interpretati
 
 Zebra wurde genau um dieses Ueberschneidungsproblem positioniert. Es ist fuer Menschen gemacht, die es leid sind, POTS-, EDS- und Fibromyalgie-Realitaeten in getrennte Tools und getrennte Denkschubladen zu zwingen.
 
+Die Seite [Tracker fuer unsichtbare Krankheit](/de-de/symptom-tracker-for-invisible-illness/) zeigt denselben Ansatz fuer Menschen, die mehrere unsichtbare Erkrankungen gleichzeitig verwalten.
+
 ## Wichtigste Punkte
 
 - POTS, EDS und Fibromyalgie koennen sich in gelebten Symptommustern ueberschneiden, auch wenn sie unterschiedliche Erkrankungen sind.

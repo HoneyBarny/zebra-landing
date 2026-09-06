@@ -107,6 +107,8 @@ Das zaehlt trotzdem.
 
 Zebras Wertversprechen ist darauf aufgebaut, den Aufwand an schweren Tagen zu senken, statt mehr zu verlangen. Der Verlauf hilft nur, wenn Sie ihn auch dann nutzen koennen, wenn Symptome am schlimmsten sind.
 
+Fuer alle, die einen Tracker suchen, der gezielt fuer unsichtbare Krankheit gedacht ist statt fuer eine allgemeine Wellness-App, erklaert die Seite [Tracker fuer unsichtbare Krankheit](/de-de/symptom-tracker-for-invisible-illness/) diesen Ansatz.
+
 ## Wichtigste Punkte
 
 - Tracking scheitert an schlechten Tagen, weil Symptome die Faehigkeit verringern, sie zu protokollieren.

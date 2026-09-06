@@ -164,6 +164,8 @@ Er ist leichter zu pruefen, leichter zu besprechen und weniger von perfekter Eri
 
 Zebra ist genau um diesen Arbeitsablauf gebaut. Es geht nicht nur darum, Symptome zu loggen. Es geht darum, Symptomverlauf, Schuebe, Funktion, Medikamente, Hydration und verwandte Beobachtungen zusammenzuhalten, damit daraus spaeter ein arztbereiter Bericht werden kann.
 
+Genau dieser Ansatz steht im Mittelpunkt der Seite [Tracker fuer unsichtbare Krankheit](/de-de/symptom-tracker-for-invisible-illness/), die fuer Tage mit wenig Energie und Brain Fog gedacht ist.
+
 Zebra diagnostiziert keine Erkrankungen und kontrolliert nicht, wie ein Arzt oder eine Aerztin reagiert. Es hilft, von Patientinnen und Patienten eingegebenen Verlauf zu organisieren, damit das Gespraech leichter vorzubereiten ist.
 
 ## Wichtigste Punkte
