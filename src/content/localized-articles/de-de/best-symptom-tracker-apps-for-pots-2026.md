@@ -66,6 +66,8 @@ Wenn Sie nach der besten Symptomtracker-App fuer POTS suchen, haengt die richtig
 
 Der frustrierende Teil ist, dass viele Menschen mit POTS nicht nach "einer App" suchen. Sie suchen nach einem Weg, nicht jedes Mal drei oder vier Tools zusammenflicken zu muessen, wenn ein Termin ansteht.
 
+Wenn Sie direkt den Zebra-Pfad sehen moechten, ist die deutsche Owner-Seite als [POTS-Tagebuch und POTS-Symptomtracker](/de-de/pots-tracker/) der passendste Einstieg.
+
 Wenn Sie POTS, Dysautonomie und EDS zusammen vergleichen, starten Sie mit der breiteren Uebersicht: [Bester Symptomtracker fuer POTS, Dysautonomie und EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
 ## Was macht einen POTS-Tracker wirklich nuetzlich?
@@ -112,6 +114,8 @@ Die groessten Unterschiede in Zebras aktueller Positionierung sind:
 - ein arztbereiter Bericht als Nutzen des Trackings
 
 Wenn Ihre Hauptfrage lautet: "Wie hoere ich auf, unvorbereitet zum Termin zu kommen?", ist Zebra in dieser Auswahl die staerkste Wahl.
+
+Der naechste sinnvolle Schritt ist oft, orthostatische Beobachtungen nicht separat zu sammeln, sondern sie mit Symptomen und Notizen im [Schellong-Test- und Orthostase-Ablauf](/de-de/orthostatic-vitals-test/) zu dokumentieren.
 
 Fuer die terminspezifische Version dieser Entscheidung lesen Sie [Beste App fuer POTS-Kardiologie-Terminvorbereitung](/blog/best-app-for-pots-cardiology-appointment-prep/).
 

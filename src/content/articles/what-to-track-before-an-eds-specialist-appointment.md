@@ -239,7 +239,7 @@ That is enough to create a useful recent history without overbuilding the proces
 
 Zebra is built for the part that usually falls apart before the appointment: keeping symptoms, overlap context, daily function, and question prep in one record that still makes sense later.
 
-If you want the report side of that workflow, [What Is a Doctor-Ready Symptom Report?](/blog/what-is-a-doctor-ready-symptom-report/) explains what a useful summary actually contains.
+If you want the report side of that workflow, [What Is a Doctor-Ready Symptom Report?](/blog/what-is-a-doctor-ready-symptom-report/) explains what a useful summary actually contains. Zebra's [EDS symptom tracker](/eds-tracker/) keeps the recent history and appointment context together.
 
 ## Key takeaways
 

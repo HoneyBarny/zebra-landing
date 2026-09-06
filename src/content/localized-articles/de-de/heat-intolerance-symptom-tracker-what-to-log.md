@@ -8,10 +8,10 @@ description: "Lernen Sie, was Sie bei Hitzeintoleranz fuer POTS, Dysautonomie un
 excerpt: "Ein praktischer Leitfaden fuer hitzegetriggerte Symptome, warme Raeume, heisse Duschen, Hydration, Salz, Herzfrequenz, Schwindel, Schwitzen, Kuehlung, Erholung und Arztzusammenfassungen."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-08-09"
-nextReview: "2027-02-09"
-lastReviewed: "2026-08-09"
-reviewedAt: "2026-08-09"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -78,7 +78,9 @@ faq:
     answer: "Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte fuer Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Hitze kann fuer viele Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), EDS- oder HSD-Ueberschneidung, Long COVID, ME/CFS, Migraene oder chronischen Flares einen machbaren Tag in einen symptomlastigen Tag verwandeln. Ein heisser Raum, Sommerwetter, warme Dusche, Schlange stehen, oeffentlicher Verkehr, Kochen, Bewegung oder zu wenig Fluessigkeit koennen in derselben Timeline stehen.
+Hitze kann fuer viele Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), EDS- oder HSD-Ueberschneidung, Long COVID, ME/CFS, Migraene oder chronischen Flares einen machbaren Tag in einen symptomlastigen Tag verwandeln. Ein heisser Raum, Sommerwetter, warme Dusche, Schlange stehen, oeffentlicher Verkehr, Kochen, Bewegung oder zu wenig Fluessigkeit koennen in derselben Timeline stehen. Bei Farbveraenderungen der Beine im Stehen hilft der Leitfaden zu [Blood Pooling und Beinverfaerbung](/de-de/blog/blood-pooling-leg-discoloration-symptom-tracker/).
+
+Fuer POTS-spezifisches Tracking verbindet das [Zebra POTS-Tagebuch](/de-de/pots-tracker/) Hitze, Schuebe, Hydration, Salz, Medikamente und Arztterminnotizen in einem Verlauf.
 
 Ein Hitzeintoleranz-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein klareres Muster zum Arzt mitzunehmen: was die Hitzeexposition war, welche Symptome folgten, was half, wie lange Erholung dauerte und was sich im Alltag veraenderte.
 
@@ -243,6 +245,8 @@ Hilfreicher Hintergrund:
 - [The Ehlers-Danlos Society hEDS](https://www.ehlers-danlos.com/heds/)
 - [Dysautonomie bei EDS und HSD Review auf PubMed](https://pubmed.ncbi.nlm.nih.gov/34766441/)
 - [NIH News in Health POTS Ueberblick](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
+- [Cleveland Clinic: Hitzeintoleranz](https://my.clevelandclinic.org/health/symptoms/heat-intolerance)
+- [Gesundheitsinformation.de: Wann schadet Hitze der Gesundheit?](https://www.gesundheitsinformation.de/wann-schadet-hitze-der-gesundheit.html)
 
 ## Wo Zebra passt
 

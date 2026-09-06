@@ -41,6 +41,16 @@ export const categoryMeta = {
     name: 'Dysautonomia',
     description: 'Resources for orthostatic symptoms, autonomic dysfunction, and the practical side of keeping a usable record.',
   },
+  eds: {
+    slug: 'eds',
+    name: 'EDS',
+    description: 'EDS and hypermobility-focused tracking, overlap symptoms, and appointment-prep guidance.',
+  },
+  fibromyalgia: {
+    slug: 'fibromyalgia',
+    name: 'Fibromyalgia',
+    description: 'Fibromyalgia flare, pain, fatigue, brain fog, and symptom-summary guidance for appointment preparation.',
+  },
   'appointment-preparation': {
     slug: 'appointment-preparation',
     name: 'Appointment Preparation',
@@ -375,9 +385,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'orthostatic-test',
     name: 'Orthostatic Test',
-    summary: 'A guided way to record lying, sitting, and standing observations so position-based changes stay connected to the rest of the day.',
+    summary: 'A guided way to record lying, standing, and recovery observations so position-based changes stay connected to the rest of the day.',
     definition:
-      'The orthostatic test page explains Zebra’s guided lying, sitting, and standing workflow and why position-based observations are more useful when saved in the same timeline as symptoms and notes.',
+      'The orthostatic test page explains Zebra’s guided lying, standing, and recovery workflow and why position-based observations are more useful when saved in the same timeline as symptoms and notes.',
     entityType: 'measurement',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'doctor-reports'],
     hubSection: 'testing',

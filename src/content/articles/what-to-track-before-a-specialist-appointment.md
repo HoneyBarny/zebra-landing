@@ -246,7 +246,7 @@ If you are short on energy, use this structure:
 
 - my top three questions
 
-This is enough for a strong appointment summary even if you are not tracking perfectly.
+This is enough for a strong appointment summary even if you are not tracking perfectly. Zebra's [appointment prep checklist](/appointment-prep-checklist/) turns the same priorities into a focused workflow.
 
 ## How far back should you track?
 

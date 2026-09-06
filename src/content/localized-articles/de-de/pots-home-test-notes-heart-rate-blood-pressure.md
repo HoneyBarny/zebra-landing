@@ -1,31 +1,31 @@
 ---
 locale: "de-de"
 originalSlug: "pots-home-test-notes-heart-rate-blood-pressure"
-title: "POTS-Heimtest-Notizen: Was Sie mit Puls und Blutdruck erfassen"
+title: "POTS-Test zuhause: Schellong-Test-Notizen mit Puls und Blutdruck"
 status: "published"
-subtitle: "Orthostatische Notizen zu Hause sind am nuetzlichsten, wenn Zahlen mit Haltung, Zeitpunkt, Symptomen, Medikamenten, Fluessigkeit und Sicherheitskontext verbunden bleiben. Das Ziel ist keine Selbstdiagnose, sondern klarere Beobachtungen fuer den Arzt."
-description: "Lernen Sie, was Sie bei POTS-Heimtest-Notizen erfassen sollten: Puls, Blutdruck, Haltung, Zeitpunkt, Symptome, Medikamente, Fluessigkeit und Sicherheit."
-excerpt: "Ein praktischer Leitfaden fuer Puls, Blutdruck, Symptome und Kontext bei POTS- oder orthostatischer Intoleranz."
+subtitle: "Wenn Sie zu Hause orthostatische Werte oder Schellong-Test-Notizen sammeln, ist nicht ein einzelner Pulswert entscheidend. Nuetzlicher ist eine kurze Aufzeichnung mit Haltung, Zeitpunkt, Symptomen, Medikamenten, Fluessigkeit, Sicherheitskontext und der Frage fuer den Arzt."
+description: "Was bei einem POTS-Test zuhause oder Schellong-Test-Notizen nuetzlich sein kann: Haltung, Zeit, Puls, Blutdruck, Symptome, Medikamente, Fluessigkeit und Sicherheit."
+excerpt: "Ein praktischer Leitfaden fuer POTS-Test zuhause, Schellong-Test-Notizen, Puls, Blutdruck, Symptome und Kontext fuer Arzttermine."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-08-08"
+updatedAt: "2026-09-02"
 nextReview: "2027-02-08"
-lastReviewed: "2026-08-08"
-reviewedAt: "2026-08-08"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "POTS"
 category: "POTS"
-primaryKeyword: "POTS Heimtest Notizen"
-seoTitle: "POTS-Heimtest-Notizen: Puls und Blutdruck | Zebra"
-metaDescription: "Erfassen Sie POTS-Heimtest-Notizen mit Puls, Blutdruck, Haltung, Zeitpunkt, Symptomen, Fluessigkeit, Medikamenten und Fragen fuer den Arzt."
-ogTitle: "POTS-Heimtest-Notizen: Was Sie erfassen"
-ogDescription: "Ein praktischer Leitfaden fuer orthostatischen Puls, Blutdruck, Symptome und Kontext."
+primaryKeyword: "POTS Test zuhause Schellong Test Notizen"
+seoTitle: "POTS-Test zuhause: Schellong-Notizen | Zebra"
+metaDescription: "POTS-Test zuhause oder Schellong-Test-Notizen: Puls, Blutdruck, Haltung, Zeitpunkt, Symptome, Medikamente, Fluessigkeit und Arztfragen erfassen."
+ogTitle: "POTS-Test zuhause: Schellong-Test-Notizen"
+ogDescription: "Ein praktischer Leitfaden fuer orthostatische Notizen mit Puls, Blutdruck, Symptomen und Kontext."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Zebra Orthostase-Test Ansicht mit positionsbezogener Symptom- und Vitalwert-Erfassung."
 ctaLabel: "Zebra herunterladen"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Nutzen Sie Zebra, um orthostatische Notizen, Symptome, Vitalwerte, Fluessigkeit, Medikamente und Arztfragen in einer Timeline zu behalten."
+ctaNote: "Nutzen Sie Zebra, um orthostatische Notizen, Symptome, Vitalwerte, Fluessigkeit, Medikamente, Alltagsauswirkung und Arztfragen in einer Timeline zu behalten."
 categories:
   - "POTS"
   - "Dysautonomia"
@@ -33,9 +33,12 @@ categories:
   - "Appointment Preparation"
 tags:
   - "POTS Heimtest"
+  - "POTS Test zuhause"
+  - "Schellong-Test"
   - "Puls"
   - "Blutdruck"
   - "orthostatischer Test"
+  - "Stehtest"
   - "active stand test"
 entities:
   - "POTS"
@@ -52,17 +55,18 @@ entities:
   - "Medication Tracking"
   - "Doctor-Ready Report"
 secondaryKeywords:
-  - "POTS Puls Blutdruck Log"
-  - "orthostatischer Heimtest Notizen"
-  - "active stand test Notizen"
+  - "POTS Test zuhause"
+  - "Schellong Test zuhause"
+  - "orthostatischer Test Notizen"
+  - "Stehtest Notizen"
   - "was fuer POTS Termin erfassen"
 schemaTypes:
   - "Article"
   - "HowTo"
   - "FAQPage"
 faq:
-  - question: "Was sollte ich bei einem POTS-Heimtest erfassen?"
-    answer: "Erfassen Sie Haltung, Zeit, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit, Salz wenn relevant fuer Ihren Behandlungsplan und Sicherheitsnotizen."
+  - question: "Was sollte ich bei einem POTS-Test zuhause oder Schellong-Test-Notizen erfassen?"
+    answer: "Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit oder Salz wenn relevant fuer Ihren Behandlungsplan, Sicherheitsnotizen und die Frage fuer den Arzt."
   - question: "Kann ein Stehtest zu Hause POTS diagnostizieren?"
     answer: "Nein. Heimnotizen koennen ein Arztgespraech unterstuetzen, aber POTS-Diagnose braucht klinische Einordnung und das Ausschliessen anderer Ursachen fuer Tachykardie oder orthostatische Symptome."
   - question: "Wann sollte ich eine orthostatische Messung zu Hause stoppen?"
@@ -73,9 +77,26 @@ faq:
     answer: "Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte fuer Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Heimnotizen fuer [POTS](/de-de/knowledge/pots/) oder [orthostatische Intoleranz](/de-de/knowledge/orthostatic-intolerance/) sind am nuetzlichsten, wenn Puls und Blutdruck mit Haltung, Zeitpunkt, Symptomen und Kontext verbunden bleiben.
+Notizen zu einem POTS-Test zuhause, Stehtest oder [Schellong-Test](/de-de/orthostatic-vitals-test/) sind am nuetzlichsten, wenn Puls und Blutdruck mit Haltung, Zeitpunkt, Symptomen und Kontext verbunden bleiben.
+
+Wenn Sie diese Beobachtungen in Zebra sammeln wollen, fuehrt die Seite zum [Schellong-Test und orthostatischen Werten](/de-de/orthostatic-vitals-test/) durch den passenden Dokumentationspfad. Fuer den breiteren Verlauf rund um Symptome, Schuebe und Arzttermine ist das [POTS-Tagebuch](/de-de/pots-tracker/) der bessere Einstieg.
 
 Zahlen allein koennen taeuschen. Ein Pulswert ohne "liegend, stehend, Minute 2, schwindelig, Medikament genommen" ist viel weniger hilfreich als eine einfache Timeline. Das Ziel ist keine Selbstdiagnose zu Hause. Das Ziel ist, klarere Beobachtungen zum Arzt mitzunehmen.
+
+Kurz gesagt: Notieren Sie Setup, Haltung, Messzeitpunkt, Puls, Blutdruck, Symptome im selben Moment, Erholung, Sicherheitsgrund fuer einen Abbruch und die Frage, die Sie beim Termin klaeren wollen.
+
+## Heimnotizen sind kein medizinisches Testergebnis
+
+Ein klinischer Schellong-Test oder orthostatischer Test gehoert in die medizinische Einordnung. Heimwerte koennen ein Arztgespraech unterstuetzen, aber sie ersetzen keine Untersuchung. Geraete messen unterschiedlich, Symptome koennen schnell wechseln, und Puls oder Blutdruck koennen durch viele Faktoren beeinflusst werden.
+
+Formulieren Sie Heimnotizen als Beobachtung:
+
+- "Minute 2 im Stehen, schwindelig, Puls 112, Blutdruck 110/72"
+- "Liegen half nach 4 Minuten"
+- "Morgendosis Medikament war genommen"
+- "Koennen wir besprechen, was das bedeutet?"
+
+Das ist nuetzlicher und sicherer als: "Ich habe mich selbst diagnostiziert."
 
 ## Mit Sicherheit beginnen
 
@@ -111,7 +132,7 @@ Notieren Sie:
 
 Die Heart Rhythm Society beschreibt, dass POTS-Symptome beim Stehen auftreten und haeufig Benommenheit, Herzklopfen, Zittern, Schwaeche, verschwommenes Sehen, Belastungsintoleranz und Fatigue einschliessen. Kontext hilft Ihrem Arzt, die Zahlen einzuordnen.
 
-## Haltung plus Zeit nutzen
+## Schellong-Test, Stehtest und Haltung plus Zeit
 
 Verbinden Sie jeden Wert mit Haltung und Zeitpunkt.
 
@@ -125,7 +146,7 @@ Nuetzliche Labels:
 - Stehen Minute 10, nur wenn sicher und vom Arzt erlaubt
 - Erholung nach Sitzen oder Liegen
 
-Das American College of Cardiology beschreibt einen 10-Minuten-Active-Stand-Test mit Messungen nach Rueckenlage, direkt nach dem Aufstehen und nach 2, 5 und 10 Minuten. Der NASA 10 Minute Lean Test von Bateman Horne Center nutzt wiederholte Puls- und Blutdruckwerte mit Symptom-Beobachtung. Ihr Arzt kann sagen, welches Format fuer Sie passt.
+Deutsche Quellen verwenden fuer diesen Themenbereich Begriffe wie Schellong-Test, Stehtest und Orthostase-Test. DocCheck beschreibt den Schellong-Test als Funktionstest, der Veraenderungen von Herzfrequenz und Blutdruck unter orthostatischer Belastung betrachtet. Welche Form, Dauer und Messpunkte fuer Sie sinnvoll sind, sollte Ihr Arzt festlegen.
 
 ## Puls und Blutdruck zusammen erfassen
 
@@ -224,18 +245,38 @@ Nutzen Sie diese Struktur:
 
 Kurze, konstante Notizen sind nuetzlicher als einmal perfekte Daten.
 
+## Was Sie zum Arzttermin mitbringen
+
+Bringen Sie eine kurze Zusammenfassung, nicht jede einzelne Rohmessung.
+
+Hilfreich sind:
+
+- zwei oder drei klare Beispiele
+- Werte, nach denen Ihr Arzt gefragt hat
+- Symptome, die im Stehen auftraten
+- ob Sitzen oder Liegen half
+- Medikamenten- oder Fluessigkeitskontext
+- was danach im Alltag nicht mehr ging
+- Ihre naechste Frage
+
+Wenn Sie aus mehreren Wochen eine kuerzere Zusammenfassung brauchen, hilft der [Symptombericht fuer den Arzt](/de-de/doctor-report/). Fuer den Terminablauf fuehrt die [Vorbereitung auf den Arzttermin](/de-de/appointment-prep-checklist/) weiter.
+
 ## Quellenkontext
 
 Hilfreiche Hintergruende:
 
 - [Bateman Horne Center NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
 - [Heart Rhythm Society Konsensus zu POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
+- [DocCheck Flexikon: Schellong-Test](https://flexikon.doccheck.com/de/Stehtest)
+- [CHUV: Test de Schellong](https://catalogue.chuv.ch/care/procedures-de-soin/fiche/care_process_9/test-de-schellong)
+- [Johns Hopkins Medicine: Tilt Table Testing](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/tilt-table-testing)
+- [Mayo Clinic: Tilt table test](https://www.mayoclinic.org/tests-procedures/tilt-table-test/about/pac-20395124)
 - [ACC 2022 Active-Stand-Test Beschreibung](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003)
 - [Diagnosis and management of POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8920526/)
 
 ## Wo Zebra hilft
 
-Zebra hilft, [orthostatische Test](/de-de/knowledge/orthostatic-test/)-Notizen, Symptome, Puls, Blutdruck, Medikamente, Fluessigkeit, Salzkontext, Ausloeser und Arztfragen an einem Ort zu behalten.
+Zebra hilft, [orthostatische Testnotizen](/de-de/orthostatic-vitals-test/), Symptome, Puls, Blutdruck, Medikamente, Fluessigkeit, Salzkontext, Ausloeser, Alltagsauswirkung und Arztfragen an einem Ort zu behalten.
 
 Zebra diagnostiziert POTS nicht und interpretiert Ihre Werte nicht. Es hilft, eine klarere Aufzeichnung zum Arzt mitzunehmen.
 
@@ -249,9 +290,9 @@ Zebra diagnostiziert POTS nicht und interpretiert Ihre Werte nicht. Es hilft, ei
 
 ## FAQ
 
-### Was sollte ich bei einem POTS-Heimtest erfassen?
+### Was sollte ich bei einem POTS-Test zuhause oder Schellong-Test-Notizen erfassen?
 
-Erfassen Sie Haltung, Zeit, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit, Salz wenn relevant fuer Ihren Behandlungsplan und Sicherheitsnotizen.
+Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit oder Salz wenn relevant fuer Ihren Behandlungsplan, Sicherheitsnotizen und die Frage fuer den Arzt.
 
 ### Kann ein Stehtest zu Hause POTS diagnostizieren?
 

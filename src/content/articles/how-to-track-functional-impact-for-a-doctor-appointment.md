@@ -156,7 +156,7 @@ That can become part of a [doctor-ready report](/knowledge/doctor-ready-report/)
 
 ## Where Zebra fits
 
-Zebra keeps symptoms, flares, and functional impact together so your report can show not just what you felt, but what the symptoms changed in daily life.
+Zebra keeps symptoms, flares, and functional impact together so your [doctor-ready report](/doctor-report/) can show not just what you felt, but what the symptoms changed in daily life. Use the [appointment prep checklist](/appointment-prep-checklist/) to decide what belongs in the recent summary.
 
 ## Key takeaways
 

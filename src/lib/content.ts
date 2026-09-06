@@ -29,6 +29,33 @@ export function categoryUrl(slug: string) {
   return `${siteConfig.routes.blog}category/${slug}/`;
 }
 
+const categorySlugAliases: Record<string, string> = {
+  comparison: 'comparisons',
+  'pots and dysautonomia tracking': 'pots',
+  'symptom tracking and proof': 'symptom-tracking',
+  'reference / glossary': 'symptom-tracking',
+  'reference glossary': 'symptom-tracking',
+  eds: 'eds',
+  fibromyalgia: 'fibromyalgia',
+  'flare tracking': 'symptom-tracking',
+  'flare-tracking': 'symptom-tracking',
+  travel: 'symptom-tracking',
+  symptomtracking: 'symptom-tracking',
+  dysautonomie: 'dysautonomia',
+  terminvorbereitung: 'appointment-preparation',
+  reisen: 'symptom-tracking',
+  'registro de sintomas': 'symptom-tracking',
+  disautonomia: 'dysautonomia',
+  fatiga: 'fatigue',
+  'preparacion de consulta': 'appointment-preparation',
+  'registro de brotes': 'symptom-tracking',
+  viajes: 'symptom-tracking',
+  'suivi des symptomes': 'symptom-tracking',
+  'preparation de rendez-vous': 'appointment-preparation',
+  'suivi des poussees': 'symptom-tracking',
+  voyage: 'symptom-tracking',
+};
+
 export function entityUrl(slug: string) {
   return `${siteConfig.routes.knowledge}${slug}/`;
 }
@@ -86,7 +113,13 @@ function uniqueBySlug<T extends { slug: string }>(items: T[]) {
 
 export function categorySlugFromName(name: string) {
   const match = Object.values(categoryMeta).find((category) => category.name === name);
-  return match?.slug ?? slugify(name);
+  if (match) return match.slug;
+
+  return categorySlugAliases[name.toLowerCase()] ?? slugify(name);
+}
+
+export function categoryUrlFromName(name: string) {
+  return categoryUrl(categorySlugFromName(name));
 }
 
 export function entitySlugFromName(name: string) {

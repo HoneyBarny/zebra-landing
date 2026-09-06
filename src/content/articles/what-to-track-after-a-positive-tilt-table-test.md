@@ -1,29 +1,29 @@
 ---
 title: "What to Track After a Positive Tilt Table Test"
 status: "published"
-subtitle: "A positive tilt table test can leave you with more questions than answers. The useful next step is to track the symptoms, standing context, recovery time, medications, hydration, salt, and daily-life impact that help your clinician understand what the test result looks like outside the lab."
-description: "Learn what to track after a positive tilt table test, including symptoms, orthostatic context, recovery, medications, hydration, and appointment questions."
-excerpt: "A practical guide to tracking symptoms and context after a positive tilt table test for clearer follow-up appointments."
+subtitle: "After a positive tilt table test, your clinician decides what the result means and what happens next. You can help the follow-up visit by keeping a short record of symptoms, upright context, recovery, medications, hydration or salt if they are part of your care plan, flares, functional impact, and questions."
+description: "After a positive tilt table test, learn what symptom, upright-context, recovery, medication, hydration, flare, and appointment notes may help at follow-up."
+excerpt: "A practical guide to organizing symptom, upright-context, recovery, medication, hydration, flare, and appointment notes after a positive tilt table test."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-08-08"
+updatedAt: "2026-09-02"
 nextReview: "2027-02-08"
-lastReviewed: "2026-08-08"
-reviewedAt: "2026-08-08"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "POTS"
 category: "POTS"
 primaryKeyword: "what to track after positive tilt table test"
 seoTitle: "What to Track After a Positive Tilt Table Test | Zebra"
-metaDescription: "After a positive tilt table test, track symptoms, standing context, recovery, medications, hydration, salt, and questions for your follow-up appointment."
+metaDescription: "After a positive tilt table test, track symptoms, upright context, recovery, medications, hydration, flares, function, and follow-up questions."
 ogTitle: "What to Track After a Positive Tilt Table Test"
-ogDescription: "A practical tracking guide for the days and weeks after a positive tilt table test."
+ogDescription: "A practical tracking guide for organizing the days and weeks after a positive tilt table test."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Zebra orthostatic test screen showing position-based symptom and vital tracking."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra to keep orthostatic symptoms, vitals, medications, hydration, salt, notes, and appointment questions in one timeline."
+ctaNote: "Use Zebra to keep orthostatic observations, symptoms, medications, hydration, salt context, flares, notes, and appointment questions in one timeline."
 categories:
   - "POTS"
   - "Dysautonomia"
@@ -61,7 +61,7 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "What should I track after a positive tilt table test?"
-    answer: "Track symptoms, standing context, recovery time, medications, hydration, salt, functional impact, and questions for your follow-up appointment."
+    answer: "Track symptoms over time, upright context, recovery time, medications, hydration or salt if they are already part of your care plan, flares, possible observations, functional impact, and questions for your follow-up appointment."
   - question: "Does a positive tilt table test always mean POTS?"
     answer: "No. A positive result means your body responded abnormally during the test, but your clinician interprets the pattern with your symptoms, history, and other data."
   - question: "Should I keep tracking heart rate and blood pressure after the test?"
@@ -72,11 +72,13 @@ faq:
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-A positive [tilt table test](/knowledge/orthostatic-test/) can leave you with more questions than answers. The useful next step is to track the symptoms, standing context, recovery time, medications, hydration, salt, and daily-life impact that help your clinician understand what the test result looks like outside the lab.
+A positive [tilt table test](/knowledge/orthostatic-test/) usually does not mean you need to build a complicated health binder. Your clinician should explain what the result means and what happens next. Your job is simpler: keep a clear, dated record of symptoms, upright context, recovery, medications, hydration or salt if they are already part of your care plan, flares, functional impact, and questions for follow-up.
 
-This matters because the test is only one piece of the story. Cleveland Clinic explains that a tilt table test monitors heart rate, blood pressure, and symptoms while your body moves from lying flat to upright. A positive result means your body responded abnormally during the test, but the meaning depends on the pattern and your medical history.
+This matters because the test is one piece of the story. Cleveland Clinic explains that a tilt table test monitors heart rate, blood pressure, and symptoms while your body moves from lying flat to upright. A positive result means your body responded abnormally during the test, but the meaning depends on the pattern, your symptoms, and your medical history.
 
 The goal after the test is not to diagnose yourself. The goal is to bring cleaner follow-up notes.
+
+If you want one place to keep those follow-up notes, Zebra's [orthostatic vitals tracker](/orthostatic-vitals-test/) keeps patient-entered position-based observations beside symptoms, medications, hydration, salt context, and appointment notes.
 
 ## Start with what the report actually said
 
@@ -93,6 +95,12 @@ Useful details include:
 
 If the wording feels confusing, that is normal. Bring the exact wording to your follow-up instead of trying to translate it from memory.
 
+## What may happen next
+
+Follow-up after a positive tilt table test depends on why the test was ordered, what happened during the test, your history, and your clinician's judgment. Johns Hopkins notes that your provider may give different instructions depending on your situation. Cleveland Clinic also explains that a provider may look at monitor data, symptoms, and history together before discussing diagnosis or additional tests.
+
+You can prepare for that conversation by tracking what your clinician asked you to watch, plus anything that keeps affecting daily life. Do not use home notes to decide your diagnosis or change treatment on your own.
+
 ## Track what happens when you are upright
 
 The most useful post-test notes usually connect symptoms to position and time upright.
@@ -107,6 +115,8 @@ Track:
 - whether recovery took minutes, hours, or the rest of the day
 
 For people being evaluated for [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), or [orthostatic intolerance](/knowledge/orthostatic-intolerance/), this context can matter as much as the symptom names.
+
+If you need the broader POTS tracking workflow, use the [POTS symptom tracker](/pots-tracker/) page. If your main need is the appointment artifact, use the [doctor report](/doctor-report/) page.
 
 ## Keep symptoms short but specific
 
@@ -146,6 +156,20 @@ Useful notes include:
 
 The Heart Rhythm Society consensus statement notes that clinical history for suspected POTS should consider modifying factors and possible triggers, including dehydration, heat, alcohol, and exercise. Tracking these as context can make follow-up conversations more precise.
 
+## Keep a simple follow-up table
+
+Use the smallest table you can maintain:
+
+| What changed? | What to note | Why it may help later |
+| --- | --- | --- |
+| Symptoms | Main symptom, severity, start time | Shows what keeps happening outside the lab. |
+| Upright context | Standing, shower, stairs, heat, meals, errands | Connects symptoms to position and daily situations. |
+| Recovery | Sitting helped, lying helped, time to improve | Shows how long the episode affected you. |
+| Medications | Start, stop, dose change, missed dose, side effect concern | Helps your clinician review timing and safety questions. |
+| Hydration/salt | Only if relevant to your care plan | Keeps care-plan context beside symptoms. |
+| Flares | Date, severity, top symptoms, what changed | Shows patterns across days instead of one event. |
+| Function | What you had to cancel, stop, or get help with | Turns symptoms into real-life impact. |
+
 ## Add functional impact
 
 Functional impact is often the difference between "I felt dizzy" and "this changed my day."
@@ -177,18 +201,23 @@ After a positive tilt table test, consider bringing questions like:
 
 If you are worried about forgetting questions in the room, put them in your symptom tracker as soon as they come up.
 
+For a fuller appointment workflow, see Zebra's [appointment prep checklist](/appointment-prep-checklist/).
+
 ## Source context
 
 Helpful background:
 
 - [Cleveland Clinic tilt table test overview](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test)
+- [Johns Hopkins Medicine tilt table testing overview](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/tilt-table-testing)
+- [Mayo Clinic tilt table test overview](https://www.mayoclinic.org/tests-procedures/tilt-table-test/about/pac-20395124)
 - [MedlinePlus autonomic testing overview](https://medlineplus.gov/lab-tests/autonomic-testing/)
 - [Bateman Horne Center NASA 10 Minute Lean Test information](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
 - [Heart Rhythm Society consensus statement on POTS and vasovagal syncope](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
+- [EFAS/AAS/EAN consensus statement on tilt table testing](https://pmc.ncbi.nlm.nih.gov/articles/PMC8184725/)
 
 ## Where Zebra fits
 
-Zebra helps keep the after-test story in one place: symptoms, [orthostatic observations](/knowledge/orthostatic-test/), medications, hydration, salt, notes, triggers, and follow-up questions.
+Zebra helps keep the after-test story in one place: symptoms, [orthostatic observations](/orthostatic-vitals-test/), medications, hydration, salt context, flares, notes, triggers, functional impact, and follow-up questions.
 
 It does not interpret your test or diagnose POTS. It helps you organize what happens next so the follow-up appointment has less guessing.
 
@@ -204,7 +233,7 @@ It does not interpret your test or diagnose POTS. It helps you organize what hap
 
 ### What should I track after a positive tilt table test?
 
-Track symptoms, standing context, recovery time, medications, hydration, salt, functional impact, and questions for your follow-up appointment.
+Track symptoms over time, standing context, recovery time, medications, hydration or salt if they are already part of your care plan, flares, functional impact, and questions for your follow-up appointment.
 
 ### Does a positive tilt table test always mean POTS?
 

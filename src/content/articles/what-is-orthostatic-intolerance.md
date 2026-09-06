@@ -102,6 +102,8 @@ That can make care conversations easier to prepare for.
 
 Zebra helps keep symptom history and position-related observations in the same record, which is especially useful when upright symptoms are part of the bigger picture you are trying to explain.
 
+For the product workflow, see [tracking orthostatic vitals with Zebra](/orthostatic-vitals-test/).
+
 ## Key takeaways
 
 - Orthostatic intolerance means symptoms worsen upright and improve lying down.

@@ -15,7 +15,7 @@ const faqItems = [
   {
     question: 'Can Zebra track orthostatic vitals and heart rate?',
     answer:
-      'Yes. Zebra can keep lying, sitting, and standing orthostatic vitals in the same timeline as symptoms, flares, medications, sodium, hydration, notes, and appointment questions.',
+      'Yes. Zebra can keep lying, standing, and recovery orthostatic vitals in the same timeline as symptoms, flares, medications, sodium, hydration, notes, and appointment questions.',
   },
   {
     question: 'Can Zebra help with appointment prep?',
@@ -146,7 +146,7 @@ export const homePage = {
       },
       {
         title: 'Orthostatic vitals and heart rate',
-        body: 'Save lying, sitting, and standing observations with heart rate context and symptoms from the same day.',
+        body: 'Save lying, standing, and recovery observations with heart rate context and symptoms from the same day.',
       },
       {
         title: 'Sodium and hydration',
@@ -229,10 +229,10 @@ export const homePage = {
         label: 'POTS and dysautonomia',
         title: 'Track upright symptoms with orthostatic context.',
         body:
-          'Use Zebra as a POTS symptom tracker for dizziness, palpitations, fatigue, brain fog, hydration, salt, medication notes, and lying-sitting-standing observations.',
+          'Use Zebra as a POTS symptom tracker for dizziness, palpitations, fatigue, brain fog, hydration, salt, medication notes, and lying-standing-recovery observations.',
         pain: 'Best when you need to explain what happens after standing, heat, dehydration, medication changes, or a flare.',
-        href: '/knowledge/pots/',
-        cta: 'Open the POTS hub',
+        href: '/pots-tracker/',
+        cta: 'Open the POTS tracker',
       },
       {
         label: 'EDS / hEDS',
@@ -258,8 +258,8 @@ export const homePage = {
         body:
           'Use Zebra before a specialist visit to gather flares, top symptoms, orthostatic vitals, medication changes, questions, and daily-life impact in one place.',
         pain: 'Best when the visit is short and you do not want to spend it searching notes or guessing from memory.',
-        href: '/knowledge/chronic-illness-appointment-prep/',
-        cta: 'Open appointment prep',
+        href: '/doctor-report/',
+        cta: 'Open the doctor report page',
       },
     ],
     note:
@@ -364,7 +364,7 @@ export const homePage = {
       {
         label: 'Orthostatic tracking',
         generic: 'Generic trackers often separate vitals from symptoms, which makes POTS and dysautonomia history harder to review later.',
-        zebra: 'Zebra keeps lying, sitting, and standing orthostatic vitals beside the symptom timeline and daily context.',
+        zebra: 'Zebra keeps lying, standing, and recovery orthostatic vitals beside the symptom timeline and daily context.',
       },
       {
         label: 'Appointment prep',
@@ -446,7 +446,7 @@ export const homePage = {
         },
         {
           label: 'Orthostatic vitals',
-          body: 'Lying, sitting, and standing observations beside symptoms.',
+          body: 'Lying, standing, and recovery observations beside symptoms.',
         },
         {
           label: 'Meds, hydration, and salt',
@@ -514,7 +514,7 @@ export const homePage = {
       },
       {
         label: 'Orthostatic vitals',
-        body: 'Save lying, sitting, and standing observations with the same day’s symptoms and notes.',
+        body: 'Save lying, standing, and recovery observations with the same day’s symptoms and notes.',
       },
       {
         label: 'Function impact',
@@ -648,12 +648,12 @@ export const homePage = {
     title: 'Track orthostatic vitals where they actually belong.',
     intro: 'In the same record as everything else, not in a separate tool you have to reconcile later.',
     body: [
-      'Zebra keeps lying, sitting, and standing vitals connected to your symptoms instead of splitting them into another tool.',
+      'Zebra keeps lying, standing, and recovery vitals connected to your symptoms instead of splitting them into another tool.',
     ],
     momentLabel: 'The guided sequence',
     sequence: ['Lie down', 'Sit up', 'Stand', 'Save to the same timeline'],
     bullets: [
-      'Guided lying, sitting, standing flow',
+      'Guided lying, standing, recovery flow',
       'Same timeline as symptoms and meds',
       'Easier to review later with context',
     ],
@@ -899,7 +899,7 @@ export const homePage = {
       {
         href: '/orthostatic-vitals-test/',
         label: 'Orthostatic vitals test tracker',
-        description: 'A product page for tracking lying, sitting, and standing observations beside symptoms and daily context.',
+        description: 'A product page for tracking lying, standing, and recovery observations beside symptoms and daily context.',
       },
       {
         href: '/doctor-report/',
@@ -1178,6 +1178,14 @@ export const homePage = {
           availability: 'https://schema.org/InStock',
           url: siteConfig.appStore.url,
           description: 'Annual Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+        },
+        {
+          '@type': 'Offer',
+          price: '59.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Lifetime Premium unlocks Premium with a one-time purchase and no subscription renewal.',
         },
       ],
       featureList: [

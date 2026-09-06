@@ -69,6 +69,8 @@ faq:
 
 Eine Symptom-Checkliste fuer den Arzttermin hilft Ihnen, die richtigen Details mitzubringen, ohne im Wartezimmer die ganze Krankengeschichte aus dem Gedaechtnis rekonstruieren zu muessen. Die nuetzlichste Checkliste enthaelt Ihre wichtigsten Symptome, was sich veraendert hat, Schubmuster, Auswirkungen auf den Alltag, Medikamente, relevante Messwerte und die wichtigsten Fragen.
 
+Wenn Sie aus diesen Notizen eine pruefbare Zusammenfassung machen wollen, ist der [Symptombericht fuer den Arzt](/de-de/doctor-report/) der passende Zebra-Schritt. Fuer eine kurze Vorbereitung vor dem Termin gibt es ausserdem die [Arzttermin-Checkliste](/de-de/appointment-prep-checklist/).
+
 Das Ziel ist nicht, mit perfekten Aufzeichnungen zu erscheinen. Das Ziel ist, den Termin leichter nutzbar zu machen.
 
 Das ist bei chronischen Erkrankungen wichtig, weil Symptome sich langsam veraendern, sich ueberschneiden oder an Schubtagen verschwimmen koennen. Wenn Sie dann beim Arzt sitzen, ist es schwer zu erinnern, was diese Woche passiert ist, was letzten Monat war und was Sie fragen wollten.
@@ -88,7 +90,7 @@ Versuchen Sie vor dem Termin mitzubringen:
 - Ihre 3 wichtigsten Fragen
 - die eine Entscheidung, bei der Sie am meisten Hilfe brauchen
 
-Sie brauchen nicht jedes Detail. Sie brauchen die Details, die aus vager Erinnerung ein klareres Gespraech machen.
+Sie brauchen nicht jedes Detail. Sie brauchen die Details, die aus vager Erinnerung ein klareres Gespraech machen. Ein [Symptomtagebuch fuer den Arzttermin](/de-de/blog/what-is-a-symptom-journal/) kann helfen, diese Angaben vor der Zusammenfassung zu sammeln.
 
 ## 1. Wichtigste Symptome
 

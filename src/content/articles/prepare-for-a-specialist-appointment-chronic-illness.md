@@ -160,7 +160,7 @@ The AHRQ `Questions Are the Answer` materials are useful here because they encou
 
 Zebra is built for the month before the appointment, not just the ten minutes inside it. It helps you keep symptoms, flares, meds, function changes, and related observations in one history so you are not rebuilding them from memory at the last minute.
 
-That history can then support a doctor-ready report and a cleaner visit summary.
+That history can then support a [doctor-ready report](/doctor-report/) and a cleaner [appointment prep checklist](/appointment-prep-checklist/).
 
 ## Key takeaways
 

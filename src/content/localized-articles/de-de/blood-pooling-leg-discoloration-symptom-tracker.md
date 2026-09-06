@@ -8,10 +8,10 @@ description: "Lernen Sie, was Sie bei Blood Pooling, violetten Beinen, Fussverfa
 excerpt: "Ein praktischer Leitfaden fuer Blood Pooling, Bein- oder Fussverfaerbung, Schwellung, Schwere, Schmerz, Stehzeit, Haltung, Kompression, Hydration, Salz, Erholung und Arztzusammenfassungen."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-08-09"
-nextReview: "2027-02-09"
-lastReviewed: "2026-08-09"
-reviewedAt: "2026-08-09"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -78,6 +78,8 @@ faq:
 ---
 
 Manche Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), orthostatischer Intoleranz, EDS- oder HSD-Ueberschneidung, Long COVID oder chronischer Erkrankung bemerken Bein- oder Fussverfaerbungen beim Aufrechtsein. Beine koennen rot, violett, marmoriert, dunkel oder geschwollen aussehen. Fuesse koennen schwer, kalt, heiss, eng, schmerzhaft oder schwer beweglich wirken. Symptome koennen durch Sitzen, Liegen, Beine hochlegen, Kuehlung, Fluessigkeit, Salz oder Kompression besser werden.
+
+Wenn Blood Pooling Teil Ihres POTS-Verlaufs ist, kann das [POTS-Tagebuch in Zebra](/de-de/pots-tracker/) helfen, Farbe, Stehzeit, Symptome, Salz, Wasser und Terminnotizen zusammenzuhalten. Für die Vorbereitung helfen auch der [Symptombericht für den Arzt](/de-de/doctor-report/) und die [Vorbereitung auf den Arzttermin](/de-de/appointment-prep-checklist/).
 
 Ein Blood-Pooling-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein klareres Steh-Muster zum Arzt mitzunehmen.
 

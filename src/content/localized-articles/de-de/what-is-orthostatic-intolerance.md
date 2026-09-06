@@ -58,6 +58,8 @@ faq:
 
 Orthostatische Intoleranz ist ein Begriff dafuer, dass Symptome im aufrechten Sitzen oder Stehen auftreten oder schlimmer werden und sich im Liegen bessern. Er beschreibt ein Symptommuster, nicht fuer sich allein eine Diagnose.
 
+Wenn Sie dieses Muster fuer einen Termin dokumentieren wollen, verbindet Zebra [orthostatische Werte und Schellong-Test-Notizen](/de-de/orthostatic-vitals-test/) mit Symptomen, Medikamenten und Tageskontext. Wenn POTS im Mittelpunkt steht, ist das [POTS-Tagebuch](/de-de/pots-tracker/) der passende Owner-Pfad.
+
 Viele Menschen nutzen diesen Begriff, wenn sie ueber Schwindel, Benommenheit, Schwäche, Brain Fog, Palpitationen oder ein allgemeines Krankheitsgefuehl sprechen, das bei laengerem Aufrechtsein schlimmer wird.
 
 ## Welche Symptome koennen zu orthostatischer Intoleranz gehoeren?

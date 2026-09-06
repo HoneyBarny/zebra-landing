@@ -212,6 +212,8 @@ Helpful background:
 
 Zebra helps keep illness symptoms, flare changes, hydration, salt, medications, recovery, functional impact, and appointment questions in one timeline.
 
+For the product workflow, see the [flare tracker app](/flare-tracker/) page.
+
 It does not diagnose infection or autonomic conditions. It helps you bring a clearer, doctor-ready sick-day flare pattern to the clinician who can evaluate it.
 
 ## Key Takeaways

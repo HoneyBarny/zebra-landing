@@ -234,7 +234,7 @@ If you are heading into care soon, [What to Track Before a Specialist Appointmen
 
 ## What Zebra adds
 
-Zebra is designed for people whose history stops making sense when symptoms are scattered across different tools. Instead of separating overlap symptoms into isolated notes, it helps keep the timeline, context, and review flow connected in one record.
+Zebra is designed for people whose history stops making sense when symptoms are scattered across different tools. Instead of separating overlap symptoms into isolated notes, its [EDS symptom tracker](/eds-tracker/) helps keep the timeline, context, and review flow connected in one record.
 
 ## Key takeaways
 

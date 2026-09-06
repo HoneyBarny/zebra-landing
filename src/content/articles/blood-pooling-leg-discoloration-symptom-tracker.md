@@ -6,10 +6,10 @@ description: "Learn what to track for blood pooling, purple legs, foot discolora
 excerpt: "A practical guide to tracking blood pooling, leg or foot discoloration, swelling, heaviness, pain, standing time, posture, compression, hydration, salt, recovery, and appointment summaries."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-08-09"
-nextReview: "2027-02-09"
-lastReviewed: "2026-08-09"
-reviewedAt: "2026-08-09"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -66,7 +66,7 @@ faq:
   - question: "What should I track for blood pooling or purple legs?"
     answer: "Track color changes, swelling, heaviness, pain, skin temperature, standing time, body position, heart rate or blood pressure if already measured, dizziness, compression garments, hydration, salt, what helped, recovery time, and functional impact."
   - question: "Can blood pooling happen with POTS?"
-    answer: "Yes, POTS sources describe blood pooling in the lower body when upright, and some people notice reddish-purple discoloration of legs, feet, hands, or feet. A clinician should evaluate your pattern."
+    answer: "POTS sources describe blood pooling in the lower body when upright, and some people notice reddish-purple discoloration of the legs, feet, or hands. A clinician should evaluate your pattern."
   - question: "Can a tracker diagnose blood pooling?"
     answer: "No. A tracker can organize patterns for medical review, but it cannot diagnose POTS, dysautonomia, vascular disease, Raynaud's, acrocyanosis, clotting problems, or other causes of discoloration."
   - question: "When is leg discoloration urgent?"
@@ -76,6 +76,8 @@ faq:
 ---
 
 Some people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), orthostatic intolerance, EDS or HSD overlap, Long COVID, or chronic illness notice leg or foot color changes when upright. Legs may look red, purple, mottled, dusky, or swollen. Feet may feel heavy, cold, hot, tight, painful, or hard to move. Symptoms may improve after sitting, lying down, elevating legs, cooling, fluids, salt, or compression.
+
+If you want to keep those observations with your other POTS symptoms, the [Zebra POTS tracker](/pots-tracker/) connects them to a timeline. The [doctor report](/doctor-report/) and [appointment prep checklist](/appointment-prep-checklist/) help turn the pattern into questions for your clinician.
 
 A blood pooling symptom tracker does not diagnose POTS, dysautonomia, vascular disease, Raynaud's, acrocyanosis, clotting problems, or any other condition. It helps you bring a clearer standing-related pattern to a clinician who can evaluate it.
 

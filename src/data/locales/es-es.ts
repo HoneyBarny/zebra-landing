@@ -27,7 +27,7 @@ const faqItems = [
   {
     question: 'Puede Zebra registrar constantes ortostaticas y frecuencia cardiaca?',
     answer:
-      'Si. Zebra puede mantener mediciones tumbada, sentada y de pie en la misma linea temporal que sintomas, brotes, medicacion, sodio/sal, hidratacion, notas y preguntas para la cita.',
+      'Si. Zebra puede mantener mediciones tumbada, de pie y de recuperacion en la misma linea temporal que sintomas, brotes, medicacion, sodio/sal, hidratacion, notas y preguntas para la cita.',
   },
   {
     question: 'Puede Zebra ayudarme a preparar una cita?',
@@ -145,7 +145,7 @@ export const homePageEsEs = {
     items: [
       { title: 'Brotes de POTS y disautonomia', body: 'Registra intensidad, duracion, desencadenantes, recuperacion y que cambio para no reconstruir el brote de memoria despues.' },
       { title: 'Sintomas y niebla mental', body: 'Mantiene mareo, fatiga, dolor, palpitaciones, niebla mental, notas y sintomas solapados en un historial con fechas.' },
-      { title: 'Constantes ortostaticas y frecuencia cardiaca', body: 'Guarda observaciones tumbada, sentada y de pie con frecuencia cardiaca y sintomas del mismo dia.' },
+      { title: 'Constantes ortostaticas y frecuencia cardiaca', body: 'Guarda observaciones tumbada, de pie y de recuperacion con frecuencia cardiaca y sintomas del mismo dia.' },
       { title: 'Sodio e hidratacion', body: 'Registra sodio, sal, agua e hidratacion junto a sintomas, dejando las decisiones medicas sobre liquidos y sodio a tu equipo clinico.' },
       { title: 'Medicacion y notas', body: 'Anota horario, dosis, efectos, preguntas y cambios para que el contexto de medicacion sea mas facil de revisar.' },
       { title: 'Desencadenantes y contexto del registro', body: 'Captura actividad, estres, infeccion, calor o notas cuando importan, y saltatelos cuando estas agotada.' },
@@ -282,7 +282,7 @@ export const homePageEsEs = {
         'Un resumen claro para la cita creado a partir del historial que has registrado.',
       items: [
         { label: 'Linea temporal de sintomas', body: 'Cambios con fecha, brotes y frecuencia de sintomas.' },
-        { label: 'Constantes ortostaticas', body: 'Observaciones tumbada, sentada y de pie junto a los sintomas.' },
+        { label: 'Constantes ortostaticas', body: 'Observaciones tumbada, de pie y de recuperacion junto a los sintomas.' },
         { label: 'Medicacion, hidratacion y sal', body: 'Contexto que ayuda a explicar que cambio alrededor de un brote.' },
         { label: 'Notas y preguntas', body: 'Contexto de sintomas y preguntas importantes para la cita.' },
       ],
@@ -425,12 +425,12 @@ export const homePageEsEs = {
     title: 'Registra constantes ortostaticas donde realmente pertenecen.',
     intro: 'En el mismo historial que todo lo demas, no en otra herramienta que tengas que reconciliar despues.',
     body: [
-      'Zebra mantiene las mediciones tumbada, sentada y de pie conectadas con tus sintomas en lugar de separarlas en otra app.',
+      'Zebra mantiene las mediciones tumbada, de pie y de recuperacion conectadas con tus sintomas en lugar de separarlas en otra app.',
     ],
     momentLabel: 'La secuencia guiada',
     sequence: ['Tumbarse', 'Sentarse', 'Ponerse de pie', 'Guardar en la misma linea temporal'],
     bullets: [
-      'Flujo guiado tumbada, sentada y de pie',
+      'Flujo guiado tumbada, de pie y recuperacion',
       'La misma linea temporal que sintomas y medicacion',
       'Mas facil de revisar despues con contexto',
     ],
@@ -457,7 +457,7 @@ export const homePageEsEs = {
     differencesTitle: 'Por que usar Zebra en vez de Notas, hojas de calculo o un tracker generico?',
     differences: [
       { label: 'Estructura', generic: 'Notas y hojas empiezan en blanco, asi que tienes que inventar el sistema cuando ya estas cansada.', zebra: 'Zebra da estructura desde el inicio: brotes, sintomas, desencadenantes, medicacion, sal, agua, constantes ortostaticas y notas.' },
-      { label: 'Tracking ortostatico', generic: 'Los trackers genericos suelen separar constantes y sintomas, lo que dificulta revisar POTS y disautonomia despues.', zebra: 'Zebra mantiene mediciones tumbada, sentada y de pie junto a la linea temporal de sintomas y el contexto diario.' },
+      { label: 'Tracking ortostatico', generic: 'Los trackers genericos suelen separar constantes y sintomas, lo que dificulta revisar POTS y disautonomia despues.', zebra: 'Zebra mantiene mediciones tumbada, de pie y de recuperacion junto a la linea temporal de sintomas y el contexto diario.' },
       { label: 'Preparacion de citas', generic: 'Un mes de notas puede terminar en una explicacion apresurada cuando el medico pregunta que cambio.', zebra: 'Zebra convierte historial introducido por ti en un informe de sintomas para especialistas y cardiologia.' },
       { label: 'Privacidad', generic: 'Muchas herramientas de salud requieren cuenta, sincronizan por un servicio o son mas amplias que el problema que necesitas resolver.', zebra: 'Zebra es privada por diseno y se centra en tu propio historial para conversaciones medicas.' },
       { label: 'Dias de brote', generic: 'Las apps de bienestar y habitos pueden hacer que registrar parezca otra tarea fallida.', zebra: 'Zebra esta pensada para dias con mareo, agotamiento, niebla mental o dolor, donde un check-in rapido basta.' },
@@ -588,6 +588,7 @@ export const homePageEsEs = {
       free: 'Version gratuita con funciones principales y 30 dias de historial.',
       monthly: 'Premium mensual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostatico completo.',
       annual: 'Premium anual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostatico completo.',
+      lifetime: 'Premium lifetime desbloquea Premium con una compra unica y sin renovacion de suscripcion.',
     },
     featureList: [
       'Registrar brotes diarios, sintomas, desencadenantes, hidratacion, sal y medicacion',

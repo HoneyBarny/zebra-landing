@@ -27,7 +27,7 @@ const faqItems = [
   {
     question: 'Kann Zebra orthostatische Vitalwerte und Herzfrequenz erfassen?',
     answer:
-      'Ja. Zebra kann Werte im Liegen, Sitzen und Stehen in derselben Timeline halten wie Symptome, Schuebe, Medikamente, Salz/Natrium, Hydration, Notizen und Terminfragen.',
+      'Ja. Zebra kann Werte im Liegen, Stehen und in der Erholung in derselben Timeline halten wie Symptome, Schuebe, Medikamente, Salz/Natrium, Hydration, Notizen und Terminfragen.',
   },
   {
     question: 'Hilft Zebra bei der Vorbereitung auf Arzttermine?',
@@ -145,7 +145,7 @@ export const homePageDeDe = {
     items: [
       { title: 'POTS- und Dysautonomie-Schuebe', body: 'Erfassen Sie Staerke, Dauer, Ausloeser, Erholung und Veraenderungen, damit ein Schub spaeter nicht aus dem Gedaechtnis rekonstruiert werden muss.' },
       { title: 'Symptome und Brain Fog', body: 'Halten Sie Schwindel, Fatigue, Schmerz, Herzklopfen, Brain Fog, Notizen und ueberschneidende Symptome in einem datierten Verlauf.' },
-      { title: 'Orthostatische Vitalwerte und Herzfrequenz', body: 'Speichern Sie Beobachtungen im Liegen, Sitzen und Stehen mit Herzfrequenz-Kontext und Symptomen desselben Tages.' },
+      { title: 'Orthostatische Vitalwerte und Herzfrequenz', body: 'Speichern Sie Beobachtungen im Liegen, Stehen und in der Erholung mit Herzfrequenz-Kontext und Symptomen desselben Tages.' },
       { title: 'Salz/Natrium und Hydration', body: 'Erfassen Sie Salz, Natrium, Wasser und Hydration neben Symptomen, waehrend medizinische Entscheidungen bei Ihrem Behandlungsteam bleiben.' },
       { title: 'Medikamente und Notizen', body: 'Notieren Sie Zeitpunkt, Dosisnotizen, Nebenwirkungen, Fragen und Aenderungen, damit Medikamentenkontext leichter besprechbar wird.' },
       { title: 'Ausloeser und Symptomlog-Kontext', body: 'Halten Sie moegliche Ausloeser, Aktivitaet, Stress, Infektion, Hitze oder Notizen fest, wenn sie wichtig sind, und lassen Sie sie aus, wenn Sie erschoepft sind.' },
@@ -282,7 +282,7 @@ export const homePageDeDe = {
         'Eine leicht verstaendliche Termin-Zusammenfassung aus Ihrem erfassten Verlauf.',
       items: [
         { label: 'Symptomverlauf', body: 'Datierte Veraenderungen, Schuebe und Symptomhaeufigkeit.' },
-        { label: 'Orthostatische Vitalwerte', body: 'Liegen, Sitzen und Stehen neben Symptomen.' },
+        { label: 'Orthostatische Vitalwerte', body: 'Liegen, Stehen und Erholung neben Symptomen.' },
         { label: 'Medikamente, Hydration und Salz', body: 'Kontext, der Veraenderungen rund um einen Schub erklaeren kann.' },
         { label: 'Notizen und Fragen', body: 'Symptomkontext und Fragen fuer den Termin.' },
       ],
@@ -454,12 +454,12 @@ export const homePageDeDe = {
     title: 'Erfassen Sie orthostatische Vitalwerte dort, wo sie hingehoeren.',
     intro: 'Im selben Verlauf wie alles andere, nicht in einem separaten Tool, das Sie spaeter abgleichen muessen.',
     body: [
-      'Zebra verbindet Werte im Liegen, Sitzen und Stehen mit Ihren Symptomen, statt sie in ein weiteres Tool auszulagern.',
+      'Zebra verbindet Werte im Liegen, Stehen und in der Erholung mit Ihren Symptomen, statt sie in ein weiteres Tool auszulagern.',
     ],
     momentLabel: 'Die gefuehrte Sequenz',
     sequence: ['Hinlegen', 'Aufsetzen', 'Stehen', 'In derselben Timeline speichern'],
     bullets: [
-      'Gefuehrter Ablauf fuer Liegen, Sitzen und Stehen',
+      'Gefuehrter Ablauf fuer Liegen, Stehen und Erholung',
       'Dieselbe Timeline wie Symptome und Medikamente',
       'Spaeter leichter im Kontext zu pruefen',
     ],
@@ -486,7 +486,7 @@ export const homePageDeDe = {
     differencesTitle: 'Warum Zebra statt Notizen, Tabellen oder allgemeinem Symptomtracker nutzen?',
     differences: [
       { label: 'Struktur', generic: 'Notizen und Tabellen starten leer, also muessen Sie das System erfinden, waehrend Sie schon muede sind.', zebra: 'Zebra gibt Struktur von Anfang an: Schuebe, Symptome, Ausloeser, Medikamente, Salz, Wasser, orthostatische Werte und Notizen.' },
-      { label: 'Orthostatisches Tracking', generic: 'Allgemeine Tracker trennen Vitalwerte oft von Symptomen, wodurch POTS- und Dysautonomie-Verlauf spaeter schwerer zu pruefen ist.', zebra: 'Zebra haelt Werte im Liegen, Sitzen und Stehen neben Symptomtimeline und Tageskontext.' },
+      { label: 'Orthostatisches Tracking', generic: 'Allgemeine Tracker trennen Vitalwerte oft von Symptomen, wodurch POTS- und Dysautonomie-Verlauf spaeter schwerer zu pruefen ist.', zebra: 'Zebra haelt Werte im Liegen, Stehen und in der Erholung neben Symptomtimeline und Tageskontext.' },
       { label: 'Terminvorbereitung', generic: 'Ein Monat Notizen kann trotzdem zu einer gehetzten Erklaerung werden, wenn der Arzt fragt, was sich veraendert hat.', zebra: 'Zebra macht aus selbst eingegebenem Verlauf einen arztbereiten Symptombericht fuer Facharzt- und Kardiologietermine.' },
       { label: 'Datenschutz', generic: 'Viele Gesundheitstools brauchen ein Konto, synchronisieren ueber einen Dienst oder sind breiter als Ihr konkretes Problem.', zebra: 'Zebra ist datenschutzorientiert und fokussiert auf Ihren eigenen Verlauf fuer Arztgespraeche.' },
       { label: 'Schubtage', generic: 'Wellness- und Habit-Apps koennen Tracking wie eine weitere unerledigte Aufgabe wirken lassen.', zebra: 'Zebra ist fuer schwindlige, erschoepfte, foggy oder schmerzhafte Tage gebaut, an denen ein kurzer Check-in reicht.' },
@@ -617,6 +617,7 @@ export const homePageDeDe = {
       free: 'Kostenlose Tracking-Version mit Kernfunktionen und 30 Tagen Verlauf.',
       monthly: 'Monatliches Premium schaltet unbegrenzten Verlauf, PDF-Export fuer Arztberichte und das volle orthostatische Archiv frei.',
       annual: 'Jaehrliches Premium schaltet unbegrenzten Verlauf, PDF-Export fuer Arztberichte und das volle orthostatische Archiv frei.',
+      lifetime: 'Lifetime Premium schaltet Premium mit einem einmaligen Kauf ohne Abo-Verlaengerung frei.',
     },
     featureList: [
       'Taegliche Schuebe, Symptome, Ausloeser, Hydration, Salz und Medikamente erfassen',

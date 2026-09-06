@@ -65,6 +65,8 @@ Eine monatliche Symptomzusammenfassung macht aus verstreuten taeglichen Notizen 
 
 Diese Art von Zusammenfassung ist nuetzlich, weil rohes Tracking schwer nutzbar werden kann. Ein Monat Eintraege hilft nur, wenn Sie daraus einen klaren [arztbereiten Bericht](/knowledge/doctor-ready-report/) oder eine Terminnotiz machen koennen.
 
+Wenn Sie diesen Schritt in Zebra machen moechten, fuehrt die Seite [Symptombericht fuer den Arzt](/de-de/doctor-report/) vom eigenen Verlauf zum exportierbaren Bericht.
+
 ## Beginnen Sie mit der Hauptantwort
 
 Bevor Sie Details auflisten, schreiben Sie einen direkten Satz:

@@ -6,10 +6,10 @@ description: "Learn what an orthostatic test helps you record and why position-b
 excerpt: "Learn what an orthostatic test helps you record and why position-based observations are more useful when kept with symptom history."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-09-02"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "orthostatic test tracker"
@@ -55,6 +55,8 @@ faq:
 ---
 
 An orthostatic test helps you record what happens to symptoms and, when relevant, heart rate or blood pressure as you move through different positions such as lying down, sitting, and standing. It is useful because it captures a structured snapshot of upright symptom change instead of leaving that history spread across memory and disconnected notes.
+
+If you are recording readings at home, [POTS home test notes](/blog/pots-home-test-notes-heart-rate-blood-pressure/) explains what context to keep with heart rate, blood pressure, symptoms, safety notes, and appointment questions. If you already had a clinical tilt-table test, use [what to track after a positive tilt table test](/blog/what-to-track-after-a-positive-tilt-table-test/) instead.
 
 ## What the test is useful for
 
@@ -103,6 +105,8 @@ It is a tracking and communication tool.
 ## Where Zebra fits
 
 Zebra treats orthostatic observations as part of the same story as symptoms, flares, and appointment prep. That is useful for people who want to keep the position-based record connected to the rest of what their body has been doing.
+
+The [orthostatic vitals tracker](/orthostatic-vitals-test/) page explains what Zebra records and what it does not interpret medically.
 
 ## Key takeaways
 

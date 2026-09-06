@@ -77,7 +77,7 @@ faq:
     answer: "Nein. Zebra hilft, patienteneigene Angaben fuer Termine zu ordnen. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Fuer manche Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/), Long COVID, EDS- oder HSD-Ueberschneidung, Migraene oder chronischer Erkrankung ist Duschen keine einfache Alltagstaetigkeit. Eine warme Dusche kann Schwindel, Herzrasen, Uebelkeit, Schwache, Schwitzen, zittrige Beine, Kopfschmerz, Brain Fog oder das Beduerfnis ausloesen, sich danach hinzulegen.
+Fuer manche Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/), Long COVID, EDS- oder HSD-Ueberschneidung, Migraene oder chronischer Erkrankung ist Duschen keine einfache Alltagstaetigkeit. Eine warme Dusche kann Schwindel, Herzrasen, Uebelkeit, Schwache, Schwitzen, zittrige Beine, Kopfschmerz, Brain Fog oder das Beduerfnis ausloesen, sich danach hinzulegen. Fuer den groesseren Zusammenhang hilft [Hitzeintoleranz bei POTS erfassen](/de-de/blog/heat-intolerance-symptom-tracker-what-to-log/).
 
 Ein Dusch-Symptomtracker diagnostiziert kein POTS, keine Dysautonomie, keine Hitzekrankheit, keine Medikamentennebenwirkung, keine Angst und keine andere Erkrankung. Er hilft Ihnen, ein klareres Alltagsmuster zum Arzttermin mitzubringen: welche Art von Dusche oder Bad Symptome ausloeste, was passierte, was half und wie lange die Erholung dauerte.
 

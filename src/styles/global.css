@@ -2648,6 +2648,34 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .search-page-hero h1 {
+    max-width: 100%;
+    font-size: clamp(2rem, 10vw, 3.25rem);
+    line-height: 1.02;
+    letter-spacing: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .search-page-hero .direct-answer,
+  .search-page-proof,
+  .search-page-trust,
+  .search-page-columns article,
+  .search-page-report,
+  .search-page-related,
+  .search-page-references,
+  .hero-cta-row p {
+    overflow-wrap: anywhere;
+  }
+
+  .hero-cta-row {
+    align-items: flex-start;
+  }
+
+  .hero-cta-row p {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+
   .site-header,
   .site-footer {
     flex-direction: column;
@@ -2695,10 +2723,16 @@ h3 {
     scroll-padding-top: 24px;
   }
 
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
   .page-shell,
   .legal-shell,
   .support-shell {
     width: min(calc(100% - 24px), var(--max-width));
+    overflow-x: clip;
   }
 
   .section {
@@ -2715,6 +2749,26 @@ h3 {
     backdrop-filter: none;
     gap: 12px;
     padding: 18px 0 8px;
+    max-width: 100%;
+  }
+
+  .brand-lockup {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .brand-lockup > div {
+    min-width: 0;
+  }
+
+  .brand-subtitle {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .search-page-hero h1 {
+    font-size: clamp(2rem, 9vw, 2.65rem);
+    line-height: 1.08;
   }
 
   .site-nav {

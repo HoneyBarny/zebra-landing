@@ -1,21 +1,326 @@
 ---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AppStoreBadge from '../../components/landing/AppStoreBadge.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import LegalPage from '../../components/content/LegalPage.astro';
+import PhoneMedia from '../../components/landing/PhoneMedia.astro';
 import SupportPage from '../../components/content/SupportPage.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import { screenshots } from '../../data/screenshots';
+import { getLocalizedHomePage } from '../../data/locales';
 import { getPhase2Page, phase2Pages } from '../../data/locales/phase2';
+import { alternatesForSearchPage, getLocalizedSearchPage } from '../../data/locales/search-pages';
+import { siteConfig, toAbsoluteUrl } from '../../data/site-config';
+import { trustedReferences } from '../../data/search-pages';
 
 export function getStaticPaths() {
-  return Object.entries(phase2Pages).flatMap(([locale, pages]) =>
+  const legalPaths = Object.entries(phase2Pages).flatMap(([locale, pages]) =>
     Object.keys(pages).map((page) => ({
       params: { locale, page },
     })),
   );
+
+  const searchPaths = ['de-de', 'es-es', 'fr-fr'].flatMap((locale) =>
+    [
+      'pots-tracker',
+      'doctor-report',
+      'orthostatic-vitals-test',
+      'appointment-prep-checklist',
+      'symptom-tracker-for-invisible-illness',
+    ].map((page) => ({ params: { locale, page } })),
+  );
+
+  return [...legalPaths, ...searchPaths];
 }
 
-const page = getPhase2Page(Astro.params.locale ?? '', Astro.params.page ?? '');
+const locale = Astro.params.locale ?? '';
+const pageSlug = Astro.params.page ?? '';
+const searchPage = getLocalizedSearchPage(locale, pageSlug);
+const page = getPhase2Page(locale, pageSlug);
+const home = getLocalizedHomePage(locale);
 
-if (!page) {
+if (!page && !searchPage) {
   return Astro.redirect('/404/');
 }
+
+const searchCanonical = searchPage && home ? toAbsoluteUrl(`${home.locale.path}${searchPage.slug}/`) : '';
+const reportPreview = screenshots.appointmentPreparation;
+const labelsByLocale = {
+  'de-de': {
+    home: 'Startseite',
+    plainAnswer: 'Kurzantwort',
+    about: 'Worum es auf dieser Seite geht',
+    why: 'Warum es wichtig ist',
+    comparison: 'Vergleich',
+    compareHeading: 'Wie die Optionen zusammenpassen',
+    bestFit: 'Passt gut, wenn...',
+    notTrying: 'Nicht gedacht fuer',
+    reportEyebrow: 'Berichtsvorschau',
+    reportHeading: 'So sieht der Nutzen fuer den Termin aus.',
+    tracks: 'Was Zebra trackt',
+    trust: 'Vertrauen und Sicherheit',
+    trustHeading: 'Medizinisch vorsichtig gestaltet.',
+    faq: 'FAQ',
+    faqHeading: 'Fragen vor dem Herunterladen von Zebra.',
+    related: 'Verwandte Seiten',
+    relatedHeading: 'Weiter in derselben Suchgruppe.',
+    references: 'Vertrauenswuerdige Quellen',
+    referencesHeading: 'Quellenbasierte Einordnung.',
+    download: 'Zebra herunterladen',
+    finalHeading: 'Heute tracken, bevor der naechste Termin die ganze Geschichte verlangt.',
+    oneSentence: 'Zebra in einem Satz',
+    oneSentenceStrong: 'Tracken Sie Schuebe, Symptome, Medikamente, Salz, Wasser und orthostatische Werte in unter 60 Sekunden.',
+    oneSentenceBody: 'Danach erstellen Sie aus dem Verlauf einen arztbereiten Bericht.',
+    safety: 'Zebra diagnostiziert, behandelt, verhindert oder heilt nicht, ersetzt keine medizinische Versorgung und interpretiert keine Symptome.',
+    ctaSupport: 'Für iPhone gebaut. Keine medizinische Beratung.',
+    premiumLine: 'Premium enthält unbegrenzten Verlauf, PDF-Berichtsexport und das vollständige orthostatische Archiv.',
+  },
+  'es-es': {
+    home: 'Inicio',
+    plainAnswer: 'Respuesta breve',
+    about: 'De que trata esta pagina',
+    why: 'Por que importa',
+    comparison: 'Comparacion',
+    compareHeading: 'Como se comparan las opciones',
+    bestFit: 'Elige Zebra si...',
+    notTrying: 'No esta pensado para',
+    reportEyebrow: 'Vista del informe',
+    reportHeading: 'Asi se ve el resultado para la cita.',
+    tracks: 'Que registra Zebra',
+    trust: 'Confianza y seguridad',
+    trustHeading: 'Cuidadosa por diseno medico.',
+    faq: 'FAQ',
+    faqHeading: 'Preguntas antes de descargar Zebra.',
+    related: 'Paginas relacionadas',
+    relatedHeading: 'Sigue explorando la misma busqueda.',
+    references: 'Fuentes confiables',
+    referencesHeading: 'Contexto basado en fuentes.',
+    download: 'Descargar Zebra',
+    finalHeading: 'Empieza hoy, antes de que la proxima cita pida toda la historia.',
+    oneSentence: 'Zebra en una frase',
+    oneSentenceStrong: 'Registra brotes, sintomas, medicacion, sal, agua y constantes ortostaticas en menos de 60 segundos.',
+    oneSentenceBody: 'Despues crea un informe para el medico desde el historial introducido.',
+    safety: 'Zebra no diagnostica, trata, previene, cura, sustituye la atencion medica ni interpreta sintomas.',
+    ctaSupport: 'Built for iPhone. Not medical advice.',
+    premiumLine: 'Premium includes unlimited history, PDF report export, and the full orthostatic archive.',
+  },
+  'fr-fr': {
+    home: 'Accueil',
+    plainAnswer: 'Reponse courte',
+    about: 'De quoi parle cette page',
+    why: 'Pourquoi c est important',
+    comparison: 'Comparaison',
+    compareHeading: 'Comment les options se comparent',
+    bestFit: 'Choisissez Zebra si...',
+    notTrying: 'Pas concu pour',
+    reportEyebrow: 'Apercu du rapport',
+    reportHeading: 'Voici le resultat utile pour le rendez-vous.',
+    tracks: 'Ce que Zebra suit',
+    trust: 'Confiance et securite',
+    trustHeading: 'Medicalement prudent par conception.',
+    faq: 'FAQ',
+    faqHeading: 'Questions avant de telecharger Zebra.',
+    related: 'Pages liees',
+    relatedHeading: 'Continuer dans le meme cluster.',
+    references: 'Sources fiables',
+    referencesHeading: 'Contexte appuye par des sources.',
+    download: 'Telecharger Zebra',
+    finalHeading: 'Commencez aujourd hui avant que le prochain rendez-vous demande toute l histoire.',
+    oneSentence: 'Zebra en une phrase',
+    oneSentenceStrong: 'Suivez poussees, symptomes, medicaments, sel, eau et constantes orthostatiques en moins de 60 secondes.',
+    oneSentenceBody: 'Puis creez un rapport pour medecin depuis l historique saisi.',
+    safety: 'Zebra ne diagnostique pas, ne traite pas, ne previent pas, ne guerit pas, ne remplace pas les soins medicaux et n interprete pas les symptomes.',
+    ctaSupport: 'Built for iPhone. Not medical advice.',
+    premiumLine: 'Premium includes unlimited history, PDF report export, and the full orthostatic archive.',
+  },
+} as const;
+
+const labels = labelsByLocale[locale as keyof typeof labelsByLocale];
+const searchSchema = searchPage
+  ? [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'SoftwareApplication',
+        name: siteConfig.brand.productName,
+        applicationCategory: 'HealthApplication',
+        applicationSubCategory: 'Symptom tracker',
+        operatingSystem: 'iOS',
+        url: searchCanonical,
+        downloadUrl: siteConfig.appStore.url,
+        installUrl: siteConfig.appStore.url,
+        description: searchPage.directAnswer,
+        featureList: searchPage.tracks,
+        offers: [
+          { '@type': 'Offer', price: '0', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: siteConfig.appStore.url },
+          { '@type': 'Offer', price: '4.99', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: siteConfig.appStore.url },
+          { '@type': 'Offer', price: '39.99', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: siteConfig.appStore.url },
+          { '@type': 'Offer', price: '59.99', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: siteConfig.appStore.url },
+        ],
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: searchPage.h1,
+        url: searchCanonical,
+        description: searchPage.description,
+        about: ['POTS', 'EDS', 'Fibromyalgia', 'Symptom tracking', 'Doctor-ready report'],
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: searchPage.faqs.map((faq) => ({
+          '@type': 'Question',
+          name: faq.question,
+          acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+        })),
+      },
+    ]
+  : [];
 ---
 
-{Astro.params.page === 'support' ? <SupportPage page={page} /> : <LegalPage page={page} />}
+{searchPage && home && labels ? (
+  <BaseLayout
+    title={searchPage.title}
+    description={searchPage.description}
+    canonical={searchCanonical}
+    ogImage={home.seo.ogImage}
+    ogImageAlt={home.seo.ogImageAlt}
+    schema={searchSchema}
+    lang={home.locale.htmlLang}
+    alternates={alternatesForSearchPage(searchPage.slug)}
+    consentBanner={home.consentBanner}
+  >
+    <div class="page-shell">
+      <SiteHeader brand={home.header.brand} links={home.header.links} localeSwitcher={home.localeSwitcher} />
+      <main>
+        <section class="section search-page-hero">
+          <Breadcrumbs items={[{ label: labels.home, href: home.locale.path }, { label: searchPage.eyebrow }]} />
+          <div class="search-page-hero-grid">
+            <div>
+              <p class="eyebrow">{searchPage.eyebrow}</p>
+              <h1>{searchPage.h1}</h1>
+              <p class="direct-answer">{searchPage.directAnswer}</p>
+              <div class="hero-cta-row">
+                <AppStoreBadge
+                  href={siteConfig.appStore.url}
+                  src={home.appStore.badgeUrl}
+                  alt={home.appStore.badgeAlt}
+                  loading="eager"
+                  trackingLocation={`localized_search_page_${locale}_${searchPage.slug}_hero`}
+                />
+                <p>{searchPage.cta}. {labels.ctaSupport}</p>
+              </div>
+            </div>
+            <aside class="search-page-proof">
+              <p class="mini-label">{labels.oneSentence}</p>
+              <strong>{labels.oneSentenceStrong}</strong>
+              <p>{labels.oneSentenceBody}</p>
+            </aside>
+          </div>
+        </section>
+
+        <section class="section search-page-section">
+          <div class="search-page-columns">
+            <article>
+              <p class="eyebrow">{labels.plainAnswer}</p>
+              <h2>{labels.about}</h2>
+              {searchPage.summary.map((paragraph) => <p>{paragraph}</p>)}
+            </article>
+            <article>
+              <p class="eyebrow">{labels.why}</p>
+              <h2>{searchPage.whyTitle}</h2>
+              <ul class="check-list">
+                {searchPage.why.map((item) => <li>{item}</li>)}
+              </ul>
+            </article>
+          </div>
+        </section>
+
+        <section class="section section-band search-page-section" aria-labelledby="report-preview-heading">
+          <div class="search-page-report-grid">
+            <article>
+              <p class="eyebrow">{labels.reportEyebrow}</p>
+              <h2 id="report-preview-heading">{labels.reportHeading}</h2>
+              <p>{searchPage.trust}</p>
+            </article>
+            <div class="search-page-report-media">
+              <PhoneMedia {...reportPreview} shell="report" loading="lazy" />
+            </div>
+          </div>
+        </section>
+
+        <section class="section search-page-section">
+          <div class="search-page-columns">
+            <article>
+              <p class="eyebrow">{labels.tracks}</p>
+              <h2>{searchPage.tracksTitle}</h2>
+              <ul class="check-list">
+                {searchPage.tracks.map((item) => <li>{item}</li>)}
+              </ul>
+            </article>
+            <article class="search-page-trust">
+              <p class="eyebrow">{labels.trust}</p>
+              <h2>{labels.trustHeading}</h2>
+              <p>{searchPage.trust}</p>
+              <p>{labels.safety}</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section section-band search-page-section" aria-labelledby="faq-heading">
+          <div class="section-intro section-intro--narrow">
+            <p class="eyebrow">{labels.faq}</p>
+            <h2 id="faq-heading">{labels.faqHeading}</h2>
+          </div>
+          <div class="faq-list">
+            {searchPage.faqs.map((faq) => (
+              <details class="faq-item">
+                <summary>{faq.question}</summary>
+                <p>{faq.answer}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <section class="section search-page-section">
+          <div class="search-page-columns">
+            <article>
+              <p class="eyebrow">{labels.related}</p>
+              <h2>{labels.relatedHeading}</h2>
+              <div class="related-link-grid">
+                {searchPage.related.map((link) => <a class="filter-chip" href={link.href}>{link.label}</a>)}
+              </div>
+            </article>
+            <article>
+              <p class="eyebrow">{labels.references}</p>
+              <h2>{labels.referencesHeading}</h2>
+              <ul class="reference-list">
+                {trustedReferences.map((reference) => (
+                  <li><a href={reference.href} target="_blank" rel="noopener noreferrer">{reference.label}</a></li>
+                ))}
+              </ul>
+            </article>
+          </div>
+        </section>
+
+        <section class="section final-cta">
+          <p class="eyebrow">{labels.download}</p>
+          <h2>{labels.finalHeading}</h2>
+          <p>{searchPage.cta}. {labels.premiumLine}</p>
+          <AppStoreBadge
+            href={siteConfig.appStore.url}
+            src={home.appStore.badgeUrl}
+            alt={home.appStore.badgeAlt}
+            trackingLocation={`localized_search_page_${locale}_${searchPage.slug}_final`}
+          />
+        </section>
+      </main>
+      <SiteFooter {...home.footer} />
+    </div>
+  </BaseLayout>
+) : page && Astro.params.page === 'support' ? (
+  <SupportPage page={page} />
+) : page ? (
+  <LegalPage page={page} />
+) : null}

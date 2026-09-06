@@ -68,7 +68,7 @@ faq:
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-Starting a [symptom journal](/knowledge/symptom-journal/) can feel backwards when you are already overwhelmed. The day is hard, your brain is tired, and now you are supposed to become your own health secretary?
+Starting a [symptom journal](/blog/what-is-a-symptom-journal/) can feel backwards when you are already overwhelmed. The day is hard, your brain is tired, and now you are supposed to become your own health secretary?
 
 You do not need to track everything. For the first seven days, the goal is much smaller: capture one useful note per day.
 

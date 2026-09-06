@@ -6,6 +6,7 @@ import PhoneMedia from '../components/landing/PhoneMedia.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import SiteHeader from '../components/landing/SiteHeader.astro';
 import { screenshots } from '../data/screenshots';
+import { alternatesForSearchPage } from '../data/locales/search-pages';
 import { homePage } from '../data/site-content';
 import { siteConfig, toAbsoluteUrl } from '../data/site-config';
 import {
@@ -25,7 +26,11 @@ export function getStaticPaths() {
 
 const { page } = Astro.props as { page: SearchPage };
 const canonical = getSearchPageUrl(page);
-const reviewIsoDate = page.lastReviewed === 'August 1, 2026' ? '2026-08-01' : '2026-07-25';
+const reviewIsoDate = page.lastReviewed === 'September 1, 2026'
+  ? '2026-09-01'
+  : page.lastReviewed === 'August 1, 2026'
+    ? '2026-08-01'
+    : '2026-07-25';
 const reportPreview = screenshots.appointmentPreparation;
 const sampleReportHref = '/sample-doctor-report.pdf';
 const schema = [
@@ -93,6 +98,7 @@ const schema = [
   ogImage={homePage.seo.ogImage}
   ogImageAlt={homePage.seo.ogImageAlt}
   schema={schema}
+  alternates={alternatesForSearchPage(page.slug)}
 >
   <div class="page-shell">
     <SiteHeader brand={homePage.header.brand} links={homePage.header.links} />

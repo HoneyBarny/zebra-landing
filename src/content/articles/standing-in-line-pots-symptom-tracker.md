@@ -74,7 +74,7 @@ faq:
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-For many people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), [orthostatic intolerance](/knowledge/orthostatic-intolerance/), Long COVID, EDS or HSD overlap, ME/CFS, or chronic illness, standing still can be harder than walking. A checkout line, pharmacy wait, bus stop, concert queue, security line, school hallway, kitchen counter, or clinic waiting room can bring dizziness, racing heart, nausea, shakiness, heavy legs, brain fog, sweating, blood pooling, or near-fainting.
+For many people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), [orthostatic intolerance](/knowledge/orthostatic-intolerance/), Long COVID, EDS or HSD overlap, ME/CFS, or chronic illness, standing still can be harder than walking. A checkout line, pharmacy wait, bus stop, concert queue, security line, school hallway, kitchen counter, or clinic waiting room can bring dizziness, racing heart, nausea, shakiness, heavy legs, brain fog, sweating, [blood pooling and leg discoloration](/blog/blood-pooling-leg-discoloration-symptom-tracker/), or near-fainting.
 
 A standing-in-line symptom tracker does not diagnose POTS, dysautonomia, low blood pressure, dehydration, anxiety, or any other condition. It helps you bring a clearer prolonged-standing pattern to a clinician: what the standing situation was, how long it lasted, what symptoms appeared, what helped, and what changed in your day.
 

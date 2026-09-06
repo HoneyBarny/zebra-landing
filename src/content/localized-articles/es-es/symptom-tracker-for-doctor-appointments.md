@@ -14,6 +14,7 @@ lastReviewed: "2026-07-24"
 reviewedAt: "2026-07-24"
 reviewedBy: "Zebra Editorial Team"
 featured: true
+noindex: true
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "tracker de sintomas para citas medicas"

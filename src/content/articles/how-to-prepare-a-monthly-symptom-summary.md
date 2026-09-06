@@ -160,6 +160,8 @@ That is enough for most appointment prep.
 
 Zebra is built to help daily symptom history become a monthly summary and doctor-ready report, so you do not have to rebuild the story from memory at the end of the month.
 
+For the product version of this workflow, see Zebra's [doctor symptom report app](/doctor-report/).
+
 ## Key takeaways
 
 - A monthly symptom summary should be short, clear, and appointment-focused.

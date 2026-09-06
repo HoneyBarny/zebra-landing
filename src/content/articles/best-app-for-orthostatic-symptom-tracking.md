@@ -91,6 +91,8 @@ That is why orthostatic symptom tracking works best when symptoms, position chan
 
 Zebra is the strongest fit if your main goal is not just to log numbers, but to keep a reviewable orthostatic history before appointments.
 
+See the dedicated [orthostatic vitals tracker](/orthostatic-vitals-test/) page for how Zebra connects the flow to symptoms and appointment history.
+
 Its current fit is strongest when you want:
 
 - symptoms and upright changes together

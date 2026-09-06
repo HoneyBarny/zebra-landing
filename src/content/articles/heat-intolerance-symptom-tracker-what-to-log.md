@@ -6,10 +6,10 @@ description: "Learn what to log in a heat intolerance symptom tracker for POTS, 
 excerpt: "A practical guide to tracking heat-triggered symptoms, warm rooms, hot showers, hydration, salt, heart rate, dizziness, sweating, cooling strategies, recovery, and doctor-ready summaries."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-08-09"
-nextReview: "2027-02-09"
-lastReviewed: "2026-08-09"
-reviewedAt: "2026-08-09"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -76,7 +76,7 @@ faq:
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-Heat can turn a manageable day into a symptom-heavy day for many people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), EDS or HSD overlap, Long COVID, ME/CFS, migraine, or chronic illness flares. A hot room, summer weather, a warm shower, standing in a line, public transit, cooking, exercise, or low fluids can all sit in the same timeline.
+Heat can turn a manageable day into a symptom-heavy day for many people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), EDS or HSD overlap, Long COVID, ME/CFS, migraine, or chronic illness flares. A hot room, summer weather, a warm shower, standing in a line, public transit, cooking, exercise, or low fluids can all sit in the same timeline. If your legs also change color when upright, see the guide to [blood pooling and leg discoloration](/blog/blood-pooling-leg-discoloration-symptom-tracker/).
 
 A heat intolerance symptom tracker does not diagnose POTS, dysautonomia, heat illness, MCAS, EDS, or any other condition. It helps you bring a clearer pattern to a clinician: what the heat exposure was, what symptoms followed, what helped, how long recovery took, and what the episode changed in your day.
 
@@ -241,6 +241,7 @@ Helpful background:
 - [The Ehlers-Danlos Society hEDS overview](https://www.ehlers-danlos.com/heds/)
 - [Dysautonomia in EDS and HSD review on PubMed](https://pubmed.ncbi.nlm.nih.gov/34766441/)
 - [NIH News in Health POTS overview](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
+- [Cleveland Clinic heat intolerance overview](https://my.clevelandclinic.org/health/symptoms/heat-intolerance)
 
 ## Where Zebra fits
 

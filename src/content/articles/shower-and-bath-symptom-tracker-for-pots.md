@@ -75,7 +75,7 @@ faq:
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-For some people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), [orthostatic intolerance](/knowledge/orthostatic-intolerance/), Long COVID, EDS or HSD overlap, migraine, or chronic illness, showering is not a simple daily task. A warm shower may bring dizziness, racing heart, nausea, weakness, sweating, shaky legs, headache, brain fog, or a need to lie down afterward.
+For some people with [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), [orthostatic intolerance](/knowledge/orthostatic-intolerance/), Long COVID, EDS or HSD overlap, migraine, or chronic illness, showering is not a simple daily task. A warm shower may bring dizziness, racing heart, nausea, weakness, sweating, shaky legs, headache, brain fog, or a need to lie down afterward. For the wider pattern, see [what to track for heat intolerance](/blog/heat-intolerance-symptom-tracker-what-to-log/).
 
 A shower symptom tracker does not diagnose POTS, dysautonomia, heat illness, medication side effects, anxiety, or any other condition. It helps you bring a clearer daily-life pattern to a clinician: what kind of shower or bath triggered symptoms, what happened, what helped, and how long recovery took.
 

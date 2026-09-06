@@ -86,7 +86,7 @@ Before your appointment, try to bring:
 - your top 3 questions
 - the one decision you most want help making
 
-You do not need every detail. You need the details that help the visit move from vague memory to a clearer conversation.
+You do not need every detail. You need the details that help the visit move from vague memory to a clearer conversation. A [symptom journal for a doctor appointment](/blog/what-is-a-symptom-journal/) can help you collect those details before you make the summary.
 
 ## 1. Main symptoms
 
@@ -270,7 +270,7 @@ Use Zebra to keep:
 
 in one place, so the appointment does not depend on memory alone.
 
-For the broader prep workflow, read [How to Track Symptoms Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/). For the summary format, read [How to Prepare a Monthly Symptom Summary](/blog/how-to-prepare-a-monthly-symptom-summary/).
+For the broader prep workflow, read [How to Track Symptoms Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/). For the summary format, read [How to Prepare a Monthly Symptom Summary](/blog/how-to-prepare-a-monthly-symptom-summary/). Zebra's [appointment prep checklist](/appointment-prep-checklist/) keeps these priorities in one place, and the [doctor-ready report](/doctor-report/) page explains the output.
 
 ## Bottom line
 

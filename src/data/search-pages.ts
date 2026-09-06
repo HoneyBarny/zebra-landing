@@ -89,7 +89,7 @@ const commonTracks = [
   'Daily flares, severity, duration, and notes',
   'Symptoms, triggers, notes, and appointment context',
   'Medications, salt, water, and questions to bring up',
-  'Orthostatic vitals with lying, sitting, and standing observations',
+  'Orthostatic vitals with lying, standing, and recovery observations',
   'Optional HealthKit heart-rate support for the orthostatic flow',
   'Gentle daily reminders users can control',
   'Doctor-ready PDF report export with Premium',
@@ -137,31 +137,31 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'appointment-prep-checklist',
     kind: 'feature',
-    lastReviewed: 'August 1, 2026',
-    title: 'Chronic Illness Appointment Prep Checklist | Zebra',
+    lastReviewed: 'September 1, 2026',
+    title: 'Symptom Tracker for Doctor Appointments | Zebra',
     description:
-      'What to track 7 days before a chronic illness appointment: flares, symptoms, meds, salt, water, orthostatic vitals, impact, and questions.',
+      'Prepare for a doctor appointment with a short symptom history: flares, changes, medications, daily impact, questions, and a doctor-ready report.',
     eyebrow: 'Appointment prep checklist',
-    h1: 'What to track 7 days before a chronic illness appointment.',
+    h1: 'Organize your symptom history before a doctor appointment.',
     directAnswer:
-      'Before a chronic illness appointment, track the details that are hardest to rebuild from memory: recent flares, top symptoms, medication changes, salt and water context, orthostatic vitals if relevant, functional impact, and the questions you want to ask.',
+      'Before a doctor appointment, use Zebra to organize what changed, which symptoms or flares mattered, how daily life was affected, what medications or routines changed, and the questions you want to ask.',
     summary: [
-      'The week before an appointment is usually when the memory work starts: opening Notes, searching screenshots, trying to remember which flare was worse, and hoping the important question does not disappear in the room.',
-      'This checklist is built for invisible illness, POTS, EDS/hEDS, Fibromyalgia, dysautonomia, and overlapping symptoms. It is practical appointment prep, not a diagnostic checklist.',
+      'Appointment preparation is often a memory problem: searching Notes, screenshots, portals, and other apps while trying to remember which flare was worse and what you meant to ask.',
+      'This is a practical way to prepare a recent, reviewable history for an appointment. It supports invisible illness, POTS, EDS/hEDS, Fibromyalgia, dysautonomia, and overlapping symptoms without turning preparation into a diagnostic checklist.',
     ],
-    whyTitle: 'Why 7 days of focused tracking can be enough to start',
+    whyTitle: 'Why a focused history is easier to use in the room',
     why: [
-      'A short recent record is easier to complete than a perfect month-long reconstruction.',
-      'Flares, medication changes, orthostatic context, salt, water, and functional impact are more useful when they stay connected.',
-      'A focused checklist helps you prepare even if brain fog, pain, dizziness, or fatigue makes full daily tracking unrealistic.',
+      'A short recent record is easier to review than a perfect month-long reconstruction.',
+      'Changes, flares, medications, relevant context, and functional impact are more useful when they stay connected.',
+      'A small checklist still works when brain fog, pain, dizziness, or fatigue makes detailed tracking unrealistic.',
     ],
-    tracksTitle: 'The 7 details to track before the visit',
+    tracksTitle: 'What to organize before the visit',
     tracks: [
       'Recent flares: severity, duration, and what changed',
       'Top symptoms: the few symptoms you most need to explain',
       'Medication changes: timing, dose notes, side effects, and questions',
       'Salt and water context when relevant to your care plan',
-      'Orthostatic vitals: lying, sitting, and standing observations if relevant',
+      'Orthostatic vitals: lying, standing, and recovery observations if relevant',
       'Functional impact: standing, work, school, errands, sleep, and recovery',
       'Questions for the room so stress or brain fog does not erase them',
     ],
@@ -177,7 +177,7 @@ export const searchPages: SearchPage[] = [
     ],
     trust:
       'This checklist helps organize patient-entered history for care conversations. It does not diagnose, treat, interpret symptoms, or promise what a clinician will conclude.',
-    cta: 'Download Zebra and start the 7-day checklist',
+    cta: 'Download Zebra and prepare your history',
     related: [
       { label: 'Doctor report', href: '/doctor-report/' },
       { label: 'Sample doctor report PDF', href: '/sample-doctor-report.pdf' },
@@ -217,17 +217,17 @@ export const searchPages: SearchPage[] = [
   withDefaults({
     slug: 'pots-tracker',
     kind: 'condition',
-    lastReviewed,
-    title: 'POTS Tracker App for iPhone | Zebra Symptom Tracker',
+    lastReviewed: 'September 1, 2026',
+    title: 'POTS Symptom Tracker App for iPhone | Zebra',
     description:
-      'Track POTS flares, symptoms, salt, water, medications, orthostatic vitals, and doctor-ready reports in one iPhone app.',
+      'Track POTS symptoms, flares, orthostatic vitals, salt, water, medications, and appointment notes in one iPhone app.',
     eyebrow: 'POTS tracker',
-    h1: 'POTS tracker app for flares, orthostatic vitals, and appointment proof.',
+    h1: 'POTS symptom tracker app for flares, vitals, and appointment prep.',
     directAnswer:
-      'Zebra is an iPhone POTS tracker for people who need symptoms, salt, water, medications, orthostatic vitals, and flare notes in one place before a cardiology or specialist appointment.',
+      'Zebra is an iPhone POTS symptom tracker for people who need symptoms, salt, water, medications, orthostatic vitals, and flare notes in one place before a cardiology or specialist appointment.',
     summary: [
       'POTS symptoms often connect to upright posture, heart-rate changes, fatigue, dizziness, palpitations, and brain fog. Zebra keeps that context together instead of splitting symptoms, vitals, and notes across different apps.',
-      'Use Zebra to track what happened, when it happened, and what you want to bring up before the appointment.',
+      'Use Zebra to track what happened, when it happened, and what you want to bring up before the appointment: daily check-in → history → patterns → doctor-ready report.',
     ],
     whyTitle: 'Why POTS tracking needs more than a blank note',
     why: [
@@ -235,56 +235,87 @@ export const searchPages: SearchPage[] = [
       'A structured tracker reduces the memory load when brain fog makes it hard to explain the last month.',
       'Keeping salt, water, medications, symptoms, and orthostatic vitals together makes the report easier to review.',
     ],
-    tracksTitle: 'What Zebra helps track for POTS',
+    tracksTitle: 'What Zebra helps you track for POTS',
     tracks: commonTracks,
     bestFor: [],
     notFor: [],
     trust:
       'Talk with a clinician before changing salt, fluids, medications, compression, or activity. Zebra helps organize your history; it does not interpret symptoms or provide medical advice.',
     cta: 'Get Zebra for iPhone',
-    related: [],
+    related: [
+      { label: 'Orthostatic vitals tracker', href: '/orthostatic-vitals-test/' },
+      { label: 'Doctor-ready symptom report', href: '/doctor-report/' },
+      { label: 'Flare tracker', href: '/flare-tracker/' },
+      { label: 'How to track POTS symptoms', href: '/blog/how-to-track-pots-symptoms-and-orthostatic-changes/' },
+    ],
     faqs: [
       {
         question: 'Can Zebra track orthostatic vitals for POTS?',
         answer:
-          'Yes. Zebra includes a guided lying, sitting, and standing orthostatic vitals flow so those observations stay connected to symptoms and daily context.',
+          'Yes. Zebra includes a guided lying, standing, and recovery orthostatic vitals flow so those observations stay connected to symptoms and daily context.',
       },
       {
         question: 'Can Zebra help before a POTS cardiology appointment?',
         answer:
           'Yes. Zebra helps organize recent flares, symptoms, medications, salt, water, orthostatic vitals, and notes into a doctor-ready report you can review before the visit.',
       },
+      {
+        question: 'What can I track with a POTS symptom tracker?',
+        answer:
+          'You can track symptoms, flare severity, medications, salt, water, notes, and patient-entered orthostatic observations, then review the history before an appointment.',
+      },
     ],
   }),
   withDefaults({
     slug: 'eds-tracker',
     kind: 'condition',
-    lastReviewed,
-    title: 'EDS Tracker App for iPhone | Zebra Symptom Tracker',
+    lastReviewed: 'September 1, 2026',
+    title: 'EDS Symptom Tracker App for iPhone | Zebra',
     description:
-      'Track EDS and hEDS pain, fatigue, instability, overlap symptoms, flares, medications, notes, and doctor reports with Zebra.',
+      'Track EDS and hEDS symptoms, flares, instability, fatigue, medications, notes, and appointment history in one iPhone app.',
     eyebrow: 'EDS / hEDS tracker',
-    h1: 'EDS tracker app for invisible symptoms, overlap, and appointment prep.',
+    h1: 'EDS symptom tracker for Ehlers-Danlos history and appointment prep.',
     directAnswer:
-      'Zebra is an iPhone EDS and hEDS tracker for people who need pain, fatigue, instability, dysautonomia overlap, medications, flares, and notes in one body-wide record.',
+      'Zebra is an iPhone EDS and hEDS symptom tracker for keeping pain, fatigue, instability, dysautonomia overlap, flares, medications, and notes in one patient-entered history.',
     summary: [
-      'EDS and HSD can involve symptoms across many body systems, and many symptoms are not visible from the outside. Zebra gives the overlap a single place to land.',
-      'The goal is not to prove a diagnosis. The goal is to reduce appointment memory work and keep a clearer history.',
+      'EDS and HSD histories can include symptoms across many body systems, while the most important changes may be difficult to explain from memory. Zebra gives those entries one place to land.',
+      'The goal is not to prove a diagnosis or interpret symptoms. It is to reduce appointment memory work and keep a clearer record of what you experienced.',
     ],
-    whyTitle: 'Why EDS tracking needs an overlap view',
+    whyTitle: 'Why EDS symptom tracking needs context',
     why: [
-      'Pain, fatigue, dizziness, palpitations, digestive issues, mobility limits, and brain fog can appear connected even when they are tracked separately.',
-      'A calm tracker can help preserve context before the appointment asks for it.',
-      'Zebra is built around invisible illness and specialist prep, not exercise goals or wellness streaks.',
+      'Pain, fatigue, dizziness, palpitations, digestive symptoms, mobility limits, and brain fog are harder to review when they are split across apps.',
+      'Keeping changes, flares, function, and questions together creates a more useful recent history for an appointment.',
+      'Zebra is built around invisible illness and specialist preparation, not exercise goals or wellness streaks.',
     ],
     tracksTitle: 'What Zebra helps track for EDS and hEDS',
-    tracks: commonTracks,
-    bestFor: [],
-    notFor: [],
+    tracks: [
+      'Pain, fatigue, dizziness, palpitations, brain fog, and other selected symptoms',
+      'Flares, severity, notes, triggers, and functional impact',
+      'Instability or mobility changes in the context of your day',
+      'Medications, salt, water, and questions to bring to care conversations',
+      'Orthostatic vitals with lying, standing, and recovery observations when relevant',
+      'A doctor-ready PDF report from the history you entered with Premium',
+    ],
+    bestFor: [
+      'People who want an EDS or hEDS symptom diary that also keeps dysautonomia overlap in view.',
+      'People preparing for an EDS, rheumatology, pain, or other specialist appointment.',
+      'People who need a low-energy way to preserve symptom history without building a custom medical database.',
+    ],
+    notFor: [
+      'People looking for EDS diagnosis, subtype assessment, treatment advice, or medical interpretation.',
+      'People who want fitness goals, mobility challenges, or wellness streaks.',
+      'People who need Android support today.',
+    ],
     trust:
       'EDS and HSD care decisions belong with qualified healthcare professionals. Zebra helps you track what you experience and prepare questions for care conversations.',
     cta: 'Start tracking EDS symptoms',
-    related: [],
+    related: [
+      { label: 'Flare tracker', href: '/flare-tracker/' },
+      { label: 'Doctor-ready symptom report', href: '/doctor-report/' },
+      { label: 'Appointment prep checklist', href: '/appointment-prep-checklist/' },
+      { label: 'Track EDS and dysautonomia overlap', href: '/blog/how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia/' },
+      { label: 'What to track before an EDS specialist appointment', href: '/blog/what-to-track-before-an-eds-specialist-appointment/' },
+    ],
     faqs: [
       {
         question: 'Can Zebra track EDS and dysautonomia overlap?',
@@ -296,37 +327,55 @@ export const searchPages: SearchPage[] = [
         answer:
           'No. Zebra is not subtype-specific or diagnostic. It is a tracker for patient-entered symptoms, flares, context, and appointment preparation.',
       },
+      {
+        question: 'What can I track with an EDS symptom tracker?',
+        answer:
+          'You can track patient-entered symptoms, flares, severity, notes, functional impact, medications, triggers, orthostatic observations, and appointment questions in one history.',
+      },
     ],
   }),
   withDefaults({
     slug: 'fibromyalgia-tracker',
     kind: 'condition',
-    lastReviewed,
-    title: 'Fibromyalgia Tracker App for Flares, Pain & Brain Fog | Zebra',
+    lastReviewed: 'September 1, 2026',
+    title: 'Fibromyalgia Symptom Tracker App for iPhone | Zebra',
     description:
-      'Track fibromyalgia flares, pain, fatigue, brain fog, medications, triggers, notes, and doctor-ready reports on iPhone.',
+      'Track fibromyalgia symptoms, flares, pain, fatigue, brain fog, medications, triggers, and appointment notes in one iPhone app.',
     eyebrow: 'Fibromyalgia tracker',
-    h1: 'Fibromyalgia tracker for flares, pain, fatigue, and brain fog.',
+    h1: 'Fibromyalgia symptom tracker for flares, pain, fatigue, and brain fog.',
     directAnswer:
-      'Zebra is an iPhone fibromyalgia tracker for people who need a low-energy way to track flares, pain, fatigue, brain fog, medications, triggers, and appointment notes.',
+      'Zebra is an iPhone fibromyalgia symptom tracker for keeping flares, pain, fatigue, brain fog, medications, triggers, functional impact, and appointment notes in one history.',
     summary: [
-      'Fibromyalgia commonly involves pain, fatigue, sleep problems, and thinking or memory issues. Zebra keeps those changes in one dated record for appointment prep.',
-      'On a hard day, one quick check-in is enough. You can add more context later if you have the energy.',
+      'Fibromyalgia symptom history can be difficult to summarize when pain, fatigue, sleep problems, and brain fog change together. Zebra keeps those changes in one dated record for review.',
+      'On a hard day, one quick check-in is enough. Add context later if you have the energy, then use the history to prepare questions for an appointment.',
     ],
-    whyTitle: 'Why fibromyalgia flare tracking matters',
+    whyTitle: 'Why a low-energy fibromyalgia tracker matters',
     why: [
-      'Flares are easy to remember in the moment and hard to summarize weeks later.',
-      'Pain, fatigue, medications, brain fog, and notes are more useful when they stay connected.',
-      'A doctor-ready report helps you review recent history without relying on perfect recall.',
+      'Flares are easy to notice in the moment and hard to summarize weeks later.',
+      'Pain, fatigue, brain fog, medications, daily impact, and notes are more useful when they stay connected.',
+      'A doctor-ready report can reduce the need to rebuild recent history from perfect recall.',
     ],
     tracksTitle: 'What Zebra helps track for fibromyalgia',
     tracks: commonTracks,
-    bestFor: [],
-    notFor: [],
+    bestFor: [
+      'People who want a fibromyalgia symptom diary that remains usable during a flare or brain-fog day.',
+      'People who want pain, fatigue, brain fog, function, and medication context in one dated history.',
+      'People preparing a clearer recent summary for a primary care, pain, rheumatology, or follow-up appointment.',
+    ],
+    notFor: [
+      'People looking for a diagnosis, treatment recommendation, medication advice, or symptom interpretation.',
+      'People who want a fitness score, activity challenge, or streak-based wellness app.',
+      'People who need Android support today.',
+    ],
     trust:
       'Zebra does not interpret pain or recommend treatment. Talk with a healthcare professional about diagnosis, medication, therapy, concerning symptoms, and care decisions.',
     cta: 'Track fibromyalgia flares',
-    related: [],
+    related: [
+      { label: 'Flare tracker', href: '/flare-tracker/' },
+      { label: 'Doctor-ready symptom report', href: '/doctor-report/' },
+      { label: 'Appointment prep checklist', href: '/appointment-prep-checklist/' },
+      { label: 'What to log during a fibromyalgia flare', href: '/blog/fibromyalgia-flare-tracker-what-to-log/' },
+    ],
     faqs: [
       {
         question: 'Can Zebra track fibro fog?',
@@ -338,22 +387,27 @@ export const searchPages: SearchPage[] = [
         answer:
           'Yes. Zebra can keep symptoms, flare severity, sleep-related notes, medications, triggers, and appointment context in one timeline. It is not a dedicated sleep tracker.',
       },
+      {
+        question: 'What can I track with a fibromyalgia symptom tracker?',
+        answer:
+          'You can track patient-entered symptoms, flare severity, pain, fatigue, brain fog, sleep-related notes, medications, triggers, functional impact, and appointment questions.',
+      },
     ],
   }),
   withDefaults({
     slug: 'orthostatic-vitals-test',
     kind: 'feature',
-    lastReviewed,
-    title: 'Orthostatic Vitals Test Tracker for iPhone | Zebra',
+    lastReviewed: 'September 1, 2026',
+    title: 'Orthostatic Vitals Tracker for iPhone | Zebra',
     description:
-      'Use Zebra to track lying, sitting, and standing orthostatic vitals beside symptoms, flares, salt, water, medications, and doctor reports.',
+      'Use Zebra to track lying, standing, and recovery orthostatic vitals beside symptoms, flares, salt, water, medications, and doctor reports.',
     eyebrow: 'Orthostatic vitals',
-    h1: 'Orthostatic vitals test tracking that stays connected to the rest of the day.',
+    h1: 'Track orthostatic vitals with symptoms, heart rate, and daily context.',
     directAnswer:
-      'Zebra helps people track orthostatic vitals in a guided lying, sitting, and standing flow, then keeps those observations beside symptoms, medications, salt, water, flares, and notes.',
+      'Zebra records patient-entered orthostatic vitals in a guided lying, standing, and recovery flow, then keeps those observations beside symptoms, medications, salt, water, flares, and notes.',
     summary: [
       'Orthostatic testing is often used in POTS and orthostatic intolerance evaluation, but numbers alone can lose the surrounding context.',
-      'Zebra keeps the position-based observations with the rest of the timeline so they are easier to review before a clinician visit.',
+      'Zebra keeps the position-based observations with the rest of the timeline so they are easier to review before a clinician visit: lie down → record → stand and recover as supported by the product → save → review in history or report.',
     ],
     whyTitle: 'Why orthostatic vitals need daily context',
     why: [
@@ -362,9 +416,9 @@ export const searchPages: SearchPage[] = [
       'The report can include orthostatic observations alongside flares and daily context.',
     ],
     tracksTitle: 'What the Zebra orthostatic flow helps preserve',
-    tracks: ['Lying observations', 'Sitting observations', 'Standing observations', ...commonTracks.slice(1)],
+    tracks: ['Lying observations', 'Standing observations', 'Recovery observations', ...commonTracks.slice(1)],
     bestFor: [
-      'People who want a guided place to record lying, sitting, and standing observations.',
+      'People who want a guided place to record lying, standing, and recovery observations.',
       'People who want orthostatic vitals connected to symptoms, meds, salt, water, triggers, and notes.',
       'People preparing for a cardiology or specialist visit who do not want vitals stuck in screenshots.',
     ],
@@ -376,7 +430,12 @@ export const searchPages: SearchPage[] = [
     trust:
       'Zebra tracks observations you enter. It does not diagnose POTS, determine whether a test is normal, or replace clinician-directed testing.',
     cta: 'Track orthostatic vitals',
-    related: [],
+    related: [
+      { label: 'POTS symptom tracker', href: '/pots-tracker/' },
+      { label: 'Doctor-ready symptom report', href: '/doctor-report/' },
+      { label: 'Track POTS symptoms and orthostatic changes', href: '/blog/how-to-track-pots-symptoms-and-orthostatic-changes/' },
+      { label: 'POTS home test notes', href: '/blog/pots-home-test-notes-heart-rate-blood-pressure/' },
+    ],
     faqs: [
       {
         question: 'Does Zebra run a medical test?',
@@ -388,21 +447,26 @@ export const searchPages: SearchPage[] = [
         answer:
           'Yes. Zebra can include orthostatic vitals history in the doctor-ready report with symptoms and daily context.',
       },
+      {
+        question: 'Does Zebra diagnose POTS from orthostatic vitals?',
+        answer:
+          'No. Zebra records patient-entered observations. It does not diagnose POTS, determine whether a result is normal, or interpret measurements as a clinician.',
+      },
     ],
   }),
   withDefaults({
     slug: 'doctor-report',
     kind: 'feature',
-    lastReviewed,
-    title: 'Doctor-Ready Symptom Report App for iPhone | Zebra',
+    lastReviewed: 'September 1, 2026',
+    title: 'Doctor Symptom Report App for iPhone | Zebra',
     description:
-      'Create a doctor-ready report from flares, symptoms, meds, salt, water, orthostatic vitals, triggers, notes, and appointment context.',
+      'Turn tracked flares, symptoms, meds, salt, water, orthostatic vitals, and notes into a doctor-ready PDF report for appointments.',
     eyebrow: 'Doctor report',
-    h1: 'A doctor-ready symptom report from the history you already tracked.',
+    h1: 'A doctor-ready symptom report from the history you tracked.',
     directAnswer:
-      'Zebra turns patient-entered flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context into a doctor-ready PDF report for appointments.',
+      'Zebra turns patient-entered flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context into a doctor-ready PDF report you can review before an appointment.',
     summary: [
-      'The report is designed for the moment when memory gets thin and the appointment clock is running.',
+      'This page is about the output, not the logging step: how tracked history becomes one PDF you can open before the visit, share, or use to steady your memory in the room.',
       'It gives you a clearer way to show what happened between appointments without promising a diagnosis or specific outcome.',
     ],
     whyTitle: 'Why a doctor-ready report helps',
@@ -426,7 +490,15 @@ export const searchPages: SearchPage[] = [
     trust:
       'A report can support a clearer conversation, but it does not ensure belief, diagnosis, treatment, or any specific medical outcome.',
     cta: 'Create your first doctor report',
-    related: [],
+    related: [
+      { label: 'Appointment prep checklist', href: '/appointment-prep-checklist/' },
+      { label: 'POTS symptom tracker', href: '/pots-tracker/' },
+      { label: 'Orthostatic vitals tracker', href: '/orthostatic-vitals-test/' },
+      { label: 'Flare tracker', href: '/flare-tracker/' },
+      { label: 'Sample doctor report PDF', href: '/sample-doctor-report.pdf' },
+      { label: 'What is a doctor-ready symptom report?', href: '/blog/what-is-a-doctor-ready-symptom-report/' },
+      { label: 'Track symptoms for doctor appointments', href: '/appointment-prep-checklist/' },
+    ],
     faqs: [
       {
         question: 'Can I export a PDF report?',
@@ -438,17 +510,27 @@ export const searchPages: SearchPage[] = [
         answer:
           'Start with flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and questions you want to ask.',
       },
+      {
+        question: "What is included in Zebra's doctor report?",
+        answer:
+          'The report can organize your patient-entered flares, symptoms, medications, salt, water, orthostatic vitals, triggers, notes, and appointment context into a reviewable summary.',
+      },
+      {
+        question: 'Can I export my symptom history?',
+        answer:
+          'Yes. Premium includes doctor-ready PDF report export from the history you entered; it is an organizing aid, not a diagnostic report or clinician interpretation.',
+      },
     ],
   }),
   withDefaults({
     slug: 'flare-tracker',
     kind: 'feature',
-    lastReviewed,
-    title: 'Flare Tracker App for Invisible Illness | Zebra',
+    lastReviewed: 'September 1, 2026',
+    title: 'Flare Tracker App for Chronic Illness | Zebra',
     description:
       'Track chronic illness flares, severity, symptoms, triggers, medications, notes, and doctor-ready reports in under 60 seconds.',
     eyebrow: 'Flare tracker',
-    h1: 'A flare tracker for bad days, brain fog, and appointment proof.',
+    h1: 'A flare tracker for symptoms, triggers, and hard days.',
     directAnswer:
       'Zebra is an iPhone flare tracker that helps people quickly track severity, duration, symptoms, medications, triggers, and notes, then use that history for a doctor report.',
     summary: [
@@ -468,7 +550,12 @@ export const searchPages: SearchPage[] = [
     trust:
       'Zebra is not an emergency tool. Seek urgent care or emergency services for concerning, severe, or rapidly worsening symptoms.',
     cta: 'Start tracking flares',
-    related: [],
+    related: [
+      { label: 'POTS symptom tracker', href: '/pots-tracker/' },
+      { label: 'Doctor-ready symptom report', href: '/doctor-report/' },
+      { label: 'Fibromyalgia tracker', href: '/fibromyalgia-tracker/' },
+      { label: 'Track medication changes during a flare', href: '/blog/how-to-track-medication-changes-during-a-flare/' },
+    ],
     faqs: [
       {
         question: 'Can I track only one thing on a bad day?',
@@ -479,6 +566,16 @@ export const searchPages: SearchPage[] = [
         question: 'Can flare history help with appointments?',
         answer:
           'Yes. Flare history can make it easier to review what changed, what repeated, and what questions you want to bring to a clinician.',
+      },
+      {
+        question: 'What can I record during a flare?',
+        answer:
+          'You can record severity, symptoms, duration, triggers or surrounding context, medications, function changes, and notes, then review the history later.',
+      },
+      {
+        question: 'Does Zebra predict flares?',
+        answer:
+          'No. Zebra records and organizes the history you enter. It does not predict, detect, diagnose, or interpret flares.',
       },
     ],
   }),
@@ -577,7 +674,7 @@ export const searchPages: SearchPage[] = [
       rows: [
         { factor: 'Best fit', first: 'Broad custom health tracking', second: 'POTS, EDS, Fibromyalgia, and appointment prep' },
         { factor: 'Setup burden', first: 'Highly customizable, which can take setup', second: 'Condition-aware structure from the start' },
-        { factor: 'Orthostatic vitals', first: 'Not the core workflow', second: 'Guided lying, sitting, standing tracking' },
+        { factor: 'Orthostatic vitals', first: 'Not the core workflow', second: 'Guided lying, standing, recovery tracking' },
         { factor: 'Doctor report', first: 'Useful exports depending on setup', second: 'Doctor-ready report is the product payoff' },
       ],
     },
@@ -766,7 +863,7 @@ export const searchPages: SearchPage[] = [
     directAnswer:
       'The best POTS symptom tracker app should keep upright symptoms, orthostatic vitals, salt, water, medications, flares, triggers, notes, and appointment questions in one reviewable history.',
     summary: [
-      'For POTS, the app matters less than whether you can keep using it on low-energy days and bring a clear history to the clinician who asks what changed.',
+      'This page is for choosing between app types, not for learning how to track POTS. For POTS, the app matters less than whether you can keep using it on low-energy days and bring a clear history to the clinician who asks what changed.',
     ],
     whyTitle: 'What to look for in a POTS tracker',
     why: [
@@ -789,7 +886,12 @@ export const searchPages: SearchPage[] = [
     trust:
       'This page helps compare tracking features. Ask a clinician about diagnosis, treatment, salt/fluid changes, medications, and concerning symptoms.',
     cta: 'Try Zebra for POTS tracking',
-    related: [],
+    related: [
+      { label: 'POTS tracker', href: '/pots-tracker/' },
+      { label: 'Orthostatic vitals test', href: '/orthostatic-vitals-test/' },
+      { label: 'Doctor report', href: '/doctor-report/' },
+      { label: 'Best app for orthostatic symptom tracking', href: '/blog/best-app-for-orthostatic-symptom-tracking/' },
+    ],
     faqs: [
       {
         question: 'What should a POTS tracker include?',
@@ -824,7 +926,7 @@ export const searchPages: SearchPage[] = [
     directAnswer:
       'The best chronic illness symptom tracker app should work on bad days, reduce memory work, track overlap symptoms, and help create a clear appointment summary rather than another wellness dashboard.',
     summary: [
-      'For invisible illness, tracking has to respect energy. Zebra is built around quick check-ins, overlap symptoms, orthostatic vitals, and doctor-ready reports.',
+      'This page is for people comparing tracker categories and deciding what kind of app is worth trying. For invisible illness, tracking has to respect energy, which is why Zebra is built around quick check-ins, overlap symptoms, orthostatic vitals, and doctor-ready reports.',
     ],
     whyTitle: 'What matters for chronic illness tracking',
     why: [
@@ -847,7 +949,12 @@ export const searchPages: SearchPage[] = [
     trust:
       'Zebra helps organize patient-entered history. It does not replace care, diagnose conditions, or tell you what symptoms mean.',
     cta: 'Download Zebra for iPhone',
-    related: [],
+    related: [
+      { label: 'Symptom tracker for invisible illness', href: '/symptom-tracker-for-invisible-illness/' },
+      { label: 'Flare tracker', href: '/flare-tracker/' },
+      { label: 'Doctor report', href: '/doctor-report/' },
+      { label: 'Zebra vs Visible', href: '/zebra-vs-visible/' },
+    ],
     faqs: [
       {
         question: 'What is the best symptom tracker for invisible illness?',
@@ -917,6 +1024,14 @@ export function getSoftwareApplicationSchema(page: SearchPage) {
         url: siteConfig.appStore.url,
         description:
           'Annual Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+      },
+      {
+        '@type': 'Offer',
+        price: '59.99',
+        priceCurrency: 'USD',
+        availability: 'https://schema.org/InStock',
+        url: siteConfig.appStore.url,
+        description: 'Lifetime Premium unlocks Premium with a one-time purchase and no subscription renewal.',
       },
     ],
   };

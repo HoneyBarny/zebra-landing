@@ -8,10 +8,10 @@ description: "Erfahren Sie, was ein orthostatischer Test festhalten kann und war
 excerpt: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nuetzlicher sind, wenn sie beim Symptomverlauf bleiben."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-09-02"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "orthostatischer test tracker"
@@ -57,6 +57,8 @@ faq:
 ---
 
 Ein orthostatischer Test hilft festzuhalten, was mit Symptomen und, wenn relevant, Herzfrequenz oder Blutdruck passiert, waehrend Sie verschiedene Positionen durchlaufen, zum Beispiel Liegen, Sitzen und Stehen. Er ist nuetzlich, weil er eine strukturierte Momentaufnahme von Veraenderungen im Aufrechtsein erfasst, statt diese Geschichte in Erinnerung und einzelnen Notizen zu verteilen.
+
+Zebra beschreibt den Produktpfad fuer diese Aufgabe auf der Seite [Schellong-Test und orthostatische Werte dokumentieren](/de-de/orthostatic-vitals-test/). Wenn Sie konkrete Heimwerte sammeln, erklaert [POTS-Test zuhause: Schellong-Test-Notizen](/de-de/blog/pots-home-test-notes-heart-rate-blood-pressure/), welche Kontextangaben neben Puls, Blutdruck und Symptomen hilfreich sind. Wenn Sie die Beobachtungen spaeter fuer den Termin zusammenfassen wollen, fuehrt der [Symptombericht fuer den Arzt](/de-de/doctor-report/) weiter.
 
 ## Wofuer der Test nuetzlich ist
 

@@ -154,6 +154,8 @@ This can become part of a [doctor-ready symptom report](/blog/what-is-a-doctor-r
 
 Zebra keeps medications, symptoms, flares, notes, and appointment questions in one timeline so medication context does not get separated from the rest of your health history.
 
+See the [flare tracker app](/flare-tracker/) page for the low-energy tracking workflow, or start with the [doctor-ready symptom report](/doctor-report/) when the appointment is the next step.
+
 ## Key takeaways
 
 - Track medication changes beside symptoms and flares.

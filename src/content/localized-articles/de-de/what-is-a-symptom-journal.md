@@ -1,24 +1,24 @@
 ---
 locale: "de-de"
 originalSlug: "what-is-a-symptom-journal"
-title: "Was ist ein Symptomtagebuch?"
+title: "Symptomtagebuch für den Arzttermin: Was gehört hinein?"
 status: "published"
-subtitle: "Ein Symptomtagebuch ist eine Aufzeichnung von Symptomen, Veraenderungen und wichtigem Kontext ueber die Zeit. Es kann so einfach sein wie eine Notiz-App oder so strukturiert wie ein spezieller Tracker. Es geht nicht darum, ein perfektes Tagebuch zu fuehren. Es geht darum, die eigene Symptomgeschichte spaeter leichter zu verstehen und leichter zu besprechen."
-description: "Erfahren Sie, was ein Symptomtagebuch ist, was hineingehoert und warum Struktur beim Tracking chronischer Erkrankungen hilft."
-excerpt: "Erfahren Sie, was ein Symptomtagebuch ist, was hineingehoert und warum Struktur beim Tracking chronischer Erkrankungen hilft."
+subtitle: "Ein nuetzliches Symptomtagebuch haelt die Details zusammen, die Ihr Arzt braucht: was sich veraendert hat, wann es passiert ist, wie stark es war, was im Alltag ausfiel und welche Frage offen bleibt."
+description: "Erfahren Sie, was in ein Symptomtagebuch fuer den Arzttermin gehoert: Zeitpunkt, Veraenderungen, Alltag, Medikamente, Schuebe und Fragen."
+excerpt: "Ein praktischer Leitfaden, wie aus taeglichen Notizen eine klare Zusammenfassung fuer den Arzttermin wird."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
-nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "was ist ein symptomtagebuch"
-seoTitle: "Was ist ein Symptomtagebuch? | Zebra"
-metaDescription: "Erfahren Sie, was ein Symptomtagebuch ist, was hineingehoert und warum Struktur beim Tracking chronischer Erkrankungen hilft."
-ogTitle: "Was ist ein Symptomtagebuch?"
-ogDescription: "Eine klare Erklaerung, was ein Symptomtagebuch ist und warum es fuer Symptomverlauf und Terminvorbereitung wichtig ist."
+seoTitle: "Symptomtagebuch für den Arzttermin | Zebra"
+metaDescription: "Erfahren Sie, was in ein Symptomtagebuch fuer den Arzttermin gehoert: Zeitpunkt, Veraenderungen, Alltag, Medikamente, Schuebe und Fragen."
+ogTitle: "Symptomtagebuch fuer den Arzttermin"
+ogDescription: "Aus taeglichen Notizen eine klarere Zusammenfassung fuer den Arzttermin machen."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Konzeptbild, das erklaert, was ein Symptomtagebuch ist"
 ctaLabel: "Zebra laden"
@@ -48,28 +48,45 @@ schemaTypes:
   - "Article"
   - "FAQPage"
 faq:
-  - question: "Wozu dient ein Symptomtagebuch?"
-    answer: "Es hilft, Symptome, Veraenderungen und Kontext klarer festzuhalten, damit der Verlauf spaeter leichter geprueft werden kann."
+  - question: "Was gehoert in ein Symptomtagebuch fuer den Arzttermin?"
+    answer: "Halten Sie Hauptsymptome, Beginn oder Veraenderung, Staerke, relevanten Kontext, Medikamentenaenderungen, Schubmuster, Alltagsauswirkung und Fragen fest."
   - question: "Ist ein Symptomtagebuch dasselbe wie ein normales Tagebuch?"
     answer: "Nicht ganz. Es kann Notizen enthalten, aber der Hauptzweck ist ein nutzbarer Symptomverlauf."
   - question: "Brauche ich fuer ein Symptomtagebuch eine spezielle App?"
     answer: "Nicht immer. Eine spezielle App kann aber helfen, wenn Sie mehr Struktur und eine leichtere spaetere Uebersicht brauchen."
 ---
 
-Ein Symptomtagebuch ist eine Aufzeichnung von Symptomen, Veraenderungen und wichtigem Kontext ueber die Zeit. Es kann so einfach sein wie eine Notiz-App oder so strukturiert wie ein spezieller Tracker. Es geht nicht darum, ein perfektes Tagebuch zu fuehren. Es geht darum, die eigene Symptomgeschichte spaeter leichter zu verstehen und leichter zu besprechen.
+Ein Symptomtagebuch fuer den Arzttermin ist eine kurze, geordnete Aufzeichnung von Symptomen, Veraenderungen, Zeitpunkten, Kontext und Alltagsauswirkung. Es kann in einer Notiz-App oder einem speziellen Tracker liegen. Die Struktur hilft, Veraenderungen zu erklaeren, ohne im Termin die gesamte Geschichte aus dem Gedaechtnis neu aufzubauen.
 
-## Was gehoert in ein Symptomtagebuch?
+Starten Sie mit der [Checkliste zur Terminvorbereitung](/de-de/appointment-prep-checklist/) und nutzen Sie den [Symptombericht fuer den Arzt](/de-de/doctor-report/), wenn aus einem laengeren Verlauf eine kurze Zusammenfassung werden soll.
+
+## Was gehoert in ein arztbereites Symptomtagebuch?
 
 Nuetzliche Eintraege enthalten oft:
 
 - Symptome
-- Schweregrad
-- was sich veraendert hat
-- Schubnotizen
-- Auswirkungen auf den Alltag
-- Medikamenten- oder Routinekontext
+- wann Symptome begonnen, sich veraendert oder wiedergekehrt sind
+- Staerke und relevanter Kontext
+- Schubnotizen und moegliche Ausloeser
+- Auswirkungen auf Arbeit, Schule, Pflege, Schlaf oder Grundaufgaben
+- Medikamenten-, Supplement- oder Routineveraenderungen
+- relevante Vitalwerte, wenn Sie diese bereits erfassen
+- Fragen fuer den Termin
 
-Nicht jeder Eintrag braucht all diese Punkte. Am wichtigsten ist, dass die Aufzeichnung spaeter noch brauchbar bleibt.
+Nicht jeder Eintrag braucht jedes Feld. Halten Sie die kleinste Notiz fest, die beim Vergleichen oder Erklaeren einer Veraenderung hilft.
+
+## Aus Wochen von Notizen eine kurze Zusammenfassung machen
+
+Vor dem Termin ziehen Sie heraus:
+
+- was neu oder schlimmer ist
+- was stabil geblieben ist
+- zwei oder drei Beispiele, die Ihren Alltag veraendert haben
+- was vor den Symptomen passiert ist
+- was geholfen hat oder nicht geholfen hat
+- was Ihr Arzt entscheiden oder erklaeren soll
+
+Das Ziel ist eine brauchbare Zusammenfassung, keine Datensammlung.
 
 ## Warum viele Menschen dazu geraten bekommen
 
@@ -79,6 +96,8 @@ Ein Symptomtagebuch kann helfen:
 - Veraenderungen ueber Zeit zu erkennen
 - Termine vorzubereiten
 - zu erklaeren, wie schlechte Tage wirklich aussahen
+
+Der [arztbereite Symptombericht](/de-de/blog/what-is-a-doctor-ready-symptom-report/) zeigt, wie Sie diese Zusammenfassung ordnen, ohne daraus eine Diagnose zu machen.
 
 Das ist besonders nuetzlich, wenn das Erinnern schwerfaellt oder Symptome stark schwanken.
 
@@ -95,7 +114,7 @@ Deshalb ist Struktur wichtig.
 
 ## Wo Zebra hineinpasst
 
-Zebra ist ein strukturiertes Symptomtagebuch fuer Menschen, die moechten, dass ihre Aufzeichnungen spaeter fuer Uebersicht und Terminvorbereitung nutzbar bleiben, besonders wenn Symptome, Schuebe, Medikamente und Funktionsveraenderungen zusammengehoeren.
+Zebra haelt Symptome, Schuebe, Medikamente, Funktionsveraenderungen und Terminfragen zusammen. Der [Symptombericht fuer den Arzt](/de-de/doctor-report/) macht daraus eine klarere Termin-Zusammenfassung. Zebra diagnostiziert nicht, deutet Ursachen nicht aus und ersetzt keinen Arzt.
 
 ## Wichtigste Punkte
 
@@ -105,9 +124,9 @@ Zebra ist ein strukturiertes Symptomtagebuch fuer Menschen, die moechten, dass i
 
 ## FAQ
 
-### Wozu dient ein Symptomtagebuch?
+### Was gehoert in ein Symptomtagebuch fuer den Arzttermin?
 
-Es hilft, Symptome, Veraenderungen und Kontext klarer festzuhalten, damit der Verlauf spaeter leichter geprueft werden kann.
+Halten Sie Hauptsymptome, Beginn oder Veraenderung, Staerke, relevanten Kontext, Medikamentenaenderungen, Schubmuster, Alltagsauswirkung und Fragen fest.
 
 ### Ist ein Symptomtagebuch dasselbe wie ein normales Tagebuch?
 

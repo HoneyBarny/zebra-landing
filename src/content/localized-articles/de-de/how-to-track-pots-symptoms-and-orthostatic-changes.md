@@ -8,10 +8,10 @@ description: "Erfahren Sie, wie Sie POTS-Symptome, Veraenderungen im Aufrechtsei
 excerpt: "Erfahren Sie, wie Sie POTS-Symptome, Veraenderungen im Aufrechtsein, Schuebe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-09-02"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "pots symptome tracken"
@@ -61,6 +61,8 @@ faq:
 Um POTS-Symptome gut zu tracken, konzentrieren Sie sich auf die Symptome, die am wichtigsten sind, wann sie auftreten, wie sie sich mit der Position veraendern und was sonst drumherum passiert ist. Ziel ist nicht, endlos Zahlen zu sammeln. Ziel ist ein klarer Verlauf von Symptomen im Aufrechtsein, Schueben und relevantem Kontext, den Sie spaeter pruefen oder zu einem Termin mitbringen koennen.
 
 POTS-Tracking wird viel nuetzlicher, wenn Symptome und orthostatische Beobachtungen im selben Verlauf liegen, statt in getrennten Apps oder Screenshots.
+
+Wenn Sie zu Hause Puls oder Blutdruck erfassen, hilft [POTS-Test zuhause: Schellong-Test-Notizen](/de-de/blog/pots-home-test-notes-heart-rate-blood-pressure/) dabei, diese Werte mit Haltung, Zeitpunkt, Symptomen, Sicherheitskontext und Arztfragen zusammenzuhalten.
 
 ## Was Sie tracken sollten
 

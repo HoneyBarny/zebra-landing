@@ -15,27 +15,27 @@ const localePath = localeRoutes.frFr;
 
 const faqItems = [
   {
-    question: 'Qu est-ce que Zebra ?',
-    answer:
-      'Zebra est une app iPhone de suivi des symptomes pour le POTS, le SED et la fibromyalgie. Elle vous aide a garder un historique saisi par vous et a le transformer en rapport pret pour un rendez-vous medical.',
-  },
-  {
     question: 'Quel est le meilleur tracker de symptomes pour le POTS ?',
     answer:
       'Le meilleur tracker de symptomes POTS est un outil que vous pouvez encore utiliser les jours de poussee et avant les rendez-vous. Zebra est concue pour le POTS, la dysautonomie, les constantes orthostatiques, le sel, l hydratation, le contexte de frequence cardiaque, le brouillard mental, les symptomes et les rapports medicaux.',
   },
   {
-    question: 'Que peut-on suivre avec Zebra ?',
+    question: 'Zebra peut-elle suivre les constantes orthostatiques et la frequence cardiaque ?',
     answer:
-      'Zebra permet de suivre les poussees quotidiennes, les symptomes, les medicaments, le sel, l eau, les constantes orthostatiques, les declencheurs, les notes et les rapports PDF pour les rendez-vous.',
+      'Oui. Zebra peut garder les mesures allongee, assise et debout dans la meme chronologie que les symptomes, poussees, medicaments, sel/sodium, hydratation, notes et questions de rendez-vous.',
   },
   {
     question: 'Zebra peut-elle aider a preparer un rendez-vous ?',
     answer:
-      'Oui. Zebra garde votre historique de symptomes organise, montre les tendances dans le temps et exporte un rapport que vous pouvez relire avant une consultation specialisee.',
+      'Oui. Zebra garde votre historique de symptomes organise, montre les tendances dans le temps et exporte un rapport que vous pouvez relire avant une consultation specialisee, de cardiologie ou de suivi.',
   },
   {
-    question: 'En quoi Zebra est-elle differente de Notes ou d un tracker generaliste ?',
+    question: 'Puis-je suivre sodium, hydratation, symptomes et brouillard mental ensemble ?',
+    answer:
+      'Oui. Zebra garde sel/sodium, eau, symptomes, brouillard mental, fatigue, medicaments, declencheurs, notes et contexte de poussee ensemble pour mieux relire l historique plus tard.',
+  },
+  {
+    question: 'En quoi Zebra est-elle differente de Notes ou d un journal de symptomes generaliste ?',
     answer:
       'Notes et les tableurs commencent vides. Zebra fournit une structure adaptee, le suivi des constantes orthostatiques et un rapport pour le medecin, sans series bien-etre ni configuration generique.',
   },
@@ -64,9 +64,9 @@ export const homePageFrFr = {
     path: localePath,
   },
   seo: {
-    title: 'Zebra : suivi des symptomes POTS, SED et fibromyalgie sur iPhone',
+    title: 'Tracker POTS pour poussees, constantes et rendez-vous | Zebra',
     description:
-      'Suivez symptomes POTS, SED et fibromyalgie, poussees, constantes orthostatiques et medicaments, puis transformez l historique en rapport pour votre medecin.',
+      'Suivez poussees POTS, symptomes de dysautonomie, constantes orthostatiques, sodium, hydratation, frequence cardiaque, brouillard mental, medicaments et notes de rendez-vous.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
       'Apercu Zebra d un rapport medical cree a partir des symptomes, constantes orthostatiques, medicaments et notes de rendez-vous.',
@@ -89,16 +89,17 @@ export const homePageFrFr = {
   hero: {
     ...homePage.hero,
     eyebrow: 'Pour le POTS, le SED et la fibromyalgie',
-    title: 'Arrivez au rendez-vous avec un historique clair de vos symptomes.',
+    title: 'Suivez poussees POTS, constantes, sodium et brouillard mental avant votre prochain rendez-vous.',
     body:
-      'Suivez symptomes, poussees, constantes orthostatiques, medicaments, sel, eau et notes dans un seul espace calme, puis transformez cet historique en rapport pour votre medecin.',
+      'Zebra vous aide a suivre symptomes, poussees, constantes orthostatiques, frequence cardiaque, medicaments, sel/sodium, eau et notes dans un espace calme, puis a transformer l historique en rapport pour le medecin.',
     trustLine:
       'Suivi gratuit. Confidentialite des la conception. Vos donnees restent sur votre appareil.',
     ctaSupport: ['Confidentialite des la conception', 'Aucun compte requis', 'Pas un avis medical'],
     bullets: [
-      'Une app pour le POTS, le SED et la fibromyalgie',
+      'Suivi POTS et dysautonomie',
+      'Constantes orthostatiques, sodium et symptomes',
       'Check-ins en moins de 60 secondes',
-      'Rapport PDF pour le medecin',
+      'Rapport pret pour le rendez-vous',
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
@@ -139,7 +140,7 @@ export const homePageFrFr = {
     items: [
       { title: 'Poussees de POTS et de dysautonomie', body: 'Suivez l intensite, la duree, les declencheurs, la recuperation et ce qui a change pour ne pas devoir reconstruire la poussee de memoire plus tard.' },
       { title: 'Symptomes et brouillard mental', body: 'Gardez vertiges, fatigue, douleur, palpitations, brouillard mental, notes et symptomes qui se chevauchent dans un historique date.' },
-      { title: 'Constantes orthostatiques et frequence cardiaque', body: 'Enregistrez les observations allongee, assise et debout avec le contexte de frequence cardiaque et les symptomes du meme jour.' },
+      { title: 'Constantes orthostatiques et frequence cardiaque', body: 'Enregistrez les observations allongee, debout et en recuperation avec le contexte de frequence cardiaque et les symptomes du meme jour.' },
       { title: 'Sel et hydratation', body: 'Suivez sel, sodium, eau et hydratation a cote des symptomes, en laissant les decisions medicales sur les liquides et le sel a votre equipe soignante.' },
       { title: 'Medicaments et notes', body: 'Notez horaire, doses, effets secondaires, questions et changements pour que le contexte des medicaments soit plus facile a discuter plus tard.' },
       { title: 'Declencheurs et contexte du journal', body: 'Capturez les declencheurs possibles, l activite, le stress, une infection, la chaleur ou des notes quand ils comptent, et sautez-les quand vous etes epuisee.' },
@@ -276,7 +277,7 @@ export const homePageFrFr = {
         'Un resume clair pour la consultation, construit a partir de l historique que vous avez suivi.',
       items: [
         { label: 'Chronologie des symptomes', body: 'Changements dates, poussees et frequence des symptomes.' },
-        { label: 'Constantes orthostatiques', body: 'Observations allongee, assise et debout a cote des symptomes.' },
+        { label: 'Constantes orthostatiques', body: 'Observations allongee, debout et en recuperation a cote des symptomes.' },
         { label: 'Medicaments, hydratation et sel', body: 'Le contexte qui aide a expliquer ce qui a change autour d une poussee.' },
         { label: 'Notes et questions', body: 'Contexte des symptomes et questions utiles pour la consultation.' },
       ],
@@ -419,12 +420,12 @@ export const homePageFrFr = {
     title: 'Suivez les constantes orthostatiques la ou elles ont du sens.',
     intro: 'Dans le meme historique que le reste, pas dans un outil separe qu il faudra recouper plus tard.',
     body: [
-      'Zebra garde les mesures allongee, assise et debout reliees a vos symptomes au lieu de les isoler dans une autre app.',
+      'Zebra garde les mesures allongee, debout et en recuperation reliees a vos symptomes au lieu de les isoler dans une autre app.',
     ],
     momentLabel: 'La sequence guidee',
     sequence: ['S allonger', 'S asseoir', 'Se lever', 'Enregistrer dans la meme chronologie'],
     bullets: [
-      'Parcours guide allongee, assise, debout',
+      'Parcours guide allongee, debout, recuperation',
       'Meme chronologie que les symptomes et medicaments',
       'Plus facile a relire avec le contexte',
     ],
@@ -451,7 +452,7 @@ export const homePageFrFr = {
     differencesTitle: 'Pourquoi utiliser Zebra plutot que Notes, un tableur ou un tracker de symptomes generaliste ?',
     differences: [
       { label: 'Structure', generic: 'Notes et tableurs commencent vides, donc vous devez inventer le systeme alors que vous etes deja fatiguee.', zebra: 'Zebra donne une structure des le depart: poussees, symptomes, declencheurs, medicaments, sel, eau, constantes orthostatiques et notes.' },
-      { label: 'Suivi orthostatique', generic: 'Les trackers generalistes separent souvent constantes et symptomes, ce qui complique la relecture du POTS et de la dysautonomie plus tard.', zebra: 'Zebra garde les mesures allongee, assise et debout a cote de la chronologie des symptomes et du contexte quotidien.' },
+      { label: 'Suivi orthostatique', generic: 'Les trackers generalistes separent souvent constantes et symptomes, ce qui complique la relecture du POTS et de la dysautonomie plus tard.', zebra: 'Zebra garde les mesures allongee, debout et en recuperation a cote de la chronologie des symptomes et du contexte quotidien.' },
       { label: 'Preparation de rendez-vous', generic: 'Un mois de notes peut quand meme finir en explication precipitee quand le medecin demande ce qui a change.', zebra: 'Zebra transforme l historique saisi par vous en rapport de symptomes pour les consultations specialisees et de cardiologie.' },
       { label: 'Confidentialite', generic: 'Beaucoup d outils de sante demandent un compte, synchronisent via un service ou sont plus larges que votre probleme concret.', zebra: 'Zebra est confidentielle par conception et se concentre sur votre propre historique pour les conversations medicales.' },
       { label: 'Jours de poussee', generic: 'Les apps bien-etre et habitudes peuvent faire ressembler le suivi a une tache de plus non terminee.', zebra: 'Zebra est concue pour les jours de vertiges, d epuisement, de brouillard mental ou de douleur, ou un check-in rapide suffit.' },
@@ -582,6 +583,7 @@ export const homePageFrFr = {
       free: 'Version gratuite avec les fonctions principales et 30 jours d historique.',
       monthly: 'Premium mensuel debloque l historique illimite, l export PDF du rapport medical et l archive orthostatique complete.',
       annual: 'Premium annuel debloque l historique illimite, l export PDF du rapport medical et l archive orthostatique complete.',
+      lifetime: 'Premium lifetime debloque Premium avec un achat unique et sans renouvellement d abonnement.',
     },
     featureList: [
       'Suivre poussees quotidiennes, symptomes, declencheurs, hydratation, sel et medicaments',

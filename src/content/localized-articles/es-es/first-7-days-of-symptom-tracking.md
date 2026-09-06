@@ -70,7 +70,7 @@ faq:
     answer: "No. Zebra ayuda a organizar informacion ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica."
 ---
 
-Empezar un [diario de sintomas](/es-es/knowledge/symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El dia es dificil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
+Empezar un [diario de sintomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El dia es dificil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
 
 No tienes que registrarlo todo. Durante los primeros siete dias, el objetivo es mas pequeno: una nota util al dia.
 

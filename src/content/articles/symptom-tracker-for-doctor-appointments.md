@@ -12,6 +12,7 @@ lastReviewed: "2026-07-24"
 reviewedAt: "2026-07-24"
 reviewedBy: "Zebra Editorial Team"
 featured: true
+noindex: true
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "symptom tracker for doctor appointments"
@@ -134,6 +135,8 @@ If you want a fuller checklist, [What to Track Before a Specialist Appointment](
 ## What makes Zebra a fit for doctor appointments
 
 Zebra is built around the appointment-prep version of symptom tracking.
+
+The [doctor-ready symptom report](/doctor-report/) page covers the output of that workflow: a reviewable report built from the history you entered.
 
 It keeps:
 

@@ -8,10 +8,10 @@ description: "Lernen Sie, wie Sie Coat-Hanger-Schmerz und schwere Gliedmassen be
 excerpt: "Ein praktischer Leitfaden fuer das Erfassen von Nacken-Schulter-Schmerz, schweren Gliedmassen und aufrechter Fatigue mit genug Kontext fuer den Arzttermin."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-08-08"
-nextReview: "2027-02-08"
-lastReviewed: "2026-08-08"
-reviewedAt: "2026-08-08"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -73,6 +73,8 @@ faq:
 ---
 
 Coat-Hanger-Schmerz meint meist ein Ziehen oder Schmerzen ueber Nacken, Schultern und oberen Ruecken, ungefaehr dort, wo ein Kleiderbuegel liegen wuerde. Bei Menschen mit [Dysautonomie](/de-de/knowledge/dysautonomia/), [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/) oder [orthostatischer Hypotonie](/de-de/knowledge/orthostatic-hypotension/) kann er im Stehen auftreten und sich durch Sitzen oder Liegen bessern.
+
+Wenn der Schmerz mit Stehen, Herzfrequenz oder Blutdruck zusammenhaengt, ist die Seite zu [Schellong-Test-Notizen und orthostatischen Werten](/de-de/orthostatic-vitals-test/) der passendere Zebra-Pfad. Das [POTS-Tagebuch](/de-de/pots-tracker/) sammelt Symptome und Ausloeser; die [Vorbereitung auf den Arzttermin](/de-de/appointment-prep-checklist/) hilft bei Fragen und Alltagsauswirkung.
 
 Schwere Gliedmassen sind genauso schwer zu erklaeren. Es ist nicht immer klarer "Schmerz". Arme oder Beine koennen sich gewichtet, schwach, langsam, zittrig oder nicht belastbar anfuehlen, besonders beim Stehen, Gehen, Treppen, Duschen oder bei Besorgungen.
 

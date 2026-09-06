@@ -2,19 +2,19 @@
 title: "What Is a Doctor-Ready Symptom Report?"
 status: "published"
 subtitle: "A doctor-ready symptom report is a structured summary of patient-entered symptom history designed to make an appointment easier to prepare for and easier to discuss. It is not a diagnosis, a clinical report, or proof that tells a doctor what to decide. It is an organized record of what happened, what changed, and what matters most right now."
-description: "Learn what a doctor-ready symptom report is, what it should include, and why it helps with chronic illness appointment prep."
-excerpt: "Learn what a doctor-ready symptom report is, what it should include, and why it helps with chronic illness appointment prep."
+description: "Learn what a doctor-ready symptom report should include: symptoms, changes, function, medication context, and questions for the appointment."
+excerpt: "Learn what a doctor-ready symptom report should include: symptoms, changes, function, medication context, and questions for the appointment."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
-nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "doctor-ready symptom report"
 seoTitle: "What Is a Doctor-Ready Symptom Report? | Zebra"
-metaDescription: "Learn what a doctor-ready symptom report is, what it should include, and why it helps with chronic illness appointment prep."
+metaDescription: "Learn what a doctor-ready symptom report should include: symptoms, changes, function, medication context, and questions for the appointment."
 ogTitle: "What Is a Doctor-Ready Symptom Report?"
 ogDescription: "A simple definition of what makes a symptom report useful before a specialist appointment."
 heroImage: "/screenshots/today-summary.png"
@@ -85,7 +85,7 @@ Its job is communication and preparation.
 
 ## Why this kind of report matters
 
-Tracking becomes much more useful when it leads to something you can review before a visit instead of forcing you to rebuild everything from memory while stressed or symptomatic.
+Tracking becomes much more useful when it leads to something you can review before a visit instead of forcing you to rebuild everything from memory while stressed or symptomatic. For a step-by-step visit workflow, use the [doctor appointment symptom checklist](/appointment-prep-checklist/) as well.
 
 That is especially important for people dealing with:
 
@@ -115,9 +115,28 @@ A stronger report:
 - includes the most relevant context
 - makes the next questions easier to ask
 
+## A simple report structure
+
+For a low-energy appointment prep pass, put these sections near the top:
+
+1. The main reason for the visit.
+2. What changed, and roughly when.
+3. The symptoms or flares that mattered most.
+4. How daily function was affected.
+5. Relevant medication or routine context.
+6. Two or three questions to discuss.
+
+Add measurements only when they are relevant and safe to collect, and label them as observations. Your clinician should interpret what they mean.
+
 ## Where Zebra fits
 
 Zebra treats the doctor-ready report as the main payoff for tracking. The goal is to turn daily symptom history into a cleaner appointment-prep summary without pretending that the report itself is a medical conclusion.
+
+See the [doctor symptom report app](/doctor-report/) page for what the Zebra report can include and how PDF export fits into appointment prep.
+
+## Source context
+
+Appointment-preparation guidance from the [National Institute on Aging](https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment) and [MedlinePlus](https://medlineplus.gov/talkingwithyourdoctor.html) supports prioritizing concerns, describing symptoms, bringing medication context, and preparing questions. This article adapts those communication principles into a patient-entered summary format; it does not provide diagnosis or treatment advice.
 
 ## Key takeaways
 

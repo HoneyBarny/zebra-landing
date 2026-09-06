@@ -70,7 +70,7 @@ faq:
     answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins medicaux."
 ---
 
-Commencer un [journal de symptomes](/fr-fr/knowledge/symptom-journal/) peut sembler absurde quand vous etes deja submerge. La journee est dure, votre cerveau est fatigue, et maintenant vous devriez devenir votre propre secretaire medical?
+Commencer un [journal de symptomes](/fr-fr/blog/what-is-a-symptom-journal/) peut sembler absurde quand vous etes deja submerge. La journee est dure, votre cerveau est fatigue, et maintenant vous devriez devenir votre propre secretaire medical?
 
 Vous n'avez pas besoin de tout suivre. Pendant les sept premiers jours, le but est beaucoup plus petit: une note utile par jour.
 

@@ -243,6 +243,8 @@ Helpful background:
 
 Zebra helps keep [flare](/knowledge/flare/) notes, symptom severity, fatigue, brain fog, medication context, triggers, sleep notes, and [functional impact](/knowledge/functional-impact/) in one place.
 
+The dedicated [flare tracker app](/flare-tracker/) page explains how Zebra keeps a short flare check-in useful later. If you want fibromyalgia-specific history in one place, see the [fibromyalgia symptom tracker](/fibromyalgia-tracker/).
+
 It does not diagnose fibromyalgia or tell you which treatment to use. It helps make the flare pattern easier to bring to a clinician.
 
 ## Key takeaways

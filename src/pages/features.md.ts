@@ -19,7 +19,7 @@ Zebra is an iPhone symptom tracker for POTS, EDS/hEDS, Fibromyalgia, dysautonomi
 - Medication tracking
 - Salt and water tracking
 - Trigger and note tracking
-- Guided orthostatic vitals tracking with lying, sitting, and standing observations
+- Guided orthostatic vitals tracking with lying, standing, and recovery observations
 - Optional HealthKit heart-rate support for the orthostatic flow
 - Gentle daily reminders users can control
 - Doctor-ready PDF report export with Premium

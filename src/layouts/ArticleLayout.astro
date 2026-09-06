@@ -10,8 +10,7 @@ import { alternatesForPath } from '../data/locales/shared';
 import {
   articleUrl,
   authorUrl,
-  categorySlugFromName,
-  categoryUrl,
+  categoryUrlFromName,
   dateLabel,
   estimateReadingTime,
   topicUrlFromName,
@@ -88,11 +87,15 @@ const {
 const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
 const tocHeadings = headings.filter((heading) => heading.depth <= 2);
 const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lang === 'fr-FR' ? 'fr-FR' : 'en-US';
+const seoTitle = article.data.seoTitle.length > 60
+  ? article.data.seoTitle.replace(/\s+\|\s+Zebra$/, '')
+  : article.data.seoTitle;
 ---
 
 <BaseLayout
-  title={article.data.seoTitle}
+  title={seoTitle}
   description={article.data.metaDescription}
+  noindex={article.data.noindex}
   ogImage={article.data.heroImage}
   ogImageAlt={article.data.heroImageAlt}
   ogType="article"
@@ -111,7 +114,7 @@ const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lan
           items={[
             { label: labels.home, href: localePath },
             { label: labels.blog, href: `${localePath === '/' ? '/' : localePath}blog/` },
-            { label: article.data.category, href: categoryUrl(article.data.categories[0].toLowerCase().replace(/[^a-z0-9]+/g, '-')) },
+            { label: article.data.category, href: categoryUrlFromName(article.data.categories[0] ?? article.data.category) },
             { label: article.data.title },
           ]}
         />
@@ -129,7 +132,7 @@ const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lan
             </div>
             <div class="article-chip-row">
               {article.data.categories.map((category) => (
-                <a class="article-chip" href={categoryUrl(categorySlugFromName(category))}>
+                <a class="article-chip" href={categoryUrlFromName(category)}>
                   {category}
                 </a>
               ))}

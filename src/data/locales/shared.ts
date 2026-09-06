@@ -107,7 +107,7 @@ export function createHomeSchema({
   webPageDescription: string;
   faqItems: ReadonlyArray<{ question: string; answer: string }>;
   offerCurrency?: string;
-  offerDescriptions: { free: string; monthly: string; annual: string };
+  offerDescriptions: { free: string; monthly: string; annual: string; lifetime: string };
   featureList: string[];
 }) {
   const pageUrl = new URL(localePath, siteConfig.siteUrl).toString();
@@ -148,6 +148,14 @@ export function createHomeSchema({
           availability: 'https://schema.org/InStock',
           url: siteConfig.appStore.url,
           description: offerDescriptions.annual,
+        },
+        {
+          '@type': 'Offer',
+          price: '59.99',
+          priceCurrency: offerCurrency,
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: offerDescriptions.lifetime,
         },
       ],
       featureList,

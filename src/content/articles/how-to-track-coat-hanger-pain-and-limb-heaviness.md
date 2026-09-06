@@ -6,10 +6,10 @@ description: "Learn how to track coat-hanger pain and limb heaviness in dysauton
 excerpt: "A practical guide to tracking neck-and-shoulder coat-hanger pain, heavy limbs, and upright fatigue with enough context for a medical appointment."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-08-08"
-nextReview: "2027-02-08"
-lastReviewed: "2026-08-08"
-reviewedAt: "2026-08-08"
+updatedAt: "2026-09-02"
+nextReview: "2027-03-02"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
@@ -71,6 +71,8 @@ faq:
 ---
 
 Coat-hanger pain usually means aching across the back of the neck, shoulders, and upper back, roughly where a coat hanger would sit. In people with [dysautonomia](/knowledge/dysautonomia/), [orthostatic intolerance](/knowledge/orthostatic-intolerance/), or [orthostatic hypotension](/knowledge/orthostatic-hypotension/), it may show up when upright and ease after sitting or lying down.
+
+Use the [Zebra POTS tracker](/pots-tracker/) for the symptom timeline, the [orthostatic vitals test](/orthostatic-vitals-test/) when your clinician has asked you to collect posture-linked readings, and the [appointment prep checklist](/appointment-prep-checklist/) for questions and functional impact.
 
 Limb heaviness can be just as hard to explain. You may not feel "pain" exactly. Your arms or legs may feel weighted, weak, slow, shaky, or like they cannot keep up with standing, walking, stairs, showering, or errands.
 

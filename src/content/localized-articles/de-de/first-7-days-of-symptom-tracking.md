@@ -70,7 +70,7 @@ faq:
     answer: "Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte fuer Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Ein [Symptomtagebuch](/de-de/knowledge/symptom-journal/) zu starten kann sich falsch anfuehlen, wenn Sie schon ueberfordert sind. Der Tag ist schwer, der Kopf ist muede, und jetzt sollen Sie auch noch Ihre eigene Gesundheitssekretaerin sein?
+Ein [Symptomtagebuch](/de-de/blog/what-is-a-symptom-journal/) zu starten kann sich falsch anfuehlen, wenn Sie schon ueberfordert sind. Der Tag ist schwer, der Kopf ist muede, und jetzt sollen Sie auch noch Ihre eigene Gesundheitssekretaerin sein?
 
 Sie muessen nicht alles erfassen. In den ersten sieben Tagen ist das Ziel viel kleiner: eine nuetzliche Notiz pro Tag.
 

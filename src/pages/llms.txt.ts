@@ -30,7 +30,7 @@ export const GET: APIRoute = () => {
 - Symptoms and flares
 - Medications and notes
 - Triggers, salt, water, notes, and appointment context
-- Orthostatic vitals in a guided lying, sitting, and standing flow
+- Orthostatic vitals in a guided lying, standing, and recovery flow
 - Appointment questions and patient-entered history for report export
 
 ## Key Differentiators

@@ -6,10 +6,10 @@ description: "Learn how to track POTS symptoms, upright changes, flares, and rel
 excerpt: "Learn how to track POTS symptoms, upright changes, flares, and relevant home observations in one clear history."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-09-02"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
-reviewedAt: "2026-06-29"
+lastReviewed: "2026-09-02"
+reviewedAt: "2026-09-02"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "how to track pots symptoms"
@@ -59,6 +59,8 @@ faq:
 To track POTS symptoms well, focus on the symptoms that matter most, when they happen, how they change with position, and what else was happening around them. The goal is not to collect endless numbers. It is to build a clear history of upright symptoms, flares, and related context that you can review later or bring to an appointment.
 
 POTS tracking becomes much more useful when symptoms and orthostatic observations live in the same record instead of separate apps or screenshots.
+
+If you are already taking heart rate or blood pressure readings at home, use [POTS home test notes](/blog/pots-home-test-notes-heart-rate-blood-pressure/) to keep those readings tied to posture, timing, symptoms, safety context, and appointment questions.
 
 ## What to track
 
@@ -138,6 +140,8 @@ If home heart rate or blood pressure observations are part of your current care 
 ## Where Zebra fits
 
 Zebra is designed to keep symptoms, flares, meds, hydration, salt, and orthostatic observations in one record so the history stays connected. That is especially helpful for people with POTS who are also tracking EDS, Fibromyalgia, or other overlapping symptoms.
+
+For the product workflow, see [Zebra's POTS symptom tracker](/pots-tracker/).
 
 ## Key takeaways
 

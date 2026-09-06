@@ -62,6 +62,8 @@ Die Vorbereitung auf einen Facharzttermin mit chronischer Erkrankung bedeutet me
 
 Das klingt einfach, bis Brain Fog, Fatigue, fruehere Abweisung und verstreute Notizen dazukommen. Eine gute Terminvorbereitung nimmt diesen Druck, bevor der Termin ueberhaupt beginnt.
 
+In Zebra fuehrt dieser Weg entweder ueber die [Arzttermin-Checkliste](/de-de/appointment-prep-checklist/) oder, wenn der Verlauf schon erfasst ist, direkt zum [Symptombericht fuer den Arzt](/de-de/doctor-report/).
+
 ## Die Aufgabe der Terminvorbereitung
 
 Gute Vorbereitung hilft bei vier Dingen:
