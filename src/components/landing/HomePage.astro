@@ -1,6 +1,7 @@
 ---
 import FAQSection from './FAQSection.astro';
 import FinalCTASection from './FinalCTASection.astro';
+import GuidesSection from './GuidesSection.astro';
 import HeroSection from './HeroSection.astro';
 import HowItWorksSection from './HowItWorksSection.astro';
 import AppointmentPrepSection from './AppointmentPrepSection.astro';
@@ -57,6 +58,7 @@ const { page } = Astro.props;
     <ShowcaseSection {...page.orthostaticTest} />
     <SearchContentSection {...page.searchContent} />
     <TrustSection {...page.trust} />
+    <GuidesSection {...page.guides} />
     <FAQSection {...page.faq} />
     <FinalCTASection
       {...page.finalCta}

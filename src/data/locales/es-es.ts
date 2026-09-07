@@ -525,6 +525,54 @@ export const homePageEsEs = {
     },
     resourcesCtaLabel: 'Abrir pagina',
   },
+  guides: {
+    eyebrow: 'Guias y paginas por condicion',
+    title: 'Sigue explorando las preguntas exactas que la gente se hace antes de descargar un rastreador de sintomas.',
+    intro:
+      'Ya sea que estes preparando una cita o busques seguir POTS, EDS y disautonomia con mas claridad, estos son los mejores puntos de partida.',
+    items: [
+      {
+        href: '/es-es/appointment-prep-checklist/',
+        label: 'Lista de preparacion de citas de 7 dias',
+        description: 'Una pagina dedicada a que registrar antes de una cita relacionada con una enfermedad cronica, sobre todo cuando la memoria y la energia son limitadas.',
+      },
+      {
+        href: '/es-es/pots-tracker/',
+        label: 'Registro de POTS',
+        description: 'La pagina principal para registrar brotes de POTS, constantes ortostaticas, sal, agua, medicamentos y evidencia para la cita.',
+      },
+      {
+        href: '/es-es/eds-tracker/',
+        label: 'Registro de EDS / hEDS',
+        description: 'Una pagina pensada para sintomas de solapamiento de EDS, dolor, fatiga, inestabilidad, enfermedad invisible y preparacion del informe medico.',
+      },
+      {
+        href: '/es-es/fibromyalgia-tracker/',
+        label: 'Registro de fibromialgia',
+        description: 'Una pagina enfocada en registrar brotes de fibromialgia, dolor, fatiga, niebla mental, medicamentos y notas de citas.',
+      },
+      {
+        href: '/es-es/orthostatic-vitals-test/',
+        label: 'Prueba de constantes ortostaticas',
+        description: 'Una pagina de producto para registrar observaciones acostado, de pie y en recuperacion junto a los sintomas y el contexto diario.',
+      },
+      {
+        href: '/es-es/doctor-report/',
+        label: 'Informe de sintomas para el medico',
+        description: 'Una pagina que explica como Zebra convierte el historial reciente en un resumen de cita mas claro.',
+      },
+      {
+        href: '/es-es/flare-tracker/',
+        label: 'Registro de brotes',
+        description: 'Una pagina para los dias dificiles: severidad de sintomas, desencadenantes, notas e historial listo para el informe.',
+      },
+      {
+        href: '/es-es/symptom-tracker-for-invisible-illness/',
+        label: 'Tracker para enfermedad invisible',
+        description: 'Una pagina para quienes buscan evidencia, apoyo para la niebla mental, check-ins de baja energia y preparacion de citas.',
+      },
+    ],
+  },
   faq: {
     eyebrow: 'FAQ',
     title: 'Preguntas sobre Zebra.',

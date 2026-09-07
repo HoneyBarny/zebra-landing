@@ -520,6 +520,54 @@ export const homePageFrFr = {
     },
     resourcesCtaLabel: 'Ouvrir la page',
   },
+  guides: {
+    eyebrow: 'Guides et pages par condition',
+    title: 'Continuez a explorer les questions exactes que les gens se posent avant de telecharger un suivi de symptomes.',
+    intro:
+      'Que vous prepariez un rendez-vous ou cherchiez a suivre POTS, EDS et dysautonomie plus clairement, voici les meilleurs points de depart.',
+    items: [
+      {
+        href: '/fr-fr/appointment-prep-checklist/',
+        label: 'Checklist de preparation de rendez-vous sur 7 jours',
+        description: 'Une page dediee a ce qu il faut suivre avant un rendez-vous lie a une maladie chronique, surtout quand la memoire et l energie sont limitees.',
+      },
+      {
+        href: '/fr-fr/pots-tracker/',
+        label: 'Suivi POTS',
+        description: 'La page produit principale pour suivre poussees POTS, constantes orthostatiques, sel, eau, medicaments et preuves pour le rendez-vous.',
+      },
+      {
+        href: '/fr-fr/eds-tracker/',
+        label: 'Suivi EDS / hEDS',
+        description: 'Une page adaptee aux symptomes de chevauchement EDS, douleur, fatigue, instabilite, maladie invisible et preparation du rapport medical.',
+      },
+      {
+        href: '/fr-fr/fibromyalgia-tracker/',
+        label: 'Suivi fibromyalgie',
+        description: 'Une page ciblee pour suivre poussees de fibromyalgie, douleur, fatigue, brain fog, medicaments et notes de rendez-vous.',
+      },
+      {
+        href: '/fr-fr/orthostatic-vitals-test/',
+        label: 'Test des constantes orthostatiques',
+        description: 'Une page produit pour suivre les observations allonge, debout et en recuperation a cote des symptomes et du contexte quotidien.',
+      },
+      {
+        href: '/fr-fr/doctor-report/',
+        label: 'Rapport de symptomes pour le medecin',
+        description: 'Une page qui explique comment Zebra transforme l historique recent en un resume de rendez-vous plus clair.',
+      },
+      {
+        href: '/fr-fr/flare-tracker/',
+        label: 'Suivi des poussees',
+        description: 'Une page pour les mauvais jours : severite des symptomes, declencheurs, notes et historique pret pour le rapport.',
+      },
+      {
+        href: '/fr-fr/symptom-tracker-for-invisible-illness/',
+        label: 'Suivi pour maladie invisible',
+        description: 'Une page pour les personnes qui cherchent des preuves, un soutien pour le brain fog, des check-ins a faible energie et une preparation de rendez-vous.',
+      },
+    ],
+  },
   faq: {
     eyebrow: 'FAQ',
     title: 'Questions sur Zebra.',

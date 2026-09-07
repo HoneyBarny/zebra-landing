@@ -554,6 +554,54 @@ export const homePageDeDe = {
     },
     resourcesCtaLabel: 'Seite oeffnen',
   },
+  guides: {
+    eyebrow: 'Leitfaden und Themenseiten',
+    title: 'Entdecken Sie weiter die genauen Fragen, die Menschen vor dem Download eines Symptomtrackers stellen.',
+    intro:
+      'Ob Sie einen Termin vorbereiten oder POTS, EDS und Dysautonomie klarer verfolgen wollen, das sind die besten Ausgangspunkte.',
+    items: [
+      {
+        href: '/de-de/appointment-prep-checklist/',
+        label: '7-Tage-Checkliste zur Terminvorbereitung',
+        description: 'Eine eigene Seite dazu, was vor einem Termin bei chronischer Erkrankung zu verfolgen ist, besonders wenn Gedaechtnis und Energie begrenzt sind.',
+      },
+      {
+        href: '/de-de/pots-tracker/',
+        label: 'POTS-Tagebuch',
+        description: 'Die zentrale Produktseite fuer POTS-Schuebe, orthostatische Werte, Salz, Wasser, Medikamente und Nachweise fuer den Termin.',
+      },
+      {
+        href: '/de-de/eds-tracker/',
+        label: 'EDS / hEDS-Tracker',
+        description: 'Eine Seite fuer EDS-Ueberschneidungssymptome, Schmerz, Erschoepfung, Instabilitaet, unsichtbare Krankheit und Vorbereitung des Arztberichts.',
+      },
+      {
+        href: '/de-de/fibromyalgia-tracker/',
+        label: 'Fibromyalgie-Tracker',
+        description: 'Eine fokussierte Seite fuer Fibromyalgie-Schuebe, Schmerz, Erschoepfung, Brain Fog, Medikamente und Terminnotizen.',
+      },
+      {
+        href: '/de-de/orthostatic-vitals-test/',
+        label: 'Schellong-Test und orthostatische Werte',
+        description: 'Eine Produktseite fuer Beobachtungen im Liegen, Stehen und in der Erholung neben Symptomen und Tageskontext.',
+      },
+      {
+        href: '/de-de/doctor-report/',
+        label: 'Symptombericht fuer den Arzt',
+        description: 'Eine Seite, die erklaert, wie Zebra den aktuellen Verlauf in eine klarere Terminzusammenfassung verwandelt.',
+      },
+      {
+        href: '/de-de/flare-tracker/',
+        label: 'Schub-Tracker',
+        description: 'Eine Seite fuer schwere Tage: Symptomschwere, Ausloeser, Notizen und berichtsfertiger Verlauf.',
+      },
+      {
+        href: '/de-de/symptom-tracker-for-invisible-illness/',
+        label: 'Tracker fuer unsichtbare Krankheit',
+        description: 'Eine Seite fuer alle, die Nachweise, Unterstuetzung bei Brain Fog, Check-ins mit wenig Energie und Terminvorbereitung suchen.',
+      },
+    ],
+  },
   faq: {
     eyebrow: 'FAQ',
     title: 'Fragen zu Zebra.',
