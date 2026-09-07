@@ -1,0 +1,15 @@
+name = "zebra-www-redirect"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# Zone-level Workers Route. This intercepts requests to www.zebratracker.app
+# BEFORE Cloudflare Pages' custom-domain handling ever sees them, which is
+# necessary because Pages normalizes the request host across all custom
+# domains attached to one project -- both the functions/_middleware.js
+# approach and a public/_redirects rule for this exact www -> apex redirect
+# were silently no-ops for that reason (see zebra-landing git history around
+# 2026-09-06 for the full investigation). A Workers Route does not go
+# through that Pages abstraction at all, so it works.
+routes = [
+  { pattern = "www.zebratracker.app/*", zone_name = "zebratracker.app" },
+]
