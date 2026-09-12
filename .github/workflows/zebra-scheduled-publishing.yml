@@ -1,17 +1,13 @@
 name: Zebra Scheduled Publishing
 
 on:
-  schedule:
-    # Primary publish windows. Avoid the top of the hour because GitHub-hosted
-    # runners are more likely to be delayed or dropped during peak cron bursts.
-    - cron: '17 15 * * 2'
-    - cron: '17 15 * * 5'
-    # Same-day backup attempts. The publish script is idempotent, so these exit
-    # cleanly if the primary run already published and committed the article.
-    - cron: '47 15 * * 2'
-    - cron: '47 15 * * 5'
-    - cron: '17 16 * * 2'
-    - cron: '17 16 * * 5'
+  # The Tuesday/Friday schedule was removed on 2026-09-12. Search impressions
+  # fell from about 1,654 in August to near zero in early September, and no new
+  # URL should ship until Search Console explains why (see
+  # ZEBRA_GSC_RECOVERY_DATA_REQUEST.md in the parent repo). Publishing is manual
+  # only: set an article to status "scheduled" with a past scheduledAt, then run
+  # this workflow from the Actions tab. The six crons that ran here were
+  # '17 15', '47 15' and '17 16' on days 2 and 5 (UTC).
   workflow_dispatch:
 
 permissions:

@@ -1,11 +1,10 @@
 ---
 title: "How to Track Medications and Side Effects for Chronic Illness"
-status: "scheduled"
+status: "draft"
 subtitle: "When you are managing several medications and supplements at once, the question that actually matters is simple: is this helping, is this causing something new, or is it too soon to tell. A short, consistent tracked history of doses, changes, and what followed is usually enough to answer that, without turning medication tracking into a spreadsheet project."
 description: "Learn how to track medications and side effects for chronic illness, including what to track for each change, how to tell a side effect from a symptom, and how to keep it simple."
 excerpt: "Learn how to track medications and side effects for chronic illness, including what to track for each change, how to tell a side effect from a symptom, and how to keep it simple."
 author: "zebra-editorial"
-scheduledAt: "2026-09-18"
 cluster: "Doctor Reports"
 category: "Doctor Reports"
 primaryKeyword: "track medications and side effects chronic illness"

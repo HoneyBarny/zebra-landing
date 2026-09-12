@@ -1,11 +1,10 @@
 ---
 title: "How to Track Triggers Without Overcomplicating Your Day"
-status: "scheduled"
+status: "draft"
 subtitle: "You do not need to track every meal, every weather change, and every stressful email to notice a pattern worth mentioning to a doctor. A short, consistent list of context beats an exhaustive one, and the goal is association worth discussing, not proof of a cause."
 description: "Learn how to track triggers without overcomplicating your day: what context is actually worth noting, how to spot an association without overclaiming, and what to skip."
 excerpt: "Learn how to track triggers without overcomplicating your day: what context is actually worth noting, how to spot an association without overclaiming, and what to skip."
 author: "zebra-editorial"
-scheduledAt: "2026-09-15"
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"
 primaryKeyword: "how to track triggers chronic illness"
