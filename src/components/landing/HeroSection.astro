@@ -13,7 +13,9 @@ interface HeroShowcaseItem {
 }
 
 interface Props {
-  eyebrow: string;
+  eyebrow?: string;
+  /** Category line rendered inside the H1, so the heading names what Zebra is. */
+  titleLead?: string;
   title: string;
   body: string;
   answerStrip: Array<{
@@ -41,6 +43,7 @@ interface Props {
 
 const {
   eyebrow,
+  titleLead,
   title,
   body,
   answerStrip,
@@ -59,8 +62,15 @@ const {
 
 <section class="hero section" aria-labelledby="hero-heading">
   <div class="hero-copy">
-    <p class="eyebrow">{eyebrow}</p>
-    <h1 id="hero-heading">{title}</h1>
+    {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+    {titleLead ? (
+      <h1 id="hero-heading" class="hero-title--with-lead">
+        <span class="hero-title-lead">{titleLead}</span>
+        <span class="hero-title-main">{title}</span>
+      </h1>
+    ) : (
+      <h1 id="hero-heading">{title}</h1>
+    )}
     <p class="hero-text">{body}</p>
     <div class="hero-cta-band" aria-label="Primary download call to action">
       <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} alt={appStoreBadgeAlt} loading="eager" trackingLocation="hero_badge" />

@@ -7,6 +7,7 @@ interface TrackItem {
 }
 
 interface Props {
+  id?: string;
   eyebrow: string;
   title: string;
   intro: string;
@@ -14,11 +15,12 @@ interface Props {
   note: string;
 }
 
-const { eyebrow, title, intro, items, note } = Astro.props;
+const { id = 'what-zebra-tracks', eyebrow, title, intro, items, note } = Astro.props;
+const headingId = id === 'what-zebra-tracks' ? 'tracks-heading' : `${id}-heading`;
 ---
 
-<section class="section tracks-section section-band" id="what-zebra-tracks" aria-labelledby="tracks-heading">
-  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id="tracks-heading" narrow={true} />
+<section class="section tracks-section section-band" id={id} aria-labelledby={headingId}>
+  <SectionIntro eyebrow={eyebrow} title={title} body={intro} id={headingId} narrow={true} />
   <div class="tracks-grid">
     {items.map((item) => (
       <article class="track-card">

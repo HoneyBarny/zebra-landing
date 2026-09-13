@@ -1123,6 +1123,618 @@ export const homePage = {
   ],
 } as const;
 
+/*
+ * English homepage, 2026-09 search-positioning pass.
+ * Rationale, research sources and the before/after table:
+ * LANDING_PAGE_SEARCH_POSITIONING_AUDIT_2026-09.md in the parent repo.
+ *
+ * Why this is a separate object instead of edits to `homePage`:
+ * - The de-de, es-es and fr-fr homepages spread `homePage` (and several of its
+ *   sections) and override only the fields they translate. Rewriting
+ *   `homePage` in place would leak new English copy into those pages.
+ * - `homePage.header`, `homePage.footer` and `homePage.seo.ogImage` render on
+ *   the blog, knowledge, product and author templates. Changing them is a
+ *   sitewide internal-link change, which the SEO freeze in CLAUDE.md rules out.
+ *
+ * Claim rules for this object. Keep them when editing:
+ * - Describe only what ships in the App Store build. The "Raise at my next
+ *   visit" list and the one-page visit sheet are not live, so they are not
+ *   mentioned.
+ * - Never say the appointment summary is clinician-validated, doctor-approved,
+ *   medically reviewed, or preferred by doctors. The clinician study has 0
+ *   participants (01_CUSTOMER_RESEARCH/SUPPORTING_RESEARCH/
+ *   CLINICIAN_ONE_PAGE_BRIEF_VALIDATION.md).
+ * - Never promise what a doctor will do, and never say "one-page".
+ * - Premium facts, checked in code on 2026-09-13 (PremiumAccessManager and its
+ *   call sites): PDF export, Understand's 90-day and 6-month windows, pattern
+ *   comparison, insight history and the report's extra comparison pages are
+ *   Premium. Tracking, the Prepare tab ("What changed most" uses the previous
+ *   30 days for everyone), the 30-day summary preview and CSV/JSON export are
+ *   free.
+ * - Do not claim "unlimited history", a Premium "orthostatic test archive", or
+ *   that the medication timeline is Premium. No screen caps history at a hard
+ *   limit and data is never pruned, but the longest in-app window is 6 months;
+ *   no archive screen for past tests exists; and the medication timeline opens
+ *   ungated from Prepare. The paywall copy says otherwise and is open for a
+ *   product decision.
+ */
+const faqItemsEnglish = [
+  {
+    question: 'What is Zebra?',
+    answer:
+      'Zebra is a symptom tracker app for iPhone, made for people with POTS, EDS, Fibromyalgia, and overlapping chronic illness. You check in quickly, Zebra shows what changed over time, and before an appointment it gathers the important parts into a 30-day summary you can review.',
+  },
+  {
+    question: 'How is Zebra different from a symptom diary or the Notes app?',
+    answer:
+      'A diary keeps what you write. Zebra also counts and compares it: what shifted in the last 30 days, which symptoms tend to show up together or a day or two later, and what was happening around a medication change. A daily check-in can be a single tap.',
+  },
+  {
+    question: 'How does Zebra help me prepare for a doctor appointment?',
+    answer:
+      'The Prepare tab shows what changed most compared with the previous 30 days, and gathers your recent flares, symptoms, medication changes, orthostatic tests, notes, and questions into a 30-day summary. You can read it on your phone, or export it as a PDF with Premium. It helps you remember and explain what happened. It cannot guarantee how an appointment goes.',
+  },
+  {
+    question: 'Can I track medication changes and side effects?',
+    answer:
+      'Yes. You can add medications with a dose and time, mark the day you started one or changed a dose, and choose common side effects. Those changes stay dated beside your symptoms and appear in your summary. Zebra does not judge whether a medication is working and does not give dosing advice.',
+  },
+  {
+    question: 'What if I am too tired to track much?',
+    answer:
+      'One tap is enough. Choose how today compares with usual (better, about usual, worse, much worse, or not sure) and leave. Everything else is optional, and there are no streaks to keep up.',
+  },
+  {
+    question: 'Can Zebra record orthostatic heart rate and blood pressure?',
+    answer:
+      'Yes. A guided test times lying, standing, and recovery stages. You can type your readings or use heart rate from Apple Health, and you can stop at any point. Zebra records the numbers and does not interpret them.',
+  },
+  {
+    question: 'Is Zebra free? What does Premium add?',
+    answer:
+      'Tracking, the Prepare tab, the in-app preview of your 30-day summary, and CSV export are free. In Understand, the free view covers the last 30 days. Premium adds PDF export of your summary, history beyond 30 days in Understand, pattern comparison, and insight history. It is available monthly, yearly, or as a one-time purchase.',
+  },
+  {
+    question: 'Where is my data stored?',
+    answer:
+      'On your iPhone, and in your private iCloud account if iCloud sync is on. Zebra has no account system and no health-data server, so your entries are not sent to us. You can export your check-ins as a CSV file or delete them in the app.',
+  },
+  {
+    question: 'Does Zebra diagnose anything?',
+    answer:
+      'No. Zebra does not diagnose, treat, or give medical advice. It helps you keep and organize your own history for conversations with your care team.',
+  },
+] as const;
+
+export const homePageEnglish = {
+  ...homePage,
+  layout: 'focused',
+  seo: {
+    ...homePage.seo,
+    title: 'Symptom Tracker App for POTS, EDS & Fibromyalgia | Zebra',
+    description:
+      'Check in with one tap, see what changed over the month, and bring a clear summary to your appointment. Free iPhone symptom tracker for chronic illness.',
+    ogImageAlt:
+      'Zebra appointment preparation screen showing what changed recently and a preview of the 30-day summary.',
+  },
+  hero: {
+    ...homePage.hero,
+    eyebrow: '',
+    titleLead: 'Symptom tracker for POTS, EDS & Fibromyalgia',
+    title: 'Remember what changed. Explain it when it counts.',
+    body:
+      'A calm iPhone app for chronic illness. Check in with one tap, even on a bad day, see what changed over the month, and bring a clear summary to your next appointment.',
+    trustLine: 'Private by design: your health data stays on your iPhone and in your own iCloud.',
+    ctaSupport: ['Free to track', 'No account needed', 'Not medical advice'],
+    bullets: [
+      'One-tap check-in for hard days',
+      'Symptoms, medications, salt, water, and triggers',
+      'What changed in the last 30 days',
+      'A 30-day summary to review before appointments',
+    ],
+    supportCard: {
+      eyebrow: 'Before your next appointment',
+      title: 'Open Zebra instead of rebuilding the month from memory.',
+      body: 'What changed, recent flares, medication changes, and your questions, gathered in one place.',
+    },
+  },
+  problem: {
+    eyebrow: 'The real problem',
+    title: 'Months of changing symptoms are hard to remember on demand.',
+    statement:
+      'When did it start? Is it getting worse? Did the new dose help? In a short appointment, the answers are spread across Notes, screenshots, and memory.',
+    support:
+      'Brain fog makes that harder, and the worst days are usually the ones with no energy left to write anything down.',
+    flowLabel: 'Where the history usually ends up',
+    bullets: [
+      'You remember fragments, not the order they happened in',
+      'Bad days go untracked because there was no energy',
+      'The important thing gets lost once you are in the room',
+    ],
+    // Plain statements, not quotes: see the note on homePage.problem.painPoints.
+    painPoints: [
+      'You tried a spreadsheet or an app, and it turned into another job.',
+      'You prepared, and the detail that mattered still slipped away in the room.',
+      'A thick folder of notes is hard to use in a short appointment.',
+    ],
+  },
+  dailyTracking: {
+    ...homePage.dailyTracking,
+    eyebrow: 'Capture what happens',
+    title: 'On a bad day, one tap is enough.',
+    intro:
+      'Zebra is built for the days you are dizzy, exhausted, foggy, or in pain, because those are the days that matter most later.',
+    body: [
+      'Tap how today compares with usual: better, about usual, worse, much worse, or not sure. That alone is a check-in. If you have more energy, add symptoms from a list written for POTS, EDS, and Fibromyalgia, plus severity, salt and water, medications, triggers, and what the day stopped you doing.',
+    ],
+    momentLabel: 'A hard-day check-in',
+    sequence: ['Open Zebra', 'Tap how today compares', 'Leave, or add more if you can'],
+    bullets: [
+      'Symptoms from a ready-made list, no setup',
+      'Salt, water, medications, and triggers',
+      'What you could not do: shower, work or school, leave home',
+    ],
+    cards: [
+      {
+        eyebrow: 'No blank page',
+        title: 'The list is already written',
+        body: 'You do not have to design a tracking system before you can use one.',
+      },
+      {
+        eyebrow: 'No streaks',
+        title: 'Missed days are fine',
+        body: 'There is nothing to catch up on. Start again with today.',
+      },
+    ],
+    ctaLabel: 'Start tracking today',
+    ctaNote: 'Free to track. No account needed.',
+  },
+  trends: {
+    ...homePage.trends,
+    eyebrow: 'Understand change',
+    title: 'See what changed without keeping a spreadsheet.',
+    intro: 'Zebra reads your check-ins so you do not have to compare weeks by hand.',
+    body: [
+      'Zebra compares your last 30 days with the 30 before and shows what shifted most, such as a symptom that turned up on more check-ins. It also points out possible patterns, including ones that appear the next day or 2–3 days later.',
+      'When nothing stands out, Zebra says so. A pattern is something to notice and discuss, not a diagnosis or a cause.',
+    ],
+    momentLabel: 'What Zebra looks for',
+    sequence: ['What shifted in 30 days', 'Same-day patterns', 'Next day', '2–3 days later'],
+    bullets: [
+      'Counts from your own check-ins, such as 9 of 30',
+      '"No clear changes" is a real answer',
+      'Nothing to set up or maintain',
+    ],
+    cards: [
+      {
+        eyebrow: 'Why it helps',
+        title: 'Delayed effects are easy to miss',
+        body: 'A hard day can follow something from two days earlier. Zebra checks those windows too.',
+      },
+      {
+        eyebrow: 'Careful by design',
+        title: 'Patterns have to stand out',
+        body: 'Zebra only shows a pattern when it is clearly different from your usual days.',
+      },
+    ],
+    ctaLabel: 'See how this helps you prepare',
+    ctaHref: '#doctor-report',
+    ctaNote: 'Patterns get clearer as check-ins add up.',
+    layout: 'reverse',
+    media: {
+      ...screenshots.todaySummary,
+      meta: 'Your recent picture',
+    },
+  },
+  doctorReport: {
+    ...homePage.doctorReport,
+    eyebrow: 'Prepare for appointments',
+    title: 'Keep what matters from getting lost in the appointment.',
+    answer:
+      'Appointments are short, and brain fog and nerves make it easy to forget what you meant to say. Zebra’s Prepare tab gathers what changed most, your recent flares and symptoms, medication changes, orthostatic tests, and your own notes into a 30-day summary you can review before you go.',
+    flow: ['Your check-ins', 'What changed', '30-day summary', 'Your appointment'],
+    body: [
+      'Read it on your phone before you go in, or export it as a PDF to print or share with Premium. It is built only from what you tracked.',
+    ],
+    bullets: [
+      'What changed most, compared with the 30 days before',
+      'Recent flares, top symptoms, and what they stopped you doing',
+      'Medication starts, dose changes, and side effects',
+      'Your own notes and the questions you want to ask',
+    ],
+    preview: {
+      eyebrow: 'Summary preview',
+      title: 'What the 30-day summary can include',
+      body: 'A plain-language overview of the history you tracked.',
+      items: [
+        {
+          label: 'Flares and symptoms',
+          body: 'How often they happened, and what changed.',
+        },
+        {
+          label: 'Orthostatic tests',
+          body: 'Lying, standing, and recovery readings.',
+        },
+        {
+          label: 'Medications, salt, and water',
+          body: 'The context around the harder days.',
+        },
+        {
+          label: 'Notes and questions',
+          body: 'What you want to say, in your own words.',
+        },
+      ],
+    },
+    sampleReport: {
+      href: '/sample-doctor-report.pdf',
+      label: 'See a sample summary (PDF)',
+      note: 'Fake patient data, for preview only.',
+    },
+    relatedLink: {
+      href: '/appointment-prep-checklist/',
+      label: 'Use the free appointment prep checklist',
+    },
+    proofLabel: 'What it is, and what it is not',
+    proofTitle: 'A starting point for the conversation.',
+    proofBody:
+      'The summary helps you say what happened, how often, and since when. It does not diagnose anything, and no document can guarantee how an appointment goes.',
+    outcomesLabel: 'After a month of check-ins',
+    outcomes: [
+      'Dated history instead of scattered notes',
+      'What shifted, counted from your own check-ins',
+      'Medication changes beside your symptoms',
+      'A summary ready to review before the visit',
+    ],
+    comparisonLabel: 'Preparing with and without Zebra',
+    comparison: [
+      {
+        label: 'Without Zebra',
+        title: 'Rebuilding the month the night before',
+        points: ['Scroll through Notes and screenshots', 'Guess when it started', 'Forget the thing that mattered most'],
+      },
+      {
+        label: 'With Zebra',
+        title: 'Reviewing what is already there',
+        points: ['Open Prepare and read what changed', 'Point to dates and how often', 'Keep your questions in front of you'],
+      },
+    ],
+    ctaNote: 'Track free. Export the PDF summary with Premium.',
+  },
+  treatmentContext: {
+    id: 'medication-changes',
+    eyebrow: 'Medication and treatment changes',
+    title: 'Keep medication changes next to how you felt.',
+    intro:
+      'When did I start it? Did anything change after the new dose? Those questions are easier to answer when the dates are already written down.',
+    items: [
+      {
+        title: 'Note when something starts or changes',
+        body: 'Add a medication with its dose and time, and mark the day you started it or changed the dose, with a short note if you want one.',
+      },
+      {
+        title: 'Note side effects on the day',
+        body: 'Pick from common side effects on the day they happen, instead of trying to remember them weeks later.',
+      },
+      {
+        title: 'See changes beside your symptoms',
+        body: 'Changes stay on the same dated history as your check-ins and flares, and appear in your appointment summary.',
+      },
+    ],
+    note:
+      'Zebra shows what you tracked around each change. It does not judge whether a medication is working, and it never suggests starting, stopping, or changing a dose.',
+  },
+  orthostaticTest: {
+    ...homePage.orthostaticTest,
+    eyebrow: 'For POTS and dysautonomia',
+    title: 'A guided orthostatic test, in the same app as your symptoms.',
+    intro: 'Heart rate and blood pressure lying down, standing, and lying down again, with each stage timed for you.',
+    body: [
+      'Type your readings or use heart rate from Apple Health, and note symptoms at each stage. You can stop at any point, and a partial test still saves.',
+      'Zebra records the numbers. It does not interpret them or tell you whether you have a condition.',
+    ],
+    momentLabel: 'The guided sequence',
+    bullets: [
+      'Timed lying, standing, and recovery stages',
+      'Type readings, or use Apple Health heart rate',
+      'Stop any time; a partial test still saves',
+    ],
+    cards: [
+      {
+        eyebrow: 'Why it helps',
+        title: 'Readings with context',
+        body: 'Note symptoms at each stage, so the numbers are not separated from how you felt.',
+      },
+      {
+        eyebrow: 'When you prepare',
+        title: 'Included in your summary',
+        body: 'Recent tests appear in your 30-day appointment summary.',
+      },
+    ],
+    ctaLabel: 'More on tracking POTS with Zebra',
+    ctaHref: '/pots-tracker/',
+    ctaNote: 'Type your readings, or use heart rate from Apple Health.',
+    layout: 'default',
+  },
+  comparison: {
+    eyebrow: 'Why not just use Notes?',
+    title: 'Notes and spreadsheets store what you write. Zebra also shows what changed.',
+    intro:
+      'Most people already track something: a note, a spreadsheet, screenshots, or another app. Those tools can work well. The difference is in the workflow: structured check-ins, a dated history, patterns, and appointment preparation, without building the system yourself.',
+    alternativesLabel: 'How it works',
+    zebraLabel: 'How Zebra works',
+    items: [
+      {
+        name: 'The Notes app',
+        problem: 'Quick, flexible, and already on your phone. To answer "when did this start?", you search back through entries yourself.',
+        zebra: 'Each check-in is dated and structured, so Zebra can count, compare, and summarize them for you.',
+        href: '/zebra-vs-apple-notes/',
+        cta: 'Compare Zebra and Notes',
+      },
+      {
+        name: 'Spreadsheets',
+        problem: 'Flexible and fully under your control. You design the columns and charts and keep them up yourself.',
+        zebra: 'The structure is built in, and a one-tap check-in still counts on a hard day.',
+        href: '/zebra-vs-spreadsheet/',
+        cta: 'Compare Zebra and spreadsheets',
+      },
+      {
+        name: 'Highly customizable trackers',
+        problem: 'Powerful, with a lot you can choose to track. Some people find the setup and daily choices hard to keep up on a foggy day.',
+        zebra: 'Zebra starts from a ready-made list for POTS, EDS, and Fibromyalgia, with less to set up and decide each day.',
+        href: '/zebra-vs-bearable/',
+        cta: 'Compare Zebra and Bearable',
+      },
+      {
+        name: 'Pacing and energy apps',
+        problem: 'Built around pacing and energy, often using heart-rate data.',
+        zebra: 'Zebra is built around check-ins, what changed, medication changes, and preparing for appointments. Some people use both.',
+        href: '/zebra-vs-visible/',
+        cta: 'Compare Zebra and Visible',
+      },
+    ],
+    note:
+      'The goal is not to track perfectly. It is to keep enough history that your next appointment starts with less guessing.',
+  },
+  trackingPaths: {
+    eyebrow: 'Who Zebra is for',
+    title: 'Made for POTS, EDS, Fibromyalgia, and overlapping symptoms.',
+    intro:
+      'Many people live with more than one of these, or with symptoms that do not have a name yet. Zebra keeps them in one place instead of one app per diagnosis.',
+    items: [
+      {
+        label: 'POTS and dysautonomia',
+        title: 'Standing, heart rate, salt, and water.',
+        body: 'Track dizziness, palpitations, fatigue, and brain fog alongside salt, water, and guided orthostatic tests.',
+        pain: 'Useful when you need to show what happens when you stand, in the heat, or after a medication change.',
+        href: '/pots-tracker/',
+        cta: 'Zebra for POTS',
+      },
+      {
+        label: 'EDS / hEDS',
+        title: 'Pain, instability, fatigue, and overlap.',
+        body: 'Keep joint pain, injuries, fatigue, and dysautonomia symptoms together, so the whole month is in one place.',
+        pain: 'Useful when each appointment covers one body system but your month involved several.',
+        href: '/eds-tracker/',
+        cta: 'Zebra for EDS',
+      },
+      {
+        label: 'Fibromyalgia',
+        title: 'Pain, fatigue, sleep, and brain fog.',
+        body: 'Track widespread pain, fatigue, sleep, and brain fog, plus what each flare stopped you doing.',
+        pain: 'Useful when "how have you been?" covers weeks you only half remember.',
+        href: '/fibromyalgia-tracker/',
+        cta: 'Zebra for Fibromyalgia',
+      },
+      {
+        label: 'Overlapping or unexplained symptoms',
+        title: 'One place, even without a diagnosis.',
+        body: 'Long COVID, ME/CFS, and symptoms still waiting for an explanation can live in the same history.',
+        pain: 'Useful when you are still trying to get answers and need to keep track in the meantime.',
+        href: '/symptom-tracker-for-invisible-illness/',
+        cta: 'Tracking invisible illness',
+      },
+    ],
+    note: 'Zebra organizes what you enter. It does not diagnose, treat, or replace medical care.',
+  },
+  trust: {
+    ...homePage.trust,
+    eyebrow: 'Privacy and trust',
+    title: 'Your health history stays yours.',
+    intro:
+      'Zebra is a place to keep and organize what you enter, for your own understanding and for conversations with your care team.',
+    highlight: {
+      eyebrow: 'Where your data lives',
+      title: 'On your iPhone and in your own iCloud.',
+      body:
+        'Check-ins are stored on your iPhone and, if iCloud is on, sync to your private iCloud account. There is no Zebra account and no Zebra health-data server, so your entries are not sent to us.',
+    },
+    calmState: {
+      eyebrow: 'What Zebra is for',
+      title: 'Less memory work. Calmer preparation.',
+      body: 'Zebra works when you can check in, see what matters, and get back to your day.',
+    },
+    items: [
+      {
+        title: 'Export or delete anytime',
+        body: 'Export your check-ins and tests as a CSV file, or delete them in Me → Data and privacy.',
+      },
+      {
+        title: 'Not a diagnosis',
+        body: 'Zebra does not diagnose, treat, or tell you what your symptoms mean medically.',
+      },
+      {
+        title: 'Not for emergencies',
+        body: 'If symptoms are severe or sudden, contact a doctor or emergency services.',
+      },
+      {
+        title: 'Gentle on hard days',
+        body: 'Low-stimulation mode, larger text, and calmer visuals are built in.',
+      },
+      {
+        title: 'No streaks or pressure',
+        body: 'No streaks, badges, or guilt about missed days.',
+      },
+      {
+        title: 'Built from your entries',
+        body: 'Everything in your summary comes from what you entered and can review.',
+      },
+    ],
+    links: [
+      { label: 'Read the privacy policy', href: siteConfig.routes.privacy },
+      { label: 'Visit support', href: siteConfig.routes.support },
+      { label: 'Terms of use', href: siteConfig.routes.terms },
+    ],
+    resources: [],
+  },
+  guides: {
+    eyebrow: 'Free guides',
+    title: 'Guides for your next appointment.',
+    intro: 'Practical reading if you are preparing for an appointment or deciding what to track.',
+    ctaLabel: 'Read the guide',
+    items: [
+      {
+        href: '/appointment-prep-checklist/',
+        label: 'Appointment prep checklist',
+        description: 'What to note in the week before a visit, when memory and energy are limited.',
+      },
+      {
+        href: '/blog/how-to-summarize-symptoms-without-forgetting-key-details/',
+        label: 'How to summarize symptoms without forgetting key details',
+        description: 'For when you prepared and the important thing still slipped away in the room.',
+      },
+      {
+        href: '/blog/how-to-track-functional-impact-for-a-doctor-appointment/',
+        label: 'How to track functional impact for a doctor appointment',
+        description: 'Explaining a hard day by what you could and could not do.',
+      },
+      {
+        href: '/blog/what-to-bring-to-a-pots-cardiology-appointment/',
+        label: 'What to bring to a POTS cardiology appointment',
+        description: 'The history, readings, and questions worth having with you.',
+      },
+      {
+        href: '/blog/pots-home-test-notes-heart-rate-blood-pressure/',
+        label: 'POTS home test notes: heart rate and blood pressure',
+        description: 'What to write down when you check readings lying and standing at home.',
+      },
+      {
+        href: '/blog/what-to-track-after-a-positive-tilt-table-test/',
+        label: 'What to track after a positive tilt table test',
+        description: 'A calm starting point after a POTS diagnosis.',
+      },
+    ],
+  },
+  faq: {
+    eyebrow: 'FAQ',
+    title: 'Questions about Zebra.',
+    items: faqItemsEnglish,
+  },
+  finalCta: {
+    eyebrow: 'Get Zebra',
+    title: 'Start with one tap today.',
+    body:
+      'Zebra is free to track, with no account. When your next appointment comes, the last month is already in one place.',
+    points: ['Capture what happens', 'See what changed', 'Prepare what to say'],
+    pointsLabel: 'What Zebra helps with',
+    endState: 'Check in when you can. Zebra keeps the history together.',
+    trustLine: 'Free to track · No account needed · Not medical advice',
+  },
+  mobileStickyCta: {
+    label: 'Get Zebra',
+    note: 'Free symptom tracker for iPhone',
+  },
+  schema: [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'SoftwareApplication',
+      name: siteConfig.brand.productName,
+      applicationCategory: 'HealthApplication',
+      applicationSubCategory: 'Symptom tracker',
+      operatingSystem: 'iOS',
+      description:
+        'Zebra is an iPhone symptom tracker for POTS, EDS, Fibromyalgia, and overlapping chronic illness. Check in quickly, see what changed over time, keep medication changes beside symptoms, record guided orthostatic tests, and prepare a 30-day summary for appointments.',
+      url: siteConfig.siteUrl,
+      downloadUrl: siteConfig.appStore.url,
+      installUrl: siteConfig.appStore.url,
+      offers: [
+        {
+          '@type': 'Offer',
+          price: '0',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Free tier with all tracking features, the Prepare tab, and CSV export.',
+        },
+        {
+          '@type': 'Offer',
+          price: '4.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Monthly Premium adds PDF export, history beyond 30 days in Understand, pattern comparison, and insight history.',
+        },
+        {
+          '@type': 'Offer',
+          price: '39.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Annual Premium adds PDF export, history beyond 30 days in Understand, pattern comparison, and insight history.',
+        },
+        {
+          '@type': 'Offer',
+          price: '59.99',
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: siteConfig.appStore.url,
+          description: 'Lifetime Premium is a one-time purchase with no subscription renewal.',
+        },
+      ],
+      featureList: [
+        'One-tap daily check-in, with optional symptoms, severity, salt, water, medications, and triggers',
+        'Comparison of the last 30 days with the previous 30 days',
+        'Pattern observations across same-day, next-day, and 2–3 day windows',
+        'Medication start, dose-change, and side-effect tracking',
+        'Guided orthostatic test for lying, standing, and recovery heart rate and blood pressure',
+        '30-day appointment summary, with PDF export in Premium',
+        'CSV export and in-app data deletion',
+      ],
+    },
+    homePage.schema[1],
+    homePage.schema[2],
+    {
+      '@context': 'https://schema.org',
+      '@type': 'WebPage',
+      name: 'Zebra: symptom tracker app for POTS, EDS, and Fibromyalgia',
+      url: siteConfig.siteUrl,
+      description:
+        'Zebra is an iPhone symptom tracker that helps people with chronic illness capture what happens, see what changed, and prepare for appointments.',
+      about: [
+        'Symptom tracking',
+        'Chronic illness',
+        'POTS',
+        'Ehlers-Danlos syndromes',
+        'Fibromyalgia',
+        'Doctor appointment preparation',
+        'Medication side effects',
+        'Orthostatic test',
+      ],
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqItemsEnglish.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.answer,
+        },
+      })),
+    },
+  ],
+} as const;
+
 export const privacyPage = {
   seo: {
     title: 'Privacy Policy — Zebra',

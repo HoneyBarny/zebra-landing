@@ -24,11 +24,58 @@ interface Props {
 }
 
 const { page } = Astro.props;
+
+// The English homepage opts into a shorter, research-ordered layout:
+// problem → capture → understand change → prepare → treatment context →
+// orthostatic test → alternatives → who it is for → trust → guides → FAQ.
+// The localized homepages still spread the legacy `homePage` object and keep
+// the original layout until they are re-translated.
+const isFocused = page.layout === 'focused';
 ---
 
 <div class="page-shell">
   <SiteHeader brand={page.header.brand} links={page.header.links} localeSwitcher={page.localeSwitcher} />
 
+  {isFocused ? (
+  <main>
+    <HeroSection
+      {...page.hero}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <ProblemSection {...page.problem} />
+    <ShowcaseSection
+      {...page.dailyTracking}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <ShowcaseSection
+      {...page.trends}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <ReportSection
+      {...page.doctorReport}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+    <WhatZebraTracksSection {...page.treatmentContext} />
+    <ShowcaseSection {...page.orthostaticTest} />
+    <ComparisonSection {...page.comparison} />
+    <TrackingPathSection {...page.trackingPaths} />
+    <TrustSection {...page.trust} />
+    <GuidesSection {...page.guides} />
+    <FAQSection {...page.faq} />
+    <FinalCTASection
+      {...page.finalCta}
+      appStoreURL={page.appStore.url}
+      appStoreBadgeURL={page.appStore.badgeUrl}
+      appStoreBadgeAlt={page.appStore.badgeAlt}
+    />
+  </main>
+  ) : (
   <main>
     <HeroSection
       {...page.hero}
@@ -67,6 +114,7 @@ const { page } = Astro.props;
       appStoreBadgeAlt={page.appStore.badgeAlt}
     />
   </main>
+  )}
 
   <SiteFooter {...page.footer} localeSwitcher={page.localeSwitcher} />
   <MobileStickyCTA

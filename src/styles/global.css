@@ -292,6 +292,31 @@ h3 {
   hyphens: auto;
 }
 
+/* The H1 carries the category line ("Symptom tracker for…") so the heading
+   names the product. The lead keeps the old eyebrow's look; the main line is a
+   little smaller than the legacy hero because it is longer. */
+.hero h1.hero-title--with-lead {
+  font-size: clamp(2.6rem, 4.6vw, 4.5rem);
+  max-width: 15ch;
+  overflow-wrap: normal;
+}
+
+.hero-title-lead {
+  display: block;
+  margin: 0 0 14px;
+  font-family: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+
+.hero-title-main {
+  display: block;
+}
+
 .breadcrumbs ol {
   display: flex;
   flex-wrap: wrap;
@@ -2811,6 +2836,10 @@ h3 {
 
   .hero h1 {
     font-size: clamp(2.2rem, 9.4vw, 3.7rem);
+  }
+
+  .hero h1.hero-title--with-lead {
+    font-size: clamp(2.1rem, 8.6vw, 3.3rem);
   }
 
   .hero-cta-band {

@@ -33,6 +33,10 @@ interface Props {
     label: string;
     note: string;
   };
+  relatedLink?: {
+    href: string;
+    label: string;
+  };
   proofLabel: string;
   proofTitle: string;
   proofBody: string;
@@ -60,6 +64,7 @@ const {
   bullets,
   preview,
   sampleReport,
+  relatedLink,
   proofLabel,
   proofTitle,
   proofBody,
@@ -97,6 +102,11 @@ const {
             <p class="sample-report-link">
               <a href={sampleReport.href} target="_blank" rel="noopener noreferrer">{sampleReport.label}</a>
               <span>{sampleReport.note}</span>
+            </p>
+          )}
+          {relatedLink && (
+            <p class="sample-report-link">
+              <a href={relatedLink.href}>{relatedLink.label}</a>
             </p>
           )}
         </div>

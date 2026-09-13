@@ -12,9 +12,10 @@ interface Props {
   title: string;
   intro: string;
   items: GuideItem[];
+  ctaLabel?: string;
 }
 
-const { eyebrow, title, intro, items } = Astro.props;
+const { eyebrow, title, intro, items, ctaLabel = 'Open page' } = Astro.props;
 ---
 
 <section class="section guides-section" id="popular-guides" aria-labelledby="guides-heading">
@@ -24,7 +25,7 @@ const { eyebrow, title, intro, items } = Astro.props;
       <a class="guide-card" href={item.href}>
         <strong>{item.label}</strong>
         <p>{item.description}</p>
-        <span>Open page</span>
+        <span>{ctaLabel}</span>
       </a>
     ))}
   </div>

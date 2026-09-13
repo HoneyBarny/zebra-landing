@@ -1,4 +1,4 @@
-import { homePage } from '../site-content';
+import { homePageEnglish as homePage } from '../site-content';
 import { localeAlternates, localeSwitcherLinks, localizedAppStore } from './shared';
 
 export const homePageEn = {
