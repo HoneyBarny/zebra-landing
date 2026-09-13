@@ -38,7 +38,10 @@ const {
 >
 	<div class="consent-banner__inner">
 		<div class="consent-banner__copy">
-			<h2 class="consent-banner__title" id="zebra-consent-title" tabindex="-1">{title}</h2>
+			{/* Not a heading. The banner is the first element in <body>, so an <h2>
+			    here became the first heading on every page of the site. The dialog
+			    is still named by this element through aria-labelledby. */}
+			<p class="consent-banner__title" id="zebra-consent-title" tabindex="-1">{title}</p>
 			<p class="consent-banner__body" id="zebra-consent-body">
 				{body}
 			</p>

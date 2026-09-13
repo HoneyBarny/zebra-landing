@@ -98,7 +98,7 @@ export const homePageEsEs = {
     body:
       'Zebra te ayuda a registrar sintomas de POTS, EDS y fibromialgia, brotes, constantes ortostaticas, frecuencia cardiaca, medicacion, sodio/sal, agua y notas en un lugar tranquilo, y convertir el historial en un informe para el medico.',
     trustLine:
-      'Gratis para registrar. Privado por diseno. Tus datos permanecen en tu dispositivo.',
+      'Gratis para registrar. Privado por diseno. Tus datos de salud se quedan en tu dispositivo y en tu propio iCloud.',
     ctaSupport: ['Privado por diseno', 'Sin cuenta obligatoria', 'No es consejo medico'],
     bullets: [
       'Tracking para POTS, EDS y fibromialgia',
@@ -131,10 +131,11 @@ export const homePageEsEs = {
       'La niebla mental hace mas dificil preparar la cita',
       'Los brotes son dificiles de reconstruir despues',
     ],
-    quotes: [
-      'Lo tengo todo repartido.',
-      'Sabia que era importante, pero se me olvido en la cita.',
-      'Nada mostraba la imagen completa cuando la necesitaba.',
+    // Plain statements, not quotes: see the note on problem.painPoints in site-content.ts.
+    painPoints: [
+      'Tu historial acaba repartido entre Notas, capturas y memoria.',
+      'Te preparaste y, aun asi, el detalle importante se te escapo en la cita.',
+      'Nada muestra la imagen completa cuando te lo preguntan en la consulta.',
     ],
   },
   whatZebraTracks: {
@@ -428,7 +429,7 @@ export const homePageEsEs = {
       'Zebra mantiene las mediciones tumbada, de pie y de recuperacion conectadas con tus sintomas en lugar de separarlas en otra app.',
     ],
     momentLabel: 'La secuencia guiada',
-    sequence: ['Tumbarse', 'Sentarse', 'Ponerse de pie', 'Guardar en la misma linea temporal'],
+    sequence: ['Tumbarse', 'Ponerse de pie', 'Volver a tumbarse', 'Guardar en la misma linea temporal'],
     bullets: [
       'Flujo guiado tumbada, de pie y recuperacion',
       'La misma linea temporal que sintomas y medicacion',

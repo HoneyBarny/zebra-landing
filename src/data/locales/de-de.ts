@@ -98,7 +98,7 @@ export const homePageDeDe = {
     body:
       'Zebra hilft Ihnen, POTS-, EDS- und Fibromyalgie-Symptome, Schuebe, orthostatische Vitalwerte, Herzfrequenz-Kontext, Medikamente, Salz/Natrium, Wasser und Notizen an einem ruhigen Ort zu erfassen und daraus einen arztbereiten Bericht zu erstellen.',
     trustLine:
-      'Kostenlos tracken. Datenschutzorientiert. Ihre Daten bleiben auf Ihrem Geraet.',
+      'Kostenlos tracken. Datenschutzorientiert. Ihre Gesundheitsdaten bleiben auf Ihrem Geraet und in Ihrer eigenen iCloud.',
     ctaSupport: ['Datenschutzorientiert', 'Kein Konto erforderlich', 'Keine medizinische Beratung'],
     bullets: [
       'POTS-, EDS- und Fibromyalgie-Tracking',
@@ -131,10 +131,11 @@ export const homePageDeDe = {
       'Brain Fog macht Terminvorbereitung schwerer',
       'Schuebe lassen sich spaeter schwer rekonstruieren',
     ],
-    quotes: [
-      'Ich habe Teile davon ueberall.',
-      'Ich wusste, dass es wichtig war, aber beim Termin war es weg.',
-      'Nichts zeigte das ganze Bild, als ich es gebraucht haette.',
+    // Plain statements, not quotes: see the note on problem.painPoints in site-content.ts.
+    painPoints: [
+      'Ihre Geschichte liegt in Teilen verstreut: Notizen, Screenshots und Gedaechtnis.',
+      'Sie haben sich vorbereitet, und das Wichtige ist im Termin trotzdem weg.',
+      'Nichts zeigt das ganze Bild, wenn im Termin danach gefragt wird.',
     ],
   },
   whatZebraTracks: {
@@ -457,7 +458,7 @@ export const homePageDeDe = {
       'Zebra verbindet Werte im Liegen, Stehen und in der Erholung mit Ihren Symptomen, statt sie in ein weiteres Tool auszulagern.',
     ],
     momentLabel: 'Die gefuehrte Sequenz',
-    sequence: ['Hinlegen', 'Aufsetzen', 'Stehen', 'In derselben Timeline speichern'],
+    sequence: ['Hinlegen', 'Stehen', 'Wieder hinlegen', 'In derselben Timeline speichern'],
     bullets: [
       'Gefuehrter Ablauf fuer Liegen, Stehen und Erholung',
       'Dieselbe Timeline wie Symptome und Medikamente',

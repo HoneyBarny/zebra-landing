@@ -81,7 +81,7 @@ export const homePage = {
     quickLinks: [],
     quickLinksTitle: '',
     trustLine:
-      'Free to track. Private by design. Your data stays on your device.',
+      'Free to track. Private by design. Your health data stays on your device and in your own iCloud.',
     ctaSupport: ['Private by design', 'No account required', 'Not medical advice'],
     bullets: [
       'POTS, EDS & Fibromyalgia tracking',
@@ -213,10 +213,14 @@ export const homePage = {
       'Brain fog makes appointment prep harder',
       'Flares are hard to reconstruct later',
     ],
-    quotes: [
-      'I have pieces of it everywhere.',
-      'I knew it mattered, but I forgot by the appointment.',
-      'Nothing showed the full picture when I needed it.',
+    // Plain statements, not quotes. These were once rendered in quotation marks
+    // inside <blockquote>, which reads as customer testimonials, and no customer
+    // said them. Keep them unattributed and unquoted unless a real, consented,
+    // attributable testimonial replaces one.
+    painPoints: [
+      'Your history ends up in pieces: Notes, screenshots, and memory.',
+      'You prepared, and the detail that mattered still slipped away in the room.',
+      'Nothing shows the full picture when the doctor asks.',
     ],
   },
   trackingPaths: {
@@ -651,7 +655,9 @@ export const homePage = {
       'Zebra keeps lying, standing, and recovery vitals connected to your symptoms instead of splitting them into another tool.',
     ],
     momentLabel: 'The guided sequence',
-    sequence: ['Lie down', 'Sit up', 'Stand', 'Save to the same timeline'],
+    // Mirrors OrthoTestStep in the app: lying, standing, then back to lying.
+    // There is no sitting stage.
+    sequence: ['Lie down', 'Stand', 'Lie back down', 'Save to the same timeline'],
     bullets: [
       'Guided lying, standing, recovery flow',
       'Same timeline as symptoms and meds',
@@ -1066,6 +1072,10 @@ export const homePage = {
       name: siteConfig.brand.name,
       url: siteConfig.siteUrl,
       logo: new URL(siteConfig.brand.logo.src, siteConfig.siteUrl).toString(),
+      // The App Store listing names https://zebratracker.app as its seller URL,
+      // so the two identify each other. The developer page is not used: it is
+      // the individual developer account, not the Zebra organization.
+      sameAs: [siteConfig.appStore.url],
       contactPoint: {
         '@type': 'ContactPoint',
         email: siteConfig.support.email,
@@ -1122,10 +1132,10 @@ export const privacyPage = {
   backLabel: 'Back to Zebra',
   eyebrow: 'Privacy',
   title: 'Privacy Policy',
-  updated: 'Last updated: May 18, 2026',
+  updated: 'Last updated: September 12, 2026',
   intro: [
     'Zebra is a symptom tracker for people with POTS, EDS, and Fibromyalgia. This policy covers both the Zebra app and this website.',
-    'The app and the website are separate. The app holds your health data and sends it nowhere. The website is marketing, and — only if you agree to it — measures how well our ads work. Nothing connects the two: this website cannot see anything you enter in the app, and the app does not report back to this website.',
+    'The app and the website are separate. The app keeps your health data on your device and in your own iCloud, and never sends it to us. The website is marketing, and — only if you agree to it — measures how well our ads work. Nothing connects the two: this website cannot see anything you enter in the app, and the app does not report back to this website.',
   ],
   sections: [
     {
@@ -1156,6 +1166,7 @@ export const privacyPage = {
       heading: 'Subscriptions',
       paragraphs: [
         'Zebra Premium subscriptions are processed entirely through Apple. We do not collect, see, or store your payment information. Subscription management is handled through your Apple ID account.',
+        'To check whether Premium is active, the app uses RevenueCat, a subscription service. RevenueCat receives your App Store purchase and subscription records, an anonymous identifier the app creates, and the technical information any network request carries, such as your IP address. It does not receive your health data, and the app does not give it your name or email address.',
       ],
     },
     {
@@ -1170,7 +1181,7 @@ export const privacyPage = {
         'We run ads on Meta (Facebook and Instagram). To see whether those ads reach people who find Zebra useful, this website can load the Meta pixel — a small script from Meta that reports back that a visit happened.',
         'It only loads if you press Accept in the banner shown on your first visit. Until you do, it is not loaded and no request is made to Meta. Declining is a real choice with no reduced version of the site behind it: everything works the same either way.',
         'If you accept, Meta receives that you viewed a page on this site, and that you pressed a button to open Zebra on the App Store — including which button, so we can tell one ad placement from another. It also receives the information any website receives when your browser makes a request, such as your IP address and browser type, and it may match that against a Meta account if you have one.',
-        'It does not receive anything about your health. This website has no access to your check-ins, flares, symptoms, medications, orthostatic tests, or doctor reports — that information never leaves your device and this site was never able to see it. We do not send Meta the page you were reading or the address you were heading to, and we do not send your name, email address, or any identifier we hold.',
+        'It does not receive anything about your health. This website has no access to your check-ins, flares, symptoms, medications, orthostatic tests, or doctor reports — that information is never sent to this website and this site was never able to see it. We do not send Meta the page you were reading or the address you were heading to, and we do not send your name, email address, or any identifier we hold.',
         'App Store links on this site also carry an Apple campaign parameter, which tells App Store Connect which ad a download came from. Apple reads it when the App Store opens. It runs no script in your browser, stores nothing on your device, and identifies a campaign rather than a person, so it is not covered by the consent banner.',
       ],
     },
@@ -1192,7 +1203,8 @@ export const privacyPage = {
       heading: 'Your choices',
       appendContactEmail: true,
       paragraphs: [
-        'You can delete all app data by deleting the Zebra app from your device. You can accept or decline advertising measurement on this website at any time using the "Cookie preferences" control at the end of this page. To request removal of website contact information, email us using the contact link below.',
+        'To delete your health data, open Me → Data and privacy → Delete Data in the app. This removes your daily logs and orthostatic tests, and when iCloud sync is on, the deletion syncs to your iCloud account too. Deleting the app on its own is not enough if you use iCloud: the synced copy stays in your iCloud account and returns if you reinstall Zebra.',
+        'You can accept or decline advertising measurement on this website at any time using the "Cookie preferences" control at the end of this page. To request removal of website contact information, email us using the contact link below.',
       ],
     },
     {

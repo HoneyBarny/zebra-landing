@@ -9,10 +9,10 @@ interface Props {
   flowLabel: string;
   flow?: string[];
   bullets: string[];
-  quotes: string[];
+  painPoints: string[];
 }
 
-const { eyebrow, title, statement, support, flowLabel, flow = ['Notes', 'Screenshots', 'Memory', 'Zebra'], bullets, quotes } = Astro.props;
+const { eyebrow, title, statement, support, flowLabel, flow = ['Notes', 'Screenshots', 'Memory', 'Zebra'], bullets, painPoints } = Astro.props;
 ---
 
 <section class="section problem-section" aria-labelledby="problem-heading">
@@ -29,8 +29,8 @@ const { eyebrow, title, statement, support, flowLabel, flow = ['Notes', 'Screens
         {bullets.map((bullet) => <li>{bullet}</li>)}
       </ul>
     </div>
-    <div class="problem-quotes" aria-label="Customer language highlights">
-      {quotes.map((quote) => <blockquote>"{quote}"</blockquote>)}
-    </div>
+    <ul class="problem-moments">
+      {painPoints.map((point) => <li>{point}</li>)}
+    </ul>
   </div>
 </section>

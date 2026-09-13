@@ -93,7 +93,7 @@ export const homePageFrFr = {
     body:
       'Zebra vous aide a suivre symptomes, poussees, constantes orthostatiques, frequence cardiaque, medicaments, sel/sodium, eau et notes dans un espace calme, puis a transformer l historique en rapport pour le medecin.',
     trustLine:
-      'Suivi gratuit. Confidentialite des la conception. Vos donnees restent sur votre appareil.',
+      'Suivi gratuit. Confidentialite des la conception. Vos donnees de sante restent sur votre appareil et dans votre propre iCloud.',
     ctaSupport: ['Confidentialite des la conception', 'Aucun compte requis', 'Pas un avis medical'],
     bullets: [
       'Suivi POTS et dysautonomie',
@@ -126,10 +126,11 @@ export const homePageFrFr = {
       'Le brouillard mental complique la preparation du rendez-vous',
       'Les poussees sont difficiles a reconstruire plus tard',
     ],
-    quotes: [
-      'J en ai des morceaux partout.',
-      'Je savais que c etait important, mais je l ai oublie pendant le rendez-vous.',
-      'Rien ne montrait l ensemble quand j en avais besoin.',
+    // Plain statements, not quotes: see the note on problem.painPoints in site-content.ts.
+    painPoints: [
+      'Votre historique finit en morceaux entre Notes, captures d ecran et memoire.',
+      'Vous aviez tout prepare, et le detail important vous a quand meme echappe pendant le rendez-vous.',
+      'Rien ne montre l ensemble quand on vous pose la question en consultation.',
     ],
   },
   whatZebraTracks: {
@@ -423,7 +424,7 @@ export const homePageFrFr = {
       'Zebra garde les mesures allongee, debout et en recuperation reliees a vos symptomes au lieu de les isoler dans une autre app.',
     ],
     momentLabel: 'La sequence guidee',
-    sequence: ['S allonger', 'S asseoir', 'Se lever', 'Enregistrer dans la meme chronologie'],
+    sequence: ['S allonger', 'Se lever', 'Se rallonger', 'Enregistrer dans la meme chronologie'],
     bullets: [
       'Parcours guide allongee, debout, recuperation',
       'Meme chronologie que les symptomes et medicaments',

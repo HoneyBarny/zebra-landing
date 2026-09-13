@@ -166,6 +166,8 @@ export function createHomeSchema({
       name: siteConfig.brand.name,
       url: siteConfig.siteUrl,
       logo: new URL(siteConfig.brand.logo.src, siteConfig.siteUrl).toString(),
+      // See the Organization note in site-content.ts.
+      sameAs: [siteConfig.appStore.url],
       contactPoint: {
         '@type': 'ContactPoint',
         email: siteConfig.support.email,
