@@ -57,7 +57,7 @@ const faqItems = [
   {
     question: 'Was enthaelt Premium?',
     answer:
-      'Die kostenlose Version enthaelt die wichtigsten Tracking-Funktionen und 30 Tage Verlauf. Premium schaltet unbegrenzten Verlauf, den PDF-Export fuer Arztberichte und das vollstaendige orthostatische Archiv frei.',
+      'Die kostenlose Version enthaelt die wichtigsten Tracking-Funktionen und 30 Tage Verlauf. Premium schaltet laengere Verlaufsansichten und den PDF-Export fuer Arztberichte frei.',
   },
 ] as const;
 
@@ -612,7 +612,7 @@ export const homePageDeDe = {
     eyebrow: 'Zebra herunterladen',
     title: 'Gut vorbereitet zum Arzttermin.',
     body:
-      'Starten Sie heute mit der kostenlosen Version. Wechseln Sie zu Premium, wenn Sie unbegrenzten Verlauf und arztbereite PDF-Berichte moechten.',
+      'Starten Sie heute mit der kostenlosen Version. Wechseln Sie zu Premium, wenn Sie laengere Verlaufsansichten und arztbereite PDF-Berichte moechten.',
     points: ['Taeglich erfassen', 'Muster sehen', 'Bericht exportieren'],
     pointsLabel: 'Warum Zebra herunterladen',
     endState: 'Ein ruhigerer Termin beginnt mit einem Verlauf, den Sie nicht neu aufbauen muessen.',
@@ -664,8 +664,8 @@ export const homePageDeDe = {
     faqItems,
     offerDescriptions: {
       free: 'Kostenlose Tracking-Version mit Kernfunktionen und 30 Tagen Verlauf.',
-      monthly: 'Monatliches Premium schaltet unbegrenzten Verlauf, PDF-Export fuer Arztberichte und das volle orthostatische Archiv frei.',
-      annual: 'Jaehrliches Premium schaltet unbegrenzten Verlauf, PDF-Export fuer Arztberichte und das volle orthostatische Archiv frei.',
+      monthly: 'Monatliches Premium schaltet laengere Verlaufsansichten und PDF-Export fuer Arztberichte frei.',
+      annual: 'Jaehrliches Premium schaltet laengere Verlaufsansichten und PDF-Export fuer Arztberichte frei.',
       lifetime: 'Lifetime Premium schaltet Premium mit einem einmaligen Kauf ohne Abo-Verlaengerung frei.',
     },
     featureList: [

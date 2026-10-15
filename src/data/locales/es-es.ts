@@ -57,7 +57,7 @@ const faqItems = [
   {
     question: 'Que incluye Premium?',
     answer:
-      'La version gratuita incluye el registro principal y 30 dias de historial. Premium desbloquea historial ilimitado, exportacion del informe PDF y el archivo ortostatico completo.',
+      'La version gratuita incluye el registro principal y 30 dias de historial. Premium desbloquea vistas de historial mas largas y la exportacion del informe PDF.',
   },
 ] as const;
 
@@ -583,7 +583,7 @@ export const homePageEsEs = {
     eyebrow: 'Descarga Zebra',
     title: 'Llega a la cita con una historia clara de tus sintomas.',
     body:
-      'Empieza hoy con la version gratuita. Actualiza a Premium cuando quieras historial ilimitado e informes PDF para el medico.',
+      'Empieza hoy con la version gratuita. Actualiza a Premium cuando quieras vistas de historial mas largas e informes PDF para el medico.',
     points: ['Registra a diario', 'Ve el patron', 'Exporta el informe'],
     pointsLabel: 'Por que descargar Zebra',
     endState: 'Una cita mas tranquila empieza con un historial que no tienes que reconstruir.',
@@ -635,8 +635,8 @@ export const homePageEsEs = {
     faqItems,
     offerDescriptions: {
       free: 'Version gratuita con funciones principales y 30 dias de historial.',
-      monthly: 'Premium mensual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostatico completo.',
-      annual: 'Premium anual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostatico completo.',
+      monthly: 'Premium mensual desbloquea vistas de historial mas largas y exportacion de informe PDF.',
+      annual: 'Premium anual desbloquea vistas de historial mas largas y exportacion de informe PDF.',
       lifetime: 'Premium lifetime desbloquea Premium con una compra unica y sin renovacion de suscripcion.',
     },
     featureList: [

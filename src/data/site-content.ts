@@ -45,7 +45,7 @@ const faqItems = [
   {
     question: 'What does Premium include?',
     answer:
-      'The free tier includes core tracking and 30 days of history. Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+      'The free tier includes core tracking and 30 days of history. Premium adds longer history views and doctor-ready PDF report export.',
   },
 ] as const;
 
@@ -981,7 +981,7 @@ export const homePage = {
     eyebrow: 'Download Zebra',
     title: 'Finally have proof for your doctor.',
     body:
-      'Start tracking today with the free tier. Upgrade when you want unlimited history and doctor-ready PDF reports.',
+      'Start tracking today with the free tier. Upgrade when you want longer history views and doctor-ready PDF reports.',
     endState: 'A calmer appointment starts with a record you do not have to rebuild.',
     trustLine:
       'Track free · Private by design · Cancel anytime',
@@ -1040,7 +1040,7 @@ export const homePage = {
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
           url: siteConfig.appStore.url,
-          description: 'Monthly Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+          description: 'Monthly Premium adds longer history views and doctor-ready PDF report export.',
         },
         {
           '@type': 'Offer',
@@ -1048,7 +1048,7 @@ export const homePage = {
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
           url: siteConfig.appStore.url,
-          description: 'Annual Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+          description: 'Annual Premium adds longer history views and doctor-ready PDF report export.',
         },
         {
           '@type': 'Offer',
