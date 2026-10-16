@@ -15,44 +15,44 @@ const localePath = localeRoutes.frFr;
 
 const faqItems = [
   {
-    question: 'Quel est le meilleur tracker de symptomes pour le POTS ?',
+    question: 'Quel est le meilleur tracker de symptômes pour le POTS ?',
     answer:
-      'Le meilleur tracker de symptomes POTS est un outil que vous pouvez encore utiliser les jours de poussee et avant les rendez-vous. Zebra est concue pour le POTS, la dysautonomie, les constantes orthostatiques, le sel, l hydratation, le contexte de frequence cardiaque, le brouillard mental, les symptomes et les rapports medicaux.',
+      'Le meilleur tracker de symptômes POTS est un outil que vous pouvez encore utiliser les jours de poussée et avant les rendez-vous. Zebra est conçue pour le POTS, la dysautonomie, les constantes orthostatiques, le sel, l\'hydratation, le contexte de fréquence cardiaque, le brouillard mental, les symptômes et les rapports médicaux.',
   },
   {
-    question: 'Zebra peut-elle suivre les constantes orthostatiques et la frequence cardiaque ?',
+    question: 'Zebra peut-elle suivre les constantes orthostatiques et la fréquence cardiaque ?',
     answer:
-      'Oui. Zebra peut garder les mesures allongee, assise et debout dans la meme chronologie que les symptomes, poussees, medicaments, sel/sodium, hydratation, notes et questions de rendez-vous.',
+      'Oui. Zebra peut garder les mesures allongée, assise et debout dans la même chronologie que les symptômes, poussées, médicaments, sel/sodium, hydratation, notes et questions de rendez-vous.',
   },
   {
-    question: 'Zebra peut-elle aider a preparer un rendez-vous ?',
+    question: 'Zebra peut-elle aider à préparer un rendez-vous ?',
     answer:
-      'Oui. Zebra garde votre historique de symptomes organise, montre les tendances dans le temps et exporte un rapport que vous pouvez relire avant une consultation specialisee, de cardiologie ou de suivi.',
+      'Oui. Zebra garde votre historique de symptômes organisé, montre les tendances dans le temps et exporte un rapport que vous pouvez relire avant une consultation spécialisée, de cardiologie ou de suivi.',
   },
   {
-    question: 'Puis-je suivre sodium, hydratation, symptomes et brouillard mental ensemble ?',
+    question: 'Puis-je suivre sodium, hydratation, symptômes et brouillard mental ensemble ?',
     answer:
-      'Oui. Zebra garde sel/sodium, eau, symptomes, brouillard mental, fatigue, medicaments, declencheurs, notes et contexte de poussee ensemble pour mieux relire l historique plus tard.',
+      'Oui. Zebra garde sel/sodium, eau, symptômes, brouillard mental, fatigue, médicaments, déclencheurs, notes et contexte de poussée ensemble pour mieux relire l\'historique plus tard.',
   },
   {
-    question: 'En quoi Zebra est-elle differente de Notes ou d un journal de symptomes generaliste ?',
+    question: 'En quoi Zebra est-elle différente de Notes ou d\'un journal de symptômes généraliste ?',
     answer:
-      'Notes et les tableurs commencent vides. Zebra fournit une structure adaptee, le suivi des constantes orthostatiques et un rapport pour le medecin, sans series bien-etre ni configuration generique.',
+      'Notes et les tableurs commencent vides. Zebra fournit une structure adaptée, le suivi des constantes orthostatiques et un rapport pour le médecin, sans séries bien-être ni configuration générique.',
   },
   {
-    question: 'Ou mes donnees sont-elles stockees ?',
+    question: 'Où mes données sont-elles stockées ?',
     answer:
-      'Les donnees de sante de l app sont stockees sur votre iPhone et peuvent etre synchronisees via votre compte iCloud personnel. Zebra ne demande pas de compte Zebra et n exploite pas de serveur separe pour vos donnees de sante.',
+      'Les données de santé de l\'app sont stockées sur votre iPhone et peuvent être synchronisées via votre compte iCloud personnel. Zebra ne demande pas de compte Zebra et n\'exploite pas de serveur séparé pour vos données de santé.',
   },
   {
     question: 'Zebra diagnostique-t-elle ou traite-t-elle une maladie ?',
     answer:
-      'Non. Zebra ne pose pas de diagnostic, ne traite pas et ne fournit pas d avis medical. Elle aide a organiser votre historique pour les conversations avec les soignants.',
+      'Non. Zebra ne pose pas de diagnostic, ne traite pas et ne fournit pas d\'avis médical. Elle aide à organiser votre historique pour les conversations avec les soignants.',
   },
   {
     question: 'Que comprend Premium ?',
     answer:
-      'La version gratuite inclut le suivi principal et 30 jours d\'historique. Premium debloque des vues d\'historique plus longues et l\'export PDF du rapport medical.',
+      'La version gratuite inclut le suivi principal et 30 jours d\'historique. Premium débloque des vues d\'historique plus longues et l\'export PDF du rapport médical.',
   },
 ] as const;
 
@@ -64,12 +64,12 @@ export const homePageFrFr = {
     path: localePath,
   },
   seo: {
-    title: 'Tracker POTS pour poussees, constantes et rendez-vous | Zebra',
+    title: 'Tracker POTS pour poussées, constantes et rendez-vous | Zebra',
     description:
-      'Suivez poussees POTS, symptomes de dysautonomie, constantes orthostatiques, sodium, hydratation, frequence cardiaque, brouillard mental, medicaments et notes de rendez-vous.',
+      'Suivez poussées POTS, symptômes de dysautonomie, constantes orthostatiques, sodium, hydratation, fréquence cardiaque, brouillard mental, médicaments et notes de rendez-vous.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
-      'Apercu Zebra d un rapport medical cree a partir des symptomes, constantes orthostatiques, medicaments et notes de rendez-vous.',
+      'Aperçu Zebra d\'un rapport médical créé à partir des symptômes, constantes orthostatiques, médicaments et notes de rendez-vous.',
     alternates: localeAlternates,
   },
   header: {
@@ -89,28 +89,28 @@ export const homePageFrFr = {
   hero: {
     ...homePage.hero,
     eyebrow: 'Pour le POTS, le SED et la fibromyalgie',
-    title: 'Suivez poussees POTS, constantes, sodium et brouillard mental avant votre prochain rendez-vous.',
+    title: 'Suivez poussées POTS, constantes, sodium et brouillard mental avant votre prochain rendez-vous.',
     body:
-      'Zebra vous aide a suivre symptomes, poussees, constantes orthostatiques, frequence cardiaque, medicaments, sel/sodium, eau et notes dans un espace calme, puis a transformer l historique en rapport pour le medecin.',
+      'Zebra vous aide à suivre symptômes, poussées, constantes orthostatiques, fréquence cardiaque, médicaments, sel/sodium, eau et notes dans un espace calme, puis à transformer l\'historique en rapport pour le médecin.',
     trustLine:
-      'Suivi gratuit. Confidentialite des la conception. Vos donnees de sante restent sur votre appareil et dans votre propre iCloud.',
-    ctaSupport: ['Confidentialite des la conception', 'Aucun compte requis', 'Pas un avis medical'],
+      'Suivi gratuit. Confidentialité dès la conception. Vos données de santé restent sur votre appareil et dans votre propre iCloud.',
+    ctaSupport: ['Confidentialité dès la conception', 'Aucun compte requis', 'Pas un avis médical'],
     bullets: [
       'Suivi POTS et dysautonomie',
-      'Constantes orthostatiques, sodium et symptomes',
+      'Constantes orthostatiques, sodium et symptômes',
       'Check-ins en moins de 60 secondes',
-      'Rapport pret pour le rendez-vous',
+      'Rapport prêt pour le rendez-vous',
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
-      alt: 'Video de l app Zebra sur iPhone montrant le suivi des symptomes, la preparation de rendez-vous et les rapports pour le medecin.',
+      alt: 'Vidéo de l\'app Zebra sur iPhone montrant le suivi des symptômes, la préparation de rendez-vous et les rapports pour le médecin.',
       label: 'Intro Zebra',
-      meta: 'Voir l app en mouvement',
+      meta: 'Voir l\'app en mouvement',
     })),
     supportCard: {
-      eyebrow: 'Le rapport est le resultat',
-      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de memoire.',
-      body: 'Le suivi quotidien des poussees devient une base utile : symptomes, medicaments, sel, eau, constantes orthostatiques et notes organises dans un rapport.',
+      eyebrow: 'Le rapport est le résultat',
+      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de mémoire.',
+      body: 'Le suivi quotidien des poussées devient une base utile : symptômes, médicaments, sel, eau, constantes orthostatiques et notes organisées dans un rapport.',
     },
   },
   problem: {
@@ -575,19 +575,19 @@ export const homePageFrFr = {
     items: faqItems,
   },
   finalCta: {
-    eyebrow: 'Telecharger Zebra',
-    title: 'Arrivez au rendez-vous avec un historique clair de vos symptomes.',
+    eyebrow: 'Télécharger Zebra',
+    title: 'Arrivez au rendez-vous avec un historique clair de vos symptômes.',
     body:
-      'Commencez aujourd\'hui avec la version gratuite. Passez a Premium quand vous voulez des vues d\'historique plus longues et des rapports PDF pour le medecin.',
+      'Commencez aujourd\'hui avec la version gratuite. Passez à Premium quand vous voulez des vues d\'historique plus longues et des rapports PDF pour le médecin.',
     points: ['Suivre chaque jour', 'Voir la tendance', 'Exporter le rapport'],
-    pointsLabel: 'Pourquoi telecharger Zebra',
-    endState: 'Un rendez-vous plus calme commence avec un historique que vous n avez pas a reconstruire.',
-    trustLine: 'Suivi gratuit · Confidentialite des la conception · Annulation possible a tout moment',
+    pointsLabel: 'Pourquoi télécharger Zebra',
+    endState: 'Un rendez-vous plus calme commence avec un historique que vous n\'avez pas à reconstruire.',
+    trustLine: 'Suivi gratuit · Confidentialité dès la conception · Annulation possible à tout moment',
   },
   mobileStickyCta: {
-    label: 'Telecharger Zebra',
+    label: 'Télécharger Zebra',
     note: 'Apporter un historique au rendez-vous',
-    ariaLabel: 'Telecharger Zebra sur l App Store',
+    ariaLabel: 'Télécharger Zebra sur l\'App Store',
   },
   footer: {
     body: 'Zebra est une app iPhone de suivi des symptomes pour le POTS, la dysautonomie, le SED, la fibromyalgie et les maladies chroniques invisibles qui se chevauchent, concue pour des historiques plus clairs et des rendez-vous specialises.',

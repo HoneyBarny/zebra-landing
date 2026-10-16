@@ -15,47 +15,47 @@ const localePath = localeRoutes.esEs;
 
 const faqItems = [
   {
-    question: 'Que es Zebra?',
+    question: '¿Qué es Zebra?',
     answer:
-      'Zebra es una app de iPhone para registrar sintomas de POTS, EDS y fibromialgia. Te ayuda a guardar tu historial introducido por ti y convertirlo en un informe listo para revisar antes de una cita medica.',
+      'Zebra es una app de iPhone para registrar síntomas de POTS, EDS y fibromialgia. Te ayuda a guardar tu historial introducido por ti y convertirlo en un informe listo para revisar antes de una cita médica.',
   },
   {
-    question: 'Cual es un buen tracker de sintomas para POTS?',
+    question: '¿Cuál es un buen tracker de síntomas para POTS?',
     answer:
-      'Un buen tracker de POTS debe seguir siendo usable en dias de brote y antes de citas. Zebra esta creado para POTS, disautonomia, constantes ortostaticas, sodio/sal, hidratacion, frecuencia cardiaca, niebla mental, sintomas e informes para el medico.',
+      'Un buen tracker de POTS debe seguir siendo usable en días de brote y antes de citas. Zebra está creado para POTS, disautonomía, constantes ortostáticas, sodio/sal, hidratación, frecuencia cardíaca, niebla mental, síntomas e informes para el médico.',
   },
   {
-    question: 'Puede Zebra registrar constantes ortostaticas y frecuencia cardiaca?',
+    question: '¿Puede Zebra registrar constantes ortostáticas y frecuencia cardíaca?',
     answer:
-      'Si. Zebra puede mantener mediciones tumbada, de pie y de recuperacion en la misma linea temporal que sintomas, brotes, medicacion, sodio/sal, hidratacion, notas y preguntas para la cita.',
+      'Sí. Zebra puede mantener mediciones tumbada, de pie y de recuperación en la misma línea temporal que síntomas, brotes, medicación, sodio/sal, hidratación, notas y preguntas para la cita.',
   },
   {
-    question: 'Puede Zebra ayudarme a preparar una cita?',
+    question: '¿Puede Zebra ayudarme a preparar una cita?',
     answer:
-      'Si. Zebra mantiene tu historial de sintomas organizado, muestra patrones con el tiempo y exporta un informe para revisar antes de una cita con especialista, cardiologia o seguimiento.',
+      'Sí. Zebra mantiene tu historial de síntomas organizado, muestra patrones con el tiempo y exporta un informe para revisar antes de una cita con especialista, cardiología o seguimiento.',
   },
   {
-    question: 'Puedo registrar sodio, hidratacion, sintomas y niebla mental juntos?',
+    question: '¿Puedo registrar sodio, hidratación, síntomas y niebla mental juntos?',
     answer:
-      'Si. Zebra mantiene sodio/sal, agua, sintomas, niebla mental, fatiga, medicacion, desencadenantes, notas y contexto de brote juntos para revisar mejor el historial despues.',
+      'Sí. Zebra mantiene sodio/sal, agua, síntomas, niebla mental, fatiga, medicación, desencadenantes, notas y contexto de brote juntos para revisar mejor el historial después.',
   },
   {
-    question: 'En que se diferencia Zebra de Notas o de un registro generico?',
+    question: '¿En qué se diferencia Zebra de Notas o de un registro genérico?',
     answer:
-      'Notas y las hojas de calculo empiezan en blanco. Zebra ya trae estructura para estas condiciones, registro de constantes ortostaticas y un informe para el medico, sin rachas de bienestar ni configuracion generica.',
+      'Notas y las hojas de cálculo empiezan en blanco. Zebra ya trae estructura para estas condiciones, registro de constantes ortostáticas y un informe para el médico, sin rachas de bienestar ni configuración genérica.',
   },
   {
-    question: 'Donde se guardan mis datos?',
+    question: '¿Dónde se guardan mis datos?',
     answer:
       'Los datos de salud de la app se guardan en tu iPhone y pueden sincronizarse mediante tu cuenta personal de iCloud. Zebra no requiere una cuenta de Zebra ni utiliza un servidor propio para tus datos de salud.',
   },
   {
-    question: 'Zebra diagnostica o trata alguna enfermedad?',
+    question: '¿Zebra diagnostica o trata alguna enfermedad?',
     answer:
-      'No. Zebra no diagnostica, no trata y no ofrece consejo medico. Te ayuda a organizar tu propio historial para conversaciones con profesionales sanitarios.',
+      'No. Zebra no diagnostica, no trata y no ofrece consejo médico. Te ayuda a organizar tu propio historial para conversaciones con profesionales sanitarios.',
   },
   {
-    question: 'Que incluye Premium?',
+    question: '¿Qué incluye Premium?',
     answer:
       'La versión gratuita incluye el registro principal y 30 días de historial. Premium desbloquea vistas de historial más largas y la exportación del informe PDF.',
   },
@@ -69,12 +69,12 @@ export const homePageEsEs = {
     path: localePath,
   },
   seo: {
-    title: 'Tracker de POTS para brotes, constantes y citas medicas | Zebra',
+    title: 'Tracker de POTS para brotes, constantes y citas médicas | Zebra',
     description:
-      'Registra brotes de POTS, sintomas de disautonomia, constantes ortostaticas, sodio, hidratacion, frecuencia cardiaca, niebla mental, medicacion y notas de cita.',
+      'Registra brotes de POTS, síntomas de disautonomía, constantes ortostáticas, sodio, hidratación, frecuencia cardíaca, niebla mental, medicación y notas de cita.',
     ogImage: screenshots.appointmentPreparation.src,
     ogImageAlt:
-      'Vista previa de un informe de Zebra creado a partir de sintomas, constantes ortostaticas, medicacion y notas para una cita.',
+      'Vista previa de un informe de Zebra creado a partir de síntomas, constantes ortostáticas, medicación y notas para una cita.',
     alternates: localeAlternates,
   },
   header: {
@@ -94,28 +94,28 @@ export const homePageEsEs = {
   hero: {
     ...homePage.hero,
     eyebrow: 'Para POTS, EDS y fibromialgia',
-    title: 'Llega a la cita con una historia clara de tus sintomas.',
+    title: 'Llega a la cita con una historia clara de tus síntomas.',
     body:
-      'Zebra te ayuda a registrar sintomas de POTS, EDS y fibromialgia, brotes, constantes ortostaticas, frecuencia cardiaca, medicacion, sodio/sal, agua y notas en un lugar tranquilo, y convertir el historial en un informe para el medico.',
+      'Zebra te ayuda a registrar síntomas de POTS, EDS y fibromialgia, brotes, constantes ortostáticas, frecuencia cardíaca, medicación, sodio/sal, agua y notas en un lugar tranquilo, y convertir el historial en un informe para el médico.',
     trustLine:
-      'Gratis para registrar. Privado por diseno. Tus datos de salud se quedan en tu dispositivo y en tu propio iCloud.',
-    ctaSupport: ['Privado por diseno', 'Sin cuenta obligatoria', 'No es consejo medico'],
+      'Gratis para registrar. Privado por diseño. Tus datos de salud se quedan en tu dispositivo y en tu propio iCloud.',
+    ctaSupport: ['Privado por diseño', 'Sin cuenta obligatoria', 'No es consejo médico'],
     bullets: [
       'Tracking para POTS, EDS y fibromialgia',
-      'Constantes ortostaticas, sodio y sintomas',
+      'Constantes ortostáticas, sodio y síntomas',
       'Check-ins de menos de 60 segundos',
       'Informe listo para la cita',
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
-      alt: 'Video de la app Zebra para iPhone mostrando registro de sintomas, preparacion de citas e informes para el medico.',
+      alt: 'Vídeo de la app Zebra para iPhone mostrando registro de síntomas, preparación de citas e informes para el médico.',
       label: 'Intro de Zebra',
       meta: 'Mira la app en movimiento',
     })),
     supportCard: {
       eyebrow: 'El informe es el resultado',
       title: 'Abre Zebra antes de la cita en vez de reconstruir el mes de memoria.',
-      body: 'El registro diario de brotes se convierte en informacion util: sintomas, medicacion, sal, agua, constantes ortostaticas y notas organizadas en un informe.',
+      body: 'El registro diario de brotes se convierte en información útil: síntomas, medicación, sal, agua, constantes ortostáticas y notas organizadas en un informe.',
     },
   },
   problem: {
@@ -581,13 +581,13 @@ export const homePageEsEs = {
   },
   finalCta: {
     eyebrow: 'Descarga Zebra',
-    title: 'Llega a la cita con una historia clara de tus sintomas.',
+    title: 'Llega a la cita con una historia clara de tus síntomas.',
     body:
       'Empieza hoy con la versión gratuita. Actualiza a Premium cuando quieras vistas de historial más largas e informes PDF para el médico.',
-    points: ['Registra a diario', 'Ve el patron', 'Exporta el informe'],
-    pointsLabel: 'Por que descargar Zebra',
-    endState: 'Una cita mas tranquila empieza con un historial que no tienes que reconstruir.',
-    trustLine: 'Registra gratis · Privada por diseno · Cancela cuando quieras',
+    points: ['Registra a diario', 'Ve el patrón', 'Exporta el informe'],
+    pointsLabel: 'Por qué descargar Zebra',
+    endState: 'Una cita más tranquila empieza con un historial que no tienes que reconstruir.',
+    trustLine: 'Registra gratis · Privada por diseño · Cancela cuando quieras',
   },
   mobileStickyCta: {
     label: 'Descargar Zebra',
