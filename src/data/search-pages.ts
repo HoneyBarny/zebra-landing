@@ -1014,7 +1014,7 @@ export function getSoftwareApplicationSchema(page: SearchPage) {
         availability: 'https://schema.org/InStock',
         url: siteConfig.appStore.url,
         description:
-          'Monthly Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+          'Monthly Premium adds longer history views and doctor-ready PDF report export.',
       },
       {
         '@type': 'Offer',
@@ -1023,7 +1023,7 @@ export function getSoftwareApplicationSchema(page: SearchPage) {
         availability: 'https://schema.org/InStock',
         url: siteConfig.appStore.url,
         description:
-          'Annual Premium unlocks unlimited history, doctor-ready PDF report export, and the full orthostatic archive.',
+          'Annual Premium adds longer history views and doctor-ready PDF report export.',
       },
       {
         '@type': 'Offer',

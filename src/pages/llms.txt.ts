@@ -52,7 +52,7 @@ export const GET: APIRoute = () => {
 - Zebra is built for patient-entered symptom tracking and appointment preparation.
 - Zebra supports daily flare tracking, symptoms, medications, salt, water, triggers, notes, orthostatic vitals, HealthKit heart-rate support for the orthostatic flow, local reminders, and Premium PDF report export.
 - Free includes core tracking features and 30 days of history.
-- Premium includes unlimited history, doctor-ready PDF report export, and the full orthostatic test archive.
+- Premium includes longer history views and doctor-ready PDF report export.
 - Zebra does not require a Zebra account or run a separate Zebra health-data server.
 - Sample doctor report PDF: ${toAbsoluteUrl('/sample-doctor-report.pdf')} (fake patient data for preview only)
 
