@@ -64,7 +64,7 @@ export const homePageFrFr = {
     path: localePath,
   },
   seo: {
-    title: 'Tracker POTS pour poussées, constantes et rendez-vous | Zebra',
+    title: 'Tracker POTS pour poussees, constantes et rendez-vous | Zebra',
     description:
       'Suivez poussées POTS, symptômes de dysautonomie, constantes orthostatiques, sodium, hydratation, fréquence cardiaque, brouillard mental, médicaments et notes de rendez-vous.',
     ogImage: screenshots.appointmentPreparation.src,
@@ -89,7 +89,7 @@ export const homePageFrFr = {
   hero: {
     ...homePage.hero,
     eyebrow: 'Pour le POTS, le SED et la fibromyalgie',
-    title: 'Suivez poussées POTS, constantes, sodium et brouillard mental avant votre prochain rendez-vous.',
+    title: 'Suivez poussees POTS, constantes, sodium et brouillard mental avant votre prochain rendez-vous.',
     body:
       'Zebra vous aide à suivre symptômes, poussées, constantes orthostatiques, fréquence cardiaque, médicaments, sel/sodium, eau et notes dans un espace calme, puis à transformer l\'historique en rapport pour le médecin.',
     trustLine:
@@ -109,7 +109,7 @@ export const homePageFrFr = {
     })),
     supportCard: {
       eyebrow: 'Le rapport est le résultat',
-      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de mémoire.',
+      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de memoire.',
       body: 'Le suivi quotidien des poussées devient une base utile : symptômes, médicaments, sel, eau, constantes orthostatiques et notes organisées dans un rapport.',
     },
   },
@@ -576,7 +576,7 @@ export const homePageFrFr = {
   },
   finalCta: {
     eyebrow: 'Télécharger Zebra',
-    title: 'Arrivez au rendez-vous avec un historique clair de vos symptômes.',
+    title: 'Arrivez au rendez-vous avec un historique clair de vos symptomes.',
     body:
       'Commencez aujourd\'hui avec la version gratuite. Passez à Premium quand vous voulez des vues d\'historique plus longues et des rapports PDF pour le médecin.',
     points: ['Suivre chaque jour', 'Voir la tendance', 'Exporter le rapport'],

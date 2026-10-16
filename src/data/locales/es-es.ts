@@ -69,7 +69,7 @@ export const homePageEsEs = {
     path: localePath,
   },
   seo: {
-    title: 'Tracker de POTS para brotes, constantes y citas médicas | Zebra',
+    title: 'Tracker de POTS para brotes, constantes y citas medicas | Zebra',
     description:
       'Registra brotes de POTS, síntomas de disautonomía, constantes ortostáticas, sodio, hidratación, frecuencia cardíaca, niebla mental, medicación y notas de cita.',
     ogImage: screenshots.appointmentPreparation.src,
@@ -94,7 +94,7 @@ export const homePageEsEs = {
   hero: {
     ...homePage.hero,
     eyebrow: 'Para POTS, EDS y fibromialgia',
-    title: 'Llega a la cita con una historia clara de tus síntomas.',
+    title: 'Llega a la cita con una historia clara de tus sintomas.',
     body:
       'Zebra te ayuda a registrar síntomas de POTS, EDS y fibromialgia, brotes, constantes ortostáticas, frecuencia cardíaca, medicación, sodio/sal, agua y notas en un lugar tranquilo, y convertir el historial en un informe para el médico.',
     trustLine:
@@ -581,7 +581,7 @@ export const homePageEsEs = {
   },
   finalCta: {
     eyebrow: 'Descarga Zebra',
-    title: 'Llega a la cita con una historia clara de tus síntomas.',
+    title: 'Llega a la cita con una historia clara de tus sintomas.',
     body:
       'Empieza hoy con la versión gratuita. Actualiza a Premium cuando quieras vistas de historial más largas e informes PDF para el médico.',
     points: ['Registra a diario', 'Ve el patrón', 'Exporta el informe'],
