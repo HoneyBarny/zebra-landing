@@ -6,7 +6,7 @@ import Breadcrumbs from '../components/content/Breadcrumbs.astro';
 import RelatedArticles from '../components/content/RelatedArticles.astro';
 import { authorProfiles } from '../data/content-taxonomy';
 import { homePage } from '../data/site-content';
-import { alternatesForPath } from '../data/locales/shared';
+import { articleAlternatesFor, publishedLocalesByOriginal } from '../lib/article-alternates';
 import {
   articleUrl,
   authorUrl,
@@ -84,6 +84,11 @@ const {
     keepExploring: 'Keep exploring',
   },
 } = Astro.props;
+
+const alternates = articleAlternatesFor(
+  alternatesPath.replace(/^\/blog\//, '').replace(/\/$/, ''),
+  await publishedLocalesByOriginal(),
+);
 const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
 const tocHeadings = headings.filter((heading) => heading.depth <= 2);
 const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lang === 'fr-FR' ? 'fr-FR' : 'en-US';
@@ -103,7 +108,7 @@ const seoTitle = article.data.seoTitle.length > 60
   modifiedTime={article.data.updatedAt}
   schema={schema}
   lang={lang}
-  alternates={alternatesForPath(alternatesPath)}
+  alternates={alternates}
   consentBanner={consentBanner}
 >
   <div class="page-shell">

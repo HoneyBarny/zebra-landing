@@ -13,6 +13,7 @@ import {
   type SearchLocale,
 } from '../data/locales/search-pages';
 import { localizedArticleUrl, type ArticleLocale } from '../data/locales/article-translations';
+import { articleAlternatesFor, publishedLocalesByOriginal } from '../lib/article-alternates';
 import { searchPageRoutes } from '../data/search-pages';
 import { indexableRoutes, toAbsoluteUrl } from '../data/site-config';
 import {
@@ -80,28 +81,8 @@ export const GET: APIRoute = async () => {
   const localizedArticles = getPublishedArticles(await getCollection('localizedArticles') as never);
   const indexableArticles = articles.filter((article) => !article.data.noindex);
   const indexableLocalizedArticles = localizedArticles.filter((article) => !article.data.noindex);
-  const localizedArticleSlugsByOriginal = new Map<string, Set<ArticleLocale>>();
-  indexableLocalizedArticles.forEach((article) => {
-    const locales = localizedArticleSlugsByOriginal.get(article.data.originalSlug) ?? new Set<ArticleLocale>();
-    locales.add(article.data.locale as ArticleLocale);
-    localizedArticleSlugsByOriginal.set(article.data.originalSlug, locales);
-  });
-
-  const alternatesForArticle = (originalSlug: string) => {
-    const locales = localizedArticleSlugsByOriginal.get(originalSlug);
-
-    if (!locales?.size) {
-      return [];
-    }
-
-    return [
-      { hreflang: 'x-default', href: articleUrl(originalSlug) },
-      { hreflang: 'en', href: articleUrl(originalSlug) },
-      ...(locales.has('de-de') ? [{ hreflang: 'de-DE', href: localizedArticleUrl('de-de', originalSlug) }] : []),
-      ...(locales.has('es-es') ? [{ hreflang: 'es-ES', href: localizedArticleUrl('es-es', originalSlug) }] : []),
-      ...(locales.has('fr-fr') ? [{ hreflang: 'fr-FR', href: localizedArticleUrl('fr-fr', originalSlug) }] : []),
-    ];
-  };
+  const localesByOriginal = await publishedLocalesByOriginal();
+  const alternatesForArticle = (originalSlug: string) => articleAlternatesFor(originalSlug, localesByOriginal);
 
   const articleLastmodByRoute = new Map(
     indexableArticles.map((article) => [
@@ -190,7 +171,7 @@ export const GET: APIRoute = async () => {
         .sort()
         .at(-1) ?? staticRouteDates.get('/knowledge/') ?? latestArticleDate;
 
-      return { route, lastmod };
+      return { route, lastmod, alternates: alternatesForPath(`/knowledge/${entity.slug}/`) };
     });
 
   const authorRoutes = Object.values(authorProfiles).map((author) => {
