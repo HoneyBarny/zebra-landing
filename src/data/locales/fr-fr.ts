@@ -52,7 +52,7 @@ const faqItems = [
   {
     question: 'Que comprend Premium ?',
     answer:
-      'La version gratuite inclut le suivi principal et 30 jours d historique. Premium debloque des vues d historique plus longues et l export PDF du rapport medical.',
+      'La version gratuite inclut le suivi principal et 30 jours d\'historique. Premium debloque des vues d\'historique plus longues et l\'export PDF du rapport medical.',
   },
 ] as const;
 
@@ -578,7 +578,7 @@ export const homePageFrFr = {
     eyebrow: 'Telecharger Zebra',
     title: 'Arrivez au rendez-vous avec un historique clair de vos symptomes.',
     body:
-      'Commencez aujourd hui avec la version gratuite. Passez a Premium quand vous voulez des vues d historique plus longues et des rapports PDF pour le medecin.',
+      'Commencez aujourd\'hui avec la version gratuite. Passez a Premium quand vous voulez des vues d\'historique plus longues et des rapports PDF pour le medecin.',
     points: ['Suivre chaque jour', 'Voir la tendance', 'Exporter le rapport'],
     pointsLabel: 'Pourquoi telecharger Zebra',
     endState: 'Un rendez-vous plus calme commence avec un historique que vous n avez pas a reconstruire.',
@@ -630,8 +630,8 @@ export const homePageFrFr = {
     faqItems,
     offerDescriptions: {
       free: 'Version gratuite avec les fonctions principales et 30 jours d historique.',
-      monthly: 'Premium mensuel debloque des vues d historique plus longues et l export PDF du rapport medical.',
-      annual: 'Premium annuel debloque des vues d historique plus longues et l export PDF du rapport medical.',
+      monthly: 'Premium mensuel debloque des vues d\'historique plus longues et l\'export PDF du rapport medical.',
+      annual: 'Premium annuel debloque des vues d\'historique plus longues et l\'export PDF du rapport medical.',
       lifetime: 'Premium lifetime debloque Premium avec un achat unique et sans renouvellement d abonnement.',
     },
     featureList: [
