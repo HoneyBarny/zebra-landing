@@ -1253,6 +1253,7 @@ export const termsPage = {
       paragraphs: [
         'Zebra offers auto-renewable subscriptions under the name Zebra Premium:',
         'Prices are in USD and may vary by region as determined by Apple. The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing. After the trial period, payment is charged through your Apple ID account. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription at any time in iOS Settings → Apple ID → Subscriptions.',
+        'Lifetime Premium is a one-time purchase, not a subscription. It does not renew and does not include a free trial.',
       ],
       listItems: ['Monthly — $4.99 per month', 'Annual — $39.99 per year'],
     },
