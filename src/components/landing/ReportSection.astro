@@ -130,17 +130,19 @@ const {
           {outcomes.map((item) => <li>{item}</li>)}
         </ul>
       </div>
-      <div class="report-compare" aria-label={comparisonLabel}>
-        {comparison.map((column) => (
-          <article class="report-compare-card">
-            <p class="mini-label">{column.label}</p>
-            <h3>{column.title}</h3>
-            <ul>
-              {column.points.map((point) => <li>{point}</li>)}
-            </ul>
-          </article>
-        ))}
-      </div>
+      {comparison.length > 0 && (
+        <div class="report-compare" role="group" aria-label={comparisonLabel}>
+          {comparison.map((column) => (
+            <article class="report-compare-card">
+              <p class="mini-label">{column.label}</p>
+              <h3>{column.title}</h3>
+              <ul>
+                {column.points.map((point) => <li>{point}</li>)}
+              </ul>
+            </article>
+          ))}
+        </div>
+      )}
       <div class="inline-cta-row">
         <AppStoreBadge href={appStoreURL} src={appStoreBadgeURL} alt={appStoreBadgeAlt} trackingLocation="doctor_report" />
         <p class="inline-cta-note">{ctaNote}</p>

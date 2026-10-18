@@ -56,8 +56,14 @@ const { appStore } = appPage;
 </BaseLayout>
 
 <style is:global>
-  /* Touch targets: the shared footer links are 24px tall. This page is paid
-     traffic on phones, so the footer links meet the 44px minimum here only. */
+  /* Touch targets: the shared footer links and the cookie preferences button
+     are 24px tall. This page is paid traffic on phones, so they meet the 44px
+     minimum here only. */
+  .app-page .consent-preferences-button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
   .app-page .footer-nav a {
     display: inline-flex;
     align-items: center;

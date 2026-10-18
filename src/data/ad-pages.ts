@@ -1,7 +1,10 @@
-// INTERIM COPY — assembled from existing approved site-content.ts.
-// Final ad copy is pending the research-first gate in CLAUDE.md
-// (PAIN_POINT_DATABASE.md, CUSTOMER_LANGUAGE_DICTIONARY.md).
-// Do not treat this as final.
+// Copy is reused from the B2 homepage (site-content.ts) except where noted.
+// Checked against the research-first gate in CLAUDE.md on 2026-10-17; the
+// overrides below are the places the reused copy failed it. Two decisions are
+// still open and are Roman's: the hero hook (it depends on the ad creative)
+// and whether the price line should mention lifetime.
+// Rule for this page: second person about the product, never about the
+// condition. "Your check-ins" is fine; "your flares" is not.
 import { homePageEnglish as en } from './site-content';
 import { siteConfig } from './site-config';
 import { homePageEn } from './locales/en';
@@ -38,7 +41,11 @@ export const appPage = {
   doctorReport: {
     eyebrow: en.doctorReport.eyebrow,
     title: en.doctorReport.title,
-    answer: en.doctorReport.answer,
+    // Override: the homepage line says "your recent flares" and "nerves".
+    // "Nerves" reads as an anxiety attribution, which is the dismissal this
+    // audience most often reports (PAIN_POINT_DATABASE #3, #42).
+    answer:
+      'Appointments are short, and brain fog makes it easy to lose what you meant to say. Zebra’s Prepare tab gathers what changed most, recent flares and symptoms, medication changes, orthostatic tests, and your own notes into a 30-day summary you can review before you go.',
     body: en.doctorReport.body,
     flow: en.doctorReport.flow,
     bullets: en.doctorReport.bullets,
@@ -47,7 +54,13 @@ export const appPage = {
     proofTitle: en.doctorReport.proofTitle,
     proofBody: en.doctorReport.proofBody,
     outcomesLabel: en.doctorReport.outcomesLabel,
-    outcomes: en.doctorReport.outcomes,
+    // Override: the homepage bullet says "beside your symptoms".
+    outcomes: [
+      'Dated history instead of scattered notes',
+      'What shifted, counted from your own check-ins',
+      'Medication changes beside symptoms',
+      'A summary ready to review before the visit',
+    ],
     comparison: [],
     ctaNote: en.doctorReport.ctaNote,
     media: {
@@ -60,12 +73,33 @@ export const appPage = {
       meta: 'Fake patient data',
     },
   },
-  // What it does: four of the seven homepage tracking items, not the full tour.
+  // What it does. Not reused: the homepage block is titled around POTS and
+  // dysautonomia only, which tells an EDS or Fibromyalgia visitor the page is
+  // not for them, and its fourth card repeats the report section above.
+  // Every card below is a shipped feature (ZEBRA_PROJECT_MEMORY.md §7).
   whatItDoes: {
-    eyebrow: en.whatZebraTracks.eyebrow,
-    title: en.whatZebraTracks.title,
-    intro: en.whatZebraTracks.intro,
-    items: [0, 2, 3, 6].map((index) => en.whatZebraTracks.items[index]),
+    eyebrow: 'What Zebra tracks',
+    title: 'Everything in one place, with nothing to set up.',
+    intro:
+      'Short, structured, and written for POTS, EDS, and Fibromyalgia. Skip whatever you do not have the energy for.',
+    items: [
+      {
+        title: 'Symptoms from a ready-made list',
+        body: 'Pick from symptoms written for POTS, EDS, and Fibromyalgia. There is no blank page and no system to design.',
+      },
+      {
+        title: 'Salt, water, and medications',
+        body: 'Log them beside symptoms, and mark the day a medication starts or its dose changes.',
+      },
+      {
+        title: 'What the day stopped you doing',
+        body: 'Note when you could not shower, work, or leave home. It can say more than a number out of ten.',
+      },
+      {
+        title: 'A guided orthostatic test',
+        body: 'Lying, standing, and recovery, each stage timed. Stop any time, and a partial test still saves.',
+      },
+    ],
     note: en.whatZebraTracks.note,
   },
   // Trust and second CTA. Price is taken from the existing pricing copy.
@@ -73,7 +107,7 @@ export const appPage = {
     eyebrow: en.finalCta.eyebrow,
     title: en.finalCta.title,
     body: en.finalCta.body,
-    points: ['No account needed', 'Data stays on your iPhone', 'Premium from $4.99/month'],
+    points: ['No account needed', 'On your iPhone and your own iCloud', 'Premium from $4.99/month'],
     pointsLabel: en.finalCta.pointsLabel,
     endState: en.finalCta.endState,
     trustLine:
