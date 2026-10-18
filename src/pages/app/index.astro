@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FinalCTASection from '../../components/landing/FinalCTASection.astro';
+import HeroSection from '../../components/landing/HeroSection.astro';
+import MobileStickyCTA from '../../components/landing/MobileStickyCTA.astro';
+import ProblemSection from '../../components/landing/ProblemSection.astro';
+import ReportSection from '../../components/landing/ReportSection.astro';
+import SiteFooter from '../../components/landing/SiteFooter.astro';
+import SiteHeader from '../../components/landing/SiteHeader.astro';
+import WhatZebraTracksSection from '../../components/landing/WhatZebraTracksSection.astro';
+import { appPage } from '../../data/ad-pages';
+
+const { appStore } = appPage;
+---
+
+<BaseLayout
+  title={appPage.seo.title}
+  description={appPage.seo.description}
+  noindex={appPage.seo.noindex}
+  consentBanner={appPage.consentBanner}
+>
+  <div class="page-shell app-page">
+    <SiteHeader brand={appPage.header.brand} links={appPage.header.links} logoOnly={true} />
+
+    <main>
+      <HeroSection
+        {...appPage.hero}
+        appStoreURL={appStore.url}
+        appStoreBadgeURL={appStore.badgeUrl}
+        appStoreBadgeAlt={appStore.badgeAlt}
+      />
+      <ProblemSection {...appPage.problem} />
+      <ReportSection
+        {...appPage.doctorReport}
+        appStoreURL={appStore.url}
+        appStoreBadgeURL={appStore.badgeUrl}
+        appStoreBadgeAlt={appStore.badgeAlt}
+      />
+      <WhatZebraTracksSection {...appPage.whatItDoes} />
+      <FinalCTASection
+        {...appPage.finalCta}
+        appStoreURL={appStore.url}
+        appStoreBadgeURL={appStore.badgeUrl}
+        appStoreBadgeAlt={appStore.badgeAlt}
+      />
+    </main>
+
+    <SiteFooter {...appPage.footer} />
+    <MobileStickyCTA
+      {...appPage.mobileStickyCta}
+      href={appStore.url}
+      badgeUrl={appStore.badgeUrl}
+      badgeAlt={appStore.badgeAlt}
+    />
+  </div>
+</BaseLayout>
+
+<style is:global>
+  /* Touch targets: the shared footer links are 24px tall. This page is paid
+     traffic on phones, so the footer links meet the 44px minimum here only. */
+  .app-page .footer-nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding-inline: 0.5rem;
+  }
+</style>

@@ -23,9 +23,11 @@ interface Props {
     label: string;
     links: Array<LinkItem & { locale?: string; flag?: string }>;
   };
+  /** Render the brand only. Used on paid-traffic pages where nav links would leak clicks. */
+  logoOnly?: boolean;
 }
 
-const { brand, links, localeSwitcher } = Astro.props;
+const { brand, links, localeSwitcher, logoOnly = false } = Astro.props;
 ---
 
 <header class="site-header">
@@ -42,23 +44,25 @@ const { brand, links, localeSwitcher } = Astro.props;
       <p class="brand-subtitle">{brand.subtitle}</p>
     </div>
   </a>
-  <div class="header-actions">
-    <nav class="site-nav" aria-label="Primary">
-      {links.map((link) => (
-        <a href={link.href}>
-          {link.label}
-        </a>
-      ))}
-    </nav>
-    {localeSwitcher && (
-      <nav class="locale-switcher" aria-label={localeSwitcher.label}>
-        {localeSwitcher.links.map((link) => (
-          <a href={link.href} lang={link.locale}>
-            {link.flag && <span class="locale-flag" aria-hidden="true">{link.flag}</span>}
-            <span>{link.label}</span>
+  {!logoOnly && (
+    <div class="header-actions">
+      <nav class="site-nav" aria-label="Primary">
+        {links.map((link) => (
+          <a href={link.href}>
+            {link.label}
           </a>
         ))}
       </nav>
-    )}
-  </div>
+      {localeSwitcher && (
+        <nav class="locale-switcher" aria-label={localeSwitcher.label}>
+          {localeSwitcher.links.map((link) => (
+            <a href={link.href} lang={link.locale}>
+              {link.flag && <span class="locale-flag" aria-hidden="true">{link.flag}</span>}
+              <span>{link.label}</span>
+            </a>
+          ))}
+        </nav>
+      )}
+    </div>
+  )}
 </header>
