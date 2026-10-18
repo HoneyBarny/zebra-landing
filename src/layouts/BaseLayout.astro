@@ -191,7 +191,12 @@ const resolvedOgImage = ogImage
 			First in the body so a keyboard user reaches it on the first Tab and
 			a screen reader meets it before the page, without a focus trap.
 		*/}
-		<ConsentBanner {...consentBanner} />
+		{/*
+			Only when a pixel is configured. The banner says we use Meta's pixel,
+			so showing it on a build with no pixel tells visitors about tracking
+			that is not running.
+		*/}
+		{metaPixelId && <ConsentBanner {...consentBanner} />}
 		<slot />
 		{metaPixelId && (
 			<noscript>
