@@ -2,10 +2,10 @@
 locale: "es-es"
 originalSlug: "how-to-track-hydration-salt-and-compression-garments-together"
 status: "published"
-title: "Como rastrear hidratacion, sal y prendas de compresion juntas"
-subtitle: "La hidratacion, la sal y las prendas de compresion suelen rastrearse como habitos separados, pero son mas utiles cuando permanecen conectadas con sintomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un dia mejor o peor. Es mantener suficiente contexto para revisar que cambio antes de una cita."
-description: "Aprende como rastrear hidratacion, sal, prendas de compresion, sintomas y tolerancia al estar de pie juntos sin convertir el registro en mas trabajo."
-excerpt: "Una guia practica para rastrear hidratacion, sal, prendas de compresion y contexto de sintomas en un registro util de enfermedad cronica."
+title: "Como rastrear hidratación, sal y prendas de compresión juntas"
+subtitle: "La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar que cambio antes de una cita."
+description: "Aprende como rastrear hidratación, sal, prendas de compresión, síntomas y tolerancia al estar de pie juntos sin convertir el registro en más trabajo."
+excerpt: "Una guía práctica para rastrear hidratación, sal, prendas de compresión y contexto de síntomas en un registro útil de enfermedad crónica."
 author: "zebra-editorial"
 publishedAt: "2026-07-22"
 scheduledAt: "2026-07-22"
@@ -17,18 +17,18 @@ reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
-categories:
+categories: 
   - "POTS"
   - "Dysautonomia"
   - "Symptom Tracking"
-tags:
-  - "hidratacion"
+tags: 
+  - "hidratación"
   - "rastreo de sal"
-  - "prendas de compresion"
+  - "prendas de compresión"
   - "POTS"
-  - "disautonomia"
-  - "rastreo de sintomas"
-entities:
+  - "disautonomía"
+  - "rastreo de síntomas"
+entities: 
   - "Hydration"
   - "Salt Loading"
   - "Compression Garments"
@@ -36,124 +36,124 @@ entities:
   - "Dysautonomia"
   - "Orthostatic Intolerance"
 priority: 3
-primaryKeyword: "rastrear hidratacion sal y prendas de compresion"
-secondaryKeywords:
-  - "rastreo hidratacion y sal para pots"
-  - "prendas de compresion rastreo sintomas"
+primaryKeyword: "rastrear hidratación sal y prendas de compresión"
+secondaryKeywords: 
+  - "rastreo hidratación y sal para pots"
+  - "prendas de compresión rastreo síntomas"
   - "rastreo rutina pots"
-seoTitle: "Como rastrear hidratacion, sal y prendas de compresion | Zebra"
-metaDescription: "Aprende como rastrear hidratacion, sal, prendas de compresion, sintomas y tolerancia al estar de pie juntos sin crear mas trabajo."
-ogTitle: "Como rastrear hidratacion, sal y prendas de compresion"
-ogDescription: "Una guia practica para mantener estrategias diarias de apoyo conectadas con la historia de sintomas y citas."
+seoTitle: "Como rastrear hidratación, sal y prendas de compresión | Zebra"
+metaDescription: "Aprende como rastrear hidratación, sal, prendas de compresión, síntomas y tolerancia al estar de pie juntos sin crear más trabajo."
+ogTitle: "Como rastrear hidratación, sal y prendas de compresión"
+ogDescription: "Una guía práctica para mantener estrategias diarias de apoyo conectadas con la historia de síntomas y citas."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Pantalla de resumen de Zebra que muestra contexto diario de sintomas y patrones."
+heroImageAlt: "Pantalla de resumen de Zebra que muestra contexto diario de síntomas y patrones."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener hidratacion, sal, apoyos, sintomas y brotes en la misma linea de tiempo."
-schemaTypes:
+ctaNote: "Usa Zebra para mantener hidratación, sal, apoyos, síntomas y brotes en la misma linea de tiempo."
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Debo rastrear hidratacion, sal y prendas de compresion juntas?"
-    answer: "Si forman parte de tu rutina o conversaciones de atencion medica, rastrearlas junto a los sintomas puede hacer que el registro sea mas facil de revisar."
-  - question: "Necesito numeros exactos de hidratacion o sal todos los dias?"
-    answer: "No siempre. Un registro aproximado y constante de cambios, dias omitidos o dias inusuales todavia puede ser util."
-  - question: "Rastrear prendas de compresion puede mostrar si funcionan?"
-    answer: "El rastreo puede mostrar contexto y patrones para conversar con un clinico, pero no debe tratarse como prueba ni consejo medico."
+faq: 
+  - question: "¿Debo rastrear hidratación, sal y prendas de compresión juntas?"
+    answer: "Si forman parte de tu rutina o conversaciones de atención médica, rastrearlas junto a los síntomas puede hacer que el registro sea más fácil de revisar."
+  - question: "¿Necesito números exactos de hidratación o sal todos los días?"
+    answer: "No siempre. Un registro aproximado y constante de cambios, días omitidos o días inusuales todavía puede ser útil."
+  - question: "¿Rastrear prendas de compresión puede mostrar si funcionan?"
+    answer: "El rastreo puede mostrar contexto y patrones para conversar con un clínico, pero no debe tratarse como prueba ni consejo médico."
 ---
 
-La hidratacion, la sal y las prendas de compresion suelen rastrearse como habitos separados, pero son mas utiles cuando permanecen conectadas con sintomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un dia mejor o peor. Es mantener suficiente contexto para revisar que cambio antes de una cita.
+La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar qué cambió antes de una cita.
 
-Para personas que rastrean [POTS](/knowledge/pots/), [disautonomia](/knowledge/dysautonomia/) o [intolerancia ortostatica](/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los sintomas suelen cambiar con posicion, actividad, liquidos, calor, sueno y estres diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
+Para personas que rastrean [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los síntomas suelen cambiar con posición, actividad, líquidos, calor, sueño y estres diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
 
-## Que rastrear junto
+## Qué rastrear junto
 
-Mantén las categorias pequenas:
+Mantén las categorías pequenas:
 
-- hidratacion o ingesta de liquidos
+- hidratación o ingesta de líquidos
 - apoyo de sal o electrolitos si es relevante para tu rutina
-- prendas de compresion o prendas de apoyo
-- sintomas al estar de pie
+- prendas de compresión o prendas de apoyo
+- síntomas al estar de pie
 - severidad de brotes
 - impacto funcional
-- cambios de medicacion o rutina
+- cambios de medicación o rutina
 
-No necesitas un registro perfecto de bienestar. Necesitas un registro lo bastante claro para revisar despues.
+No necesitas un registro perfecto de bienestar. Necesitas un registro lo bastante claro para revisar después.
 
-## Por que estos detalles van junto a los sintomas
+## Por qué estos detalles van junto a los síntomas
 
-La hidratacion, la sal y las prendas de compresion solo son utiles en una historia cuando tienen contexto.
+La hidratación, la sal y las prendas de compresión solo son útiles en una historia cuando tienen contexto.
 
 Por ejemplo:
 
-- Empeoro el mareo un dia en que omitiste un apoyo habitual?
-- Cambio la tolerancia al estar de pie durante un brote?
-- Cambiaron los sintomas cuando tambien cambiaron calor, sueno o actividad?
-- Usaste prendas de compresion durante el periodo que intentas resumir?
+- ¿Empeoro el mareo un día en que omitiste un apoyo habitual?
+- ¿Cambio la tolerancia al estar de pie durante un brote?
+- ¿Cambiaron los síntomas cuando también cambiaron calor, sueño o actividad?
+- ¿Usaste prendas de compresión durante el periodo que intentas resumir?
 
-Estas notas no prueban causa. Dan a tu equipo de atencion una imagen mas clara de lo que paso alrededor de los sintomas.
+Estas notas no prueban causa. Dan a tu equipo de atención una imagen más clara de lo que pasó alrededor de los síntomas.
 
-## Como evitar rastrear demasiado
+## Cómo evitar rastrear demasiado
 
-Usa etiquetas amplias en lugar de numeros exactos cuando los numeros exactos sean demasiado.
+Usa etiquetas amplias en lugar de números exactos cuando los números exactos sean demasiado.
 
 Ejemplos:
 
-- liquidos: bajo, habitual, mas alto que lo habitual
+- líquidos: bajo, habitual, más alto que lo habitual
 - sal/electrolitos: nada, habitual, extra
-- compresion: no usada, parte del dia, la mayor parte del dia
-- sintomas al estar de pie: leves, moderados, dia dificil
+- compresión: no usada, parte del día, la mayor parte del día
+- síntomas al estar de pie: leves, moderados, día dificil
 
 Ese nivel de detalle suele ser suficiente para preparar citas.
 
-## Cuando agregar mas detalle
+## Cuándo agregar más detalle
 
 Agrega detalle cuando algo cambia.
 
-Momentos utiles para anotar:
+Momentos útiles para anotar:
 
 - una prenda de apoyo nueva
-- un cambio en sal o liquidos
-- un brote mas fuerte
-- un dia con mareo o palpitaciones inusuales
-- un dia en que bajo la funcion diaria
-- un cambio de medicacion o rutina
+- un cambio en sal o líquidos
+- un brote más fuerte
+- un día con mareo o palpitaciones inusuales
+- un día en que bajo la función diaria
+- un cambio de medicación o rutina
 
-Los cambios suelen importar mas que totales perfectos.
+Los cambios suelen importar más que totales perfectos.
 
-## Como revisarlo antes de una cita
+## Cómo revisarlo antes de una cita
 
 Antes de una visita, busca:
 
-- dias en que los sintomas al estar de pie fueron peores
-- rutinas de apoyo que cambiaron alrededor de esos dias
+- días en que los síntomas al estar de pie fueron peores
+- rutinas de apoyo que cambiaron alrededor de esos días
 - patrones repetidos
 - preguntas que quieres hacer
 - cualquier cosa que no quieres olvidar
 
-El objetivo es un resumen corto para la cita, no una hoja de calculo larga.
+El objetivo es un resumen corto para la cita, no una hoja de cálculo larga.
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra ayuda a mantener hidratacion, sal, contexto de compresion, sintomas, brotes, medicamentos y notas en una linea de tiempo para que tu rutina diaria no se separe de la historia de sintomas que necesitas explicar.
+Zebra ayuda a mantener hidratación, sal, contexto de compresión, síntomas, brotes, medicamentos y notas en una linea de tiempo para que tu rutina diaria no se separe de la historia de síntomas que necesitas explicar.
 
 ## Puntos clave
 
-- Rastrea hidratacion, sal y prendas de compresion junto a sintomas cuando forman parte de tu contexto de atencion.
-- Las categorias aproximadas y constantes suelen ser mas sostenibles que numeros exactos.
+- Rastrea hidratación, sal y prendas de compresión junto a síntomas cuando forman parte de tu contexto de atención.
+- Las categorías aproximadas y constantes suelen ser más sostenibles que números exactos.
 - Usa el registro para preparar mejores preguntas, no para diagnosticarte.
 
 ## FAQ
 
-### Debo rastrear hidratacion, sal y prendas de compresion juntas?
+### ¿Debo rastrear hidratación, sal y prendas de compresión juntas?
 
-Si forman parte de tu rutina o conversaciones de atencion medica, rastrearlas junto a los sintomas puede hacer que el registro sea mas facil de revisar.
+Si forman parte de tu rutina o conversaciones de atención médica, rastrearlas junto a los síntomas puede hacer que el registro sea más fácil de revisar.
 
-### Necesito numeros exactos de hidratacion o sal todos los dias?
+### ¿Necesito números exactos de hidratación o sal todos los días?
 
-No siempre. Un registro aproximado y constante de cambios, dias omitidos o dias inusuales todavia puede ser util.
+No siempre. Un registro aproximado y constante de cambios, días omitidos o días inusuales todavía puede ser útil.
 
-### Rastrear prendas de compresion puede mostrar si funcionan?
+### ¿Rastrear prendas de compresión puede mostrar si funcionan?
 
-El rastreo puede mostrar contexto y patrones para conversar con un clinico, pero no debe tratarse como prueba ni consejo medico.
+El rastreo puede mostrar contexto y patrones para conversar con un clínico, pero no debe tratarse como prueba ni consejo médico.

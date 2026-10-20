@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "sleep-and-fatigue-symptom-diary-what-to-track"
-title: "Diario de sueno y fatiga: que registrar"
+title: "Diario de sueño y fatiga: que registrar"
 status: "published"
-subtitle: "Las notas de sueno y fatiga son mas utiles cuando hora de dormir, hora de despertar, calidad del sueno, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y funcion del dia siguiente quedan conectados. El objetivo no es diagnosticar un trastorno del sueno, sino llevar patrones mas claros al medico."
-description: "Aprende que registrar en un diario de sueno y fatiga: horarios, calidad, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y funcion del dia siguiente."
-excerpt: "Una guia practica para registrar sueno, fatiga, dolor, brain fog, siestas, medicamentos, actividad e impacto funcional."
+subtitle: "Las notas de sueño y fatiga son más útiles cuando hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función del día siguiente quedan conectados. El objetivo no es diagnosticar un trastorno del sueño, sino llevar patrones más claros al médico."
+description: "Aprende que registrar en un diario de sueño y fatiga: horarios, calidad, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función del día siguiente."
+excerpt: "Una guía práctica para registrar sueño, fatiga, dolor, brain fog, siestas, medicamentos, actividad e impacto funcional."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,28 +16,28 @@ reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Fatigue"
 category: "Symptom Tracking"
-primaryKeyword: "diario de sueno y fatiga"
-seoTitle: "Diario de sueno y fatiga: que registrar | Zebra"
-metaDescription: "Registra sueno y fatiga con hora de dormir, despertar, calidad, siestas, medicamentos, cafeina, dolor, brain fog, actividad y funcion."
-ogTitle: "Diario de sueno y fatiga: que registrar"
-ogDescription: "Registra contexto de sueno, fatiga, brain fog, dolor, medicamentos, actividad e impacto del dia siguiente."
+primaryKeyword: "diario de sueño y fatiga"
+seoTitle: "Diario de sueño y fatiga: que registrar | Zebra"
+metaDescription: "Registra sueño y fatiga con hora de dormir, despertar, calidad, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función."
+ogTitle: "Diario de sueño y fatiga: que registrar"
+ogDescription: "Registra contexto de sueño, fatiga, brain fog, dolor, medicamentos, actividad e impacto del día siguiente."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Pantalla de seguimiento diario de Zebra con sintomas, notas y contexto del dia."
+heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar contexto de sueno, fatiga, brain fog, dolor, actividad, medicamentos y preguntas para el medico en una sola linea de tiempo."
-categories:
+ctaNote: "Usa Zebra para guardar contexto de sueño, fatiga, brain fog, dolor, actividad, medicamentos y preguntas para el médico en una sola linea de tiempo."
+categories: 
   - "Symptom Tracking"
   - "Fatigue"
   - "Brain Fog"
   - "Appointment Preparation"
-tags:
-  - "diario de sueno"
+tags: 
+  - "diario de sueño"
   - "seguimiento de fatiga"
   - "brain fog"
-  - "enfermedad cronica"
-  - "cita medica"
-entities:
+  - "enfermedad crónica"
+  - "cita médica"
+entities: 
   - "Fatigue"
   - "Brain Fog"
   - "Fibromyalgia"
@@ -49,57 +49,57 @@ entities:
   - "Medication Tracking"
   - "Functional Impact"
   - "Doctor-Ready Report"
-secondaryKeywords:
-  - "diario de sueno para enfermedad cronica"
-  - "registrar fatiga y sueno"
-  - "registro de sueno para cita medica"
+secondaryKeywords: 
+  - "diario de sueño para enfermedad crónica"
+  - "registrar fatiga y sueño"
+  - "registro de sueño para cita médica"
   - "diario de fatiga que registrar"
-schemaTypes:
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que debo registrar en un diario de sueno y fatiga?"
-    answer: "Registra hora de dormir, hora de despertar, calidad del sueno, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del dia siguiente."
-  - question: "Cuanto tiempo debo llevar un diario de sueno antes de una cita?"
-    answer: "Muchos recursos sugieren una o dos semanas, pero tu medico puede recomendar otra duracion. Un registro corto y constante suele ser mas util que meses de notas dispersas."
-  - question: "Un diario de sueno puede diagnosticar un trastorno del sueno?"
-    answer: "No. Un diario puede ayudar a organizar patrones para un medico, pero el diagnostico puede requerir evaluacion clinica o pruebas."
-  - question: "Debo registrar cada detalle si tengo fatiga?"
-    answer: "No. Registra el conjunto minimo util: horarios de sueno, calidad, fatiga del dia siguiente, brain fog, dolor, actividad y que cambio tu funcion."
-  - question: "Zebra es consejo medico?"
-    answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica."
+faq: 
+  - question: "¿Qué debo registrar en un diario de sueño y fatiga?"
+    answer: "Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente."
+  - question: "¿Cuánto tiempo debo llevar un diario de sueño antes de una cita?"
+    answer: "Muchos recursos sugieren una o dos semanas, pero tu médico puede recomendar otra duración. Un registro corto y constante suele ser más útil que meses de notas dispersas."
+  - question: "¿Un diario de sueño puede diagnosticar un trastorno del sueño?"
+    answer: "No. Un diario puede ayudar a organizar patrones para un médico, pero el diagnóstico puede requerir evaluación clínica o pruebas."
+  - question: "¿Debo registrar cada detalle si tengo fatiga?"
+    answer: "No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y que cambio tu función."
+  - question: "¿Zebra es consejo médico?"
+    answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El sueno y la [fatiga](/es-es/knowledge/fatigue/) estan muy conectados para muchas personas con enfermedad cronica, pero el patron puede ser dificil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el dia siguiente fue horrible. Lo util para un medico suele ser la linea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueno, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y funcion del dia siguiente.
+El sueño y la [fatiga](/es-es/knowledge/fatigue/) estan muy conectados para muchas personas con enfermedad crónica, pero el patron puede ser dificil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la linea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
 
-Un diario de sueno y fatiga no diagnostica insomnio, apnea del sueno, ME/CFS, fibromialgia, Long COVID ni ninguna otra condicion. Te ayuda a llevar un registro mas claro a un medico.
+Un diario de sueño y fatiga no diagnostica insomnio, apnea del sueño, ME/CFS, fibromialgia, Long COVID ni ninguna otra condición. Te ayuda a llevar un registro más claro a un médico.
 
-## Empieza con la nota minima util
+## Empieza con la nota minima útil
 
-No necesitas datos perfectos de sueno.
+No necesitas datos perfectos de sueño.
 
 Empieza con:
 
 - hora de dormir
 - hora de despertar
-- horas estimadas de sueno
-- calidad del sueno: mala, regular, buena
+- horas estimadas de sueño
+- calidad del sueño: mala, regular, buena
 - cuantas veces despertaste
-- si dolor, sintomas, bano, calor, estres o respiracion te despertaron
-- que tan descansado o no descansado te sentiste
+- si dolor, síntomas, baño, calor, estres o respiracion te despertaron
+- qué tan descansado o no descansado te sentiste
 
 Ejemplo: "Cama 23:30, desperte 7:10, quizas 5.5 horas, desperte 3 veces por dolor de cadera, no descansado 8/10."
 
-Eso basta para interpretar mejor el dia siguiente.
+Eso basta para interpretar mejor el día siguiente.
 
-## Anade fatiga y funcion del dia siguiente
+## Anade fatiga y función del día siguiente
 
-Las notas de sueno son mas utiles cuando se conectan con el dia siguiente.
+Las notas de sueño son más útiles cuando se conectan con el día siguiente.
 
 Registra:
 
-- fatiga por la manana
+- fatiga por la mañana
 - fatiga por la tarde
 - brain fog
 - nivel de dolor
@@ -107,53 +107,53 @@ Registra:
 - capacidad para ducharte, cocinar, trabajar, estudiar, conducir, hacer ejercicio o socializar
 - si necesitaste acostarte
 - si necesitaste siesta
-- si tuviste crash despues de tareas normales
+- si tuviste crash después de tareas normales
 
-Esto ayuda a separar "dormi mal" de "el sueno alterado cambio lo que pude hacer."
+Esto ayuda a separar "dormi mal" de "el sueño alterado cambio lo que pude hacer."
 
 ## Registra siestas sin juicio
 
-Las siestas pueden ser una forma de sobrellevar, recuperarse o una senal de que la fatiga interfiere con el dia. El objetivo no es juzgar la siesta. El objetivo es mantener visible el horario.
+Las siestas pueden ser una forma de sobrellevar, recuperarse o una senal de que la fatiga interfiere con el día. El objetivo no es juzgar la siesta. El objetivo es mantener visible el horario.
 
 Registra:
 
 - hora de la siesta
-- duracion
+- duración
 - si ayudo
 - si despertaste peor
-- si afecto el sueno nocturno
+- si afecto el sueño nocturno
 - si fue planificada o inevitable
 
-Para enfermedades con energia limitada, una siesta inevitable puede ser una nota de impacto funcional, no un fracaso.
+Para enfermedades con energía limitada, una siesta inevitable puede ser una nota de impacto funcional, no un fracaso.
 
 ## Mantén medicamentos, cafeina y alcohol cerca
 
-Muchas plantillas de diario de sueno incluyen cafeina, alcohol, ejercicio, medicamentos y rutina nocturna porque esos detalles pueden afectar el sueno o ayudar al medico a hacer mejores preguntas.
+Muchas plantillas de diario de sueño incluyen cafeina, alcohol, ejercicio, medicamentos y rutina nocturna porque esos detalles pueden afectar el sueño o ayudar al médico a hacer mejores preguntas.
 
 Registra contexto como:
 
 - horario de cafeina
 - alcohol, si aplica
-- medicacion para dormir o suplementos, si tu medico los sigue contigo
+- medicación para dormir o suplementos, si tu médico los sigue contigo
 - horario de analgesicos
 - antihistaminicos u otros medicamentos que puedan afectar somnolencia
 - dosis olvidadas o cambios de medicamentos
 - comidas tardias o grandes, si aplica
 - pantallas o tareas estresantes antes de dormir, si aplica
 
-No cambies medicamentos solo por un diario. Usa las notas para una conversacion medica.
+No cambies medicamentos solo por un diario. Usa las notas para una conversación médica.
 
-## Conecta sueno con brotes, PEM y dolor
+## Conecta sueño con brotes, PEM y dolor
 
-Para algunas personas, la alteracion del sueno forma parte de un patron mas amplio de brote.
+Para algunas personas, la alteracion del sueño forma parte de un patron más amplio de brote.
 
-Registra si el mal sueno ocurrio cerca de:
+Registra si el mal sueño ocurrio cerca de:
 
 - brote de dolor de [fibromialgia](/es-es/knowledge/fibromyalgia/)
 - crash de [ME/CFS](/es-es/knowledge/me-cfs/) o [PEM](/es-es/knowledge/pem/)
-- empeoramiento de sintomas de [Long COVID](/es-es/knowledge/long-covid/)
-- migrana
-- sintomas ortostaticos
+- empeoramiento de síntomas de [Long COVID](/es-es/knowledge/long-covid/)
+- migraña
+- síntomas ortostáticos
 - estres o sobrecarga sensorial
 - enfermedad
 - periodo o cambios hormonales
@@ -161,85 +161,85 @@ Registra si el mal sueno ocurrio cerca de:
 
 No trates una mala noche como prueba de causa. Busca patrones repetidos para comentar.
 
-## Estructura simple de 2 semanas para el medico
+## Estructura simple de 2 semanas para el médico
 
-Los recursos de sueno a menudo sugieren usar un diario durante una o dos semanas antes de hablar de problemas de sueno con un medico. Si dos semanas es demasiado, empieza con una.
+Los recursos de sueño a menudo sugieren usar un diario durante una o dos semanas antes de hablar de problemas de sueño con un médico. Si dos semanas es demasiado, empieza con una.
 
 Usa esta estructura:
 
-1. Noche: hora de dormir, hora de despertar, sueno estimado, despertares.
-2. Calidad del sueno: mala, regular, buena.
-3. Contexto: dolor, medicamentos, cafeina, siesta, estres, sintomas.
-4. Dia siguiente: fatiga, brain fog, dolor, funcion.
-5. Pregunta: que debo preguntar en la cita?
+1. Noche: hora de dormir, hora de despertar, sueño estimado, despertares.
+2. Calidad del sueño: mala, regular, buena.
+3. Contexto: dolor, medicamentos, cafeina, siesta, estres, síntomas.
+4. Día siguiente: fatiga, brain fog, dolor, función.
+5. Pregunta: ¿qué debo preguntar en la cita?
 
 El punto es la constancia, no la perfeccion.
 
-## Que resumir antes de la cita
+## Qué resumir antes de la cita
 
 Antes de una visita, saca:
 
 - hora promedio de dormir y despertar
 - noches con despertares frecuentes
 - mananas sin descanso
-- peores dias de fatiga
+- peores días de fatiga
 - si fueron necesarias siestas
-- sintomas que te despertaron
+- síntomas que te despertaron
 - si la fatiga afecto trabajo, escuela, cuidados, conducir o tareas basicas
 - patrones de medicamentos o cafeina que quieres preguntar
-- respiracion, ronquidos, despertar jadeando o sintomas urgentes a mencionar
+- respiracion, ronquidos, despertar jadeando o síntomas urgentes a mencionar
 
-Preguntas utiles:
+Preguntas útiles:
 
-- "Un problema de sueno podria empeorar mi fatiga, dolor, brain fog o mareo?"
-- "Debo registrar el sueno durante mas tiempo?"
-- "Algun sintoma sugiere estudio del sueno u otra evaluacion?"
-- "El horario de medicamentos podria afectar el sueno o la fatiga diurna?"
-- "Que sintomas son urgentes?"
+- "Un problema de sueño podria empeorar mi fatiga, dolor, brain fog o mareo?"
+- "Debo registrar el sueño durante más tiempo?"
+- "Algun síntoma sugiere estudio del sueño u otra evaluación?"
+- "El horario de medicamentos podria afectar el sueño o la fatiga diurna?"
+- "Que síntomas son urgentes?"
 
 ## Contexto de fuentes
 
-Contexto util:
+Contexto útil:
 
-- [Resumen de diario de sueno de Sleep Foundation](https://www.sleepfoundation.org/sleep-diary)
-- [Preguntas de diario de sueno de Baylor Medicine](https://www.bcm.edu/healthcare/specialties/sleep-medicine/sleep-journal)
-- [NHLBI diagnostico de insomnio y diario de sueno](https://www.nhlbi.nih.gov/health/insomnia/diagnosis)
+- [Resumen de diario de sueño de Sleep Foundation](https://www.sleepfoundation.org/sleep-diary)
+- [Preguntas de diario de sueño de Baylor Medicine](https://www.bcm.edu/healthcare/specialties/sleep-medicine/sleep-journal)
+- [NHLBI diagnóstico de insomnio y diario de sueño](https://www.nhlbi.nih.gov/health/insomnia/diagnosis)
 - [MedlinePlus fatiga y nota sobre diario de fatiga](https://medlineplus.gov/fatigue.html)
-- [Mayo Clinic ME/CFS, pacing y sueno](https://www.mayoclinic.org/diseases-conditions/chronic-fatigue-syndrome/diagnosis-treatment/drc-20360510)
+- [Mayo Clinic ME/CFS, pacing y sueño](https://www.mayoclinic.org/diseases-conditions/chronic-fatigue-syndrome/diagnosis-treatment/drc-20360510)
 - [Kaiser Permanente diario de dolor](https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.learning-about-a-pain-diary.abk1346)
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra ayuda a guardar contexto de sueno, fatiga, dolor, [brotes](/es-es/knowledge/flare/), medicamentos, disparadores, actividad, impacto funcional y preguntas para el medico en una sola linea de tiempo.
+Zebra ayuda a guardar contexto de sueño, fatiga, dolor, [brotes](/es-es/knowledge/flare/), medicamentos, disparadores, actividad, impacto funcional y preguntas para el médico en una sola linea de tiempo.
 
-Zebra no diagnostica trastornos del sueno ni causas de fatiga. Te ayuda a llevar un patron mas claro de sueno y sintomas al medico que puede evaluarlo.
+Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a llevar un patron más claro de sueño y síntomas al médico que puede evaluarlo.
 
 ## Puntos clave
 
-- Las notas de sueno son mas utiles cuando se conectan con fatiga y funcion del dia siguiente.
-- Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeina, sintomas e impacto.
-- Un diario corto de una o dos semanas puede ser mas util que notas largas dispersas.
-- No trates el contexto de sueno como prueba de causa; usalo como contexto para la cita.
-- El mejor resultado es una lista breve de preguntas y un patron que tu medico pueda revisar.
+- Las notas de sueño son más útiles cuando se conectan con fatiga y función del día siguiente.
+- Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeina, síntomas e impacto.
+- Un diario corto de una o dos semanas puede ser más útil que notas largas dispersas.
+- No trates el contexto de sueño como prueba de causa; usalo como contexto para la cita.
+- El mejor resultado es una lista breve de preguntas y un patron que tu médico pueda revisar.
 
 ## FAQ
 
-### Que debo registrar en un diario de sueno y fatiga?
+### ¿Qué debo registrar en un diario de sueño y fatiga?
 
-Registra hora de dormir, hora de despertar, calidad del sueno, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del dia siguiente.
+Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente.
 
-### Cuanto tiempo debo llevar un diario de sueno antes de una cita?
+### ¿Cuánto tiempo debo llevar un diario de sueño antes de una cita?
 
-Muchos recursos sugieren una o dos semanas, pero tu medico puede recomendar otra duracion. Un registro corto y constante suele ser mas util que meses de notas dispersas.
+Muchos recursos sugieren una o dos semanas, pero tu médico puede recomendar otra duración. Un registro corto y constante suele ser más útil que meses de notas dispersas.
 
-### Un diario de sueno puede diagnosticar un trastorno del sueno?
+### ¿Un diario de sueño puede diagnosticar un trastorno del sueño?
 
-No. Un diario puede ayudar a organizar patrones para un medico, pero el diagnostico puede requerir evaluacion clinica o pruebas.
+No. Un diario puede ayudar a organizar patrones para un médico, pero el diagnóstico puede requerir evaluación clínica o pruebas.
 
-### Debo registrar cada detalle si tengo fatiga?
+### ¿Debo registrar cada detalle si tengo fatiga?
 
-No. Registra el conjunto minimo util: horarios de sueno, calidad, fatiga del dia siguiente, brain fog, dolor, actividad y que cambio tu funcion.
+No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y qué cambió tu función.
 
-### Zebra es consejo medico?
+### ¿Zebra es consejo médico?
 
-No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica.
+No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica.

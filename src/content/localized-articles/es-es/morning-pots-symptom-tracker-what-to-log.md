@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "morning-pots-symptom-tracker-what-to-log"
-title: "Registro de sintomas matutinos de POTS: que anotar al despertar"
+title: "Registro de síntomas matutinos de POTS: que anotar al despertar"
 status: "published"
-subtitle: "Las notas matutinas son mas utiles cuando hora de despertar, sueno, primer cambio de posicion, liquidos, sal, desayuno, horario de medicacion, frecuencia cardiaca, presion arterial, mareo, palpitaciones, niebla mental, recuperacion e impacto diario quedan conectados. El objetivo no es demostrar que la manana es el unico problema. El objetivo es llevar patrones de la primera hora mas claros al clinico."
-description: "Aprenda que anotar en un registro de sintomas matutinos de POTS, incluyendo hora de despertar, sueno, estar de pie, liquidos, sal, desayuno, medicacion, frecuencia cardiaca, mareo, recuperacion e impacto diario."
-excerpt: "Una guia practica para registrar sintomas matutinos de POTS, levantarse de la cama, hidratacion, sal, desayuno, horario de medicacion, frecuencia cardiaca, presion arterial, mareo, niebla mental, recuperacion y resumenes para el medico."
+subtitle: "Las notas matutinas son más útiles cuando hora de despertar, sueño, primer cambio de posición, líquidos, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, palpitaciones, niebla mental, recuperación e impacto diario quedan conectados. El objetivo no es demostrar que la mañana es el unico problema. El objetivo es llevar patrones de la primera hora más claros al clínico."
+description: "Aprenda que anotar en un registro de síntomas matutinos de POTS, incluyendo hora de despertar, sueño, estar de pie, líquidos, sal, desayuno, medicación, frecuencia cardíaca, mareo, recuperación e impacto diario."
+excerpt: "Una guía práctica para registrar síntomas matutinos de POTS, levantarse de la cama, hidratación, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, niebla mental, recuperación y resumenes para el médico."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,32 +16,32 @@ reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Disautonomia"
 category: "Registro de sintomas"
-primaryKeyword: "registro sintomas matutinos POTS"
-seoTitle: "Registro de sintomas matutinos de POTS | Zebra"
-metaDescription: "Registre sintomas matutinos de POTS con hora de despertar, sueno, estar de pie, liquidos, sal, desayuno, medicacion, frecuencia cardiaca, mareo, recuperacion e impacto."
-ogTitle: "Registro de sintomas matutinos de POTS"
-ogDescription: "Registre sintomas de la primera hora, levantarse de la cama, hidratacion, sal, desayuno, medicacion, frecuencia cardiaca, mareo, niebla mental, recuperacion y notas para el medico."
+primaryKeyword: "registro síntomas matutinos POTS"
+seoTitle: "Registro de síntomas matutinos de POTS | Zebra"
+metaDescription: "Registre síntomas matutinos de POTS con hora de despertar, sueño, estar de pie, líquidos, sal, desayuno, medicación, frecuencia cardíaca, mareo, recuperación e impacto."
+ogTitle: "Registro de síntomas matutinos de POTS"
+ogDescription: "Registre síntomas de la primera hora, levantarse de la cama, hidratación, sal, desayuno, medicación, frecuencia cardíaca, mareo, niebla mental, recuperación y notas para el médico."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Pantalla de seguimiento diario de Zebra con sintomas, hidratacion, notas y contexto del dia."
+heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener sintomas matutinos, sueno, primer momento de pie, liquidos, sal, horario de medicacion, recuperacion y preguntas para la consulta en una misma linea de tiempo."
-categories:
-  - "Registro de sintomas"
-  - "Disautonomia"
+ctaNote: "Use Zebra para mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, horario de medicación, recuperación y preguntas para la consulta en una misma linea de tiempo."
+categories: 
+  - "Registro de síntomas"
+  - "Disautonomía"
   - "POTS"
-  - "Preparacion de consulta"
-tags:
-  - "POTS por la manana"
+  - "Preparación de consulta"
+tags: 
+  - "POTS por la mañana"
   - "levantarse de la cama"
-  - "intolerancia ortostatica"
-  - "hidratacion"
-  - "disautonomia"
-  - "preparacion de consulta"
-entities:
+  - "intolerancia ortostática"
+  - "hidratación"
+  - "disautonomía"
+  - "preparación de consulta"
+entities: 
   - "POTS"
-  - "Disautonomia"
-  - "Intolerancia ortostatica"
+  - "Disautonomía"
+  - "Intolerancia ortostática"
   - "Mareo"
   - "Aturdimiento"
   - "Sincope"
@@ -49,97 +49,97 @@ entities:
   - "Palpitaciones"
   - "Niebla mental"
   - "Fatiga"
-  - "Hidratacion"
+  - "Hidratación"
   - "Sal"
-  - "Registro de medicacion"
-  - "Sintomas de base"
+  - "Registro de medicación"
+  - "Síntomas de base"
   - "Impacto funcional"
-  - "Informe listo para el medico"
-secondaryKeywords:
-  - "sintomas POTS peores por la manana"
-  - "registrar sintomas al despertar"
+  - "Informe listo para el médico"
+secondaryKeywords: 
+  - "síntomas POTS peores por la mañana"
+  - "registrar síntomas al despertar"
   - "mareo matutino POTS diario"
-  - "registro sintomas al levantarse"
-schemaTypes:
+  - "registro síntomas al levantarse"
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que debo registrar si los sintomas de POTS son peores por la manana?"
-    answer: "Registre hora de despertar, calidad del sueno, primer cambio de posicion, tiempo de pie, liquidos, sal, desayuno, horario de medicacion, sintomas, frecuencia cardiaca o presion arterial si ya las mide, que ayudo, tiempo de recuperacion e impacto diario."
-  - question: "Pueden los sintomas de POTS ser peores por la manana?"
-    answer: "Si. NHS y PoTS UK describen que los sintomas de PoTS pueden ser peores por la manana y cambiar de un dia a otro. Un clinico debe evaluar su patron especifico."
-  - question: "Debo medir mi frecuencia cardiaca antes de levantarme?"
-    answer: "Solo si su clinico se lo pidio y es seguro para usted. Las notas breves de sintomas tambien pueden ser utiles sin mediciones."
-  - question: "Puede un registro diagnosticar sintomas matutinos de POTS?"
-    answer: "No. Un registro puede ordenar patrones para revision medica, pero no puede diagnosticar POTS, disautonomia, presion baja, efectos de medicacion, deshidratacion, trastornos del sueno ni otra causa."
-  - question: "Zebra es consejo medico?"
-    answer: "No. Zebra ayuda a ordenar informacion introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atencion medica."
+faq: 
+  - question: "¿Qué debo registrar si los síntomas de POTS son peores por la mañana?"
+    answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudo, tiempo de recuperación e impacto diario."
+  - question: "¿Pueden los síntomas de POTS ser peores por la mañana?"
+    answer: "Si. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patron específico."
+  - question: "¿Debo medir mi frecuencia cardíaca antes de levantarme?"
+    answer: "Solo si su clínico se lo pidio y es seguro para usted. Las notas breves de síntomas también pueden ser útiles sin mediciones."
+  - question: "¿Puede un registro diagnosticar síntomas matutinos de POTS?"
+    answer: "No. Un registro puede ordenar patrones para revisión médica, pero no puede diagnosticar POTS, disautonomía, presión baja, efectos de medicación, deshidratación, trastornos del sueño ni otra causa."
+  - question: "¿Zebra es consejo médico?"
+    answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomia](/es-es/knowledge/dysautonomia/), [intolerancia ortostatica](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migrana o enfermedad cronica notan que las mananas son mas dificiles que el resto del dia. Levantarse de la cama puede traer mareo, corazon acelerado, nauseas, temblor, debilidad, niebla mental, sudoracion, dolor de cabeza o necesidad de sentarse otra vez.
+Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mananas son más dificiles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, nauseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
 
-Un registro de sintomas matutinos de POTS no diagnostica POTS, disautonomia, presion baja, deshidratacion, trastornos del sueno, efectos de medicacion ni ninguna otra condicion. Le ayuda a llevar a su clinico un patron mas claro de la primera hora: que paso al despertar, que cambio los sintomas y cuanto afecto la manana.
+Un registro de síntomas matutinos de POTS no diagnostica POTS, disautonomía, presión baja, deshidratación, trastornos del sueño, efectos de medicación ni ninguna otra condición. Le ayuda a llevar a su clínico un patron más claro de la primera hora: qué pasó al despertar, qué cambió los síntomas y cuánto afectó la mañana.
 
-## Empiece Con La Hora De Despertar Y El Sueno
+## Empiece Con La Hora De Despertar Y El Sueño
 
-Las notas matutinas son mas utiles cuando incluyen la noche anterior.
+Las notas matutinas son más útiles cuando incluyen la noche anterior.
 
 Registre:
 
 - hora de despertar
 - hora de acostarse
-- calidad del sueno
+- calidad del sueño
 - despertares nocturnos
-- insomnio o sueno inquieto
-- enfermedad, fiebre, dolor, migrana o brote durante la noche
+- insomnio o sueño inquieto
+- enfermedad, fiebre, dolor, migraña o brote durante la noche
 - momento del ciclo, si aplica
 - alcohol, cafeina o comidas tardias
-- si desperto ya con sintomas
+- si desperto ya con síntomas
 
-Ejemplo: "Desperte 7:20 despues de 5 horas de sueno interrumpido. Mareo antes de ponerme de pie, niebla mental 6/10. Empeoro al caminar al bano."
+Ejemplo: "Desperte 7:20 después de 5 horas de sueño interrumpido. Mareo antes de ponerme de pie, niebla mental 6/10. Empeoro al caminar al baño."
 
-Eso es mas facil de revisar que "mala manana."
+Eso es más fácil de revisar que "mala mañana."
 
-## Registre El Primer Cambio De Posicion
+## Registre El Primer Cambio De Posición
 
-En POTS e intolerancia ortostatica, el cambio de acostado a sentado o de pie puede importar.
+En POTS e intolerancia ortostática, el cambio de acostado a sentado o de pie puede importar.
 
 Registre:
 
-- acostado, sentado, de pie, caminando o ida al bano
-- si se levanto rapido o despacio
-- cuanto tiempo se sento antes de ponerse de pie
-- cuanto tiempo estuvo de pie antes de que empezaran los sintomas
-- si los sintomas mejoraron al sentarse o acostarse
+- acostado, sentado, de pie, caminando o ida al baño
+- si se levanto rápido o despacio
+- cuánto tiempo se sento antes de ponerse de pie
+- cuánto tiempo estuvo de pie antes de que empezaran los síntomas
+- si los síntomas mejoraron al sentarse o acostarse
 - si tuvo que volver a la cama
-- cuanto duro la recuperacion
+- cuánto duró la recuperación
 
-Si ya registra frecuencia cardiaca o presion arterial como parte de su plan, anada momento y posicion: acostado antes de levantarse, sentado, de pie o despues de caminar. No empiece un control intenso si no es seguro o aumenta la ansiedad; pregunte a su clinico que es util.
+Si ya registra frecuencia cardíaca o presión arterial como parte de su plan, añada momento y posición: acostado antes de levantarse, sentado, de pie o después de caminar. No empiece un control intenso si no es seguro o aumenta la ansiedad; pregunte a su clínico qué es útil.
 
-## Anada Liquidos, Sal, Desayuno Y Medicacion
+## Anada Líquidos, Sal, Desayuno Y Medicación
 
-Los sintomas matutinos pueden estar dentro de un contexto mas amplio.
+Los síntomas matutinos pueden estar dentro de un contexto más amplio.
 
-Notas utiles:
+Notas útiles:
 
 - agua antes de levantarse
-- liquidos poco despues de despertar
+- líquidos poco después de despertar
 - electrolitos
-- sal si su clinico la recomienda
+- sal si su clínico la recomienda
 - desayuno omitido
 - desayuno grande
 - desayuno alto en carbohidratos refinados
 - nauseas o poco apetito
-- hora de medicacion
+- hora de medicación
 - dosis olvidada
 - cambio reciente de dosis
 
-No cambie liquidos, sal, comidas, medicacion o suplementos basandose solo en un registro. Use el patron para hacer mejores preguntas.
+No cambie líquidos, sal, comidas, medicación o suplementos basandose solo en un registro. Use el patron para hacer mejores preguntas.
 
-## Registre Los Sintomas Que Cambian La Manana
+## Registre Los Síntomas Que Cambian La Mañana
 
-Escriba los sintomas que realmente cambiaron la manana, no cada sensacion.
+Escriba los síntomas que realmente cambiaron la mañana, no cada sensación.
 
 Notas matutinas comunes:
 
@@ -150,41 +150,41 @@ Notas matutinas comunes:
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - nauseas
 - temblor
-- sudoracion
+- sudoración
 - falta de aire
 - molestia en el pecho
 - dolor de cabeza
-- vision borrosa
+- visión borrosa
 - piernas pesadas
 - debilidad
 - [niebla mental](/es-es/knowledge/brain-fog/)
 - [fatiga](/es-es/knowledge/fatigue/)
 
-Si los sintomas son nuevos, intensos, de un solo lado o diferentes de su patron habitual, siga las indicaciones de su clinico sobre atencion urgente.
+Si los síntomas son nuevos, intensos, de un solo lado o diferentes de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
 
-## Registre Lo Que Ayudo
+## Registre Lo Que Ayudó
 
-Registrar la mejoria es tan util como registrar los sintomas.
+Registrar la mejoría es tan útil como registrar los síntomas.
 
 Anote si intento:
 
 - sentarse al borde de la cama antes de ponerse de pie
-- levantarse mas despacio
-- tomar liquidos antes de estar de pie
+- levantarse más despacio
+- tomar líquidos antes de estar de pie
 - desayunar o comer un pequeno snack
 - electrolitos
 - sal, si se recomendo
-- prendas de compresion
+- prendas de compresión
 - enfriarse
 - volver a acostarse
-- mover planes a mas tarde
+- mover planes a más tarde
 - ayuda de otra persona
 
 Esto puede convertir un patron vago en preguntas concretas para la consulta.
 
 ## Registre El Impacto Diario
 
-Los sintomas matutinos importan porque cambian lo que puede hacer.
+Los síntomas matutinos importan porque cambian lo que puede hacer.
 
 Registre si afectaron:
 
@@ -202,32 +202,32 @@ Registre si afectaron:
 
 "Necesite 20 minutos antes del trabajo" y "falte al trabajo porque no podia mantenerme de pie" son patrones muy distintos.
 
-## Que Resumir Antes De Una Consulta
+## Qué Resumir Antes De Una Consulta
 
-Antes de una consulta de atencion primaria, cardiologia, neurologia, Long COVID, EDS, disautonomia o rehabilitacion, resuma:
+Antes de una consulta de atención primaria, cardiología, neurologia, Long COVID, EDS, disautonomía o rehabilitacion, resuma:
 
 - cuantas mananas por semana se ven afectadas
-- si los sintomas empiezan antes o despues de ponerse de pie
-- si mejoran mas tarde en el dia
-- contexto del sueno
-- liquidos, sal, desayuno y horario de medicacion
-- frecuencia cardiaca o presion arterial, si ya las mide
-- que ayudo
-- tiempo de recuperacion
+- si los síntomas empiezan antes o después de ponerse de pie
+- si mejoran más tarde en el día
+- contexto del sueño
+- líquidos, sal, desayuno y horario de medicación
+- frecuencia cardíaca o presión arterial, si ya las mide
+- qué ayudó
+- tiempo de recuperación
 - impacto diario
-- desmayo, dolor de pecho, falta de aire intensa, confusion, lesion o nuevos sintomas neurologicos
+- desmayo, dolor de pecho, falta de aire intensa, confusión, lesion o nuevos síntomas neurologicos
 
-Preguntas utiles:
+Preguntas útiles:
 
-- "Este patron de la primera hora podria estar relacionado con intolerancia ortostatica?"
-- "Debo registrar frecuencia cardiaca o presion alrededor del despertar?"
-- "Debemos revisar liquidos, sal, desayuno, medicacion o sueno?"
-- "Que sintomas deberian ser urgentes?"
+- "Este patron de la primera hora podria estar relacionado con intolerancia ortostática?"
+- "Debo registrar frecuencia cardíaca o presión alrededor del despertar?"
+- "Debemos revisar líquidos, sal, desayuno, medicación o sueño?"
+- "Que síntomas deberían ser urgentes?"
 - "Que cambios matutinos son seguros para mi?"
 
 ## Contexto De Fuentes
 
-Antecedentes utiles:
+Antecedentes útiles:
 
 - [NHS PoTS overview](https://www.nhs.uk/conditions/postural-tachycardia-syndrome/)
 - [PoTS UK symptoms overview](https://www.potsuk.org/about-pots/symptoms/)
@@ -235,15 +235,15 @@ Antecedentes utiles:
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [Johns Hopkins Medicine POTS overview](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 
-## Donde Encaja Zebra
+## Dónde Encaja Zebra
 
-Zebra ayuda a mantener sintomas matutinos, sueno, primer momento de pie, liquidos, sal, comidas, horario de medicacion, recuperacion y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, comidas, horario de medicación, recuperación y preguntas para la consulta en una misma linea de tiempo.
 
-No diagnostica sintomas matutinos de POTS ni condiciones autonomicas. Le ayuda a llevar a su clinico un patron matutino mas claro y listo para consulta.
+No diagnostica síntomas matutinos de POTS ni condiciones autonomicas. Le ayuda a llevar a su clínico un patron matutino más claro y listo para consulta.
 
 ## Puntos Clave
 
-- Registre juntos hora de despertar, sueno, primer cambio de posicion, liquidos, sal, desayuno, medicacion, sintomas, recuperacion e impacto diario.
-- Los sintomas matutinos pueden variar de un dia a otro, asi que las notas breves y constantes son mas utiles que el detalle perfecto.
-- Anada frecuencia cardiaca o presion solo si ya forma parte de su plan y es seguro.
-- Un diario de la primera hora puede hacer que las limitaciones matutinas sean mas faciles de explicar en consulta.
+- Registre juntos hora de despertar, sueño, primer cambio de posición, líquidos, sal, desayuno, medicación, síntomas, recuperación e impacto diario.
+- Los síntomas matutinos pueden variar de un día a otro, así que las notas breves y constantes son más útiles que el detalle perfecto.
+- Anada frecuencia cardíaca o presión solo si ya forma parte de su plan y es seguro.
+- Un diario de la primera hora puede hacer que las limitaciones matutinas sean más faciles de explicar en consulta.

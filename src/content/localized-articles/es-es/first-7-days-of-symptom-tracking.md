@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "first-7-days-of-symptom-tracking"
-title: "Primeros 7 dias de seguimiento de sintomas: que registrar si estas abrumado"
+title: "Primeros 7 días de seguimiento de síntomas: que registrar si estas abrumado"
 status: "published"
-subtitle: "Cuando los sintomas ya agotan, registrar puede parecer otra tarea mas. Empieza con siete notas diarias pequenas: que paso, que cambio, que ayudo y que te impidio hacer el sintoma."
-description: "Un plan simple de 7 dias para seguir sintomas cuando te sientes abrumado, con que registrar cada dia y como mantener notas utiles para el medico."
-excerpt: "Empieza a seguir sintomas sin sobrecargarte: un plan practico de 7 dias para sintomas, desencadenantes, medicamentos, recuperacion e impacto diario."
+subtitle: "Cuando los síntomas ya agotan, registrar puede parecer otra tarea más. Empieza con siete notas diarias pequenas: que paso, que cambio, que ayudo y que te impidio hacer el síntoma."
+description: "Un plan simple de 7 días para seguir síntomas cuando te sientes abrumado, con que registrar cada día y como mantener notas útiles para el médico."
+excerpt: "Empieza a seguir síntomas sin sobrecargarte: un plan práctico de 7 días para síntomas, desencadenantes, medicamentos, recuperación e impacto diario."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -16,28 +16,28 @@ reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"
-primaryKeyword: "primeros 7 dias seguimiento sintomas"
-seoTitle: "Primeros 7 dias de seguimiento de sintomas | Zebra"
-metaDescription: "Empieza el seguimiento de sintomas con un plan simple de 7 dias para sintomas, desencadenantes, medicamentos, recuperacion e impacto diario."
-ogTitle: "Primeros 7 dias de seguimiento de sintomas"
-ogDescription: "Un plan de 7 dias de bajo esfuerzo para pacientes con enfermedad cronica que se sienten abrumados."
+primaryKeyword: "primeros 7 días seguimiento síntomas"
+seoTitle: "Primeros 7 días de seguimiento de síntomas | Zebra"
+metaDescription: "Empieza el seguimiento de síntomas con un plan simple de 7 días para síntomas, desencadenantes, medicamentos, recuperación e impacto diario."
+ogTitle: "Primeros 7 días de seguimiento de síntomas"
+ogDescription: "Un plan de 7 días de bajo esfuerzo para pacientes con enfermedad crónica que se sienten abrumados."
 heroImage: "/screenshots/today.png"
-heroImageAlt: "Pantalla diaria de Zebra para sintomas, desencadenantes, hidratacion, medicamentos y notas."
+heroImageAlt: "Pantalla diaria de Zebra para síntomas, desencadenantes, hidratación, medicamentos y notas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener sintomas, desencadenantes, medicamentos, notas y preguntas para citas en una linea de tiempo tranquila."
-categories:
+ctaNote: "Usa Zebra para mantener síntomas, desencadenantes, medicamentos, notas y preguntas para citas en una linea de tiempo tranquila."
+categories: 
   - "Symptom Tracking"
   - "Appointment Preparation"
   - "Doctor Reports"
   - "Brain Fog"
-tags:
-  - "seguimiento de sintomas"
-  - "diario de sintomas"
-  - "enfermedad cronica"
-  - "cita medica"
+tags: 
+  - "seguimiento de síntomas"
+  - "diario de síntomas"
+  - "enfermedad crónica"
+  - "cita médica"
   - "abrumado"
-entities:
+entities: 
   - "Symptom Journal"
   - "Symptom Severity"
   - "Trigger"
@@ -48,54 +48,54 @@ entities:
   - "Brain Fog"
   - "Doctor-Ready Report"
   - "Health History"
-secondaryKeywords:
-  - "como empezar seguimiento de sintomas"
-  - "que registrar en diario de sintomas"
-  - "seguimiento de sintomas abrumado"
-  - "tracker sintomas 7 dias"
-schemaTypes:
+secondaryKeywords: 
+  - "como empezar seguimiento de síntomas"
+  - "que registrar en diario de síntomas"
+  - "seguimiento de síntomas abrumado"
+  - "tracker síntomas 7 días"
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que debo registrar en la primera semana?"
-    answer: "Registra tus sintomas principales, intensidad, momento, que los mejoro o empeoro, contexto de medicacion, tiempo de recuperacion y que te impidieron hacer."
-  - question: "Cuanto debo escribir si estoy abrumado?"
-    answer: "Escribe una frase o usa unos campos rapidos. Una nota util puede ser: dolor 7/10, peor despues de ducha, acostado 40 minutos, recados cancelados."
-  - question: "Tengo que registrar todos los sintomas?"
-    answer: "No. Empieza con uno a tres sintomas que mas afecten tu dia. Puedes agregar mas despues si se siente manejable."
-  - question: "Cuanto tiempo tarda en ser util el seguimiento?"
-    answer: "Incluso siete dias pueden revelar ejemplos utiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible."
-  - question: "Zebra es consejo medico?"
-    answer: "No. Zebra ayuda a organizar informacion ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica."
+faq: 
+  - question: "¿Qué debo registrar en la primera semana?"
+    answer: "Registra tus síntomas principales, intensidad, momento, que los mejoró o empeoro, contexto de medicación, tiempo de recuperación y que te impidieron hacer."
+  - question: "¿Cuánto debo escribir si estoy abrumado?"
+    answer: "Escribe una frase o usa unos campos rapidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados."
+  - question: "¿Tengo que registrar todos los síntomas?"
+    answer: "No. Empieza con uno a tres síntomas que más afecten tu día. Puedes agregar más después si se siente manejable."
+  - question: "¿Cuánto tiempo tarda en ser útil el seguimiento?"
+    answer: "Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible."
+  - question: "¿Zebra es consejo médico?"
+    answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Empezar un [diario de sintomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El dia es dificil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
+Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es dificil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
 
-No tienes que registrarlo todo. Durante los primeros siete dias, el objetivo es mas pequeno: una nota util al dia.
+No tienes que registrarlo todo. Durante los primeros siete días, el objetivo es más pequeno: una nota útil al día.
 
-Kaiser Permanente senala que un diario de sintomas puede ayudar a tu medico a diagnosticar y tratar tu condicion porque algunos sintomas son dificiles de describir desde la memoria. CDC tambien aconseja a personas con condiciones cronicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo medico sobre sintomas nuevos o que empeoran.
+Kaiser Permanente senala que un diario de síntomas puede ayudar a tu médico a diagnosticar y tratar tu condición porque algunos síntomas son dificiles de describir desde la memoria. CDC también aconseja a personas con condiciones cronicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo médico sobre síntomas nuevos o que empeoran.
 
-Asi que la primera semana no va de datos perfectos. Va de crear un registro que puedas mantener.
+Así que la primera semana no va de datos perfectos. Va de crear un registro que puedas mantener.
 
 ## Regla de la primera semana: una nota gana a ninguna
 
-En un dia dificil, una frase basta.
+En un día dificil, una frase basta.
 
-Ejemplos utiles:
+Ejemplos útiles:
 
-- "Mareo 6/10 despues de ducha, tuve que acostarme 30 minutos."
-- "Dolor 8/10 en caderas y piernas, peor despues de recados, cancele cena."
-- "Brain fog fuerte, perdi recordatorio de medicacion, no pude terminar formularios."
-- "Crash de fatiga despues de llamada de trabajo, dormi 2 horas, aun no vuelvo a base."
+- "Mareo 6/10 después de ducha, tuve que acostarme 30 minutos."
+- "Dolor 8/10 en caderas y piernas, peor después de recados, cancele cena."
+- "Brain fog fuerte, perdi recordatorio de medicación, no pude terminar formularios."
+- "Crash de fatiga después de llamada de trabajo, dormi 2 horas, aun no vuelvo a base."
 
-Cada nota conecta sintoma, contexto e impacto. Ese es todo el trabajo.
+Cada nota conecta síntoma, contexto e impacto. Ese es todo el trabajo.
 
-## Dia 1: Elige tus tres sintomas principales
+## Día 1: Elige tus tres síntomas principales
 
-No empieces con todos tus sintomas.
+No empieces con todos tus síntomas.
 
-Elige uno a tres sintomas que mas afecten tu dia:
+Elige uno a tres síntomas que más afecten tu día:
 
 - dolor
 - fatiga
@@ -103,53 +103,53 @@ Elige uno a tres sintomas que mas afecten tu dia:
 - brain fog
 - palpitaciones
 - nauseas
-- problemas de sueno
+- problemas de sueño
 - intensidad de brote
-- efectos secundarios de medicacion
+- efectos secundarios de medicación
 - impacto funcional
 
-Si registras demasiado el dia uno, tal vez pares en el dia tres. Empieza mas pequeno de lo que crees.
+Si registras demasiado el día uno, tal vez pares en el día tres. Empieza más pequeno de lo que crees.
 
-## Dia 2: Agrega intensidad
+## Día 2: Agrega intensidad
 
 Usa una escala simple de 0 a 10.
 
-Puedes definirla asi:
+Puedes definirla así:
 
 - 0 significa ausente
 - 3 significa notable pero manejable
 - 6 significa dificil de ignorar
-- 8 significa cambio tu dia
+- 8 significa cambio tu día
 - 10 significa peor nivel o inseguro
 
-El numero exacto importa menos que usar la misma escala de forma constante.
+El número exacto importa menos que usar la misma escala de forma constante.
 
-## Dia 3: Agrega momento
+## Día 3: Agrega momento
 
-El momento ayuda a convertir sintomas dispersos en un patron.
+El momento ayuda a convertir síntomas dispersos en un patron.
 
 Registra:
 
-- manana, tarde, noche o madrugada
-- cuanto duro
+- mañana, tarde, noche o madrugada
+- cuánto duró
 - si fue y vino
 - si fue peor a cierta hora
-- si mejoro con descanso, comida, liquidos, medicacion, acostarte, enfriar o dormir
+- si mejoró con descanso, comida, líquidos, medicación, acostarte, enfriar o dormir
 
-El diario de sintomas de Kaiser Permanente pregunta cuando empiezan los sintomas, cuando molestan mas y si van y vienen durante el dia. Es un buen modelo: timing simple gana a tracking complicado.
+El diario de síntomas de Kaiser Permanente pregunta cuando empiezan los síntomas, cuando molestan más y si van y vienen durante el día. Es un buen modelo: timing simple gana a tracking complicado.
 
-## Dia 4: Agrega que mejoro o empeoro
+## Día 4: Agrega que mejoró o empeoro
 
 No intentas probar un desencadenante. Estas reuniendo pistas.
 
-Anota si los sintomas parecieron afectados por:
+Anota si los síntomas parecieron afectados por:
 
 - actividad
 - descanso
 - estres
-- sueno
+- sueño
 - comidas o saltarse comidas
-- hidratacion
+- hidratación
 - calor o frio
 - estar de pie
 - medicamentos o dosis olvidadas
@@ -158,29 +158,29 @@ Anota si los sintomas parecieron afectados por:
 - viaje o cambio de rutina
 - sobrecarga sensorial
 
-Usa lenguaje simple: "peor despues de escaleras", "mejor acostado", "peor despues de dormir mal."
+Usa lenguaje simple: "peor después de escaleras", "mejor acostado", "peor después de dormir mal."
 
-## Dia 5: Agrega medicacion y contexto del plan
+## Día 5: Agrega medicación y contexto del plan
 
-No cambies medicacion basandote solo en un tracker. Pero registra contexto que ayude a tu medico.
+No cambies medicación basandote solo en un tracker. Pero registra contexto que ayude a tu médico.
 
-Notas utiles:
+Notas útiles:
 
-- tome medicacion como indicado
+- tome medicación como indicado
 - olvide dosis
 - dosis cambio recientemente
 - nuevo medicamento o suplemento
 - posible efecto secundario
-- medicamento de rescate o segun necesidad usado
-- hidratacion, sal, compresion, pacing u otros pasos aprobados por el medico
+- medicamento de rescate o según necesidad usado
+- hidratación, sal, compresión, pacing u otros pasos aprobados por el médico
 
-CDC enfatiza tomar medicamentos como fueron indicados y preguntar al medico o farmaceutico si tienes dudas. Tu tracker puede ayudarte a recordar que paso antes de que la pregunta desaparezca.
+CDC enfatiza tomar medicamentos como fueron indicados y preguntar al médico o farmaceutico si tienes dudas. Tu tracker puede ayudarte a recordar qué pasó antes de que la pregunta desaparezca.
 
-## Dia 6: Agrega impacto funcional
+## Día 6: Agrega impacto funcional
 
-El [impacto funcional](/es-es/knowledge/functional-impact/) suele ser la parte mas util de la nota.
+El [impacto funcional](/es-es/knowledge/functional-impact/) suele ser la parte más útil de la nota.
 
-Registra lo que los sintomas detuvieron, cambiaron o retrasaron:
+Registra lo que los síntomas detuvieron, cambiaron o retrasaron:
 
 - ducharte
 - cocinar
@@ -194,77 +194,77 @@ Registra lo que los sintomas detuvieron, cambiaron o retrasaron:
 - formularios, llamadas o admin
 - dormir
 
-"Dolor 7/10" es util. "Dolor 7/10, no pude estar de pie suficiente para cocinar" es mas claro.
+"Dolor 7/10" es útil. "Dolor 7/10, no pude estar de pie suficiente para cocinar" es más claro.
 
-## Dia 7: Escribe tres preguntas para la cita
+## Día 7: Escribe tres preguntas para la cita
 
-Despues de siete dias, revisa tus notas y escribe tres preguntas.
+Después de siete días, revisa tus notas y escribe tres preguntas.
 
 Ejemplos:
 
-- "Este patron parece brote, efecto secundario, problema ortostatico, migrana u otra cosa?"
-- "Que sintomas debo seguir antes de la proxima visita?"
-- "Que sintomas significan que debo buscar ayuda urgente?"
-- "Debo seguir frecuencia cardiaca, presion arterial, sueno, hidratacion o horario de medicacion?"
-- "Que contaria como mejoria?"
+- "Este patron parece brote, efecto secundario, problema ortostático, migraña u otra cosa?"
+- "Que síntomas debo seguir antes de la proxima visita?"
+- "Que síntomas significan que debo buscar ayuda urgente?"
+- "Debo seguir frecuencia cardíaca, presión arterial, sueño, hidratación o horario de medicación?"
+- "¿Qué contaría como mejoría?"
 
-Esto convierte el tracking en preparacion para la cita, no en una tarea infinita.
+Esto convierte el tracking en preparación para la cita, no en una tarea infinita.
 
-## Plantilla inicial de 7 dias
+## Plantilla inicial de 7 días
 
-| Dia | Que registrar | Version minima |
+| Día | Que registrar | Versión minima |
 | --- | --- | --- |
-| 1 | Tres sintomas principales | "Hoy el problema principal fue..." |
-| 2 | Intensidad | "Sintoma fue __/10." |
+| 1 | Tres síntomas principales | "Hoy el problema principal fue..." |
+| 2 | Intensidad | "Síntoma fue __/10." |
 | 3 | Momento | "Peor a __, duro __." |
-| 4 | Mejor o peor | "Peor despues de __, mejor con __." |
-| 5 | Medicacion/contexto | "Meds/plan: __." |
+| 4 | Mejor o peor | "Peor después de __, mejor con __." |
+| 5 | Medicación/contexto | "Meds/plan: __." |
 | 6 | Impacto funcional | "Me impidio __." |
-| 7 | Preguntas | "Preguntar al medico: __." |
+| 7 | Preguntas | "Preguntar al médico: __." |
 
-Si pierdes un dia, no reinicies. Agrega lo que recuerdes y sigue.
+Si pierdes un día, no reinicies. Agrega lo que recuerdes y sigue.
 
 ## Contexto de fuentes
 
-Informacion util:
+Información útil:
 
-- [Diario de sintomas de Kaiser Permanente](https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.diary-of-symptoms.tm6566)
-- [CDC vivir con una condicion cronica](https://www.cdc.gov/chronic-disease/living-with/index.html)
-- [NHS guia para hablar de sintomas persistentes con un GP](https://www.nhs.uk/conditions/medically-unexplained-symptoms/)
+- [Diario de síntomas de Kaiser Permanente](https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.diary-of-symptoms.tm6566)
+- [CDC vivir con una condición crónica](https://www.cdc.gov/chronic-disease/living-with/index.html)
+- [NHS guía para hablar de síntomas persistentes con un GP](https://www.nhs.uk/conditions/medically-unexplained-symptoms/)
 - [Symptom reporting during physician consultation](https://pubmed.ncbi.nlm.nih.gov/10165954/)
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra esta hecho para este tipo de tracking de bajo esfuerzo: sintomas, intensidad, desencadenantes, medicamentos, notas, [actividades de la vida diaria](/es-es/knowledge/activities-of-daily-living/) y preguntas para citas en un solo lugar.
+Zebra esta hecho para este tipo de tracking de bajo esfuerzo: síntomas, intensidad, desencadenantes, medicamentos, notas, [actividades de la vida diaria](/es-es/knowledge/activities-of-daily-living/) y preguntas para citas en un solo lugar.
 
-No diagnostica ni te dice que significan tus sintomas. Ayuda a dejar de depender de la memoria cuando por fin llega la cita.
+No diagnostica ni te dice que significan tus síntomas. Ayuda a dejar de depender de la memoria cuando por fin llega la cita.
 
 ## Puntos clave
 
-- La primera semana de seguimiento de sintomas debe ser pequena.
-- Empieza con uno a tres sintomas, no toda tu historia medica.
-- Agrega intensidad, momento, contexto, medicacion, recuperacion e impacto funcional poco a poco.
-- Una nota de una frase sigue siendo util.
-- Despues de siete dias, convierte tus notas en preguntas para tu medico.
+- La primera semana de seguimiento de síntomas debe ser pequena.
+- Empieza con uno a tres síntomas, no toda tu historia médica.
+- Agrega intensidad, momento, contexto, medicación, recuperación e impacto funcional poco a poco.
+- Una nota de una frase sigue siendo útil.
+- Después de siete días, convierte tus notas en preguntas para tu médico.
 
 ## FAQ
 
-### Que debo registrar en la primera semana?
+### ¿Qué debo registrar en la primera semana?
 
-Registra tus sintomas principales, intensidad, momento, que los mejoro o empeoro, contexto de medicacion, tiempo de recuperacion y que te impidieron hacer.
+Registra tus síntomas principales, intensidad, momento, que los mejoró o empeoro, contexto de medicación, tiempo de recuperación y que te impidieron hacer.
 
-### Cuanto debo escribir si estoy abrumado?
+### ¿Cuánto debo escribir si estoy abrumado?
 
-Escribe una frase o usa unos campos rapidos. Una nota util puede ser: dolor 7/10, peor despues de ducha, acostado 40 minutos, recados cancelados.
+Escribe una frase o usa unos campos rapidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados.
 
-### Tengo que registrar todos los sintomas?
+### ¿Tengo que registrar todos los síntomas?
 
-No. Empieza con uno a tres sintomas que mas afecten tu dia. Puedes agregar mas despues si se siente manejable.
+No. Empieza con uno a tres síntomas que más afecten tu día. Puedes agregar más después si se siente manejable.
 
-### Cuanto tiempo tarda en ser util el seguimiento?
+### ¿Cuánto tiempo tarda en ser útil el seguimiento?
 
-Incluso siete dias pueden revelar ejemplos utiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible.
+Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible.
 
-### Zebra es consejo medico?
+### ¿Zebra es consejo médico?
 
-No. Zebra ayuda a organizar informacion ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica.
+No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica.

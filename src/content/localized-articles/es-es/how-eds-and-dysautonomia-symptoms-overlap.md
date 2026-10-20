@@ -2,10 +2,10 @@
 locale: "es-es"
 originalSlug: "how-eds-and-dysautonomia-symptoms-overlap"
 status: "published"
-title: "Como se superponen los sintomas de EDS y disautonomia"
-subtitle: "Los sintomas de EDS y disautonomia a menudo se superponen de formas que hacen que el seguimiento diario y la preparacion de citas sean confusos. Muchas personas terminan lidiando con mareo, fatiga, brain fog, intolerancia al ejercicio, dolor y cambios de funcion al mismo tiempo, incluso cuando esos sintomas no parecen pertenecer a una sola etiqueta."
-description: "Aprende como pueden superponerse los sintomas de EDS y disautonomia, como se ve eso en la vida diaria y como rastrear el patron con mas claridad."
-excerpt: "Una explicacion practica de la superposicion entre EDS y disautonomia, mas como mantener la historia de sintomas revisable."
+title: "Como se superponen los síntomas de EDS y disautonomía"
+subtitle: "Los síntomas de EDS y disautonomía a menudo se superponen de formas que hacen que el seguimiento diario y la preparación de citas sean confusos. Muchas personas terminan lidiando con mareo, fatiga, brain fog, intolerancia al ejercicio, dolor y cambios de función al mismo tiempo, incluso cuando esos síntomas no parecen pertenecer a una sola etiqueta."
+description: "Aprende como pueden superponerse los síntomas de EDS y disautonomía, como se ve eso en la vida diaria y como rastrear el patron con más claridad."
+excerpt: "Una explicación práctica de la superposición entre EDS y disautonomía, más como mantener la historia de síntomas revisable."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-07-04"
@@ -14,28 +14,28 @@ lastReviewed: "2026-07-04"
 reviewedAt: "2026-07-04"
 cluster: "EDS / hEDS"
 category: "Symptom Tracking"
-primaryKeyword: "sintomas eds disautonomia superposicion"
-seoTitle: "Como se superponen los sintomas de EDS y disautonomia | Zebra"
-metaDescription: "Aprende como pueden superponerse los sintomas de EDS y disautonomia, por que eso hace mas dificil el seguimiento y como mantener el patron revisable."
-ogTitle: "Como se superponen los sintomas de EDS y disautonomia"
-ogDescription: "Una explicacion practica de la superposicion de sintomas y como rastrear el patron con mas claridad."
+primaryKeyword: "síntomas eds disautonomía superposición"
+seoTitle: "Como se superponen los síntomas de EDS y disautonomía | Zebra"
+metaDescription: "Aprende como pueden superponerse los síntomas de EDS y disautonomía, por que eso hace más dificil el seguimiento y como mantener el patron revisable."
+ogTitle: "Como se superponen los síntomas de EDS y disautonomía"
+ogDescription: "Una explicación práctica de la superposición de síntomas y como rastrear el patron con más claridad."
 heroImage: "/screenshots/insight-history.png"
-heroImageAlt: "Ilustracion que muestra la superposicion entre sintomas de EDS y disautonomia"
+heroImageAlt: "Ilustracion que muestra la superposición entre síntomas de EDS y disautonomía"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra cuando la superposicion hace que la historia de sintomas sea mas dificil de mantener clara."
+ctaNote: "Usa Zebra cuando la superposición hace que la historia de síntomas sea más dificil de mantener clara."
 featured: false
-categories:
+categories: 
   - "Symptom Tracking"
   - "Dysautonomia"
   - "Brain Fog"
-tags:
+tags: 
   - "EDS"
   - "hEDS"
-  - "disautonomia"
-  - "superposicion"
-  - "rastreo de sintomas"
-entities:
+  - "disautonomía"
+  - "superposición"
+  - "rastreo de síntomas"
+entities: 
   - "EDS"
   - "hEDS"
   - "Dysautonomia"
@@ -44,144 +44,144 @@ entities:
   - "Fatigue"
   - "Dizziness"
   - "Orthostatic Intolerance"
-secondaryKeywords:
-  - "heds disautonomia"
-  - "pots eds superposicion"
-  - "sintomas superpuestos"
-  - "eds disautonomia fatiga"
-schemaTypes:
+secondaryKeywords: 
+  - "heds disautonomía"
+  - "pots eds superposición"
+  - "síntomas superpuestos"
+  - "eds disautonomía fatiga"
+schemaTypes: 
   - "Article"
   - "FAQPage"
-faq:
-  - question: "Pueden superponerse los sintomas de EDS y disautonomia?"
-    answer: "Si. Muchas personas describen superposicion en sintomas como fatiga, mareo, brain fog, palpitaciones y cambios de funcion."
-  - question: "Como debo rastrear sintomas superpuestos?"
-    answer: "Rastrea sintomas, cambios, patrones de brotes, contexto relacionado con la posicion e impacto funcional en una historia usable, en lugar de dispersarlos entre distintos sistemas."
-  - question: "La superposicion significa que el diagnostico es obvio?"
-    answer: "No. El seguimiento puede ayudar a organizar la historia, pero no reemplaza la interpretacion clinica."
-  - question: "Debo mantener los sintomas de EDS y disautonomia en notas separadas?"
-    answer: "Normalmente es mas util mantenerlos en una linea de tiempo revisable para poder ver que tiende a pasar junto."
-  - question: "Que hace que los sintomas superpuestos sean mas faciles de explicar en las citas?"
-    answer: "Un resumen corto de que cambio, que se agrupa, que parece relacionado con la posicion y que esta haciendo a la vida diaria suele ser mas facil de revisar que notas dispersas."
+faq: 
+  - question: "¿Pueden superponerse los síntomas de EDS y disautonomía?"
+    answer: "Si. Muchas personas describen superposición en síntomas como fatiga, mareo, brain fog, palpitaciones y cambios de función."
+  - question: "¿Cómo debo rastrear síntomas superpuestos?"
+    answer: "Rastrea síntomas, cambios, patrones de brotes, contexto relacionado con la posición e impacto funcional en una historia usable, en lugar de dispersarlos entre distintos sistemas."
+  - question: "¿La superposición significa que el diagnóstico es obvio?"
+    answer: "No. El seguimiento puede ayudar a organizar la historia, pero no reemplaza la interpretacion clínica."
+  - question: "¿Debo mantener los síntomas de EDS y disautonomía en notas separadas?"
+    answer: "Normalmente es más útil mantenerlos en una linea de tiempo revisable para poder ver que tiende a pasar junto."
+  - question: "¿Qué hace que los síntomas superpuestos sean más faciles de explicar en las citas?"
+    answer: "Un resumen corto de que cambio, que se agrupa, que parece relacionado con la posición y que esta haciendo a la vida diaria suele ser más fácil de revisar que notas dispersas."
 ---
 
-Los sintomas de [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/) y [disautonomia](/knowledge/dysautonomia/) a menudo se superponen de formas que hacen que el seguimiento diario y la preparacion de citas sean confusos. Muchas personas terminan lidiando con [mareo](/knowledge/dizziness/), [fatiga](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), intolerancia al ejercicio, dolor y cambios de [funcion diaria](/knowledge/functional-impact/) al mismo tiempo, incluso cuando esos sintomas no parecen pertenecer a una sola etiqueta.
+Los síntomas de [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/) y [disautonomía](/knowledge/dysautonomia/) a menudo se superponen de formas que hacen que el seguimiento diario y la preparación de citas sean confusos. Muchas personas terminan lidiando con [mareo](/knowledge/dizziness/), [fatiga](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), intolerancia al ejercicio, dolor y cambios de [función diaria](/knowledge/functional-impact/) al mismo tiempo, incluso cuando esos síntomas no parecen pertenecer a una sola etiqueta.
 
-Esta es una razon por la que la superposicion puede ser tan dificil de explicar en la atencion medica. El problema no es solo la cantidad de sintomas. Es la mezcla de sintomas. Cuando varios sintomas suben y bajan juntos, se vuelve mas dificil recordar que cambio primero, que se agrupa y que importa mas mencionar en la proxima cita.
+Esta es una razon por la que la superposición puede ser tan dificil de explicar en la atención médica. El problema no es solo la cantidad de síntomas. Es la mezcla de síntomas. Cuando varios síntomas suben y bajan juntos, se vuelve más dificil recordar qué cambió primero, qué se agrupa y qué importa más mencionar en la proxima cita.
 
-## Por que la superposicion se siente mas dificil de rastrear que sintomas de una sola condicion
+## Por qué la superposición se siente más dificil de rastrear que síntomas de una sola condición
 
-Los sintomas superpuestos suelen ser mas dificiles de rastrear porque el registro puede fragmentarse rapidamente.
+Los síntomas superpuestos suelen ser más dificiles de rastrear porque el registro puede fragmentarse rapidamente.
 
 Muchas personas terminan con:
 
-- sintomas en una app
+- síntomas en una app
 - signos vitales en otra
 - preguntas para citas en notas
-- recuerdos de los peores dias llenando los huecos
+- recuerdos de los peores días llenando los huecos
 
-Por eso un registro de patron completo suele ser mas util que notas de categorias aisladas. Si necesitas la version general mas simple de ese problema, [Por que el rastreo de sintomas falla en dias malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica por que el seguimiento suele romperse cuando los sintomas empeoran.
+Por eso un registro de patron completo suele ser más útil que notas de categorías aisladas. Si necesitas la versión general más simple de ese problema, [Por que el rastreo de síntomas falla en días malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica por que el seguimiento suele romperse cuando los síntomas empeoran.
 
-## Como puede verse la superposicion
+## Cómo puede verse la superposición
 
-La superposicion puede incluir:
+La superposición puede incluir:
 
 - mareo o aturdimiento
 - fatiga
 - brain fog
 - dolor
 - intolerancia al ejercicio
-- cambios de funcion que varian dia a dia
+- cambios de función que varian día a día
 
-Eso no significa que cada sintoma tenga la misma fuente. Significa que el patron vivido a menudo esta entrelazado.
+Eso no significa que cada síntoma tenga la misma fuente. Significa que el patron vivido a menudo esta entrelazado.
 
-Para algunas personas, la superposicion tambien incluye [intolerancia ortostatica](/knowledge/orthostatic-intolerance/), palpitaciones, temblores o sintomas que empeoran despues de estar de pie durante mas tiempo. Si esa parte del cuadro importa, [Como rastrear sintomas de POTS y cambios ortostaticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es una pagina complementaria util.
+Para algunas personas, la superposición también incluye [intolerancia ortostática](/knowledge/orthostatic-intolerance/), palpitaciones, temblores o síntomas que empeoran después de estar de pie durante más tiempo. Si esa parte del cuadro importa, [Como rastrear síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es una página complementaria útil.
 
-## Por que esto importa para el seguimiento
+## Por qué esto importa para el seguimiento
 
-Cuando los sintomas se superponen, es facil:
+Cuando los síntomas se superponen, es fácil:
 
 - rastrearlos en lugares separados
-- olvidar que cambio primero
+- olvidar qué cambió primero
 - no saber con seguridad que mencionar en las citas
 
-El seguimiento se vuelve mas util cuando la historia se mantiene organizada alrededor del patron completo, en lugar de forzar cada sintoma a un registro completamente separado.
+El seguimiento se vuelve más útil cuando la historia se mantiene organizada alrededor del patron completo, en lugar de forzar cada síntoma a un registro completamente separado.
 
 Esto es especialmente cierto si la pregunta no es "Que etiqueta lo explica todo?", sino "Que ha estado pasando realmente, y como esta afectando mi vida?"
 
-## Una mejor forma de rastrear la superposicion
+## Una mejor forma de rastrear la superposición
 
 Enfocate en:
 
-- sintomas
+- síntomas
 - cambios con el tiempo
 - impacto funcional
-- patrones relacionados con la posicion cuando sean relevantes
-- dias de brote
+- patrones relacionados con la posición cuando sean relevantes
+- días de brote
 
-Esto ayuda a crear una historia que sigue siendo util incluso cuando la interpretacion todavia esta evolucionando.
+Esto ayuda a crear una historia que sigue siendo útil incluso cuando la interpretacion todavía esta evolucionando.
 
-Si quieres un modelo practico, combina:
+Si quieres un modelo práctico, combina:
 
-- los sintomas que cambiaron mas
+- los síntomas que cambiaron más
 - lo que parece pasar junto
 - lo que parece relacionado con estar de pie
-- lo que se volvio mas dificil de hacer
+- lo que se volvio más dificil de hacer
 - cualquier cosa claramente nueva o peor
 
-Esa estructura mantiene el registro usable incluso cuando la conversacion diagnostica todavia esta incompleta. Para la version de preparacion de citas, [Que rastrear antes de una cita con un especialista](/blog/what-to-track-before-a-specialist-appointment/) y [Como organizar tu historial de salud para una visita medica](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) ayudan a convertir el patron en algo mas facil de revisar.
+Esa estructura mantiene el registro usable incluso cuando la conversación diagnóstica todavía esta incompleta. Para la versión de preparación de citas, [Que rastrear antes de una cita con un especialista](/blog/what-to-track-before-a-specialist-appointment/) y [Como organizar tu historial de salud para una visita médica](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) ayudan a convertir el patron en algo más fácil de revisar.
 
-## Errores comunes cuando los sintomas superpuestos se vuelven desordenados
+## Errores comunes cuando los síntomas superpuestos se vuelven desordenados
 
 Errores comunes incluyen:
 
-- separar sintomas relacionados en distintas herramientas
-- rastrear solo el sintoma mas fuerte y perder el contexto alrededor
-- ignorar cambios de funcion porque parecen mas dificiles de resumir
+- separar síntomas relacionados en distintas herramientas
+- rastrear solo el síntoma más fuerte y perder el contexto alrededor
+- ignorar cambios de función porque parecen más dificiles de resumir
 - esperar hasta la cita para reconstruir todo el mes desde la memoria
 
-Si brain fog es parte del problema, [Como rastrear sintomas de brain fog para una cita medica](/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) y [Como resumir sintomas sin olvidar detalles clave](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudar a mantener el registro mas ligero.
+Si brain fog es parte del problema, [Como rastrear síntomas de brain fog para una cita médica](/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) y [Como resumir síntomas sin olvidar detalles clave](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudar a mantener el registro más ligero.
 
-## Que hace que la superposicion sea mas facil de explicar en citas
+## Qué hace que la superposición sea más fácil de explicar en citas
 
-Los resumenes de citas mas fuertes suelen mostrar:
+Los resumenes de citas más fuertes suelen mostrar:
 
-- que cambio mas
-- que sintomas tienden a agruparse
-- que parece relacionado con la posicion
-- que hicieron esos sintomas a la vida diaria
+- qué cambió más
+- qué síntomas tienden a agruparse
+- qué parece relacionado con la posición
+- qué hicieron esos síntomas a la vida diaria
 
-Eso suele ser mas util que intentar defender una explicacion perfecta.
+Eso suele ser más útil que intentar defender una explicación perfecta.
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra fue posicionado exactamente para este tipo de problema de superposicion. En lugar de asumir que una condicion lo explica todo, ayuda a mantener unido el registro vivido para que la historia sea mas facil de revisar y conversar.
+Zebra fue posicionado exactamente para este tipo de problema de superposición. En lugar de asumir que una condición lo explica todo, ayuda a mantener unido el registro vivido para que la historia sea más fácil de revisar y conversar.
 
 ## Puntos clave
 
-- Los sintomas de EDS y disautonomia pueden superponerse en la forma en que las personas experimentan la vida diaria.
-- El seguimiento deberia mantenerse organizado alrededor de que paso, que cambio y que afecto la funcion.
-- Una historia de patron completo suele ser mas util que notas de categorias aisladas.
-- El registro mas claro de superposicion suele mantener sintomas, contexto relacionado con la posicion e impacto en la vida diaria juntos.
+- Los síntomas de EDS y disautonomía pueden superponerse en la forma en que las personas experimentan la vida diaria.
+- El seguimiento debería mantenerse organizado alrededor de qué pasó, qué cambió y qué afectó la función.
+- Una historia de patron completo suele ser más útil que notas de categorías aisladas.
+- El registro más claro de superposición suele mantener síntomas, contexto relacionado con la posición e impacto en la vida diaria juntos.
 
 ## FAQ
 
-### Pueden superponerse los sintomas de EDS y disautonomia?
+### ¿Pueden superponerse los síntomas de EDS y disautonomía?
 
-Si. Muchas personas describen superposicion en sintomas como fatiga, mareo, brain fog, palpitaciones y cambios de funcion.
+Si. Muchas personas describen superposición en síntomas como fatiga, mareo, brain fog, palpitaciones y cambios de función.
 
-### Como debo rastrear sintomas superpuestos?
+### ¿Cómo debo rastrear síntomas superpuestos?
 
-Rastrea sintomas, cambios, patrones de brotes, contexto relacionado con la posicion e impacto funcional en una historia usable, en lugar de dispersarlos entre distintos sistemas.
+Rastrea síntomas, cambios, patrones de brotes, contexto relacionado con la posición e impacto funcional en una historia usable, en lugar de dispersarlos entre distintos sistemas.
 
-### La superposicion significa que el diagnostico es obvio?
+### ¿La superposición significa que el diagnóstico es obvio?
 
-No. El seguimiento puede ayudar a organizar la historia, pero no reemplaza la interpretacion clinica.
+No. El seguimiento puede ayudar a organizar la historia, pero no reemplaza la interpretacion clínica.
 
-### Debo mantener los sintomas de EDS y disautonomia en notas separadas?
+### ¿Debo mantener los síntomas de EDS y disautonomía en notas separadas?
 
-Normalmente es mas util mantenerlos en una linea de tiempo revisable para poder ver que tiende a pasar junto.
+Normalmente es más útil mantenerlos en una linea de tiempo revisable para poder ver que tiende a pasar junto.
 
-### Que hace que los sintomas superpuestos sean mas faciles de explicar en las citas?
+### ¿Qué hace que los síntomas superpuestos sean más faciles de explicar en las citas?
 
-Un resumen corto de que cambio, que se agrupa, que parece relacionado con la posicion y que esta haciendo a la vida diaria suele ser mas facil de revisar que notas dispersas.
+Un resumen corto de qué cambió, qué se agrupa, qué parece relacionado con la posición y que esta haciendo a la vida diaria suele ser más fácil de revisar que notas dispersas.

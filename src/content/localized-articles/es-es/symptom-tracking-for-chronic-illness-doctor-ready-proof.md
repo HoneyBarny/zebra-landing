@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "symptom-tracking-for-chronic-illness-doctor-ready-proof"
-title: "Rastreo de sintomas para enfermedad cronica: como crear prueba lista para el medico"
+title: "Rastreo de síntomas para enfermedad crónica: como crear prueba lista para el médico"
 status: "published"
-subtitle: "El rastreo de sintomas para enfermedad cronica importa mas cuando te ayuda a explicar que ha estado pasando sin reconstruir tu historial desde la memoria. La prueba lista para el medico no se trata de rastrear cada detalle posible. Se trata de crear un registro claro de sintomas, cambios, funcion y preguntas que realmente puedas usar antes de una cita."
-description: "Aprende como convertir el rastreo de sintomas en prueba lista para el medico con un marco simple para sintomas, brotes, funcion y preparacion de citas."
-excerpt: "Aprende como convertir el rastreo de sintomas en prueba lista para el medico con un marco simple para sintomas, brotes, funcion y preparacion de citas."
+subtitle: "El rastreo de síntomas para enfermedad crónica importa más cuando te ayuda a explicar que ha estado pasando sin reconstruir tu historial desde la memoria. La prueba lista para el médico no se trata de rastrear cada detalle posible. Se trata de crear un registro claro de síntomas, cambios, función y preguntas que realmente puedas usar antes de una cita."
+description: "Aprende como convertir el rastreo de síntomas en prueba lista para el médico con un marco simple para síntomas, brotes, función y preparación de citas."
+excerpt: "Aprende como convertir el rastreo de síntomas en prueba lista para el médico con un marco simple para síntomas, brotes, función y preparación de citas."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -14,99 +14,99 @@ lastReviewed: "2026-06-29"
 reviewedAt: "2026-06-29"
 cluster: "Symptom Tracking and Proof"
 category: "Symptom Tracking and Proof"
-primaryKeyword: "rastreo de sintomas para enfermedad cronica"
-seoTitle: "Rastreo de sintomas para enfermedad cronica: prueba lista para el medico"
-metaDescription: "Aprende como convertir el rastreo de sintomas en prueba lista para el medico con un marco simple para sintomas, brotes, funcion y preparacion de citas."
-ogTitle: "Rastreo de sintomas para enfermedad cronica"
-ogDescription: "Un marco tranquilo y practico para convertir el rastreo de sintomas en algo util antes de las citas."
+primaryKeyword: "rastreo de síntomas para enfermedad crónica"
+seoTitle: "Rastreo de síntomas para enfermedad crónica: prueba lista para el médico"
+metaDescription: "Aprende como convertir el rastreo de síntomas en prueba lista para el médico con un marco simple para síntomas, brotes, función y preparación de citas."
+ogTitle: "Rastreo de síntomas para enfermedad crónica"
+ogDescription: "Un marco tranquilo y práctico para convertir el rastreo de síntomas en algo útil antes de las citas."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Diagrama que muestra un marco de cuatro pasos para convertir el rastreo de sintomas en un resumen listo para el medico"
+heroImageAlt: "Diagrama que muestra un marco de cuatro pasos para convertir el rastreo de síntomas en un resumen listo para el médico"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Empieza a crear prueba lista para el medico en Zebra."
+ctaNote: "Empieza a crear prueba lista para el médico en Zebra."
 featured: false
-categories:
+categories: 
   - "Symptom Tracking"
   - "Doctor Reports"
-tags:
-  - "enfermedad cronica"
-  - "rastreo de sintomas"
-  - "informe medico"
+tags: 
+  - "enfermedad crónica"
+  - "rastreo de síntomas"
+  - "informe médico"
   - "historial de salud"
   - "enfermedad invisible"
-entities:
+entities: 
   - "Symptom Tracking"
   - "Doctor-Ready Report"
   - "Health History"
   - "Functional Impact"
   - "Flare"
-secondaryKeywords:
-  - "prueba lista para el medico"
-  - "rastreador de enfermedad cronica"
-  - "informe de sintomas"
-schemaTypes:
+secondaryKeywords: 
+  - "prueba lista para el médico"
+  - "rastreador de enfermedad crónica"
+  - "informe de síntomas"
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que es prueba lista para el medico?"
-    answer: "La prueba lista para el medico es un resumen organizado del historial introducido por el paciente que ayuda a explicar sintomas, cambios y preguntas antes de una cita."
-  - question: "Necesito rastrear todos los sintomas todos los dias?"
-    answer: "No. Rastrea los sintomas y el contexto que mas probablemente importen para entender cambios y preparar citas."
-  - question: "Que hace util un informe de sintomas?"
-    answer: "Un momento claro, categorias de sintomas relevantes, impacto funcional, contexto de medicacion y una estructura facil de revisar."
-  - question: "Puede un rastreador de sintomas diagnosticar que esta mal?"
-    answer: "No. Un rastreador de sintomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluacion medica."
+faq: 
+  - question: "¿Qué es prueba lista para el médico?"
+    answer: "La prueba lista para el médico es un resumen organizado del historial introducido por el paciente que ayuda a explicar síntomas, cambios y preguntas antes de una cita."
+  - question: "¿Necesito rastrear todos los síntomas todos los días?"
+    answer: "No. Rastrea los síntomas y el contexto que más probablemente importen para entender cambios y preparar citas."
+  - question: "¿Qué hace útil un informe de síntomas?"
+    answer: "Un momento claro, categorías de síntomas relevantes, impacto funcional, contexto de medicación y una estructura fácil de revisar."
+  - question: "¿Puede un rastreador de síntomas diagnosticar que esta mal?"
+    answer: "No. Un rastreador de síntomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluación médica."
 ---
 
-El rastreo de sintomas para enfermedad cronica importa mas cuando te ayuda a explicar que ha estado pasando sin reconstruir tu historial desde la memoria. La prueba lista para el medico no se trata de rastrear cada detalle posible. Se trata de crear un registro claro de sintomas, cambios, funcion y preguntas que realmente puedas usar antes de una cita.
+El rastreo de síntomas para enfermedad crónica importa más cuando te ayuda a explicar que ha estado pasando sin reconstruir tu historial desde la memoria. La prueba lista para el médico no se trata de rastrear cada detalle posible. Se trata de crear un registro claro de síntomas, cambios, función y preguntas que realmente puedas usar antes de una cita.
 
-Muchas personas con enfermedad cronica ya rastrean algo. El problema es que el registro suele estar disperso entre Notes, capturas de pantalla, memoria, hojas de calculo y apps a medio usar. El problema no es el esfuerzo. El problema es si ese esfuerzo se convierte en algo usable.
+Muchas personas con enfermedad crónica ya rastrean algo. El problema es que el registro suele estar disperso entre Notes, capturas de pantalla, memoria, hojas de cálculo y apps a medio usar. El problema no es el esfuerzo. El problema es si ese esfuerzo se convierte en algo usable.
 
-## Que significa realmente "prueba lista para el medico"
+## Qué significa realmente "prueba lista para el médico"
 
-Prueba lista para el medico no significa un diagnostico. No significa un grafico que lo demuestre todo. Significa un registro organizado introducido por el paciente que te ayuda a comentar:
+Prueba lista para el médico no significa un diagnóstico. No significa un grafico que lo demuestre todo. Significa un registro organizado introducido por el paciente que te ayuda a comentar:
 
-- que sintomas estan ocurriendo
-- que cambio recientemente
-- que afecta la vida diaria
-- que se ha intentado
-- que preguntas todavia necesitan respuesta
+- qué síntomas estan ocurriendo
+- qué cambió recientemente
+- qué afecta la vida diaria
+- qué se ha intentado
+- qué preguntas todavía necesitan respuesta
 
 El proposito es comunicacion, no certeza.
 
 ## El marco de Zebra: Rastrear -> Entender -> Preparar -> Compartir
 
-Esta es la forma mas simple de pensar en el rastreo de enfermedad cronica que realmente lleva a alguna parte.
+Esta es la forma más simple de pensar en el rastreo de enfermedad crónica que realmente lleva a alguna parte.
 
 ### 1. Rastrear
 
-Registra las cosas que mas probablemente importen despues:
+Registra las cosas que más probablemente importen después:
 
-- sintomas
-- dias de brote
-- cambios de funcion
-- medicacion y cambios de rutina
+- síntomas
+- días de brote
+- cambios de función
+- medicación y cambios de rutina
 - mediciones relevantes
 
 ### 2. Entender
 
-Busca que cambio, no solo que existe.
+Busca qué cambió, no solo qué existe.
 
 Ejemplos:
 
-- sintoma nuevo
-- dias malos mas frecuentes
-- sintomas al estar de pie peores
-- mas brain fog despues de dormir mal
+- síntoma nuevo
+- días malos más frecuentes
+- síntomas al estar de pie peores
+- más brain fog después de dormir mal
 
 ### 3. Preparar
 
-Antes de una cita, trae hacia adelante el historial util:
+Antes de una cita, trae hacia adelante el historial útil:
 
-- que cambio mas
-- que afecto la vida diaria
-- con que quieres ayuda
+- qué cambió más
+- qué afectó la vida diaria
+- con qué quieres ayuda
 
 ### 4. Compartir
 
@@ -114,81 +114,81 @@ Lleva un resumen limpio, no un monton de notas sin procesar.
 
 Este es el paso que muchos sistemas genericos de rastreo no apoyan bien.
 
-## Que rastrear si tu objetivo es prueba para citas
+## Qué rastrear si tu objetivo es prueba para citas
 
-Si tu objetivo es prueba lista para el medico, las categorias mas utiles son:
+Si tu objetivo es prueba lista para el médico, las categorías más útiles son:
 
-- sintomas principales
+- síntomas principales
 - frecuencia y severidad
 - patrones de brotes
 - impacto funcional
-- cambios de medicacion
+- cambios de medicación
 - mediciones relevantes en casa
 - preguntas principales
 
 No necesitas un registro perfecto de cuerpo completo. Necesitas un registro que ayude a tu yo futuro a explicar el mes con claridad.
 
-## Por que la prueba importa tanto en enfermedad cronica
+## Por qué la prueba importa tanto en enfermedad crónica
 
-Para muchas personas con enfermedad invisible, los sintomas no solo son dificiles de manejar. Tambien son dificiles de describir de una forma que sobreviva a una cita corta. El brain fog, la invalidacion, las visitas apresuradas y el historial fragmentado hacen facil salir sintiendo que la parte importante nunca se dijo.
+Para muchas personas con enfermedad invisible, los síntomas no solo son dificiles de manejar. También son dificiles de describir de una forma que sobreviva a una cita corta. El brain fog, la invalidacion, las visitas apresuradas y el historial fragmentado hacen fácil salir sintiendo que la parte importante nunca se dijo.
 
-El rastreo se vuelve mas util cuando reduce esa presion.
+El rastreo se vuelve más útil cuando reduce esa presión.
 
-## Como se ve una prueba debil
+## Cómo se ve una prueba debil
 
 Una prueba debil suele verse como:
 
 - notas dispersas sin linea de tiempo
-- nombres de sintomas sin contexto
-- ningun registro de que cambio
-- ningun historial de medicacion
+- nombres de síntomas sin contexto
+- ningun registro de qué cambió
+- ningun historial de medicación
 - ningun impacto funcional
 - preguntas recordadas demasiado tarde
 
 Eso no significa que el rastreo no sirviera. Significa que el registro nunca se organizo para el momento en que necesitaba usarse.
 
-## Como se ve una prueba mas fuerte
+## Cómo se ve una prueba más fuerte
 
-Una prueba mas fuerte suele incluir:
+Una prueba más fuerte suele incluir:
 
 - una linea de tiempo reciente
-- cambios de sintomas resumidos con claridad
+- cambios de síntomas resumidos con claridad
 - historial de brotes
-- que parte de la vida diaria fue afectada
-- medicacion relevante o cambios de rutina
+- qué parte de la vida diaria fue afectada
+- medicación relevante o cambios de rutina
 - una lista corta de preguntas
 
-Es mas facil de revisar, mas facil de comentar y depende menos de una memoria perfecta.
+Es más fácil de revisar, más fácil de comentar y depende menos de una memoria perfecta.
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra esta construido alrededor de este flujo exacto. El punto no es solo registrar sintomas. El punto es mantener juntos historial de sintomas, brotes, funcion, medicacion, hidratacion y observaciones relacionadas para que despues puedan convertirse en un informe listo para el medico.
+Zebra esta construido alrededor de este flujo exacto. El punto no es solo registrar síntomas. El punto es mantener juntos historial de síntomas, brotes, función, medicación, hidratación y observaciones relacionadas para que después puedan convertirse en un informe listo para el médico.
 
-Este mismo enfoque es el centro de la pagina [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/), pensada para dias de poca energia y niebla mental.
+Este mismo enfoque es el centro de la página [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/), pensada para días de poca energía y niebla mental.
 
-Zebra no diagnostica condiciones ni controla como respondera un medico. Ayuda a organizar historial introducido por el paciente para que la conversacion sea mas facil de preparar.
+Zebra no diagnostica condiciones ni controla como respondera un médico. Ayuda a organizar historial introducido por el paciente para que la conversación sea más fácil de preparar.
 
 ## Puntos clave
 
-- El rastreo de enfermedad cronica se vuelve util cuando se convierte en un registro usable.
-- La prueba lista para el medico trata de organizacion, no de certeza.
-- Las categorias mas utiles son sintomas, cambios, brotes, funcion, medicacion y preguntas.
-- Un resumen limpio ayuda mas que un gran monton de notas sin procesar.
+- El rastreo de enfermedad crónica se vuelve útil cuando se convierte en un registro usable.
+- La prueba lista para el médico trata de organización, no de certeza.
+- Las categorías más útiles son síntomas, cambios, brotes, función, medicación y preguntas.
+- Un resumen limpio ayuda más que un gran monton de notas sin procesar.
 
 ## FAQ
 
-### Que es prueba lista para el medico?
+### ¿Qué es prueba lista para el médico?
 
-La prueba lista para el medico es un resumen organizado del historial introducido por el paciente que ayuda a explicar sintomas, cambios y preguntas antes de una cita.
+La prueba lista para el médico es un resumen organizado del historial introducido por el paciente que ayuda a explicar síntomas, cambios y preguntas antes de una cita.
 
-### Necesito rastrear todos los sintomas todos los dias?
+### ¿Necesito rastrear todos los síntomas todos los días?
 
-No. Rastrea los sintomas y el contexto que mas probablemente importen para entender cambios y preparar citas.
+No. Rastrea los síntomas y el contexto que más probablemente importen para entender cambios y preparar citas.
 
-### Que hace util un informe de sintomas?
+### ¿Qué hace útil un informe de síntomas?
 
-Un momento claro, categorias de sintomas relevantes, impacto funcional, contexto de medicacion y una estructura facil de revisar.
+Un momento claro, categorías de síntomas relevantes, impacto funcional, contexto de medicación y una estructura fácil de revisar.
 
-### Puede un rastreador de sintomas diagnosticar que esta mal?
+### ¿Puede un rastreador de síntomas diagnosticar que esta mal?
 
-No. Un rastreador de sintomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluacion medica.
+No. Un rastreador de síntomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluación médica.

@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "mcas-flare-tracker-what-to-log-during-a-reaction"
 title: "Rastreador de brotes MCAS: que registrar durante una reaccion"
 status: "published"
-subtitle: "Las notas de brotes tipo MCAS son mas utiles cuando sintomas, sistemas del cuerpo, posibles disparadores, horario, medicamentos, acciones de seguridad y recuperacion quedan juntos. El objetivo no es probar una causa, sino llevar una historia mas clara al medico."
-description: "Aprende que registrar durante un brote o reaccion tipo MCAS: sintomas, sistemas del cuerpo, posibles disparadores, horario, medicamentos, seguridad y recuperacion."
-excerpt: "Una guia practica para registrar enrojecimiento, urticaria, sintomas GI, mareo, sintomas respiratorios, posibles disparadores, medicamentos y recuperacion."
+subtitle: "Las notas de brotes tipo MCAS son más útiles cuando síntomas, sistemas del cuerpo, posibles disparadores, horario, medicamentos, acciones de seguridad y recuperación quedan juntos. El objetivo no es probar una causa, sino llevar una historia más clara al médico."
+description: "Aprende que registrar durante un brote o reaccion tipo MCAS: síntomas, sistemas del cuerpo, posibles disparadores, horario, medicamentos, seguridad y recuperación."
+excerpt: "Una guía práctica para registrar enrojecimiento, urticaria, síntomas GI, mareo, síntomas respiratorios, posibles disparadores, medicamentos y recuperación."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -18,25 +18,25 @@ cluster: "Symptom Tracking"
 category: "Symptom Tracking"
 primaryKeyword: "rastreador de brotes MCAS"
 seoTitle: "Rastreador de brotes MCAS: que registrar | Zebra"
-metaDescription: "Registra brotes tipo MCAS con sintomas, sistemas, disparadores, horario, medicamentos, seguridad, recuperacion y notas para el medico."
+metaDescription: "Registra brotes tipo MCAS con síntomas, sistemas, disparadores, horario, medicamentos, seguridad, recuperación y notas para el médico."
 ogTitle: "Rastreador de brotes MCAS: que registrar durante una reaccion"
-ogDescription: "Una guia practica para registrar episodios tipo mastocitos, disparadores, medicamentos, seguridad y recuperacion."
+ogDescription: "Una guía práctica para registrar episodios tipo mastocitos, disparadores, medicamentos, seguridad y recuperación."
 heroImage: "/screenshots/insight-history.png"
-heroImageAlt: "Pantalla de historial de insights de Zebra con patrones de sintomas y notas guardadas."
+heroImageAlt: "Pantalla de historial de insights de Zebra con patrones de síntomas y notas guardadas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar sintomas tipo MCAS, disparadores, medicamentos, notas de seguridad, recuperacion y preguntas para el medico en una sola linea de tiempo."
-categories:
+ctaNote: "Usa Zebra para guardar síntomas tipo MCAS, disparadores, medicamentos, notas de seguridad, recuperación y preguntas para el médico en una sola linea de tiempo."
+categories: 
   - "Symptom Tracking"
   - "Appointment Preparation"
   - "Dysautonomia"
-tags:
+tags: 
   - "MCAS"
   - "activacion mastocitaria"
   - "rastreador de brotes"
   - "diario de reacciones"
   - "seguimiento de disparadores"
-entities:
+entities: 
   - "MCAS"
   - "Flare"
   - "Trigger"
@@ -48,37 +48,37 @@ entities:
   - "Palpitations"
   - "Functional Impact"
   - "Doctor-Ready Report"
-secondaryKeywords:
-  - "diario de sintomas mast cell activation"
+secondaryKeywords: 
+  - "diario de síntomas mast cell activation"
   - "registrar reacciones MCAS"
   - "diario de disparadores MCAS"
   - "que registrar durante un brote mastocitario"
-schemaTypes:
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que debo registrar durante un brote tipo MCAS?"
-    answer: "Registra la hora, sintomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperacion y que te impidio hacer el episodio."
-  - question: "El seguimiento puede diagnosticar MCAS?"
-    answer: "No. El diagnostico de MCAS requiere criterios clinicos e interpretacion medica. El seguimiento puede organizar la historia de episodios para una visita medica."
-  - question: "Debo tratar posibles disparadores como prueba?"
-    answer: "No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infeccion, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser utiles para conversar sin probar causa."
-  - question: "Cuando debo buscar atencion de emergencia?"
-    answer: "Busca ayuda de emergencia ante sintomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, sintomas fuertes de presion baja o si tu medico te indico usar medicacion de emergencia."
-  - question: "Zebra es consejo medico?"
-    answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica."
+faq: 
+  - question: "¿Qué debo registrar durante un brote tipo MCAS?"
+    answer: "Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y que te impidio hacer el episodio."
+  - question: "¿El seguimiento puede diagnosticar MCAS?"
+    answer: "No. El diagnóstico de MCAS requiere criterios clinicos e interpretacion médica. El seguimiento puede organizar la historia de episodios para una visita médica."
+  - question: "¿Debo tratar posibles disparadores como prueba?"
+    answer: "No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa."
+  - question: "¿Cuándo debo buscar atención de emergencia?"
+    answer: "Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia."
+  - question: "¿Zebra es consejo médico?"
+    answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Un brote de [MCAS](/es-es/knowledge/mcas/) o una reaccion tipo mastocitos puede ser dificil de explicar despues porque el episodio puede involucrar mas de un sistema del cuerpo a la vez: piel, intestino, respiracion, pulso, presion arterial, mareo, hinchazon o una sensacion repentina de "reaccion alergica".
+Un brote de [MCAS](/es-es/knowledge/mcas/) o una reaccion tipo mastocitos puede ser dificil de explicar después porque el episodio puede involucrar más de un sistema del cuerpo a la vez: piel, intestino, respiracion, pulso, presión arterial, mareo, hinchazon o una sensación repentina de "reaccion alergica".
 
-Una nota util no intenta probar que causo el episodio. Guarda los detalles que tu medico puede necesitar: que paso, cuando empezo, que sistemas estuvieron involucrados, que habia cerca, que tomaste, si los sintomas mejoraron y si el episodio afecto la seguridad o la vida diaria.
+Una nota útil no intenta probar que causó el episodio. Guarda los detalles que tu médico puede necesitar: qué pasó, cuándo empezó, qué sistemas estuvieron involucrados, qué había cerca, que tomaste, si los síntomas mejoraron y si el episodio afecto la seguridad o la vida diaria.
 
-El diagnostico de MCAS es complejo y debe quedar en manos clinicas. El seguimiento es para organizar, no para autodiagnosticar.
+El diagnóstico de MCAS es complejo y debe quedar en manos clinicas. El seguimiento es para organizar, no para autodiagnosticar.
 
 ## Empieza por la seguridad
 
-Si tienes sintomas de anafilaxia o una reaccion grave, sigue tu plan de emergencia, usa medicacion de emergencia prescrita si te lo indicaron y busca atencion de emergencia.
+Si tienes síntomas de anafilaxia o una reaccion grave, sigue tu plan de emergencia, usa medicación de emergencia prescrita si te lo indicaron y busca atención de emergencia.
 
 No sigas registrando en vez de pedir ayuda ante:
 
@@ -86,60 +86,60 @@ No sigas registrando en vez de pedir ayuda ante:
 - hinchazon de garganta, lengua, labios o cara
 - sibilancias o estridor
 - desmayo
-- aturdimiento intenso o sintomas de presion arterial baja
+- aturdimiento intenso o síntomas de presión arterial baja
 - dolor en el pecho
-- confusion o sensacion de inseguridad
-- una reaccion que tu medico te dijo que trates como urgente
+- confusión o sensación de inseguridad
+- una reaccion que tu médico te dijo que trates como urgente
 
-El registro se puede completar despues. La seguridad va primero.
+El registro se puede completar después. La seguridad va primero.
 
 ## Registra que sistemas del cuerpo participaron
 
-Las conversaciones sobre MCAS suelen centrarse en episodios que involucran mas de un sistema del cuerpo. Por eso una nota por sistemas es mas util que una sola etiqueta de sintoma.
+Las conversaciones sobre MCAS suelen centrarse en episodios que involucran más de un sistema del cuerpo. Por eso una nota por sistemas es más útil que una sola etiqueta de síntoma.
 
-Registra sintomas por grupo:
+Registra síntomas por grupo:
 
 - piel: enrojecimiento, picor, urticaria, sarpullido, hinchazon
 - intestino: dolor abdominal, colicos, diarrea, nauseas, vomitos, reflujo
 - respiracion: sibilancias, tos, falta de aire, opresion en garganta, nariz tapada
-- cardiovascular: pulso rapido, palpitaciones, sintomas de presion baja, desmayo
+- cardiovascular: pulso rápido, palpitaciones, síntomas de presión baja, desmayo
 - neurologico o general: mareo, aturdimiento, dolor de cabeza, debilidad repentina, brain fog, fatiga
 
-No necesitas decidir si el episodio "cuenta". Solo registra con claridad lo que paso.
+No necesitas decidir si el episodio "cuenta". Solo registra con claridad lo que pasó.
 
 ## Anade horario y secuencia
 
-El horario ayuda a tu medico a ver si los episodios se repiten de forma reconocible.
+El horario ayuda a tu médico a ver si los episodios se repiten de forma reconocible.
 
 Registra:
 
 - hora de inicio
-- que tan rapido subieron los sintomas
-- primer sintoma
-- peor sintoma
+- qué tan rápido subieron los síntomas
+- primer síntoma
+- peor síntoma
 - momento pico, si lo sabes
 - cuando empezaron a mejorar
-- tiempo total de recuperacion
-- si los sintomas volvieron despues
+- tiempo total de recuperación
+- si los síntomas volvieron después
 
 Ejemplo:
 
-| Hora | Que paso |
+| Hora | Qué pasó |
 | --- | --- |
 | 12:20 | Comi almuerzo |
 | 12:45 | Empezo enrojecimiento facial y picor |
 | 12:55 | Nauseas y colicos, 6/10 |
-| 1:05 | Tome medicacion de rescate aprobada por mi medico |
-| 1:40 | Los sintomas bajan |
+| 1:05 | Tome medicación de rescate aprobada por mi médico |
+| 1:40 | Los síntomas bajan |
 | 3:00 | Aun cansado, cancele recados |
 
-Esa secuencia es mas facil de revisar que "mala reaccion despues de comer."
+Esa secuencia es más fácil de revisar que "mala reaccion después de comer."
 
 ## Registra posibles disparadores como contexto
 
-Los posibles disparadores pueden ser utiles, pero no son prueba por si solos. Una comida, olor, cambio de temperatura, medicamento, infeccion o estres cercano puede importar o puede ser coincidencia.
+Los posibles disparadores pueden ser útiles, pero no son prueba por si solos. Una comida, olor, cambio de temperatura, medicamento, infección o estres cercano puede importar o puede ser coincidencia.
 
-Contexto util:
+Contexto útil:
 
 - comida o bebida
 - alcohol
@@ -148,117 +148,117 @@ Contexto util:
 - polen, mascotas, moho o exposicion ambiental
 - ejercicio o estres fisico
 - estres emocional
-- infeccion o enfermedad
-- mal sueno
+- infección o enfermedad
+- mal sueño
 - contexto menstrual, si aplica
 - medicamento nuevo, dosis olvidada, cambio de dosis, suplemento o contraste
 - picadura o mordedura de insecto
 
-Escribe "posible disparador" en vez de "causa", salvo que un medico haya confirmado la relacion.
+Escribe "posible disparador" en vez de "causa", salvo que un médico haya confirmado la relacion.
 
-## Mantén medicamentos y acciones de seguridad junto a los sintomas
+## Mantén medicamentos y acciones de seguridad junto a los síntomas
 
 Para cada episodio, registra:
 
 - medicamentos o medidas que tomaste
 - hora en que los tomaste
 - si eran prescritos, de venta libre o parte de tu plan
-- si los sintomas mejoraron, empeoraron o siguieron igual
-- si usaste medicacion de emergencia
-- si contactaste a un medico, urgencias o emergencias
+- si los síntomas mejoraron, empeoraron o siguieron igual
+- si usaste medicación de emergencia
+- si contactaste a un médico, urgencias o emergencias
 
-No uses un rastreador para decidir cambios de medicacion por tu cuenta. Usalo para mantener clara la secuencia para quien maneja tu atencion.
+No uses un rastreador para decidir cambios de medicación por tu cuenta. Usalo para mantener clara la secuencia para quien maneja tu atención.
 
-## Anade recuperacion e impacto funcional
+## Anade recuperación e impacto funcional
 
-La recuperacion es parte del episodio.
+La recuperación es parte del episodio.
 
 Anota:
 
-- cuanto tiempo necesitaste descansar
-- si los sintomas se fueron por completo
-- fatiga, brain fog, dolor de cabeza, sintomas GI o mareo persistente
+- cuánto tiempo necesitaste descansar
+- si los síntomas se fueron por completo
+- fatiga, brain fog, dolor de cabeza, síntomas GI o mareo persistente
 - si perdiste trabajo, escuela, recados, ejercicio, cocina, conducir o cuidados
 - si necesitaste ayuda de otra persona
 
-"Enrojecimiento y diarrea" es util. "Enrojecimiento y diarrea despues del almuerzo, tome medicacion de rescate, tuve que acostarme dos horas y perdi una llamada de trabajo" es mucho mas util para preparar una cita.
+"Enrojecimiento y diarrea" es útil. "Enrojecimiento y diarrea después del almuerzo, tome medicación de rescate, tuve que acostarme dos horas y perdi una llamada de trabajo" es mucho más útil para preparar una cita.
 
 ## Plantilla simple para brotes MCAS
 
 Usa esta estructura:
 
-1. Hora: cuando empezo y cuanto duro.
+1. Hora: cuando empezó y cuánto duró.
 2. Sistemas: piel, intestino, respiracion, cardiovascular, neurologico, general.
-3. Sintomas: sintomas mas fuertes y gravedad.
+3. Síntomas: síntomas más fuertes y gravedad.
 4. Posible contexto: comida, calor, fragancia, enfermedad, estres, medicamentos, actividad.
-5. Acciones: medicacion, plan de emergencia, contacto medico, descanso.
-6. Recuperacion: tiempo hasta mejorar y sintomas persistentes.
+5. Acciones: medicación, plan de emergencia, contacto médico, descanso.
+6. Recuperación: tiempo hasta mejorar y síntomas persistentes.
 7. Impacto: que te impidio hacer el episodio.
-8. Pregunta para la cita: que debemos revisar despues?
+8. Pregunta para la cita: que debemos revisar después?
 
-Incluso una nota parcial es mejor que depender de la memoria despues de un episodio intenso o agotador.
+Incluso una nota parcial es mejor que depender de la memoria después de un episodio intenso o agotador.
 
-## Que llevar a la cita
+## Qué llevar a la cita
 
 Antes de una visita, resume:
 
-- con que frecuencia pasan los episodios
-- grupos de sintomas mas comunes
+- con qué frecuencia pasan los episodios
+- grupos de síntomas más comunes
 - episodios con respiracion, hinchazon, desmayo o acciones de emergencia
 - posibles contextos repetidos que quieres comentar
-- notas de respuesta a medicacion o tratamiento
-- tiempo de recuperacion e impacto funcional
+- notas de respuesta a medicación o tratamiento
+- tiempo de recuperación e impacto funcional
 - tus preguntas principales
 
 Buenas preguntas:
 
 - "Estos episodios cumplen criterios para evaluar MCAS, alergias, mastocitosis u otro estudio?"
-- "Que sintomas debo tratar como urgentes en mi caso?"
+- "Que síntomas debo tratar como urgentes en mi caso?"
 - "Que debo registrar durante el proximo episodio?"
 - "Hay medicamentos o exposiciones que revisar?"
 - "Algun laboratorio debe tomarse cerca de episodios agudos?"
 
 ## Contexto de fuentes
 
-Contexto util:
+Contexto útil:
 
 - [Resumen de MCAS de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/mast-cell-activation-syndrome)
-- [Informacion de AAAAI sobre mast cell activation syndrome](https://www.aaaai.org/conditions-treatments/related-conditions/mcas)
+- [Información de AAAAI sobre mast cell activation syndrome](https://www.aaaai.org/conditions-treatments/related-conditions/mcas)
 - [Mayo Clinic Press sobre seguimiento de disparadores relacionados con mastocitos](https://mcpress.mayoclinic.org/living-well/understanding-your-ism-triggers/)
 - [Perspectivas de pacientes y profesionales sobre carga de disparadores mastocitarios](https://pmc.ncbi.nlm.nih.gov/articles/PMC12207528/)
 
-## Donde encaja Zebra
+## Dónde encaja Zebra
 
-Zebra ayuda a guardar [brotes](/es-es/knowledge/flare/), [disparadores](/es-es/knowledge/trigger/), sintomas, medicamentos, notas, impacto funcional y preguntas para la cita en una sola linea de tiempo.
+Zebra ayuda a guardar [brotes](/es-es/knowledge/flare/), [disparadores](/es-es/knowledge/trigger/), síntomas, medicamentos, notas, impacto funcional y preguntas para la cita en una sola linea de tiempo.
 
-Zebra no diagnostica MCAS ni interpreta reacciones. Te ayuda a llevar una historia de episodios mas clara al medico que si puede hacerlo.
+Zebra no diagnostica MCAS ni interpreta reacciones. Te ayuda a llevar una historia de episodios más clara al médico que si puede hacerlo.
 
 ## Puntos clave
 
-- Registra episodios tipo MCAS por sistema del cuerpo, horario, posible contexto, acciones y recuperacion.
+- Registra episodios tipo MCAS por sistema del cuerpo, horario, posible contexto, acciones y recuperación.
 - Trata los posibles disparadores como contexto, no como prueba.
-- Registra claramente sintomas urgentes y acciones de seguridad.
+- Registra claramente síntomas urgentes y acciones de seguridad.
 - No cambies tratamiento solo por el registro.
 - El mejor resultado es un resumen breve para la cita y mejores preguntas.
 
 ## FAQ
 
-### Que debo registrar durante un brote tipo MCAS?
+### ¿Qué debo registrar durante un brote tipo MCAS?
 
-Registra la hora, sintomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperacion y que te impidio hacer el episodio.
+Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y que te impidio hacer el episodio.
 
-### El seguimiento puede diagnosticar MCAS?
+### ¿El seguimiento puede diagnosticar MCAS?
 
-No. El diagnostico de MCAS requiere criterios clinicos e interpretacion medica. El seguimiento puede organizar la historia de episodios para una visita medica.
+No. El diagnóstico de MCAS requiere criterios clinicos e interpretacion médica. El seguimiento puede organizar la historia de episodios para una visita médica.
 
-### Debo tratar posibles disparadores como prueba?
+### ¿Debo tratar posibles disparadores como prueba?
 
-No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infeccion, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser utiles para conversar sin probar causa.
+No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa.
 
-### Cuando debo buscar atencion de emergencia?
+### ¿Cuándo debo buscar atención de emergencia?
 
-Busca ayuda de emergencia ante sintomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, sintomas fuertes de presion baja o si tu medico te indico usar medicacion de emergencia.
+Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia.
 
-### Zebra es consejo medico?
+### ¿Zebra es consejo médico?
 
-No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atencion medica.
+No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica.

@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "shower-and-bath-symptom-tracker-for-pots"
-title: "Registro de sintomas en ducha y bano para POTS: que anotar"
+title: "Registro de síntomas en ducha y baño para POTS: que anotar"
 status: "published"
-subtitle: "Las notas sobre la ducha son mas utiles cuando temperatura del agua, tiempo de pie, apoyo para sentarse, movimiento de brazos, mareo, frecuencia cardiaca, palpitaciones, nauseas, sudoracion, hidratacion, sal, recuperacion e impacto diario quedan conectados. El objetivo no es demostrar una unica causa. El objetivo es llevar patrones cotidianos mas claros a su clinico."
-description: "Aprenda que anotar en un registro de sintomas de ducha y bano para POTS, disautonomia, intolerancia al calor, mareo, palpitaciones, hidratacion, sal, recuperacion y visitas medicas."
-excerpt: "Una guia practica para registrar sintomas en ducha y bano, temperatura del agua, tiempo de pie, apoyo para sentarse, mareo, frecuencia cardiaca, palpitaciones, nauseas, sudoracion, recuperacion y resumenes para consulta."
+subtitle: "Las notas sobre la ducha son más útiles cuando temperatura del agua, tiempo de pie, apoyo para sentarse, movimiento de brazos, mareo, frecuencia cardíaca, palpitaciones, nauseas, sudoración, hidratación, sal, recuperación e impacto diario quedan conectados. El objetivo no es demostrar una única causa. El objetivo es llevar patrones cotidianos más claros a su clínico."
+description: "Aprenda que anotar en un registro de síntomas de ducha y baño para POTS, disautonomía, intolerancia al calor, mareo, palpitaciones, hidratación, sal, recuperación y visitas médicas."
+excerpt: "Una guía práctica para registrar síntomas en ducha y baño, temperatura del agua, tiempo de pie, apoyo para sentarse, mareo, frecuencia cardíaca, palpitaciones, nauseas, sudoración, recuperación y resumenes para consulta."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,32 +16,32 @@ reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Disautonomia"
 category: "Registro de sintomas"
-primaryKeyword: "registro sintomas ducha POTS"
-seoTitle: "Registro de sintomas de ducha para POTS | Zebra"
-metaDescription: "Registre sintomas en ducha y bano con temperatura del agua, tiempo de pie, mareo, frecuencia cardiaca, palpitaciones, hidratacion, sal, recuperacion e impacto."
-ogTitle: "Registro de sintomas en ducha y bano para POTS"
-ogDescription: "Registre sintomas con duchas calientes, tiempo de pie, mareo, palpitaciones, hidratacion, sal, recuperacion y notas listas para el medico."
+primaryKeyword: "registro síntomas ducha POTS"
+seoTitle: "Registro de síntomas de ducha para POTS | Zebra"
+metaDescription: "Registre síntomas en ducha y baño con temperatura del agua, tiempo de pie, mareo, frecuencia cardíaca, palpitaciones, hidratación, sal, recuperación e impacto."
+ogTitle: "Registro de síntomas en ducha y baño para POTS"
+ogDescription: "Registre síntomas con duchas calientes, tiempo de pie, mareo, palpitaciones, hidratación, sal, recuperación y notas listas para el médico."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Pantalla de seguimiento diario de Zebra con sintomas, hidratacion, notas y contexto del dia."
+heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener sintomas de ducha, calor, tiempo de pie, hidratacion, sal, frecuencia cardiaca, recuperacion y preguntas para la consulta en una misma linea de tiempo."
-categories:
-  - "Registro de sintomas"
-  - "Disautonomia"
+ctaNote: "Use Zebra para mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, frecuencia cardíaca, recuperación y preguntas para la consulta en una misma linea de tiempo."
+categories: 
+  - "Registro de síntomas"
+  - "Disautonomía"
   - "POTS"
-  - "Preparacion de consulta"
-tags:
-  - "sintomas de ducha"
+  - "Preparación de consulta"
+tags: 
+  - "síntomas de ducha"
   - "ducha caliente"
   - "POTS"
-  - "disautonomia"
+  - "disautonomía"
   - "intolerancia al calor"
-  - "preparacion de consulta"
-entities:
+  - "preparación de consulta"
+entities: 
   - "POTS"
-  - "Disautonomia"
-  - "Intolerancia ortostatica"
+  - "Disautonomía"
+  - "Intolerancia ortostática"
   - "Intolerancia al calor"
   - "Mareo"
   - "Aturdimiento"
@@ -50,59 +50,59 @@ entities:
   - "Palpitaciones"
   - "Nauseas"
   - "Fatiga"
-  - "Hidratacion"
+  - "Hidratación"
   - "Sal"
-  - "Registro de medicacion"
+  - "Registro de medicación"
   - "Impacto funcional"
-  - "Informe listo para el medico"
-secondaryKeywords:
-  - "ducha caliente sintomas POTS"
-  - "registro ducha disautonomia"
-  - "registrar mareo despues de ducha"
-  - "diario de sintomas en bano"
-schemaTypes:
+  - "Informe listo para el médico"
+secondaryKeywords: 
+  - "ducha caliente síntomas POTS"
+  - "registro ducha disautonomía"
+  - "registrar mareo después de ducha"
+  - "diario de síntomas en baño"
+schemaTypes: 
   - "Article"
   - "HowTo"
   - "FAQPage"
-faq:
-  - question: "Que debo registrar si la ducha desencadena sintomas?"
-    answer: "Registre temperatura del agua, duracion de la ducha, estar de pie o sentado, movimientos de brazos como lavar el pelo, sintomas durante y despues de la ducha, frecuencia cardiaca o presion arterial si ya las mide, hidratacion, sal, acciones para enfriarse, tiempo de recuperacion e impacto diario."
-  - question: "Por que la ducha puede empeorar sintomas de POTS?"
-    answer: "Fuentes sobre POTS describen que los sintomas pueden empeorar en ambientes calidos como duchas o banos calientes y con postura erguida. La ducha puede combinar calor, estar de pie, vapor, movimiento de brazos y pocos liquidos."
-  - question: "Debo medir la frecuencia cardiaca en la ducha?"
-    answer: "Solo si su clinico se lo pidio y es seguro hacerlo. Tambien puede escribir notas utiles sin tomar mediciones en la ducha."
-  - question: "Puede un registro diagnosticar intolerancia a la ducha?"
-    answer: "No. Un registro puede ordenar patrones para revision medica, pero no puede diagnosticar POTS, disautonomia, enfermedad por calor, ansiedad, efectos de medicacion ni otra causa."
-  - question: "Zebra es consejo medico?"
-    answer: "No. Zebra ayuda a ordenar informacion introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atencion medica."
+faq: 
+  - question: "¿Qué debo registrar si la ducha desencadena síntomas?"
+    answer: "Registre temperatura del agua, duración de la ducha, estar de pie o sentado, movimientos de brazos como lavar el pelo, síntomas durante y después de la ducha, frecuencia cardíaca o presión arterial si ya las mide, hidratación, sal, acciones para enfriarse, tiempo de recuperación e impacto diario."
+  - question: "¿Por qué la ducha puede empeorar síntomas de POTS?"
+    answer: "Fuentes sobre POTS describen que los síntomas pueden empeorar en ambientes calidos como duchas o banos calientes y con postura erguida. La ducha puede combinar calor, estar de pie, vapor, movimiento de brazos y pocos líquidos."
+  - question: "¿Debo medir la frecuencia cardíaca en la ducha?"
+    answer: "Solo si su clínico se lo pidio y es seguro hacerlo. También puede escribir notas útiles sin tomar mediciones en la ducha."
+  - question: "¿Puede un registro diagnosticar intolerancia a la ducha?"
+    answer: "No. Un registro puede ordenar patrones para revisión médica, pero no puede diagnosticar POTS, disautonomía, enfermedad por calor, ansiedad, efectos de medicación ni otra causa."
+  - question: "¿Zebra es consejo médico?"
+    answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomia](/es-es/knowledge/dysautonomia/), [intolerancia ortostatica](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migrana o enfermedad cronica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, nauseas, debilidad, sudoracion, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse despues.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, nauseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
 
-Un registro de sintomas de ducha no diagnostica POTS, disautonomia, enfermedad por calor, efectos secundarios de medicacion, ansiedad ni ninguna otra condicion. Le ayuda a llevar un patron cotidiano mas claro a su clinico: que tipo de ducha o bano desencadeno sintomas, que ocurrio, que ayudo y cuanto duro la recuperacion.
+Un registro de síntomas de ducha no diagnostica POTS, disautonomía, enfermedad por calor, efectos secundarios de medicación, ansiedad ni ninguna otra condición. Le ayuda a llevar un patron cotidiano más claro a su clínico: qué tipo de ducha o baño desencadenó síntomas, qué ocurrió, qué ayudó y cuánto duró la recuperación.
 
 ## Empiece Con El Contexto De La Ducha
 
-No necesita un registro perfecto del bano. Empiece por los detalles que pueden explicar por que una ducha fue mas facil o mas dificil que otra.
+No necesita un registro perfecto del baño. Empiece por los detalles que pueden explicar por que una ducha fue más fácil o más dificil que otra.
 
 Registre:
 
-- ducha, bano, lavado de pelo, bano mas ducha o lavado en lavabo
+- ducha, baño, lavado de pelo, baño más ducha o lavado en lavabo
 - temperatura del agua: fria, templada, calida, caliente
-- temperatura del bano o vapor
-- duracion de la ducha
+- temperatura del baño o vapor
+- duración de la ducha
 - de pie, sentado o alternando
 - si lavo el pelo
 - si tuvo los brazos por encima de la cabeza
-- hora del dia
+- hora del día
 - si habia comido
-- contexto de hidratacion y sal
-- horario de medicacion
+- contexto de hidratación y sal
+- horario de medicación
 - si ya estaba en un brote
 
-Ejemplo: "Ducha calida, 14 minutos, de pie todo el tiempo, lave el pelo. Mareo desde el minuto 8. Corazon acelerado despues. Necesite 35 minutos acostada antes de poder vestirme."
+Ejemplo: "Ducha calida, 14 minutos, de pie todo el tiempo, lave el pelo. Mareo desde el minuto 8. Corazon acelerado después. Necesite 35 minutos acostada antes de poder vestirme."
 
-Ese tipo de nota es mas facil de revisar que "las duchas son horribles."
+Ese tipo de nota es más fácil de revisar que "las duchas son horribles."
 
 ## Separe Calor, Estar De Pie Y Movimiento
 
@@ -115,16 +115,16 @@ El patron puede incluir:
 - estar quieto de pie
 - movimiento de brazos al lavar el pelo
 - agacharse, alcanzar o girar
-- pocos liquidos
+- pocos líquidos
 - saltarse una comida
-- horario de medicacion
-- regla, infeccion, migrana o dia de brote
+- horario de medicación
+- regla, infección, migraña o día de brote
 
-Use frases como "agua caliente mas estar de pie" o "lavado de pelo mas movimiento de brazos" en vez de decidir la causa demasiado pronto. Asi la nota sigue siendo util sin convertirse en autodiagnostico.
+Use frases como "agua caliente más estar de pie" o "lavado de pelo más movimiento de brazos" en vez de decidir la causa demasiado pronto. Así la nota sigue siendo útil sin convertirse en autodiagnostico.
 
-## Registre Sintomas Durante Y Despues
+## Registre Síntomas Durante Y Después
 
-Algunos sintomas aparecen en la ducha. Otros aparecen al salir, secarse, vestirse o intentar empezar el dia.
+Algunos síntomas aparecen en la ducha. Otros aparecen al salir, secarse, vestirse o intentar empezar el día.
 
 Registre si noto:
 
@@ -135,112 +135,112 @@ Registre si noto:
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - nauseas
 - temblor
-- sudoracion mayor o menor de lo esperado
+- sudoración mayor o menor de lo esperado
 - falta de aire
 - molestia en el pecho
-- dolor de cabeza o sintomas de migrana
-- vision borrosa
+- dolor de cabeza o síntomas de migraña
+- visión borrosa
 - piernas pesadas
 - debilidad
 - niebla mental
 - fatiga
 
-Si un sintoma es nuevo, intenso, de un solo lado o diferente de su patron habitual, siga las indicaciones de su clinico sobre atencion urgente.
+Si un síntoma es nuevo, intenso, de un solo lado o diferente de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
 
-## Anada Frecuencia Cardiaca O Presion Solo Si Es Seguro
+## Anada Frecuencia Cardíaca O Presión Solo Si Es Seguro
 
-Algunas personas ya registran frecuencia cardiaca o presion arterial como parte de su plan. Si es su caso, lo mas util es anotar posicion y momento.
+Algunas personas ya registran frecuencia cardíaca o presión arterial como parte de su plan. Si es su caso, lo más útil es anotar posición y momento.
 
 Notas posibles:
 
 - antes de la ducha, sentado
 - durante la ducha, si es seguro y ya forma parte de su plan
-- justo despues de la ducha
-- despues de sentarse o acostarse
-- despues de enfriarse
-- cuando los sintomas volvieron a la linea base
+- justo después de la ducha
+- después de sentarse o acostarse
+- después de enfriarse
+- cuando los síntomas volvieron a la linea base
 
-No intente tomar mediciones en un bano resbaladizo si no es seguro. Una nota sencilla como "senti el corazon acelerado despues de 10 minutos de pie en ducha calida" tambien sirve.
+No intente tomar mediciones en un baño resbaladizo si no es seguro. Una nota sencilla como "senti el corazon acelerado después de 10 minutos de pie en ducha calida" también sirve.
 
-## Registre Lo Que Ayudo
+## Registre Lo Que Ayudó
 
-El objetivo no es solo documentar malos momentos. Registre tambien que hizo la ducha mas manejable.
+El objetivo no es solo documentar malos momentos. Registre también que hizo la ducha más manejable.
 
-Contexto util:
+Contexto útil:
 
-- agua mas fresca
-- ducha mas corta
+- agua más fresca
+- ducha más corta
 - sentarse o usar silla de ducha
 - lavar el pelo por separado
 - abrir la puerta o reducir el vapor
 - ventilador o ventilacion
-- beber liquidos antes o despues
+- beber líquidos antes o después
 - electrolitos
-- sal si su clinico la recomendo
-- compresion antes o despues
+- sal si su clínico la recomendo
+- compresión antes o después
 - descansar antes
-- acostarse despues
+- acostarse después
 - cambiar la hora de la ducha
 
-No cambie liquidos, sal, medicacion o compresion basandose solo en una app. Use el patron para hacer mejores preguntas medicas.
+No cambie líquidos, sal, medicación o compresión basandose solo en una app. Use el patron para hacer mejores preguntas médicas.
 
-## Registre Recuperacion E Impacto Diario
+## Registre Recuperación E Impacto Diario
 
-La recuperacion suele ser la parte que se pierde de la memoria.
+La recuperación suele ser la parte que se pierde de la memoria.
 
 Anote:
 
-- cuanto tiempo necesito sentarse o acostarse
+- cuánto tiempo necesito sentarse o acostarse
 - si pudo vestirse enseguida
 - si tuvo que retrasar trabajo, estudios, recados, cocina, conducir, cuidado de ninos o planes
 - si la fatiga o la niebla mental duraron horas
-- si los sintomas volvieron mas tarde
+- si los síntomas volvieron más tarde
 - si necesito ayuda de otra persona
 
-"Me recupere en 10 minutos" y "perdi la manana despues de ducharme" son detalles muy distintos para la consulta.
+"Me recupere en 10 minutos" y "perdi la mañana después de ducharme" son detalles muy distintos para la consulta.
 
-## Que Resumir Antes De La Consulta
+## Qué Resumir Antes De La Consulta
 
-Antes de una consulta de atencion primaria, cardiologia, neurologia, disautonomia, Long COVID, EDS o rehabilitacion, resuma:
+Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitacion, resuma:
 
-- con que frecuencia la ducha desencadena sintomas
+- con qué frecuencia la ducha desencadena síntomas
 - si los banos son distintos de las duchas
 - si el agua caliente es peor que la templada
 - si el tiempo de pie cambia el patron
 - si lavar el pelo es un desencadenante separado
-- hidratacion, sal, comidas y medicacion
-- frecuencia cardiaca o presion si ya las mide
-- que ayudo
-- tiempo de recuperacion
+- hidratación, sal, comidas y medicación
+- frecuencia cardíaca o presión si ya las mide
+- qué ayudó
+- tiempo de recuperación
 - impacto funcional
-- desmayos, dolor de pecho, falta de aire intensa, confusion, lesion o preocupacion por enfermedad por calor
+- desmayos, dolor de pecho, falta de aire intensa, confusión, lesion o preocupacion por enfermedad por calor
 
-Preguntas utiles:
+Preguntas útiles:
 
-- "Podrian el calor, estar de pie o la hidratacion ser parte de este patron?"
-- "Debo registrar frecuencia cardiaca o presion alrededor de las duchas?"
-- "Que estrategias de ducha mas seguras encajan con mi situacion?"
-- "Que sintomas deberian ser urgentes?"
-- "Podrian importar el horario de medicacion, las comidas o la recuperacion?"
+- "Podrian el calor, estar de pie o la hidratación ser parte de este patron?"
+- "Debo registrar frecuencia cardíaca o presión alrededor de las duchas?"
+- "Que estrategias de ducha más seguras encajan con mi situacion?"
+- "Que síntomas deberían ser urgentes?"
+- "Podrian importar el horario de medicación, las comidas o la recuperación?"
 
 ## Contexto De Fuentes
 
-Antecedentes utiles:
+Antecedentes útiles:
 
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [Johns Hopkins Medicine POTS overview](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 - [NHS heatwave guidance](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/)
 - [The Ehlers-Danlos Society dysautonomia overview](https://www.ehlers-danlos.com/dysautonomia/)
 
-## Donde Encaja Zebra
+## Dónde Encaja Zebra
 
-Zebra ayuda a mantener sintomas de ducha, calor, tiempo de pie, hidratacion, sal, medicacion, recuperacion y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, medicación, recuperación y preguntas para la consulta en una misma linea de tiempo.
 
-No diagnostica intolerancia a la ducha ni condiciones autonomicas. Le ayuda a llevar a su clinico un patron de ducha mas claro y listo para consulta.
+No diagnostica intolerancia a la ducha ni condiciones autonomicas. Le ayuda a llevar a su clínico un patron de ducha más claro y listo para consulta.
 
 ## Puntos Clave
 
-- Registre juntos temperatura del agua, duracion, estar de pie o sentado, sintomas, hidratacion, sal, recuperacion e impacto diario.
-- La ducha puede combinar calor, vapor, postura erguida, movimiento de brazos y pocos liquidos.
-- No tome mediciones en el bano si no es seguro; las notas breves tambien cuentan.
-- Un diario constante de ducha puede hacer que un problema cotidiano sea mas facil de explicar en consulta.
+- Registre juntos temperatura del agua, duración, estar de pie o sentado, síntomas, hidratación, sal, recuperación e impacto diario.
+- La ducha puede combinar calor, vapor, postura erguida, movimiento de brazos y pocos líquidos.
+- No tome mediciones en el baño si no es seguro; las notas breves también cuentan.
+- Un diario constante de ducha puede hacer que un problema cotidiano sea más fácil de explicar en consulta.

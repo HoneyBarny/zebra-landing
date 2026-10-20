@@ -1211,9 +1211,9 @@ export const homePageEnglish = {
   layout: 'focused',
   seo: {
     ...homePage.seo,
-    title: 'Symptom Tracker App for POTS, EDS & Fibromyalgia | Zebra',
+    title: 'Symptom Tracker for POTS, EDS & Fibromyalgia | Zebra',
     description:
-      'Check in with one tap, see what changed over the month, and bring a clear summary to your appointment. Free iPhone symptom tracker for chronic illness.',
+      'One-tap check-ins for hard days and a 30-day summary for your appointment. Track symptoms, meds, salt, water and triggers in one iPhone app.',
     ogImageAlt:
       'Zebra appointment preparation screen showing what changed recently and a preview of the 30-day summary.',
   },
@@ -1737,8 +1737,9 @@ export const homePageEnglish = {
 
 export const privacyPage = {
   seo: {
-    title: 'Privacy Policy — Zebra',
-    description: 'Privacy policy for Zebra, a symptom tracker for POTS, EDS, and Fibromyalgia.',
+    title: 'Zebra Privacy Policy: Health Data Stays on Your Device',
+    description:
+      'How Zebra handles your data: app health data stays on your iPhone and in your own iCloud, never on Zebra’s servers. Website ad measurement is opt-in.',
   },
   backHref: siteConfig.routes.home,
   backLabel: 'Back to Zebra',
@@ -1836,8 +1837,9 @@ export const privacyPage = {
 
 export const termsPage = {
   seo: {
-    title: 'Terms of Use — Zebra',
-    description: 'Terms of use for Zebra, a symptom tracker for POTS, EDS, and Fibromyalgia.',
+    title: 'Terms of Use for the Zebra Symptom Tracker | Zebra',
+    description:
+      'Terms for using the Zebra symptom tracker app and website, including the medical disclaimer, subscription terms, free tier and acceptable use.',
   },
   backHref: siteConfig.routes.home,
   backLabel: 'Back to Zebra',
@@ -1908,8 +1910,9 @@ export const termsPage = {
 
 export const supportPage = {
   seo: {
-    title: 'Support — Zebra',
-    description: 'Support resources for Zebra, the symptom tracker for POTS, EDS, and Fibromyalgia.',
+    title: 'Zebra Support: Doctor Report, Subscription & App Help',
+    description:
+      'Get help with Zebra’s doctor report, subscription, or symptom tracker. Email support with a short description of what happened.',
   },
   backHref: siteConfig.routes.home,
   backLabel: 'Back to Zebra',
