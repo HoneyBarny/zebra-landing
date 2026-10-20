@@ -22,22 +22,22 @@ const faqItems = [
   {
     question: '¿Cuál es un buen tracker de síntomas para POTS?',
     answer:
-      'Un buen tracker de POTS debe seguir siendo usable en días de brote y antes de citas. Zebra esta creado para POTS, disautonomía, constantes ortostáticas, sodio/sal, hidratación, frecuencia cardíaca, niebla mental, síntomas e informes para el médico.',
+      'Un buen tracker de POTS debe seguir siendo usable en días de brote y antes de citas. Zebra está creado para POTS, disautonomía, constantes ortostáticas, sodio/sal, hidratación, frecuencia cardíaca, niebla mental, síntomas e informes para el médico.',
   },
   {
     question: '¿Puede Zebra registrar constantes ortostáticas y frecuencia cardíaca?',
     answer:
-      'Si. Zebra puede mantener mediciones tumbada, de pie y de recuperación en la misma linea temporal que síntomas, brotes, medicación, sodio/sal, hidratación, notas y preguntas para la cita.',
+      'Sí. Zebra puede mantener mediciones tumbada, de pie y de recuperación en la misma línea temporal que síntomas, brotes, medicación, sodio/sal, hidratación, notas y preguntas para la cita.',
   },
   {
     question: '¿Puede Zebra ayudarme a preparar una cita?',
     answer:
-      'Si. Zebra mantiene tu historial de síntomas organizado, muestra patrones con el tiempo y exporta un informe para revisar antes de una cita con especialista, cardiología o seguimiento.',
+      'Sí. Zebra mantiene tu historial de síntomas organizado, muestra patrones con el tiempo y exporta un informe para revisar antes de una cita con especialista, cardiología o seguimiento.',
   },
   {
     question: '¿Puedo registrar sodio, hidratación, síntomas y niebla mental juntos?',
     answer:
-      'Si. Zebra mantiene sodio/sal, agua, síntomas, niebla mental, fatiga, medicación, desencadenantes, notas y contexto de brote juntos para revisar mejor el historial después.',
+      'Sí. Zebra mantiene sodio/sal, agua, síntomas, niebla mental, fatiga, medicación, desencadenantes, notas y contexto de brote juntos para revisar mejor el historial después.',
   },
   {
     question: '¿En qué se diferencia Zebra de Notas o de un registro genérico?',
@@ -57,7 +57,7 @@ const faqItems = [
   {
     question: '¿Qué incluye Premium?',
     answer:
-      'La versión gratuita incluye el registro principal y 30 días de historial. Premium desbloquea historial ilimitado, exportacion del informe PDF y el archivo ortostático completo.',
+      'La versión gratuita incluye el registro principal y 30 días de historial. Premium desbloquea vistas de historial más largas y la exportación del informe PDF.',
   },
 ] as const;
 
@@ -108,7 +108,7 @@ export const homePageEsEs = {
     ],
     showcase: heroShowcase.map((item) => ({
       ...item,
-      alt: 'Video de la app Zebra para iPhone mostrando registro de síntomas, preparación de citas e informes para el médico.',
+      alt: 'Vídeo de la app Zebra para iPhone mostrando registro de síntomas, preparación de citas e informes para el médico.',
       label: 'Intro de Zebra',
       meta: 'Mira la app en movimiento',
     })),
@@ -120,36 +120,36 @@ export const homePageEsEs = {
   },
   problem: {
     eyebrow: 'El problema',
-    title: 'Lo dificil no es notar los síntomas. Es explicarlos después.',
-    statement: 'Cuando empieza la cita, la historia esta repartida entre Notas, capturas, trackers a medias y memoria.',
+    title: 'Lo difícil no es notar los síntomas. Es explicarlos después.',
+    statement: 'Cuando empieza la cita, la historia está repartida entre Notas, capturas, trackers a medias y memoria.',
     support:
-      'Por eso un historial real termina pareciendo una suposición, sobre todo cuando la niebla mental dificulta recordar o el peor brote ya paso.',
+      'Por eso un historial real termina pareciendo una suposición, sobre todo cuando la niebla mental dificulta recordar o el peor brote ya pasó.',
     flowLabel: 'Cómo se siente el mes',
     flow: ['Notas', 'Capturas', 'Memoria', 'Zebra'],
     bullets: [
-      'Recuerdas fragmentos, no la linea temporal',
-      'La niebla mental hace más dificil preparar la cita',
-      'Los brotes son dificiles de reconstruir después',
+      'Recuerdas fragmentos, no la línea temporal',
+      'La niebla mental hace más difícil preparar la cita',
+      'Los brotes son difíciles de reconstruir después',
     ],
     // Plain statements, not quotes: see the note on problem.painPoints in site-content.ts.
     painPoints: [
       'Tu historial acaba repartido entre Notas, capturas y memoria.',
-      'Te preparaste y, aun así, el detalle importante se te escapo en la cita.',
+      'Te preparaste y, aun así, el detalle importante se te escapó en la cita.',
       'Nada muestra la imagen completa cuando te lo preguntan en la consulta.',
     ],
   },
   whatZebraTracks: {
-    eyebrow: 'Que registra Zebra',
+    eyebrow: 'Qué registra Zebra',
     title: 'Registra los detalles de POTS y disautonomía que normalmente quedan dispersos.',
     intro:
-      'Zebra mantiene el historial diario corto, estructurado y útil después. En un día dificil, registra solo el brote, síntoma, constante, sodio o niebla mental que importa.',
+      'Zebra mantiene el historial diario corto, estructurado y útil después. En un día difícil, registra solo el brote, síntoma, constante, sodio o niebla mental que importa.',
     items: [
       { title: 'Brotes de POTS y disautonomía', body: 'Registra intensidad, duración, desencadenantes, recuperación y qué cambió para no reconstruir el brote de memoria después.' },
       { title: 'Síntomas y niebla mental', body: 'Mantiene mareo, fatiga, dolor, palpitaciones, niebla mental, notas y síntomas solapados en un historial con fechas.' },
       { title: 'Constantes ortostáticas y frecuencia cardíaca', body: 'Guarda observaciones tumbada, de pie y de recuperación con frecuencia cardíaca y síntomas del mismo día.' },
-      { title: 'Sodio e hidratación', body: 'Registra sodio, sal, agua e hidratación junto a síntomas, dejando las decisiones médicas sobre liquidos y sodio a tu equipo clínico.' },
+      { title: 'Sodio e hidratación', body: 'Registra sodio, sal, agua e hidratación junto a síntomas, dejando las decisiones médicas sobre líquidos y sodio a tu equipo clínico.' },
       { title: 'Medicación y notas', body: 'Anota horario, dosis, efectos, preguntas y cambios para que el contexto de medicación sea más fácil de revisar.' },
-      { title: 'Desencadenantes y contexto del registro', body: 'Captura actividad, estres, infección, calor o notas cuando importan, y saltatelos cuando estas agotada.' },
+      { title: 'Desencadenantes y contexto del registro', body: 'Captura actividad, estrés, infección, calor o notas cuando importan, y sáltatelos cuando estás agotada.' },
       { title: 'Informes PDF para el médico', body: 'Convierte el seguimiento reciente en un resumen de cita claro en vez de una pila de notas desconectadas.' },
     ],
     note: 'Zebra es para seguimiento y preparación de citas. No diagnostica, no trata y no reemplaza la atención médica.',
@@ -158,14 +158,14 @@ export const homePageEsEs = {
     eyebrow: 'Elige tu camino de registro',
     title: 'Empieza por la historia de síntomas que tu cita realmente necesita.',
     intro:
-      'Cada condición crea un tipo distinto de estres antes de una cita. Zebra da a cada camino un punto de partida claro para registrar lo importante sin construir un sistema desde cero.',
+      'Cada condición crea un tipo distinto de estrés antes de una cita. Zebra da a cada camino un punto de partida claro para registrar lo importante sin construir un sistema desde cero.',
     items: [
       {
         label: 'POTS y disautonomía',
         title: 'Registra síntomas al estar de pie con contexto ortostático.',
         body:
           'Usa Zebra como tracker de síntomas de POTS para mareo, palpitaciones, fatiga, brain fog, hidratación, sal, notas de medicación y observaciones acostada-sentada-de pie.',
-        pain: 'Mejor cuando necesitas explicar que pasa después de estar de pie, calor, deshidratación, cambios de medicación o un brote.',
+        pain: 'Mejor cuando necesitas explicar qué pasa después de estar de pie, calor, deshidratación, cambios de medicación o un brote.',
         href: localizedPath(localePath, '/knowledge/pots/'),
         cta: 'Abrir el hub de POTS',
       },
@@ -173,8 +173,8 @@ export const homePageEsEs = {
         label: 'EDS / hEDS',
         title: 'Mantiene dolor, inestabilidad, fatiga y síntomas solapados juntos.',
         body:
-          'Usa Zebra como tracker de síntomas de EDS cuando dolor articular, lesiones, síntomas de disautonomía, fatiga y notas estan demasiado dispersos para resumir rápido.',
-        pain: 'Mejor cuando un especialista pregunta por un sistema del cuerpo, pero tu mes afecto a varios.',
+          'Usa Zebra como tracker de síntomas de EDS cuando dolor articular, lesiones, síntomas de disautonomía, fatiga y notas están demasiado dispersos para resumir rápido.',
+        pain: 'Mejor cuando un especialista pregunta por un sistema del cuerpo, pero tu mes afectó a varios.',
         href: localizedPath(localePath, '/knowledge/eds/'),
         cta: 'Abrir el hub de EDS',
       },
@@ -183,7 +183,7 @@ export const homePageEsEs = {
         title: 'Guarda patrones de brotes antes de que el brain fog borre detalles.',
         body:
           'Usa Zebra como tracker de fibromialgia para dolor, fatiga, contexto de sueño, brain fog, cambios de medicación, desencadenantes e impacto funcional.',
-        pain: 'Mejor cuando dolor y fatiga cambiaron tu día, pero la linea temporal exacta es dificil de reconstruir después.',
+        pain: 'Mejor cuando dolor y fatiga cambiaron tu día, pero la línea temporal exacta es difícil de reconstruir después.',
         href: localizedPath(localePath, '/knowledge/fibromyalgia/'),
         cta: 'Abrir el hub de fibromialgia',
       },
@@ -201,17 +201,17 @@ export const homePageEsEs = {
       'Zebra es una herramienta de organización para historial introducido por la persona. No diagnostica, no trata y no reemplaza la atención médica.',
   },
   comparison: {
-    eyebrow: 'Por que no usar solo Notas?',
-    title: 'Notas, hojas de cálculo y trackers genericos te hacen organizar dos veces.',
+    eyebrow: '¿Por qué no usar solo Notas?',
+    title: 'Notas, hojas de cálculo y trackers genéricos te hacen organizar dos veces.',
     intro:
-      'Pueden guardar fragmentos, pero la cita sigue necesitando una linea temporal clara. Zebra esta pensado para ese salto: del historial diario de síntomas a un informe para el médico.',
-    alternativesLabel: 'Solucion habitual',
+      'Pueden guardar fragmentos, pero la cita sigue necesitando una línea temporal clara. Zebra está pensado para ese salto: del historial diario de síntomas a un informe para el médico.',
+    alternativesLabel: 'Solución habitual',
     zebraLabel: 'Lo que Zebra mantiene conectado',
     items: [
       {
         name: 'Apple Notas',
         problem:
-          'Rápido para una idea, pero dificil de ordenar después por brote, síntoma, cambio de medicación, constantes ortostáticas o pregunta para la cita.',
+          'Rápido para una idea, pero difícil de ordenar después por brote, síntoma, cambio de medicación, constantes ortostáticas o pregunta para la cita.',
         zebra:
           'Zebra mantiene síntomas, brotes, medicación, sal, agua, constantes, desencadenantes, notas y preguntas en una estructura con fechas.',
         href: '/zebra-vs-apple-notes/',
@@ -227,11 +227,11 @@ export const homePageEsEs = {
         cta: 'Comparar Zebra y hojas',
       },
       {
-        name: 'Trackers genericos',
+        name: 'Trackers genéricos',
         problem:
           'Muchos separan constantes, síntomas, medicación y notas, lo que dificulta revisar POTS, EDS e historial con síntomas solapados.',
         zebra:
-          'Zebra esta creado primero para enfermedad invisible, contexto ortostático, síntomas solapados y preparación de citas con especialistas.',
+          'Zebra está creado primero para enfermedad invisible, contexto ortostático, síntomas solapados y preparación de citas con especialistas.',
         href: localizedPath(localePath, '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/'),
         cta: 'Leer la comparación',
       },
@@ -240,23 +240,23 @@ export const homePageEsEs = {
         problem:
           'Las rachas y metas de bienestar pueden hacer que un día de brote parezca un fallo, aunque sea un día importante para documentar.',
         zebra:
-          'Zebra trata el registro como construcción de evidencia, no como autooptimizacion. Un check-in útil es suficiente.',
+          'Zebra trata el registro como construcción de evidencia, no como autooptimización. Un check-in útil es suficiente.',
         href: localizedPath(localePath, '/blog/why-symptom-tracking-fails-on-bad-days/'),
         cta: 'Leer por que falla el registro',
       },
     ],
     note:
-      'El objetivo no es registrar perfectamente. El objetivo es conservar suficiente historial introducido por ti para que la proxima cita empiece con menos suposiciones.',
+      'El objetivo no es registrar perfectamente. El objetivo es conservar suficiente historial introducido por ti para que la próxima cita empiece con menos suposiciones.',
   },
   proofBridge: {
-    eyebrow: 'Que cambia con Zebra',
+    eyebrow: 'Qué cambia con Zebra',
     title: 'De registros de síntomas dispersos a una historia lista para el médico.',
     intro:
-      'Zebra no es solo un registro de síntomas. Es el puente entre un mes dificil y una cita más clara, especialmente cuando POTS, disautonomía, niebla mental, sodio, constantes, medicación y notas de brotes se solapan.',
+      'Zebra no es solo un registro de síntomas. Es el puente entre un mes difícil y una cita más clara, especialmente cuando POTS, disautonomía, niebla mental, sodio, constantes, medicación y notas de brotes se solapan.',
     items: [
-      { label: 'Un cuerpo, una linea temporal', title: 'Los síntomas solapados dejan de vivir en lugares separados.', before: 'Notas de POTS en una app, dolor en otra parte, cambios de medicación en la memoria y capturas enterradas en Fotos.', after: 'Brotes, constantes ortostáticas, medicación, sal, agua, desencadenantes, notas y síntomas solapados quedan conectados.' },
-      { label: 'Prueba bajo presión', title: 'Preparar la cita requiere menos reconstrucción.', before: 'Intentas resumir semanas de síntomas estando cansada, con niebla mental, prisa o miedo a que te descarten otra vez.', after: 'Zebra te da una linea temporal reciente y un informe PDF para que sea más fácil revisar y compartir lo importante.' },
-      { label: 'Amigable en días malos', title: 'Una entrada parcial también cuenta.', before: 'Los días que más importan suelen ser los días con menos energía para escribir, ordenar y explicar.', after: 'Un check-in rápido de brote puede servir por si solo, sin rachas, culpa ni necesidad de ponerse al día perfectamente.' },
+      { label: 'Un cuerpo, una línea temporal', title: 'Los síntomas solapados dejan de vivir en lugares separados.', before: 'Notas de POTS en una app, dolor en otra parte, cambios de medicación en la memoria y capturas enterradas en Fotos.', after: 'Brotes, constantes ortostáticas, medicación, sal, agua, desencadenantes, notas y síntomas solapados quedan conectados.' },
+      { label: 'Prueba bajo presión', title: 'Preparar la cita requiere menos reconstrucción.', before: 'Intentas resumir semanas de síntomas estando cansada, con niebla mental, prisa o miedo a que te descarten otra vez.', after: 'Zebra te da una línea temporal reciente y un informe PDF para que sea más fácil revisar y compartir lo importante.' },
+      { label: 'Amigable en días malos', title: 'Una entrada parcial también cuenta.', before: 'Los días que más importan suelen ser los días con menos energía para escribir, ordenar y explicar.', after: 'Un check-in rápido de brote puede servir por sí solo, sin rachas, culpa ni necesidad de ponerse al día perfectamente.' },
     ],
     note: 'Zebra organiza historial introducido por la persona para conversaciones médicas. No diagnostica, no trata ni promete que concluira un clínico.',
   },
@@ -272,17 +272,17 @@ export const homePageEsEs = {
     flow: ['Historial de 30 días', 'Patrones', 'PDF para el médico', 'Cita'],
     bullets: [
       'Síntomas, brotes, medicación y desencadenantes en un historial con fechas',
-      'Constantes ortostáticas e hidratación junto a la linea temporal',
+      'Constantes ortostáticas e hidratación junto a la línea temporal',
       'Notas guardadas antes de que la niebla mental borre detalles',
       'Preguntas que merece la pena hablar antes de que acabe la cita',
     ],
     preview: {
       eyebrow: 'Vista previa',
-      title: 'Que incluye el informe para el médico',
+      title: 'Qué incluye el informe para el médico',
       body:
         'Un resumen claro para la cita creado a partir del historial que has registrado.',
       items: [
-        { label: 'Linea temporal de síntomas', body: 'Cambios con fecha, brotes y frecuencia de síntomas.' },
+        { label: 'Línea temporal de síntomas', body: 'Cambios con fecha, brotes y frecuencia de síntomas.' },
         { label: 'Constantes ortostáticas', body: 'Observaciones tumbada, de pie y de recuperación junto a los síntomas.' },
         { label: 'Medicación, hidratación y sal', body: 'Contexto que ayuda a explicar qué cambió alrededor de un brote.' },
         { label: 'Notas y preguntas', body: 'Contexto de síntomas y preguntas importantes para la cita.' },
@@ -297,10 +297,10 @@ export const homePageEsEs = {
     proofTitle: 'El informe médico es lo que da valor al registro.',
     proofBody:
       'Los registros diarios sirven cuando te ayudan a prepararte, explicar qué cambió y entregar un resumen que un especialista pueda revisar rápido.',
-    outcomesLabel: 'Que tienes después de 30 días',
+    outcomesLabel: 'Qué tienes después de 30 días',
     outcomes: [
       'Un historial de síntomas más claro en vez de notas dispersas',
-      'Una linea temporal de brotes, cambios y notas',
+      'Una línea temporal de brotes, cambios y notas',
       'Contexto sobre desencadenantes, medicación y cambios ortostáticos',
       'Un informe para revisar o compartir antes de la cita',
     ],
@@ -314,7 +314,7 @@ export const homePageEsEs = {
       {
         label: 'Con Zebra',
         title: 'Llegar con el historial ya hecho',
-        points: ['Revisar la linea temporal', 'Exportar el informe', 'Usar la cita para hablar, no para reconstruir'],
+        points: ['Revisar la línea temporal', 'Exportar el informe', 'Usar la cita para hablar, no para reconstruir'],
       },
     ],
     ctaNote: 'Registra gratis. Exporta tu informe con Premium.',
@@ -330,16 +330,16 @@ export const homePageEsEs = {
     eyebrow: 'Preparación de cita',
     title: 'Siete días antes de la visita, registra las partes que no quieres reconstruir de memoria.',
     intro:
-      'Zebra te ayuda a convertir la semana antes de una cita en una historia más clara: qué cambió, qué se repitió, qué afectó la vida diaria y qué quieres preguntar mientras estas en la consulta.',
-    checklistTitle: 'Que capturar primero',
+      'Zebra te ayuda a convertir la semana antes de una cita en una historia más clara: qué cambió, qué se repitió, qué afectó la vida diaria y qué quieres preguntar mientras estás en la consulta.',
+    checklistTitle: 'Qué capturar primero',
     checklist: [
       { label: 'Brotes recientes', body: 'Registra gravedad, duración y qué cambió para que los peores días no desaparezcan cuando el brote pasa.' },
       { label: 'Síntomas principales', body: 'Elige los síntomas que más importan en vez de intentar documentar cada sensación perfectamente.' },
       { label: 'Cambios de medicamentos', body: 'Mantiene horarios, notas de dosis, efectos secundarios y preguntas junto al historial de síntomas.' },
       { label: 'Sal, agua y contexto', body: 'Registra hidratación y sal junto a síntomas cuando sean relevantes para tu plan de cuidado.' },
       { label: 'Signos ortostáticos', body: 'Guarda observaciones acostada, sentada y de pie con los síntomas y notas del mismo día.' },
-      { label: 'Impacto funcional', body: 'Captura que cambiaron los síntomas sobre estar de pie, trabajar, estudiar, dormir, hacer recados o recuperarte.' },
-      { label: 'Preguntas para la consulta', body: 'Escribe las preguntas que no quieres que borren el brain fog, el estres o una cita corta.' },
+      { label: 'Impacto funcional', body: 'Captura qué cambiaron los síntomas sobre estar de pie, trabajar, estudiar, dormir, hacer recados o recuperarte.' },
+      { label: 'Preguntas para la consulta', body: 'Escribe las preguntas que no quieres que borren el brain fog, el estrés o una cita corta.' },
     ],
     pathsTitle: 'Ejemplos por condición',
     paths: [
@@ -349,21 +349,21 @@ export const homePageEsEs = {
     ],
     samplePreview: {
       eyebrow: 'Informe de ejemplo',
-      title: 'Como puede verse una vista de cita de una página',
+      title: 'Cómo puede verse una vista de cita de una página',
       meta: 'Solo ejemplo, con datos ficticios.',
       rows: [
         { label: 'Cambio principal', value: 'Más mareo y fatiga después de tareas cortas de pie' },
         { label: 'Brotes recientes', value: '3 días de brote notables, recuperación más lenta que lo habitual' },
         { label: 'Contexto', value: 'Cambio de medicamento, menor hidratación, dos días de calor' },
-        { label: 'Pregunta en cita', value: 'Que debería registrar antes del proximo seguimiento?' },
+        { label: 'Pregunta en cita', value: '¿Qué debería registrar antes del próximo seguimiento?' },
       ],
-      note: 'La vista previa del informe no es un diagnóstico. Muestra como Zebra puede ordenar historial introducido por la persona para una conversación más clara.',
+      note: 'La vista previa del informe no es un diagnóstico. Muestra cómo Zebra puede ordenar historial introducido por la persona para una conversación más clara.',
     },
     note:
       'Usa esto como ayuda de organización, no como lista diagnóstica. Zebra no diagnostica, no trata y no dice que debería concluir un clínico.',
   },
   howItWorks: {
-    eyebrow: 'Como funciona Zebra',
+    eyebrow: 'Cómo funciona Zebra',
     title: 'Tres pasos sencillos, incluso en días de poca energía.',
     intro: 'El flujo se mantiene corto en días malos y se vuelve más útil a medida que se acerca la cita.',
     timeline: ['Registra síntomas y contexto', 'Ve patrones con el tiempo', 'Exporta o revisa el informe'],
@@ -374,7 +374,7 @@ export const homePageEsEs = {
       },
       {
         label: 'Ve patrones con el tiempo',
-        body: 'Mantiene las constantes ortostáticas y el contexto diario en la misma linea temporal para revisarlo mejor después.',
+        body: 'Mantiene las constantes ortostáticas y el contexto diario en la misma línea temporal para revisarlo mejor después.',
       },
       {
         label: 'Exporta o revisa un informe para el médico',
@@ -393,23 +393,23 @@ export const homePageEsEs = {
       { ...screenshotStory.dailyTracking, label: 'Check-in diario', meta: 'Síntomas, desencadenantes, hidratación, medicación', title: 'Check-in diario', body: 'Registra síntomas, desencadenantes, hidratación, medicación y notas.' },
       { ...screenshotStory.orthostaticTest, label: 'Evidencia ortostática', meta: 'Test ortostático dentro del flujo de informe', title: 'Evidencia ortostática', body: 'Mantiene las constantes por posición conectadas con el resto del día.' },
       { ...screenshotStory.trends, label: 'Historial de patrones', meta: 'Los patrones se convierten en historial útil', title: 'Historial de patrones', body: 'Observa patrones repetidos y conclusiones guardadas con el tiempo.' },
-      { ...screenshots.todaySummary, meta: 'Resumen de hoy', title: 'Resumen de hoy', body: 'Comprueba el patron actual sin reconstruir toda la historia.' },
+      { ...screenshots.todaySummary, meta: 'Resumen de hoy', title: 'Resumen de hoy', body: 'Comprueba el patrón actual sin reconstruir toda la historia.' },
     ],
   },
   dailyTracking: {
     ...homePage.dailyTracking,
     eyebrow: 'Creada para días de brote',
-    title: 'En un día dificil, un check-in rápido basta.',
-    intro: 'Zebra esta pensada para seguir siendo usable con mareo, agotamiento, niebla mental o dolor.',
+    title: 'En un día difícil, un check-in rápido basta.',
+    intro: 'Zebra está pensada para seguir siendo usable con mareo, agotamiento, niebla mental o dolor.',
     body: [
       'Abre Zebra, toca lo que cambió y vuelve a tu día. Sin configuración en blanco. Sin deberes de bienestar. Sin rachas. El objetivo es tener un historial útil, no pasar más tiempo en la app.',
     ],
-    momentLabel: 'Que pasa en menos de un minuto',
+    momentLabel: 'Qué pasa en menos de un minuto',
     sequence: ['Abre Zebra', 'Toca lo que cambió', 'Vuelve a tu día'],
     bullets: ['Brotes y síntomas', 'Medicación y notas', 'Sal, agua y desencadenantes'],
     cards: [
-      { eyebrow: 'Por que pesa menos', title: 'Con estructura desde el principio', body: 'No tienes que inventar el sistema antes de empezar.' },
-      { eyebrow: 'Por que importa después', title: 'Todo queda en una linea temporal', body: 'Eso es lo que hace posible el informe para el médico.' },
+      { eyebrow: 'Por qué pesa menos', title: 'Con estructura desde el principio', body: 'No tienes que inventar el sistema antes de empezar.' },
+      { eyebrow: 'Por qué importa después', title: 'Todo queda en una línea temporal', body: 'Eso es lo que hace posible el informe para el médico.' },
     ],
     ctaLabel: 'Empieza a registrar hoy',
     ctaNote: 'Un solo lugar tranquilo para el historial diario.',
@@ -429,15 +429,15 @@ export const homePageEsEs = {
       'Zebra mantiene las mediciones tumbada, de pie y de recuperación conectadas con tus síntomas en lugar de separarlas en otra app.',
     ],
     momentLabel: 'La secuencia guiada',
-    sequence: ['Tumbarse', 'Ponerse de pie', 'Volver a tumbarse', 'Guardar en la misma linea temporal'],
+    sequence: ['Tumbarse', 'Ponerse de pie', 'Volver a tumbarse', 'Guardar en la misma línea temporal'],
     bullets: [
       'Flujo guiado tumbada, de pie y recuperación',
-      'La misma linea temporal que síntomas y medicación',
+      'La misma línea temporal que síntomas y medicación',
       'Más fácil de revisar después con contexto',
     ],
     cards: [
-      { eyebrow: 'Por que ayuda', title: 'Tus numeros no quedan aislados', body: 'El médico puede verlos junto al resto del día.' },
-      { eyebrow: 'Por que importa', title: 'Menos saltos, más claridad', body: 'No tienes que moverte entre varias herramientas de salud.' },
+      { eyebrow: 'Por qué ayuda', title: 'Tus números no quedan aislados', body: 'El médico puede verlos junto al resto del día.' },
+      { eyebrow: 'Por qué importa', title: 'Menos saltos, más claridad', body: 'No tienes que moverte entre varias herramientas de salud.' },
     ],
     ctaLabel: 'Ver cómo se forma el informe',
     ctaNote: 'Las constantes son útiles porque se mantienen conectadas.',
@@ -449,34 +449,34 @@ export const homePageEsEs = {
     },
   },
   searchContent: {
-    eyebrow: 'Por que Zebra es diferente',
+    eyebrow: 'Por qué Zebra es diferente',
     title: 'Creada para enfermedad invisible — POTS, EDS y fibromialgia.',
     intro:
-      'La mayoría de trackers te hacen crear tu propio sistema o tratan el cuerpo como un proyecto de bienestar. Zebra esta creada para una tarea más dificil: registrar POTS, disautonomía, EDS, fibromialgia, niebla mental, brotes, constantes ortostáticas, sodio, hidratación y síntomas solapados cuando ya estas cansada.',
+      'La mayoria de trackers te hacen crear tu propio sistema o tratan el cuerpo como un proyecto de bienestar. Zebra está creada para una tarea más difícil: registrar POTS, disautonomía, EDS, fibromialgia, niebla mental, brotes, constantes ortostáticas, sodio, hidratación y síntomas solapados cuando ya estás cansada.',
     answer:
       'Zebra es un tracker de síntomas para iPhone pensado para enfermedad invisible. Mantiene síntomas, brotes, constantes ortostáticas, frecuencia cardíaca, medicación, sodio, agua, desencadenantes, notas y preparación de citas en un mismo historial para crear prueba para la consulta. El objetivo no es diagnosticar. El objetivo es menos trabajo de memoria y un informe más claro.',
-    differencesTitle: 'Por que usar Zebra en vez de Notas, hojas de cálculo o un tracker genérico?',
+    differencesTitle: '¿Por qué usar Zebra en vez de Notas, hojas de cálculo o un tracker genérico?',
     differences: [
-      { label: 'Estructura', generic: 'Notas y hojas empiezan en blanco, así que tienes que inventar el sistema cuando ya estas cansada.', zebra: 'Zebra da estructura desde el inicio: brotes, síntomas, desencadenantes, medicación, sal, agua, constantes ortostáticas y notas.' },
-      { label: 'Tracking ortostático', generic: 'Los trackers genericos suelen separar constantes y síntomas, lo que dificulta revisar POTS y disautonomía después.', zebra: 'Zebra mantiene mediciones tumbada, de pie y de recuperación junto a la linea temporal de síntomas y el contexto diario.' },
+      { label: 'Estructura', generic: 'Notas y hojas empiezan en blanco, así que tienes que inventar el sistema cuando ya estás cansada.', zebra: 'Zebra da estructura desde el inicio: brotes, síntomas, desencadenantes, medicación, sal, agua, constantes ortostáticas y notas.' },
+      { label: 'Tracking ortostático', generic: 'Los trackers genéricos suelen separar constantes y síntomas, lo que dificulta revisar POTS y disautonomía después.', zebra: 'Zebra mantiene mediciones tumbada, de pie y de recuperación junto a la línea temporal de síntomas y el contexto diario.' },
       { label: 'Preparación de citas', generic: 'Un mes de notas puede terminar en una explicación apresurada cuando el médico pregunta qué cambió.', zebra: 'Zebra convierte historial introducido por ti en un informe de síntomas para especialistas y cardiología.' },
       { label: 'Privacidad', generic: 'Muchas herramientas de salud requieren cuenta, sincronizan por un servicio o son más amplias que el problema que necesitas resolver.', zebra: 'Zebra es privada por diseño y se centra en tu propio historial para conversaciones médicas.' },
-      { label: 'Días de brote', generic: 'Las apps de bienestar y habitos pueden hacer que registrar parezca otra tarea fallida.', zebra: 'Zebra esta pensada para días con mareo, agotamiento, niebla mental o dolor, donde un check-in rápido basta.' },
+      { label: 'Días de brote', generic: 'Las apps de bienestar y habitos pueden hacer que registrar parezca otra tarea fallida.', zebra: 'Zebra está pensada para días con mareo, agotamiento, niebla mental o dolor, donde un check-in rápido basta.' },
     ],
     conditionsTitle: 'Creada primero para POTS, EDS y disautonomía, con apoyo para condiciones solapadas.',
-    conditionsIntro: 'Zebra es más útil cuando los síntomas se solapan, cambian con la postura o actividad y son dificiles de resumir antes de una cita.',
+    conditionsIntro: 'Zebra es más útil cuando los síntomas se solapan, cambian con la postura o actividad y son difíciles de resumir antes de una cita.',
     conditions: [
       { name: 'Tracker de síntomas POTS', body: 'Registra síntomas al estar de pie, frecuencia cardíaca, hidratación, sodio, brotes, niebla mental y notas de test ortostático antes de cardiología o especialista.' },
-      { name: 'Tracker de síntomas de disautonomía', body: 'Mantiene síntomas autonomicos, cambios de postura, desencadenantes, medicación, constantes y notas en una linea temporal.' },
+      { name: 'Tracker de síntomas de disautonomía', body: 'Mantiene síntomas autonómicos, cambios de postura, desencadenantes, medicación, constantes y notas en una línea temporal.' },
       { name: 'Seguimiento de EDS y hEDS', body: 'Registra dolor, fatiga, síntomas solapados y notas para explicar mejor la variabilidad después.' },
-      { name: 'Tracker de fibromialgia', body: 'Registra dolor, fatiga, niebla mental, brotes, medicación e impacto diario dificil de reconstruir.' },
+      { name: 'Tracker de fibromialgia', body: 'Registra dolor, fatiga, niebla mental, brotes, medicación e impacto diario difícil de reconstruir.' },
       { name: 'Tracker de Long COVID', body: 'Captura fatiga, mareo, niebla mental, síntomas ortostáticos, cambios de actividad y patrones entre citas.' },
       { name: 'Diario de síntomas ME/CFS', body: 'Usa check-ins de baja energía para preservar historial de fatiga, empeoramiento post-esfuerzo y recuperación.' },
     ],
     trustTitle: 'Zebra ayuda a organizar historial de salud. No diagnostica ni reemplaza la atención médica.',
-    trustBody: 'Para claridad de busqueda y seguridad médica, Zebra debe entenderse como una herramienta de preparación de citas e historial introducido por la persona. Resume lo que introduces para revisarlo y hablarlo con un clínico.',
+    trustBody: 'Para claridad de búsqueda y seguridad médica, Zebra debe entenderse como una herramienta de preparación de citas e historial introducido por la persona. Resume lo que introduces para revisarlo y hablarlo con un clínico.',
     trustItems: [
-      'No es para diagnóstico, tratamiento, prevencion ni síntomas de emergencia',
+      'No es para diagnóstico, tratamiento, prevención ni síntomas de emergencia',
       'No reemplaza a un médico, especialista ni consejo médico',
       'Mejor para preparar un historial más claro y un informe para citas',
     ],
@@ -490,21 +490,21 @@ export const homePageEsEs = {
       eyebrow: 'Confianza de un vistazo',
       title: 'Privada por diseño. Creada para la niebla mental. Ideal para preparar citas.',
       body:
-        'Zebra ayuda a mantener un historial más claro para citas con especialistas, especialmente cuando los síntomas se solapan y la memoria no es fiable. La app y el hub de conocimiento apoyan la organización personal y las conversaciones con profesionales, no el diagnóstico, el tratamiento, la prevencion ni la venta de datos de salud.',
+        'Zebra ayuda a mantener un historial más claro para citas con especialistas, especialmente cuando los síntomas se solapan y la memoria no es fiable. La app y el hub de conocimiento apoyan la organización personal y las conversaciones con profesionales, no el diagnóstico, el tratamiento, la prevención ni la venta de datos de salud.',
     },
     calmState: {
       eyebrow: 'El estado final',
       title: 'Más preparada. Menos abrumada.',
       body:
-        'El objetivo no es hacer que la enfermedad parezca ordenada. Es que la cita sea más tranquila porque el historial ya esta ahí.',
+        'El objetivo no es hacer que la enfermedad parezca ordenada. Es que la cita sea más tranquila porque el historial ya está ahí.',
     },
     items: [
       { title: 'Privacidad primero', body: 'Los datos de salud de la app se guardan en tu iPhone y pueden sincronizarse con tu cuenta personal de iCloud, según los ajustes de Apple/iCloud y la versión actual de la app. Zebra no requiere una cuenta de Zebra ni utiliza un servidor propio de datos de salud.' },
       { title: 'Mejor para preparar especialistas', body: 'Zebra encaja mejor cuando necesitas un historial más claro antes de cardiología, especialistas o citas de seguimiento.' },
-      { title: 'Tu controlas el historial', body: 'Sin cuenta obligatoria, sin servidor de datos de salud y sin reconstruir tu historia dentro del sistema de otra empresa.' },
+      { title: 'Tú controlas el historial', body: 'Sin cuenta obligatoria, sin servidor de datos de salud y sin reconstruir tu historia dentro del sistema de otra empresa.' },
       { title: 'Amigable con la niebla mental', body: 'Flujos cortos, jerarquía clara y uso de baja energía para días de brote.' },
-      { title: 'Centrada en especialistas', body: 'Construida alrededor de citas, no de autooptimizacion ni rachas de bienestar.' },
-      { title: 'Prudente en lo médico', body: 'Sin diagnóstico, sin consejos de tratamiento, sin promesas de prevencion y sin exagerar lo que significan tus datos.' },
+      { title: 'Centrada en especialistas', body: 'Construida alrededor de citas, no de autooptimización ni rachas de bienestar.' },
+      { title: 'Prudente en lo médico', body: 'Sin diagnóstico, sin consejos de tratamiento, sin promesas de prevención y sin exagerar lo que significan tus datos.' },
       { title: 'No es para emergencias', body: 'Zebra no es una herramienta de emergencia, un comprobador de síntomas ni un reemplazo de atención médica urgente o profesional.' },
       { title: 'Datos introducidos por la persona', body: 'Lo que Zebra resume procede del historial que tu registras y revisas.' },
     ],
@@ -515,22 +515,22 @@ export const homePageEsEs = {
       { label: 'Visita soporte', href: localizedPath(localePath, siteConfig.routes.support) },
     ],
     resources: [
-      { eyebrow: 'Feedback', title: 'Enviar feedback o pedir una función', body: 'Cuentanos que habría Zebra más fácil antes de una cita, especialmente en días de brote.', href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback` },
-      { eyebrow: 'Estandares editoriales', title: 'Ver cómo se revisa el contenido de Zebra', body: 'Conoce el proceso editorial, la política de actualización y los límites del lenguaje médico.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
-      { eyebrow: 'Hub de conocimiento', title: 'Explora conceptos conectados de síntomas y condiciones', body: 'Ve como POTS, disautonomía, niebla mental, fatiga, informes y preparación de citas se conectan en el sitio.', href: localizedPath(localePath, siteConfig.routes.knowledge) },
-      { eyebrow: 'Guías', title: 'Lee primero las guías practicas más útiles', body: 'Compara Zebra con Notas, aprende que registrar y entiende como funciona el informe antes de descargar.', href: localizedPath(localePath, siteConfig.routes.blog) },
+      { eyebrow: 'Feedback', title: 'Enviar feedback o pedir una función', body: 'Cuéntanos que haría Zebra más fácil antes de una cita, especialmente en días de brote.', href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback` },
+      { eyebrow: 'Estándares editoriales', title: 'Ver cómo se revisa el contenido de Zebra', body: 'Conoce el proceso editorial, la política de actualización y los límites del lenguaje médico.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
+      { eyebrow: 'Hub de conocimiento', title: 'Explora conceptos conectados de síntomas y condiciones', body: 'Ve cómo POTS, disautonomía, niebla mental, fatiga, informes y preparación de citas se conectan en el sitio.', href: localizedPath(localePath, siteConfig.routes.knowledge) },
+      { eyebrow: 'Guías', title: 'Lee primero las guías prácticas más útiles', body: 'Compara Zebra con Notas, aprende que registrar y entiende cómo funciona el informe antes de descargar.', href: localizedPath(localePath, siteConfig.routes.blog) },
     ],
     resourcesIntro: {
       eyebrow: 'Confianza editorial',
-      title: 'Como Zebra mantiene su contenido y el hub de conocimiento.',
+      title: 'Cómo Zebra mantiene su contenido y el hub de conocimiento.',
     },
     resourcesCtaLabel: 'Abrir página',
   },
   guides: {
-    eyebrow: 'Guías y paginas por condición',
+    eyebrow: 'Guías y páginas por condición',
     title: 'Sigue explorando las preguntas exactas que la gente se hace antes de descargar un rastreador de síntomas.',
     intro:
-      'Ya sea que estes preparando una cita o busques seguir POTS, EDS y disautonomía con más claridad, estos son los mejores puntos de partida.',
+      'Ya sea que estés preparando una cita o busques seguir POTS, EDS y disautonomía con más claridad, estos son los mejores puntos de partida.',
     items: [
       {
         href: '/es-es/appointment-prep-checklist/',
@@ -560,12 +560,12 @@ export const homePageEsEs = {
       {
         href: '/es-es/doctor-report/',
         label: 'Informe de síntomas para el médico',
-        description: 'Una página que explica como Zebra convierte el historial reciente en un resumen de cita más claro.',
+        description: 'Una página que explica cómo Zebra convierte el historial reciente en un resumen de cita más claro.',
       },
       {
         href: '/es-es/flare-tracker/',
         label: 'Registro de brotes',
-        description: 'Una página para los días dificiles: severidad de síntomas, desencadenantes, notas e historial listo para el informe.',
+        description: 'Una página para los días difíciles: severidad de síntomas, desencadenantes, notas e historial listo para el informe.',
       },
       {
         href: '/es-es/symptom-tracker-for-invisible-illness/',
@@ -583,9 +583,9 @@ export const homePageEsEs = {
     eyebrow: 'Descarga Zebra',
     title: 'Llega a la cita con una historia clara de tus síntomas.',
     body:
-      'Empieza hoy con la versión gratuita. Actualiza a Premium cuando quieras historial ilimitado e informes PDF para el médico.',
-    points: ['Registra a diario', 'Ve el patron', 'Exporta el informe'],
-    pointsLabel: 'Por que descargar Zebra',
+      'Empieza hoy con la versión gratuita. Actualiza a Premium cuando quieras vistas de historial más largas e informes PDF para el médico.',
+    points: ['Registra a diario', 'Ve el patrón', 'Exporta el informe'],
+    pointsLabel: 'Por qué descargar Zebra',
     endState: 'Una cita más tranquila empieza con un historial que no tienes que reconstruir.',
     trustLine: 'Registra gratis · Privada por diseño · Cancela cuando quieras',
   },
@@ -595,7 +595,7 @@ export const homePageEsEs = {
     ariaLabel: 'Descargar Zebra en el App Store',
   },
   footer: {
-    body: 'Zebra es una app de iPhone para registrar síntomas de POTS, disautonomía, EDS, fibromialgia y enfermedades cronicas invisibles solapadas, creada para historiales más claros y citas con especialistas.',
+    body: 'Zebra es una app de iPhone para registrar síntomas de POTS, disautonomía, EDS, fibromialgia y enfermedades crónicas invisibles solapadas, creada para historiales más claros y citas con especialistas.',
     trustLine: 'Privada por diseño. Creada para iPhone. Solo datos introducidos por la persona. No es una herramienta diagnóstica.',
     links: localizedFooterLinks(localePath, {
       blog: 'Guías',
@@ -604,7 +604,7 @@ export const homePageEsEs = {
       fatigue: 'Fatiga',
       dizziness: 'Mareo',
       brainFog: 'Niebla mental',
-      doctorReports: 'Informes medicos',
+      doctorReports: 'Informes médicos',
       authors: 'Autores',
       support: 'Soporte',
       privacy: 'Privacidad',
@@ -620,7 +620,7 @@ export const homePageEsEs = {
     links: localeSwitcherLinks,
   },
   consentBanner: {
-    title: 'Medicion de nuestros anuncios',
+    title: 'Medición de nuestros anuncios',
     body: 'Usamos el pixel de Meta para medir si nuestros anuncios llegan a las personas adecuadas. No se recopila nada sobre tu salud; este sitio no tiene acceso a nada dentro de la app.',
     acceptLabel: 'Aceptar',
     declineLabel: 'Rechazar',
@@ -635,8 +635,8 @@ export const homePageEsEs = {
     faqItems,
     offerDescriptions: {
       free: 'Versión gratuita con funciones principales y 30 días de historial.',
-      monthly: 'Premium mensual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostático completo.',
-      annual: 'Premium anual desbloquea historial ilimitado, exportacion de informe PDF y archivo ortostático completo.',
+      monthly: 'Premium mensual desbloquea vistas de historial más largas y exportación de informe PDF.',
+      annual: 'Premium anual desbloquea vistas de historial más largas y exportación de informe PDF.',
       lifetime: 'Premium lifetime desbloquea Premium con una compra única y sin renovación de suscripción.',
     },
     featureList: [

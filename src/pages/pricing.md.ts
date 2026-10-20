@@ -18,9 +18,8 @@ Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 ## Premium
 
 - $4.99/month or $39.99/year
-- Unlimited history
+- Longer history views (90-day and 6-month)
 - Doctor-ready PDF report export
-- Full orthostatic test archive
 - The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing
 
 ## Important Notes
