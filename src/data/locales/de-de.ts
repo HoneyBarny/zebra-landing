@@ -572,12 +572,12 @@ export const homePageDeDe = {
         description: 'Die zentrale Produktseite fuer POTS-Schuebe, orthostatische Werte, Salz, Wasser, Medikamente und Nachweise fuer den Termin.',
       },
       {
-        href: '/de-de/eds-tracker/',
+        href: '/eds-tracker/',
         label: 'EDS / hEDS-Tracker',
         description: 'Eine Seite fuer EDS-Ueberschneidungssymptome, Schmerz, Erschoepfung, Instabilitaet, unsichtbare Krankheit und Vorbereitung des Arztberichts.',
       },
       {
-        href: '/de-de/fibromyalgia-tracker/',
+        href: '/fibromyalgia-tracker/',
         label: 'Fibromyalgie-Tracker',
         description: 'Eine fokussierte Seite fuer Fibromyalgie-Schuebe, Schmerz, Erschoepfung, Brain Fog, Medikamente und Terminnotizen.',
       },
@@ -592,7 +592,7 @@ export const homePageDeDe = {
         description: 'Eine Seite, die erklaert, wie Zebra den aktuellen Verlauf in eine klarere Terminzusammenfassung verwandelt.',
       },
       {
-        href: '/de-de/flare-tracker/',
+        href: '/flare-tracker/',
         label: 'Schub-Tracker',
         description: 'Eine Seite fuer schwere Tage: Symptomschwere, Ausloeser, Notizen und berichtsfertiger Verlauf.',
       },

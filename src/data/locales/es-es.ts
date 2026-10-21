@@ -543,12 +543,12 @@ export const homePageEsEs = {
         description: 'La página principal para registrar brotes de POTS, constantes ortostáticas, sal, agua, medicamentos y evidencia para la cita.',
       },
       {
-        href: '/es-es/eds-tracker/',
+        href: '/eds-tracker/',
         label: 'Registro de EDS / hEDS',
         description: 'Una página pensada para síntomas de solapamiento de EDS, dolor, fatiga, inestabilidad, enfermedad invisible y preparación del informe médico.',
       },
       {
-        href: '/es-es/fibromyalgia-tracker/',
+        href: '/fibromyalgia-tracker/',
         label: 'Registro de fibromialgia',
         description: 'Una página enfocada en registrar brotes de fibromialgia, dolor, fatiga, niebla mental, medicamentos y notas de citas.',
       },
@@ -563,7 +563,7 @@ export const homePageEsEs = {
         description: 'Una página que explica cómo Zebra convierte el historial reciente en un resumen de cita más claro.',
       },
       {
-        href: '/es-es/flare-tracker/',
+        href: '/flare-tracker/',
         label: 'Registro de brotes',
         description: 'Una página para los días difíciles: severidad de síntomas, desencadenantes, notas e historial listo para el informe.',
       },

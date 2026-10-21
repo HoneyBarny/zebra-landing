@@ -115,7 +115,10 @@ export function categorySlugFromName(name: string) {
   const match = Object.values(categoryMeta).find((category) => category.name === name);
   if (match) return match.slug;
 
-  return categorySlugAliases[name.toLowerCase()] ?? slugify(name);
+  // Aliases are keyed without accents, so "Disautonomía" finds "disautonomia".
+  // Without this, slugify() turns accented names into broken URLs like /category/disautonom-a/.
+  const key = name.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return categorySlugAliases[key] ?? slugify(name);
 }
 
 export function categoryUrlFromName(name: string) {

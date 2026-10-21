@@ -538,12 +538,12 @@ export const homePageFrFr = {
         description: 'La page produit principale pour suivre poussées POTS, constantes orthostatiques, sel, eau, médicaments et preuves pour le rendez-vous.',
       },
       {
-        href: '/fr-fr/eds-tracker/',
+        href: '/eds-tracker/',
         label: 'Suivi EDS / hEDS',
         description: 'Une page adaptée aux symptômes de chevauchement EDS, douleur, fatigue, instabilité, maladie invisible et préparation du rapport médical.',
       },
       {
-        href: '/fr-fr/fibromyalgia-tracker/',
+        href: '/fibromyalgia-tracker/',
         label: 'Suivi fibromyalgie',
         description: 'Une page ciblée pour suivre poussées de fibromyalgie, douleur, fatigue, brain fog, médicaments et notes de rendez-vous.',
       },
@@ -558,7 +558,7 @@ export const homePageFrFr = {
         description: 'Une page qui explique comment Zebra transforme l\'historique récent en un résumé de rendez-vous plus clair.',
       },
       {
-        href: '/fr-fr/flare-tracker/',
+        href: '/flare-tracker/',
         label: 'Suivi des poussées',
         description: 'Une page pour les mauvais jours : sévérité des symptômes, déclencheurs, notes et historique prêt pour le rapport.',
       },

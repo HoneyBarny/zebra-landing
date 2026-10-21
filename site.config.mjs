@@ -6,8 +6,10 @@ export const siteConfig = {
     logo: {
       src: '/zebra-logo.png',
       alt: 'Zebra logo',
+      // zebra-logo.png is 408×358; declaring 64×64 reserved 8px too much
+      // and shifted the whole page when the image loaded (CLS 0.20).
       width: 64,
-      height: 64,
+      height: 56,
     },
   },
   siteUrl: 'https://zebratracker.app',
