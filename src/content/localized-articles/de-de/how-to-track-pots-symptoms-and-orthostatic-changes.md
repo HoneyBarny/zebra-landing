@@ -1,11 +1,11 @@
 ---
 locale: "de-de"
 originalSlug: "how-to-track-pots-symptoms-and-orthostatic-changes"
-title: "So tracken Sie POTS-Symptome und orthostatische Veraenderungen"
+title: "So tracken Sie POTS-Symptome und orthostatische Veränderungen"
 status: "published"
-subtitle: "Um POTS-Symptome gut zu tracken, konzentrieren Sie sich auf die Symptome, die am wichtigsten sind, wann sie auftreten, wie sie sich mit der Position veraendern und was sonst drumherum passiert ist. Ziel ist nicht, endlos Zahlen zu sammeln. Ziel ist ein klarer Verlauf von Symptomen im Aufrechtsein, Schueben und relevantem Kontext, den Sie spaeter pruefen oder zu einem Termin mitbringen koennen."
-description: "Erfahren Sie, wie Sie POTS-Symptome, Veraenderungen im Aufrechtsein, Schuebe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
-excerpt: "Erfahren Sie, wie Sie POTS-Symptome, Veraenderungen im Aufrechtsein, Schuebe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
+subtitle: "Um POTS-Symptome gut zu tracken, konzentrieren Sie sich auf die Symptome, die am wichtigsten sind, wann sie auftreten, wie sie sich mit der Position verändern und was sonst drumherum passiert ist. Ziel ist nicht, endlos Zahlen zu sammeln. Ziel ist ein klarer Verlauf von Symptomen im Aufrechtsein, Schüben und relevantem Kontext, den Sie später prüfen oder zu einem Termin mitbringen können."
+description: "Erfahren Sie, wie Sie POTS-Symptome, Veränderungen im Aufrechtsein, Schübe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
+excerpt: "Erfahren Sie, wie Sie POTS-Symptome, Veränderungen im Aufrechtsein, Schübe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-09-02"
@@ -15,15 +15,15 @@ reviewedAt: "2026-09-02"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "pots symptome tracken"
-seoTitle: "POTS-Symptome und orthostatische Veraenderungen tracken | Zebra"
-metaDescription: "Erfahren Sie, wie Sie POTS-Symptome, Veraenderungen im Aufrechtsein, Schuebe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
+seoTitle: "POTS-Symptome und orthostatische Veränderungen tracken | Zebra"
+metaDescription: "Erfahren Sie, wie Sie POTS-Symptome, Veränderungen im Aufrechtsein, Schübe und relevante Beobachtungen zu Hause in einem klaren Verlauf tracken."
 ogTitle: "So tracken Sie POTS-Symptome"
-ogDescription: "Ein praktischer Ratgeber zum Tracken von Symptomen, Schueben und orthostatischen Veraenderungen, ohne dass der Prozess ueberwaeltigend wird."
+ogDescription: "Ein praktischer Ratgeber zum Tracken von Symptomen, Schüben und orthostatischen Veränderungen, ohne dass der Prozess überwaeltigend wird."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Ratgeber zum Tracken von POTS-Symptomen und orthostatischen Veraenderungen in einer Zeitleiste"
+heroImageAlt: "Ratgeber zum Tracken von POTS-Symptomen und orthostatischen Veränderungen in einer Zeitleiste"
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Nutzen Sie Zebra, um Symptome und Veraenderungen im Aufrechtsein in derselben Zeitleiste zu halten."
+ctaNote: "Nutzen Sie Zebra, um Symptome und Veränderungen im Aufrechtsein in derselben Zeitleiste zu halten."
 featured: false
 categories:
   - "POTS"
@@ -42,7 +42,7 @@ entities:
   - "Dysautonomia"
   - "Symptom Tracking"
 secondaryKeywords:
-  - "orthostatische Veraenderungen"
+  - "orthostatische Veränderungen"
   - "POTS Symptomtagebuch"
   - "Herzfrequenz im Stehen"
 schemaTypes:
@@ -51,48 +51,48 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Welche Symptome sollte ich bei POTS tracken?"
-    answer: "Tracken Sie die Symptome, die am haeufigsten, stoerendsten oder fuer Ihre Versorgung am relevantesten sind, besonders Schwindel, Palpitationen, Fatigue, Brain Fog und Veraenderungen im Aufrechtsein."
+    answer: "Tracken Sie die Symptome, die am häufigsten, störendsten oder für Ihre Versorgung am relevantesten sind, besonders Schwindel, Palpitationen, Fatigue, Brain Fog und Veränderungen im Aufrechtsein."
   - question: "Sollte ich die Herzfrequenz im Stehen zusammen mit Symptomen tracken?"
-    answer: "Wenn es fuer Ihre Versorgung relevant ist, ja. Sie ist oft nuetzlicher, wenn sie mit Symptom- und Positionsnotizen verbunden ist, statt getrennt gespeichert zu werden."
-  - question: "Muss ich jeden Tag einen vollstaendigen orthostatischen Test machen?"
-    answer: "Nein. Viele Menschen profitieren mehr von einer Mischung aus taeglichem Symptomtracking und gelegentlichen strukturierten positionsbezogenen Beobachtungen."
+    answer: "Wenn es für Ihre Versorgung relevant ist, ja. Sie ist oft nützlicher, wenn sie mit Symptom- und Positionsnotizen verbunden ist, statt getrennt gespeichert zu werden."
+  - question: "Muss ich jeden Tag einen vollständigen orthostatischen Test machen?"
+    answer: "Nein. Viele Menschen profitieren mehr von einer Mischung aus täglichem Symptomtracking und gelegentlichen strukturierten positionsbezogenen Beobachtungen."
 ---
 
-Um POTS-Symptome gut zu tracken, konzentrieren Sie sich auf die Symptome, die am wichtigsten sind, wann sie auftreten, wie sie sich mit der Position veraendern und was sonst drumherum passiert ist. Ziel ist nicht, endlos Zahlen zu sammeln. Ziel ist ein klarer Verlauf von Symptomen im Aufrechtsein, Schueben und relevantem Kontext, den Sie spaeter pruefen oder zu einem Termin mitbringen koennen.
+Um POTS-Symptome gut zu tracken, konzentrieren Sie sich auf die Symptome, die am wichtigsten sind, wann sie auftreten, wie sie sich mit der Position verändern und was sonst drumherum passiert ist. Ziel ist nicht, endlos Zahlen zu sammeln. Ziel ist ein klarer Verlauf von Symptomen im Aufrechtsein, Schüben und relevantem Kontext, den Sie später prüfen oder zu einem Termin mitbringen können.
 
-POTS-Tracking wird viel nuetzlicher, wenn Symptome und orthostatische Beobachtungen im selben Verlauf liegen, statt in getrennten Apps oder Screenshots.
+POTS-Tracking wird viel nützlicher, wenn Symptome und orthostatische Beobachtungen im selben Verlauf liegen, statt in getrennten Apps oder Screenshots.
 
 Wenn Sie zu Hause Puls oder Blutdruck erfassen, hilft [POTS-Test zuhause: Schellong-Test-Notizen](/de-de/blog/pots-home-test-notes-heart-rate-blood-pressure/) dabei, diese Werte mit Haltung, Zeitpunkt, Symptomen, Sicherheitskontext und Arztfragen zusammenzuhalten.
 
 ## Was Sie tracken sollten
 
-Nuetzliche POTS-Tracking-Kategorien sind oft:
+Nützliche POTS-Tracking-Kategorien sind oft:
 
 - Schwindel oder Benommenheit
 - schnelle Herzfrequenz oder Palpitationen
 - Fatigue
 - Kurzatmigkeit
 - Zittrigkeit
-- Uebelkeit
+- Übelkeit
 - Brain Fog
 - Belastungsintoleranz
-- Praesynkope
+- Präsynkope
 
-Sie muessen nicht jeden Tag jede moegliche Empfindung tracken. Beginnen Sie mit den Symptomen, die:
+Sie müssen nicht jeden Tag jede mögliche Empfindung tracken. Beginnen Sie mit den Symptomen, die:
 
-- am haeufigsten auftreten
-- sich am staerksten veraendern
+- am häufigsten auftreten
+- sich am stärksten verändern
 - die Funktion am meisten beeinflussen
-- fuer Ihre aktuelle Versorgung am relevantesten sind
+- für Ihre aktuelle Versorgung am relevantesten sind
 
-## Positionsbezogene Veraenderungen tracken
+## Positionsbezogene Veränderungen tracken
 
-Einer der nuetzlichsten Teile des POTS-Trackings ist festzuhalten, ob Symptome sich veraendern, wenn Sie:
+Einer der nützlichsten Teile des POTS-Trackings ist festzuhalten, ob Symptome sich verändern, wenn Sie:
 
 - liegen
 - aufrecht sitzen
 - stehen
-- laenger aufrecht bleiben
+- länger aufrecht bleiben
 
 Das bedeutet nicht, dass jeder Check-in ein kompletter orthostatischer Test sein muss. Es bedeutet, dass Ihr Verlauf erfassen sollte, dass Position eine Rolle spielt.
 
@@ -104,23 +104,23 @@ Hilfreicher Kontext kann sein:
 
 - Hitze
 - schlechter Schlaf
-- Veraenderungen bei Hydration
-- Veraenderungen bei Salz
+- Veränderungen bei Hydration
+- Veränderungen bei Salz
 - Belastung
 - Mahlzeiten
 - Medikamentenzeitpunkt
 
 Das beweist keine Ursache. Es macht Ihren Verlauf leichter interpretierbar.
 
-## Schuebe tracken, nicht nur Durchschnittstage
+## Schübe tracken, nicht nur Durchschnittstage
 
-Wenn Sie nur Durchschnittstage tracken, verpassen Sie moeglicherweise die Tage, die am wichtigsten sind.
+Wenn Sie nur Durchschnittstage tracken, verpassen Sie möglicherweise die Tage, die am wichtigsten sind.
 
-An Schubtagen koennen Sie festhalten:
+An Schubtagen können Sie festhalten:
 
 - Schweregrad
 - Hauptsymptome
-- Funktionsveraenderungen
+- Funktionsveränderungen
 - was sonst passiert ist
 
 ## Relevante Heimmessungen tracken
@@ -135,31 +135,31 @@ Wenn Herzfrequenz- oder Blutdruckbeobachtungen zu Hause Teil Ihrer aktuellen Ver
 ## Was Sie vermeiden sollten
 
 - versuchen Sie nicht, jeden Tag ein langes Tagebuch zu schreiben
-- tracken Sie nicht so viele Kategorien, dass Sie aufhoeren
+- tracken Sie nicht so viele Kategorien, dass Sie aufhören
 - behandeln Sie Tracking zu Hause nicht als Selbstdiagnose
-- halten Sie Symptome und orthostatische Notizen nicht in komplett getrennten Systemen, wenn das die spaetere Uebersicht erschwert
+- halten Sie Symptome und orthostatische Notizen nicht in komplett getrennten Systemen, wenn das die spätere Übersicht erschwert
 
 ## Wo Zebra hineinpasst
 
-Zebra ist dafuer gemacht, Symptome, Schuebe, Medikamente, Hydration, Salz und orthostatische Beobachtungen in einem Verlauf zusammenzuhalten, damit die Geschichte verbunden bleibt. Das ist besonders hilfreich fuer Menschen mit POTS, die auch EDS, Fibromyalgie oder andere ueberschneidende Symptome tracken.
+Zebra ist dafür gemacht, Symptome, Schübe, Medikamente, Hydration, Salz und orthostatische Beobachtungen in einem Verlauf zusammenzuhalten, damit die Geschichte verbunden bleibt. Das ist besonders hilfreich für Menschen mit POTS, die auch EDS, Fibromyalgie oder andere überschneidende Symptome tracken.
 
 ## Wichtigste Punkte
 
-- Tracken Sie Symptome, positionsbezogene Veraenderungen, Kontext und Schuebe zusammen.
+- Tracken Sie Symptome, positionsbezogene Veränderungen, Kontext und Schübe zusammen.
 - Halten Sie den Verlauf einfach genug, um ihn auch an schlechten Tagen zu nutzen.
 - Nutzen Sie Heimmessungen als hilfreichen Kontext, nicht als Selbstdiagnose.
-- Ein verbundener Verlauf ist leichter zu pruefen als mehrere getrennte Tools.
+- Ein verbundener Verlauf ist leichter zu prüfen als mehrere getrennte Tools.
 
 ## FAQ
 
 ### Welche Symptome sollte ich bei POTS tracken?
 
-Tracken Sie die Symptome, die am haeufigsten, stoerendsten oder fuer Ihre Versorgung am relevantesten sind, besonders Schwindel, Palpitationen, Fatigue, Brain Fog und Veraenderungen im Aufrechtsein.
+Tracken Sie die Symptome, die am häufigsten, störendsten oder für Ihre Versorgung am relevantesten sind, besonders Schwindel, Palpitationen, Fatigue, Brain Fog und Veränderungen im Aufrechtsein.
 
 ### Sollte ich die Herzfrequenz im Stehen zusammen mit Symptomen tracken?
 
-Wenn es fuer Ihre Versorgung relevant ist, ja. Sie ist oft nuetzlicher, wenn sie mit Symptom- und Positionsnotizen verbunden ist, statt getrennt gespeichert zu werden.
+Wenn es für Ihre Versorgung relevant ist, ja. Sie ist oft nützlicher, wenn sie mit Symptom- und Positionsnotizen verbunden ist, statt getrennt gespeichert zu werden.
 
-### Muss ich jeden Tag einen vollstaendigen orthostatischen Test machen?
+### Muss ich jeden Tag einen vollständigen orthostatischen Test machen?
 
-Nein. Viele Menschen profitieren mehr von einer Mischung aus taeglichem Symptomtracking und gelegentlichen strukturierten positionsbezogenen Beobachtungen.
+Nein. Viele Menschen profitieren mehr von einer Mischung aus täglichem Symptomtracking und gelegentlichen strukturierten positionsbezogenen Beobachtungen.

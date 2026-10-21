@@ -3,9 +3,9 @@ locale: "de-de"
 originalSlug: "what-does-an-orthostatic-test-help-you-record"
 title: "Was hilft ein orthostatischer Test festzuhalten?"
 status: "published"
-subtitle: "Ein orthostatischer Test hilft festzuhalten, was mit Symptomen und, wenn relevant, Herzfrequenz oder Blutdruck passiert, waehrend Sie verschiedene Positionen durchlaufen, zum Beispiel Liegen, Sitzen und Stehen. Er ist nuetzlich, weil er eine strukturierte Momentaufnahme von Veraenderungen im Aufrechtsein erfasst, statt diese Geschichte in Erinnerung und einzelnen Notizen zu verteilen."
-description: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nuetzlicher sind, wenn sie beim Symptomverlauf bleiben."
-excerpt: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nuetzlicher sind, wenn sie beim Symptomverlauf bleiben."
+subtitle: "Ein orthostatischer Test hilft festzuhalten, was mit Symptomen und, wenn relevant, Herzfrequenz oder Blutdruck passiert, während Sie verschiedene Positionen durchlaufen, zum Beispiel Liegen, Sitzen und Stehen. Er ist nützlich, weil er eine strukturierte Momentaufnahme von Veränderungen im Aufrechtsein erfasst, statt diese Geschichte in Erinnerung und einzelnen Notizen zu verteilen."
+description: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nützlicher sind, wenn sie beim Symptomverlauf bleiben."
+excerpt: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nützlicher sind, wenn sie beim Symptomverlauf bleiben."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-09-02"
@@ -16,14 +16,14 @@ cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "orthostatischer test tracker"
 seoTitle: "Was hilft ein orthostatischer Test festzuhalten? | Zebra"
-metaDescription: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nuetzlicher sind, wenn sie beim Symptomverlauf bleiben."
+metaDescription: "Erfahren Sie, was ein orthostatischer Test festhalten kann und warum positionsbezogene Beobachtungen nützlicher sind, wenn sie beim Symptomverlauf bleiben."
 ogTitle: "Was hilft ein orthostatischer Test festzuhalten?"
-ogDescription: "Eine einfache Erklaerung, was strukturiertes orthostatisches Tracking zu Symptomverlauf und Terminvorbereitung beitraegt."
+ogDescription: "Eine einfache Erklärung, was strukturiertes orthostatisches Tracking zu Symptomverlauf und Terminvorbereitung beitraegt."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Orthostatischer Drei-Positionen-Trackingablauf fuer Symptome und Beobachtungen"
+heroImageAlt: "Orthostatischer Drei-Positionen-Trackingablauf für Symptome und Beobachtungen"
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Nutzen Sie Zebra, wenn Sie orthostatische Beobachtungen im selben Verlauf wie Ihre Symptome halten moechten."
+ctaNote: "Nutzen Sie Zebra, wenn Sie orthostatische Beobachtungen im selben Verlauf wie Ihre Symptome halten möchten."
 featured: false
 categories:
   - "POTS"
@@ -49,81 +49,81 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Was erfasst ein orthostatischer Test?"
-    answer: "Er kann positionsbezogene Symptomveraenderungen und, wenn relevant, zugehoerige Herzfrequenz- oder Blutdruckbeobachtungen festhalten."
-  - question: "Ist ein orthostatischer Test nur fuer POTS?"
-    answer: "Nein. Er ist besonders relevant bei POTS und Dysautonomie, aber das breitere Konzept betrifft Veraenderungen von Symptomen im Aufrechtsein."
+    answer: "Er kann positionsbezogene Symptomveränderungen und, wenn relevant, zugehörige Herzfrequenz- oder Blutdruckbeobachtungen festhalten."
+  - question: "Ist ein orthostatischer Test nur für POTS?"
+    answer: "Nein. Er ist besonders relevant bei POTS und Dysautonomie, aber das breitere Konzept betrifft Veränderungen von Symptomen im Aufrechtsein."
   - question: "Sollte ich orthostatische Beobachtungen mit meinem Symptomverlauf zusammenhalten?"
-    answer: "Ja, wenn es hilft, das Muster klarer zu pruefen und Termine leichter vorzubereiten."
+    answer: "Ja, wenn es hilft, das Muster klarer zu prüfen und Termine leichter vorzubereiten."
 ---
 
-Ein orthostatischer Test hilft festzuhalten, was mit Symptomen und, wenn relevant, Herzfrequenz oder Blutdruck passiert, waehrend Sie verschiedene Positionen durchlaufen, zum Beispiel Liegen, Sitzen und Stehen. Er ist nuetzlich, weil er eine strukturierte Momentaufnahme von Veraenderungen im Aufrechtsein erfasst, statt diese Geschichte in Erinnerung und einzelnen Notizen zu verteilen.
+Ein orthostatischer Test hilft festzuhalten, was mit Symptomen und, wenn relevant, Herzfrequenz oder Blutdruck passiert, während Sie verschiedene Positionen durchlaufen, zum Beispiel Liegen, Sitzen und Stehen. Er ist nützlich, weil er eine strukturierte Momentaufnahme von Veränderungen im Aufrechtsein erfasst, statt diese Geschichte in Erinnerung und einzelnen Notizen zu verteilen.
 
-Zebra beschreibt den Produktpfad fuer diese Aufgabe auf der Seite [Schellong-Test und orthostatische Werte dokumentieren](/de-de/orthostatic-vitals-test/). Wenn Sie konkrete Heimwerte sammeln, erklaert [POTS-Test zuhause: Schellong-Test-Notizen](/de-de/blog/pots-home-test-notes-heart-rate-blood-pressure/), welche Kontextangaben neben Puls, Blutdruck und Symptomen hilfreich sind. Wenn Sie die Beobachtungen spaeter fuer den Termin zusammenfassen wollen, fuehrt der [Symptombericht fuer den Arzt](/de-de/doctor-report/) weiter.
+Zebra beschreibt den Produktpfad für diese Aufgabe auf der Seite [Schellong-Test und orthostatische Werte dokumentieren](/de-de/orthostatic-vitals-test/). Wenn Sie konkrete Heimwerte sammeln, erklärt [POTS-Test zuhause: Schellong-Test-Notizen](/de-de/blog/pots-home-test-notes-heart-rate-blood-pressure/), welche Kontextangaben neben Puls, Blutdruck und Symptomen hilfreich sind. Wenn Sie die Beobachtungen später für den Termin zusammenfassen wollen, führt der [Symptombericht für den Arzt](/de-de/doctor-report/) weiter.
 
-## Wofuer der Test nuetzlich ist
+## Wofür der Test nützlich ist
 
 Im Tracking-Kontext kann ein orthostatischer Test helfen, Folgendes festzuhalten:
 
 - Position
-- Symptome, die sich im Aufrechtsein veraendern
+- Symptome, die sich im Aufrechtsein verändern
 - relevante Herzfrequenzbeobachtungen
 - relevante Blutdruckbeobachtungen
-- wie Sie sich waehrenddessen gefuehlt haben
+- wie Sie sich währenddessen gefühlt haben
 
 Ziel ist nicht, selbst eine Diagnose zu stellen. Ziel ist ein klarerer Verlauf.
 
 ## Warum das wichtig ist
 
-Viele Menschen koennen beschreiben, dass sie sich beim Stehen schlechter fuehlen. Spaeter ist es aber viel schwerer, das klar zu erklaeren, wenn der Verlauf unregelmaessig oder vom restlichen Symptomverlauf getrennt ist.
+Viele Menschen können beschreiben, dass sie sich beim Stehen schlechter fühlen. Später ist es aber viel schwerer, das klar zu erklären, wenn der Verlauf unregelmässig oder vom restlichen Symptomverlauf getrennt ist.
 
 Strukturiertes positionsbezogenes Tracking kann helfen:
 
 - wiederkehrende Muster im Aufrechtsein zu bemerken
 - Beobachtungen in einem Format zu halten
-- nuetzlichere Terminnotizen vorzubereiten
+- nützlichere Terminnotizen vorzubereiten
 
 ## Womit es kombiniert werden sollte
 
-Ein orthostatischer Test ist meist am nuetzlichsten, wenn er neben Folgendem steht:
+Ein orthostatischer Test ist meist am nützlichsten, wenn er neben Folgendem steht:
 
-- taeglichen Symptomen
+- täglichen Symptomen
 - Schubverlauf
 - Medikamenten
 - Hydration und Salzkontext, wenn relevant
 - Auswirkungen auf den Alltag
 
-Das macht aus einer einzelnen Messung einen Teil eines groesseren Verlaufs.
+Das macht aus einer einzelnen Messung einen Teil eines größeren Verlaufs.
 
 ## Was er nicht tut
 
 Ein orthostatischer Test:
 
 - diagnostiziert POTS nicht allein
-- erklaert nicht jedes Symptom
+- erklärt nicht jedes Symptom
 - ersetzt keine klinische Testung
 
-Er ist ein Werkzeug fuer Tracking und Kommunikation.
+Er ist ein Werkzeug für Tracking und Kommunikation.
 
 ## Wo Zebra hineinpasst
 
-Zebra behandelt orthostatische Beobachtungen als Teil derselben Geschichte wie Symptome, Schuebe und Terminvorbereitung. Das ist nuetzlich fuer Menschen, die den positionsbezogenen Verlauf mit dem Rest dessen verbinden moechten, was ihr Koerper getan hat.
+Zebra behandelt orthostatische Beobachtungen als Teil derselben Geschichte wie Symptome, Schübe und Terminvorbereitung. Das ist nützlich für Menschen, die den positionsbezogenen Verlauf mit dem Rest dessen verbinden möchten, was ihr Körper getan hat.
 
 ## Wichtigste Punkte
 
-- Ein orthostatischer Test erfasst, wie Symptome und zugehoerige Beobachtungen sich mit der Position veraendern.
-- Er ist am nuetzlichsten, wenn er im selben Verlauf wie Symptome und aktuelle Geschichte bleibt.
-- Er unterstuetzt Kommunikation und Vorbereitung, nicht Selbstdiagnose.
+- Ein orthostatischer Test erfasst, wie Symptome und zugehörige Beobachtungen sich mit der Position verändern.
+- Er ist am nützlichsten, wenn er im selben Verlauf wie Symptome und aktuelle Geschichte bleibt.
+- Er unterstützt Kommunikation und Vorbereitung, nicht Selbstdiagnose.
 
 ## FAQ
 
 ### Was erfasst ein orthostatischer Test?
 
-Er kann positionsbezogene Symptomveraenderungen und, wenn relevant, zugehoerige Herzfrequenz- oder Blutdruckbeobachtungen festhalten.
+Er kann positionsbezogene Symptomveränderungen und, wenn relevant, zugehörige Herzfrequenz- oder Blutdruckbeobachtungen festhalten.
 
-### Ist ein orthostatischer Test nur fuer POTS?
+### Ist ein orthostatischer Test nur für POTS?
 
-Nein. Er ist besonders relevant bei POTS und Dysautonomie, aber das breitere Konzept betrifft Veraenderungen von Symptomen im Aufrechtsein.
+Nein. Er ist besonders relevant bei POTS und Dysautonomie, aber das breitere Konzept betrifft Veränderungen von Symptomen im Aufrechtsein.
 
 ### Sollte ich orthostatische Beobachtungen mit meinem Symptomverlauf zusammenhalten?
 
-Ja, wenn es hilft, das Muster klarer zu pruefen und Termine leichter vorzubereiten.
+Ja, wenn es hilft, das Muster klarer zu prüfen und Termine leichter vorzubereiten.

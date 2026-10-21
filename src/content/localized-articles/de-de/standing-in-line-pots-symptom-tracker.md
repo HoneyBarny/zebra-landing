@@ -3,8 +3,8 @@ locale: "de-de"
 originalSlug: "standing-in-line-pots-symptom-tracker"
 title: "POTS-Symptomtracker beim Schlange stehen: Was Sie notieren sollten"
 status: "published"
-subtitle: "Notizen zum stillen Stehen sind am hilfreichsten, wenn Zeit aufrecht, Bewegung, Hitze, Fluessigkeit, Salz, Mahlzeiten, Kompression, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Alltagsauswirkung zusammenbleiben. Ziel ist nicht, jede Warteschlange als unsicher zu beweisen. Ziel ist, Ihrem Arzt klarere Muster bei laengerem Stehen zu zeigen."
-description: "Erfahren Sie, was Sie notieren koennen, wenn Schlange stehen POTS- oder Dysautonomie-Symptome ausloest, einschliesslich Stehzeit, Hitze, Fluessigkeit, Salz, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Auswirkung."
+subtitle: "Notizen zum stillen Stehen sind am hilfreichsten, wenn Zeit aufrecht, Bewegung, Hitze, Flüssigkeit, Salz, Mahlzeiten, Kompression, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Alltagsauswirkung zusammenbleiben. Ziel ist nicht, jede Warteschlange als unsicher zu beweisen. Ziel ist, Ihrem Arzt klarere Muster bei längerem Stehen zu zeigen."
+description: "Erfahren Sie, was Sie notieren können, wenn Schlange stehen POTS- oder Dysautonomie-Symptome auslöst, einschliesslich Stehzeit, Hitze, Flüssigkeit, Salz, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Auswirkung."
 excerpt: "Ein praktischer Leitfaden zum Erfassen von Symptomen beim Schlange stehen, Einkaufen, Warten, Pendeln, Hydration, Salz, Kompression, Herzfrequenz, Schwindel, Herzklopfen, Erholung und arztbereiten Zusammenfassungen."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
@@ -18,11 +18,11 @@ cluster: "Dysautonomie"
 category: "Symptomtracking"
 primaryKeyword: "POTS Symptomtracker Schlange stehen"
 seoTitle: "POTS-Symptomtracker beim Schlange stehen | Zebra"
-metaDescription: "Erfassen Sie POTS-Symptome beim Schlange stehen mit Stehzeit, Hitze, Fluessigkeit, Salz, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Auswirkung."
+metaDescription: "Erfassen Sie POTS-Symptome beim Schlange stehen mit Stehzeit, Hitze, Flüssigkeit, Salz, Herzfrequenz, Schwindel, Herzklopfen, Blutpooling, Erholung und Auswirkung."
 ogTitle: "POTS-Symptomtracker beim Schlange stehen"
-ogDescription: "Erfassen Sie Symptome bei laengerem Stehen, Warten, Einkaufen, Hitze, Hydration, Salz, Kompression, Schwindel, Herzklopfen, Blutpooling, Erholung und arztbereite Notizen."
+ogDescription: "Erfassen Sie Symptome bei längerem Stehen, Warten, Einkaufen, Hitze, Hydration, Salz, Kompression, Schwindel, Herzklopfen, Blutpooling, Erholung und arztbereite Notizen."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Zebra Tagestracking-Bildschirm mit Symptomen, Fluessigkeit, Notizen und Tageskontext."
+heroImageAlt: "Zebra Tagestracking-Bildschirm mit Symptomen, Flüssigkeit, Notizen und Tageskontext."
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Nutzen Sie Zebra, um Stehepisoden, Hitze, Hydration, Salz, Kompression, Symptome, Erholung und Terminfragen in einer Zeitleiste zu behalten."
@@ -33,7 +33,7 @@ categories:
   - "Terminvorbereitung"
 tags:
   - "Schlange stehen"
-  - "laengeres Stehen"
+  - "längeres Stehen"
   - "POTS"
   - "Dysautonomie"
   - "Blutpooling"
@@ -56,7 +56,7 @@ entities:
   - "Arztbereiter Bericht"
 secondaryKeywords:
   - "POTS Symptome beim Schlange stehen"
-  - "Symptome bei laengerem Stehen erfassen"
+  - "Symptome bei längerem Stehen erfassen"
   - "Dysautonomie Stehtagebuch"
   - "POTS Einkaufen Symptomtracker"
 schemaTypes:
@@ -64,25 +64,25 @@ schemaTypes:
   - "HowTo"
   - "FAQPage"
 faq:
-  - question: "Was sollte ich erfassen, wenn Schlange stehen Symptome ausloest?"
-    answer: "Erfassen Sie, wie lange Sie aufrecht waren, ob Sie still standen oder sich bewegten, Hitze, Gedraenge, Fluessigkeit, Salz, Mahlzeiten, Kompression, Symptome, Herzfrequenz oder Blutdruck falls bereits gemessen, was half, Erholungszeit und Alltagsauswirkung."
-  - question: "Kann laengeres Stehen POTS-Symptome verschlechtern?"
-    answer: "Ja. POTS-Quellen beschreiben eine Verschlechterung bei Stehen, laengerem Stehen, Einkaufen, Warten, warmen Umgebungen und zu wenig Fluessigkeit oder Salz. Ihr Muster sollte ein Arzt beurteilen."
+  - question: "Was sollte ich erfassen, wenn Schlange stehen Symptome auslöst?"
+    answer: "Erfassen Sie, wie lange Sie aufrecht waren, ob Sie still standen oder sich bewegten, Hitze, Gedränge, Flüssigkeit, Salz, Mahlzeiten, Kompression, Symptome, Herzfrequenz oder Blutdruck falls bereits gemessen, was half, Erholungszeit und Alltagsauswirkung."
+  - question: "Kann längeres Stehen POTS-Symptome verschlechtern?"
+    answer: "Ja. POTS-Quellen beschreiben eine Verschlechterung bei Stehen, längerem Stehen, Einkaufen, Warten, warmen Umgebungen und zu wenig Flüssigkeit oder Salz. Ihr Muster sollte ein Arzt beurteilen."
   - question: "Sollte ich jedes Stehen erfassen?"
-    answer: "Nein. Beginnen Sie mit Episoden, die Ihren Tag veraendert haben: Schlange stehen, Einkaufen, Verkehrsmittel, Veranstaltungen, Kochen, Termine oder lang genug stilles Stehen, um Symptome auszuloesen."
+    answer: "Nein. Beginnen Sie mit Episoden, die Ihren Tag verändert haben: Schlange stehen, Einkaufen, Verkehrsmittel, Veranstaltungen, Kochen, Termine oder lang genug stilles Stehen, um Symptome auszulösen."
   - question: "Kann ein Tracker POTS diagnostizieren?"
-    answer: "Nein. Ein Tracker kann Muster fuer die medizinische Besprechung ordnen, aber POTS, Dysautonomie, niedrigen Blutdruck, Dehydrierung, Angst oder andere Ursachen nicht diagnostizieren."
+    answer: "Nein. Ein Tracker kann Muster für die medizinische Besprechung ordnen, aber POTS, Dysautonomie, niedrigen Blutdruck, Dehydrierung, Angst oder andere Ursachen nicht diagnostizieren."
   - question: "Ist Zebra medizinischer Rat?"
-    answer: "Nein. Zebra hilft, patienteneigene Angaben fuer Termine zu ordnen. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
+    answer: "Nein. Zebra hilft, patienteneigene Angaben für Termine zu ordnen. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Fuer viele Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/), Long COVID, EDS- oder HSD-Ueberschneidung, ME/CFS oder chronischer Erkrankung kann stilles Stehen schwieriger sein als Gehen. Eine Kassenschlange, Wartezeit in Apotheke oder Praxis, Bushaltestelle, Konzertschlange, Sicherheitskontrolle, Schulflur, Kuechentheke oder Wartezimmer kann Schwindel, Herzrasen, Uebelkeit, Zittern, schwere Beine, Brain Fog, Schwitzen, [Blutpooling und Beinverfaerbung](/de-de/blog/blood-pooling-leg-discoloration-symptom-tracker/) oder Beinahe-Ohnmacht ausloesen.
+Für viele Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/), [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/), Long COVID, EDS- oder HSD-Überschneidung, ME/CFS oder chronischer Erkrankung kann stilles Stehen schwieriger sein als Gehen. Eine Kassenschlange, Wartezeit in Apotheke oder Praxis, Bushaltestelle, Konzertschlange, Sicherheitskontrolle, Schulflur, Küchentheke oder Wartezimmer kann Schwindel, Herzrasen, Übelkeit, Zittern, schwere Beine, Brain Fog, Schwitzen, [Blutpooling und Beinverfärbung](/de-de/blog/blood-pooling-leg-discoloration-symptom-tracker/) oder Beinahe-Ohnmacht auslösen.
 
-Ein Symptomtracker fuer das Schlange stehen diagnostiziert kein POTS, keine Dysautonomie, keinen niedrigen Blutdruck, keine Dehydrierung, keine Angst und keine andere Erkrankung. Er hilft Ihnen, ein klareres Muster bei laengerem Stehen zum Arzttermin mitzubringen: wie die Situation war, wie lange sie dauerte, welche Symptome auftraten, was half und was sich im Tag veraenderte.
+Ein Symptomtracker für das Schlange stehen diagnostiziert kein POTS, keine Dysautonomie, keinen niedrigen Blutdruck, keine Dehydrierung, keine Angst und keine andere Erkrankung. Er hilft Ihnen, ein klareres Muster bei längerem Stehen zum Arzttermin mitzubringen: wie die Situation war, wie lange sie dauerte, welche Symptome auftraten, was half und was sich im Tag veränderte.
 
 ## Beginnen Sie Mit Der Stehsituation
 
-Die nuetzlichste Notiz ist oft einfach: wo Sie waren, was Sie getan haben und wie lange Sie aufrecht waren.
+Die nützlichste Notiz ist oft einfach: wo Sie waren, was Sie getan haben und wie lange Sie aufrecht waren.
 
 Erfassen Sie:
 
@@ -90,10 +90,10 @@ Erfassen Sie:
 - Wartezeit in Apotheke, Praxis oder Termin
 - Bus, Bahn, Flughafen oder Fahrdienst
 - Einkaufen
-- Kochen oder Geschirrspuelen
+- Kochen oder Geschirrspülen
 - Veranstaltungsschlange
 - Schul- oder Arbeitsflur
-- Gespraech im Stehen
+- Gespräch im Stehen
 - still stehen oder langsam gehen
 - gesamte Zeit aufrecht
 - ob Sie sich hinsetzen konnten
@@ -106,7 +106,7 @@ Das ist leichter zu besprechen als "Einkaufen hat mich erledigt."
 
 Manche Menschen vertragen langsames Gehen besser als stilles Stehen. Andere reagieren auf beides.
 
-Nuetzliche Unterscheidungen:
+Nützliche Unterscheidungen:
 
 - im Laden herumgehen
 - still in der Schlange stehen
@@ -115,7 +115,7 @@ Nuetzliche Unterscheidungen:
 - stehen in Hitze
 - stehen nach einer Mahlzeit
 - stehen nach schlechtem Schlaf
-- stehen waehrend Periode oder Schub
+- stehen während Periode oder Schub
 
 Das hilft Ihrem Arzt zu sehen, ob vor allem Zeit aufrecht, Stillstand, Hitze, Belastung, Mahlzeiten oder eine Kombination wichtig sind.
 
@@ -130,85 +130,85 @@ Notieren Sie:
 - Beinahe-Ohnmacht oder [Synkope](/de-de/knowledge/syncope/)
 - Herzrasen oder [Tachykardie](/de-de/knowledge/tachycardia/)
 - [Herzklopfen](/de-de/knowledge/palpitations/)
-- Uebelkeit
+- Übelkeit
 - Zittern
 - Schwitzen
 - Atemnot
 - Brustbeschwerden
 - verschwommenes Sehen
-- dumpfes Hoeren
+- dumpfes Hören
 - schwere Beine
-- violette, rote oder geschwollene Fuesse
+- violette, rote oder geschwollene Füße
 - [Brain Fog](/de-de/knowledge/brain-fog/)
 - [Fatigue](/de-de/knowledge/fatigue/)
 
-Wenn Sie Herzfrequenz oder Blutdruck bereits als Teil Ihres Behandlungsplans messen, notieren Sie Position und Zeitpunkt: vor dem Stehen, beim Stehen, nach dem Sitzen oder nach dem Hinlegen. Messen Sie in der Oeffentlichkeit nicht, wenn es unsicher ist oder Symptome verschlechtert.
+Wenn Sie Herzfrequenz oder Blutdruck bereits als Teil Ihres Behandlungsplans messen, notieren Sie Position und Zeitpunkt: vor dem Stehen, beim Stehen, nach dem Sitzen oder nach dem Hinlegen. Messen Sie in der Öffentlichkeit nicht, wenn es unsicher ist oder Symptome verschlechtert.
 
-## Fuegen Sie Hydration, Salz, Mahlzeiten, Hitze Und Kompression Hinzu
+## Fügen Sie Hydration, Salz, Mahlzeiten, Hitze Und Kompression Hinzu
 
-Stehsymptome koennen je nach Kontext anders sein.
+Stehsymptome können je nach Kontext anders sein.
 
-Nuetzliche Notizen:
+Nützliche Notizen:
 
-- Fluessigkeit frueher am Tag
+- Flüssigkeit früher am Tag
 - Elektrolyte
 - Salz, wenn vom Arzt empfohlen
 - ausgelassene Mahlzeit
 - grosse oder kohlenhydratreiche Mahlzeit
 - Koffein oder Alkohol
-- warmer Raum, Sonne, Mantel oder Gedraenge
+- warmer Raum, Sonne, Mantel oder Gedränge
 - Kompressionssocken, Strumpfhose, Bauchbinder oder keine Kompression
 - Medikamentenzeitpunkt
-- kuerzliche Medikamentenaenderung
+- kürzliche Medikamentenänderung
 - Infekt oder Krankheit
 
-Aendern Sie Fluessigkeit, Salz, Kompression oder Medikamente nicht nur anhand eines Trackers. Nutzen Sie das Muster, um bessere Fragen zu stellen.
+Ändern Sie Flüssigkeit, Salz, Kompression oder Medikamente nicht nur anhand eines Trackers. Nutzen Sie das Muster, um bessere Fragen zu stellen.
 
 ## Notieren Sie, Was Geholfen Hat
 
-Erfassen Sie, was Symptome reduziert oder die Aufgabe moeglich gemacht hat.
+Erfassen Sie, was Symptome reduziert oder die Aufgabe möglich gemacht hat.
 
 Beispiele:
 
 - hinsetzen
-- spaeter hinlegen
+- später hinlegen
 - Beine hochlegen
-- kuehlen
+- kühlen
 - Wasser trinken
 - Elektrolyte
 - Snack
-- Fuesse bewegen oder Gewicht verlagern
+- Füße bewegen oder Gewicht verlagern
 - Beine kreuzen
 - Kompression
 - um einen Sitzplatz bitten
 - die Schlange verlassen
-- naechstes Mal Lieferung oder Abholung nutzen
+- nächstes Mal Lieferung oder Abholung nutzen
 
 Es geht nicht darum, die Strategie zu bewerten. Es geht darum zu lernen, was den Alltag sicherer und realistischer macht.
 
 ## Erfassen Sie Erholung Und Alltagsauswirkung
 
-Erholung gehoert zur Episode.
+Erholung gehört zur Episode.
 
 Schreiben Sie:
 
 - wie lange Symptome dauerten
-- ob Sie zum Ausgangsniveau zurueckkamen
-- ob Fatigue, Kopfschmerz, Uebelkeit oder Brain Fog anhielten
+- ob Sie zum Ausgangsniveau zurückkamen
+- ob Fatigue, Kopfschmerz, Übelkeit oder Brain Fog anhielten
 - ob Sie danach Auto gefahren, gekocht, gearbeitet, gelernt, geduscht oder trainiert haben
-- ob Sie Plaene abgesagt haben
+- ob Sie Plänee abgesagt haben
 - ob Sie Hilfe brauchten
 
 "Nach 5 Minuten Sitzen besser" und "der restliche Nachmittag war weg" sind unterschiedliche klinische Details.
 
-## Was Sie Vor Dem Arzttermin Zusammenfassen Koennen
+## Was Sie Vor Dem Arzttermin Zusammenfassen Können
 
-Vor einem Termin bei Hausarzt, Kardiologie, Neurologie, Dysautonomie, Long COVID, EDS oder Reha koennen Sie zusammenfassen:
+Vor einem Termin bei Hausarzt, Kardiologie, Neurologie, Dysautonomie, Long COVID, EDS oder Reha können Sie zusammenfassen:
 
-- welche Stehsituationen Symptome am haeufigsten ausloesen
+- welche Stehsituationen Symptome am häufigsten auslösen
 - nach wie vielen Minuten aufrecht meist Symptome beginnen
 - ob stilles Stehen schlimmer ist als Gehen
-- ob Hitze, Mahlzeiten, Hydration, Salz oder Kompression das Muster veraendern
+- ob Hitze, Mahlzeiten, Hydration, Salz oder Kompression das Muster verändern
 - Herzfrequenz oder Blutdruck, falls bereits gemessen
 - welche Symptome zuerst auftreten
 - was hilft
@@ -216,17 +216,17 @@ Vor einem Termin bei Hausarzt, Kardiologie, Neurologie, Dysautonomie, Long COVID
 - Alltagsauswirkung
 - Ohnmacht, Verletzung, Brustschmerz, starke Atemnot, Verwirrtheit oder neue neurologische Symptome
 
-Nuetzliche Fragen:
+Nützliche Fragen:
 
-- "Koennte das mit orthostatischer Intoleranz oder Blutpooling zusammenhaengen?"
-- "Soll ich Herzfrequenz oder Blutdruck bei laengerem Stehen erfassen?"
-- "Sind Kompression, Fluessigkeit, Salz oder Gegenmanoever fuer mich geeignet?"
+- "Könnte das mit orthostatischer Intoleranz oder Blutpooling zusammenhängen?"
+- "Soll ich Herzfrequenz oder Blutdruck bei längerem Stehen erfassen?"
+- "Sind Kompression, Flüssigkeit, Salz oder Gegenmanöver für mich geeignet?"
 - "Welche Symptome sollten dringend abgeklart werden?"
-- "Koennen wir praktische Anpassungen fuer Schlangen, Einkaufen oder Verkehrsmittel besprechen?"
+- "Können wir praktische Anpassungen für Schlangen, Einkaufen oder Verkehrsmittel besprechen?"
 
 ## Quellenkontext
 
-Hilfreiche Hintergruende:
+Hilfreiche Hintergründe:
 
 - [Johns Hopkins Medicine POTS overview](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
@@ -241,7 +241,7 @@ Es diagnostiziert kein POTS und keine autonomen Erkrankungen. Es hilft Ihnen, de
 
 ## Wichtigste Punkte
 
-- Erfassen Sie Stehzeit, Stillstand versus Bewegung, Symptome, Hitze, Fluessigkeit, Salz, Mahlzeiten, Kompression, Erholung und Alltagsauswirkung zusammen.
-- Stilles Stehen kann sich anders anfuehlen als Gehen; trennen Sie diese Notizen, wenn moeglich.
-- Erfassen Sie Episoden, die Ihren Tag veraendern, nicht jede Sekunde auf den Fuessen.
-- Ein konstantes Tagebuch zum Schlange stehen kann Alltagseinschraenkungen im Termin leichter erklaerbar machen.
+- Erfassen Sie Stehzeit, Stillstand versus Bewegung, Symptome, Hitze, Flüssigkeit, Salz, Mahlzeiten, Kompression, Erholung und Alltagsauswirkung zusammen.
+- Stilles Stehen kann sich anders anfühlen als Gehen; trennen Sie diese Notizen, wenn möglich.
+- Erfassen Sie Episoden, die Ihren Tag verändern, nicht jede Sekunde auf den Füßen.
+- Ein konstantes Tagebuch zum Schlange stehen kann Alltagseinschränkungen im Termin leichter erklärbar machen.

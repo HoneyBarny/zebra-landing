@@ -109,7 +109,7 @@ export const homePageFrFr = {
     })),
     supportCard: {
       eyebrow: 'Le rapport est le résultat',
-      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de memoire.',
+      title: 'Ouvrez Zebra avant le rendez-vous au lieu de reconstruire le mois de mémoire.',
       body: 'Le suivi quotidien des poussées devient une base utile : symptômes, médicaments, sel, eau, constantes orthostatiques et notes organisées dans un rapport.',
     },
   },
@@ -576,7 +576,7 @@ export const homePageFrFr = {
   },
   finalCta: {
     eyebrow: 'Télécharger Zebra',
-    title: 'Arrivez au rendez-vous avec un historique clair de vos symptomes.',
+    title: 'Arrivez au rendez-vous avec un historique clair de vos symptômes.',
     body:
       'Commencez aujourd\'hui avec la version gratuite. Passez à Premium quand vous voulez des vues d\'historique plus longues et des rapports PDF pour le médecin.',
     points: ['Suivre chaque jour', 'Voir la tendance', 'Exporter le rapport'],

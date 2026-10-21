@@ -1,11 +1,11 @@
 ---
 locale: "de-de"
 originalSlug: "why-pots-eds-and-fibromyalgia-often-overlap"
-title: "Warum POTS, EDS und Fibromyalgie sich oft ueberschneiden"
+title: "Warum POTS, EDS und Fibromyalgie sich oft überschneiden"
 status: "published"
-subtitle: "POTS, EDS und Fibromyalgie ueberschneiden sich oft, weil sie Symptome, Alltagsgrenzen und diagnostische Wege teilen koennen, auch wenn sie nicht dieselbe Erkrankung sind. Viele Menschen tracken am Ende Schwindel, Fatigue, Schmerzen, Brain Fog, Funktionsveraenderungen und Schuebe ueber mehr als ein Label gleichzeitig."
-description: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft ueberschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
-excerpt: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft ueberschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
+subtitle: "POTS, EDS und Fibromyalgie überschneiden sich oft, weil sie Symptome, Alltagsgrenzen und diagnostische Wege teilen können, auch wenn sie nicht dieselbe Erkrankung sind. Viele Menschen tracken am Ende Schwindel, Fatigue, Schmerzen, Brain Fog, Funktionsveränderungen und Schübe über mehr als ein Label gleichzeitig."
+description: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft überschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
+excerpt: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft überschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,15 +15,15 @@ reviewedAt: "2026-06-29"
 cluster: "Condition Overlap"
 category: "Condition Overlap"
 primaryKeyword: "pots eds fibromyalgie ueberschneidung"
-seoTitle: "Warum POTS, EDS und Fibromyalgie sich oft ueberschneiden | Zebra"
-metaDescription: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft ueberschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
-ogTitle: "Warum POTS, EDS und Fibromyalgie sich oft ueberschneiden"
-ogDescription: "Eine praktische Erklaerung, warum Ueberschneidung Symptome schwerer trackbar und Behandlungsgespraeche schwerer vorbereitbar macht."
+seoTitle: "Warum POTS, EDS und Fibromyalgie sich oft überschneiden | Zebra"
+metaDescription: "Lernen Sie, warum POTS-, EDS- und Fibromyalgie-Symptome sich oft überschneiden und warum das Tracking und Terminvorbereitung schwerer macht."
+ogTitle: "Warum POTS, EDS und Fibromyalgie sich oft überschneiden"
+ogDescription: "Eine praktische Erklärung, warum Überschneidung Symptome schwerer trackbar und Behandlungsgespräche schwerer vorbereitbar macht."
 heroImage: "/screenshots/insight-history.png"
-heroImageAlt: "Illustration, die Ueberschneidung zwischen POTS-, EDS- und Fibromyalgie-Symptomerfahrungen zeigt"
+heroImageAlt: "Illustration, die Überschneidung zwischen POTS-, EDS- und Fibromyalgie-Symptomerfahrungen zeigt"
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Nutzen Sie Zebra, wenn Ueberschneidung Ein-Erkrankung-Tracking zu begrenzt macht."
+ctaNote: "Nutzen Sie Zebra, wenn Überschneidung Ein-Erkrankung-Tracking zu begrenzt macht."
 featured: false
 categories:
   - "Dysautonomia"
@@ -34,7 +34,7 @@ tags:
   - "EDS"
   - "Fibromyalgie"
   - "Dysautonomie"
-  - "Symptomueberschneidung"
+  - "Symptomüberschneidung"
 entities:
   - "POTS"
   - "Dysautonomia"
@@ -42,95 +42,95 @@ entities:
   - "Brain Fog"
   - "Invisible Illness"
 secondaryKeywords:
-  - "dysautonomie ueberschneidung"
-  - "chronische krankheit ueberschneidung"
+  - "dysautonomie überschneidung"
+  - "chronische krankheit überschneidung"
   - "pots und fibro"
 schemaTypes:
   - "Article"
   - "FAQPage"
 faq:
-  - question: "Ist es haeufig, POTS-, EDS- und Fibromyalgie-Symptome zusammen zu haben?"
-    answer: "Viele Patientinnen, Patienten und Communities berichten Symptomueberschneidungen zwischen diesen Erkrankungen. Das ist ein Grund, warum Tracking und Terminvorbereitung so kompliziert werden koennen."
-  - question: "Bedeutet Ueberschneidung, dass die Erkrankungen gleich sind?"
-    answer: "Nein. Sie sind nicht dieselbe Erkrankung, aber sie koennen sich in Symptomen und darin ueberschneiden, wie Menschen Alltagsgrenzen erleben."
-  - question: "Was sollte ich tracken, wenn meine Symptome sich ueberschneiden?"
-    answer: "Tracken Sie Symptome, Veraenderungen, Funktionsauswirkung, Schuebe und relevanten Kontext, damit Ihr Verlauf nuetzlich bleibt, auch wenn die Labels noch sortiert werden."
+  - question: "Ist es häufig, POTS-, EDS- und Fibromyalgie-Symptome zusammen zu haben?"
+    answer: "Viele Patientinnen, Patienten und Communities berichten Symptomüberschneidungen zwischen diesen Erkrankungen. Das ist ein Grund, warum Tracking und Terminvorbereitung so kompliziert werden können."
+  - question: "Bedeutet Überschneidung, dass die Erkrankungen gleich sind?"
+    answer: "Nein. Sie sind nicht dieselbe Erkrankung, aber sie können sich in Symptomen und darin überschneiden, wie Menschen Alltagsgrenzen erleben."
+  - question: "Was sollte ich tracken, wenn meine Symptome sich überschneiden?"
+    answer: "Tracken Sie Symptome, Veränderungen, Funktionsauswirkung, Schübe und relevanten Kontext, damit Ihr Verlauf nützlich bleibt, auch wenn die Labels noch sortiert werden."
 ---
 
-POTS, EDS und Fibromyalgie ueberschneiden sich oft, weil sie Symptome, Alltagsgrenzen und diagnostische Wege teilen koennen, auch wenn sie nicht dieselbe Erkrankung sind. Viele Menschen tracken am Ende Schwindel, Fatigue, Schmerzen, Brain Fog, Funktionsveraenderungen und Schuebe ueber mehr als ein Label gleichzeitig.
+POTS, EDS und Fibromyalgie überschneiden sich oft, weil sie Symptome, Alltagsgrenzen und diagnostische Wege teilen können, auch wenn sie nicht dieselbe Erkrankung sind. Viele Menschen tracken am Ende Schwindel, Fatigue, Schmerzen, Brain Fog, Funktionsveränderungen und Schübe über mehr als ein Label gleichzeitig.
 
-Diese Ueberschneidung kann Versorgung und Tracking viel schwerer machen, besonders wenn jede Erkrankung wie eine getrennte Geschichte behandelt wird.
+Diese Überschneidung kann Versorgung und Tracking viel schwerer machen, besonders wenn jede Erkrankung wie eine getrennte Geschichte behandelt wird.
 
-## Wie Ueberschneidung im echten Leben aussieht
+## Wie Überschneidung im echten Leben aussieht
 
-Fuer viele Patientinnen und Patienten bedeutet Ueberschneidung:
+Für viele Patientinnen und Patienten bedeutet Überschneidung:
 
 - Schwindel und Symptome im Aufrechten
-- Schmerzen und Gelenkinstabilitaet
+- Schmerzen und Gelenkinstabilität
 - Fatigue, die Alltagsfunktion beeinflusst
 - Brain Fog
-- Schlafstoerung
+- Schlafstörung
 - Symptome, die nicht sauber in einem Bereich bleiben
 
-Das Ergebnis ist oft Verwirrung darueber, was man tracken, was man erwaehnen und welchem Spezialisten welches Problem zuordnen soll.
+Das Ergebnis ist oft Verwirrung darüber, was man tracken, was man erwähnen und welchem Spezialisten welches Problem zuordnen soll.
 
-## Warum sich das so schwierig anfuehlt
+## Warum sich das so schwierig anfühlt
 
 Die Herausforderung ist nicht nur medizinisch. Sie ist praktisch.
 
-Wenn Sie mehr als eine Erkrankung oder mehr als eine moegliche Erklaerung fuer Ihre Symptome haben, wird es leichter, dass:
+Wenn Sie mehr als eine Erkrankung oder mehr als eine mögliche Erklärung für Ihre Symptome haben, wird es leichter, dass:
 
 - Verlauf fragmentiert wird
-- Symptome zu wenig erklaert werden
-- Terminvorbereitung ueberfordernd wird
+- Symptome zu wenig erklärt werden
+- Terminvorbereitung überfordernd wird
 
-Das ist ein Grund, warum Ueberschneidung in Zebras Positionierung so wichtig ist. Menschen tracken nicht nur "POTS-Symptome" oder "Fibromyalgie-Symptome". Sie tracken ein gelebtes Muster, das Kategorien kreuzt.
+Das ist ein Grund, warum Überschneidung in Zebras Positionierung so wichtig ist. Menschen tracken nicht nur "POTS-Symptome" oder "Fibromyalgie-Symptome". Sie tracken ein gelebtes Muster, das Kategorien kreuzt.
 
-## Was Ueberschneidung nicht bedeutet
+## Was Überschneidung nicht bedeutet
 
-Ueberschneidung bedeutet nicht:
+Überschneidung bedeutet nicht:
 
 - jedes Symptom hat eine Ursache
-- ein Label erklaert alles
+- ein Label erklärt alles
 - Selbsttracking kann diagnostizieren, welche Erkrankung verantwortlich ist
 
-Tracking bleibt trotzdem nuetzlich. Es muss nur um das organisiert bleiben, was passiert ist, was sich veraendert hat und welcher Alltag betroffen war.
+Tracking bleibt trotzdem nützlich. Es muss nur um das organisiert bleiben, was passiert ist, was sich verändert hat und welcher Alltag betroffen war.
 
-## Was man tracken sollte, wenn Erkrankungen sich ueberschneiden
+## Was man tracken sollte, wenn Erkrankungen sich überschneiden
 
-Wenn Sie mit ueberlappenden Erkrankungen umgehen, sind die wertvollsten Kategorien meist:
+Wenn Sie mit überlappenden Erkrankungen umgehen, sind die wertvollsten Kategorien meist:
 
 - Symptomtyp
 - Schweregrad
 - Funktionsauswirkung
-- lagebezogene Veraenderungen, wenn relevant
-- Schuebe
-- Medikamenten- oder Routineveraenderungen
+- lagebezogene Veränderungen, wenn relevant
+- Schübe
+- Medikamenten- oder Routineveränderungen
 
-So entsteht ein Verlauf, der nuetzlich bleibt, auch wenn die genaue Interpretation sich noch entwickelt.
+So entsteht ein Verlauf, der nützlich bleibt, auch wenn die genaue Interpretation sich noch entwickelt.
 
 ## Wo Zebra passt
 
-Zebra wurde genau um dieses Ueberschneidungsproblem positioniert. Es ist fuer Menschen gemacht, die es leid sind, POTS-, EDS- und Fibromyalgie-Realitaeten in getrennte Tools und getrennte Denkschubladen zu zwingen.
+Zebra wurde genau um dieses Überschneidungsproblem positioniert. Es ist für Menschen gemacht, die es leid sind, POTS-, EDS- und Fibromyalgie-Realitäten in getrennte Tools und getrennte Denkschubladen zu zwingen.
 
-Die Seite [Tracker fuer unsichtbare Krankheit](/de-de/symptom-tracker-for-invisible-illness/) zeigt denselben Ansatz fuer Menschen, die mehrere unsichtbare Erkrankungen gleichzeitig verwalten.
+Die Seite [Tracker für unsichtbare Krankheit](/de-de/symptom-tracker-for-invisible-illness/) zeigt denselben Ansatz für Menschen, die mehrere unsichtbare Erkrankungen gleichzeitig verwalten.
 
 ## Wichtigste Punkte
 
-- POTS, EDS und Fibromyalgie koennen sich in gelebten Symptommustern ueberschneiden, auch wenn sie unterschiedliche Erkrankungen sind.
-- Das Ueberschneidungsproblem ist praktisch genauso wie klinisch.
-- Tracking sollte sich auf klaren Verlauf und Alltagsauswirkung konzentrieren, nicht darauf zu beweisen, welchem Label jedes Symptom gehoert.
+- POTS, EDS und Fibromyalgie können sich in gelebten Symptommustern überschneiden, auch wenn sie unterschiedliche Erkrankungen sind.
+- Das Überschneidungsproblem ist praktisch genauso wie klinisch.
+- Tracking sollte sich auf klaren Verlauf und Alltagsauswirkung konzentrieren, nicht darauf zu beweisen, welchem Label jedes Symptom gehört.
 
 ## FAQ
 
-### Ist es haeufig, POTS-, EDS- und Fibromyalgie-Symptome zusammen zu haben?
+### Ist es häufig, POTS-, EDS- und Fibromyalgie-Symptome zusammen zu haben?
 
-Viele Patientinnen, Patienten und Communities berichten Symptomueberschneidungen zwischen diesen Erkrankungen. Das ist ein Grund, warum Tracking und Terminvorbereitung so kompliziert werden koennen.
+Viele Patientinnen, Patienten und Communities berichten Symptomüberschneidungen zwischen diesen Erkrankungen. Das ist ein Grund, warum Tracking und Terminvorbereitung so kompliziert werden können.
 
-### Bedeutet Ueberschneidung, dass die Erkrankungen gleich sind?
+### Bedeutet Überschneidung, dass die Erkrankungen gleich sind?
 
-Nein. Sie sind nicht dieselbe Erkrankung, aber sie koennen sich in Symptomen und darin ueberschneiden, wie Menschen Alltagsgrenzen erleben.
+Nein. Sie sind nicht dieselbe Erkrankung, aber sie können sich in Symptomen und darin überschneiden, wie Menschen Alltagsgrenzen erleben.
 
-### Was sollte ich tracken, wenn meine Symptome sich ueberschneiden?
+### Was sollte ich tracken, wenn meine Symptome sich überschneiden?
 
-Tracken Sie Symptome, Veraenderungen, Funktionsauswirkung, Schuebe und relevanten Kontext, damit Ihr Verlauf nuetzlich bleibt, auch wenn die Labels noch sortiert werden.
+Tracken Sie Symptome, Veränderungen, Funktionsauswirkung, Schübe und relevanten Kontext, damit Ihr Verlauf nützlich bleibt, auch wenn die Labels noch sortiert werden.

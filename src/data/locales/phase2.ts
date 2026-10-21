@@ -58,92 +58,92 @@ export const phase2Pages = {
     privacy: withLegalMeta(
       {
         seo: {
-          title: 'Datenschutzerklaerung — Zebra',
-          description: 'Datenschutzerklaerung fuer Zebra, einen Symptomtracker fuer POTS, EDS und Fibromyalgie.',
+          title: 'Datenschutzerklärung — Zebra',
+          description: 'Datenschutzerklärung für Zebra, einen Symptomtracker für POTS, EDS und Fibromyalgie.',
         },
         backHref: localeRoutes.deDe,
-        backLabel: 'Zurueck zu Zebra',
+        backLabel: 'Zurück zu Zebra',
         eyebrow: 'Datenschutz',
-        title: 'Datenschutzerklaerung',
+        title: 'Datenschutzerklärung',
         updated: 'Zuletzt aktualisiert: 12. September 2026',
         intro: [
-          'Zebra ist ein Symptomtracker fuer Menschen mit POTS, EDS und Fibromyalgie. Diese Richtlinie gilt fuer die Zebra-App und diese Website.',
-          'App und Website sind getrennt. Die App enthaelt Ihre Gesundheitsdaten und sendet sie nicht an uns. Die Website ist Marketing und misst nur dann, wie gut unsere Anzeigen funktionieren, wenn Sie zustimmen. Beides wird nicht verbunden: Diese Website kann nicht sehen, was Sie in der App eingeben, und die App meldet nichts an diese Website zurueck.',
+          'Zebra ist ein Symptomtracker für Menschen mit POTS, EDS und Fibromyalgie. Diese Richtlinie gilt für die Zebra-App und diese Website.',
+          'App und Website sind getrennt. Die App enthält Ihre Gesundheitsdaten und sendet sie nicht an uns. Die Website ist Marketing und misst nur dann, wie gut unsere Anzeigen funktionieren, wenn Sie zustimmen. Beides wird nicht verbunden: Diese Website kann nicht sehen, was Sie in der App eingeben, und die App meldet nichts an diese Website zurück.',
         ],
         sections: [
           {
             heading: 'Gesundheitsdaten in der App',
             paragraphs: [
-              'Alle Gesundheitsinformationen, die Sie in Zebra eingeben, einschliesslich Check-ins, Schubprotokollen, orthostatischen Tests, Symptomen, Medikamenten sowie Salz- und Hydrationseintraegen, werden lokal auf Ihrem Geraet mit Apples SwiftData gespeichert. Je nach Apple-/iCloud-Einstellungen und aktueller App-Versión koennen diese Daten privat ueber Ihr persoenliches iCloud-Konto per CloudKit synchronisiert werden. Wir erhalten, sehen oder speichern Ihre Gesundheitsdaten nicht auf unseren Servern.',
+              'Alle Gesundheitsinformationen, die Sie in Zebra eingeben, einschliesslich Check-ins, Schubprotokollen, orthostatischen Tests, Symptomen, Medikamenten sowie Salz- und Hydrationseinträgen, werden lokal auf Ihrem Gerät mit Apples SwiftData gespeichert. Je nach Apple-/iCloud-Einstellungen und aktueller App-Versión können diese Daten privat über Ihr persönliches iCloud-Konto per CloudKit synchronisiert werden. Wir erhalten, sehen oder speichern Ihre Gesundheitsdaten nicht auf unseren Servern.',
             ],
           },
           {
             heading: 'Apple Health (HealthKit)',
             paragraphs: [
-              'Wenn Sie die Berechtigung erteilen, liest Zebra Herzfrequenzdaten aus Apple Health, um den orthostatischen Test zu unterstuetzen. Zebra schreibt keine Daten in Apple Health zurueck und teilt HealthKit-Daten nicht mit Dritten. Sie koennen diese Berechtigung jederzeit in den iOS-Einstellungen unter Health > Datenzugriff & Geraete widerrufen.',
+              'Wenn Sie die Berechtigung erteilen, liest Zebra Herzfrequenzdaten aus Apple Health, um den orthostatischen Test zu unterstützen. Zebra schreibt keine Daten in Apple Health zurück und teilt HealthKit-Daten nicht mit Dritten. Sie können diese Berechtigung jederzeit in den iOS-Einstellungen unter Health > Datenzugriff & Geräte widerrufen.',
             ],
           },
           {
             heading: 'Benachrichtigungen',
             paragraphs: [
-              'Wenn Sie taegliche Erinnerungen aktivieren, nutzt Zebra lokale Benachrichtigungen, die vollstaendig auf Ihrem Geraet ausgeliefert werden. Kein Benachrichtigungsinhalt verlaesst Ihr Geraet. Sie koennen Benachrichtigungen in den iOS-Einstellungen unter Zebra verwalten oder deaktivieren.',
+              'Wenn Sie tägliche Erinnerungen aktivieren, nutzt Zebra lokale Benachrichtigungen, die vollständig auf Ihrem Gerät ausgeliefert werden. Kein Benachrichtigungsinhalt verlässt Ihr Gerät. Sie können Benachrichtigungen in den iOS-Einstellungen unter Zebra verwalten oder deaktivieren.',
             ],
           },
           {
             heading: 'Arztberichte',
             paragraphs: [
-              'PDF-Arztberichte werden auf Ihrem Geraet aus den von Ihnen eingegebenen Daten erstellt. Zebra laedt diese Berichte nicht hoch, uebertraegt sie nicht und speichert sie nicht. Sie entscheiden selbst, ob und wo Sie einen Export teilen.',
+              'PDF-Arztberichte werden auf Ihrem Gerät aus den von Ihnen eingegebenen Daten erstellt. Zebra lädt diese Berichte nicht hoch, überträgt sie nicht und speichert sie nicht. Sie entscheiden selbst, ob und wo Sie einen Export teilen.',
             ],
           },
           {
             heading: 'Abonnements',
             paragraphs: [
-              'Zebra-Premium-Abonnements werden vollstaendig ueber Apple abgewickelt. Wir erfassen, sehen oder speichern Ihre Zahlungsinformationen nicht. Die Verwaltung des Abonnements erfolgt ueber Ihr Apple-ID-Konto.',
-              'Um zu pruefen, ob Premium aktiv ist, nutzt die App RevenueCat, einen Abonnementdienst. RevenueCat erhaelt Ihre App-Store-Kauf- und Abonnementdaten, eine anonyme Kennung, die die App erstellt, sowie die technischen Informationen, die bei jeder Netzwerkanfrage anfallen, etwa Ihre IP-Adresse. RevenueCat erhaelt keine Gesundheitsdaten, und die App gibt weder Ihren Namen noch Ihre E-Mail-Adresse weiter.',
+              'Zebra-Premium-Abonnements werden vollständig über Apple abgewickelt. Wir erfassen, sehen oder speichern Ihre Zahlungsinformationen nicht. Die Verwaltung des Abonnements erfolgt über Ihr Apple-ID-Konto.',
+              'Um zu prüfen, ob Premium aktiv ist, nutzt die App RevenueCat, einen Abonnementdienst. RevenueCat erhält Ihre App-Store-Kauf- und Abonnementdaten, eine anonyme Kennung, die die App erstellt, sowie die technischen Informationen, die bei jeder Netzwerkanfrage anfallen, etwa Ihre IP-Adresse. RevenueCat erhält keine Gesundheitsdaten, und die App gibt weder Ihren Namen noch Ihre E-Mail-Adresse weiter.',
             ],
           },
           {
-            heading: 'Kontakt ueber die Website',
+            heading: 'Kontakt über die Website',
             paragraphs: [
-              'Wenn Sie uns ueber diese Website kontaktieren, koennen wir Ihre E-Mail-Adresse und freiwillig angegebene Informationen erfassen. Wir verwenden sie, um Fragen zu beantworten und angeforderten Produktsupport zu leisten. Wir verkaufen keine personenbezogenen Daten. Fuer Kommunikation koennen Dienste wie E-Mail- oder Hostinganbieter eingesetzt werden.',
+              'Wenn Sie uns über diese Website kontaktieren, können wir Ihre E-Mail-Adresse und freiwillig angegebene Informationen erfassen. Wir verwenden sie, um Fragen zu beantworten und angeforderten Produktsupport zu leisten. Wir verkaufen keine personenbezogenen Daten. Für Kommunikation können Dienste wie E-Mail- oder Hostinganbieter eingesetzt werden.',
             ],
           },
           {
             heading: 'Werbemessung auf der Website',
             paragraphs: [
-              'Wir schalten Anzeigen auf Meta (Facebook und Instagram). Um zu sehen, ob diese Anzeigen Menschen erreichen, fuer die Zebra nuetzlich ist, kann diese Website das Meta-Pixel laden.',
-              'Es laedt nur, wenn Sie im Banner auf Akzeptieren klicken. Bis dahin wird es nicht geladen und es wird keine Anfrage an Meta gesendet. Ablehnen ist eine echte Wahl: Die Website funktioniert gleich.',
-              'Wenn Sie zustimmen, erhaelt Meta die Information, dass eine Seite dieser Website angesehen wurde und dass ein Button zum App Store geklickt wurde, einschliesslich welcher Platzierung. Meta erhaelt ausserdem technische Informationen, die bei jeder Webanfrage anfallen, etwa IP-Adresse und Browsertyp.',
-              'Meta erhaelt keine Gesundheitsdaten. Diese Website hat keinen Zugriff auf Check-ins, Schuebe, Symptome, Medikamente, orthostatische Tests oder Arztberichte. Diese Daten werden nie an diese Website gesendet.',
-              'App-Store-Links koennen Apple-Kampagnenparameter enthalten. Sie zeigen App Store Connect, aus welcher Kampagne ein Download kam. Apple liest sie beim Oeffnen des App Store; sie laufen nicht als Skript im Browser.',
+              'Wir schalten Anzeigen auf Meta (Facebook und Instagram). Um zu sehen, ob diese Anzeigen Menschen erreichen, für die Zebra nützlich ist, kann diese Website das Meta-Pixel laden.',
+              'Es lädt nur, wenn Sie im Banner auf Akzeptieren klicken. Bis dahin wird es nicht geladen und es wird keine Anfrage an Meta gesendet. Ablehnen ist eine echte Wahl: Die Website funktioniert gleich.',
+              'Wenn Sie zustimmen, erhält Meta die Information, dass eine Seite dieser Website angesehen wurde und dass ein Button zum App Store geklickt wurde, einschliesslich welcher Platzierung. Meta erhält ausserdem technische Informationen, die bei jeder Webanfrage anfallen, etwa IP-Adresse und Browsertyp.',
+              'Meta erhält keine Gesundheitsdaten. Diese Website hat keinen Zugriff auf Check-ins, Schübe, Symptôme, Medikamente, orthostatische Tests oder Arztberichte. Diese Daten werden nie an diese Website gesendet.',
+              'App-Store-Links können Apple-Kampagnenparameter enthalten. Sie zeigen App Store Connect, aus welcher Kampagne ein Download kam. Apple liest sie beim Öffnen des App Store; sie laufen nicht als Skript im Browser.',
             ],
           },
           {
-            heading: 'Einwilligung zur Werbemessung aendern',
+            heading: 'Einwilligung zur Werbemessung ändern',
             paragraphs: [
-              'Waehlen Sie Cookie-Einstellungen am Ende dieser Seite oder im Footer der Website. Dadurch wird Ihre gespeicherte Entscheidung geloescht und das Banner erneut angezeigt. Ablehnen verhindert, dass das Pixel auf spaeteren Seitenaufrufen geladen wird.',
-              'Ihre Auswahl wird nur im lokalen Speicher Ihres Browsers unter zebra_consent_v1 gespeichert. Wir haben keine Kopie davon. Wenn Sie Browserdaten loeschen, werden Sie erneut gefragt.',
+              'Wählen Sie Cookie-Einstellungen am Ende dieser Seite oder im Footer der Website. Dadurch wird Ihre gespeicherte Entscheidung gelöscht und das Banner erneut angezeigt. Ablehnen verhindert, dass das Pixel auf späteren Seitenaufrufen geladen wird.',
+              'Ihre Auswahl wird nur im lokalen Speicher Ihres Browsers unter zebra_consent_v1 gespeichert. Wir haben keine Kopie davon. Wenn Sie Browserdaten löschen, werden Sie erneut gefragt.',
             ],
           },
           {
             heading: 'Datenaufbewahrung',
             paragraphs: [
-              'Website-Kontaktinformationen speichern wir nur so lange, wie es fuer Kommunikation und Supportanfragen erforderlich ist. App-Gesundheitsdaten liegen auf Ihrem Geraet und koennen je nach Einstellungen ueber Ihr persoenliches iCloud-Konto synchronisiert werden. Sie werden nicht von uns gespeichert.',
-              'Werbemessdaten, die ueber das Meta-Pixel erfasst werden, werden von Meta nach deren Bedingungen gespeichert. Wir sehen sie nur als aggregierte Kampagnenberichte.',
+              'Website-Kontaktinformationen speichern wir nur so lange, wie es für Kommunikation und Supportanfragen erforderlich ist. App-Gesundheitsdaten liegen auf Ihrem Gerät und können je nach Einstellungen über Ihr persönliches iCloud-Konto synchronisiert werden. Sie werden nicht von uns gespeichert.',
+              'Werbemessdaten, die über das Meta-Pixel erfasst werden, werden von Meta nach deren Bedingungen gespeichert. Wir sehen sie nur als aggregierte Kampagnenberichte.',
             ],
           },
           {
-            heading: 'Ihre Wahlmoeglichkeiten',
+            heading: 'Ihre Wahlmöglichkeiten',
             appendContactEmail: true,
             paragraphs: [
-              'Um Ihre Gesundheitsdaten zu loeschen, oeffnen Sie in der App Ich > Daten und Privatsphaere > Daten loeschen. Dadurch werden Ihre Tagesprotokolle und orthostatischen Tests entfernt, und wenn die iCloud-Synchronisierung aktiv ist, wird die Loeschung auch in Ihrem iCloud-Konto wirksam. Die App nur zu entfernen reicht nicht, wenn Sie iCloud nutzen: Die synchronisierte Kopie bleibt in Ihrem iCloud-Konto und kehrt zurueck, wenn Sie Zebra erneut installieren.',
-              'Sie koennen Werbemessung auf dieser Website jederzeit ueber Cookie-Einstellungen akzeptieren oder ablehnen. Wenn Sie die Entfernung von Website-Kontaktinformationen wuenschen, schreiben Sie uns an',
+              'Um Ihre Gesundheitsdaten zu löschen, öffnen Sie in der App Ich > Daten und Privatsphäre > Daten löschen. Dadurch werden Ihre Tagesprotokolle und orthostatischen Tests entfernt, und wenn die iCloud-Synchronisierung aktiv ist, wird die Löschung auch in Ihrem iCloud-Konto wirksam. Die App nur zu entfernen reicht nicht, wenn Sie iCloud nutzen: Die synchronisierte Kopie bleibt in Ihrem iCloud-Konto und kehrt zurück, wenn Sie Zebra erneut installieren.',
+              'Sie können Werbemessung auf dieser Website jederzeit über Cookie-Einstellungen akzeptieren oder ablehnen. Wenn Sie die Entfernung von Website-Kontaktinformationen wünschen, schreiben Sie uns an',
             ],
           },
           {
             heading: 'Medizinische Informationen',
             paragraphs: [
-              'Zebra ist kein medizinischer Anbieter. Nichts in dieser App oder auf dieser Website stellt medizinische Beratung, Diagnose oder Behandlung dar. Wenden Sie sich fuer medizinische Entscheidungen immer an qualifiziertes medizinisches Fachpersonal.',
+              'Zebra ist kein medizinischer Anbieter. Nichts in dieser App oder auf dieser Website stellt medizinische Beratung, Diagnose oder Behandlung dar. Wenden Sie sich für medizinische Entscheidungen immer an qualifiziertes medizinisches Fachpersonal.',
             ],
           },
         ],
@@ -163,10 +163,10 @@ export const phase2Pages = {
       {
         seo: {
           title: 'Nutzungsbedingungen — Zebra',
-          description: 'Nutzungsbedingungen fuer Zebra, einen Symptomtracker fuer POTS, EDS und Fibromyalgie.',
+          description: 'Nutzungsbedingungen für Zebra, einen Symptomtracker für POTS, EDS und Fibromyalgie.',
         },
         backHref: localeRoutes.deDe,
-        backLabel: 'Zurueck zu Zebra',
+        backLabel: 'Zurück zu Zebra',
         eyebrow: 'Bedingungen',
         title: 'Nutzungsbedingungen',
         updated: 'Zuletzt aktualisiert: 18. Mai 2026',
@@ -177,7 +177,7 @@ export const phase2Pages = {
           {
             heading: 'Zweck der App',
             paragraphs: [
-              'Zebra ist ein persoenliches Symptomtracking-Tool fuer Menschen mit POTS, EDS und Fibromyalgie. Es hilft Ihnen, eigene Gesundheitsinformationen zu erfassen, zu pruefen und Zusammenfassungen fuer Gesundheitsdienstleister zu erstellen.',
+              'Zebra ist ein persönliches Symptomtracking-Tool für Menschen mit POTS, EDS und Fibromyalgie. Es hilft Ihnen, eigene Gesundheitsinformationen zu erfassen, zu prüfen und Zusammenfassungen für Gesundheitsdienstleister zu erstellen.',
             ],
           },
           {
@@ -189,27 +189,27 @@ export const phase2Pages = {
           {
             heading: 'Abonnements',
             paragraphs: [
-              'Zebra bietet automatisch verlaengerbare Abonnements unter dem Namen Zebra Premium an.',
-              'Preise sind in USD angegeben und koennen je nach Region durch Apple variieren. Der App-Paywall kann fuer berechtigte neue Abonnenten eine 7-taegige kostenlose Testphase enthalten; pruefen Sie vor dem Abonnieren immer das aktuelle Apple-Kaufformular. Nach der Testphase wird die Zahlung ueber Ihr Apple-ID-Konto abgerechnet. Abonnements verlaengern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Abrechnungszeitraums gekuendigt werden. Sie koennen Ihr Abonnement jederzeit in den iOS-Einstellungen unter Apple-ID > Abonnements verwalten oder kuendigen.',
+              'Zebra bietet automatisch verlängerbare Abonnements unter dem Namen Zebra Premium an.',
+              'Preise sind in USD angegeben und können je nach Region durch Apple variieren. Der App-Paywall kann für berechtigte neue Abonnenten eine 7-tägige kostenlose Testphase enthalten; prüfen Sie vor dem Abonnieren immer das aktuelle Apple-Kaufformular. Nach der Testphase wird die Zahlung über Ihr Apple-ID-Konto abgerechnet. Abonnements verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Abrechnungszeitraums gekündigt werden. Sie können Ihr Abonnement jederzeit in den iOS-Einstellungen unter Apple-ID > Abonnements verwalten oder kündigen.',
             ],
-            listItems: ['Monatlich — 4,99 USD pro Monat', 'Jaehrlich — 39,99 USD pro Jahr'],
+            listItems: ['Monatlich — 4,99 USD pro Monat', 'Jährlich — 39,99 USD pro Jahr'],
           },
           {
             heading: 'Kostenlose Versión',
             paragraphs: [
-              'Die kostenlose Versión umfasst alle Tracking-Funktionen und 30 Tage Verlauf. Fuer die kostenlose Versión sind keine Zahlungsinformationen erforderlich.',
+              'Die kostenlose Versión umfasst alle Tracking-Funktionen und 30 Tage Verlauf. Für die kostenlose Versión sind keine Zahlungsinformationen erforderlich.',
             ],
           },
           {
-            heading: 'Zulaessige Nutzung',
+            heading: 'Zulässige Nutzung',
             paragraphs: [
-              'Sie verpflichten sich, App oder Website nicht zu missbrauchen, ihren Betrieb nicht zu stoeren und keine falschen oder schaedlichen Informationen einzureichen.',
+              'Sie verpflichten sich, App oder Website nicht zu missbrauchen, ihren Betrieb nicht zu stören und keine falschen oder schädlichen Informationen einzureichen.',
             ],
           },
           {
             heading: 'Geistiges Eigentum',
             paragraphs: [
-              'Sofern nicht anders angegeben, gehoeren Inhalte, Branding, Design und Materialien in der App und auf dieser Website Zebra und duerfen ohne Erlaubnis nicht kopiert oder weiterverbreitet werden.',
+              'Sofern nicht anders angegeben, gehören Inhalte, Branding, Design und Materialien in der App und auf dieser Website Zebra und dürfen ohne Erlaubnis nicht kopiert oder weiterverbreitet werden.',
             ],
           },
           {
@@ -240,12 +240,12 @@ export const phase2Pages = {
       ...homePageDeDe,
       seo: {
         title: 'Support — Zebra',
-        description: 'Support fuer Zebra, den Symptomtracker fuer POTS, EDS und Fibromyalgie.',
+        description: 'Support für Zebra, den Symptomtracker für POTS, EDS und Fibromyalgie.',
         alternates: alternatesForPath('/support/'),
       },
       lang: homePageDeDe.locale.htmlLang,
       backHref: localeRoutes.deDe,
-      backLabel: 'Zurueck zu Zebra',
+      backLabel: 'Zurück zu Zebra',
       eyebrow: 'Support',
       title: 'Zebra Support',
       intro: 'Brauchen Sie Hilfe mit Zebra, dem Arztbericht oder Ihrem Abonnement? Hier sind die schnellsten Wege, um weiterzukommen.',
@@ -254,15 +254,15 @@ export const phase2Pages = {
           {
             heading: 'So bekommen Sie Hilfe',
             listItems: [
-              'Schreiben Sie uns fuer Produkthilfe mit einer kurzen Beschreibung des Problems.',
-              'Fuer Abrechnung oder Abonnementverwaltung verwenden Sie die App-Store-Abonnementeinstellungen auf Ihrem iPhone.',
+              'Schreiben Sie uns für Produkthilfe mit einer kurzen Beschreibung des Problems.',
+              'Für Abrechnung oder Abonnementverwaltung verwenden Sie die App-Store-Abonnementeinstellungen auf Ihrem iPhone.',
               'Bei Fragen zum Arztbericht beschreiben Sie, was Sie exportieren wollten und was direkt davor passiert ist.',
             ],
           },
           {
             heading: 'Was Zebra nicht macht',
             paragraphs: [
-              'Zebra ist kein medizinischer Anbieter, kein Diagnosetool und kein Notfalldienst. Zebra hilft beim Erfassen und Ordnen von Informationen fuer Facharzttermine und bietet keine medizinische Beratung.',
+              'Zebra ist kein medizinischer Anbieter, kein Diagnosetool und kein Notfalldienst. Zebra hilft beim Erfassen und Ordnen von Informationen für Facharzttermine und bietet keine medizinische Beratung.',
             ],
           },
         ],
@@ -316,7 +316,7 @@ export const phase2Pages = {
           { heading: 'Suscripciones', paragraphs: ['Las suscripciones a Zebra Premium se procesan completamente a traves de Apple. No recopilamos, vemos ni almacenamos tu información de pago. La gestion de la suscripción se hace mediante tu cuenta de Apple ID.', 'Para comprobar si Premium esta activo, la app usa RevenueCat, un servicio de suscripciones. RevenueCat recibe tus registros de compra y suscripción del App Store, un identificador anonimo que crea la app y la información tecnica que lleva cualquier solicitud de red, como tu direccion IP. No recibe tus datos de salud, y la app no le da tu nombre ni tu correo electronico.'] },
           { heading: 'Contacto por la web', paragraphs: ['Si contactas con nosotros mediante esta web, podemos recopilar tu correo electronico y la información que incluyas voluntariamente. La usamos para responder preguntas y dar soporte de producto cuando lo solicitas. No vendemos datos personales. Podemos usar servicios de terceros, como email u hosting, para gestionar comunicaciones.'] },
           { heading: 'Medicion publicitaria en la web', paragraphs: ['Publicamos anuncios en Meta (Facebook e Instagram). Para ver si esos anuncios llegan a personas a las que Zebra puede resultar útil, esta web puede cargar el pixel de Meta.', 'Solo se carga si pulsas Aceptar en el banner. Hasta entonces, no se carga y no se envia ninguna solicitud a Meta. Rechazar es una opción real: el sitio funciona igual.', 'Si aceptas, Meta recibe que viste una página de esta web y que pulsaste un boton para abrir Zebra en el App Store, incluida la ubicacion del boton. También recibe información tecnica habitual de cualquier solicitud web, como IP y tipo de navegador.', 'Meta no recibe nada sobre tu salud. Esta web no tiene acceso a check-ins, brotes, síntomas, medicación, tests ortostáticos ni informes medicos. Esa información nunca se envia a esta web.', 'Los enlaces al App Store también pueden incluir parametros de campana de Apple. App Store Connect los lee cuando se abre el App Store; no ejecutan scripts en tu navegador.'] },
-          { heading: 'Cambiar tu decision sobre medicion publicitaria', paragraphs: ['Selecciona Preferencias de cookies al final de esta página o en el pie de la web. Eso borra tu decision guardada y muestra el banner otra vez para elegir de nuevo. Rechazar evita que el pixel cargue en visitas posteriores.', 'Tu eleccion se guarda solo en el almacenamiento local de tu navegador con la clave zebra_consent_v1. No tenemos copia de ella. Si borras los datos del navegador, volveremos a preguntarte.'] },
+          { heading: 'Cambiar tu décision sobre medicion publicitaria', paragraphs: ['Selecciona Preferencias de cookies al final de esta página o en el pie de la web. Eso borra tu décision guardada y muestra el banner otra vez para elegir de nuevo. Rechazar evita que el pixel cargue en visitas posteriores.', 'Tu eleccion se guarda solo en el almacenamiento local de tu navegador con la clave zebra_consent_v1. No tenemos copia de ella. Si borras los datos del navegador, volveremos a preguntarte.'] },
           { heading: 'Retencion de datos', paragraphs: ['Conservamos información de contacto de la web solo durante el tiempo necesario para comunicarnos y responder solicitudes de soporte. Los datos de salud de la app se guardan en tu dispositivo y pueden sincronizarse mediante tu iCloud personal según tus ajustes. No los conservamos nosotros.', 'Los datos de medicion publicitaria recogidos por el pixel de Meta los conserva Meta según sus propios terminos. Nosotros solo los vemos como informes agregados de campana.'] },
           { heading: 'Tus opciones', appendContactEmail: true, paragraphs: ['Para borrar tus datos de salud, abre en la app Yo > Datos y privacidad > Eliminar datos. Así se eliminan tus registros diarios y tests ortostáticos, y si la sincronizacion con iCloud esta activa, el borrado también se aplica en tu cuenta de iCloud. Eliminar solo la app no basta si usas iCloud: la copia sincronizada sigue en tu cuenta de iCloud y vuelve si reinstalas Zebra.', 'Puedes aceptar o rechazar la medicion publicitaria de esta web en cualquier momento mediante Preferencias de cookies. Para solicitar la eliminacion de información de contacto de la web, escribenos a'] },
           { heading: 'Información médica', paragraphs: ['Zebra no es un proveedor médico. Nada en la app o en esta web constituye consejo médico, diagnóstico o tratamiento. Consulta siempre con un profesional sanitario cualificado para decisiones médicas.'] },
@@ -380,25 +380,25 @@ export const phase2Pages = {
   'fr-fr': {
     privacy: withLegalMeta(
       {
-        seo: { title: 'Politique de confidentialite — Zebra', description: 'Politique de confidentialite de Zebra, une app de suivi des symptomes pour POTS, SED et fibromyalgie.' },
+        seo: { title: 'Politique de confidentialite — Zebra', description: 'Politique de confidentialite de Zebra, une app de suivi des symptômes pour POTS, SED et fibromyalgie.' },
         backHref: localeRoutes.frFr,
         backLabel: 'Retour a Zebra',
         eyebrow: 'Confidentialite',
         title: 'Politique de confidentialite',
         updated: 'Derniere mise a jour : 12 septembre 2026',
-        intro: ['Zebra est une app de suivi des symptomes pour les personnes avec POTS, SED et fibromyalgie. Cette politique couvre l app Zebra et ce site web.', 'L app et le site sont separes. L app contient vos donnees de sante et ne nous les envoie pas. Le site sert au marketing et mesure l efficacite de nos publicites seulement si vous l acceptez. Rien ne relie les deux : ce site ne peut pas voir ce que vous saisissez dans l app, et l app ne renvoie rien a ce site.'],
+        intro: ['Zebra est une app de suivi des symptômes pour les personnes avec POTS, SED et fibromyalgie. Cette politique couvre l app Zebra et ce site web.', 'L app et le site sont separes. L app contient vos donnees de sante et ne nous les envoie pas. Le site sert au marketing et mesure l efficacite de nos publicites seulement si vous l acceptez. Rien ne relie les deux : ce site ne peut pas voir ce que vous saisissez dans l app, et l app ne renvoie rien a ce site.'],
         sections: [
-          { heading: 'Donnees de sante dans l app', paragraphs: ['Toutes les informations de sante saisies dans Zebra, y compris check-ins, poussees, tests orthostatiques, symptomes, medicaments, sel et hydratation, sont stockees localement sur votre appareil avec SwiftData d Apple. Selon vos reglages Apple/iCloud et la versión actuelle de l app, ces donnees peuvent se synchroniser de maniere privee via votre compte iCloud personnel avec CloudKit. Nous ne recevons, consultons ni stockons vos donnees de sante sur nos serveurs.'] },
-          { heading: 'Apple Health (HealthKit)', paragraphs: ['Si vous l autorisez, Zebra lit la frequence cardiaque depuis Apple Health pour soutenir le test orthostatique. Zebra n ecrit pas dans Apple Health et ne partage pas les donnees HealthKit avec des tiers. Vous pouvez retirer cette autorisation a tout moment dans Reglages iOS > Sante > Acces aux donnees et appareils.'] },
-          { heading: 'Notifications', paragraphs: ['Si vous activez les rappels quotidiens, Zebra utilise des notifications locales delivrees entierement sur votre appareil. Aucun contenu de notification ne quitte votre appareil. Vous pouvez les gerer ou les desactiver dans Reglages iOS > Zebra.'] },
-          { heading: 'Rapports medicaux', paragraphs: ['Les rapports PDF sont generes sur votre appareil a partir des donnees que vous avez saisies. Zebra ne les televerse pas, ne les transmet pas et ne les stocke pas. Vous choisissez si et ou partager un export.'] },
+          { heading: 'Donnees de sante dans l app', paragraphs: ['Toutes les informations de sante saisies dans Zebra, y compris check-ins, poussees, tests orthostatiques, symptômes, médicaments, sel et hydratation, sont stockees localement sur votre appareil avec SwiftData d Apple. Selon vos reglages Apple/iCloud et la versión actuelle de l app, ces donnees peuvent se synchroniser de maniere privee via votre compte iCloud personnel avec CloudKit. Nous ne recevons, consultons ni stockons vos donnees de sante sur nos serveurs.'] },
+          { heading: 'Apple Health (HealthKit)', paragraphs: ['Si vous l autorisez, Zebra lit la fréquence cardiaque depuis Apple Health pour soutenir le test orthostatique. Zebra n écrit pas dans Apple Health et ne partage pas les donnees HealthKit avec des tiers. Vous pouvez retirer cette autorisation a tout moment dans Reglages iOS > Sante > Acces aux donnees et appareils.'] },
+          { heading: 'Notifications', paragraphs: ['Si vous activez les rappels quotidiens, Zebra utilise des notifications locales delivrees entierement sur votre appareil. Aucun contenu de notification ne quitte votre appareil. Vous pouvez les gérer ou les desactiver dans Reglages iOS > Zebra.'] },
+          { heading: 'Rapports médicaux', paragraphs: ['Les rapports PDF sont generes sur votre appareil a partir des donnees que vous avez saisies. Zebra ne les televerse pas, ne les transmet pas et ne les stocke pas. Vous choisissez si et ou partager un export.'] },
           { heading: 'Abonnements', paragraphs: ['Les abonnements Zebra Premium sont traites entierement par Apple. Nous ne collectons, ne voyons ni ne stockons vos informations de paiement. La gestion de l abonnement se fait via votre compte Apple ID.', 'Pour verifier si Premium est actif, l app utilise RevenueCat, un service d abonnements. RevenueCat recoit vos historiques d achat et d abonnement App Store, un identifiant anonyme cree par l app et les informations techniques transmises par toute requete reseau, comme votre adresse IP. Il ne recoit pas vos donnees de sante, et l app ne lui communique ni votre nom ni votre adresse e-mail.'] },
-          { heading: 'Contact via le site', paragraphs: ['Si vous nous contactez via ce site, nous pouvons collecter votre adresse e-mail et les informations que vous indiquez volontairement. Nous les utilisons pour repondre aux questions et fournir le support demande. Nous ne vendons pas vos donnees personnelles. Nous pouvons utiliser des services tiers, comme l e-mail ou l hebergement, pour gerer les communications.'] },
-          { heading: 'Mesure publicitaire sur le site', paragraphs: ['Nous diffusons des publicites sur Meta (Facebook et Instagram). Pour savoir si ces publicites atteignent les bonnes personnes, ce site peut charger le pixel Meta.', 'Il ne se charge que si vous cliquez sur Accepter dans le bandeau. Avant cela, il n est pas charge et aucune requete n est envoyee a Meta. Refuser est un vrai choix : le site fonctionne de la meme maniere.', 'Si vous acceptez, Meta recoit l information qu une page de ce site a ete vue et qu un bouton vers l App Store a ete clique, y compris son emplacement. Meta recoit aussi les informations techniques habituelles d une requete web, comme l adresse IP et le type de navigateur.', 'Meta ne recoit aucune donnee de sante. Ce site n a pas acces aux check-ins, poussees, symptomes, medicaments, tests orthostatiques ou rapports medicaux. Ces donnees ne sont jamais envoyees a ce site.', 'Les liens App Store peuvent aussi contenir des parametres de campagne Apple. App Store Connect les lit quand l App Store s ouvre; ils n executent pas de script dans votre navigateur.'] },
+          { heading: 'Contact via le site', paragraphs: ['Si vous nous contactez via ce site, nous pouvons collecter votre adresse e-mail et les informations que vous indiquez volontairement. Nous les utilisons pour répondre aux questions et fournir le support demande. Nous ne vendons pas vos donnees personnelles. Nous pouvons utiliser des services tiers, comme l e-mail ou l hebergement, pour gérer les communications.'] },
+          { heading: 'Mesure publicitaire sur le site', paragraphs: ['Nous diffusons des publicites sur Meta (Facebook et Instagram). Pour savoir si ces publicites atteignent les bonnes personnes, ce site peut charger le pixel Meta.', 'Il ne se charge que si vous cliquez sur Accepter dans le bandeau. Avant cela, il n est pas charge et aucune requete n est envoyee a Meta. Refuser est un vrai choix : le site fonctionne de la meme maniere.', 'Si vous acceptez, Meta recoit l information qu une page de ce site a été vue et qu un bouton vers l App Store a été clique, y compris son emplacement. Meta recoit aussi les informations techniques habituelles d une requete web, comme l adresse IP et le type de navigateur.', 'Meta ne recoit aucune donnee de sante. Ce site n a pas acces aux check-ins, poussees, symptômes, médicaments, tests orthostatiques ou rapports médicaux. Ces donnees ne sont jamais envoyees a ce site.', 'Les liens App Store peuvent aussi contenir des parametres de campagne Apple. App Store Connect les lit quand l App Store s ouvre; ils n executent pas de script dans votre navigateur.'] },
           { heading: 'Changer votre choix sur la mesure publicitaire', paragraphs: ['Selectionnez Preferences de cookies en bas de cette page ou dans le pied de page du site. Cela efface votre choix enregistre et affiche de nouveau le bandeau. Refuser empeche le pixel de se charger lors des visites suivantes.', 'Votre choix est conserve uniquement dans le stockage local de votre navigateur sous zebra_consent_v1. Nous n en avons pas de copie. Si vous effacez les donnees du navigateur, le choix vous sera redemande.'] },
-          { heading: 'Conservation des donnees', paragraphs: ['Nous conservons les informations de contact du site uniquement le temps necessaire pour communiquer et repondre aux demandes de support. Les donnees de sante de l app restent sur votre appareil et peuvent se synchroniser via votre iCloud personnel selon vos reglages. Elles ne sont pas conservees par nous.', 'Les donnees de mesure publicitaire collectees par le pixel Meta sont conservees par Meta selon ses propres conditions. Nous les voyons seulement sous forme de rapports agreges de campagne.'] },
+          { heading: 'Conservation des donnees', paragraphs: ['Nous conservons les informations de contact du site uniquement le temps nécessaire pour communiquer et répondre aux demandes de support. Les donnees de sante de l app restent sur votre appareil et peuvent se synchroniser via votre iCloud personnel selon vos reglages. Elles ne sont pas conservees par nous.', 'Les donnees de mesure publicitaire collectees par le pixel Meta sont conservees par Meta selon ses propres conditions. Nous les voyons seulement sous forme de rapports agreges de campagne.'] },
           { heading: 'Vos choix', appendContactEmail: true, paragraphs: ['Pour supprimer vos donnees de sante, ouvrez dans l app Moi > Donnees et confidentialite > Supprimer les donnees. Cela efface vos suivis quotidiens et vos tests orthostatiques, et si la synchronisation iCloud est active, la suppression s applique aussi a votre compte iCloud. Supprimer seulement l app ne suffit pas si vous utilisez iCloud : la copie synchronisee reste dans votre compte iCloud et revient si vous reinstallez Zebra.', 'Vous pouvez accepter ou refuser la mesure publicitaire sur ce site a tout moment via Preferences de cookies. Pour demander la suppression d informations de contact du site, ecrivez-nous a'] },
-          { heading: 'Information medicale', paragraphs: ['Zebra n est pas un prestataire medical. Rien dans l app ou sur ce site ne constitue un avis medical, un diagnostic ou un traitement. Consultez toujours un professionnel de sante qualifie pour les decisions medicales.'] },
+          { heading: 'Information médicale', paragraphs: ['Zebra n est pas un prestataire médical. Rien dans l app ou sur ce site ne constitue un avis médical, un diagnostic ou un traitement. Consultez toujours un professionnel de sante qualifie pour les décisions medicales.'] },
         ],
         relatedLinks: relatedLinks('fr-fr', { landing: 'Landing page', support: 'Support', privacy: 'Confidentialite', terms: 'Conditions' }),
         relatedLinksLabel: 'Liens de confidentialite',
@@ -409,7 +409,7 @@ export const phase2Pages = {
     ),
     terms: withLegalMeta(
       {
-        seo: { title: 'Conditions d utilisation — Zebra', description: 'Conditions d utilisation de Zebra, une app de suivi des symptomes pour POTS, SED et fibromyalgie.' },
+        seo: { title: 'Conditions d utilisation — Zebra', description: 'Conditions d utilisation de Zebra, une app de suivi des symptômes pour POTS, SED et fibromyalgie.' },
         backHref: localeRoutes.frFr,
         backLabel: 'Retour a Zebra',
         eyebrow: 'Conditions',
@@ -417,12 +417,12 @@ export const phase2Pages = {
         updated: 'Derniere mise a jour : 18 mai 2026',
         intro: ['En telechargeant ou en utilisant l app Zebra ou ce site, vous acceptez ces conditions. Si vous ne les acceptez pas, veuillez ne pas utiliser Zebra.'],
         sections: [
-          { heading: 'Objet de l app', paragraphs: ['Zebra est un outil personnel de suivi des symptomes pour les personnes avec POTS, SED et fibromyalgie. Il aide a enregistrer et relire vos propres informations de sante et a generer des resumes a partager avec vos soignants.'] },
-          { heading: 'Avertissement medical', paragraphs: ['Zebra ne fournit pas d avis medical, de diagnostic ou de traitement. Rien dans l app ou sur ce site ne remplace l avis d un professionnel de sante qualifie. Demandez conseil a un clinicien avant toute decision medicale. En cas d urgence medicale, contactez immediatement les services d urgence.'] },
-          { heading: 'Abonnements', paragraphs: ['Zebra propose des abonnements renouvelables automatiquement sous le nom Zebra Premium.', 'Les prix sont en USD et peuvent varier selon la region comme determine par Apple. L ecran d achat de l app peut inclure un essai gratuit de 7 jours pour les nouveaux abonnes eligibles; verifiez toujours la feuille d achat Apple actuelle avant de vous abonner. Apres l essai, le paiement est facture via votre compte Apple ID. Les abonnements se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin de la periode en cours. Vous pouvez gerer ou annuler l abonnement dans Reglages iOS > Apple ID > Abonnements.'], listItems: ['Mensuel — 4,99 USD par mois', 'Annuel — 39,99 USD par an'] },
+          { heading: 'Objet de l app', paragraphs: ['Zebra est un outil personnel de suivi des symptômes pour les personnes avec POTS, SED et fibromyalgie. Il aide a enregistrer et relire vos propres informations de sante et a générer des resumes a partager avec vos soignants.'] },
+          { heading: 'Avertissement médical', paragraphs: ['Zebra ne fournit pas d avis médical, de diagnostic ou de traitement. Rien dans l app ou sur ce site ne remplace l avis d un professionnel de sante qualifie. Demandez conseil a un clinicien avant toute décision médicale. En cas d urgence médicale, contactez immediatement les services d urgence.'] },
+          { heading: 'Abonnements', paragraphs: ['Zebra propose des abonnements renouvelables automatiquement sous le nom Zebra Premium.', 'Les prix sont en USD et peuvent varier selon la region comme determine par Apple. L écran d achat de l app peut inclure un essai gratuit de 7 jours pour les nouveaux abonnes eligibles; verifiez toujours la feuille d achat Apple actuelle avant de vous abonner. Après l essai, le paiement est facture via votre compte Apple ID. Les abonnements se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin de la periode en cours. Vous pouvez gérer ou annuler l abonnement dans Reglages iOS > Apple ID > Abonnements.'], listItems: ['Mensuel — 4,99 USD par mois', 'Annuel — 39,99 USD par an'] },
           { heading: 'Versión gratuite', paragraphs: ['La versión gratuite inclut toutes les fonctions de suivi et 30 jours d historique. Aucune information de paiement n est requise pour l utiliser.'] },
           { heading: 'Utilisation acceptable', paragraphs: ['Vous acceptez de ne pas utiliser l app ou le site de facon abusive, de ne pas perturber leur fonctionnement et de ne pas soumettre d informations fausses ou nuisibles.'] },
-          { heading: 'Propriete intellectuelle', paragraphs: ['Sauf indication contraire, le contenu, la marque, le design et les materiaux de l app et du site appartiennent a Zebra et ne peuvent pas etre copies ou redistribues sans autorisation.'] },
+          { heading: 'Propriete intellectuelle', paragraphs: ['Sauf indication contraire, le contenu, la marque, le design et les materiaux de l app et du site appartiennent a Zebra et ne peuvent pas être copies ou redistribues sans autorisation.'] },
           { heading: 'Services tiers', paragraphs: ['L app utilise des services Apple, notamment CloudKit, HealthKit, StoreKit et les notifications locales. Votre utilisation de ces services est egalement soumise aux conditions et politiques d Apple.'] },
           { heading: 'Contact', appendContactEmail: true, paragraphs: ['Pour toute question sur ces conditions, contactez-nous a'] },
         ],
@@ -434,17 +434,17 @@ export const phase2Pages = {
       '/terms/',
     ),
     support: {
-      seo: { title: 'Support — Zebra', description: 'Support pour Zebra, l app de suivi des symptomes pour POTS, SED et fibromyalgie.', alternates: alternatesForPath('/support/') },
+      seo: { title: 'Support — Zebra', description: 'Support pour Zebra, l app de suivi des symptômes pour POTS, SED et fibromyalgie.', alternates: alternatesForPath('/support/') },
       lang: homePageFrFr.locale.htmlLang,
       backHref: localeRoutes.frFr,
       backLabel: 'Retour a Zebra',
       eyebrow: 'Support',
       title: 'Support Zebra',
-      intro: 'Besoin d aide avec Zebra, le rapport medical ou votre abonnement ? Cette page rassemble les moyens les plus rapides de debloquer la situation.',
+      intro: 'Besoin d aide avec Zebra, le rapport médical ou votre abonnement ? Cette page rassemble les moyens les plus rapides de debloquer la situation.',
       columns: {
         primary: [
-          { heading: 'Comment obtenir de l aide', listItems: ['Pour l aide produit, envoyez-nous une breve description de ce qui s est passe.', 'Pour la facturation ou l abonnement, utilisez les reglages d abonnements App Store sur votre iPhone.', 'Pour les questions de rapport medical, indiquez ce que vous vouliez exporter et ce qui s est passe juste avant le probleme.'] },
-          { heading: 'Ce que Zebra ne fait pas', paragraphs: ['Zebra n est pas un prestataire medical, un outil de diagnostic ou un service d urgence. L app aide a suivre et organiser des informations pour les rendez-vous specialises. Elle ne fournit pas d avis medical.'] },
+          { heading: 'Comment obtenir de l aide', listItems: ['Pour l aide produit, envoyez-nous une breve description de ce qui s est passe.', 'Pour la facturation ou l abonnement, utilisez les reglages d abonnements App Store sur votre iPhone.', 'Pour les questions de rapport médical, indiquez ce que vous vouliez exporter et ce qui s est passe juste avant le problème.'] },
+          { heading: 'Ce que Zebra ne fait pas', paragraphs: ['Zebra n est pas un prestataire médical, un outil de diagnostic ou un service d urgence. L app aide a suivre et organiser des informations pour les rendez-vous specialises. Elle ne fournit pas d avis médical.'] },
         ],
         secondary: [
           { kind: 'contact-list', heading: 'Contact', links: [{ href: `mailto:${siteConfig.support.email}`, label: siteConfig.support.email }, { href: siteConfig.appStore.url, label: 'Fiche App Store', external: true }] },
@@ -465,11 +465,11 @@ export const localizedHubCopy = {
       title: 'Zebra Ratgeber — Symptomtracking, POTS und Terminvorbereitung',
       description: 'Zebra-Ratgeber zu Symptomtracking, Arztberichten, Facharztterminen, POTS, Dysautonomie und niedriger Energie.',
       eyebrow: 'Wissensbereich',
-      heading: 'Ratgeber, die verstreute Symptome zu einer klareren Geschichte machen.',
-      intro: 'Der Zebra-Blog dreht sich um Symptomtracking, Facharzttermine, orthostatische Symptome und den Ablauf zum arztbereiten Bericht.',
+      heading: 'Ratgeber, die verstreute Symptôme zu einer klareren Geschichte machen.',
+      intro: 'Der Zebra-Blog dreht sich um Symptomtracking, Facharzttermine, orthostatische Symptôme und den Ablauf zum arztbereiten Bericht.',
       filtersLabel: 'Kategorien',
       knowledgeLabel: 'Wissensbereich',
-      featuredEyebrow: 'Ausgewaehlter Artikel',
+      featuredEyebrow: 'Ausgewählter Artikel',
       latestEyebrow: 'Neueste Artikel',
       latestTitle: 'Die Sprint-1-Bibliothek',
       readGuide: 'Guide lesen',
@@ -478,10 +478,10 @@ export const localizedHubCopy = {
     },
     knowledge: {
       title: 'Zebra Wissensbereich — Begriffe, Definitionen und Ratgeber',
-      description: 'Durchsuchen Sie Zebras Wissensbereich fuer verbundene Definitionen, Symptomtracking-Konzepte und Artikelcluster rund um Terminvorbereitung.',
+      description: 'Durchsuchen Sie Zebras Wissensbereich für verbundene Definitionen, Symptomtracking-Konzepte und Artikelcluster rund um Terminvorbereitung.',
       eyebrow: 'Wissensbereich',
       heading: 'Verbundene Definitionen statt isolierter Seiten.',
-      intro: 'Diese Begriffseiten verbinden Zebra-Artikel zu einer verstaendlichen Karte fuer Menschen, Suchmaschinen und KI-Systeme.',
+      intro: 'Diese Begriffseiten verbinden Zebra-Artikel zu einer verständlichen Karte für Menschen, Suchmaschinen und KI-Systeme.',
       conditionHubsLabel: 'Erkrankungs-Hubs',
       relatedArticles: 'verwandte Artikel',
       breadcrumbs: { home: 'Startseite', knowledge: 'Wissensbereich' },
@@ -518,12 +518,12 @@ export const localizedHubCopy = {
   'fr-fr': {
     home: homePageFrFr,
     blog: {
-      title: 'Guides Zebra — suivi des symptomes, POTS et preparation de rendez-vous',
-      description: 'Lisez les guides Zebra sur le suivi des symptomes, les rapports medicaux, les rendez-vous specialises, le POTS et les workflows a faible energie.',
+      title: 'Guides Zebra — suivi des symptômes, POTS et préparation de rendez-vous',
+      description: 'Lisez les guides Zebra sur le suivi des symptômes, les rapports médicaux, les rendez-vous specialises, le POTS et les workflows a faible energie.',
       eyebrow: 'Hub de connaissances',
-      heading: 'Des articles qui transforment des symptomes eparpilles en histoire plus claire.',
-      intro: 'Le blog Zebra est construit autour du suivi des symptomes, des rendez-vous specialises, des symptomes orthostatiques et du rapport pour le medecin.',
-      filtersLabel: 'Categories',
+      heading: 'Des articles qui transforment des symptômes eparpilles en histoire plus claire.',
+      intro: 'Le blog Zebra est construit autour du suivi des symptômes, des rendez-vous specialises, des symptômes orthostatiques et du rapport pour le médecin.',
+      filtersLabel: 'Catégories',
       knowledgeLabel: 'Hub de connaissances',
       featuredEyebrow: 'Article a la une',
       latestEyebrow: 'Derniers articles',
@@ -534,10 +534,10 @@ export const localizedHubCopy = {
     },
     knowledge: {
       title: 'Hub de connaissances Zebra — notions, definitions et guides',
-      description: 'Parcourez le hub de connaissances Zebra pour les definitions connectees, le suivi des symptomes et la preparation de rendez-vous.',
+      description: 'Parcourez le hub de connaissances Zebra pour les definitions connectees, le suivi des symptômes et la préparation de rendez-vous.',
       eyebrow: 'Hub de connaissances',
       heading: 'Des definitions connectees, pas des pages isolees.',
-      intro: 'Ces pages relient les articles Zebra dans une carte comprehensible pour les personnes, les moteurs de recherche et les systemes IA.',
+      intro: 'Ces pages relient les articles Zebra dans une carte comprehensible pour les personnes, les moteurs de recherche et les systèmes IA.',
       conditionHubsLabel: 'Hubs de conditions',
       relatedArticles: 'articles lies',
       breadcrumbs: { home: 'Accueil', knowledge: 'Hub de connaissances' },

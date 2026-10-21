@@ -3,9 +3,9 @@ locale: "de-de"
 originalSlug: "pots-home-test-notes-heart-rate-blood-pressure"
 title: "POTS-Test zuhause: Schellong-Test-Notizen mit Puls und Blutdruck"
 status: "published"
-subtitle: "Wenn Sie zu Hause orthostatische Werte oder Schellong-Test-Notizen sammeln, ist nicht ein einzelner Pulswert entscheidend. Nuetzlicher ist eine kurze Aufzeichnung mit Haltung, Zeitpunkt, Symptomen, Medikamenten, Fluessigkeit, Sicherheitskontext und der Frage fuer den Arzt."
-description: "Was bei einem POTS-Test zuhause oder Schellong-Test-Notizen nuetzlich sein kann: Haltung, Zeit, Puls, Blutdruck, Symptome, Medikamente, Fluessigkeit und Sicherheit."
-excerpt: "Ein praktischer Leitfaden fuer POTS-Test zuhause, Schellong-Test-Notizen, Puls, Blutdruck, Symptome und Kontext fuer Arzttermine."
+subtitle: "Wenn Sie zu Hause orthostatische Werte oder Schellong-Test-Notizen sammeln, ist nicht ein einzelner Pulswert entscheidend. Nützlicher ist eine kurze Aufzeichnung mit Haltung, Zeitpunkt, Symptomen, Medikamenten, Flüssigkeit, Sicherheitskontext und der Frage für den Arzt."
+description: "Was bei einem POTS-Test zuhause oder Schellong-Test-Notizen nützlich sein kann: Haltung, Zeit, Puls, Blutdruck, Symptome, Medikamente, Flüssigkeit und Sicherheit."
+excerpt: "Ein praktischer Leitfaden für POTS-Test zuhause, Schellong-Test-Notizen, Puls, Blutdruck, Symptome und Kontext für Arzttermine."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-09-02"
@@ -18,14 +18,14 @@ cluster: "POTS"
 category: "POTS"
 primaryKeyword: "POTS Test zuhause Schellong Test Notizen"
 seoTitle: "POTS-Test zuhause: Schellong-Notizen | Zebra"
-metaDescription: "POTS-Test zuhause oder Schellong-Test-Notizen: Puls, Blutdruck, Haltung, Zeitpunkt, Symptome, Medikamente, Fluessigkeit und Arztfragen erfassen."
+metaDescription: "POTS-Test zuhause oder Schellong-Test-Notizen: Puls, Blutdruck, Haltung, Zeitpunkt, Symptome, Medikamente, Flüssigkeit und Arztfragen erfassen."
 ogTitle: "POTS-Test zuhause: Schellong-Test-Notizen"
-ogDescription: "Ein praktischer Leitfaden fuer orthostatische Notizen mit Puls, Blutdruck, Symptomen und Kontext."
+ogDescription: "Ein praktischer Leitfaden für orthostatische Notizen mit Puls, Blutdruck, Symptomen und Kontext."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Zebra Orthostase-Test Ansicht mit positionsbezogener Symptom- und Vitalwert-Erfassung."
 ctaLabel: "Zebra herunterladen"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Nutzen Sie Zebra, um orthostatische Notizen, Symptome, Vitalwerte, Fluessigkeit, Medikamente, Alltagsauswirkung und Arztfragen in einer Timeline zu behalten."
+ctaNote: "Nutzen Sie Zebra, um orthostatische Notizen, Symptome, Vitalwerte, Flüssigkeit, Medikamente, Alltagsauswirkung und Arztfragen in einer Timeline zu behalten."
 categories:
   - "POTS"
   - "Dysautonomia"
@@ -59,105 +59,105 @@ secondaryKeywords:
   - "Schellong Test zuhause"
   - "orthostatischer Test Notizen"
   - "Stehtest Notizen"
-  - "was fuer POTS Termin erfassen"
+  - "was für POTS Termin erfassen"
 schemaTypes:
   - "Article"
   - "HowTo"
   - "FAQPage"
 faq:
   - question: "Was sollte ich bei einem POTS-Test zuhause oder Schellong-Test-Notizen erfassen?"
-    answer: "Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit oder Salz wenn relevant fuer Ihren Behandlungsplan, Sicherheitsnotizen und die Frage fuer den Arzt."
+    answer: "Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Flüssigkeit oder Salz wenn relevant für Ihren Behandlungsplan, Sicherheitsnotizen und die Frage für den Arzt."
   - question: "Kann ein Stehtest zu Hause POTS diagnostizieren?"
-    answer: "Nein. Heimnotizen koennen ein Arztgespraech unterstuetzen, aber POTS-Diagnose braucht klinische Einordnung und das Ausschliessen anderer Ursachen fuer Tachykardie oder orthostatische Symptome."
+    answer: "Nein. Heimnotizen können ein Arztgespräch unterstützen, aber POTS-Diagnose braucht klinische Einordnung und das Ausschliessen anderer Ursachen für Tachykardie oder orthostatische Symptome."
   - question: "Wann sollte ich eine orthostatische Messung zu Hause stoppen?"
-    answer: "Stoppen Sie, wenn Sie sich unsicher fuehlen, ohnmaechtig werden koennten, schwere Symptome entwickeln oder Ihr Arzt bestimmte Stop-Regeln gegeben hat. Setzen oder legen Sie sich hin und suchen Sie medizinische Hilfe bei besorgniserregenden Symptomen."
-  - question: "Sollte ich Salz, Fluessigkeit oder Medikamente wegen Heimwerten aendern?"
-    answer: "Nein. Aendern Sie Behandlung nicht nur aufgrund von Heimwerten. Nutzen Sie die Notizen, um Ihren Arzt zu fragen, was fuer Sie passend ist."
+    answer: "Stoppen Sie, wenn Sie sich unsicher fühlen, ohnmächtig werden könnten, schwere Symptome entwickeln oder Ihr Arzt bestimmte Stop-Regeln gegeben hat. Setzen oder legen Sie sich hin und suchen Sie medizinische Hilfe bei besorgniserregenden Symptomen."
+  - question: "Sollte ich Salz, Flüssigkeit oder Medikamente wegen Heimwerten ändern?"
+    answer: "Nein. Ändern Sie Behandlung nicht nur aufgrund von Heimwerten. Nutzen Sie die Notizen, um Ihren Arzt zu fragen, was für Sie passend ist."
   - question: "Ist Zebra medizinischer Rat?"
-    answer: "Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte fuer Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
+    answer: "Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte für Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Notizen zu einem POTS-Test zuhause, Stehtest oder [Schellong-Test](/de-de/orthostatic-vitals-test/) sind am nuetzlichsten, wenn Puls und Blutdruck mit Haltung, Zeitpunkt, Symptomen und Kontext verbunden bleiben.
+Notizen zu einem POTS-Test zuhause, Stehtest oder [Schellong-Test](/de-de/orthostatic-vitals-test/) sind am nützlichsten, wenn Puls und Blutdruck mit Haltung, Zeitpunkt, Symptomen und Kontext verbunden bleiben.
 
-Wenn Sie diese Beobachtungen in Zebra sammeln wollen, fuehrt die Seite zum [Schellong-Test und orthostatischen Werten](/de-de/orthostatic-vitals-test/) durch den passenden Dokumentationspfad. Fuer den breiteren Verlauf rund um Symptome, Schuebe und Arzttermine ist das [POTS-Tagebuch](/de-de/pots-tracker/) der bessere Einstieg.
+Wenn Sie diese Beobachtungen in Zebra sammeln wollen, führt die Seite zum [Schellong-Test und orthostatischen Werten](/de-de/orthostatic-vitals-test/) durch den passenden Dokumentationspfad. Für den breiteren Verlauf rund um Symptome, Schübe und Arzttermine ist das [POTS-Tagebuch](/de-de/pots-tracker/) der bessere Einstieg.
 
-Zahlen allein koennen taeuschen. Ein Pulswert ohne "liegend, stehend, Minute 2, schwindelig, Medikament genommen" ist viel weniger hilfreich als eine einfache Timeline. Das Ziel ist keine Selbstdiagnose zu Hause. Das Ziel ist, klarere Beobachtungen zum Arzt mitzunehmen.
+Zahlen allein können täuschen. Ein Pulswert ohne "liegend, stehend, Minute 2, schwindelig, Medikament genommen" ist viel weniger hilfreich als eine einfache Timeline. Das Ziel ist keine Selbstdiagnose zu Hause. Das Ziel ist, klarere Beobachtungen zum Arzt mitzunehmen.
 
-Kurz gesagt: Notieren Sie Setup, Haltung, Messzeitpunkt, Puls, Blutdruck, Symptome im selben Moment, Erholung, Sicherheitsgrund fuer einen Abbruch und die Frage, die Sie beim Termin klaeren wollen.
+Kurz gesagt: Notieren Sie Setup, Haltung, Messzeitpunkt, Puls, Blutdruck, Symptome im selben Moment, Erholung, Sicherheitsgrund für einen Abbruch und die Frage, die Sie beim Termin klären wollen.
 
 ## Heimnotizen sind kein medizinisches Testergebnis
 
-Ein klinischer Schellong-Test oder orthostatischer Test gehoert in die medizinische Einordnung. Heimwerte koennen ein Arztgespraech unterstuetzen, aber sie ersetzen keine Untersuchung. Geraete messen unterschiedlich, Symptome koennen schnell wechseln, und Puls oder Blutdruck koennen durch viele Faktoren beeinflusst werden.
+Ein klinischer Schellong-Test oder orthostatischer Test gehört in die medizinische Einordnung. Heimwerte können ein Arztgespräch unterstützen, aber sie ersetzen keine Untersuchung. Geräte messen unterschiedlich, Symptome können schnell wechseln, und Puls oder Blutdruck können durch viele Faktoren beeinflusst werden.
 
 Formulieren Sie Heimnotizen als Beobachtung:
 
 - "Minute 2 im Stehen, schwindelig, Puls 112, Blutdruck 110/72"
 - "Liegen half nach 4 Minuten"
 - "Morgendosis Medikament war genommen"
-- "Koennen wir besprechen, was das bedeutet?"
+- "Können wir besprechen, was das bedeutet?"
 
-Das ist nuetzlicher und sicherer als: "Ich habe mich selbst diagnostiziert."
+Das ist nützlicher und sicherer als: "Ich habe mich selbst diagnostiziert."
 
 ## Mit Sicherheit beginnen
 
-Machen Sie keinen Steh-Check zu Hause, wenn Ihr Arzt davon abgeraten hat, wenn Sie allein sind und zu Ohnmacht neigen oder wenn Sie sich unsicher fuehlen.
+Machen Sie keinen Steh-Check zu Hause, wenn Ihr Arzt davon abgeraten hat, wenn Sie allein sind und zu Ohnmacht neigen oder wenn Sie sich unsicher fühlen.
 
 Stoppen und setzen oder legen Sie sich hin bei:
 
-- Gefuehl, gleich ohnmaechtig zu werden
+- Gefühl, gleich ohnmächtig zu werden
 - Brustschmerz
 - Atemnot
-- starker Schwaeche
+- starker Schwäche
 - neuen neurologischen Symptomen
-- Symptomen, die fuer Sie ungewohnt oder schwer wirken
+- Symptomen, die für Sie ungewohnt oder schwer wirken
 
 Tracking zu Hause darf nie wichtiger sein als Sicherheit.
 
 ## Setup vor den Zahlen notieren
 
-Das Setup erklaert, warum zwei Tage unterschiedlich aussehen.
+Das Setup erklärt, warum zwei Tage unterschiedlich aussehen.
 
 Notieren Sie:
 
 - Datum und Uhrzeit
 - Morgen, Nachmittag oder Abend
 - wie lange Sie vor Start lagen oder sassen
-- ob Sie kuerzlich gegessen haben
-- Fluessigkeit und Elektrolyte
+- ob Sie kürzlich gegessen haben
+- Flüssigkeit und Elektrolyte
 - Salzkontext, wenn Ihr Arzt das mit Ihnen verfolgt
 - Koffein oder Alkohol, falls relevant
 - Kompressionskleidung
-- Medikamentenzeitpunkt, vergessene Dosen oder Dosisaenderungen
+- Medikamentenzeitpunkt, vergessene Dosen oder Dosisänderungen
 - Krankheit, Periode, Schmerzspitze, schlechter Schlaf, Hitze oder Flare-Tag
 
-Die Heart Rhythm Society beschreibt, dass POTS-Symptome beim Stehen auftreten und haeufig Benommenheit, Herzklopfen, Zittern, Schwaeche, verschwommenes Sehen, Belastungsintoleranz und Fatigue einschliessen. Kontext hilft Ihrem Arzt, die Zahlen einzuordnen.
+Die Heart Rhythm Society beschreibt, dass POTS-Symptome beim Stehen auftreten und häufig Benommenheit, Herzklopfen, Zittern, Schwäche, verschwommenes Sehen, Belastungsintoleranz und Fatigue einschliessen. Kontext hilft Ihrem Arzt, die Zahlen einzuordnen.
 
 ## Schellong-Test, Stehtest und Haltung plus Zeit
 
 Verbinden Sie jeden Wert mit Haltung und Zeitpunkt.
 
-Nuetzliche Labels:
+Nützliche Labels:
 
 - liegende Baseline nach ruhiger Pause
-- sitzende Baseline, wenn Liegen nicht moeglich ist
+- sitzende Baseline, wenn Liegen nicht möglich ist
 - direkt nach dem Aufstehen
 - Stehen Minute 2
 - Stehen Minute 5
 - Stehen Minute 10, nur wenn sicher und vom Arzt erlaubt
 - Erholung nach Sitzen oder Liegen
 
-Deutsche Quellen verwenden fuer diesen Themenbereich Begriffe wie Schellong-Test, Stehtest und Orthostase-Test. DocCheck beschreibt den Schellong-Test als Funktionstest, der Veraenderungen von Herzfrequenz und Blutdruck unter orthostatischer Belastung betrachtet. Welche Form, Dauer und Messpunkte fuer Sie sinnvoll sind, sollte Ihr Arzt festlegen.
+Deutsche Quellen verwenden für diesen Themenbereich Begriffe wie Schellong-Test, Stehtest und Orthostase-Test. DocCheck beschreibt den Schellong-Test als Funktionstest, der Veränderungen von Herzfrequenz und Blutdruck unter orthostatischer Belastung betrachtet. Welche Form, Dauer und Messpunkte für Sie sinnvoll sind, sollte Ihr Arzt festlegen.
 
 ## Puls und Blutdruck zusammen erfassen
 
 Puls ohne Blutdruck kann einen Teil der Geschichte verpassen. Blutdruck ohne Symptome ist ebenfalls schwer einzuordnen.
 
-Fuer jeden Zeitpunkt erfassen:
+Für jeden Zeitpunkt erfassen:
 
 - Puls
 - systolischer Blutdruck
 - diastolischer Blutdruck
-- Symptomstaerke von 0 bis 10
+- Symptomstärke von 0 bis 10
 - Hauptsymptom in diesem Moment
 
 Beispiel:
@@ -171,42 +171,42 @@ Beispiel:
 
 So eine Notiz ist viel leichter zu besprechen als lose Messwerte.
 
-## Symptome im selben Moment ergaenzen
+## Symptome im selben Moment ergänzen
 
-Orthostatische Notizen zeigen, wie der Koerper auf Haltung reagiert, nicht nur was das Geraet sagt.
+Orthostatische Notizen zeigen, wie der Körper auf Haltung reagiert, nicht nur was das Gerät sagt.
 
 Erfassen Sie:
 
 - Schwindel oder Benommenheit
 - Herzklopfen oder rasender Puls
 - Zittern
-- Schwaeche
+- Schwäche
 - verschwommenes Sehen oder Tunnelblick
-- Uebelkeit
+- Übelkeit
 - Atemnot
 - Brustbeschwerden
-- Schwitzen, Flush oder Hitzegefuehl
+- Schwitzen, Flush oder Hitzegefühl
 - Brain Fog
 - Fatigue
-- Praesynkope oder Ohnmacht
+- Präsynkope oder Ohnmacht
 
 Wenn Liegen die Symptome bessert, notieren Sie das auch.
 
 ## Kriterien nicht zur Selbstdiagnose machen
 
-Fachquellen beschreiben POTS mit anhaltendem Pulsanstieg beim Stehen, Symptomen orthostatischer Intoleranz und ohne relevante orthostatische Hypotonie. Sie betonen auch klinische Einordnung und das Ausschliessen anderer Ursachen wie Dehydrierung, Infekt, Anaemie, Fieber, Schmerz, Schilddruesenerkrankung, Medikamenteffekte oder lange Bettruhe.
+Fachquellen beschreiben POTS mit anhaltendem Pulsanstieg beim Stehen, Symptomen orthostatischer Intoleranz und ohne relevante orthostatische Hypotonie. Sie betonen auch klinische Einordnung und das Ausschliessen anderer Ursachen wie Dehydrierung, Infekt, Anämie, Fieber, Schmerz, Schilddrüsenerkrankung, Medikamenteffekte oder lange Bettruhe.
 
 Ihre Heimnotiz sollte also nicht sagen: "Ich habe mich diagnostiziert."
 
 Sie kann sagen:
 
-"Ich habe mehrere Steh-Episoden erfasst. Symptome traten aufrecht auf, der Puls stieg, und Liegen half. Koennen wir pruefen, ob das zu POTS, orthostatischer Hypotonie, vasovagaler Synkope, einem anderen Dysautonomie-Muster oder etwas anderem passt?"
+"Ich habe mehrere Steh-Episoden erfasst. Symptome traten aufrecht auf, der Puls stieg, und Liegen half. Können wir prüfen, ob das zu POTS, orthostatischer Hypotonie, vasovagaler Synkope, einem anderen Dysautonomie-Muster oder etwas anderem passt?"
 
-Das ist eine staerkere Arztfrage.
+Das ist eine stärkere Arztfrage.
 
 ## Auch Alltagsepisoden erfassen
 
-Strukturierte Notizen sind hilfreich, aber Alltagsepisoden zaehlen auch.
+Strukturierte Notizen sind hilfreich, aber Alltagsepisoden zählen auch.
 
 Erfassen Sie Symptome bei:
 
@@ -218,7 +218,7 @@ Erfassen Sie Symptome bei:
 - Hitze
 - nach Mahlzeiten
 - nach Sport
-- waehrend eines Flares
+- während eines Flares
 - nach schlechtem Schlaf
 
 Notieren Sie:
@@ -229,21 +229,21 @@ Notieren Sie:
 - ob Sitzen half
 - ob Liegen half
 - Erholungszeit
-- was die Episode am Tag veraendert hat
+- was die Episode am Tag verändert hat
 
 ## Einfache Heimnotiz-Vorlage
 
 Nutzen Sie diese Struktur:
 
-1. Setup: Uhrzeit, Schlaf, Essen, Fluessigkeit, Salz, Medikamente, Kompression, Krankheit, Hitze.
+1. Setup: Uhrzeit, Schlaf, Essen, Flüssigkeit, Salz, Medikamente, Kompression, Krankheit, Hitze.
 2. Baseline: Haltung, Puls, Blutdruck, Symptome.
 3. Stehwerte: Minute, Puls, Blutdruck, Symptome.
-4. Stopp-Grund: beendet, Symptome, Sicherheit, Ohnmachtsgefuehl.
+4. Stopp-Grund: beendet, Symptome, Sicherheit, Ohnmachtsgefühl.
 5. Erholung: Sitzen oder Liegen, Zeit bis Besserung.
-6. Auswirkung: was danach nicht moeglich war.
-7. Frage an den Arzt: was soll ich als Naechstes erfassen?
+6. Auswirkung: was danach nicht möglich war.
+7. Frage an den Arzt: was soll ich als Nächstes erfassen?
 
-Kurze, konstante Notizen sind nuetzlicher als einmal perfekte Daten.
+Kurze, konstante Notizen sind nützlicher als einmal perfekte Daten.
 
 ## Was Sie zum Arzttermin mitbringen
 
@@ -255,15 +255,15 @@ Hilfreich sind:
 - Werte, nach denen Ihr Arzt gefragt hat
 - Symptome, die im Stehen auftraten
 - ob Sitzen oder Liegen half
-- Medikamenten- oder Fluessigkeitskontext
+- Medikamenten- oder Flüssigkeitskontext
 - was danach im Alltag nicht mehr ging
-- Ihre naechste Frage
+- Ihre nächste Frage
 
-Wenn Sie aus mehreren Wochen eine kuerzere Zusammenfassung brauchen, hilft der [Symptombericht fuer den Arzt](/de-de/doctor-report/). Fuer den Terminablauf fuehrt die [Vorbereitung auf den Arzttermin](/de-de/appointment-prep-checklist/) weiter.
+Wenn Sie aus mehreren Wochen eine kürzere Zusammenfassung brauchen, hilft der [Symptombericht für den Arzt](/de-de/doctor-report/). Für den Terminablauf führt die [Vorbereitung auf den Arzttermin](/de-de/appointment-prep-checklist/) weiter.
 
 ## Quellenkontext
 
-Hilfreiche Hintergruende:
+Hilfreiche Hintergründe:
 
 - [Bateman Horne Center NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
 - [Heart Rhythm Society Konsensus zu POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
@@ -276,15 +276,15 @@ Hilfreiche Hintergruende:
 
 ## Wo Zebra hilft
 
-Zebra hilft, [orthostatische Testnotizen](/de-de/orthostatic-vitals-test/), Symptome, Puls, Blutdruck, Medikamente, Fluessigkeit, Salzkontext, Ausloeser, Alltagsauswirkung und Arztfragen an einem Ort zu behalten.
+Zebra hilft, [orthostatische Testnotizen](/de-de/orthostatic-vitals-test/), Symptome, Puls, Blutdruck, Medikamente, Flüssigkeit, Salzkontext, Auslöser, Alltagsauswirkung und Arztfragen an einem Ort zu behalten.
 
 Zebra diagnostiziert POTS nicht und interpretiert Ihre Werte nicht. Es hilft, eine klarere Aufzeichnung zum Arzt mitzunehmen.
 
 ## Wichtigste Punkte
 
 - Erfassen Sie Haltung, Zeit, Puls, Blutdruck, Symptome und Kontext zusammen.
-- Stoppen Sie jeden Heim-Check, wenn Sie sich unsicher fuehlen.
-- Aendern Sie Salz, Fluessigkeit, Kompression oder Medikamente nicht ohne Arzt wegen Heimwerten.
+- Stoppen Sie jeden Heim-Check, wenn Sie sich unsicher fühlen.
+- Ändern Sie Salz, Flüssigkeit, Kompression oder Medikamente nicht ohne Arzt wegen Heimwerten.
 - Alltagsepisoden sind genauso wichtig wie strukturierte Messungen.
 - Das beste Ergebnis ist eine klare Arztfrage, keine Selbstdiagnose.
 
@@ -292,20 +292,20 @@ Zebra diagnostiziert POTS nicht und interpretiert Ihre Werte nicht. Es hilft, ei
 
 ### Was sollte ich bei einem POTS-Test zuhause oder Schellong-Test-Notizen erfassen?
 
-Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Fluessigkeit oder Salz wenn relevant fuer Ihren Behandlungsplan, Sicherheitsnotizen und die Frage fuer den Arzt.
+Erfassen Sie Setup, Haltung, Zeitpunkt, Puls, Blutdruck, Symptome, ob Sitzen oder Liegen geholfen hat, Medikamentenkontext, Flüssigkeit oder Salz wenn relevant für Ihren Behandlungsplan, Sicherheitsnotizen und die Frage für den Arzt.
 
 ### Kann ein Stehtest zu Hause POTS diagnostizieren?
 
-Nein. Heimnotizen koennen ein Arztgespraech unterstuetzen, aber POTS-Diagnose braucht klinische Einordnung und das Ausschliessen anderer Ursachen fuer Tachykardie oder orthostatische Symptome.
+Nein. Heimnotizen können ein Arztgespräch unterstützen, aber POTS-Diagnose braucht klinische Einordnung und das Ausschliessen anderer Ursachen für Tachykardie oder orthostatische Symptome.
 
 ### Wann sollte ich eine orthostatische Messung zu Hause stoppen?
 
-Stoppen Sie, wenn Sie sich unsicher fuehlen, ohnmaechtig werden koennten, schwere Symptome entwickeln oder Ihr Arzt bestimmte Stop-Regeln gegeben hat. Setzen oder legen Sie sich hin und suchen Sie medizinische Hilfe bei besorgniserregenden Symptomen.
+Stoppen Sie, wenn Sie sich unsicher fühlen, ohnmächtig werden könnten, schwere Symptome entwickeln oder Ihr Arzt bestimmte Stop-Regeln gegeben hat. Setzen oder legen Sie sich hin und suchen Sie medizinische Hilfe bei besorgniserregenden Symptomen.
 
-### Sollte ich Salz, Fluessigkeit oder Medikamente wegen Heimwerten aendern?
+### Sollte ich Salz, Flüssigkeit oder Medikamente wegen Heimwerten ändern?
 
-Nein. Aendern Sie Behandlung nicht nur aufgrund von Heimwerten. Nutzen Sie die Notizen, um Ihren Arzt zu fragen, was fuer Sie passend ist.
+Nein. Ändern Sie Behandlung nicht nur aufgrund von Heimwerten. Nutzen Sie die Notizen, um Ihren Arzt zu fragen, was für Sie passend ist.
 
 ### Ist Zebra medizinischer Rat?
 
-Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte fuer Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung.
+Nein. Zebra hilft, selbst eingegebene Gesundheitsgeschichte für Termine zu organisieren. Es diagnostiziert oder behandelt nicht und ersetzt keine medizinische Versorgung.

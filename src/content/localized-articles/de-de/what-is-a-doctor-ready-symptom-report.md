@@ -1,11 +1,11 @@
 ---
 locale: "de-de"
 originalSlug: "what-is-a-doctor-ready-symptom-report"
-title: "Symptombericht fuer den Arzttermin: Was gehoert hinein?"
+title: "Symptombericht für den Arzttermin: Was gehört hinein?"
 status: "published"
-subtitle: "Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte. Er soll die Vorbereitung auf einen Termin erleichtern und das Gespraech klarer machen. Er ist keine Diagnose, kein klinischer Bericht und kein Beweis, der dem Arzt eine Entscheidung vorgibt. Er ist eine geordnete Aufzeichnung davon, was passiert ist, was sich veraendert hat und was im Moment am wichtigsten ist."
-description: "Was sollte ein Symptombericht fuer den Arzt enthalten? Eine klare deutsche Checkliste fuer Symptome, Veraenderungen, Alltag, Medikamente und Fragen."
-excerpt: "Eine klare deutsche Checkliste fuer Symptome, Veraenderungen, Alltag, Medikamente und Fragen vor dem Arzttermin."
+subtitle: "Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte. Er soll die Vorbereitung auf einen Termin erleichtern und das Gespräch klarer machen. Er ist keine Diagnose, kein klinischer Bericht und kein Beweis, der dem Arzt eine Entscheidung vorgibt. Er ist eine geordnete Aufzeichnung davon, was passiert ist, was sich verändert hat und was im Moment am wichtigsten ist."
+description: "Was sollte ein Symptombericht für den Arzt enthalten? Eine klare deutsche Checkliste für Symptome, Veränderungen, Alltag, Medikamente und Fragen."
+excerpt: "Eine klare deutsche Checkliste für Symptome, Veränderungen, Alltag, Medikamente und Fragen vor dem Arzttermin."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-09-02"
@@ -15,10 +15,10 @@ reviewedAt: "2026-09-02"
 cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "arztbereiter symptombericht"
-seoTitle: "Symptombericht fuer den Arzttermin: Was gehoert hinein? | Zebra"
-metaDescription: "Was sollte ein Symptombericht fuer den Arzt enthalten? Eine deutsche Checkliste fuer Symptome, Veraenderungen, Alltag, Medikamente und Fragen."
-ogTitle: "Symptombericht fuer den Arzttermin: Was gehoert hinein?"
-ogDescription: "Eine klare Checkliste fuer einen nuetzlichen Symptombericht vor dem Arzttermin."
+seoTitle: "Symptombericht für den Arzttermin: Was gehört hinein? | Zebra"
+metaDescription: "Was sollte ein Symptombericht für den Arzt enthalten? Eine deutsche Checkliste für Symptome, Veränderungen, Alltag, Medikamente und Fragen."
+ogTitle: "Symptombericht für den Arzttermin: Was gehört hinein?"
+ogDescription: "Eine klare Checkliste für einen nützlichen Symptombericht vor dem Arzttermin."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Beispielstruktur eines arztbereiten Symptomberichts"
 ctaLabel: "Zebra laden"
@@ -41,7 +41,7 @@ entities:
   - "Medication Timeline"
   - "Chronic Illness Appointment Prep"
 secondaryKeywords:
-  - "Symptombericht fuer Arzt"
+  - "Symptombericht für Arzt"
   - "Zusammenfassung der Krankengeschichte"
   - "Termin-Zusammenfassung"
 schemaTypes:
@@ -49,30 +49,30 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Was ist ein arztbereiter Symptombericht?"
-    answer: "Es ist eine geordnete Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte, die eine klarere Terminvorbereitung und ein klareres Gespraech unterstuetzt."
-  - question: "Was sollte ein Symptombericht fuer den Arzt enthalten?"
-    answer: "Am nuetzlichsten sind Hauptsymptome, aktuelle Veraenderungen, Auswirkungen auf den Alltag, Medikamentenkontext und relevante Fragen."
+    answer: "Es ist eine geordnete Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte, die eine klarere Terminvorbereitung und ein klareres Gespräch unterstützt."
+  - question: "Was sollte ein Symptombericht für den Arzt enthalten?"
+    answer: "Am nützlichsten sind Hauptsymptome, aktuelle Veränderungen, Auswirkungen auf den Alltag, Medikamentenkontext und relevante Fragen."
   - question: "Ist ein Symptombericht dasselbe wie eine Diagnose?"
-    answer: "Nein. Er ist ein Werkzeug fuer das Gespraech, keine diagnostische Schlussfolgerung."
+    answer: "Nein. Er ist ein Werkzeug für das Gespräch, keine diagnostische Schlussfolgerung."
 ---
 
-Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte. Er soll die Vorbereitung auf einen Termin erleichtern und das Gespraech klarer machen. Er ist keine Diagnose, kein klinischer Bericht und kein Beweis, der dem Arzt eine Entscheidung vorgibt. Er ist eine geordnete Aufzeichnung davon, was passiert ist, was sich veraendert hat und was im Moment am wichtigsten ist.
+Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte. Er soll die Vorbereitung auf einen Termin erleichtern und das Gespräch klarer machen. Er ist keine Diagnose, kein klinischer Bericht und kein Beweis, der dem Arzt eine Entscheidung vorgibt. Er ist eine geordnete Aufzeichnung davon, was passiert ist, was sich verändert hat und was im Moment am wichtigsten ist.
 
-Die Zebra-Owner-Seite zeigt, wie aus selbst eingegebenem Verlauf ein [Symptombericht fuer den Arzt](/de-de/doctor-report/) wird, ohne daraus einen aerztlichen Befund oder eine Diagnose zu machen. Fuer die gesamte Vorbereitung hilft ausserdem die [Arzttermin-Checkliste](/de-de/appointment-prep-checklist/).
+Die Zebra-Owner-Seite zeigt, wie aus selbst eingegebenem Verlauf ein [Symptombericht für den Arzt](/de-de/doctor-report/) wird, ohne daraus einen ärztlichen Befund oder eine Diagnose zu machen. Für die gesamte Vorbereitung hilft ausserdem die [Arzttermin-Checkliste](/de-de/appointment-prep-checklist/).
 
-Fuer viele Menschen mit chronischer Erkrankung ist genau so ein Bericht der eigentliche Grund, warum sie ueberhaupt tracken.
+Für viele Menschen mit chronischer Erkrankung ist genau so ein Bericht der eigentliche Grund, warum sie überhaupt tracken.
 
 ## Was ein arztbereiter Symptombericht enthalten sollte
 
-Ein nuetzlicher Bericht enthaelt meistens:
+Ein nützlicher Bericht enthält meistens:
 
 - Hauptsymptome
-- aktuelle Veraenderungen
+- aktuelle Veränderungen
 - Schubmuster
-- Medikamenten- oder Routineveraenderungen
+- Medikamenten- oder Routineveränderungen
 - Auswirkungen auf den Alltag
 - passende Messwerte, wenn sie relevant sind
-- Fragen oder Prioritaeten fuer das Gespraech
+- Fragen oder Prioritäten für das Gespräch
 
 Er sollte helfen, die Geschichte schnell zu verstehen.
 
@@ -89,15 +89,15 @@ Seine Aufgabe ist Kommunikation und Vorbereitung.
 
 ## Warum diese Art Bericht wichtig ist
 
-Tracking wird viel nuetzlicher, wenn daraus etwas entsteht, das Sie vor einem Termin pruefen koennen, statt unter Stress oder mit Symptomen alles aus dem Gedaechtnis neu aufzubauen.
+Tracking wird viel nützlicher, wenn daraus etwas entsteht, das Sie vor einem Termin prüfen können, statt unter Stress oder mit Symptomen alles aus dem Gedächtnis neu aufzubauen.
 
-Das ist besonders wichtig fuer Menschen mit:
+Das ist besonders wichtig für Menschen mit:
 
 - Brain Fog
 - schwankenden Symptomen
 - kurzen Terminen
 - Erfahrungen mit Abweisung
-- mehreren sich ueberschneidenden Erkrankungen
+- mehreren sich überschneidenden Erkrankungen
 
 ## Was einen schwachen Bericht ausmacht
 
@@ -109,54 +109,54 @@ Ein schwacher Bericht hat meist eines dieser Probleme:
 - keinen Alltagskontext
 - keinen Medikamentenkontext
 
-## Was einen staerkeren Bericht ausmacht
+## Was einen stärkeren Bericht ausmacht
 
-Ein staerkerer Bericht:
+Ein stärkerer Bericht:
 
 - ist aktuell
-- ist kurz genug zum Ueberfliegen
-- zeigt, was sich veraendert hat
-- enthaelt den wichtigsten Kontext
-- macht die naechsten Fragen leichter
+- ist kurz genug zum Überfliegen
+- zeigt, was sich verändert hat
+- enthält den wichtigsten Kontext
+- macht die nächsten Fragen leichter
 
-## Eine einfache Struktur fuer den Bericht
+## Eine einfache Struktur für den Bericht
 
-Fuer eine kurze Vorbereitung koennen diese Punkte oben stehen:
+Für eine kurze Vorbereitung können diese Punkte oben stehen:
 
-1. Der wichtigste Grund fuer den Termin.
-2. Was sich ungefaehr wann veraendert hat.
-3. Die wichtigsten Symptome oder Schuebe.
+1. Der wichtigste Grund für den Termin.
+2. Was sich ungefähr wann verändert hat.
+3. Die wichtigsten Symptome oder Schübe.
 4. Die Auswirkung auf Alltag, Arbeit, Schule oder Betreuung.
 5. Relevanter Medikamenten- oder Routinekontext.
-6. Zwei oder drei Fragen fuer das Gespraech.
+6. Zwei oder drei Fragen für das Gespräch.
 
-Messwerte gehoeren nur hinein, wenn sie relevant und sicher zu erheben sind. Beschreiben Sie sie als Beobachtungen; die medizinische Einordnung gehoert in das Gespraech mit dem Arzt.
+Messwerte gehören nur hinein, wenn sie relevant und sicher zu erheben sind. Beschreiben Sie sie als Beobachtungen; die medizinische Einordnung gehört in das Gespräch mit dem Arzt.
 
 ## Wo Zebra hineinpasst
 
-Zebra behandelt den arztbereiten Bericht als wichtigsten Nutzen des Trackings. Ziel ist, taegliche Symptomgeschichte in eine klarere Terminvorbereitung zu verwandeln, ohne so zu tun, als waere der Bericht selbst eine medizinische Schlussfolgerung.
+Zebra behandelt den arztbereiten Bericht als wichtigsten Nutzen des Trackings. Ziel ist, tägliche Symptomgeschichte in eine klarere Terminvorbereitung zu verwandeln, ohne so zu tun, als wäre der Bericht selbst eine medizinische Schlussfolgerung.
 
 ## Quellenkontext
 
-Die [National Institute on Aging](https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment) und [MedlinePlus](https://medlineplus.gov/talkingwithyourdoctor.html) empfehlen unter anderem, Anliegen zu priorisieren, Symptome zu beschreiben, Medikamentenkontext und Fragen vorzubereiten. Dieser Artikel uebertraegt diese Kommunikationsprinzipien in eine selbst eingegebene Zusammenfassung. Er gibt keine Diagnose- oder Behandlungsempfehlung.
+Die [National Institute on Aging](https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment) und [MedlinePlus](https://medlineplus.gov/talkingwithyourdoctor.html) empfehlen unter anderem, Anliegen zu priorisieren, Symptome zu beschreiben, Medikamentenkontext und Fragen vorzubereiten. Dieser Artikel überträgt diese Kommunikationsprinzipien in eine selbst eingegebene Zusammenfassung. Er gibt keine Diagnose- oder Behandlungsempfehlung.
 
 ## Wichtigste Punkte
 
-- Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung fuer die Terminvorbereitung.
-- Er ist fuer das Gespraech gedacht, nicht fuer eine Diagnose.
-- Er funktioniert am besten, wenn er Symptome, Veraenderungen, Alltag, Medikamente und Fragen hervorhebt.
+- Ein arztbereiter Symptombericht ist eine strukturierte Zusammenfassung für die Terminvorbereitung.
+- Er ist für das Gespräch gedacht, nicht für eine Diagnose.
+- Er funktioniert am besten, wenn er Symptome, Veränderungen, Alltag, Medikamente und Fragen hervorhebt.
 - Ein klarerer Bericht nimmt Druck aus dem Versuch, im Termin alles auswendig zu erinnern.
 
 ## FAQ
 
 ### Was ist ein arztbereiter Symptombericht?
 
-Es ist eine geordnete Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte, die eine klarere Terminvorbereitung und ein klareres Gespraech unterstuetzt.
+Es ist eine geordnete Zusammenfassung der von Patientinnen und Patienten erfassten Symptomgeschichte, die eine klarere Terminvorbereitung und ein klareres Gespräch unterstützt.
 
-### Was sollte ein Symptombericht fuer den Arzt enthalten?
+### Was sollte ein Symptombericht für den Arzt enthalten?
 
-Am nuetzlichsten sind Hauptsymptome, aktuelle Veraenderungen, Auswirkungen auf den Alltag, Medikamentenkontext und relevante Fragen.
+Am nützlichsten sind Hauptsymptome, aktuelle Veränderungen, Auswirkungen auf den Alltag, Medikamentenkontext und relevante Fragen.
 
 ### Ist ein Symptombericht dasselbe wie eine Diagnose?
 
-Nein. Er ist ein Werkzeug fuer das Gespraech, keine diagnostische Schlussfolgerung.
+Nein. Er ist ein Werkzeug für das Gespräch, keine diagnostische Schlussfolgerung.
