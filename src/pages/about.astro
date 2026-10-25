@@ -1,0 +1,56 @@
+---
+import LegalPage from '../components/content/LegalPage.astro';
+import { siteConfig } from '../data/site-config';
+
+const page = {
+  seo: {
+    title: 'About Zebra — Symptom Tracker for POTS, EDS and Fibromyalgia',
+    description:
+      'Zebra is made by an independent developer. No account is needed, your health entries stay on your iPhone and in your own iCloud, and Zebra is not medical advice.',
+  },
+  backHref: siteConfig.routes.home,
+  backLabel: 'Back to Zebra',
+  eyebrow: 'About',
+  title: 'About Zebra',
+  updated: 'Last updated: October 25, 2026',
+  intro: [
+    'Zebra is a symptom tracker for people with POTS, EDS and Fibromyalgia. It is made by an independent developer, not by a hospital, clinic or pharmaceutical company.',
+  ],
+  sections: [
+    {
+      heading: 'Who makes Zebra',
+      paragraphs: [
+        'Zebra is made by one independent developer. The app and this website are separate from any medical provider.',
+      ],
+    },
+    {
+      heading: 'What Zebra is for',
+      paragraphs: [
+        'Zebra helps you record symptoms, flares, medications, salt and water, and orthostatic readings in one place. It can then create a summary you can take to an appointment.',
+        'Zebra does not diagnose, treat or replace medical advice. Talk to your doctor about any decisions.',
+      ],
+    },
+    {
+      heading: 'No account, and your privacy',
+      paragraphs: [
+        'You do not need to create an account to use Zebra.',
+        'Your health entries are stored on your iPhone and, if iCloud sync is on, in your own iCloud. Zebra has no account system and no health-data server, so your entries are not sent to us.',
+      ],
+    },
+    {
+      heading: 'How the articles are written',
+      paragraphs: [
+        'Articles are based on Zebra’s product, customer research and public medical references. They are for information, not medical advice.',
+      ],
+    },
+  ],
+  relatedLinks: [
+    { href: siteConfig.routes.privacy, label: 'Privacy Policy' },
+    { href: siteConfig.routes.terms, label: 'Terms of Use' },
+    { href: siteConfig.routes.support, label: 'Support' },
+  ],
+  contactEmail: siteConfig.support.email,
+};
+---
+
+<LegalPage page={page} />
