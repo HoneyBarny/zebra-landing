@@ -7,15 +7,11 @@ export const authorProfiles = {
     editorialPolicy:
       'Every Zebra article is written to clarify tracking, appointment preparation, and doctor-ready reporting without making diagnostic or treatment claims.',
     researchMethodology:
-      'Content is based on Zebra product truth, customer language, community research, and reputable medical references when definitions or condition context require them.',
-    reviewMethodology:
-      'Each page is reviewed against product accuracy, customer language, medical-language safety, and search-intent usefulness before publication or refresh.',
+      'Articles are based on Zebra’s product, customer research, and official medical resources.',
     updatePolicy:
-      'Pages are reviewed when product workflows change, when canonical research documents are updated, or when the editorial team finds accuracy gaps.',
+      'We update an article when the app changes or when the medical or research sources it is based on change.',
     medicalDisclaimer:
       'Zebra content supports self-organization and care conversations. It does not diagnose, treat, or replace medical advice.',
-    reviewProcess:
-      'Drafts move through content planning, SEO checks, and publishing validation before release.',
     sourcesPolicy:
       'Product claims must match canonical Zebra documents. Medical context should be cautious, referenced, and limited to explanation rather than advice.',
     citationStandards:
