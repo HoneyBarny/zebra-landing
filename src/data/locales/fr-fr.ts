@@ -227,7 +227,7 @@ export const homePageFrFr = {
           'Beaucoup separent constantes, symptômes, médicaments et notes, ce qui complique la relecture du POTS, du SED et des chevauchements.',
         zebra:
           'Zebra est construit d\'abord pour maladie invisible, contexte orthostatique, symptômes qui se chevauchent et préparation de rendez-vous spécialisé.',
-        href: localizedPath(localePath, '/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/'),
+        href: `${localePath}blog/symptom-tracker-vs-notes-app-vs-spreadsheet/`,
         cta: 'Lire la comparaison',
       },
       {
@@ -236,7 +236,7 @@ export const homePageFrFr = {
           'Les séries et objectifs bien-être peuvent faire ressembler une poussée à un échec, alors que ces jours sont souvent importants à documenter.',
         zebra:
           'Zebra traite le suivi comme construction d\'historique, pas comme optimisation personnelle. Un check-in utile suffit.',
-        href: localizedPath(localePath, '/blog/why-symptom-tracking-fails-on-bad-days/'),
+        href: `${localePath}blog/why-symptom-tracking-fails-on-bad-days/`,
         cta: 'Lire pourquoi le suivi échoue',
       },
     ],
