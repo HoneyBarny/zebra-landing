@@ -67,9 +67,9 @@ faq:
 
 Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Etourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend a arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
 
-Si vous suivez a la fois [EDS](/knowledge/eds/) ou [hEDS](/knowledge/heds/) et [dysautonomie](/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'etiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
+Si vous suivez a la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'etiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
 
-Pour l'explication du chevauchement lui-meme, commencez par [Comment les symptômes EDS et dysautonomie se chevauchent](/blog/how-eds-and-dysautonomia-symptoms-overlap/). Cette page se concentre sur le flux de suivi.
+Pour l'explication du chevauchement lui-meme, commencez par [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/). Cette page se concentre sur le flux de suivi.
 
 ## Ce que le suivi du chevauchement doit vous aider a voir
 
@@ -135,7 +135,7 @@ Le contexte utile peut inclure:
 
 Cela ne prouve pas une cause. Cela aide a conserver le profil vecu au lieu de compter sur la mémoire plus tard.
 
-Si les symptômes orthostatiques font partie du tableau, [Qu'est-ce que l'intolérance orthostatique?](/blog/what-is-orthostatic-intolerance/) et [Comment suivre les symptômes POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) peuvent aider a décider quand les notes de position comptent.
+Si les symptômes orthostatiques font partie du tableau, [Qu'est-ce que l'intolérance orthostatique?](/fr-fr/blog/what-is-orthostatic-intolerance/) et [Comment suivre les symptômes POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) peuvent aider a décider quand les notes de position comptent.
 
 ## Suivez ce que le chevauchement fait au fonctionnement
 
@@ -150,7 +150,7 @@ Suivez des exemples comme:
 - plans annules parce que les symptômes se sont empiles
 - difficulte a quitter la maison ou a conduire en sécurité
 
-Cet [impact fonctionnel](/knowledge/functional-impact/) donne aux rendez-vous beaucoup plus de contexte qu'une liste de symptômes seule.
+Cet [impact fonctionnel](/fr-fr/knowledge/functional-impact/) donne aux rendez-vous beaucoup plus de contexte qu'une liste de symptômes seule.
 
 ## Suivez les groupes et les poussees, pas seulement les moments isoles
 
@@ -230,7 +230,7 @@ Avant un rendez-vous, resumez:
 - ce qui affecte le fonctionnement
 - ce que vous voulez aider a comprendre
 
-Si vous allez bientot consulter, [Que suivre avant un rendez-vous spécialiste](/blog/what-to-track-before-a-specialist-appointment/) et [Que suivre avant un rendez-vous spécialiste EDS](/blog/what-to-track-before-an-eds-specialist-appointment/) aident a transformer le dossier quotidien en resume de visite plus clair.
+Si vous allez bientot consulter, [Que suivre avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) et [Que suivre avant un rendez-vous spécialiste EDS](/fr-fr/blog/what-to-track-before-an-eds-specialist-appointment/) aident a transformer le dossier quotidien en resume de visite plus clair.
 
 ## Ce que Zebra ajoute
 

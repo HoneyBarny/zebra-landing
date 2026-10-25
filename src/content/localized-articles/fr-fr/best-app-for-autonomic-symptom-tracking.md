@@ -101,7 +101,7 @@ Son interet est le plus fort quand vous voulez:
 
 Si votre principal problème est "je sais que quelque chose se passe, mais je ne peux pas le resumer clairement pendant la visite", Zebra répond directement a ce problème.
 
-Pour le côté préparation de rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/blog/symptom-tracker-for-doctor-appointments/) et [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/blog/what-is-a-doctor-ready-symptom-report/) expliquent ce que l historique devrait devenir.
+Pour le côté préparation de rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) expliquent ce que l historique devrait devenir.
 
 ## Outils de pacing, wearables et trackers generiques
 
@@ -136,9 +136,9 @@ Le tracker le plus utile inclut généralement:
 - questions pour les rendez-vous
 - une facon de relire le profil plus tard
 
-Si le mot que vous utilisez habituellement est dysautonomie, [Meilleur tracker de symptômes pour la dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/) est la page compagne la plus proche. Si les symptômes en position debout sont le profil principal, [Meilleur tracker de symptômes pour l intolérance orthostatique](/blog/best-symptom-tracker-for-orthostatic-intolerance/) est plus spécifique.
+Si le mot que vous utilisez habituellement est dysautonomie, [Meilleur tracker de symptômes pour la dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/) est la page compagne la plus proche. Si les symptômes en position debout sont le profil principal, [Meilleur tracker de symptômes pour l intolérance orthostatique](/fr-fr/blog/best-symptom-tracker-for-orthostatic-intolerance/) est plus spécifique.
 
-Si vous comparez des outils pacing-first avec le suivi oriente préparation de rendez-vous, [Zebra vs Visible pour le suivi de maladie chronique](/blog/zebra-vs-visible-for-chronic-illness-tracking/) detaille ce compromis.
+Si vous comparez des outils pacing-first avec le suivi oriente préparation de rendez-vous, [Zebra vs Visible pour le suivi de maladie chronique](/fr-fr/blog/zebra-vs-visible-for-chronic-illness-tracking/) detaille ce compromis.
 
 ## Conclusion
 

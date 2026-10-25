@@ -63,7 +63,7 @@ faq:
 
 L'hydratation, le sel et les vetements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, a la tolerance en position debout et a l'historique des poussees. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journee. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous.
 
-Pour les personnes qui suivent le [POTS](/knowledge/pots/), la [dysautonomie](/knowledge/dysautonomia/) ou [l'intolérance orthostatique](/knowledge/orthostatic-intolerance/), les routines de soutien peuvent compter parce que les symptômes changent souvent avec la position, l'activité, les liquides, la chaleur, le sommeil et le stress quotidien. Un dossier simple peut vous aider a discuter de ces changements sans reconstruire tout le mois de mémoire.
+Pour les personnes qui suivent le [POTS](/fr-fr/knowledge/pots/), la [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [l'intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), les routines de soutien peuvent compter parce que les symptômes changent souvent avec la position, l'activité, les liquides, la chaleur, le sommeil et le stress quotidien. Un dossier simple peut vous aider a discuter de ces changements sans reconstruire tout le mois de mémoire.
 
 ## Que suivre ensemble
 

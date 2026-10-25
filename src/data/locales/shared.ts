@@ -43,6 +43,11 @@ export function localizedPath(localePath: string, path: string) {
     return `${localePath}${path.replace(/^\//, '')}`;
   }
 
+  // Knowledge pages exist for every locale, so their child pages are localized too.
+  if (localePath !== localeRoutes.en && path.startsWith(siteConfig.routes.knowledge)) {
+    return `${localePath}${path.replace(/^\//, '')}`;
+  }
+
   return path;
 }
 

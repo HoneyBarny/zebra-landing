@@ -8,9 +8,13 @@ interface Props {
   title?: string;
   eyebrow?: string;
   minReadLabel?: string;
+  localePath?: string;
 }
 
-const { articles, title = 'Related reading', eyebrow = 'Keep exploring', minReadLabel = 'min read' } = Astro.props;
+const { articles, title = 'Related reading', eyebrow = 'Keep exploring', minReadLabel = 'min read', localePath = '/' } = Astro.props;
+const urlFor = (slug: string) => (localePath === '/' ? articleUrl(slug) : `${localePath}blog/${slug}/`);
+// Localized entries carry their English slug in originalSlug; their id includes the locale folder.
+const articleSlug = (article: ArticleEntry) => (article.data as { originalSlug?: string }).originalSlug ?? article.id;
 ---
 
 {articles.length > 0 && (
@@ -23,7 +27,7 @@ const { articles, title = 'Related reading', eyebrow = 'Keep exploring', minRead
       {articles.map((article) => (
         <ArticleCard
           title={article.data.title}
-          href={articleUrl(article.id)}
+          href={urlFor(articleSlug(article))}
           excerpt={article.data.excerpt}
           category={article.data.category}
           categories={article.data.categories}

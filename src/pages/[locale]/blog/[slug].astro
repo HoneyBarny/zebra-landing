@@ -31,7 +31,15 @@ if (!copy) {
 
 const englishArticles = getPublishedArticles(await getCollection('articles'));
 const originalArticle = englishArticles.find((entry) => entry.id === article.data.originalSlug);
-const relatedArticles = originalArticle ? getRelatedArticles(originalArticle, englishArticles) : [];
+// Related guides in this page's language only. Built from the English
+// matches, so the same topics are picked, but the French (or other) version
+// is shown with its own title and link.
+const localizedArticles = await getCollection('localizedArticles', ({ data }) => data.status === 'published' && data.locale === locale);
+const localizedByOriginal = new Map(localizedArticles.map((entry) => [entry.data.originalSlug, entry]));
+const relatedArticles = (originalArticle ? getRelatedArticles(originalArticle, englishArticles, 12) : [])
+  .map((entry) => localizedByOriginal.get(entry.id))
+  .filter((entry) => entry !== undefined)
+  .slice(0, 4) as unknown as ArticleEntry[];
 const { Content, headings } = await render(article);
 const articlePath = localizedArticleUrl(locale, article.data.originalSlug);
 const canonical = new URL(articlePath, Astro.site).toString();

@@ -69,7 +69,7 @@ faq:
 
 Si vous cherchez le meilleur tracker de symptômes pour POTS, dysautonomie et EDS, le meilleur choix est souvent celui qui garde les symptômes en position debout, les poussees, la douleur, la fatigue, le brain fog, les médicaments, l hydratation, le sel et la préparation de rendez-vous dans un historique connecte. Zebra est construit pour les personnes dont les symptômes se chevauchent et dont le vrai objectif est un rapport plus clair pret pour le médecin, pas un autre tableau de bord bien-etre complique.
 
-C est le guide central du cluster de comparaison Zebra. Si vous connaissez déjà votre intention de recherche exacte, allez vers les pages plus spécifiques sur les [apps de suivi POTS](/blog/best-symptom-tracker-apps-for-pots-2026/), les [trackers de dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/), le [chevauchement EDS et dysautonomie](/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/) ou le [suivi des symptômes pour les rendez-vous médicaux](/blog/symptom-tracker-for-doctor-appointments/).
+C est le guide central du cluster de comparaison Zebra. Si vous connaissez déjà votre intention de recherche exacte, allez vers les pages plus spécifiques sur les [apps de suivi POTS](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/), les [trackers de dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/), le [chevauchement EDS et dysautonomie](/fr-fr/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/) ou le [suivi des symptômes pour les rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/).
 
 ## Pourquoi ce problème de suivi est différent
 
@@ -113,9 +113,9 @@ Si votre organisation actuelle est Notes plus captures d écran plus mémoire pl
 
 Pour les suites spécifiques par condition, utilisez:
 
-- [Meilleures apps de suivi des symptômes pour POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/)
-- [Meilleur tracker de symptômes pour la dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/)
-- [Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie](/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/)
+- [Meilleures apps de suivi des symptômes pour POTS en 2026](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/)
+- [Meilleur tracker de symptômes pour la dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/)
+- [Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie](/fr-fr/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/)
 
 ## Que doit inclure le tracker?
 
@@ -130,9 +130,9 @@ Pour le chevauchement POTS, dysautonomie et EDS, le tracker le plus utile inclut
 - questions pour les rendez-vous
 - une facon de relire ou exporter un rapport clair
 
-Si les symptômes en position debout sont le principal profil, commencez avec [Meilleure app pour le suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) ou [Meilleur tracker de symptômes pour l intolérance a la position debout](/blog/best-symptom-tracker-for-upright-intolerance/).
+Si les symptômes en position debout sont le principal profil, commencez avec [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) ou [Meilleur tracker de symptômes pour l intolérance a la position debout](/fr-fr/blog/best-symptom-tracker-for-upright-intolerance/).
 
-Si symptômes autonomiques est le langage plus large que vous utilisez, [Meilleure app pour le suivi des symptômes autonomiques](/blog/best-app-for-autonomic-symptom-tracking/) est le guide le plus proche.
+Si symptômes autonomiques est le langage plus large que vous utilisez, [Meilleure app pour le suivi des symptômes autonomiques](/fr-fr/blog/best-app-for-autonomic-symptom-tracking/) est le guide le plus proche.
 
 ## Quand Bearable peut mieux convenir
 
@@ -145,7 +145,7 @@ Bearable peut mieux convenir si vous voulez:
 
 La contrepartie est la charge de configuration. Pour les personnes avec brain fog, fatigue, etourdissements ou jours de poussee, trop de personnalisation peut devenir une tache de plus.
 
-Pour la comparaison directe, lisez [Bearable vs Zebra pour le suivi de maladie chronique](/blog/bearable-vs-zebra-chronic-illness-tracking/) ou [Zebra vs Bearable pour le suivi POTS](/blog/zebra-vs-bearable-for-pots-tracking/).
+Pour la comparaison directe, lisez [Bearable vs Zebra pour le suivi de maladie chronique](/fr-fr/blog/bearable-vs-zebra-chronic-illness-tracking/) ou [Zebra vs Bearable pour le suivi POTS](/fr-fr/blog/zebra-vs-bearable-for-pots-tracking/).
 
 ## Quand Visible peut mieux convenir
 
@@ -155,18 +155,18 @@ C est un vrai besoin, surtout pour les personnes qui gerent crashes, PEM ou mala
 
 Si votre problème le plus difficile est "Comment éviter d en faire trop?", un outil de pacing peut être le meilleur premier choix. Si votre problème le plus difficile est "Comment expliquer clairement le dernier mois?", Zebra est généralement le meilleur choix.
 
-Pour la comparaison directe, lisez [Zebra vs Visible pour le suivi de maladie chronique](/blog/zebra-vs-visible-for-chronic-illness-tracking/).
+Pour la comparaison directe, lisez [Zebra vs Visible pour le suivi de maladie chronique](/fr-fr/blog/zebra-vs-visible-for-chronic-illness-tracking/).
 
 ## Meilleur chemin par cas d usage
 
 | Si votre question principale est... | Commencez ici |
 | --- | --- |
-| "Quel est le meilleur tracker POTS?" | [Meilleures apps de suivi des symptômes pour POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) |
-| "Quel est le meilleur tracker de dysautonomie?" | [Meilleur tracker de symptômes pour la dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/) |
-| "Et EDS plus chevauchement dysautonomie?" | [Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie](/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/) |
-| "Quelle app aide avant la cardiologie?" | [Meilleure app pour préparer un rendez-vous de cardiologie pour POTS](/blog/best-app-for-pots-cardiology-appointment-prep/) |
-| "Et si les symptômes empirent en position debout?" | [Meilleur tracker de symptômes pour l intolérance orthostatique](/blog/best-symptom-tracker-for-orthostatic-intolerance/) |
-| "Comment apporter cela au médecin?" | [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/blog/what-is-a-doctor-ready-symptom-report/) |
+| "Quel est le meilleur tracker POTS?" | [Meilleures apps de suivi des symptômes pour POTS en 2026](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/) |
+| "Quel est le meilleur tracker de dysautonomie?" | [Meilleur tracker de symptômes pour la dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/) |
+| "Et EDS plus chevauchement dysautonomie?" | [Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie](/fr-fr/blog/best-symptom-tracker-for-eds-and-dysautonomia-overlap/) |
+| "Quelle app aide avant la cardiologie?" | [Meilleure app pour préparer un rendez-vous de cardiologie pour POTS](/fr-fr/blog/best-app-for-pots-cardiology-appointment-prep/) |
+| "Et si les symptômes empirent en position debout?" | [Meilleur tracker de symptômes pour l intolérance orthostatique](/fr-fr/blog/best-symptom-tracker-for-orthostatic-intolerance/) |
+| "Comment apporter cela au médecin?" | [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) |
 
 ## Conclusion
 

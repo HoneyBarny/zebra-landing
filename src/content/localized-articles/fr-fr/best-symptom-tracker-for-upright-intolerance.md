@@ -107,9 +107,9 @@ Intolérance a la position debout et intolérance orthostatique pointent souvent
 
 Intolérance orthostatique est l expression plus formelle. Intolérance a la position debout est souvent la version en langage simple utilisee quand une personne sait que rester debout ou assise bien droite aggrave les symptômes.
 
-Pour la version plus formelle, [Meilleur tracker de symptômes pour l intolérance orthostatique](/blog/best-symptom-tracker-for-orthostatic-intolerance/) est la page compagne la plus proche. Pour une definition simple, commencez par [Qu est-ce que l intolérance orthostatique?](/blog/what-is-orthostatic-intolerance/).
+Pour la version plus formelle, [Meilleur tracker de symptômes pour l intolérance orthostatique](/fr-fr/blog/best-symptom-tracker-for-orthostatic-intolerance/) est la page compagne la plus proche. Pour une definition simple, commencez par [Qu est-ce que l intolérance orthostatique?](/fr-fr/blog/what-is-orthostatic-intolerance/).
 
-Si vous suivez specifiquement des symptômes de POTS, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) et [Comment suivre les symptômes de POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) sont les pages compagnes les plus centrees sur POTS.
+Si vous suivez specifiquement des symptômes de POTS, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) et [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) sont les pages compagnes les plus centrees sur POTS.
 
 ## Que doit inclure un tracker d intolérance a la position debout?
 
@@ -123,7 +123,7 @@ Le tracker le plus utile inclut généralement:
 - contexte hydratation, sel ou médicaments quand pertinent
 - une facon de relire le profil avant les rendez-vous
 
-Si l etape suivante est de transformer cela en resume de visite, [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/blog/what-is-a-doctor-ready-symptom-report/) explique le resultat autour duquel Zebra est concu.
+Si l etape suivante est de transformer cela en resume de visite, [Qu est-ce qu un rapport de symptômes pret pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) explique le resultat autour duquel Zebra est concu.
 
 ## Conclusion
 

@@ -72,7 +72,7 @@ faq:
     answer: "Non. Zebra aide a organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Un test de [table basculante](/knowledge/orthostatic-test/) positif peut laisser plus de questions que de réponses. L'etape utile est de suivre symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel et impact de la vie quotidienne pour aider votre clinicien a comprendre ce que le resultat donne hors laboratoire.
+Un test de [table basculante](/fr-fr/knowledge/orthostatic-test/) positif peut laisser plus de questions que de réponses. L'etape utile est de suivre symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel et impact de la vie quotidienne pour aider votre clinicien a comprendre ce que le resultat donne hors laboratoire.
 
 C'est important parce que le test n'est qu'une partie de l'histoire. Cleveland Clinic explique qu'un test de table basculante surveille fréquence cardiaque, tension arterielle et symptômes pendant que le corps passe de couche a debout. Un resultat positif signifie que le corps a reagi anormalement pendant le test, mais le sens dépend du profil et de votre historique médical.
 
@@ -106,7 +106,7 @@ Suivez:
 - si les symptômes sont arrives après douche, chaleur, repas, courses ou escaliers
 - si la recuperation a pris minutes, heures ou le reste de la journee
 
-Pour les personnes evaluees pour [POTS](/knowledge/pots/), [dysautonomie](/knowledge/dysautonomia/) ou [intolérance orthostatique](/knowledge/orthostatic-intolerance/), ce contexte peut compter autant que le nom des symptômes.
+Pour les personnes evaluees pour [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), ce contexte peut compter autant que le nom des symptômes.
 
 ## Garder les symptômes courts mais précis
 
@@ -188,7 +188,7 @@ Contexte utile:
 
 ## Ou Zebra s'insere
 
-Zebra aide a garder l'histoire après le test dans un seul endroit: symptômes, [observations orthostatiques](/knowledge/orthostatic-test/), médicaments, hydratation, sel, notes, declencheurs et questions de suivi.
+Zebra aide a garder l'histoire après le test dans un seul endroit: symptômes, [observations orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, notes, declencheurs et questions de suivi.
 
 Il n'interprete pas votre test et ne diagnostique pas le POTS. Il aide a organiser ce qui arrive ensuite pour que le rendez-vous de suivi demande moins de suppositions.
 

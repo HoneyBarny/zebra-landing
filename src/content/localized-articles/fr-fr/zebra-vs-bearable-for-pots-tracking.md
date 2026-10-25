@@ -99,7 +99,7 @@ Zebra est plus fort si vous voulez:
 
 Si votre principal problème est "j'ai suivi des choses, mais je dois encore reconstruire le mois de mémoire", Zebra répond plus directement a cet ecart.
 
-Pour le paysage plus large des apps POTS, [Meilleures apps de suivi des symptômes pour POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) compare Zebra, Bearable, Visible et des solutions plus simples au meme endroit.
+Pour le paysage plus large des apps POTS, [Meilleures apps de suivi des symptômes pour POTS en 2026](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/) compare Zebra, Bearable, Visible et des solutions plus simples au meme endroit.
 
 ## Vue côté a côté
 
@@ -126,9 +126,9 @@ C'est parce que les rendez-vous POTS demandent souvent de conserver:
 
 Ces details sont plus faciles a utiliser quand ils restent dans un historique connecte.
 
-Si vous voulez l'angle plus large de préparation de rendez-vous, [Suivi des symptômes pour rendez-vous médicaux](/blog/symptom-tracker-for-doctor-appointments/) et [Quoi apporter a un rendez-vous de cardiologie POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) sont les prochaines meilleures pages.
+Si vous voulez l'angle plus large de préparation de rendez-vous, [Suivi des symptômes pour rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Quoi apporter a un rendez-vous de cardiologie POTS](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) sont les prochaines meilleures pages.
 
-Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) est la suite plus spécifique.
+Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) est la suite plus spécifique.
 
 ## Lequel est meilleur pour le brain fog et les mauvais jours?
 
@@ -146,7 +146,7 @@ Zebra peut mieux fonctionner si:
 - vous voulez moins de décisions de configuration
 - la partie la plus difficile est de comprendre la tendance plus tard
 
-Si c'est votre principal problème, [Pourquoi le suivi des symptômes echoue les mauvais jours](/blog/why-symptom-tracking-fails-on-bad-days/) explique directement ce schema.
+Si c'est votre principal problème, [Pourquoi le suivi des symptômes echoue les mauvais jours](/fr-fr/blog/why-symptom-tracking-fails-on-bad-days/) explique directement ce schema.
 
 ## En bref
 

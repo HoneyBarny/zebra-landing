@@ -65,9 +65,9 @@ faq:
     answer: "Oui. Meme un dossier imparfait peut montrer les crashs recurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule."
 ---
 
-Si vous avez une [EM/SFC](/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre energie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort.
+Si vous avez une [EM/SFC](/fr-fr/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre energie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort.
 
-C'est encore plus important quand le [PEM](/knowledge/pem/) fait partie du tableau. Si une routine de suivi coute trop d'energie, elle peut cesser d'être utile bien avant que le dossier devienne exploitable.
+C'est encore plus important quand le [PEM](/fr-fr/knowledge/pem/) fait partie du tableau. Si une routine de suivi coute trop d'energie, elle peut cesser d'être utile bien avant que le dossier devienne exploitable.
 
 ## Le but n'est pas un suivi parfait
 
@@ -94,7 +94,7 @@ Les points de rupture courants incluent:
 - culpabilite après des entrees manquees
 - pression pour rattraper après un crash
 
-C'est proche de la meme boucle de mauvais jours decrite dans [Pourquoi le suivi des symptômes echoue les mauvais jours](/blog/why-symptom-tracking-fails-on-bad-days/), mais l'EM/SFC ajoute souvent une aggravation retardee qui rend la tendance encore plus difficile a reconstruire.
+C'est proche de la meme boucle de mauvais jours decrite dans [Pourquoi le suivi des symptômes echoue les mauvais jours](/fr-fr/blog/why-symptom-tracking-fails-on-bad-days/), mais l'EM/SFC ajoute souvent une aggravation retardee qui rend la tendance encore plus difficile a reconstruire.
 
 ## Que suivre quand le PEM fait partie du tableau
 
@@ -106,7 +106,7 @@ Le dossier le plus utile garde généralement cinq choses ensemble:
 4. ce que cela a fait au fonctionnement
 5. combien de temps la recuperation a pris
 
-C'est important parce que la partie retardee du [PEM](/knowledge/pem/) peut être facile a manquer si vous notez seulement comment vous vous sentiez sur le moment.
+C'est important parce que la partie retardee du [PEM](/fr-fr/knowledge/pem/) peut être facile a manquer si vous notez seulement comment vous vous sentiez sur le moment.
 
 ## Une structure de suivi EM/SFC avec moins d'effort
 
@@ -115,7 +115,7 @@ Si vous voulez la version minimum utile, suivez:
 ### Les principaux symptômes du jour
 
 - fatigue
-- [brain fog](/knowledge/brain-fog/)
+- [brain fog](/fr-fr/knowledge/brain-fog/)
 - douleur
 - etourdissements
 - perturbation du sommeil
@@ -191,11 +191,11 @@ Meme un historique a faible effort peut améliorer les rendez-vous parce qu'il m
 - ce qui a le plus change
 - a quoi ressemble maintenant la vie quotidienne
 
-Si vous preparez des soins, [Que suivre avant un rendez-vous spécialiste](/blog/what-to-track-before-a-specialist-appointment/) et [Comment resumer les symptômes sans oublier les details importants](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) peuvent vous aider a transformer le dossier en quelque chose de plus facile a relire.
+Si vous preparez des soins, [Que suivre avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) et [Comment resumer les symptômes sans oublier les details importants](/fr-fr/blog/how-to-summarize-symptoms-without-forgetting-key-details/) peuvent vous aider a transformer le dossier en quelque chose de plus facile a relire.
 
 ## La place de Zebra
 
-Zebra est concu pour garder le dossier utilisable les jours difficiles, pas seulement les bons jours. C'est important pour la [fatigue](/knowledge/fatigue/) et l'EM/SFC, car le processus aide seulement s'il reste possible a utiliser quand l'energie baisse.
+Zebra est concu pour garder le dossier utilisable les jours difficiles, pas seulement les bons jours. C'est important pour la [fatigue](/fr-fr/knowledge/fatigue/) et l'EM/SFC, car le processus aide seulement s'il reste possible a utiliser quand l'energie baisse.
 
 ## Points clés
 

@@ -147,7 +147,7 @@ Avant une visite, sortez:
 - les changements fonctionnels
 - vos questions
 
-Cela peut devenir une partie d'un [rapport de symptômes pret pour le médecin](/blog/what-is-a-doctor-ready-symptom-report/).
+Cela peut devenir une partie d'un [rapport de symptômes pret pour le médecin](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/).
 
 ## La place de Zebra
 

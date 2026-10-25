@@ -16,8 +16,8 @@ import {
 } from '../../../data/locales/entity-translations';
 import { getLocalizedHubCopy, localizedHubCopy } from '../../../data/locales/phase2';
 import { alternatesForPath } from '../../../data/locales/shared';
+import { localizedArticleUrl } from '../../../data/locales/article-translations';
 import {
-  articleUrl,
   clusterUrl,
   dateLabel,
   estimateReadingTime,
@@ -51,7 +51,14 @@ if (!hubCopy || !pageCopy) {
 const sourceEntity = Astro.props.entity;
 const entity = localizeEntity(sourceEntity, locale);
 const articles = getPublishedArticles(await getCollection('articles'));
-const relatedArticles = getArticlesForEntity(sourceEntity.slug, articles, 6);
+// Only guides that exist in this page's language. English guides stay off
+// French, German and Spanish knowledge pages.
+const localizedArticles = await getCollection('localizedArticles', ({ data }) => data.status === 'published' && data.locale === locale);
+const localizedByOriginal = new Map(localizedArticles.map((article) => [article.data.originalSlug, article]));
+const relatedArticles = getArticlesForEntity(sourceEntity.slug, articles, 50)
+  .map((article) => localizedByOriginal.get(article.id))
+  .filter((article) => article !== undefined)
+  .slice(0, 6);
 const relatedEntities = localizeEntities(getRelatedEntities(sourceEntity, 4), locale);
 const childEntities = localizeEntities(getEntityChildren(sourceEntity), locale);
 const hubSections = sourceEntity.entityType === 'condition'
@@ -244,7 +251,7 @@ const schema = [
           {relatedArticles.map((article) => (
             <ArticleCard
               title={article.data.title}
-              href={articleUrl(article.id)}
+              href={localizedArticleUrl(locale, article.data.originalSlug)}
               excerpt={article.data.excerpt}
               category={article.data.category}
               categories={article.data.categories}

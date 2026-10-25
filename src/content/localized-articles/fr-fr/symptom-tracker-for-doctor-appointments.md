@@ -102,7 +102,7 @@ C est pourquoi un tracker dedie fonctionne souvent mieux que des notes dispersee
 | Tableur | Structure manuelle | Plus d entretien et plus de décisions |
 | Tracker de symptômes | Historique structure continu | Demande de choisir un outil adapte a votre usage |
 
-Si vous voulez une version plus large de cette comparaison, [Symptom Tracker vs Notes App vs Spreadsheet](/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) va plus loin.
+Si vous voulez une version plus large de cette comparaison, [Symptom Tracker vs Notes App vs Spreadsheet](/fr-fr/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) va plus loin.
 
 ## Pourquoi la préparation change le meilleur choix de tracker
 
@@ -130,7 +130,7 @@ Concentrez-vous sur les parties de votre histoire qui rendent la discussion plus
 - changements fonctionnels comme le travail, la marche, la conduite ou les soins personnels
 - principales questions auxquelles vous voulez une réponse
 
-Si vous voulez une checklist plus complete, [What to Track Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/) couvre les catégories les plus utiles en detail.
+Si vous voulez une checklist plus complete, [What to Track Before a Specialist Appointment](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) couvre les catégories les plus utiles en detail.
 
 ## Pourquoi Zebra convient aux rendez-vous médicaux
 
@@ -145,7 +145,7 @@ Il garde:
 - fonctionnement et notes
 - questions pour le rendez-vous
 
-dans un seul dossier, afin que l etape finale soit un [rapport de symptômes pret pour le médecin](/blog/what-is-a-doctor-ready-symptom-report/), pas une pile d entrees deconnectees.
+dans un seul dossier, afin que l etape finale soit un [rapport de symptômes pret pour le médecin](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/), pas une pile d entrees deconnectees.
 
 C est particulierement utile pour les personnes qui suivent POTS, dysautonomie, EDS ou des maladies chroniques qui se chevauchent, lorsque les symptômes changent selon la position, l activité ou les tendances de poussees et deviennent plus difficiles a reconstruire ensuite.
 

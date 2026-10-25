@@ -102,7 +102,7 @@ Son interet est le plus fort quand vous voulez:
 
 Si votre problème principal est "j ai des captures d écran, des notes et des chiffres partout", Zebra est construit exactement pour cet ecart.
 
-Si vous choisissez encore le tracker lui-meme, [Meilleur tracker de symptômes pour la dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/) et [Meilleure app pour le suivi des symptômes autonomiques](/blog/best-app-for-autonomic-symptom-tracking/) sont les pages de comparaison plus larges.
+Si vous choisissez encore le tracker lui-meme, [Meilleur tracker de symptômes pour la dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/) et [Meilleure app pour le suivi des symptômes autonomiques](/fr-fr/blog/best-app-for-autonomic-symptom-tracking/) sont les pages de comparaison plus larges.
 
 ## Notes, tableurs et outils uniquement centres sur les constantes
 
@@ -138,9 +138,9 @@ Les fonctions les plus utiles incluent souvent:
 - liste de questions
 - une facon de relire toute l histoire avant la visite
 
-Si vous voulez l angle de suivi plus large, [Meilleur tracker de symptômes pour la dysautonomie](/blog/best-symptom-tracker-for-dysautonomia/) est la meilleure page compagne.
+Si vous voulez l angle de suivi plus large, [Meilleur tracker de symptômes pour la dysautonomie](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/) est la meilleure page compagne.
 
-Si le profil le plus visible est l aggravation des symptômes en position debout, [Meilleur tracker de symptômes pour l intolérance a la position debout](/blog/best-symptom-tracker-for-upright-intolerance/) est le guide le plus proche en langage de symptômes.
+Si le profil le plus visible est l aggravation des symptômes en position debout, [Meilleur tracker de symptômes pour l intolérance a la position debout](/fr-fr/blog/best-symptom-tracker-for-upright-intolerance/) est le guide le plus proche en langage de symptômes.
 
 ## Que faut-il vraiment apporter dans la salle?
 

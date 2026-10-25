@@ -101,7 +101,7 @@ Son interet est le plus fort quand vous voulez:
 
 Si votre problème principal est "j ai des captures d écran, des notes et des mesures partout", Zebra est construit exactement pour cet ecart.
 
-Si vous choisissez encore le tracker lui-meme, [Meilleures apps de suivi des symptômes pour POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) et [Zebra vs Bearable pour le suivi POTS](/blog/zebra-vs-bearable-for-pots-tracking/) donnent la vue comparative.
+Si vous choisissez encore le tracker lui-meme, [Meilleures apps de suivi des symptômes pour POTS en 2026](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/) et [Zebra vs Bearable pour le suivi POTS](/fr-fr/blog/zebra-vs-bearable-for-pots-tracking/) donnent la vue comparative.
 
 ## Notes, tableurs et outils uniquement centres sur les constantes
 
@@ -136,9 +136,9 @@ Les fonctions les plus utiles incluent souvent:
 - liste de questions
 - une facon de relire toute l histoire avant la visite
 
-Si vous voulez la version liste, [Quoi apporter a un rendez-vous de cardiologie pour POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) est la meilleure page compagne.
+Si vous voulez la version liste, [Quoi apporter a un rendez-vous de cardiologie pour POTS](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) est la meilleure page compagne.
 
-Si les changements en position debout sont le principal profil a expliquer, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) est le guide de suivi le plus cible.
+Si les changements en position debout sont le principal profil a expliquer, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) est le guide de suivi le plus cible.
 
 ## Que faut-il vraiment apporter dans la salle?
 

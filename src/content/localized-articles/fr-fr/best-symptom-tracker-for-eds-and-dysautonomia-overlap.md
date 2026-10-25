@@ -67,7 +67,7 @@ Si vous cherchez le meilleur tracker de symptômes pour le chevauchement EDS et 
 
 Le suivi du chevauchement devient difficile quand des symptômes qui appartiennent au meme profil vecu finissent disperses entre plusieurs apps, notes et souvenirs.
 
-Si vous comparez tout le paysage des trackers pour POTS, dysautonomie et EDS, commencez par le guide plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+Si vous comparez tout le paysage des trackers pour POTS, dysautonomie et EDS, commencez par le guide plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/fr-fr/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
 ## Ce qui rend un tracker de chevauchement vraiment utile
 
@@ -134,7 +134,7 @@ Le tracker le plus utile inclut souvent:
 - mesures seulement quand elles sont utiles
 - une facon de revoir ce qui a change avant les rendez-vous
 
-Pour la version workflow, [Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie](/blog/how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia/) est la meilleure page compagne.
+Pour la version workflow, [Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie](/fr-fr/blog/how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia/) est la meilleure page compagne.
 
 ## Faut-il separer les symptômes EDS des symptômes de dysautonomie?
 
@@ -142,7 +142,7 @@ En général, non.
 
 Si les symptômes font partie du meme profil vecu, les separer peut rendre l'image plus difficile a revoir. Une chronologie connectee est généralement plus utile que des notes de catégories isolees.
 
-Pour l'explication du chevauchement lui-meme, [Comment les symptômes EDS et dysautonomie se chevauchent](/blog/how-eds-and-dysautonomia-symptoms-overlap/) donne la vue plus large.
+Pour l'explication du chevauchement lui-meme, [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/) donne la vue plus large.
 
 ## En bref
 

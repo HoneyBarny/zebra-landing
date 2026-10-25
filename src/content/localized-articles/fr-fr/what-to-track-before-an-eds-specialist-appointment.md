@@ -67,7 +67,7 @@ faq:
 
 Avant un rendez-vous spécialiste EDS, la chose la plus utile a suivre est la tendance qui explique ce qui a change, comment votre corps se sent au quotidien, ce qui affecte le fonctionnement et quels symptômes de chevauchement pourraient compter. Vous n'avez pas besoin d'une histoire de vie parfaite. Vous avez besoin d'un dossier récent et clair que vous pouvez vraiment relire quand la visite commence.
 
-Pour beaucoup de personnes qui vivent avec un [EDS](/knowledge/eds/) ou un [hEDS](/knowledge/heds/), la partie difficile n'est pas de remarquer les symptômes. C'est de transformer un mois confus de douleur, instabilite, fatigue, etourdissements et brain fog en une histoire courte qui garde du sens dans la salle de consultation. C'est la qu'un [historique de sante](/knowledge/health-history/) clair aide.
+Pour beaucoup de personnes qui vivent avec un [EDS](/fr-fr/knowledge/eds/) ou un [hEDS](/fr-fr/knowledge/heds/), la partie difficile n'est pas de remarquer les symptômes. C'est de transformer un mois confus de douleur, instabilite, fatigue, etourdissements et brain fog en une histoire courte qui garde du sens dans la salle de consultation. C'est la qu'un [historique de sante](/fr-fr/knowledge/health-history/) clair aide.
 
 ## Ce qu'un spécialiste EDS doit généralement comprendre vite
 
@@ -81,7 +81,7 @@ La plupart des visites avancent mieux quand vos notes aident a répondre a cinq 
 
 Cela signifie que la meilleure préparation n'est pas un immense journal de symptômes. C'est un resume récent et organise qui soutient la conversation.
 
-Si vous avez d'abord besoin d'une version générale, commencez par [Comment suivre les symptômes avant un rendez-vous spécialiste](/blog/what-to-track-before-a-specialist-appointment/). Si votre problème plus large est de rassembler toute l'histoire, [Comment organiser votre historique de sante pour une visite médicale](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) est un bon complement.
+Si vous avez d'abord besoin d'une version générale, commencez par [Comment suivre les symptômes avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/). Si votre problème plus large est de rassembler toute l'histoire, [Comment organiser votre historique de sante pour une visite médicale](/fr-fr/blog/how-to-organize-your-health-history-for-a-doctor-visit/) est un bon complement.
 
 ## Que suivre avant un rendez-vous spécialiste EDS
 
@@ -126,7 +126,7 @@ C'est particulierement utile si votre mois a été difficile a resumer a voix ha
 
 Beaucoup de personnes avec EDS essaient aussi d'expliquer des symptômes de chevauchement comme etourdissements, fatigue, palpitations, brain fog et intolérance a la position debout. Si cela fait partie de votre tableau, incluez-les dans le meme dossier au lieu de les garder dans une autre app ou note.
 
-C'est la que [Comment les symptômes EDS et dysautonomie se chevauchent](/blog/how-eds-and-dysautonomia-symptoms-overlap/) peut aider a cadrer ce que vous observez. Si les symptômes lies a la position comptent, [Comment suivre les symptômes de POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) donne un modele de suivi simple.
+C'est la que [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/) peut aider a cadrer ce que vous observez. Si les symptômes lies a la position comptent, [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) donne un modele de suivi simple.
 
 Le contexte de chevauchement utile peut inclure:
 
@@ -151,7 +151,7 @@ Suivez des exemples comme:
 - besoin d'aide pour les taches menageres
 - impossible de penser assez clairement pour finir le travail ou les messages
 
-Ce type d'[impact fonctionnel](/knowledge/functional-impact/) rend l'historique des symptômes beaucoup plus facile a comprendre.
+Ce type d'[impact fonctionnel](/fr-fr/knowledge/functional-impact/) rend l'historique des symptômes beaucoup plus facile a comprendre.
 
 ## 5. Poussees et jours plus difficiles
 
@@ -193,7 +193,7 @@ Exemples:
 - Quelles tendances sont les plus importantes a suivre avant la prochaine visite?
 - Quels changements devrais-je surveiller plus attentivement?
 - Comment organiser les symptômes de chevauchement pour le suivi?
-- Qu'est-ce qui appartient a un [rapport pret pour le médecin](/knowledge/doctor-ready-report/)?
+- Qu'est-ce qui appartient a un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/)?
 
 C'est important parce que beaucoup de personnes quittent les rendez-vous en se rappelant ce qu'elles ont oublie de demander.
 
@@ -239,7 +239,7 @@ C'est suffisant pour créer un historique récent utile sans trop construire le 
 
 Zebra est concu pour la partie qui tombe souvent en morceaux avant le rendez-vous: garder les symptômes, le contexte de chevauchement, le fonctionnement quotidien et la préparation des questions dans un meme dossier qui garde du sens plus tard.
 
-Si vous voulez la partie rapport de ce flux, [Qu'est-ce qu'un rapport de symptômes pret pour le médecin?](/blog/what-is-a-doctor-ready-symptom-report/) explique ce que contient vraiment un resume utile.
+Si vous voulez la partie rapport de ce flux, [Qu'est-ce qu'un rapport de symptômes pret pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) explique ce que contient vraiment un resume utile.
 
 ## Points clés
 

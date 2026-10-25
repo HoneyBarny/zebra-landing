@@ -64,7 +64,7 @@ faq:
     answer: "Un court resume de ce qui a change, de ce qui se regroupe, de ce qui semble lie a la position et de ce que cela fait a la vie quotidienne est généralement plus facile a revoir que des notes dispersees."
 ---
 
-Les symptômes [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/) et [dysautonomie](/knowledge/dysautonomia/) se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps [etourdissements](/knowledge/dizziness/), [fatigue](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), intolérance a l'effort, douleur et changements de [fonctionnement quotidien](/knowledge/functional-impact/), meme quand ces symptômes ne semblent pas appartenir a une seule etiquette.
+Les symptômes [EDS](/fr-fr/knowledge/eds/), [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/) se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps [etourdissements](/fr-fr/knowledge/dizziness/), [fatigue](/fr-fr/knowledge/fatigue/), [brain fog](/fr-fr/knowledge/brain-fog/), intolérance a l'effort, douleur et changements de [fonctionnement quotidien](/fr-fr/knowledge/functional-impact/), meme quand ces symptômes ne semblent pas appartenir a une seule etiquette.
 
 C'est l'une des raisons pour lesquelles le chevauchement peut être si difficile a expliquer dans les soins. Le problème n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Quand plusieurs symptômes montent et descendent ensemble, il devient plus difficile de se rappeler ce qui a change en premier, ce qui se regroupe et ce qui compte le plus a mentionner au prochain rendez-vous.
 
@@ -79,7 +79,7 @@ Les personnes finissent souvent avec:
 - questions de rendez-vous dans des notes
 - souvenirs des pires jours pour combler les trous
 
-C'est pourquoi un dossier du profil complet est généralement plus utile que des notes de catégories isolees. Si vous avez besoin de la version générale plus simple de ce problème, [Pourquoi le suivi des symptômes echoue les mauvais jours](/blog/why-symptom-tracking-fails-on-bad-days/) explique pourquoi le suivi casse souvent quand les symptômes s'aggravent.
+C'est pourquoi un dossier du profil complet est généralement plus utile que des notes de catégories isolees. Si vous avez besoin de la version générale plus simple de ce problème, [Pourquoi le suivi des symptômes echoue les mauvais jours](/fr-fr/blog/why-symptom-tracking-fails-on-bad-days/) explique pourquoi le suivi casse souvent quand les symptômes s'aggravent.
 
 ## A quoi peut ressembler le chevauchement
 
@@ -94,7 +94,7 @@ Le chevauchement peut inclure:
 
 Cela ne veut pas dire que chaque symptôme a la meme source. Cela veut dire que le profil vecu est souvent entrelace.
 
-Pour certaines personnes, le chevauchement inclut aussi [l'intolérance orthostatique](/knowledge/orthostatic-intolerance/), des palpitations, des tremblements ou des symptômes qui empirent après être reste debout plus longtemps. Si cette partie compte, [Comment suivre les symptômes POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) est une page compagne utile.
+Pour certaines personnes, le chevauchement inclut aussi [l'intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), des palpitations, des tremblements ou des symptômes qui empirent après être reste debout plus longtemps. Si cette partie compte, [Comment suivre les symptômes POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) est une page compagne utile.
 
 ## Pourquoi cela compte pour le suivi
 
@@ -128,7 +128,7 @@ Si vous voulez un modele pratique, combinez:
 - ce qui est devenu plus difficile a faire
 - tout ce qui est clairement nouveau ou pire
 
-Cette structure garde le dossier utilisable meme quand la conversation diagnostique est encore incomplete. Pour la version préparation de rendez-vous, [Que suivre avant un rendez-vous spécialiste](/blog/what-to-track-before-a-specialist-appointment/) et [Comment organiser votre historique de sante pour une visite médicale](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) aident a transformer le profil en quelque chose de plus facile a revoir.
+Cette structure garde le dossier utilisable meme quand la conversation diagnostique est encore incomplete. Pour la version préparation de rendez-vous, [Que suivre avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) et [Comment organiser votre historique de sante pour une visite médicale](/fr-fr/blog/how-to-organize-your-health-history-for-a-doctor-visit/) aident a transformer le profil en quelque chose de plus facile a revoir.
 
 ## Erreurs courantes quand les symptômes qui se chevauchent deviennent confus
 
@@ -139,7 +139,7 @@ Les pieges courants incluent:
 - ignorer les changements de fonctionnement parce qu'ils semblent plus difficiles a resumer
 - attendre le rendez-vous pour reconstruire tout le mois de mémoire
 
-Si le brain fog fait partie du problème, [Comment suivre les symptômes de brain fog pour un rendez-vous médical](/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) et [Comment resumer les symptômes sans oublier les details importants](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) peuvent aider a garder le dossier plus leger.
+Si le brain fog fait partie du problème, [Comment suivre les symptômes de brain fog pour un rendez-vous médical](/fr-fr/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) et [Comment resumer les symptômes sans oublier les details importants](/fr-fr/blog/how-to-summarize-symptoms-without-forgetting-key-details/) peuvent aider a garder le dossier plus leger.
 
 ## Ce qui rend le chevauchement plus facile a expliquer aux rendez-vous
 

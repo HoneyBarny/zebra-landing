@@ -65,7 +65,7 @@ Si vous cherchez la meilleure app de suivi des symptômes pour le POTS, le bon c
 
 La partie frustrante est que beaucoup de personnes avec le POTS ne cherchent pas "une app". Elles cherchent une facon d'arrêter de recoller trois ou quatre outils a chaque fois qu'un rendez-vous approche.
 
-Si vous comparez le POTS, la dysautonomie et l'EDS ensemble, commencez par le guide plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+Si vous comparez le POTS, la dysautonomie et l'EDS ensemble, commencez par le guide plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/fr-fr/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
 ## Qu'est-ce qui rend un tracker POTS vraiment utile?
 
@@ -78,7 +78,7 @@ Pour le POTS, la meilleure app n'est pas celle qui a le plus de graphiques. C'es
 
 C'est pourquoi le suivi generique des symptômes et le vrai suivi de préparation de rendez-vous ne sont pas la meme chose.
 
-Si les symptômes en position debout sont la principale raison pour laquelle vous comparez des apps, les guides plus spécifiques sur le [suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) et le [suivi de l'intolérance en position debout](/blog/best-symptom-tracker-for-upright-intolerance/) peuvent être la meilleure prochaine etape.
+Si les symptômes en position debout sont la principale raison pour laquelle vous comparez des apps, les guides plus spécifiques sur le [suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) et le [suivi de l'intolérance en position debout](/fr-fr/blog/best-symptom-tracker-for-upright-intolerance/) peuvent être la meilleure prochaine etape.
 
 ## Comparaison rapide
 
@@ -112,7 +112,7 @@ Les principaux differenciateurs du positionnement actuel de Zebra sont:
 
 Si votre principale question est "Comment arrêter d'arriver sans préparation?", Zebra est le meilleur choix dans cet ensemble.
 
-Pour la version spécifique aux rendez-vous de cette décision, consultez [Meilleure app pour préparer un rendez-vous de cardiologie POTS](/blog/best-app-for-pots-cardiology-appointment-prep/). Pour voir directement le parcours Zebra, la page [Suivi POTS](/fr-fr/pots-tracker/) est le point d'entree le plus direct.
+Pour la version spécifique aux rendez-vous de cette décision, consultez [Meilleure app pour préparer un rendez-vous de cardiologie POTS](/fr-fr/blog/best-app-for-pots-cardiology-appointment-prep/). Pour voir directement le parcours Zebra, la page [Suivi POTS](/fr-fr/pots-tracker/) est le point d'entree le plus direct.
 
 ## Bearable: meilleur si vous voulez une large personnalisation
 

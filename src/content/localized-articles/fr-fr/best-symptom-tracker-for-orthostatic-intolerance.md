@@ -133,7 +133,7 @@ Le tracker le plus utile inclut généralement:
 - contexte hydratation, sel ou médicaments quand pertinent
 - une facon de relire le profil avant les rendez-vous
 
-Pour la definition elle-meme, [Qu est-ce que l intolérance orthostatique?](/blog/what-is-orthostatic-intolerance/) est la meilleure page compagne. Pour la version plus centree sur les apps, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/best-app-for-orthostatic-symptom-tracking/) va un peu plus large.
+Pour la definition elle-meme, [Qu est-ce que l intolérance orthostatique?](/fr-fr/blog/what-is-orthostatic-intolerance/) est la meilleure page compagne. Pour la version plus centree sur les apps, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) va un peu plus large.
 
 ## Avez-vous besoin d un test orthostatique complet tous les jours?
 

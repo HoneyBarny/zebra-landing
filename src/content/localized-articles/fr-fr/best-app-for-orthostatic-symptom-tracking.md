@@ -152,7 +152,7 @@ L app la plus utile inclut généralement:
 - contexte médicaments, hydratation ou sel quand pertinent
 - une facon de relire le profil avant les rendez-vous
 
-Pour l explication plus orientee workflow, [Comment suivre les symptômes de POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) et [Que permet de noter un test orthostatique?](/blog/what-does-an-orthostatic-test-help-you-record/) sont les meilleures pages compagnes.
+Pour l explication plus orientee workflow, [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) et [Que permet de noter un test orthostatique?](/fr-fr/blog/what-does-an-orthostatic-test-help-you-record/) sont les meilleures pages compagnes.
 
 ## Avez-vous besoin d un test orthostatique complet tous les jours?
 

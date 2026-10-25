@@ -61,7 +61,7 @@ faq:
 
 L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, etourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile.
 
-C'est particulierement utile avant un rendez-vous médical, car les symptômes peuvent sembler vagues quand ils sont seulement listes par nom. [L'impact fonctionnel](/knowledge/functional-impact/) transforme le symptôme en exemple plus clair.
+C'est particulierement utile avant un rendez-vous médical, car les symptômes peuvent sembler vagues quand ils sont seulement listes par nom. [L'impact fonctionnel](/fr-fr/knowledge/functional-impact/) transforme le symptôme en exemple plus clair.
 
 ## Ce que signifie l'impact fonctionnel
 
@@ -151,7 +151,7 @@ Avant la visite, sortez:
 - ce qui a change recemment
 - ce que vous voulez aider a décider ensuite
 
-Cela peut devenir une partie d'un [rapport pret pour le médecin](/knowledge/doctor-ready-report/) ou une courte note que vous relisez avant le rendez-vous.
+Cela peut devenir une partie d'un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/) ou une courte note que vous relisez avant le rendez-vous.
 
 ## La place de Zebra
 

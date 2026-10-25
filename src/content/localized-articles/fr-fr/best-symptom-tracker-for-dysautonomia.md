@@ -66,7 +66,7 @@ Si vous cherchez le meilleur tracker de symptômes pour la dysautonomie, le bon 
 
 La partie la plus difficile du suivi de la dysautonomie n est généralement pas seulement de collecter les symptômes. C est de garder assez de contexte pour expliquer ce qui s est passe quand les symptômes ont change avec la posture, l activité, la chaleur, la deshydratation, les repas, le stress ou les jours de poussee.
 
-Si vous comparez POTS, dysautonomie et EDS ensemble, commencez par le hub plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+Si vous comparez POTS, dysautonomie et EDS ensemble, commencez par le hub plus large: [Meilleur tracker de symptômes pour POTS, dysautonomie et EDS](/fr-fr/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
 ## Ce qui rend un tracker de symptômes de dysautonomie vraiment utile
 
@@ -103,9 +103,9 @@ Son positionnement actuel est le plus fort autour de:
 
 Si votre question principale est "Comment arrêter d arriver aux rendez-vous avec des notes dispersees?", Zebra est le choix le plus clair dans cet ensemble.
 
-Si vous voulez la version plus spécifique au rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/blog/symptom-tracker-for-doctor-appointments/) va plus loin.
+Si vous voulez la version plus spécifique au rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) va plus loin.
 
-Si vous utilisez un langage autonomique plus large au lieu de dysautonomie, [Meilleure app pour le suivi des symptômes autonomiques](/blog/best-app-for-autonomic-symptom-tracking/) couvre la meme décision depuis cette intention de recherche.
+Si vous utilisez un langage autonomique plus large au lieu de dysautonomie, [Meilleure app pour le suivi des symptômes autonomiques](/fr-fr/blog/best-app-for-autonomic-symptom-tracking/) couvre la meme décision depuis cette intention de recherche.
 
 ## Bearable: meilleur si vous voulez une personnalisation large
 
@@ -139,7 +139,7 @@ Si votre question principale est:
 
 Zebra est généralement le meilleur choix.
 
-Pour la comparaison directe, [Zebra vs Visible pour le suivi de maladie chronique](/blog/zebra-vs-visible-for-chronic-illness-tracking/) detaille ce compromis plus clairement.
+Pour la comparaison directe, [Zebra vs Visible pour le suivi de maladie chronique](/fr-fr/blog/zebra-vs-visible-for-chronic-illness-tracking/) detaille ce compromis plus clairement.
 
 ## Notes et tableurs: meilleur si vous avez seulement besoin d une capture temporaire
 
@@ -167,9 +167,9 @@ Les fonctions les plus utiles incluent souvent:
 - questions pour les rendez-vous
 - une facon de relire le profil avant la visite
 
-Si vous ne savez pas comment penser la partie symptômes en position debout, [Comment suivre les symptômes de POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) et [Qu est-ce que l intolérance orthostatique?](/blog/what-is-orthostatic-intolerance/) sont de bons points de depart.
+Si vous ne savez pas comment penser la partie symptômes en position debout, [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) et [Qu est-ce que l intolérance orthostatique?](/fr-fr/blog/what-is-orthostatic-intolerance/) sont de bons points de depart.
 
-Si la prochaine visite est en cardiologie, [Meilleure app pour préparer un rendez-vous de cardiologie pour dysautonomie](/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) resserre cela autour du flux avant la visite.
+Si la prochaine visite est en cardiologie, [Meilleure app pour préparer un rendez-vous de cardiologie pour dysautonomie](/fr-fr/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) resserre cela autour du flux avant la visite.
 
 ## Que choisir?
 

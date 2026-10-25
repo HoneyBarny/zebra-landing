@@ -61,7 +61,7 @@ faq:
 
 Un resume mensuel des symptômes transforme des notes quotidiennes dispersees en une courte revue de ce qui a change, de ce qui s'est repete, de ce qui a affecte le fonctionnement et des questions que vous voulez apporter aux soins. Il doit être assez court pour servir avant un rendez-vous et assez clair pour être revu quand le brain fog est élevé.
 
-Ce type de resume est utile parce que le suivi brut peut devenir difficile a utiliser. Un mois d'entrees n'aide que si vous pouvez le transformer en [rapport pret pour le médecin](/knowledge/doctor-ready-report/) clair ou en note de rendez-vous.
+Ce type de resume est utile parce que le suivi brut peut devenir difficile a utiliser. Un mois d'entrees n'aide que si vous pouvez le transformer en [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/) clair ou en note de rendez-vous.
 
 ## Commencez par la réponse principale
 

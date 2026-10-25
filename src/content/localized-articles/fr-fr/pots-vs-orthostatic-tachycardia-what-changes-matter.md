@@ -65,7 +65,7 @@ faq:
     answer: "Un rapport concis peut aider a relire les profils recurrents, les groupes de symptômes et les questions que vous voulez apporter aux soins."
 ---
 
-POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d explication. La tachycardie orthostatique decrit un profil de fréquence cardiaque lie a la posture. [POTS](/knowledge/pots/) est un syndrome clinique plus large qui inclut souvent des symptômes comme les etourdissements, [palpitations](/knowledge/palpitations/), fatigue et intolérance a la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait a la vie quotidienne.
+POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d explication. La tachycardie orthostatique decrit un profil de fréquence cardiaque lie a la posture. [POTS](/fr-fr/knowledge/pots/) est un syndrome clinique plus large qui inclut souvent des symptômes comme les etourdissements, [palpitations](/fr-fr/knowledge/palpitations/), fatigue et intolérance a la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait a la vie quotidienne.
 
 Pour le suivi des symptômes, cette différence compte parce que les chiffres seuls suffisent rarement. Un historique plus clair combine souvent symptômes, contexte lie a la posture et changements de fonctionnement dans un seul dossier.
 
@@ -73,8 +73,8 @@ Pour le suivi des symptômes, cette différence compte parce que les chiffres se
 
 Voici la distinction pratique:
 
-- [La tachycardie orthostatique](/knowledge/orthostatic-tachycardia/) est un profil descriptif
-- [POTS](/knowledge/pots/) est un syndrome clinique plus large
+- [La tachycardie orthostatique](/fr-fr/knowledge/orthostatic-tachycardia/) est un profil descriptif
+- [POTS](/fr-fr/knowledge/pots/) est un syndrome clinique plus large
 
 Cela signifie que vous pouvez suivre la tachycardie orthostatique comme une partie de votre historique sans supposer que tout le tableau est explique.
 
@@ -107,7 +107,7 @@ Cela inclut souvent:
 - etourdissements ou sensation de tête legere
 - fatigue
 - palpitations
-- [tachycardie](/knowledge/tachycardia/)
+- [tachycardie](/fr-fr/knowledge/tachycardia/)
 - brain fog
 - intolérance a l effort
 - sensibilité a la chaleur
@@ -135,9 +135,9 @@ Le dossier le plus utile combine souvent:
 - impact fonctionnel
 - fréquence cardiaque ou tension arterielle si pertinent
 
-C est la meme raison pour laquelle [Comment suivre les symptômes de POTS et les changements orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) fonctionne mieux qu un journal uniquement centre sur les constantes.
+C est la meme raison pour laquelle [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) fonctionne mieux qu un journal uniquement centre sur les constantes.
 
-Si la question plus large est ce qu ajoute votre test structure, [Que permet de noter un test orthostatique?](/blog/what-does-an-orthostatic-test-help-you-record/) explique ce flux.
+Si la question plus large est ce qu ajoute votre test structure, [Que permet de noter un test orthostatique?](/fr-fr/blog/what-does-an-orthostatic-test-help-you-record/) explique ce flux.
 
 ## Ce qu il ne faut pas faire
 
@@ -181,11 +181,11 @@ Si vous voulez une structure simple, suivez:
 - courses
 - concentration
 
-Cela donne un dossier beaucoup plus facile a relire avant une visite ou a inclure dans un [rapport pret pour le médecin](/knowledge/doctor-ready-report/).
+Cela donne un dossier beaucoup plus facile a relire avant une visite ou a inclure dans un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/).
 
 ## Ou Zebra s integre
 
-Zebra est concu pour combler l espace entre "j ai remarque quelque chose d important" et "je peux expliquer clairement le profil plus tard". C est particulierement utile lorsque les symptômes d [intolérance orthostatique](/knowledge/orthostatic-intolerance/), la [tachycardie](/knowledge/tachycardia/) et les changements de fonctionnement quotidien doivent rester connectes.
+Zebra est concu pour combler l espace entre "j ai remarque quelque chose d important" et "je peux expliquer clairement le profil plus tard". C est particulierement utile lorsque les symptômes d [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), la [tachycardie](/fr-fr/knowledge/tachycardia/) et les changements de fonctionnement quotidien doivent rester connectes.
 
 ## Points clés
 

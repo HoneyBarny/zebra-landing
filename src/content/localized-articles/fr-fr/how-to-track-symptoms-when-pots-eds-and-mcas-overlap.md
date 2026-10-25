@@ -72,7 +72,7 @@ faq:
     answer: "Non. Zebra aide a organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Quand [POTS](/knowledge/pots/), [EDS](/knowledge/eds/) ou [hEDS](/knowledge/heds/) et [MCAS](/knowledge/mcas/) se chevauchent, le plus difficile n'est pas seulement d'avoir plus de symptômes. C'est d'expliquer vertiges, douleur, fatigue, flush, symptômes GI, changements de médicaments, declencheurs et [impact fonctionnel](/knowledge/functional-impact/) comme un historique lisible plutot que comme des fragments separes.
+Quand [POTS](/fr-fr/knowledge/pots/), [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [MCAS](/fr-fr/knowledge/mcas/) se chevauchent, le plus difficile n'est pas seulement d'avoir plus de symptômes. C'est d'expliquer vertiges, douleur, fatigue, flush, symptômes GI, changements de médicaments, declencheurs et [impact fonctionnel](/fr-fr/knowledge/functional-impact/) comme un historique lisible plutot que comme des fragments separes.
 
 C'est pourquoi le suivi du chevauchement a besoin d'une autre forme qu'un journal de symptômes classique. Une liste de symptômes peut devenir trop longue pour être utilisable. Un meilleur dossier montre ce qui a change, ce qui etait proche et ce qui a rendu la vie quotidienne plus difficile.
 
@@ -107,7 +107,7 @@ Notes utiles:
 
 Cela ne veut pas dire que l'evenement proche a cause les symptômes. Cela garde simplement le contexte disponible pour la discussion.
 
-Pour le POTS et la dysautonomie, le [contexte orthostatique](/knowledge/orthostatic-intolerance/) peut être particulierement utile: ce qui s'est passe couche, assis, debout ou après être reste debout plus longtemps.
+Pour le POTS et la dysautonomie, le [contexte orthostatique](/fr-fr/knowledge/orthostatic-intolerance/) peut être particulierement utile: ce qui s'est passe couche, assis, debout ou après être reste debout plus longtemps.
 
 ## Garder médicaments et changements près des symptômes
 
@@ -125,7 +125,7 @@ Suivez:
 
 La valeur n'est pas seulement la liste. La valeur est la chronologie. Si les symptômes ont change près d'un changement de médicament, vous pouvez apporter ce contexte sans essayer de vous rappeler la sequence plus tard.
 
-Pour une version plus detaillee, lisez [Comment suivre les changements de médicaments pendant une poussee](/blog/how-to-track-medication-changes-during-a-flare/).
+Pour une version plus detaillee, lisez [Comment suivre les changements de médicaments pendant une poussee](/fr-fr/blog/how-to-track-medication-changes-during-a-flare/).
 
 ## Ajouter l'impact fonctionnel pour donner un centre au rendez-vous
 
@@ -170,7 +170,7 @@ Avant une consultation specialisee, transformez la chronologie en resume court:
 - exemples d'impact fonctionnel
 - vos 3 principales questions
 
-Pour la version spécifique rendez-vous, utilisez la [checklist de symptômes pour rendez-vous médical](/blog/doctor-appointment-symptom-checklist/) ou [Comment organiser votre historique de sante pour une visite médicale](/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
+Pour la version spécifique rendez-vous, utilisez la [checklist de symptômes pour rendez-vous médical](/fr-fr/blog/doctor-appointment-symptom-checklist/) ou [Comment organiser votre historique de sante pour une visite médicale](/fr-fr/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
 
 ## Contexte des sources
 
@@ -185,7 +185,7 @@ Contexte utile:
 
 ## Ou Zebra s'insere
 
-Zebra est construit pour le problème de suivi cree par le chevauchement: symptômes, poussees, [constantes orthostatiques](/knowledge/orthostatic-test/), médicaments, hydratation, sel, declencheurs, notes et questions de rendez-vous dans une seule chronologie.
+Zebra est construit pour le problème de suivi cree par le chevauchement: symptômes, poussees, [constantes orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, declencheurs, notes et questions de rendez-vous dans une seule chronologie.
 
 Il ne diagnostique pas le POTS, l'EDS, le MCAS ni aucune condition. Il aide a garder l'historique saisi par la personne organise pour le relire avant une visite médicale.
 
