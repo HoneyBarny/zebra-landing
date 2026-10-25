@@ -3,7 +3,7 @@ export const authorProfiles = {
     slug: 'zebra-editorial',
     name: 'Zebra Editorial Team',
     role: 'Research-led patient education',
-    bio: 'Zebra Editorial Team translates chronic-illness research, customer language, and product workflows into practical guidance for symptom tracking, appointment preparation, and doctor-ready reports.',
+    bio: 'Zebra Editorial Team turns chronic-illness research into practical guides on symptom tracking, appointment prep, and doctor-ready reports.',
     editorialPolicy:
       'Every Zebra article is written to clarify tracking, appointment preparation, and doctor-ready reporting without making diagnostic or treatment claims.',
     researchMethodology:
