@@ -21,7 +21,7 @@ ogTitle: "Suivi des poussees MCAS: quoi noter pendant une reaction"
 ogDescription: "Un guide pratique pour noter les episodes type mastocytes, declencheurs, médicaments, sécurité et recuperation."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique d'insights Zebra montrant des motifs de symptômes et des notes sauvegardees."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes type MCAS, declencheurs, médicaments, notes de sécurité, recuperation et questions pour le médecin dans une meme timeline."
 categories:

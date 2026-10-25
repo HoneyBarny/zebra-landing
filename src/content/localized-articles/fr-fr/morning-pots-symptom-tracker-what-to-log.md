@@ -21,7 +21,7 @@ ogTitle: "Suivi des symptômes matinaux de POTS"
 ogDescription: "Suivez les symptômes de la première heure, le lever, l'hydratation, le sel, le petit-dejeuner, les médicaments, la fréquence cardiaque, les vertiges, le brouillard mental, la recuperation et les notes pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes matinaux, sommeil, premier lever, liquides, sel, horaire des médicaments, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

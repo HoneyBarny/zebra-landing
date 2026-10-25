@@ -20,7 +20,7 @@ ogTitle: "Quoi suivre avant un rendez-vous spécialiste"
 ogDescription: "Une checklist simple pour suivre symptômes, changements, médicaments et questions avant votre prochaine visite spécialiste."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Personne relisant une checklist simple de symptômes et une liste de médicaments avant un rendez-vous spécialiste."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra pour garder symptômes, changements de fonctionnement, médicaments et questions de rendez-vous dans un historique pret pour le médecin."
 featured: true

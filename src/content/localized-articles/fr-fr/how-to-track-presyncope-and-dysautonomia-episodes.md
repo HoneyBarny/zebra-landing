@@ -21,7 +21,7 @@ ogTitle: "Comment suivre la presyncope et les episodes de dysautonomie"
 ogDescription: "Un guide pratique pour suivre les quasi-malaises, les etourdissements et les episodes de dysautonomie difficiles a expliquer."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des symptômes et constantes par position."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes de presyncope, declencheurs, constantes, hydratation, médicaments et notes de rendez-vous dans une seule chronologie."
 categories:

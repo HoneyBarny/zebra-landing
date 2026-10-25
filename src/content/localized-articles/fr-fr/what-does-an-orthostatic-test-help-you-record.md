@@ -20,7 +20,7 @@ ogTitle: "Que permet de noter un test orthostatique?"
 ogDescription: "Une explication simple de ce qu un suivi orthostatique structure ajoute a l historique de symptômes et a la préparation des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Parcours de suivi orthostatique en trois positions pour symptômes et observations"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra lorsque vous voulez garder les observations orthostatiques dans le meme dossier que les symptômes."
 featured: false

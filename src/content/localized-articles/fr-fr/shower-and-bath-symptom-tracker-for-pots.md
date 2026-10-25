@@ -21,7 +21,7 @@ ogTitle: "Suivi des symptômes sous la douche et dans le bain pour POTS"
 ogDescription: "Suivez les symptômes de douche chaude, temps debout, vertiges, palpitations, hydratation, sel, recuperation et notes pretes pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes de douche, chaleur, temps debout, hydratation, sel, fréquence cardiaque, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

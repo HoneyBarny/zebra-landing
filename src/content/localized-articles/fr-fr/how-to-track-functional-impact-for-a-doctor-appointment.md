@@ -43,7 +43,7 @@ ogTitle: "Comment suivre l'impact fonctionnel"
 ogDescription: "Un guide pratique pour expliquer ce que les symptômes ont change dans la vie quotidienne avant un rendez-vous médical."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un resume de symptômes pret pour le médecin."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes et l'impact fonctionnel dans un dossier pret pour le médecin."
 schemaTypes:

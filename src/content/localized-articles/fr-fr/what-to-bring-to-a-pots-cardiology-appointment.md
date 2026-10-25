@@ -20,7 +20,7 @@ ogTitle: "Quoi apporter a un rendez-vous de cardiologie pour POTS"
 ogDescription: "Une liste simple pour apporter le bon historique de symptômes et le contexte orthostatique a une visite de cardiologie."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Liste de ce qu il faut apporter a un rendez-vous de cardiologie pour POTS"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Suivez le mois avant votre rendez-vous dans Zebra."
 featured: false

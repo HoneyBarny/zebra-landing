@@ -21,7 +21,7 @@ ogTitle: "Tracker repas et symptômes GI pour POTS et EDS"
 ogDescription: "Suivez symptômes après repas, changements GI, contexte orthostatique, hydratation, sel, médicaments et recuperation."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes, hydratation et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder contexte de repas, symptômes GI, vertige, fréquence cardiaque, hydratation, sel, médicaments et questions pour le médecin dans une meme timeline."
 categories:

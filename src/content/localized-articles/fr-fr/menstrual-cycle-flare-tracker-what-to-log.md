@@ -21,7 +21,7 @@ ogTitle: "Suivi des poussees liees au cycle menstruel: quoi noter"
 ogDescription: "Notez timing des regles, changements de symptômes, motifs possibles de poussee, médicaments et impact fonctionnel."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder contexte du cycle, symptômes, poussees, médicaments et questions pour le médecin dans une meme timeline."
 categories:

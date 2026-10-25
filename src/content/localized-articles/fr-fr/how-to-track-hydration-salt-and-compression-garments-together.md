@@ -45,7 +45,7 @@ ogTitle: "Comment suivre hydratation, sel et vetements de compression"
 ogDescription: "Un guide pratique pour garder les strategies de soutien quotidiennes connectees a l'historique des symptômes et des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Écran de resume Zebra montrant le contexte quotidien des symptômes et les profils."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder hydratation, sel, soutiens, symptômes et poussees dans la meme chronologie."
 schemaTypes:

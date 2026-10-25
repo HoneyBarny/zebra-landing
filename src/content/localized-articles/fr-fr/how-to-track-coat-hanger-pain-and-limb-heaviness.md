@@ -21,7 +21,7 @@ ogTitle: "Comment suivre la douleur en cintre et les membres lourds"
 ogDescription: "Un guide pratique pour suivre douleur cou-epaules, membres lourds et fatigue debout dans la dysautonomie."
 heroImage: "/screenshots/today.png"
 heroImageAlt: "Écran quotidien Zebra pour symptômes, declencheurs, hydratation, médicaments et notes."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder douleur en cintre, membres lourds, posture, declencheurs, constantes, hydratation et notes de médicaments dans une chronologie."
 categories:

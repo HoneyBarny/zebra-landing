@@ -20,7 +20,7 @@ ogTitle: "Comment les symptômes EDS et dysautonomie se chevauchent"
 ogDescription: "Une explication pratique du chevauchement des symptômes et de la facon de suivre le profil plus clairement."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Illustration montrant le chevauchement entre les symptômes EDS et dysautonomie"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra quand le chevauchement rend l'historique des symptômes plus difficile a garder clair."
 featured: false

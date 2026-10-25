@@ -45,7 +45,7 @@ ogTitle: "Comment suivre les symptômes d'EM/SFC sans declencher de PEM"
 ogDescription: "Une facon pratique et plus legere de garder un historique utile des symptômes sans transformer le suivi en nouvelle source d'effort."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant un check-in simple pour les symptômes, le fonctionnement et le contexte lie a la fatigue."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes, les crashs retardes et les changements de fonctionnement quotidien dans un dossier plus facile a relire."
 schemaTypes:

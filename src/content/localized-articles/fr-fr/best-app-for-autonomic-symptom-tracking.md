@@ -21,7 +21,7 @@ ogTitle: "Meilleure app pour le suivi des symptômes autonomiques"
 ogDescription: "Une comparaison pratique d apps pour suivre les symptômes autonomiques et préparer un historique plus clair pour les rendez-vous."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison d options d apps pour le suivi des symptômes autonomiques et la préparation de rendez-vous dysautonomie."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez symptômes autonomiques, contexte en position debout et préparation de rendez-vous dans un seul dossier."
 categories:

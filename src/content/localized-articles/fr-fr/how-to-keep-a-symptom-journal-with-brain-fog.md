@@ -20,7 +20,7 @@ ogTitle: "Comment tenir un journal de symptômes avec le brain fog"
 ogDescription: "Une approche peu exigeante du journal de symptômes quand mémoire, concentration et ecriture sont plus difficiles que d'habitude."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Modele de journal de symptômes en quatre parties pour personnes avec brain fog"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder le dossier minimum utile les jours de brain fog."
 featured: false

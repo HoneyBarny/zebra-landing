@@ -20,7 +20,7 @@ ogTitle: "Bearable vs Zebra"
 ogDescription: "Une comparaison pratique entre un tracker de symptômes generique et un outil spécifique de préparation de rendez-vous."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison de Bearable et Zebra pour le suivi des symptômes de maladie chronique"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Choisissez Zebra si vous voulez un suivi spécifique au chevauchement et une préparation de rendez-vous dans un seul flux."
 featured: false

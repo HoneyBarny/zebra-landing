@@ -21,7 +21,7 @@ ogTitle: "Meilleur tracker de symptômes pour POTS, dysautonomie et EDS"
 ogDescription: "Un hub pratique pour choisir un tracker quand POTS, dysautonomie, EDS et préparation de rendez-vous se chevauchent."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Vue comparative pour le suivi des symptômes POTS, dysautonomie et EDS avec préparation de rendez-vous."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez POTS, dysautonomie, EDS et historique de symptômes pret pour les rendez-vous au meme endroit."
 categories:

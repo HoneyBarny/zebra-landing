@@ -21,7 +21,7 @@ ogTitle: "Zebra vs Visible"
 ogDescription: "Une comparaison pratique entre un outil axe sur le pacing et un suivi des symptômes pour préparer les rendez-vous."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison de Zebra et Visible pour le suivi des maladies chroniques, le pacing et la préparation des rendez-vous."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Choisissez Zebra si vous voulez l'historique des symptômes, le contexte orthostatique et un rapport pret pour le médecin dans un meme flux."
 categories:

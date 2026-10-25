@@ -21,7 +21,7 @@ ogTitle: "Tracker intolérance a la chaleur pour POTS et dysautonomie"
 ogDescription: "Suivez symptômes lies a la chaleur, hydratation, sel, fréquence cardiaque, vertige, transpiration, refroidissement, recuperation et notes medicales."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder chaleur, vertige, fréquence cardiaque, hydratation, sel, refroidissement, recuperation et questions pour le médecin dans une meme timeline."
 categories:

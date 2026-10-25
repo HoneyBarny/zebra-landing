@@ -20,7 +20,7 @@ ogTitle: "Meilleures apps de suivi des symptômes pour le POTS en 2026"
 ogDescription: "Une comparaison pratique des apps de suivi du POTS, des journaux de symptômes generiques aux outils de préparation de rendez-vous spécifiques."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison d'options d'apps de suivi des symptômes pour le POTS et la préparation de rendez-vous"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez un suivi spécifique aux conditions et une preuve prete pour rendez-vous au meme endroit."
 featured: false

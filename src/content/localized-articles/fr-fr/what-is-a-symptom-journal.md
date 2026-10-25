@@ -20,7 +20,7 @@ ogTitle: "Qu est-ce qu un journal de symptômes?"
 ogDescription: "Une explication simple de ce qu est un journal de symptômes et de son interet pour l historique de symptômes et la préparation des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Illustration conceptuelle expliquant ce qu est un journal de symptômes"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra lorsque vous voulez un journal de symptômes structure, plus facile a relire ensuite."
 featured: false

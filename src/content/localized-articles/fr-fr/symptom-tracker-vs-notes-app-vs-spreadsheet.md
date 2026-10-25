@@ -20,7 +20,7 @@ ogTitle: "Suivi des symptômes vs app de notes vs tableur"
 ogDescription: "Un guide pratique pour choisir le système de suivi qui aura encore du sens avant un rendez-vous médical."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison des apps de notes, tableurs et outils de suivi des symptômes pour maladie chronique"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Voyez comment Zebra garde tout dans une meme chronologie."
 featured: false

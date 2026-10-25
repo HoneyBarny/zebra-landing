@@ -20,7 +20,7 @@ ogTitle: "Comment suivre les symptômes de brain fog"
 ogDescription: "Un guide pratique pour suivre le brain fog d'une facon plus facile a revoir et a discuter avant les rendez-vous."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Modele de suivi du brain fog centre sur le moment, la sévérité et l'impact fonctionnel"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder le brain fog et les changements de fonctionnement dans le meme historique."
 featured: false

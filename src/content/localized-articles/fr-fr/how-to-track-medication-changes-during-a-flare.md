@@ -43,7 +43,7 @@ ogTitle: "Comment suivre les changements de médicaments pendant une poussee"
 ogDescription: "Un guide prudent pour garder les changements de médicaments relies a l'historique des symptômes et des poussees."
 heroImage: "/screenshots/evidence-capture.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant le contexte des médicaments et des symptômes."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les notes de médicaments, poussees, symptômes et questions de rendez-vous dans un meme dossier."
 schemaTypes:

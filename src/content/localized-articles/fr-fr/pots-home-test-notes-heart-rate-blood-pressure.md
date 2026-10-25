@@ -21,7 +21,7 @@ ogTitle: "Notes de test POTS a domicile: quoi noter"
 ogDescription: "Un guide pratique pour noter fréquence cardiaque orthostatique, tension, symptômes et contexte."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des symptômes et constantes par position."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder notes orthostatiques, symptômes, constantes, hydratation, médicaments et questions de rendez-vous dans une chronologie."
 categories:

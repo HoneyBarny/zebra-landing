@@ -21,7 +21,7 @@ ogTitle: "Suivi des poussees de POTS avec maladie et infection"
 ogDescription: "Suivez symptômes de POTS les jours de maladie, fievre, hydratation, sel, médicaments, fréquence cardiaque, vertiges, fatigue, recuperation et notes pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes de maladie, changements de poussee, hydratation, sel, médicaments, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

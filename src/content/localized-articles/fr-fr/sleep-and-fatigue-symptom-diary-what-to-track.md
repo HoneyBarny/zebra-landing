@@ -21,7 +21,7 @@ ogTitle: "Journal sommeil et fatigue: quoi suivre"
 ogDescription: "Suivez contexte de sommeil, fatigue, brain fog, douleur, médicaments, activité et impact du lendemain."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder contexte de sommeil, fatigue, brain fog, douleur, activité, médicaments et questions pour le médecin dans une meme timeline."
 categories:

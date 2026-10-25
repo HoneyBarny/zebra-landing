@@ -21,7 +21,7 @@ ogTitle: "Comment suivre les symptômes d'hypotension orthostatique a la maison"
 ogDescription: "Un guide pratique pour noter les changements de tension debout, les symptômes, le contexte et la recuperation."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des constantes et symptômes selon la position."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes orthostatiques, tension, pouls, médicaments, repas, hydratation et questions pour le médecin dans une meme timeline."
 categories:

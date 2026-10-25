@@ -21,7 +21,7 @@ ogTitle: "Comment suivre les symptômes quand POTS, EDS et MCAS se chevauchent"
 ogDescription: "Suivre vertiges, douleur, fatigue, flush, symptômes GI, declencheurs, médicaments et impact fonctionnel dans un historique lisible."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran Zebra d historique des tendances montrant des profils de symptômes sauvegardes dans le temps."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes qui se chevauchent, declencheurs, médicaments, contexte orthostatique et questions de rendez-vous dans une seule chronologie."
 categories:

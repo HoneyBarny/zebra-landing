@@ -20,7 +20,7 @@ ogTitle: "Comment préparer un rendez-vous specialise"
 ogDescription: "Une checklist claire pour préparer l historique de symptômes, les médicaments et les questions avant une visite specialisee."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Checklist de préparation pour un rendez-vous specialise avec une maladie chronique"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour organiser le mois avant votre rendez-vous."
 featured: false

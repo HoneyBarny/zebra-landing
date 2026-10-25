@@ -21,7 +21,7 @@ ogTitle: "Journal palpitations et coeur rapide"
 ogDescription: "Suivez episodes de coeur rapide, battements sautes, posture, fréquence cardiaque, vertige, declencheurs, médicaments et recuperation."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique des insights Zebra avec motifs de symptômes et notes sauvegardees."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder palpitations, fréquence cardiaque, position, declencheurs, hydratation, médicaments, recuperation et questions pour le médecin dans une meme timeline."
 categories:

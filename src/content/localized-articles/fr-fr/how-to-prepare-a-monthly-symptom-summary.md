@@ -43,7 +43,7 @@ ogTitle: "Comment préparer un resume mensuel des symptômes"
 ogDescription: "Un cadre simple pour transformer le suivi des symptômes en resume mensuel pret pour rendez-vous."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un resume de consultation."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour transformer le suivi quotidien en resume mensuel des symptômes plus clair."
 schemaTypes:

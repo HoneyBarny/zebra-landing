@@ -22,7 +22,7 @@ ogTitle: "Tracker de symptômes pour rendez-vous médicaux"
 ogDescription: "Un guide pratique pour choisir un tracker de symptômes utile avant les rendez-vous specialises et les visites de suivi."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un rapport pret pour le médecin construit a partir de l historique de symptômes."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes, contexte orthostatique, médicaments et questions dans un dossier pret pour le médecin."
 categories:

@@ -21,7 +21,7 @@ ogTitle: "Meilleur tracker de symptômes pour le chevauchement EDS et dysautonom
 ogDescription: "Un guide pratique pour choisir le meilleur tracker de symptômes pour symptômes qui se chevauchent, contexte orthostatique et préparation de rendez-vous."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran de revue des profils pour symptômes EDS et dysautonomie qui se chevauchent."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez garder symptômes qui se chevauchent, contexte orthostatique et fonctionnement quotidien au meme endroit."
 categories:

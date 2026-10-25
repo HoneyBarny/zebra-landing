@@ -21,7 +21,7 @@ ogTitle: "Meilleure app pour préparer un rendez-vous de cardiologie pour dysaut
 ogDescription: "Une comparaison pratique d apps pour préparer l historique des symptômes de dysautonomie avant les visites de cardiologie."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Resume de préparation pour un rendez-vous de cardiologie dysautonomie avec symptômes, notes orthostatiques et contexte medicamenteux."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez l historique des symptômes de dysautonomie et la préparation de cardiologie dans une seule app."
 categories:

@@ -20,7 +20,7 @@ ogTitle: "Pourquoi le suivi des symptômes echoue les mauvais jours"
 ogDescription: "Une explication réaliste de pourquoi le suivi casse quand les symptômes empirent et de ce qui fonctionne mieux."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Diagramme en boucle montrant pourquoi le suivi des symptômes s'effondre souvent les mauvais jours"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour réduire l'effort nécessaire les mauvais jours."
 featured: false

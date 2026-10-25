@@ -20,7 +20,7 @@ ogTitle: "Comment organiser votre historique de sante"
 ogDescription: "Une structure simple pour transformer des notes dispersees en resume utilisable pour un rendez-vous médical."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Structure en cinq parties pour organiser l historique de sante avant un rendez-vous médical"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour organiser votre historique en un seul endroit."
 featured: false

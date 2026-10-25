@@ -45,7 +45,7 @@ ogTitle: "POTS vs tachycardie orthostatique"
 ogDescription: "Une comparaison claire entre un profil de fréquence cardiaque lie a la posture et le tableau plus large de symptômes qui peut compter dans les soins."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Vue comparative montrant les changements de fréquence cardiaque lies a la posture, les symptômes et les profils de fonctionnement quotidien dans Zebra."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes, changements lies a la posture et fonctionnement quotidien dans un historique pret pour le médecin."
 schemaTypes:

@@ -21,7 +21,7 @@ ogTitle: "Suivi des symptômes les jours de voyage avec POTS"
 ogDescription: "Suivez vols, voiture, marche en terminal, files, hydratation, sel, compression, médicaments, vertiges, fatigue, recuperation et notes de voyage pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder declencheurs de voyage, hydratation, sel, médicaments, compression, symptômes, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

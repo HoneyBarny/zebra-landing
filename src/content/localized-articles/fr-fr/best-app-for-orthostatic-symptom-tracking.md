@@ -21,7 +21,7 @@ ogTitle: "Meilleure app pour le suivi des symptômes orthostatiques"
 ogDescription: "Une comparaison pratique d apps pour le suivi des symptômes en position debout, le contexte orthostatique et la préparation de rendez-vous."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison d options d apps pour le suivi des symptômes orthostatiques et l historique lie a la posture."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez symptômes en position debout, contexte orthostatique et préparation de rendez-vous dans une seule app."
 categories:

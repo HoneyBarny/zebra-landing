@@ -45,7 +45,7 @@ ogTitle: "Que suivre avant un rendez-vous spécialiste EDS"
 ogDescription: "Une checklist calme et pratique pour préparer un historique de symptômes EDS plus clair avant une visite spécialiste."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant une note de consultation et des symptômes modifies avant une visite spécialiste."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder votre historique de symptômes EDS, le contexte de chevauchement et les questions de rendez-vous dans un dossier pret pour le médecin."
 schemaTypes:

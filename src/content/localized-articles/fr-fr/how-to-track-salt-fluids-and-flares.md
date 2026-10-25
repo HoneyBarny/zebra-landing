@@ -20,7 +20,7 @@ ogTitle: "Comment suivre le sel, les liquides et les poussees"
 ogDescription: "Un guide pratique pour garder hydratation, poussees et contexte des symptômes ensemble dans un historique utilisable."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Suivi quotidien pour liquides, sel, sévérité de poussee et symptômes"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder le sel, les liquides, les poussees et les symptômes dans la meme chronologie."
 featured: false

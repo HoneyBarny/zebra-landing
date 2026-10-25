@@ -21,7 +21,7 @@ ogTitle: "Tracker de flare de fibromyalgie: quoi noter pendant une mauvaise jour
 ogDescription: "Un guide pratique pour suivre les flares de fibromyalgie sans vous surcharger pendant les jours les plus difficiles."
 heroImage: "/screenshots/today.png"
 heroImageAlt: "Écran quotidien Zebra pour symptômes, declencheurs, hydratation, médicaments et notes."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder notes de flare de fibromyalgie, symptômes, declencheurs, médicaments, contexte de sommeil et impact fonctionnel dans une chronologie."
 categories:

@@ -20,7 +20,7 @@ ogTitle: "Pourquoi POTS, EDS et fibromyalgie se chevauchent souvent"
 ogDescription: "Une explication pratique de pourquoi le chevauchement rend les symptômes plus difficiles a suivre et les conversations de soin plus difficiles a préparer."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Illustration montrant le chevauchement entre les experiences de symptômes POTS, EDS et fibromyalgie"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra quand le chevauchement rend le suivi d'une seule condition trop limite."
 featured: false

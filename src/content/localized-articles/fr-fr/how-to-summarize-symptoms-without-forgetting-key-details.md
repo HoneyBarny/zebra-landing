@@ -20,7 +20,7 @@ ogTitle: "Comment resumer les symptômes sans oublier les details importants"
 ogDescription: "Une methode pratique pour écrire un court resume de symptômes qui aide encore sous pression."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Modele en quatre parties pour resumer les symptômes avant une visite médicale"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour transformer le suivi quotidien en resume plus clair."
 featured: false

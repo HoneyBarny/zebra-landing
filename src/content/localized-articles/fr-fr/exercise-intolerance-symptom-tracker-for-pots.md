@@ -21,7 +21,7 @@ ogTitle: "Suivi de l'intolérance a l'effort pour POTS"
 ogDescription: "Suivez effort, position, fréquence cardiaque, vertiges, fatigue, aggravation differee, recuperation et notes pretes pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder effort, symptômes, hydratation, sel, fréquence cardiaque, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

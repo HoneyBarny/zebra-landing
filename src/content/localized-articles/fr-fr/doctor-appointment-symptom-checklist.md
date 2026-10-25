@@ -21,7 +21,7 @@ ogTitle: "Checklist des symptômes pour un rendez-vous médical"
 ogDescription: "Une checklist pratique pour apporter un historique des symptômes plus clair a votre prochain rendez-vous médical."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra avec historique des symptômes et notes pretes pour le médecin."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes, poussees, médicaments, mesures et questions de rendez-vous dans un historique pret pour le médecin."
 categories:

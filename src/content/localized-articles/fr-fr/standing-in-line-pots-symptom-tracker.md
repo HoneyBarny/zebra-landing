@@ -21,7 +21,7 @@ ogTitle: "Suivi des symptômes de POTS dans une file d'attente"
 ogDescription: "Suivez symptômes de station debout prolongee, attente, courses, chaleur, hydratation, sel, compression, vertiges, palpitations, accumulation de sang, recuperation et notes pour le médecin."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra montrant symptômes, hydratation, notes et contexte du jour."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder episodes debout, chaleur, hydratation, sel, compression, symptômes, recuperation et questions de rendez-vous dans une meme chronologie."
 categories:

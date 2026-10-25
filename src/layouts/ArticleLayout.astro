@@ -13,7 +13,7 @@ import {
   categoryUrlFromName,
   dateLabel,
   estimateReadingTime,
-  topicUrlFromName,
+  localizedTopicUrlFromName,
 } from '../lib/content';
 import type { ArticleEntry } from '../lib/content';
 
@@ -172,7 +172,7 @@ const seoTitle = article.data.seoTitle.length > 60
             <p class="mini-label">{labels.knowledgeHub}</p>
             <div class="article-chip-row">
               {article.data.entities.map((entity) => (
-                <a class="article-chip" href={topicUrlFromName(entity)}>
+                <a class="article-chip" href={localizedTopicUrlFromName(entity, localePath)}>
                   {entity}
                 </a>
               ))}

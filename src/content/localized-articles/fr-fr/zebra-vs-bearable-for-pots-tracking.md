@@ -21,7 +21,7 @@ ogTitle: "Zebra vs Bearable pour le suivi du POTS"
 ogDescription: "Une comparaison pratique entre un outil generique de suivi des symptômes et un flux de préparation de rendez-vous oriente POTS."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison de Zebra et Bearable pour le suivi des symptômes POTS et la préparation des rendez-vous."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Choisissez Zebra si vous voulez l'historique des symptômes POTS, le contexte orthostatique et la préparation prete pour le médecin dans un meme flux."
 categories:

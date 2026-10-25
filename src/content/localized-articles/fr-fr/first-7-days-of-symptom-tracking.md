@@ -21,7 +21,7 @@ ogTitle: "Les 7 premiers jours de suivi des symptômes"
 ogDescription: "Un plan de 7 jours leger pour les patients chroniques qui se sentent submerges."
 heroImage: "/screenshots/today.png"
 heroImageAlt: "Écran quotidien Zebra pour symptômes, declencheurs, hydratation, médicaments et notes."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes, declencheurs, médicaments, notes et questions de rendez-vous dans une chronologie calme."
 categories:

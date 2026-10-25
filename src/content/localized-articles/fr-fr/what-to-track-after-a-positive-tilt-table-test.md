@@ -21,7 +21,7 @@ ogTitle: "Que suivre après un test de table basculante positif"
 ogDescription: "Un guide pratique de suivi pour les jours et semaines après un test de table basculante positif."
 heroImage: "/screenshots/orthostatic-test.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des symptômes et constantes selon la position."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes orthostatiques, constantes, médicaments, hydratation, sel, notes et questions de rendez-vous dans une chronologie."
 categories:

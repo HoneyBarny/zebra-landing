@@ -20,7 +20,7 @@ ogTitle: "Qu est-ce qu un rapport de symptômes pret pour le médecin?"
 ogDescription: "Une definition simple de ce qui rend un rapport de symptômes utile avant un rendez-vous specialise."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Exemple de structure d un rapport de symptômes pret pour le médecin"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour transformer votre historique suivi en resume plus clair pour un rendez-vous."
 featured: false

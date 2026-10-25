@@ -21,7 +21,7 @@ ogTitle: "Meilleur tracker de symptômes pour l intolérance orthostatique"
 ogDescription: "Un guide pratique pour choisir le meilleur tracker pour les symptômes en position debout, le contexte orthostatique et l historique relisible."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison d options de trackers de symptômes pour l intolérance orthostatique et l historique de symptômes en position debout."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez symptômes en position debout, contexte orthostatique et préparation de rendez-vous dans un seul dossier."
 categories:

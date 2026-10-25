@@ -21,7 +21,7 @@ ogTitle: "Journal migraine et maux de tête"
 ogDescription: "Suivez motifs de maux de tête, symptômes, médicaments, declencheurs possibles, sommeil, hydratation, cycle et impact fonctionnel."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique des insights Zebra avec motifs de symptômes et notes sauvegardees."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder jours de maux de tête, symptômes de migraine, médicaments, declencheurs, sommeil, hydratation, cycle et questions pour le médecin dans une meme timeline."
 categories:

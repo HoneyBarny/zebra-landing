@@ -20,7 +20,7 @@ ogTitle: "Qu est-ce que l intolérance orthostatique?"
 ogDescription: "Une explication claire des profils de symptômes en position debout et de leur importance pour le suivi et la préparation des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Schema montrant des symptômes qui s aggravent debout et s ameliorent allongé"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes en position debout et l historique associe dans un seul dossier."
 featured: false

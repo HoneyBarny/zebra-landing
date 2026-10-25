@@ -20,7 +20,7 @@ ogTitle: "Comment suivre les symptômes de POTS"
 ogDescription: "Un guide pratique pour suivre symptômes, poussees et changements orthostatiques sans rendre le processus accablant."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Guide de suivi des symptômes de POTS et des changements orthostatiques dans une seule chronologie"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes et les changements en position verticale dans la meme chronologie."
 featured: false

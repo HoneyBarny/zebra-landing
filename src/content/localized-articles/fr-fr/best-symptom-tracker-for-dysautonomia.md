@@ -21,7 +21,7 @@ ogTitle: "Meilleur tracker de symptômes pour la dysautonomie"
 ogDescription: "Un guide pratique pour choisir le meilleur tracker de symptômes pour la dysautonomie, les symptômes orthostatiques et la préparation de rendez-vous."
 heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison d options de trackers de symptômes de dysautonomie pour les symptômes orthostatiques et la préparation de rendez-vous."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Telechargez Zebra si vous voulez historique des symptômes de dysautonomie, contexte orthostatique et préparation de rendez-vous au meme endroit."
 categories:

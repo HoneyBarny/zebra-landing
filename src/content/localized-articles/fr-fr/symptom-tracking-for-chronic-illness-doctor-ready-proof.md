@@ -20,7 +20,7 @@ ogTitle: "Suivi des symptômes pour maladie chronique"
 ogDescription: "Un cadre calme et pratique pour transformer le suivi des symptômes en quelque chose d'utile avant les rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Diagramme montrant un cadre en quatre etapes pour transformer le suivi des symptômes en resume pret pour le médecin"
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Commencez a créer une preuve prete pour le médecin dans Zebra."
 featured: false

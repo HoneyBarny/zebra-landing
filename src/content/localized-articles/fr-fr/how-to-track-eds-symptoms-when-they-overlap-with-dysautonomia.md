@@ -45,7 +45,7 @@ ogTitle: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dys
 ogDescription: "Un flux avec peu de friction pour suivre les symptômes qui se chevauchent sans diviser votre historique en notes deconnectees."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique Zebra montrant une revue de profils pour symptômes de maladie chronique qui se chevauchent."
-ctaLabel: "Telecharger Zebra"
+ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes qui se chevauchent, contexte orthostatique et fonctionnement quotidien dans un historique connecte."
 schemaTypes:
