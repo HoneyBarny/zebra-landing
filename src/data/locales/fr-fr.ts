@@ -504,14 +504,12 @@ export const homePageFrFr = {
       { title: 'Données saisies par la personne', body: 'Ce que Zebra résume vient de l\'historique que vous suivez et relisez vous-même.' },
     ],
     links: [
-      { label: 'Découvrir Zebra Éditorial', href: localizedPath(localePath, '/authors/zebra-editorial/') },
       { label: 'Parcourir le hub de connaissances', href: localizedPath(localePath, siteConfig.routes.knowledge) },
       { label: 'Lire la politique de confidentialité', href: localizedPath(localePath, siteConfig.routes.privacy) },
       { label: 'Visiter le support', href: localizedPath(localePath, siteConfig.routes.support) },
     ],
     resources: [
       { eyebrow: 'Retour', title: 'Envoyer un retour ou demander une fonction', body: 'Dites-nous ce qui rendrait Zebra plus simple avant les rendez-vous, surtout les jours de poussée.', href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback` },
-      { eyebrow: 'Standards éditoriaux', title: 'Voir comment le contenu Zebra est relu', body: 'Découvrez l\'équipe éditoriale, le processus de revue, la politique de mise à jour et les garde-fous du langage médical.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
       { eyebrow: 'Hub de connaissances', title: 'Parcourir les notions liées aux symptômes et conditions', body: 'Voyez comment POTS, dysautonomie, brouillard mental, fatigue, rapports médicaux et préparation de rendez-vous se connectent.', href: localizedPath(localePath, siteConfig.routes.knowledge) },
       { eyebrow: 'Guides', title: 'Lire d\'abord les guides pratiques les plus utiles', body: 'Comparez Zebra avec Notes, apprenez quoi suivre et comprenez le rapport avant de télécharger.', href: localizedPath(localePath, siteConfig.routes.blog) },
     ],

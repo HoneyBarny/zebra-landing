@@ -798,7 +798,6 @@ export const homePage = {
       },
     ],
     links: [
-      { label: 'Meet Zebra Editorial', href: '/authors/zebra-editorial/' },
       { label: 'Browse the knowledge hub', href: siteConfig.routes.knowledge },
       { label: 'Read the privacy policy', href: siteConfig.routes.privacy },
       { label: 'Visit support', href: siteConfig.routes.support },
@@ -809,12 +808,6 @@ export const homePage = {
         title: 'Send feedback or request a feature',
         body: 'Tell us what would make Zebra easier to use before appointments, especially on flare days.',
         href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback`,
-      },
-      {
-        eyebrow: 'Editorial standards',
-        title: 'See how Zebra content is reviewed',
-        body: 'Meet the editorial team, update policy, and medical-language guardrails behind the knowledge hub.',
-        href: '/authors/zebra-editorial/',
       },
       {
         eyebrow: 'Knowledge hub',

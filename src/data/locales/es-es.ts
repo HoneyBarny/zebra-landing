@@ -509,14 +509,12 @@ export const homePageEsEs = {
       { title: 'Datos introducidos por la persona', body: 'Lo que Zebra resume procede del historial que tu registras y revisas.' },
     ],
     links: [
-      { label: 'Conoce Zebra Editorial', href: localizedPath(localePath, '/authors/zebra-editorial/') },
       { label: 'Explora el hub de conocimiento', href: localizedPath(localePath, siteConfig.routes.knowledge) },
       { label: 'Lee la política de privacidad', href: localizedPath(localePath, siteConfig.routes.privacy) },
       { label: 'Visita soporte', href: localizedPath(localePath, siteConfig.routes.support) },
     ],
     resources: [
       { eyebrow: 'Feedback', title: 'Enviar feedback o pedir una función', body: 'Cuéntanos que haría Zebra más fácil antes de una cita, especialmente en días de brote.', href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback` },
-      { eyebrow: 'Estándares editoriales', title: 'Ver cómo se revisa el contenido de Zebra', body: 'Conoce el proceso editorial, la política de actualización y los límites del lenguaje médico.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
       { eyebrow: 'Hub de conocimiento', title: 'Explora conceptos conectados de síntomas y condiciones', body: 'Ve cómo POTS, disautonomía, niebla mental, fatiga, informes y preparación de citas se conectan en el sitio.', href: localizedPath(localePath, siteConfig.routes.knowledge) },
       { eyebrow: 'Guías', title: 'Lee primero las guías prácticas más útiles', body: 'Compara Zebra con Notas, aprende que registrar y entiende cómo funciona el informe antes de descargar.', href: localizedPath(localePath, siteConfig.routes.blog) },
     ],
