@@ -1,7 +1,7 @@
 import { homePageDeDe } from './de-de';
 import { homePageEsEs } from './es-es';
 import { homePageFrFr } from './fr-fr';
-import { localizedPath } from './shared';
+import { localeRoutes, localizedPath } from './shared';
 
 export type ArticleLocale = 'de-de' | 'es-es' | 'fr-fr';
 
@@ -76,4 +76,28 @@ export function getArticleLocaleCopy(locale: string) {
 
 export function localizedArticleUrl(locale: ArticleLocale, slug: string) {
   return `${homeByLocale[locale].locale.path}blog/${slug}/`;
+}
+
+// Category names are stored in English in the French articles' frontmatter.
+export const frenchCategoryNames: Record<string, string> = {
+  'Symptom Tracking': 'Suivi des symptômes',
+  'Symptom Tracking and Proof': 'Suivi des symptômes et preuves',
+  Comparison: 'Comparaison',
+  Comparisons: 'Comparaisons',
+  'Appointment Preparation': 'Préparation de rendez-vous',
+  'Appointment Préparation': 'Préparation de rendez-vous',
+  'Doctor Reports': 'Rapports pour le médecin',
+  'POTS and Dysautonomia Tracking': 'Suivi POTS et dysautonomie',
+  'Reference / Glossary': 'Référence et glossaire',
+  Dysautonomia: 'Dysautonomie',
+  'Brain Fog': 'Brouillard mental',
+  'Brain Fog and Difficult Days': 'Brouillard mental et jours difficiles',
+  'Condition Overlap': 'Chevauchement des maladies',
+  Fatigue: 'Fatigue',
+  POTS: 'POTS',
+  Fibromyalgia: 'Fibromyalgie',
+};
+
+export function localizedCategoryName(name: string, localePath = '/') {
+  return localePath === localeRoutes.frFr ? (frenchCategoryNames[name] ?? name) : name;
 }

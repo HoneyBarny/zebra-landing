@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { localizedCategoryName } from '../../../data/locales/article-translations';
 
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteHeader from '../../../components/landing/SiteHeader.astro';
@@ -124,7 +125,7 @@ const schema = [
         <p class="blog-hero-copy">{entity.definition}</p>
         <div class="article-chip-row">
           {parentClusters.map((cluster) => (
-            <a class="article-chip" href={clusterUrl(cluster.slug).startsWith('/knowledge/') ? localizedEntityUrl(locale, cluster.slug) : clusterUrl(cluster.slug)}>
+            <a class="article-chip" href={clusterUrl(cluster.slug).startsWith('/knowledge/') ? localizedEntityUrl(locale, cluster.slug) : `/${locale}/blog/`}>
               {localizedClusterName(cluster.slug)}
             </a>
           ))}
@@ -253,8 +254,8 @@ const schema = [
               title={article.data.title}
               href={localizedArticleUrl(locale, article.data.originalSlug)}
               excerpt={article.data.excerpt}
-              category={article.data.category}
-              categories={article.data.categories}
+              category={localizedCategoryName(article.data.category, hubCopy.home.locale.path)}
+              categories={article.data.categories.map((name) => localizedCategoryName(name, hubCopy.home.locale.path))}
               publishedAt={dateLabel(article.data.publishedAt)}
               readingTime={estimateReadingTime(article.body)}
               minReadLabel={hubCopy.blog.minRead}

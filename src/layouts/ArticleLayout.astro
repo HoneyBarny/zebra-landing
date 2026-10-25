@@ -16,6 +16,8 @@ import {
   localizedTopicUrlFromName,
 } from '../lib/content';
 import type { ArticleEntry } from '../lib/content';
+import { localizedCategoryName } from '../data/locales/article-translations';
+
 
 interface Props {
   article: ArticleEntry;
@@ -119,7 +121,7 @@ const seoTitle = article.data.seoTitle.length > 60
           items={[
             { label: labels.home, href: localePath },
             { label: labels.blog, href: `${localePath === '/' ? '/' : localePath}blog/` },
-            { label: article.data.category, href: categoryUrlFromName(article.data.categories[0] ?? article.data.category) },
+            { label: localizedCategoryName(article.data.category, localePath), href: localePath === '/' ? categoryUrlFromName(article.data.categories[0] ?? article.data.category) : `${localePath}blog/` },
             { label: article.data.title },
           ]}
         />
@@ -137,8 +139,8 @@ const seoTitle = article.data.seoTitle.length > 60
             </div>
             <div class="article-chip-row">
               {article.data.categories.map((category) => (
-                <a class="article-chip" href={categoryUrlFromName(category)}>
-                  {category}
+                <a class="article-chip" href={localePath === '/' ? categoryUrlFromName(category) : `${localePath}blog/`}>
+                  {localizedCategoryName(category, localePath)}
                 </a>
               ))}
             </div>

@@ -129,10 +129,10 @@ export function categoryUrlFromName(name: string) {
 
 // Topic chips on localized articles point at that locale's knowledge page.
 export function localizedTopicUrlFromName(name: string, localePath = '/') {
-  const entity = entityMeta[name];
-  if (entity && localePath !== '/') return `${localePath}knowledge/${entity.slug}/`;
+  if (localePath === '/') return topicUrlFromName(name);
 
-  return topicUrlFromName(name);
+  const entity = entityMeta[name];
+  return entity ? `${localePath}knowledge/${entity.slug}/` : `${localePath}blog/`;
 }
 
 export function entitySlugFromName(name: string) {

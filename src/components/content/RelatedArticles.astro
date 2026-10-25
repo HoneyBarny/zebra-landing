@@ -2,6 +2,7 @@
 import ArticleCard from './ArticleCard.astro';
 import { articleUrl, dateLabel, estimateReadingTime } from '../../lib/content';
 import type { ArticleEntry } from '../../lib/content';
+import { localizedCategoryName } from '../../data/locales/article-translations';
 
 interface Props {
   articles: ArticleEntry[];
@@ -29,8 +30,8 @@ const articleSlug = (article: ArticleEntry) => (article.data as { originalSlug?:
           title={article.data.title}
           href={urlFor(articleSlug(article))}
           excerpt={article.data.excerpt}
-          category={article.data.category}
-          categories={article.data.categories}
+          category={localizedCategoryName(article.data.category, localePath)}
+          categories={article.data.categories.map((name) => localizedCategoryName(name, localePath))}
           publishedAt={dateLabel(article.data.publishedAt)}
           readingTime={estimateReadingTime(article.body)}
           minReadLabel={minReadLabel}

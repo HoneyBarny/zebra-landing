@@ -1,18 +1,17 @@
 ---
 import { getCollection } from 'astro:content';
+import { localizedCategoryName } from '../../../data/locales/article-translations';
 
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteHeader from '../../../components/landing/SiteHeader.astro';
 import SiteFooter from '../../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../../components/content/ArticleCard.astro';
-import { categoryMeta } from '../../../data/content-taxonomy';
 import { getLocalizedHubCopy, localizedHubCopy } from '../../../data/locales/phase2';
 import { alternatesForPath } from '../../../data/locales/shared';
 import { localizedArticleUrl, type ArticleLocale } from '../../../data/locales/article-translations';
 import {
   articleUrl,
-  categoryUrl,
   dateLabel,
   estimateReadingTime,
   getFeaturedArticle,
@@ -40,9 +39,6 @@ const hasTranslations = publishedTranslatedArticles.length > 0;
 const articles = sortArticles((hasTranslations ? publishedTranslatedArticles : getPublishedArticles(englishArticles)) as never);
 const featured = getFeaturedArticle(articles);
 const rest = articles.filter((article) => article.id !== featured.id);
-const availableCategories = Object.values(categoryMeta).filter((category) =>
-  articles.some((article) => article.data.categories.includes(category.name)),
-);
 const dateLocale = copy.home.locale.htmlLang;
 
 const schema = [
@@ -73,11 +69,6 @@ const schema = [
         <h1>{copy.blog.heading}</h1>
         <p class="blog-hero-copy">{copy.blog.intro}</p>
         <div class="filter-row" aria-label={copy.blog.filtersLabel}>
-          {availableCategories.map((category) => (
-            <a class="filter-chip" href={categoryUrl(category.slug)}>
-              {category.name}
-            </a>
-          ))}
           <a class="filter-chip" href={`${copy.home.locale.path}knowledge/`}>{copy.blog.knowledgeLabel}</a>
         </div>
       </section>
@@ -118,8 +109,8 @@ const schema = [
               title={article.data.title}
               href={hasTranslations ? localizedArticleUrl(locale, article.data.originalSlug) : articleUrl(article.id)}
               excerpt={article.data.excerpt}
-              category={article.data.category}
-              categories={article.data.categories}
+              category={localizedCategoryName(article.data.category, copy.home.locale.path)}
+              categories={article.data.categories.map((name) => localizedCategoryName(name, copy.home.locale.path))}
               publishedAt={dateLabel(article.data.publishedAt, dateLocale)}
               readingTime={estimateReadingTime(article.body)}
               minReadLabel={copy.blog.minRead}

@@ -80,7 +80,7 @@ export function localizedFooterLinks(localePath: string, labels: {
   return [
     { href: localizedPath(localePath, siteConfig.routes.blog), label: labels.blog },
     { href: localizedPath(localePath, siteConfig.routes.knowledge), label: labels.knowledge },
-    { href: localizedPath(localePath, '/blog/category/symptom-tracking/'), label: labels.symptomTracking },
+    { href: (localePath === localeRoutes.en ? '/blog/category/symptom-tracking/' : localizedPath(localePath, siteConfig.routes.blog)), label: labels.symptomTracking },
     { href: localizedPath(localePath, '/knowledge/pots/'), label: 'POTS' },
     { href: localizedPath(localePath, '/knowledge/dysautonomia/'), label: 'Dysautonomia' },
     { href: localizedPath(localePath, '/knowledge/eds/'), label: 'EDS / hEDS' },
