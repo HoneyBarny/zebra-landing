@@ -102,6 +102,10 @@ An schlechten Tagen kann Erfolg bedeuten:
 
 Das zählt trotzdem.
 
+## Was tun an einem schlechten Tag?
+
+Ein schlechter Tag braucht die kleinste mögliche Notiz. Drei Dinge reichen: wie stark es heute ist (1 bis 10), was das Hauptsymptom war und was anders war als sonst. Alles Weitere ist optional. Fehlende Tage sind kein Versagen. Der Verlauf bleibt nützlich, sobald wieder Einträge da sind.
+
 ## Wo Zebra passt
 
 Zebras Wertversprechen ist darauf aufgebaut, den Aufwand an schweren Tagen zu senken, statt mehr zu verlangen. Der Verlauf hilft nur, wenn Sie ihn auch dann nutzen können, wenn Symptome am schlimmsten sind.

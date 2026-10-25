@@ -78,6 +78,10 @@ The goal after the test is not to diagnose yourself. The goal is to bring cleane
 
 If you want one place to keep those follow-up notes, Zebra's [orthostatic vitals tracker](/orthostatic-vitals-test/) keeps patient-entered position-based observations beside symptoms, medications, hydration, salt context, and appointment notes.
 
+## What is the next step after a positive tilt table test?
+
+The next step is a follow-up visit with the clinician who ordered the test. They decide what the result means and what to do next. Before that visit, write down three things: the exact wording of the report, the symptoms you noticed when you stood up, and the medicines, salt and fluids you were taking. Zebra can keep these notes in one timeline so you can bring them with you.
+
 ## Start with what the report actually said
 
 Before you track anything new, write down the exact language from the test report or after-visit summary.

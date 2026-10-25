@@ -132,6 +132,8 @@ Die Heart Rhythm Society beschreibt, dass POTS-Symptome beim Stehen auftreten un
 
 ## Schellong-Test, Stehtest und Haltung plus Zeit
 
+Notieren Sie die Tageszeit. In einer Studie an Kindern und Jugendlichen mit POTS war die Herzfrequenzreaktion im Tagesverlauf unterschiedlich: 51,2 % waren nur im Morgentest auffällig ([Studie, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157922/)). Ein einzelner Wert zu einer Uhrzeit ist deshalb kein vollständiges Bild.
+
 Verbinden Sie jeden Wert mit Haltung und Zeitpunkt.
 
 Nützliche Labels:

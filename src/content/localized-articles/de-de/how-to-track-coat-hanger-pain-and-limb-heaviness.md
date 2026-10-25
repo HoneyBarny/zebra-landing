@@ -78,6 +78,10 @@ Schwere Gliedmassen sind genauso schwer zu erklären. Es ist nicht immer klarer 
 
 Tracking hilft, weil solche Symptome im kurzen Termin schnell vage klingen. Eine klare Timeline kann zeigen, ob Schmerz oder Schwere mit Haltung, Hitze, Mahlzeiten, Belastung, Flüssigkeit, Medikamentenänderungen oder Flare-Tagen zusammenhängen.
 
+## Was ist Coat-Hanger-Schmerz?
+
+Coat-Hanger-Schmerz beschreibt meist Ziehen oder Schmerzen in Nacken, Schultern und oberem Rücken. Für den Arzttermin zählt, wo genau der Schmerz sitzt, wann er auftritt und was ihn bessert oder verschlechtert. Zebra hilft, diese Angaben kurz festzuhalten.
+
 ## Den genauen Ort erfassen
 
 Schreiben Sie nicht nur "Schmerz", wenn Sie genauer sein können.

@@ -81,6 +81,10 @@ Wenn Blood Pooling Teil Ihres POTS-Verlaufs ist, kann das [POTS-Tagebuch in Zebr
 
 Ein Blood-Pooling-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein klareres Steh-Muster zum Arzt mitzunehmen.
 
+## Was ist Blood Pooling, und was tun Sie jetzt?
+
+Blood Pooling bedeutet, dass sich Blut beim Stehen in den Beinen sammelt. Ob und wie es bei Ihnen zutrifft, klärt Ihr Arzt. Bis dahin hilft eine kurze Notiz: wo die Verfärbung ist, wie lange Sie gestanden haben und welche Symptome gleichzeitig auftraten. Zebra kann diese Notizen in einer Zeitleiste halten.
+
 ## Mit Position und Stehzeit beginnen
 
 Blood-Pooling-Notizen sind am nützlichsten, wenn sie Schwerkraft und Zeit zeigen.

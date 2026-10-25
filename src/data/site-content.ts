@@ -1223,7 +1223,7 @@ export const homePageEnglish = {
     titleLead: 'Symptom tracker for POTS, EDS & Fibromyalgia',
     title: 'Remember what changed. Explain it when it counts.',
     body:
-      'A calm iPhone app for chronic illness. Check in with one tap, even on a bad day, see what changed over the month, and bring a clear summary to your next appointment.',
+      'Zebra is an iPhone symptom tracker for POTS, EDS and Fibromyalgia. Check in with one tap, even on a bad day, see what changed over the month, and bring a clear summary to your next appointment. No account needed.',
     trustLine: 'Private by design: your health data stays on your iPhone and in your own iCloud.',
     ctaSupport: ['Free to track', 'No account needed', 'Not medical advice'],
     bullets: [
