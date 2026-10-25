@@ -82,7 +82,7 @@ export function localizedFooterLinks(localePath: string, labels: {
     { href: localizedPath(localePath, siteConfig.routes.knowledge), label: labels.knowledge },
     { href: (localePath === localeRoutes.en ? '/blog/category/symptom-tracking/' : localizedPath(localePath, siteConfig.routes.blog)), label: labels.symptomTracking },
     { href: localizedPath(localePath, '/knowledge/pots/'), label: 'POTS' },
-    { href: localizedPath(localePath, '/knowledge/dysautonomia/'), label: 'Dysautonomia' },
+    { href: localizedPath(localePath, '/knowledge/dysautonomia/'), label: localePath === localeRoutes.frFr ? 'Dysautonomie' : 'Dysautonomia' },
     { href: localizedPath(localePath, '/knowledge/eds/'), label: 'EDS / hEDS' },
     { href: localizedPath(localePath, '/knowledge/fatigue/'), label: labels.fatigue },
     { href: localizedPath(localePath, '/knowledge/dizziness/'), label: labels.dizziness },
