@@ -11,8 +11,6 @@ publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
 nextReview: "2027-02-08"
 lastReviewed: "2026-08-08"
-reviewedAt: "2026-08-08"
-reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"

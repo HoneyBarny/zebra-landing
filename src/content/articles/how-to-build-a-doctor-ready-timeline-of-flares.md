@@ -10,7 +10,6 @@ description: "Learn how to build a doctor-ready timeline of flares, including wh
 excerpt: "Learn how to build a doctor-ready timeline of flares, including what to track for each one, how far back to go, and how to keep it from becoming a second job."
 author: "zebra-editorial"
 scheduledAt: "2026-09-11"
-reviewedAt: "2026-09-11"
 cluster: "Doctor Reports"
 category: "Doctor Reports"
 primaryKeyword: "doctor ready timeline of flares"

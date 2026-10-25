@@ -10,7 +10,6 @@ description: "Learn how to set a symptom baseline before a specialist visit, inc
 excerpt: "Learn how to set a symptom baseline before a specialist visit, including what to track, how long to track it, and how to notice when your baseline has shifted."
 author: "zebra-editorial"
 scheduledAt: "2026-09-08"
-reviewedAt: "2026-09-08"
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "symptom baseline before specialist visit"

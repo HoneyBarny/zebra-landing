@@ -8,8 +8,6 @@ excerpt: "A practical checklist for tracking the symptoms, changes, and question
 author: "zebra-editorial"
 scheduledAt: "2026-07-07"
 updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-reviewedBy: "Zebra Editorial Team"
 lastReviewed: "2026-07-12"
 nextReview: "2026-12-31"
 featured: false

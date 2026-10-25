@@ -9,8 +9,6 @@ publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
 nextReview: "2027-02-09"
 lastReviewed: "2026-08-09"
-reviewedAt: "2026-08-09"
-reviewedBy: "Zebra Editorial Team"
 featured: false
 cluster: "Dysautonomia"
 category: "Dysautonomia"

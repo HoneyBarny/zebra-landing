@@ -10,8 +10,6 @@ excerpt: "Eine praktische Checkliste für Symptome, Veränderungen und Fragen, d
 author: "zebra-editorial"
 scheduledAt: "2026-07-07"
 updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-reviewedBy: "Zebra Editorial Team"
 lastReviewed: "2026-07-12"
 nextReview: "2026-12-31"
 featured: false

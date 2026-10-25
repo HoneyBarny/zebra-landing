@@ -813,7 +813,7 @@ export const homePage = {
       {
         eyebrow: 'Editorial standards',
         title: 'See how Zebra content is reviewed',
-        body: 'Meet the editorial team, review process, update policy, and medical-language guardrails behind the knowledge hub.',
+        body: 'Meet the editorial team, update policy, and medical-language guardrails behind the knowledge hub.',
         href: '/authors/zebra-editorial/',
       },
       {

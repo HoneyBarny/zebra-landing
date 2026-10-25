@@ -8,8 +8,6 @@ excerpt: "A practical workflow for keeping EDS and dysautonomia overlap symptoms
 author: "zebra-editorial"
 scheduledAt: "2026-07-10"
 updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-reviewedBy: "Zebra Editorial Team"
 lastReviewed: "2026-07-12"
 nextReview: "2026-12-31"
 featured: false

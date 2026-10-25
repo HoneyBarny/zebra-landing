@@ -11,8 +11,6 @@ publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
 lastReviewed: "2026-07-24"
-reviewedAt: "2026-07-24"
-reviewedBy: "Zebra Editorial Team"
 featured: true
 noindex: true
 cluster: "Appointment Preparation"

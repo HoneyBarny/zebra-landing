@@ -545,7 +545,7 @@ export const homePageDeDe = {
     ],
     resources: [
       { eyebrow: 'Feedback', title: 'Feedback senden oder Funktion wünschen', body: 'Sagen Sie uns, was Zebra vor Terminen oder an Schubtagen leichter machen würde.', href: `mailto:${siteConfig.support.email}?subject=Zebra%20feedback` },
-      { eyebrow: 'Redaktionelle Standards', title: 'Sehen, wie Zebra-Inhalte geprüft werden', body: 'Lernen Sie Redaktion, Prüfprozess, Aktualisierungsrichtlinie und medizinische Sprachgrenzen kennen.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
+      { eyebrow: 'Redaktionelle Standards', title: 'Sehen, wie Zebra-Inhalte entstehen', body: 'Lernen Sie Redaktion, Aktualisierungsrichtlinie und medizinische Sprachgrenzen kennen.', href: localizedPath(localePath, '/authors/zebra-editorial/') },
       { eyebrow: 'Wissensbereich', title: 'Verbundene Begriffe zu Symptomen und Erkrankungen durchsuchen', body: 'Sehen Sie, wie POTS, Dysautonomie, Brain Fog, Fatigue, Arztberichte und Terminvorbereitung zusammenhängen.', href: localizedPath(localePath, siteConfig.routes.knowledge) },
       { eyebrow: 'Ratgeber', title: 'Die wichtigsten praktischen Guides zuerst lesen', body: 'Vergleichen Sie Zebra mit Notizen, lernen Sie, was Sie erfassen sollten, und verstehen Sie den Bericht vor dem Download.', href: localizedPath(localePath, siteConfig.routes.blog) },
     ],

@@ -78,7 +78,7 @@ const {
     whyThisPageExists: 'Why this page exists',
     editorialReview: 'Editorial review',
     reviewedBy: 'Reviewed by',
-    lastReviewed: 'Last reviewed',
+    lastReviewed: 'Last updated',
     directRoute: 'Direct route',
     relatedReading: 'Related reading',
     keepExploring: 'Keep exploring',
@@ -198,9 +198,9 @@ const seoTitle = article.data.seoTitle.length > 60
           </div>
 
           <div class="toc-card">
-            <p class="mini-label">{labels.editorialReview}</p>
+            <p class="mini-label">{labels.lastReviewed}</p>
             <p class="toc-copy">
-              {labels.reviewedBy} {article.data.reviewedBy}. {labels.lastReviewed} {dateLabel(article.data.lastReviewed ?? article.data.updatedAt ?? article.data.publishedAt, dateLocale)}.
+              {dateLabel(article.data.lastReviewed ?? article.data.updatedAt ?? article.data.publishedAt, dateLocale)}
             </p>
           </div>
 

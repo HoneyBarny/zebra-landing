@@ -10,8 +10,6 @@ excerpt: "Un flux pratique pour garder les symptômes de chevauchement EDS et dy
 author: "zebra-editorial"
 scheduledAt: "2026-07-10"
 updatedAt: "2026-07-12"
-reviewedAt: "2026-07-12"
-reviewedBy: "Zebra Editorial Team"
 lastReviewed: "2026-07-12"
 nextReview: "2026-12-31"
 featured: false

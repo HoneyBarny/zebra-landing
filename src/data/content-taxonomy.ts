@@ -15,7 +15,7 @@ export const authorProfiles = {
     medicalDisclaimer:
       'Zebra content supports self-organization and care conversations. It does not diagnose, treat, or replace medical advice.',
     reviewProcess:
-      'Drafts move through Content Factory, SEO review, AI-search review, editorial review, and publishing validation before release.',
+      'Drafts move through content planning, SEO checks, and publishing validation before release.',
     sourcesPolicy:
       'Product claims must match canonical Zebra documents. Medical context should be cautious, referenced, and limited to explanation rather than advice.',
     citationStandards:
