@@ -153,7 +153,7 @@ The night before is not the time to build the whole system from scratch.
 - refer to your question list
 - ask what to track before the next visit
 
-The AHRQ `Questions Are the Answer` materials are useful here because they encourage people to bring written questions and ask for explanations in plain language.
+The [AHRQ](https://www.ahrq.gov/questions/10questions.html) `Questions Are the Answer` materials are useful here because they encourage people to bring written questions and ask for explanations in plain language.
 
 ## Where Zebra fits
 

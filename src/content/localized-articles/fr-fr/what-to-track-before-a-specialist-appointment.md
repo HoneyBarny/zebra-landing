@@ -197,7 +197,7 @@ Beaucoup de personnes preparent des notes de symptômes et oublient de préparer
 
 Avant le rendez-vous, notez les deux ou trois choses principales que vous voulez demander.
 
-Les documents `Questions Are the Answer` de l'AHRQ recommandent d'écrire vos principales questions avant la visite et de les apporter avec vous. Voir [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) et [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
+Les documents `Questions Are the Answer` de l'[AHRQ](https://www.ahrq.gov/questions/10questions.html) recommandent d'écrire vos principales questions avant la visite et de les apporter avec vous. Voir [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) et [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
 
 Les bonnes catégories de questions incluent:
 

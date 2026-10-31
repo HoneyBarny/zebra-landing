@@ -195,7 +195,7 @@ A lot of people prepare symptom notes and forget to prepare the questions they m
 
 Before the appointment, write down the top two or three things you want to ask.
 
-The AHRQ `Questions Are the Answer` materials recommend writing down your top questions before the visit and bringing them with you. See [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) and [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
+The [AHRQ](https://www.ahrq.gov/questions/10questions.html) `Questions Are the Answer` materials recommend writing down your top questions before the visit and bringing them with you. See [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) and [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
 
 Good question categories include:
 

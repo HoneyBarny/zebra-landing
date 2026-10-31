@@ -107,7 +107,7 @@ Notez:
 - horaire des médicaments, doses oubliees ou changements récents
 - maladie, regles, pic de douleur, mauvais sommeil, chaleur ou jour de flare
 
-La declaration Heart Rhythm Society note que les symptômes de POTS surviennent debout et incluent souvent etourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin a comprendre les chiffres.
+La declaration [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que les symptômes de POTS surviennent debout et incluent souvent etourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin a comprendre les chiffres.
 
 ## Utilisez posture plus temps
 

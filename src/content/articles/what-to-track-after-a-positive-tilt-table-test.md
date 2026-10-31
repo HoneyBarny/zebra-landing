@@ -156,7 +156,7 @@ Useful notes include:
 - new side effects or concerns
 - caffeine or alcohol if relevant
 
-The Heart Rhythm Society consensus statement notes that clinical history for suspected POTS should consider modifying factors and possible triggers, including dehydration, heat, alcohol, and exercise. Tracking these as context can make follow-up conversations more precise.
+The [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) consensus statement notes that clinical history for suspected POTS should consider modifying factors and possible triggers, including dehydration, heat, alcohol, and exercise. Tracking these as context can make follow-up conversations more precise.
 
 ## Keep a simple follow-up table
 

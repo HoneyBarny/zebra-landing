@@ -128,7 +128,7 @@ Notieren Sie:
 - Medikamentenzeitpunkt, vergessene Dosen oder Dosisänderungen
 - Krankheit, Periode, Schmerzspitze, schlechter Schlaf, Hitze oder Flare-Tag
 
-Die Heart Rhythm Society beschreibt, dass POTS-Symptome beim Stehen auftreten und häufig Benommenheit, Herzklopfen, Zittern, Schwäche, verschwommenes Sehen, Belastungsintoleranz und Fatigue einschliessen. Kontext hilft Ihrem Arzt, die Zahlen einzuordnen.
+Die [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) beschreibt, dass POTS-Symptome beim Stehen auftreten und häufig Benommenheit, Herzklopfen, Zittern, Schwäche, verschwommenes Sehen, Belastungsintoleranz und Fatigue einschliessen. Kontext hilft Ihrem Arzt, die Zahlen einzuordnen.
 
 ## Schellong-Test, Stehtest und Haltung plus Zeit
 

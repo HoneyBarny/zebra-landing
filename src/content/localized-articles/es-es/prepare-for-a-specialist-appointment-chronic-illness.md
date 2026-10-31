@@ -155,7 +155,7 @@ La noche anterior no es el momento de construir todo el sistema desde cero.
 - mira tu lista de preguntas
 - pregunta que deberias registrar antes de la siguiente visita
 
-Los materiales `Questions Are the Answer` de AHRQ son útiles aquí porque animan a llevar preguntas escritas y pedir explicaciones en lenguaje claro.
+Los materiales `Questions Are the Answer` de [AHRQ](https://www.ahrq.gov/questions/10questions.html) son útiles aquí porque animan a llevar preguntas escritas y pedir explicaciones en lenguaje claro.
 
 ## Dónde encaja Zebra
 

@@ -144,7 +144,7 @@ Notas útiles:
 - nuevos efectos secundarios o preocupaciones
 - cafeina o alcohol, si importan
 
-El consenso de Heart Rhythm Society senala que la historia clínica en sospecha de POTS debe considerar factores modificadores y posibles desencadenantes, incluidos deshidratación, calor, alcohol y ejercicio. Registrarlos como contexto puede hacer más precisa la cita de seguimiento.
+El consenso de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que la historia clínica en sospecha de POTS debe considerar factores modificadores y posibles desencadenantes, incluidos deshidratación, calor, alcohol y ejercicio. Registrarlos como contexto puede hacer más precisa la cita de seguimiento.
 
 ## Anade impacto funcional
 

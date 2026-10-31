@@ -197,7 +197,7 @@ Muchas personas preparan notas de síntomas y olvidan preparar las preguntas que
 
 Antes de la cita, escribe las dos o tres cosas principales que quieres preguntar.
 
-Los materiales `Questions Are the Answer` de AHRQ recomiendan escribir tus preguntas principales antes de la visita y llevarlas contigo. Ver [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) y [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
+Los materiales `Questions Are the Answer` de [AHRQ](https://www.ahrq.gov/questions/10questions.html) recomiendan escribir tus preguntas principales antes de la visita y llevarlas contigo. Ver [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) y [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
 
 Buenas categorías de preguntas incluyen:
 

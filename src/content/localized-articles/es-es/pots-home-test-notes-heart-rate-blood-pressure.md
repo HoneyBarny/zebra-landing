@@ -107,7 +107,7 @@ Anota:
 - horario de medicación, dosis olvidadas o cambios recientes
 - enfermedad, periodo, pico de dolor, mal sueño, calor o día de brote
 
-La declaracion de Heart Rhythm Society senala que los síntomas de POTS ocurren al estar de pie y suelen incluir aturdimiento, palpitaciones, temblor, debilidad, visión borrosa, intolerancia al ejercicio y fatiga. El contexto ayuda a tu médico a interpretar los números.
+La declaracion de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que los síntomas de POTS ocurren al estar de pie y suelen incluir aturdimiento, palpitaciones, temblor, debilidad, visión borrosa, intolerancia al ejercicio y fatiga. El contexto ayuda a tu médico a interpretar los números.
 
 ## Usa postura más tiempo
 

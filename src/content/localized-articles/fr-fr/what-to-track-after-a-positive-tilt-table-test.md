@@ -144,7 +144,7 @@ Notes utiles:
 - nouveaux effets secondaires ou inquietudes
 - caféine ou alcool si pertinent
 
-Le consensus de la Heart Rhythm Society note que l'histoire clinique en cas de suspicion de POTS doit considerer les facteurs modificateurs et declencheurs possibles, dont deshydratation, chaleur, alcool et exercice. Les suivre comme contexte peut rendre les suivis plus précis.
+Le consensus de la [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que l'histoire clinique en cas de suspicion de POTS doit considerer les facteurs modificateurs et declencheurs possibles, dont deshydratation, chaleur, alcool et exercice. Les suivre comme contexte peut rendre les suivis plus précis.
 
 ## Ajouter l'impact fonctionnel
 

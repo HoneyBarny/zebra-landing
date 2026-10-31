@@ -155,7 +155,7 @@ La veille n est pas le moment de construire tout le système de zero.
 - referez-vous a votre liste de questions
 - demandez quoi suivre avant la prochaine visite
 
-Les documents `Questions Are the Answer` de l AHRQ sont utiles ici, car ils encouragent les personnes a apporter des questions ecrites et a demander des explications en langage clair.
+Les documents `Questions Are the Answer` de l [AHRQ](https://www.ahrq.gov/questions/10questions.html) sont utiles ici, car ils encouragent les personnes a apporter des questions ecrites et a demander des explications en langage clair.
 
 ## Ou Zebra s integre
 

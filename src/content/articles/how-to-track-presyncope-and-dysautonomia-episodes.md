@@ -108,7 +108,7 @@ Track:
 - whether symptoms returned when you stood again
 - whether you fully fainted or stayed conscious
 
-The American College of Cardiology, American Heart Association, and Heart Rhythm Society describe orthostatic intolerance as symptoms that develop on standing and improve with sitting or lying. That is why a posture note can be more useful than a long symptom paragraph.
+The American College of Cardiology, American Heart Association, and [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) describe orthostatic intolerance as symptoms that develop on standing and improve with sitting or lying. That is why a posture note can be more useful than a long symptom paragraph.
 
 ## Capture the context that may have lowered your threshold
 

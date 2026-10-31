@@ -197,7 +197,7 @@ Viele Menschen bereiten Symptomnotizen vor und vergessen, die Fragen vorzubereit
 
 Schreiben Sie vor dem Termin die wichtigsten zwei oder drei Dinge auf, die Sie fragen möchten.
 
-Die AHRQ-Materialien `Questions Are the Answer` empfehlen, Ihre wichtigsten Fragen vor dem Besuch aufzuschreiben und mitzubringen. Siehe [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) und [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
+Die [AHRQ](https://www.ahrq.gov/questions/10questions.html)-Materialien `Questions Are the Answer` empfehlen, Ihre wichtigsten Fragen vor dem Besuch aufzuschreiben und mitzubringen. Siehe [My Questions for This Visit](https://www.ahrq.gov/questions/resources/note-card.html) und [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html).
 
 Gute Fragekategorien sind:
 

@@ -157,7 +157,7 @@ Der Abend davor ist nicht der richtige Zeitpunkt, das ganze System von Grund auf
 - auf Ihre Fragenliste schauen
 - fragen, was Sie bis zum nächsten Termin tracken sollten
 
-Die AHRQ-Materialien `Questions Are the Answer` sind hier hilfreich, weil sie dazu ermutigen, schriftliche Fragen mitzubringen und Erklärungen in klarer Sprache einzufordern.
+Die [AHRQ](https://www.ahrq.gov/questions/10questions.html)-Materialien `Questions Are the Answer` sind hier hilfreich, weil sie dazu ermutigen, schriftliche Fragen mitzubringen und Erklärungen in klarer Sprache einzufordern.
 
 ## Wo Zebra hineinpasst
 

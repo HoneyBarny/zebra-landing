@@ -120,7 +120,7 @@ Write down:
 - medication timing, missed doses, or recent dose changes
 - illness, period, pain spike, poor sleep, heat, or flare day
 
-The Heart Rhythm Society consensus statement notes that POTS symptoms happen with standing and commonly include lightheadedness, palpitations, tremor, weakness, blurred vision, exercise intolerance, and fatigue. Context helps your clinician decide what the numbers mean.
+The [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) consensus statement notes that POTS symptoms happen with standing and commonly include lightheadedness, palpitations, tremor, weakness, blurred vision, exercise intolerance, and fatigue. Context helps your clinician decide what the numbers mean.
 
 ## Use posture plus time
 
