@@ -76,6 +76,12 @@ Palpitations can feel like a racing heart, pounding, fluttering, skipped beats, 
 
 A palpitations diary does not diagnose an arrhythmia, POTS, dysautonomia, or any heart condition. It helps you bring a clearer episode history to the clinician who can decide what needs evaluation.
 
+## What should a palpitations diary record?
+
+**Short answer:** for each episode, record when it started and stopped, what you were doing, your position, your heart rate if you measured it, how you felt (dizziness, chest discomfort, breathlessness), and how long it took to recover. Note medicines, caffeine and hydration in the day before. [Cleveland Clinic's overview of heart palpitations](https://my.clevelandclinic.org/health/diseases/17084-heart-palpitations) describes the symptoms that clinicians ask about.
+
+Seek urgent care for chest pain, fainting, or breathlessness that does not settle; a diary does not replace that.
+
 ## Start With The Episode Basics
 
 A useful note starts with what happened and when.

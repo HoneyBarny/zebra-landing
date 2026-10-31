@@ -75,6 +75,10 @@ If you already record lying, sitting, or standing measurements, write down the s
 
 Zebra's [orthostatic vitals tracker](/orthostatic-vitals-test/) is built for that kind of patient-entered record. It keeps readings with symptoms, notes, medications, hydration, salt context, and later [doctor report](/doctor-report/) prep.
 
+## Can you test for POTS at home?
+
+**Short answer:** no, not as a diagnosis. A home check can record heart rate and blood pressure lying and standing, along with symptoms and context, so a clinician can judge the pattern. POTS is diagnosed by a clinician, using the test results, symptoms and other causes ruled out. The [American College of Cardiology 2022 expert consensus](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003) describes the active stand test that clinics use; if you try a home version, follow your clinician's instructions and stop if you feel unsafe.
+
 ## Home notes are not a medical test result
 
 Clinical sources describe active standing tests and tilt table tests as part of a clinician-led evaluation. Home measurements can be useful context when your healthcare team asks for them, but they can also be incomplete or unreliable. Devices vary, symptoms can change fast, and several conditions can affect heart rate or blood pressure.
