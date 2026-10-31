@@ -364,6 +364,7 @@ export function getArticleSchema(article: ArticleEntry, canonical: string) {
     author: {
       '@type': 'Organization',
       name: 'Zebra Editorial Team',
+      url: new URL('/authors/zebra-editorial/', siteConfig.siteUrl).toString(),
     },
     publisher: {
       '@type': 'Organization',
