@@ -4,12 +4,10 @@ import SiteHeader from '../components/landing/SiteHeader.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../components/content/Breadcrumbs.astro';
 import RelatedArticles from '../components/content/RelatedArticles.astro';
-import { authorProfiles } from '../data/content-taxonomy';
 import { homePage } from '../data/site-content';
 import { articleAlternatesFor, publishedLocalesByOriginal } from '../lib/article-alternates';
 import {
   articleUrl,
-  authorUrl,
   categoryUrlFromName,
   dateLabel,
   estimateReadingTime,
@@ -91,7 +89,6 @@ const alternates = articleAlternatesFor(
   alternatesPath.replace(/^\/blog\//, '').replace(/\/$/, ''),
   await publishedLocalesByOriginal(),
 );
-const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
 const tocHeadings = headings.filter((heading) => heading.depth <= 2);
 const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lang === 'fr-FR' ? 'fr-FR' : 'en-US';
 const seoTitle = article.data.seoTitle.length > 60
@@ -132,7 +129,6 @@ const seoTitle = article.data.seoTitle.length > 60
             <h1>{article.data.title}</h1>
             <p class="article-subtitle">{article.data.subtitle}</p>
             <div class="article-meta-row">
-              <a href={authorUrl(author.slug)}>{author.name}</a>
               <span>{dateLabel(article.data.publishedAt, dateLocale)}</span>
               <span>{labels.updated} {dateLabel(article.data.updatedAt ?? article.data.publishedAt, dateLocale)}</span>
               <span>{estimateReadingTime(article.body)} {labels.minRead}</span>

@@ -371,11 +371,6 @@ export function getArticleSchema(article: ArticleEntry, canonical: string, local
     datePublished: article.data.publishedAt,
     dateModified: article.data.updatedAt ?? article.data.publishedAt,
     image: [new URL(article.data.heroImage, siteConfig.siteUrl).toString()],
-    author: {
-      '@type': 'Organization',
-      name: 'Zebra Editorial Team',
-      url: new URL('/authors/zebra-editorial/', siteConfig.siteUrl).toString(),
-    },
     publisher: {
       '@type': 'Organization',
       name: 'Zebra',
