@@ -4,7 +4,7 @@ import SiteHeader from '../components/landing/SiteHeader.astro';
 import SiteFooter from '../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../components/content/Breadcrumbs.astro';
 import RelatedArticles from '../components/content/RelatedArticles.astro';
-import { articleSources } from '../data/article-sources';
+import { articleSources, nationalSourcesByLang } from '../data/article-sources';
 import { homePage } from '../data/site-content';
 import { articleAlternatesFor, publishedLocalesByOriginal } from '../lib/article-alternates';
 import {
@@ -243,7 +243,7 @@ const seoTitle = article.data.seoTitle.length > 60
         )}
         <h3>{labels.generalSources}</h3>
         <ul>
-          {articleSources.map((source) => (
+          {[...(nationalSourcesByLang[lang] ?? []), ...articleSources].map((source) => (
             <li><a href={source.url} rel="noopener noreferrer" target="_blank">{source.label}</a></li>
           ))}
         </ul>
