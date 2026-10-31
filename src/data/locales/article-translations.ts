@@ -98,6 +98,52 @@ export const frenchCategoryNames: Record<string, string> = {
   Fibromyalgia: 'Fibromyalgie',
 };
 
+// Category names are stored in English in the German and Spanish articles' frontmatter.
+export const germanCategoryNames: Record<string, string> = {
+  'Symptom Tracking': 'Symptom-Tracking',
+  'Symptom Tracking and Proof': 'Symptom-Tracking und Nachweis',
+  Comparison: 'Vergleich',
+  Comparisons: 'Vergleiche',
+  'Appointment Preparation': 'Vorbereitung auf den Arzttermin',
+  'Doctor Reports': 'Arztberichte',
+  'POTS and Dysautonomia Tracking': 'POTS- und Dysautonomie-Tracking',
+  'Reference / Glossary': 'Referenz und Glossar',
+  Dysautonomia: 'Dysautonomie',
+  'Brain Fog': 'Brain Fog',
+  'Brain Fog and Difficult Days': 'Brain Fog an schwierigen Tagen',
+  'Condition Overlap': 'Überschneidung von Erkrankungen',
+  Fatigue: 'Müdigkeit',
+  POTS: 'POTS',
+  Fibromyalgia: 'Fibromyalgie',
+};
+
+// Category names are stored in English in the Spanish articles' frontmatter.
+export const spanishCategoryNames: Record<string, string> = {
+  'Symptom Tracking': 'Seguimiento de síntomas',
+  'Symptom Tracking and Proof': 'Seguimiento de síntomas y pruebas',
+  Comparison: 'Comparativa',
+  Comparisons: 'Comparativas',
+  'Appointment Preparation': 'Preparación de la cita',
+  'Doctor Reports': 'Informes para el médico',
+  'POTS and Dysautonomia Tracking': 'Seguimiento de POTS y disautonomía',
+  'Reference / Glossary': 'Referencia y glosario',
+  Dysautonomia: 'Disautonomía',
+  'Brain Fog': 'Niebla mental',
+  'Brain Fog and Difficult Days': 'Niebla mental y días difíciles',
+  'Condition Overlap': 'Solapamiento de afecciones',
+  Fatigue: 'Fatiga',
+  POTS: 'POTS',
+  Fibromyalgia: 'Fibromialgia',
+};
+
 export function localizedCategoryName(name: string, localePath = '/') {
-  return localePath === localeRoutes.frFr ? (frenchCategoryNames[name] ?? name) : name;
+  const names =
+    localePath === localeRoutes.frFr
+      ? frenchCategoryNames
+      : localePath === localeRoutes.deDe
+        ? germanCategoryNames
+        : localePath === localeRoutes.esEs
+          ? spanishCategoryNames
+          : undefined;
+  return names?.[name] ?? name;
 }

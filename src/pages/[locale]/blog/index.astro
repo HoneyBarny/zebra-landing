@@ -85,7 +85,7 @@ const schema = [
           </a>
           <div class="featured-article-copy">
             <div class="article-card-meta">
-              <span>{featured.data.category}</span>
+              <span>{localizedCategoryName(featured.data.category, copy.home.locale.path)}</span>
               <span>{dateLabel(featured.data.publishedAt, dateLocale)}</span>
               <span>{estimateReadingTime(featured.body)} {copy.blog.minRead}</span>
             </div>
