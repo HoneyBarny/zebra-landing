@@ -138,7 +138,7 @@ export const searchPages: SearchPage[] = [
     slug: 'appointment-prep-checklist',
     kind: 'feature',
     lastReviewed: 'September 1, 2026',
-    title: 'Symptom Tracker for Doctor Appointments: Checklist | Zebra',
+    title: 'Symptom Tracker for Doctor Appointments | Zebra',
     description:
       'Prepare for a doctor appointment with a short symptom history: flares, changes, medications, daily impact, questions, and a doctor-ready report.',
     eyebrow: 'Appointment prep checklist',
@@ -218,9 +218,9 @@ export const searchPages: SearchPage[] = [
     slug: 'pots-tracker',
     kind: 'condition',
     lastReviewed: 'September 1, 2026',
-    title: 'POTS Symptom Tracker for iPhone: Flares and Vitals | Zebra',
+    title: 'POTS Symptom Tracker App for iPhone | Zebra',
     description:
-      'Track POTS symptoms, flares, orthostatic vitals, salt, water, medications, and appointment notes in one iPhone app. Share a 30-day doctor summary.',
+      'Track POTS symptoms, flares, orthostatic vitals, salt, water, medications, and appointment notes in one iPhone app.',
     eyebrow: 'POTS tracker',
     h1: 'POTS symptom tracker app for flares, vitals, and appointment prep.',
     directAnswer:
@@ -270,7 +270,7 @@ export const searchPages: SearchPage[] = [
     slug: 'eds-tracker',
     kind: 'condition',
     lastReviewed: 'September 1, 2026',
-    title: 'EDS Symptom Tracker for iPhone: Overlap and Flares | Zebra',
+    title: 'EDS Symptom Tracker App for iPhone | Zebra',
     description:
       'Track EDS and hEDS symptoms, flares, instability, fatigue, medications, notes, and appointment history in one iPhone app.',
     eyebrow: 'EDS / hEDS tracker',
@@ -398,7 +398,7 @@ export const searchPages: SearchPage[] = [
     slug: 'orthostatic-vitals-test',
     kind: 'feature',
     lastReviewed: 'September 1, 2026',
-    title: 'Orthostatic Vitals Tracker for iPhone: Stand Test | Zebra',
+    title: 'Orthostatic Vitals Tracker for iPhone | Zebra',
     description:
       'Use Zebra to track lying, standing, and recovery orthostatic vitals beside symptoms, flares, salt, water, medications, and doctor reports.',
     eyebrow: 'Orthostatic vitals',
@@ -458,7 +458,7 @@ export const searchPages: SearchPage[] = [
     slug: 'doctor-report',
     kind: 'feature',
     lastReviewed: 'September 1, 2026',
-    title: 'Doctor Symptom Report App for iPhone: 30-Day PDF | Zebra',
+    title: 'Doctor Symptom Report App for iPhone | Zebra',
     description:
       'Turn tracked flares, symptoms, meds, salt, water, orthostatic vitals, and notes into a doctor-ready PDF report for appointments.',
     eyebrow: 'Doctor report',
@@ -526,7 +526,7 @@ export const searchPages: SearchPage[] = [
     slug: 'flare-tracker',
     kind: 'feature',
     lastReviewed: 'September 1, 2026',
-    title: 'Flare Tracker App for Chronic Illness: Quick Log | Zebra',
+    title: 'Flare Tracker App for Chronic Illness | Zebra',
     description:
       'Track chronic illness flares, severity, symptoms, triggers, medications, notes, and doctor-ready reports in under 60 seconds.',
     eyebrow: 'Flare tracker',
@@ -583,7 +583,7 @@ export const searchPages: SearchPage[] = [
     slug: 'symptom-tracker-for-invisible-illness',
     kind: 'feature',
     lastReviewed,
-    title: 'Symptom Tracker for Invisible Illness: Visits | Zebra',
+    title: 'Symptom Tracker for Invisible Illness | Zebra',
     description:
       'Zebra is an iPhone symptom tracker for invisible illness, brain fog, flare days, orthostatic vitals, and doctor-ready reports.',
     eyebrow: 'Invisible illness tracker',
@@ -683,7 +683,7 @@ export const searchPages: SearchPage[] = [
     slug: 'zebra-vs-visible',
     kind: 'comparison',
     lastReviewed,
-    title: 'Zebra vs Visible for Chronic Illness Tracking | Zebra',
+    title: 'Zebra vs Visible for Chronic Illness Tracking',
     description:
       'Compare Zebra vs Visible for POTS, EDS, Fibromyalgia, pacing, flare tracking, orthostatic vitals, and doctor appointment reports.',
     eyebrow: 'Comparison',
@@ -741,9 +741,9 @@ export const searchPages: SearchPage[] = [
     slug: 'zebra-vs-apple-notes',
     kind: 'comparison',
     lastReviewed,
-    title: 'Zebra vs Apple Notes for Symptoms and Doctor Reports | Zebra',
+    title: 'Zebra vs Apple Notes for Symptom Tracking',
     description:
-      'Compare Zebra vs Apple Notes for tracking POTS, EDS, Fibromyalgia, flares, orthostatic vitals, and doctor reports. See which fits your appointments.',
+      'Compare Zebra vs Apple Notes for tracking POTS, EDS, Fibromyalgia, flares, orthostatic vitals, and doctor reports.',
     eyebrow: 'Comparison',
     h1: 'Zebra vs Apple Notes: structured symptom tracking or scattered notes?',
     directAnswer:
@@ -798,7 +798,7 @@ export const searchPages: SearchPage[] = [
     slug: 'zebra-vs-spreadsheet',
     kind: 'comparison',
     lastReviewed,
-    title: 'Zebra vs Spreadsheet for Symptoms and Doctor Reports | Zebra',
+    title: 'Zebra vs Spreadsheet for Symptom Tracking',
     description:
       'Compare Zebra vs spreadsheets for chronic illness symptom tracking, POTS, EDS, Fibromyalgia, flares, and doctor reports.',
     eyebrow: 'Comparison',
@@ -855,7 +855,7 @@ export const searchPages: SearchPage[] = [
     slug: 'best-pots-symptom-tracker-apps',
     kind: 'comparison',
     lastReviewed,
-    title: 'Best POTS Symptom Tracker Apps: Compared for Visits | Zebra',
+    title: 'Best POTS Symptom Tracker Apps | Zebra',
     description:
       'Compare what to look for in a POTS symptom tracker app: orthostatic vitals, salt, water, meds, flares, and doctor-ready reports.',
     eyebrow: 'Best apps',
@@ -918,7 +918,7 @@ export const searchPages: SearchPage[] = [
     slug: 'best-chronic-illness-symptom-tracker-apps',
     kind: 'comparison',
     lastReviewed,
-    title: 'Best Chronic Illness Symptom Tracker Apps Compared | Zebra',
+    title: 'Best Chronic Illness Symptom Tracker Apps | Zebra',
     description:
       'Compare chronic illness symptom tracker apps for invisible illness, brain fog, flares, POTS, EDS, Fibromyalgia, and doctor reports.',
     eyebrow: 'Best apps',
