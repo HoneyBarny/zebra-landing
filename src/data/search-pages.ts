@@ -452,6 +452,11 @@ export const searchPages: SearchPage[] = [
         answer:
           'No. Zebra records patient-entered observations. It does not diagnose POTS, determine whether a result is normal, or interpret measurements as a clinician.',
       },
+      {
+        question: 'What if I feel unwell during the test?',
+        answer:
+          'You can stop the test at any time. The app asks you to stop if you feel faint, unwell, or unsafe. Any observations you already entered can still be saved.',
+      },
     ],
   }),
   withDefaults({
