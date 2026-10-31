@@ -8,7 +8,7 @@ description: "Lernen Sie, was Sie bei Hitzeintoleranz für POTS, Dysautonomie un
 excerpt: "Ein praktischer Leitfaden für hitzegetriggerte Symptome, warme Räume, heisse Duschen, Hydration, Salz, Herzfrequenz, Schwindel, Schwitzen, Kühlung, Erholung und Arztzusammenfassungen."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-09-02"
+updatedAt: "2026-10-31"
 nextReview: "2027-03-02"
 lastReviewed: "2026-09-02"
 featured: false
@@ -81,6 +81,10 @@ Hitze kann für viele Menschen mit [POTS](/de-de/knowledge/pots/), [Dysautonomie
 Für POTS-spezifisches Tracking verbindet das [Zebra POTS-Tagebuch](/de-de/pots-tracker/) Hitze, Schübe, Hydration, Salz, Medikamente und Arztterminnotizen in einem Verlauf.
 
 Ein Hitzeintoleranz-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein klareres Muster zum Arzt mitzunehmen: was die Hitzeexposition war, welche Symptome folgten, was half, wie lange Erholung dauerte und was sich im Alltag veränderte.
+
+## POTS bei Hitze: was ist bekannt?
+
+**Kurz gesagt:** Wärme ist ein bekannter Auslöser für POTS-Symptome. Die [Cleveland Clinic (englisch)](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) nennt warme Umgebungen wie ein heisses Bad, eine heisse Dusche oder einen heissen Tag draussen als Symptomtrigger und rät beim Duschen zu lauwarmem Wasser. Welche Hitze für Sie zum Problem wird, zeigt am ehesten eine kurze Notiz: was die Hitze war, welche Symptome folgten und was half.
 
 ## Mit dem Hitzekontext beginnen
 

@@ -8,7 +8,7 @@ description: "Was bei einem POTS-Test zuhause oder Schellong-Test-Notizen nützl
 excerpt: "Ein praktischer Leitfaden für POTS-Test zuhause, Schellong-Test-Notizen, Puls, Blutdruck, Symptome und Kontext für Arzttermine."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-09-02"
+updatedAt: "2026-10-31"
 nextReview: "2027-02-08"
 lastReviewed: "2026-09-02"
 featured: false
@@ -82,6 +82,10 @@ Wenn Sie diese Beobachtungen in Zebra sammeln wollen, führt die Seite zum [Sche
 Zahlen allein können täuschen. Ein Pulswert ohne "liegend, stehend, Minute 2, schwindelig, Medikament genommen" ist viel weniger hilfreich als eine einfache Timeline. Das Ziel ist keine Selbstdiagnose zu Hause. Das Ziel ist, klarere Beobachtungen zum Arzt mitzunehmen.
 
 Kurz gesagt: Notieren Sie Setup, Haltung, Messzeitpunkt, Puls, Blutdruck, Symptome im selben Moment, Erholung, Sicherheitsgrund für einen Abbruch und die Frage, die Sie beim Termin klären wollen.
+
+## Kann man POTS zuhause testen?
+
+**Kurze Antwort:** nein, nicht als Diagnose. Ein POTS-Selbsttest zuhause kann Puls und Blutdruck im Liegen und im Stehen festhalten, zusammen mit Symptomen und Kontext, damit Ihr Arzt das Muster einordnen kann. Die Diagnose stellt ein Arzt, anhand der Messwerte, der Symptome und nachdem andere Ursachen ausgeschlossen sind. Den Stehtest, den Kliniken nutzen, beschreibt der [Expertenkonsens des American College of Cardiology von 2022 (englisch)](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003). Wenn Sie eine Version zuhause versuchen, folgen Sie den Anweisungen Ihres Arztes und brechen Sie ab, wenn Sie sich unsicher fühlen.
 
 ## Heimnotizen sind kein medizinisches Testergebnis
 

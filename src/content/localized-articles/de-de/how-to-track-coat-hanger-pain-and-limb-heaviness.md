@@ -8,7 +8,7 @@ description: "Lernen Sie, wie Sie Coat-Hanger-Schmerz und schwere Gliedmassen be
 excerpt: "Ein praktischer Leitfaden für das Erfassen von Nacken-Schulter-Schmerz, schweren Gliedmassen und aufrechter Fatigue mit genug Kontext für den Arzttermin."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
-updatedAt: "2026-09-02"
+updatedAt: "2026-10-31"
 nextReview: "2027-03-02"
 lastReviewed: "2026-09-02"
 featured: false
@@ -80,7 +80,7 @@ Tracking hilft, weil solche Symptome im kurzen Termin schnell vage klingen. Eine
 
 ## Was ist Coat-Hanger-Schmerz?
 
-Coat-Hanger-Schmerz beschreibt meist Ziehen oder Schmerzen in Nacken, Schultern und oberem Rücken. Für den Arzttermin zählt, wo genau der Schmerz sitzt, wann er auftritt und was ihn bessert oder verschlechtert. Zebra hilft, diese Angaben kurz festzuhalten.
+**Kurz gesagt:** Coat-Hanger-Schmerz heisst wörtlich „Kleiderbügel-Schmerz“: Ziehen oder Schmerzen in Nacken, Schultern und oberem Rücken, dort, wo ein Kleiderbügel liegen würde. Eine [Studie von Bleasdale-Barr und Mathias (1998, englisch)](https://pubmed.ncbi.nlm.nih.gov/9771493/) beschreibt diesen Schmerz bei Menschen mit autonomer Störung und orthostatischer Hypotonie; Sitzen oder Flachliegen linderte ihn. Für den Arzttermin zählt, wo genau der Schmerz sitzt, wann er auftritt und was ihn bessert oder verschlechtert. Zebra hilft, diese Angaben kurz festzuhalten.
 
 ## Den genauen Ort erfassen
 

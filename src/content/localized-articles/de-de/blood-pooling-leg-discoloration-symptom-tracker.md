@@ -8,7 +8,7 @@ description: "Lernen Sie, was Sie bei Blood Pooling, violetten Beinen, Fussverf�
 excerpt: "Ein praktischer Leitfaden für Blood Pooling, Bein- oder Fussverfärbung, Schwellung, Schwere, Schmerz, Stehzeit, Haltung, Kompression, Hydration, Salz, Erholung und Arztzusammenfassungen."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
-updatedAt: "2026-09-02"
+updatedAt: "2026-10-31"
 nextReview: "2027-03-02"
 lastReviewed: "2026-09-02"
 featured: false
@@ -83,7 +83,7 @@ Ein Blood-Pooling-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein 
 
 ## Was ist Blood Pooling, und was tun Sie jetzt?
 
-Blood Pooling bedeutet, dass sich Blut beim Stehen in den Beinen sammelt. Ob und wie es bei Ihnen zutrifft, klärt Ihr Arzt. Bis dahin hilft eine kurze Notiz: wo die Verfärbung ist, wie lange Sie gestanden haben und welche Symptome gleichzeitig auftraten. Zebra kann diese Notizen in einer Zeitleiste halten.
+**Kurz gesagt:** Blood Pooling heisst auf Deutsch etwa „Versacken“ oder Ansammeln von Blut in den Beinen beim Stehen. Die [Cleveland Clinic (englisch)](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) nennt eine violette Verfärbung von Händen und Füßen als mögliches POTS-Symptom. Ob und wie es bei Ihnen zutrifft, klärt Ihr Arzt. Bis dahin hilft eine kurze Notiz: wo die Verfärbung ist, wie lange Sie gestanden haben und welche Symptome gleichzeitig auftraten. Zebra kann diese Notizen in einer Zeitleiste halten.
 
 ## Mit Position und Stehzeit beginnen
 
