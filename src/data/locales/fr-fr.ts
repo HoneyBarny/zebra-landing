@@ -50,6 +50,26 @@ const faqItems = [
       'Non. Zebra ne pose pas de diagnostic, ne traite pas et ne fournit pas d\'avis médical. Elle aide à organiser votre historique pour les conversations avec les soignants.',
   },
   {
+    question: 'Puis-je faire un test de POTS à la maison ?',
+    answer:
+      'Pas comme diagnostic. Vous pouvez noter la fréquence cardiaque et la tension allongée puis debout, avec symptômes et contexte, à apporter à votre médecin. Le POTS est diagnostiqué par un médecin. Zebra enregistre vos mesures sans les interpréter.',
+  },
+  {
+    question: 'Que dois-je apporter à mon rendez-vous ?',
+    answer:
+      'Un résumé court et daté : vos principaux symptômes et leur fréquence, les changements de médicaments, les questions que vous voulez poser et des exemples de ce qu’ils vous ont empêché de faire. Zebra prépare ce résumé à partir de vos saisies. Zebra ne peut pas faire écouter votre médecin, mais vous donne quelque chose de clair à apporter.',
+  },
+  {
+    question: 'Quel tracker couvre le POTS, l’EDS et la fibromyalgie ?',
+    answer:
+      'Zebra est conçu pour le POTS, l’EDS et la fibromyalgie ensemble : une seule chronologie regroupe symptômes, poussées, changements de médicaments, sel et eau, et mesures orthostatiques. Comparez les trackers sur ce qu’ils incluent avant de choisir.',
+  },
+  {
+    question: 'Comment décrire ma douleur à mon médecin ?',
+    answer:
+      'Dites où se situe la douleur, ce qu’elle évoque avec vos mots, son intensité sur une échelle de 0 à 10, quand elle survient et ce qu’elle vous empêche de faire. Zebra vous permet de noter cela en une courte saisie, pour avoir les mots prêts au rendez-vous.',
+  },
+  {
     question: 'Que comprend Premium ?',
     answer:
       'La version gratuite inclut le suivi principal et 30 jours d\'historique. Premium débloque des vues d\'historique plus longues et l\'export PDF du rapport médical.',

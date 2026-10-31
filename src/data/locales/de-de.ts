@@ -55,6 +55,26 @@ const faqItems = [
       'Nein. Zebra stellt keine Diagnosen, behandelt nicht und ersetzt keine medizinische Beratung. Die App hilft, Ihre eigene Vorgeschichte für Arztgespräche zu ordnen.',
   },
   {
+    question: 'Kann ich einen POTS-Test zu Hause machen?',
+    answer:
+      'Nicht als Diagnose. Sie können Herzfrequenz und Blutdruck im Liegen und im Stehen zusammen mit Symptomen und Kontext festhalten, um sie zur Ärztin oder zum Arzt mitzubringen. POTS wird von einer Ärztin oder einem Arzt diagnostiziert. Zebra erfasst Ihre Werte, interpretiert sie aber nicht.',
+  },
+  {
+    question: 'Was sollte ich zum Termin mitbringen?',
+    answer:
+      'Eine kurze, datierte Übersicht: Ihre wichtigsten Symptome und wie oft sie auftreten, Medikamentenänderungen, die Fragen, die Sie stellen möchten, und Beispiele dafür, was Ihnen nicht mehr möglich war. Zebra erstellt diese Übersicht aus Ihren Einträgen. Zebra kann nicht dafür sorgen, dass Ihnen zugehört wird, aber Sie haben etwas Klares dabei.',
+  },
+  {
+    question: 'Welcher Tracker deckt POTS, EDS und Fibromyalgie ab?',
+    answer:
+      'Zebra ist für POTS, EDS und Fibromyalgie gemeinsam gemacht. Eine Zeitleiste enthält Symptome, Schübe, Medikamentenänderungen, Salz und Wasser sowie orthostatische Werte. Vergleichen Sie Tracker danach, was sie enthalten, bevor Sie sich entscheiden.',
+  },
+  {
+    question: 'Wie beschreibe ich meine Schmerzen gegenüber der Ärztin oder dem Arzt?',
+    answer:
+      'Sagen Sie, wo der Schmerz ist, wie er sich anfühlt, wie stark er auf einer Skala von 0 bis 10 ist, wann er auftritt und was er Ihnen unmöglich macht. Zebra hilft, das in einem kurzen Eintrag festzuhalten, damit Sie die Worte beim Termin parat haben.',
+  },
+  {
     question: 'Was enthält Premium?',
     answer:
       'Die kostenlose Version enthält die wichtigsten Tracking-Funktionen und 30 Tage Verlauf. Premium schaltet längere Verlaufsansichten und den PDF-Export für Arztberichte frei.',
