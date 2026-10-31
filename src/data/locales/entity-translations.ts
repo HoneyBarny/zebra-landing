@@ -1,4 +1,6 @@
 import type { KnowledgeEntity } from '../../lib/content';
+import { entityMeta } from '../content-taxonomy';
+import { localeRoutes } from './shared';
 
 export type EntityLocale = 'de-de' | 'es-es' | 'fr-fr';
 
@@ -332,4 +334,40 @@ export function localizedEntityUrl(locale: EntityLocale, slug: string) {
 
 export function getEntityPageCopy(locale: EntityLocale) {
   return entityPageCopy[locale];
+}
+
+// Topic chips named in article frontmatter that have no knowledge page of their own.
+const chipNames: Partial<Record<EntityLocale, Record<string, string>>> = {
+  'de-de': {
+    'Symptom Tracking': 'Symptom-Tracking',
+    'Flare Tracking': 'Schub-Tracking',
+    'Medication Timeline': 'Medikamentenverlauf',
+    'Symptom Journal': 'Symptomtagebuch',
+    'Blood Pressure': 'Blutdruck',
+    'Heart Rate': 'Herzfrequenz',
+    Presyncope: 'Präsynkope',
+    'Heat Intolerance': 'Hitzeintoleranz',
+    Nausea: 'Übelkeit',
+  },
+  'es-es': {
+    'Symptom Tracking': 'Seguimiento de síntomas',
+    'Flare Tracking': 'Seguimiento de brotes',
+    'Medication Timeline': 'Cronología de medicación',
+    'Symptom Journal': 'Diario de síntomas',
+    'Blood Pressure': 'Presión arterial',
+    'Heart Rate': 'Frecuencia cardíaca',
+    Presyncope: 'Presíncope',
+    'Heat Intolerance': 'Intolerancia al calor',
+    Nausea: 'Náuseas',
+  },
+};
+
+export function localizedEntityName(name: string, localePath = '/') {
+  const locale: EntityLocale | undefined =
+    localePath === localeRoutes.deDe ? 'de-de' : localePath === localeRoutes.esEs ? 'es-es' : undefined;
+  if (!locale) return name;
+
+  const slug = entityMeta[name]?.slug;
+  const translated = slug ? (translations[locale][slug] as { name?: string } | undefined)?.name : undefined;
+  return translated ?? chipNames[locale]?.[name] ?? name;
 }

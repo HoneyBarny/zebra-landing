@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { localizedCategoryName } from '../../../data/locales/article-translations';
+import { localizedEntityName } from '../../../data/locales/entity-translations';
 
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteHeader from '../../../components/landing/SiteHeader.astro';
@@ -91,7 +92,7 @@ const schema = [
             </div>
             <p>{featured.data.subtitle}</p>
             <div class="article-chip-row">
-              {featured.data.entities.slice(0, 4).map((entity) => <span class="article-chip">{entity}</span>)}
+              {featured.data.entities.slice(0, 4).map((entity) => <span class="article-chip">{localizedEntityName(entity, copy.home.locale.path)}</span>)}
             </div>
             <a class="inline-cta" href={hasTranslations ? localizedArticleUrl(locale, featured.data.originalSlug) : articleUrl(featured.id)}>{copy.blog.readGuide}</a>
           </div>
