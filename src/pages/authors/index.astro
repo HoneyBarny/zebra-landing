@@ -19,8 +19,8 @@ const schema = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Zebra Authors',
-    description: 'Editorial profiles behind Zebra’s symptom-tracking, appointment-preparation, and knowledge-hub content.',
+    name: 'About Zebra content',
+    description: 'How Zebra’s symptom-tracking, appointment-preparation, and knowledge-hub guides are written and sourced.',
   },
   getBreadcrumbSchema([
     { name: 'Home', item: '/' },
@@ -30,8 +30,8 @@ const schema = [
 ---
 
 <BaseLayout
-  title="Zebra Authors | Who Writes the Symptom Tracking Guides"
-  description="See the editorial profiles behind Zebra’s guides on symptom tracking, appointment preparation, and living with POTS, EDS, and Fibromyalgia."
+  title="About Zebra content | How the Symptom Tracking Guides Are Written"
+  description="How Zebra’s guides on symptom tracking, appointment preparation, and living with POTS, EDS, and Fibromyalgia are written and sourced."
   schema={schema}
 >
   <div class="page-shell">
@@ -39,8 +39,8 @@ const schema = [
     <main>
       <section class="section category-hero">
         <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Authors' }]} />
-        <p class="eyebrow">Editorial</p>
-        <h1>Who publishes the knowledge hub.</h1>
+        <p class="eyebrow">About</p>
+        <h1>How Zebra’s guides are written.</h1>
       </section>
 
       <section class="section">

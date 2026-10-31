@@ -1,9 +1,9 @@
 export const authorProfiles = {
   'zebra-editorial': {
     slug: 'zebra-editorial',
-    name: 'Zebra Editorial Team',
-    role: 'Research-led patient education',
-    bio: 'Zebra Editorial Team translates chronic-illness research, customer language, and product workflows into practical guidance for symptom tracking, appointment preparation, and doctor-ready reports.',
+    name: 'About Zebra content',
+    role: 'How the guides are written and sourced',
+    bio: 'Zebra guides are general information to help you prepare for appointments. They are not medical advice. Where a guide relies on research or medical guidance, the sources are listed at the end of the guide.',
     editorialPolicy:
       'Every Zebra article is written to clarify tracking, appointment preparation, and doctor-ready reporting without making diagnostic or treatment claims.',
     researchMethodology:

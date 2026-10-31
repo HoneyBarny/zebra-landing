@@ -29,6 +29,8 @@ export const articleLocaleCopy = {
       directRoute: 'Direkter Link',
       relatedReading: 'Verwandte Ratgeber',
       keepExploring: 'Weiterlesen',
+      sources: 'Quellen',
+      sourcesNote: 'Allgemeine Informationen, keine medizinische Beratung. Quellen zu diesem Ratgeber:',
     },
   },
   'es-es': {
@@ -47,6 +49,8 @@ export const articleLocaleCopy = {
       directRoute: 'Ruta directa',
       relatedReading: 'Guías relacionadas',
       keepExploring: 'Sigue explorando',
+      sources: 'Fuentes',
+      sourcesNote: 'Información general, no es consejo médico. Fuentes de esta guía:',
     },
   },
   'fr-fr': {
@@ -66,6 +70,8 @@ export const articleLocaleCopy = {
       directRoute: 'Lien direct',
       relatedReading: 'Guides associes',
       keepExploring: 'Continuer',
+      sources: 'Sources',
+      sourcesNote: 'Informations générales, pas un avis médical. Sources de ce guide :',
     },
   },
 } as const;
