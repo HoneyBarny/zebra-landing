@@ -260,7 +260,7 @@ Hilfreicher Hintergrund:
 - [NIH News in Health POTS erkennen](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
 - [NHLBI POTS Forschung](https://www.nhlbi.nih.gov/news/2021/decoding-mysteries-postural-orthostatic-tachycardia-syndrome)
 - [The Ehlers-Danlos Society Dysautonomie](https://www.ehlers-danlos.com/dysautonomia/)
-- [Studie zu Extremitätenverfärbung und autonomen Symptomen](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048065/)
+- [Studie zu Verfärbungen der Extremitäten bei Autonomiestörung (bei systemischer Sklerose, englisch)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048065/)
 
 ## Wo Zebra passt
 

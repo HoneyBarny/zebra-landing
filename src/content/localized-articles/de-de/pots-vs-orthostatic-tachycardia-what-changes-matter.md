@@ -80,7 +80,7 @@ Das bedeutet: Sie können orthostatische Tachykardie als Teil Ihres Verlaufs tra
 
 ## Was orthostatische Tachykardie beschreibt
 
-Orthostatische Tachykardie bedeutet meist, dass Ihre Herzfrequenz deutlich steigt, wenn Sie aufrecht werden.
+Orthostatische Tachykardie bedeutet meist, dass Ihre Herzfrequenz deutlich steigt, wenn Sie aufrecht werden. Der Konsens der Heart Rhythm Society nennt für POTS einen Anstieg von mindestens 30 Schlägen pro Minute beim Übergang vom Liegen zum Stehen, bei 12- bis 19-Jährigen 40, zusammen mit Symptomen ([HRS-Konsens 2015](https://doi.org/10.1016/j.hrthm.2015.03.029)). Die Einordnung macht Ihre Ärztin oder Ihr Arzt.
 
 Die nützliche Tracking-Frage lautet:
 
