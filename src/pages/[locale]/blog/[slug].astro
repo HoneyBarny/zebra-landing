@@ -45,7 +45,7 @@ const articlePath = localizedArticleUrl(locale, article.data.originalSlug);
 const canonical = new URL(articlePath, Astro.site).toString();
 
 const schema = [
-  getArticleSchema(article as unknown as ArticleEntry, canonical),
+  getArticleSchema(article as unknown as ArticleEntry, canonical, copy.home.locale.path),
   getBreadcrumbSchema([
     { name: copy.labels.home, item: copy.home.locale.path },
     { name: copy.labels.blog, item: `${copy.home.locale.path}blog/` },

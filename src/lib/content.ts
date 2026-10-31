@@ -7,6 +7,8 @@ import {
   entityMetaBySlug,
   knowledgeEntities,
 } from '../data/content-taxonomy';
+import { localizedEntityName } from '../data/locales/entity-translations';
+import { localeRoutes } from '../data/locales/shared';
 import { siteConfig } from '../data/site-config';
 
 export type ArticleEntry = CollectionEntry<'articles'>;
@@ -352,10 +354,18 @@ export function getBreadcrumbSchema(items: Array<{ name: string; item: string }>
   };
 }
 
-export function getArticleSchema(article: ArticleEntry, canonical: string) {
+const inLanguageByPath: Record<string, string> = {
+  '/': 'en',
+  [localeRoutes.deDe]: 'de',
+  [localeRoutes.esEs]: 'es',
+  [localeRoutes.frFr]: 'fr',
+};
+
+export function getArticleSchema(article: ArticleEntry, canonical: string, localePath = '/') {
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
+    inLanguage: inLanguageByPath[localePath] ?? 'en',
     headline: article.data.title,
     description: article.data.metaDescription,
     datePublished: article.data.publishedAt,
@@ -375,7 +385,7 @@ export function getArticleSchema(article: ArticleEntry, canonical: string) {
       },
     },
     mainEntityOfPage: canonical,
-    about: article.data.entities,
+    about: article.data.entities.map((name) => ({ '@type': 'Thing', name: localizedEntityName(name, localePath) })),
     keywords: [article.data.primaryKeyword, ...article.data.secondaryKeywords].join(', '),
   };
 }

@@ -1062,6 +1062,7 @@ export const homePage = {
     {
       '@context': 'https://schema.org',
       '@type': 'Organization',
+      '@id': `${siteConfig.siteUrl}#organization`,
       name: siteConfig.brand.name,
       url: siteConfig.siteUrl,
       logo: new URL(siteConfig.brand.logo.src, siteConfig.siteUrl).toString(),
@@ -1078,8 +1079,10 @@ export const homePage = {
     {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
+      '@id': `${siteConfig.siteUrl}#website`,
       name: siteConfig.brand.name,
       url: siteConfig.siteUrl,
+      publisher: { '@id': `${siteConfig.siteUrl}#organization` },
     },
     {
       '@context': 'https://schema.org',
@@ -1640,12 +1643,14 @@ export const homePageEnglish = {
     {
       '@context': 'https://schema.org',
       '@type': 'SoftwareApplication',
+      '@id': `${siteConfig.siteUrl}#app`,
       name: siteConfig.brand.productName,
       applicationCategory: 'HealthApplication',
       applicationSubCategory: 'Symptom tracker',
       operatingSystem: 'iOS',
       description:
         'Zebra is an iPhone symptom tracker for POTS, EDS, Fibromyalgia, and overlapping chronic illness. Check in quickly, see what changed over time, keep medication changes beside symptoms, record guided orthostatic tests, and prepare a 30-day summary for appointments.',
+      publisher: { '@id': `${siteConfig.siteUrl}#organization` },
       url: siteConfig.siteUrl,
       downloadUrl: siteConfig.appStore.url,
       installUrl: siteConfig.appStore.url,
@@ -1712,8 +1717,10 @@ export const homePageEnglish = {
     {
       '@context': 'https://schema.org',
       '@type': 'WebPage',
+      '@id': `${siteConfig.siteUrl}#webpage`,
       name: 'Zebra: symptom tracker app for POTS, EDS, and Fibromyalgia',
       url: siteConfig.siteUrl,
+      isPartOf: { '@id': `${siteConfig.siteUrl}#website` },
       description:
         'Zebra is an iPhone symptom tracker that helps people with chronic illness capture what happens, see what changed, and prepare for appointments.',
       about: [
