@@ -84,7 +84,9 @@ const {
     relatedReading: 'Related reading',
     keepExploring: 'Keep exploring',
     sources: 'Sources',
-    sourcesNote: 'General information, not medical advice. Sources behind this guide:',
+    sourcesNote: 'General information, not medical advice.',
+    sourcesInGuide: 'Sources in this guide',
+    generalSources: 'General sources behind Zebra’s research',
   },
 } = Astro.props;
 
@@ -93,6 +95,19 @@ const alternates = articleAlternatesFor(
   await publishedLocalesByOriginal(),
 );
 const tocHeadings = headings.filter((heading) => heading.depth <= 2);
+
+// Links the guide itself cites, shown at the end so each guide names where its information came from.
+// Our own pages and the App Store link are not sources; a few links were checked and found broken.
+const brokenLinks = new Set(['https://www.ehlers-danlos.com/2014-physicians-conference/Pocinki.pdf']);
+const guideSources = (() => {
+  const seen = new Map<string, string>();
+  for (const match of article.body.matchAll(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g)) {
+    const [, label, url] = match;
+    if (brokenLinks.has(url) || url.includes('apps.apple.com') || url.includes('zebratracker.app')) continue;
+    if (!seen.has(url)) seen.set(url, label.replace(/\s+/g, ' ').trim());
+  }
+  return [...seen.entries()].map(([url, label]) => ({ url, label }));
+})();
 const dateLocale = lang === 'de-DE' ? 'de-DE' : lang === 'es-ES' ? 'es-ES' : lang === 'fr-FR' ? 'fr-FR' : 'en-US';
 const seoTitle = article.data.seoTitle.length > 60
   ? article.data.seoTitle.replace(/\s+\|\s+Zebra$/, '')
@@ -216,6 +231,17 @@ const seoTitle = article.data.seoTitle.length > 60
       <section class="section article-shell article-sources" aria-labelledby="article-sources-heading">
         <h2 id="article-sources-heading">{labels.sources}</h2>
         <p>{labels.sourcesNote}</p>
+        {guideSources.length > 0 && (
+          <>
+            <h3>{labels.sourcesInGuide}</h3>
+            <ul>
+              {guideSources.map((source) => (
+                <li><a href={source.url} rel="noopener noreferrer" target="_blank">{source.label}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+        <h3>{labels.generalSources}</h3>
         <ul>
           {articleSources.map((source) => (
             <li><a href={source.url} rel="noopener noreferrer" target="_blank">{source.label}</a></li>

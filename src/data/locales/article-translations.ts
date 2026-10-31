@@ -30,7 +30,9 @@ export const articleLocaleCopy = {
       relatedReading: 'Verwandte Ratgeber',
       keepExploring: 'Weiterlesen',
       sources: 'Quellen',
-      sourcesNote: 'Allgemeine Informationen, keine medizinische Beratung. Quellen zu diesem Ratgeber:',
+      sourcesNote: 'Allgemeine Informationen, keine medizinische Beratung.',
+      sourcesInGuide: 'Quellen in diesem Ratgeber',
+      generalSources: 'Allgemeine Quellen der Zebra-Recherche',
     },
   },
   'es-es': {
@@ -50,7 +52,9 @@ export const articleLocaleCopy = {
       relatedReading: 'Guías relacionadas',
       keepExploring: 'Sigue explorando',
       sources: 'Fuentes',
-      sourcesNote: 'Información general, no es consejo médico. Fuentes de esta guía:',
+      sourcesNote: 'Información general, no es consejo médico.',
+      sourcesInGuide: 'Fuentes de esta guía',
+      generalSources: 'Fuentes generales de la investigación de Zebra',
     },
   },
   'fr-fr': {
@@ -71,7 +75,9 @@ export const articleLocaleCopy = {
       relatedReading: 'Guides associes',
       keepExploring: 'Continuer',
       sources: 'Sources',
-      sourcesNote: 'Informations générales, pas un avis médical. Sources de ce guide :',
+      sourcesNote: 'Informations générales, pas un avis médical.',
+      sourcesInGuide: 'Sources de ce guide',
+      generalSources: 'Sources générales de la recherche Zebra',
     },
   },
 } as const;
