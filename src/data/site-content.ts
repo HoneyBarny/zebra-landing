@@ -1186,6 +1186,26 @@ const faqItemsEnglish = [
       'Yes. A guided test times lying, standing, and recovery stages. You can type your readings or use heart rate from Apple Health, and you can stop at any point. Zebra records the numbers and does not interpret them.',
   },
   {
+    question: 'Can I test for POTS at home?',
+    answer:
+      'Not as a diagnosis. You can record heart rate and blood pressure lying and standing, with symptoms and context, to bring to your clinician. POTS is diagnosed by a clinician. Zebra records your readings but does not interpret them.',
+  },
+  {
+    question: 'What should I bring to my appointment?',
+    answer:
+      'A short, dated summary: your main symptoms and how often they happen, medication changes, the questions you want to ask, and examples of what they stopped you doing. Zebra prepares this from your entries. It cannot make a clinician listen, but it gives you something clear to bring.',
+  },
+  {
+    question: 'Which tracker covers POTS, EDS and fibromyalgia?',
+    answer:
+      'Zebra is built for POTS, EDS and fibromyalgia together, so one timeline holds symptoms, flares, medication changes, salt and water, and orthostatic readings. Compare trackers on what each one includes before you choose.',
+  },
+  {
+    question: 'How do I describe my pain to a doctor?',
+    answer:
+      'Say where the pain is, what it feels like in your own words, how strong it is on a 0 to 10 scale, when it happens, and what it stops you doing. Zebra lets you record these in one short entry, so you have the words ready at the appointment.',
+  },
+  {
     question: 'Is Zebra free? What does Premium add?',
     answer:
       'Tracking, the Prepare tab, the in-app preview of your 30-day summary, and CSV export are free. In Understand, the free view covers the last 30 days. Premium adds PDF export of your summary, history beyond 30 days in Understand, pattern comparison, and insight history. It is available monthly, yearly, or as a one-time purchase.',
