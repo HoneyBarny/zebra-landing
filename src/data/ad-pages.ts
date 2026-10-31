@@ -111,7 +111,7 @@ export const appPage = {
     pointsLabel: en.finalCta.pointsLabel,
     endState: en.finalCta.endState,
     trustLine:
-      'Free to track. Premium is $4.99 a month or $39.99 a year. No Zebra health-data server. Not medical advice.',
+      'Free to track. Premium is $4.99 a month, $39.99 a year, or $59.99 once. No Zebra health-data server. Not medical advice.',
   },
   mobileStickyCta: {
     label: en.mobileStickyCta.label,

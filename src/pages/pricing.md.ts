@@ -17,7 +17,7 @@ Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 
 ## Premium
 
-- $4.99/month or $39.99/year
+- $4.99/month, $39.99/year, or $59.99 once (lifetime, no renewal)
 - Longer history views (90-day and 6-month)
 - Doctor-ready PDF report export
 - The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing
