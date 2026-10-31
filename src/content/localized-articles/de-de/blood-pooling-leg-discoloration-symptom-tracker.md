@@ -83,7 +83,7 @@ Ein Blood-Pooling-Symptomtracker diagnostiziert keine Erkrankung. Er hilft, ein 
 
 ## Was ist Blood Pooling, und was tun Sie jetzt?
 
-**Kurz gesagt:** Blood Pooling heisst auf Deutsch etwa „Versacken“ oder Ansammeln von Blut in den Beinen beim Stehen. Die [Cleveland Clinic (englisch)](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) nennt eine violette Verfärbung von Händen und Füßen als mögliches POTS-Symptom. Ob und wie es bei Ihnen zutrifft, klärt Ihr Arzt. Bis dahin hilft eine kurze Notiz: wo die Verfärbung ist, wie lange Sie gestanden haben und welche Symptome gleichzeitig auftraten. Zebra kann diese Notizen in einer Zeitleiste halten.
+**Kurz gesagt:** Beim Blood Pooling sammelt sich Blut beim Stehen in den Beinen. Die [Cleveland Clinic (englisch)](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) nennt eine violette Verfärbung von Händen und Füßen als mögliches POTS-Symptom. Ob und wie es bei Ihnen zutrifft, klärt Ihr Arzt. Bis dahin hilft eine kurze Notiz: wo die Verfärbung ist, wie lange Sie gestanden haben und welche Symptome gleichzeitig auftraten. Zebra kann diese Notizen in einer Zeitleiste halten.
 
 ## Mit Position und Stehzeit beginnen
 
