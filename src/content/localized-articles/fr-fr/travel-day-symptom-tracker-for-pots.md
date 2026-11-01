@@ -50,7 +50,7 @@ entities:
   - "Fatigue"
   - "Hydratation"
   - "Sel"
-  - "Vetements de compression"
+  - "Vêtements de compression"
   - "Suivi des médicaments"
   - "Impact fonctionnel"
   - "Rapport pret pour le médecin"

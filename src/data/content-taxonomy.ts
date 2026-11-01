@@ -415,9 +415,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'hydration',
     name: 'Hydration',
-    summary: 'A daily-management hub for water intake, fluid consistency, and why it helps to keep those changes in the same timeline as symptoms.',
+    summary: 'The fluids you drink across the day.',
     definition:
-      'Hydration is a Zebra knowledge page for tracking fluids as part of the same symptom story instead of as a separate habit app.',
+      'Hydration means the fluids you drink across the day. Cleveland Clinic includes fluids in its general guidance for POTS. The right target is individual, and you set it with your clinician. Zebra tracks water against your own target.',
     entityType: 'support',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'doctor-reports'],
     hubSection: 'daily-management',
@@ -426,9 +426,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'salt-loading',
     name: 'Salt Loading',
-    summary: 'A daily-management hub for recording salt changes alongside symptoms, flares, and upright context.',
+    summary: 'More salt as part of a care plan. Not right for everyone.',
     definition:
-      'Salt loading is a Zebra knowledge page about capturing salt intake as context that may matter to symptoms, flares, and doctor discussions.',
+      'Salt loading means eating more salt as part of a care plan. Cleveland Clinic says a provider may suggest more fluid and salt for the hypovolemic form of POTS. Some people need to limit salt because of other conditions. Zebra tracks salt against your own target.',
     entityType: 'support',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'doctor-reports'],
     hubSection: 'daily-management',
@@ -437,9 +437,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'compression-garments',
     name: 'Compression Garments',
-    summary: 'A support-page hub for documenting when compression is used and whether it changes symptoms or function.',
+    summary: 'Tight-fitting socks, tights, leggings or abdominal binders.',
     definition:
-      'Compression garments is a Zebra knowledge page for documenting support strategies in the same timeline as symptom changes and daily function.',
+      'Compression garments are tight-fitting socks, tights, leggings or abdominal binders. Cleveland Clinic says compression therapy can help push blood up from the legs to help reduce POTS symptoms. The type and strength are a choice to make with your clinician. Zebra helps you note when you wore compression and how the day went.',
     entityType: 'support',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking'],
     hubSection: 'daily-management',
@@ -448,9 +448,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'medication-tracking',
     name: 'Medication Tracking',
-    summary: 'A workflow hub for keeping medicines, dose changes, and timing connected to symptom and function history.',
+    summary: 'What you take, when, at what dose, and what changed.',
     definition:
-      'Medication tracking is a Zebra workflow page for recording what changed, when it changed, and what symptoms or functional shifts happened around that window.',
+      'Medication tracking means recording what you take, the dose and the time, along with changes and side effects. It helps a clinician see whether a change lined up with how you felt. Zebra keeps doses and changes on the same timeline as your symptoms.',
     entityType: 'workflow',
     clusters: ['symptom-tracking', 'appointment-preparation', 'doctor-reports'],
     hubSection: 'medication-tracking',
@@ -460,9 +460,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'flare',
     name: 'Flare',
-    summary: 'A worsening period or spike in symptoms that is useful to track as a pattern instead of relying on memory later.',
+    summary: 'A period when symptoms get worse than usual, then ease.',
     definition:
-      'A flare page in Zebra focuses on what changed, how long it lasted, what else was happening, and how it affected daily function or follow-up questions.',
+      'A flare is a period when symptoms get worse than usual, then ease. How long it lasts and what it costs varies. Zebra helps you record when it started, what else was happening and how it affected your day.',
     entityType: 'symptom',
     clusters: ['symptom-tracking', 'appointment-preparation', 'fibromyalgia', 'long-covid', 'me-cfs'],
     hubSection: 'symptoms',
@@ -471,9 +471,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'baseline-symptoms',
     name: 'Baseline Symptoms',
-    summary: 'A workflow page for writing down what is normal for you before a flare, medication change, or doctor visit makes the details harder to remember.',
+    summary: 'Your usual symptoms on a typical day.',
     definition:
-      'Baseline symptoms is a Zebra workflow page for separating your usual symptom pattern from what has newly changed, worsened, or started happening more often before an appointment.',
+      'Baseline symptoms are your usual symptoms on a typical day. Your baseline can change over time. Knowing it makes it easier to see what is new or worse. Zebra compares your recent weeks with the weeks before.',
     entityType: 'workflow',
     clusters: ['symptom-tracking', 'appointment-preparation'],
     hubSection: 'doctor-visits',
@@ -503,9 +503,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'trigger',
     name: 'Trigger',
-    summary: 'A workflow page for noting heat, activity, stress, meals, poor sleep, or other context that may show up around symptoms.',
+    summary: 'Something that often comes before symptoms get worse, such as heat, standing or a meal.',
     definition:
-      'Trigger is a Zebra workflow page for keeping context attached to symptoms without over-claiming causation.',
+      'A trigger is something that seems to come before symptoms get worse, such as heat, standing, a meal, poor sleep or stress. Coming before is not the same as causing. Zebra shows patterns in your own records and tells you when it cannot see a clear one yet.',
     entityType: 'workflow',
     clusters: ['symptom-tracking', 'doctor-reports'],
     hubSection: 'daily-management',
@@ -514,9 +514,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'symptom-severity',
     name: 'Symptom Severity',
-    summary: 'A workflow page for recording how strong or disruptive something felt without turning tracking into homework.',
+    summary: 'How strong a symptom is, and what it cost you.',
     definition:
-      'Symptom severity is a Zebra workflow page for documenting whether something was mild, moderate, severe, new, or disruptive enough to matter later.',
+      'Symptom severity is how strong a symptom is. Zebra uses a 1 to 10 scale for flares and lets you add what the symptom stopped you doing, because a number alone can hide the impact.',
     entityType: 'workflow',
     clusters: ['symptom-tracking', 'doctor-reports'],
     hubSection: 'daily-management',
@@ -525,9 +525,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'quality-of-life',
     name: 'Quality of Life',
-    summary: 'A function-focused page for how symptoms change work, errands, sleep, concentration, social life, or routine tasks.',
+    summary: 'How you see your position in life, measured against your goals and values.',
     definition:
-      'Quality of life is a Zebra entity page for the practical impact symptoms have on daily living, not only the symptom names themselves.',
+      'Quality of life is, in the WHO definition, a person’s perception of their position in life, in the context of their culture and values and in relation to their goals, expectations, standards and concerns. In chronic illness, symptoms can change it from day to day. Zebra helps you record the practical effect of symptoms on your day.',
     entityType: 'support',
     clusters: ['symptom-tracking', 'appointment-preparation', 'fibromyalgia', 'me-cfs', 'long-covid'],
     hubSection: 'doctor-visits',
@@ -536,9 +536,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'activities-of-daily-living',
     name: 'Activities of Daily Living',
-    summary: 'A function page for tracking what symptoms changed in basic routines, movement, concentration, and daily independence.',
+    summary: 'Everyday tasks such as eating, bathing, dressing and moving around.',
     definition:
-      'Activities of daily living is a Zebra knowledge page for the practical routine tasks that symptoms can disrupt, especially when that impact is easy to forget later.',
+      'Activities of daily living are tasks we do to stay alive and well, such as eating, bathing, dressing and moving from place to place, according to Cleveland Clinic. Instrumental activities include preparing meals, shopping and managing money. Recording what symptoms stopped you doing shows a clinician what they cost. Zebra helps you record what you could and could not do.',
     entityType: 'support',
     clusters: ['symptom-tracking', 'appointment-preparation', 'me-cfs', 'long-covid', 'fibromyalgia'],
     hubSection: 'doctor-visits',
@@ -593,9 +593,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'invisible-illness',
     name: 'Invisible Illness',
-    summary: 'Conditions and symptoms that are real but not always obvious to other people, which often makes documentation and explanation more important.',
+    summary: 'A serious illness whose symptoms other people cannot see.',
     definition:
-      'Invisible illness is a Zebra context page for why lived symptoms can be hard to communicate, validate, and summarize clearly in everyday care settings.',
+      'An invisible illness is a serious illness whose symptoms are not obvious to other people, such as pain, fatigue or dizziness. Because others cannot see it, it can be hard to explain. Zebra helps you keep a dated record you can show.',
     entityType: 'support',
     clusters: ['symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',

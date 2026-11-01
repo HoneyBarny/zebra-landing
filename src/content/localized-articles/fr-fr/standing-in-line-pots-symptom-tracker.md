@@ -49,7 +49,7 @@ entities:
   - "Fatigue"
   - "Hydratation"
   - "Sel"
-  - "Vetements de compression"
+  - "Vêtements de compression"
   - "Impact fonctionnel"
   - "Rapport pret pour le médecin"
 secondaryKeywords:
