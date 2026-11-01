@@ -172,9 +172,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'pots',
     name: 'POTS',
-    summary: 'A central Zebra condition hub for upright symptoms, orthostatic changes, daily tracking, and specialist appointment prep.',
+    summary: 'Heart rate rises sharply on standing, often with dizziness or palpitations. Zebra helps you keep a record of that pattern.',
     definition:
-      'POTS is one of Zebra’s core condition hubs. On Zebra, it usually connects symptom tracking, orthostatic context, hydration and salt changes, daily function, and the need for a clearer appointment-ready record.',
+      'POTS (postural orthostatic tachycardia syndrome) is a condition in which heart rate rises sharply on standing, with symptoms such as dizziness, palpitations or fatigue. The Heart Rhythm Society consensus uses a rise of at least 30 beats per minute from lying to standing, or 40 for ages 12 to 19, together with symptoms. A clinician makes the diagnosis. Zebra keeps your own observations over time.',
     entityType: 'condition',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -184,9 +184,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'dysautonomia',
     name: 'Dysautonomia',
-    summary: 'A broad autonomic-nervous-system hub for orthostatic symptoms, upright intolerance, and related daily-tracking workflows.',
+    summary: 'A disorder of the autonomic nervous system, which runs automatic body processes such as heart rate and blood pressure.',
     definition:
-      'Dysautonomia is a broad umbrella term for autonomic-nervous-system dysfunction. In Zebra it acts as a cluster hub for orthostatic symptoms, heart-rate changes, flares, and appointment preparation.',
+      'Dysautonomia is a nervous system disorder that disrupts autonomic body processes, according to Cleveland Clinic. These are processes the body runs without conscious control, such as heart rate and blood pressure. POTS is one form. A clinician makes the diagnosis. Zebra helps you keep symptoms, position changes and appointment notes in one timeline.',
     entityType: 'condition',
     clusters: ['dysautonomia', 'pots', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -220,9 +220,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'fibromyalgia',
     name: 'Fibromyalgia',
-    summary: 'A condition hub for pain, fatigue, flare patterns, and the challenge of summarizing changes clearly over time.',
+    summary: 'A long-lasting condition with pain all over the body, fatigue and other symptoms.',
     definition:
-      'Fibromyalgia is one of Zebra’s overlap condition hubs. The page connects fatigue, flares, daily-function change, and the need for a usable long-term symptom history.',
+      'Fibromyalgia is a chronic condition that causes pain all over the body, fatigue and other symptoms, according to MedlinePlus. A clinician makes the diagnosis. Zebra helps you keep pain, flares and daily function in one record for appointments.',
     entityType: 'condition',
     clusters: ['fibromyalgia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -232,9 +232,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'long-covid',
     name: 'Long COVID',
-    summary: 'A condition hub for fatigue, dizziness, post-exertional worsening, orthostatic symptoms, and care-conversation prep.',
+    summary: 'A chronic condition after a COVID-19 infection that lasts at least 3 months.',
     definition:
-      'Long COVID is a Zebra knowledge-hub condition page for tracking persistent symptoms, energy limits, orthostatic changes, and the context needed for follow-up care.',
+      'Long COVID is a chronic condition that occurs after a SARS-CoV-2 infection and is present for at least 3 months, according to the CDC. A clinician makes the diagnosis. Zebra helps you keep symptoms, energy limits and changes over time in one record.',
     entityType: 'condition',
     clusters: ['long-covid', 'me-cfs', 'dysautonomia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -244,9 +244,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'me-cfs',
     name: 'ME/CFS',
-    summary: 'A condition hub for post-exertional malaise, fatigue, function limits, and low-friction symptom history.',
+    summary: 'A serious, often long-lasting illness that keeps people from their usual activities.',
     definition:
-      'ME/CFS is a Zebra condition hub for post-exertional worsening, fatigue, cognitive symptoms, and the need to preserve a usable health history even on low-energy days.',
+      'ME/CFS (myalgic encephalomyelitis/chronic fatigue syndrome) is a serious and often long-lasting illness that keeps people from doing their usual activities, according to the CDC. The CDC lists worsening after even minor exertion, called post-exertional malaise, as a main symptom. A clinician makes the diagnosis. Zebra helps you keep symptoms, activity and recovery in one record.',
     entityType: 'condition',
     clusters: ['me-cfs', 'long-covid', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -267,9 +267,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'brain-fog',
     name: 'Brain Fog',
-    summary: 'Cognitive symptoms such as slowed thinking, memory gaps, and reduced recall that can make tracking and appointments harder.',
+    summary: 'Symptoms that affect how you think, remember and concentrate.',
     definition:
-      'Brain fog is a symptom hub for slowed thinking, recall problems, and the difficulty of reconstructing a month clearly at appointment time.',
+      'Brain fog is a common group of symptoms that affect how you think, remember and concentrate, according to Cleveland Clinic. It can last days, weeks or longer. It is not a diagnosis on its own. Zebra keeps check-ins short so you can still record a day when thinking is hard.',
     entityType: 'symptom',
     clusters: ['symptom-tracking', 'appointment-preparation', 'me-cfs', 'long-covid', 'fibromyalgia'],
     hubSection: 'symptoms',
@@ -279,9 +279,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'fatigue',
     name: 'Fatigue',
-    summary: 'A core symptom hub for low energy, stamina limits, and the practical challenge of tracking enough without creating more work.',
+    summary: 'A feeling of weariness, tiredness or lack of energy.',
     definition:
-      'Fatigue is one of Zebra’s cornerstone symptom pages. It covers energy-limited tracking, function changes, and why consistency has to stay realistic on bad days.',
+      'Fatigue is a feeling of weariness, tiredness or lack of energy, according to MedlinePlus. In chronic illness it can limit what you can do in a day. Zebra helps you record fatigue next to daily function, so a clinician can see what it cost.',
     entityType: 'symptom',
     clusters: ['fatigue', 'symptom-tracking', 'fibromyalgia', 'long-covid', 'me-cfs', 'pots'],
     hubSection: 'symptoms',
@@ -291,9 +291,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'dizziness',
     name: 'Dizziness',
-    summary: 'A symptom hub for dizziness patterns, upright worsening, and the context that helps those episodes make more sense later.',
+    summary: 'A word for two symptoms: lightheadedness or vertigo.',
     definition:
-      'Dizziness is a Zebra symptom page for recording when it happens, what position or trigger context matters, and how it affects function or appointments.',
+      'Dizziness usually describes one of two symptoms, according to MedlinePlus: lightheadedness, a feeling that you might faint, or vertigo, a feeling that you or the room are spinning. Noting which one, and your position when it starts, helps a clinician. Zebra helps you record it with position and timing.',
     entityType: 'symptom',
     clusters: ['pots', 'dysautonomia', 'long-covid', 'symptom-tracking'],
     hubSection: 'symptoms',
@@ -303,9 +303,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'lightheadedness',
     name: 'Lightheadedness',
-    summary: 'A symptom hub for floaty, faint, or unstable upright feelings that often need position-linked context to stay useful.',
+    summary: 'A feeling that you might faint.',
     definition:
-      'Lightheadedness is an upright-symptom knowledge page for tracking position changes, timing, and surrounding context rather than only writing down the word itself.',
+      'Lightheadedness is a feeling that you might faint, according to MedlinePlus. It is different from vertigo, the feeling of spinning. In orthostatic conditions it often starts on standing. Zebra helps you record when it happens and what position you were in.',
     entityType: 'symptom',
     clusters: ['pots', 'dysautonomia', 'long-covid', 'symptom-tracking'],
     hubSection: 'symptoms',
@@ -314,9 +314,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'syncope',
     name: 'Syncope',
-    summary: 'A symptom hub for fainting episodes and near-faint context that is important to preserve clearly and cautiously.',
+    summary: 'The medical name for fainting.',
     definition:
-      'Syncope is a knowledge page for documenting fainting or near-faint episodes with timing, activity, upright context, and follow-up questions for care visits.',
+      'Syncope is the medical name for fainting: a brief loss of consciousness due to a drop in blood flow to the brain, according to MedlinePlus. A clinician should assess fainting. Zebra helps you record what happened before and after.',
     entityType: 'symptom',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'symptoms',
@@ -325,9 +325,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'tachycardia',
     name: 'Tachycardia',
-    summary: 'A symptom and measurement hub for fast heart-rate episodes, timing, and what else was happening around them.',
+    summary: 'A fast heart rate of more than 100 beats per minute at rest.',
     definition:
-      'Tachycardia is a Zebra entity page for documenting fast heart-rate episodes in context rather than as isolated numbers.',
+      'Tachycardia is a fast heart rate of more than 100 beats per minute at rest, according to Cleveland Clinic. A typical resting rate is 60 to 100. A clinician decides what a fast rate means for you. Zebra helps you record when it happens and what was going on.',
     entityType: 'measurement',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'testing',
@@ -336,9 +336,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'palpitations',
     name: 'Palpitations',
-    summary: 'A symptom hub for skipped, pounding, or fluttering heart sensations that benefit from timing and context rather than memory alone.',
+    summary: 'Heartbeats that feel pounding, fluttering or irregular.',
     definition:
-      'Palpitations is a Zebra symptom page for tracking how heart sensations show up, what else happened around them, and how they affect daily function or questions for care.',
+      'Heart palpitations can feel like pounding, flip-flopping or the wrong number of heartbeats, according to Cleveland Clinic. They usually last a few seconds or minutes. Zebra helps you record when they happen, your position and what you were doing.',
     entityType: 'symptom',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'symptoms',
@@ -347,9 +347,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'exercise-intolerance',
     name: 'Exercise Intolerance',
-    summary: 'A symptom hub for activity-linked worsening, stamina limits, and what happens after exertion.',
+    summary: 'A limited ability to do physical activity.',
     definition:
-      'Exercise intolerance is a knowledge page for recording how activity affects symptoms, stamina, recovery, and later function.',
+      'Exercise intolerance is a limited ability to do physical activity compared with what is usual for your age, according to Cleveland Clinic. Zebra does not set activity goals. It helps you record activity, symptoms and recovery, so a clinician can see the pattern.',
     entityType: 'symptom',
     clusters: ['pots', 'long-covid', 'me-cfs', 'fibromyalgia', 'symptom-tracking'],
     hubSection: 'symptoms',
@@ -358,9 +358,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'pem',
     name: 'PEM',
-    summary: 'A symptom hub for post-exertional worsening, delayed crashes, and the need to track recovery context over time.',
+    summary: 'A worsening of symptoms after exertion, often 12 to 48 hours later.',
     definition:
-      'PEM, or post-exertional malaise, is a Zebra knowledge page for delayed worsening after activity, including how to capture the trigger, delay, severity, and recovery window.',
+      'Post-exertional malaise (PEM) is a worsening of symptoms after even minor physical or mental exertion that would have been tolerated before, according to the CDC. Symptoms typically worsen 12 to 48 hours after activity and can last days or weeks. Zebra looks at the next day and 2 to 3 days later, not only the same day.',
     entityType: 'symptom',
     clusters: ['me-cfs', 'long-covid', 'symptom-tracking'],
     hubSection: 'symptoms',
@@ -369,9 +369,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'orthostatic-intolerance',
     name: 'Orthostatic Intolerance',
-    summary: 'Symptoms that worsen when upright and often improve when lying down, making position-linked tracking especially useful.',
+    summary: 'Symptoms that start when you sit up or stand and often ease when you lie down. Recording position helps.',
     definition:
-      'Orthostatic intolerance is a Zebra entity page for symptoms that change with position, especially when upright context matters more than one isolated reading.',
+      'Orthostatic intolerance describes symptoms that start when you stand up or stand for a long time and often ease when you lie down, such as dizziness, palpitations or weakness. It is not the same as POTS or a drop in blood pressure, although they can occur together. A clinician makes the assessment. Zebra helps you record the symptoms with position, timing and context.',
     entityType: 'condition',
     clusters: ['pots', 'dysautonomia', 'long-covid', 'symptom-tracking'],
     hubSection: 'testing',
@@ -381,9 +381,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'orthostatic-test',
     name: 'Orthostatic Test',
-    summary: 'A guided way to record lying, standing, and recovery observations so position-based changes stay connected to the rest of the day.',
+    summary: 'A guided way to record observations lying down, standing and while you recover, so position changes stay linked to the day.',
     definition:
-      'The orthostatic test page explains Zebra’s guided lying, standing, and recovery workflow and why position-based observations are more useful when saved in the same timeline as symptoms and notes.',
+      'An orthostatic test measures heart rate and blood pressure lying down and after standing up, usually at set times. Clinicians use tests such as the tilt table test or the active stand test. Zebra does not run a medical test. It helps you note your own observations lying down, standing and while you recover, so they are clear at your appointment.',
     entityType: 'measurement',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking', 'doctor-reports'],
     hubSection: 'testing',
@@ -393,9 +393,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'orthostatic-hypotension',
     name: 'Orthostatic Hypotension',
-    summary: 'A knowledge page for blood-pressure drops with position change and the value of documenting them in context.',
+    summary: 'A drop in blood pressure on standing that can cause dizziness. Zebra helps you keep readings with their context.',
     definition:
-      'Orthostatic hypotension is a Zebra entity page for position-linked blood-pressure drops and the surrounding symptom context that makes those observations easier to review later.',
+      'Orthostatic hypotension is a sustained drop in blood pressure on standing: systolic falls by at least 20 mm Hg or diastolic by at least 10 mm Hg within 3 minutes. That is the definition in the American Society of Hypertension position paper. A clinician makes the assessment. Zebra keeps your readings with symptoms and daily context.',
     entityType: 'measurement',
     clusters: ['dysautonomia', 'pots', 'symptom-tracking'],
     hubSection: 'testing',
@@ -404,9 +404,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'orthostatic-tachycardia',
     name: 'Orthostatic Tachycardia',
-    summary: 'A knowledge page for heart-rate increases tied to position change and the context needed to interpret them later.',
+    summary: 'A rise in heart rate when moving from lying down to standing.',
     definition:
-      'Orthostatic tachycardia is a Zebra entity page for position-linked heart-rate change, including how it fits with symptoms, activity, and appointment preparation.',
+      'Orthostatic tachycardia is a rise in heart rate on standing. A sustained, large rise with symptoms is part of the POTS criteria: the Heart Rhythm Society consensus uses at least 30 beats per minute in adults and 40 for ages 12 to 19. A rise on its own is not a diagnosis. Zebra helps you record heart rate by position with symptoms and context.',
     entityType: 'measurement',
     clusters: ['pots', 'dysautonomia', 'symptom-tracking'],
     hubSection: 'testing',
