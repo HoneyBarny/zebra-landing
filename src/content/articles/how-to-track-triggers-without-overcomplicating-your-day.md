@@ -190,12 +190,13 @@ That is still enough to add to the pattern over time.
 
 Zebra keeps a short, consistent set of context alongside your symptoms, so a pattern can surface without asking you to track everything.
 
-Instead of an open-ended list, Zebra can help you track:
+Instead of an open-ended list, Zebra's daily check-in has quick tags for:
 
-- position and standing time
-- sleep quality
-- activity and exertion
+- common triggers such as heat, poor sleep, stress, dehydration and exertion
+- everyday moments such as standing in line, a shower, kitchen heat, shopping or a meal
 - flares and symptoms, with functional impact
+
+The guided orthostatic test separately records your heart rate lying down, standing and while you recover.
 
 and shows repetition as an observation, described in plain terms like how often something showed up together, rather than as a confirmed cause. Zebra does not tell you what triggered your symptoms or predict future flares. It helps you keep the same short list of context day after day, so that if a pattern exists, it has a chance to become visible.
 

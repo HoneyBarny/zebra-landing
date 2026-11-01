@@ -190,12 +190,13 @@ Das reicht, um dem Muster über die Zeit etwas hinzuzufügen.
 
 Zebra hält eine kurze, gleichbleibende Auswahl an Kontext neben Ihren Symptomen, sodass ein Muster sichtbar werden kann, ohne dass Sie alles erfassen müssen.
 
-Statt einer offenen Liste kann Zebra für Sie erfassen:
+Statt einer offenen Liste bietet der tägliche Check-in in Zebra schnelle Markierungen für:
 
-- Haltung und Stehdauer
-- Schlafqualität
-- Aktivität und Belastung
+- häufige Auslöser wie Hitze, schlechten Schlaf, Stress, Flüssigkeitsmangel und Belastung
+- Alltagsmomente wie Schlangestehen, eine Dusche, Hitze in der Küche, Einkaufen oder eine Mahlzeit
 - Schübe und Symptome mit Auswirkungen im Alltag
+
+Der geführte orthostatische Test erfasst zusätzlich Ihre Herzfrequenz im Liegen, im Stehen und in der Erholung.
 
 Wiederholungen zeigt Zebra als Beobachtung in einfachen Worten, etwa wie oft etwas zusammen auftrat, nicht als bestätigte Ursache. Zebra sagt Ihnen nicht, was Ihre Symptome ausgelöst hat, und sagt keine künftigen Schübe voraus. Die App hilft Ihnen, dieselbe kurze Liste von Kontext Tag für Tag zu führen, damit ein Muster, falls es existiert, die Chance hat, sichtbar zu werden.
 
