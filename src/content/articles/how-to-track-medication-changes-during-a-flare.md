@@ -148,6 +148,8 @@ Before a visit, pull out:
 
 This can become part of a [doctor-ready symptom report](/blog/what-is-a-doctor-ready-symptom-report/).
 
+For a wider routine outside flares, including side effects and as-needed medicine, see [how to track medications and side effects](/blog/how-to-track-medications-and-side-effects-for-chronic-illness/).
+
 ## Where Zebra fits
 
 Zebra keeps medications, symptoms, flares, notes, and appointment questions in one timeline so medication context does not get separated from the rest of your health history.
