@@ -256,9 +256,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'mcas',
     name: 'MCAS',
-    summary: 'An overlap-condition knowledge page for fluctuating symptom patterns, triggers, and context that is often hard to reconstruct later.',
+    summary: 'Episodes in which mast cells release chemicals that cause symptoms such as flushing, hives, itching, headaches or stomach problems.',
     definition:
-      'MCAS is included in Zebra’s entity graph as an overlap condition where timing, triggers, flares, and symptom context often matter as much as the symptom list itself.',
+      'Mast cell activation syndrome (MCAS) describes repeated episodes in which mast cells release chemicals, called mediators, that cause symptoms such as flushing, itching, hives, headaches, digestive problems and sometimes low blood pressure, according to The Mast Cell Disease Society. For a diagnosis, symptoms have to involve two or more organ systems at the same time, keep happening, and not be explained by another condition. A clinician makes the diagnosis. Zebra helps you record each episode with its timing and possible triggers.',
     entityType: 'condition',
     clusters: ['dysautonomia', 'symptom-tracking'],
     hubSection: 'overlap',
