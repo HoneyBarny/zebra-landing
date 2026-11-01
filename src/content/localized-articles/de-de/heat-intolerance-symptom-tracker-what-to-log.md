@@ -199,6 +199,8 @@ Schreiben Sie Kontext wie:
 
 Diese Sprache vermeidet, Hitze als einzige Ursache zu behandeln.
 
+Eine kurze Liste mit weiterem Kontext, den Sie neben Hitze notieren können, finden Sie im Leitfaden, [wie Sie Auslöser erfassen, ohne den Tag zu verkomplizieren](/de-de/blog/how-to-track-triggers-without-overcomplicating-your-day/).
+
 ## Erholung und Funktionsauswirkung erfassen
 
 Erholung gehört zur Geschichte.

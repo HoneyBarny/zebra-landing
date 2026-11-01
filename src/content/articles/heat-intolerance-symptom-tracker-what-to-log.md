@@ -191,6 +191,8 @@ Write possible context like:
 
 This wording avoids treating heat as the only cause when several factors may have combined.
 
+For a short list of the other context worth noting alongside heat, see [how to track triggers without overcomplicating your day](/blog/how-to-track-triggers-without-overcomplicating-your-day/).
+
 ## Record recovery and functional impact
 
 Recovery is part of the story.
