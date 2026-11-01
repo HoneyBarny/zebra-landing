@@ -82,7 +82,7 @@ If you want one place to keep those follow-up notes, Zebra's [orthostatic vitals
 
 **Short answer:** book the follow-up visit with the clinician who ordered the test. Bring the exact wording of the report, the symptoms you noticed when you stood up, and the medicines, salt and fluids you were taking.
 
-The next step is a follow-up visit with the clinician who ordered the test. They decide what the result means and what to do next. Before that visit, write down three things: the exact wording of the report, the symptoms you noticed when you stood up, and the medicines, salt and fluids you were taking. Zebra can keep these notes in one timeline so you can bring them with you.
+The next step is a follow-up visit with the clinician who ordered the test. They decide what the result means and what to do next, as described in the [Cleveland Clinic guide to the tilt table test](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test). Before that visit, write down three things: the exact wording of the report, the symptoms you noticed when you stood up, and the medicines, salt and fluids you were taking. Zebra can keep these notes in one timeline so you can bring them with you.
 
 ## Start with what the report actually said
 
