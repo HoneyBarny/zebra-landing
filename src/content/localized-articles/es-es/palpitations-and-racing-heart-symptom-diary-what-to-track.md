@@ -192,9 +192,9 @@ Registra:
 - agua o electrolitos ese día
 - sal si tu médico la recomienda
 - si usaste prendas de compresión
-- si acostarte ayudo
-- si sentarte ayudo
-- si enfriar ayudo
+- si acostarte ayudó
+- si sentarte ayudó
+- si enfriar ayudó
 - cuánto duró la recuperación
 - si fatiga, brain fog, náusea o temblor quedaron
 

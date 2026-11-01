@@ -172,7 +172,7 @@ Si las duchas desencadenan síntomas, anota:
 - si lavaste el cabello
 - síntomas durante la ducha
 - síntomas después
-- si enfriar, sentarte o hidratarte antes ayudo
+- si enfriar, sentarte o hidratarte antes ayudó
 - cuánto duró la recuperación
 
 Esto ayuda a hablar de cambios realistas sin reducirlo a "no tolero duchas."

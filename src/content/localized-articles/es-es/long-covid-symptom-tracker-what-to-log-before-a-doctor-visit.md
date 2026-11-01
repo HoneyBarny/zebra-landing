@@ -129,8 +129,8 @@ Cuando aparezca ese patrón, registra:
 - tiempo de pie antes de síntomas
 - pulso o presión arterial si los registras de forma segura y tu médico quiere ese contexto
 - síntomas en ese momento
-- si sentarte ayudo
-- si acostarte ayudo
+- si sentarte ayudó
+- si acostarte ayudó
 - tiempo de recuperación
 
 Esto no diagnostica POTS, disautonomía ni hipotensión ortostática. Da a tu médico una descripción más clara de lo que pasa al estar de pie.

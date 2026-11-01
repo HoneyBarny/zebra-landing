@@ -110,8 +110,8 @@ Registra:
 - acostado, sentado, de pie, caminando, ducha, cocinando, escaleras o quieto de pie
 - cuánto tiempo llevabas en posición vertical
 - si apareció rápido o fue aumentando
-- si sentarte ayudo
-- si acostarte ayudo más que sentarte
+- si sentarte ayudó
+- si acostarte ayudó más que sentarte
 - cuánto tardó en calmarse
 - si volvió al levantarte de nuevo
 

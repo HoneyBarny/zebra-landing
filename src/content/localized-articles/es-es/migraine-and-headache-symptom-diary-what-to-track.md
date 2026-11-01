@@ -64,12 +64,12 @@ faq:
   - question: "¿Un diario puede probar mi desencadenante de migraña?"
     answer: "No. Un diario puede mostrar patrones para comentar, pero los desencadenantes de migraña pueden ser complejos y superponerse. Trata los posibles desencadenantes como pistas, no como prueba."
   - question: "¿Debo registrar uso de medicamentos?"
-    answer: "Sí. Registra que tomaste, cuando lo tomaste, si ayudo y si necesitaste repetir dosis. Esto ayuda a revisar respuesta y frecuencia de medicación."
+    answer: "Sí. Registra que tomaste, cuando lo tomaste, si ayudó y si necesitaste repetir dosis. Esto ayuda a revisar respuesta y frecuencia de medicación."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Los síntomas de migraña y dolor de cabeza pueden ser difíciles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la náusea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más específicos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudo y qué te impidió hacer.
+Los síntomas de migraña y dolor de cabeza pueden ser difíciles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la náusea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más específicos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudó y qué te impidió hacer.
 
 Un diario de migraña o dolor de cabeza no diagnostica migraña, cefalea tensional, cefalea en racimos, dolor de cabeza por uso excesivo de medicamentos, POTS, EDS, MCAS, Long COVID ni otra condición. Ayuda a llevar un patrón más claro al médico.
 

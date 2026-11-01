@@ -102,7 +102,7 @@ Registra:
 - qué pasó después de ponerte de pie
 - cuánto tiempo estuviste erguida antes de que empezaran los síntomas
 - si los síntomas mejoraron al acostarte
-- si sentarte ayudo suficiente o solo ayudo acostarte
+- si sentarte ayudó suficiente o solo ayudó acostarte
 - si los síntomas ocurrieron después de ducha, calor, comidas, recados o escaleras
 - si la recuperación tomo minutos, horas o el resto del día
 

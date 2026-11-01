@@ -119,7 +119,7 @@ Notez:
 - durée
 - si elle a aide
 - si vous vous êtes reveille pire
-- si elle a affecte le sommeil de nuit
+- si elle a affecté le sommeil de nuit
 - si elle était prevue ou inevitable
 
 Pour les maladies avec énergie limitée, une sieste inevitable peut être une note d'impact fonctionnel, pas un échec.
@@ -183,7 +183,7 @@ Avant une visite, sortez:
 - pires jours de fatigue
 - si les siestes étaient nécessaires
 - symptômes qui vous ont reveille
-- si la fatigue a affecte travail, études, aide à un proche, conduite ou tâches de base
+- si la fatigue a affecté travail, études, aide à un proche, conduite ou tâches de base
 - motifs médicaments ou caféine à discuter
 - respiration, ronflement, réveil en cherchant l'air ou symptômes urgents à mentionner
 

@@ -164,7 +164,7 @@ No cambie líquidos, sal, compresión o medicación basandose solo en un registr
 
 ## Registre Lo Que Ayudó
 
-Registre que redujo los síntomas o le ayudo a terminar la tarea.
+Registre que redujo los síntomas o le ayudó a terminar la tarea.
 
 Ejemplos:
 

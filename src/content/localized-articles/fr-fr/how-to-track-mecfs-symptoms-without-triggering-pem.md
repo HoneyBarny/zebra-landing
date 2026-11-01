@@ -135,7 +135,7 @@ Si vous voulez la version minimum utile, suivez:
 - récupération plus longue
 - capacité réduite à fonctionner
 
-### Ce que cela a affecte
+### Ce que cela a affecté
 
 - douche
 - repas

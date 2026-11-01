@@ -74,7 +74,7 @@ Zebra part d'une structure orientée POTS et dysautonomie.
 Cela affecte:
 
 - la quantité de configuration nécessaire
-- si le contexte orthostatique reste connecte
+- si le contexte orthostatique reste connecté
 - la facilité de relecture avant les rendez-vous
 - si le but final est le suivi seul ou la préparation de rendez-vous
 
@@ -124,7 +124,7 @@ C'est parce que les rendez-vous POTS demandent souvent de conserver:
 - les changements de médicaments
 - les questions pour la visite
 
-Ces détails sont plus faciles à utiliser quand ils restent dans un historique connecte.
+Ces détails sont plus faciles à utiliser quand ils restent dans un historique connecté.
 
 Si vous voulez l'angle plus large de préparation de rendez-vous, [Suivi des symptômes pour rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Quoi apporter à un rendez-vous de cardiologie POTS](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) sont les prochaines meilleures pages.
 

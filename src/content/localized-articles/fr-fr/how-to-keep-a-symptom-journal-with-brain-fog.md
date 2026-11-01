@@ -99,7 +99,7 @@ Utilisez les mêmes prompts chaque fois:
 
 - quels symptômes sont apparus
 - ce qui a changé
-- ce qui a affecte ma journée
+- ce qui a affecté ma journée
 - quelque chose d'important autour
 
 Vous n'avez pas besoin d'une voix de journal intime. Vous avez besoin d'une structure.

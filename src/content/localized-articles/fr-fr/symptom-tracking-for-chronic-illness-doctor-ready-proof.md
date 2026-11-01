@@ -104,7 +104,7 @@ Exemples:
 Avant un rendez-vous, faites ressortir l'historique utile:
 
 - ce qui a le plus change
-- ce qui a affecte la vie quotidienne
+- ce qui a affecté la vie quotidienne
 - ce pour quoi vous voulez de l'aide
 
 ### 4. Partager
@@ -153,7 +153,7 @@ Une preuve plus forte inclut généralement:
 - une chronologie récente
 - des changements de symptômes résumés clairement
 - l'historique des poussées
-- ce qui a été affecte dans la vie quotidienne
+- ce qui a été affecté dans la vie quotidienne
 - médicaments pertinents ou changements de routine
 - une courte liste de questions
 

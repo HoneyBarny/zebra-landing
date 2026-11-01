@@ -110,7 +110,7 @@ Avant la visite, sortez:
 
 - à quelle fréquence cela s'est produit
 - les exemples récents les plus forts
-- ce que cela a affecte
+- ce que cela a affecté
 - les questions que vous avez à ce sujet
 
 Cela transforme le brain fog d'une plainte vague en historique plus clair.
@@ -121,7 +121,7 @@ Zebra aide à garder le brain fog dans le même dossier que les symptômes, les 
 
 ## Points clés
 
-- Suivez quand le brain fog arrive, ce qui a changé et ce qu'il a affecte.
+- Suivez quand le brain fog arrive, ce qui a changé et ce qu'il a affecté.
 - L'impact fonctionnel rend généralement le symptôme plus facile à expliquer.
 - Gardez les entrées assez courtes pour les utiliser même quand penser est plus difficile.
 

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "symptom-tracker-for-doctor-appointments"
 title: "Tracker de symptômes pour les rendez-vous médicaux"
 status: "published"
-subtitle: "Si vous avez besoin d’un tracker de symptômes pour les rendez-vous médicaux, la meilleure option est celle qui vous aide à expliquer ce qui a changé, à quelle fréquence cela s’est produit, ce qui a affecte la vie quotidienne et quelles questions restent ouvertes. Le but n’est pas de collecter des données parfaites. Le but est d’arriver au rendez-vous avec un historique vraiment utilisable."
+subtitle: "Si vous avez besoin d’un tracker de symptômes pour les rendez-vous médicaux, la meilleure option est celle qui vous aide à expliquer ce qui a changé, à quelle fréquence cela s’est produit, ce qui a affecté la vie quotidienne et quelles questions restent ouvertes. Le but n’est pas de collecter des données parfaites. Le but est d’arriver au rendez-vous avec un historique vraiment utilisable."
 description: "Comprendre ce qu’il faut chercher dans un tracker de symptômes pour les rendez-vous médicaux et pourquoi un historique structure fonctionne mieux que des notes dispersées."
 excerpt: "Un guide pratique pour choisir un tracker de symptômes utile avant les rendez-vous specialises et les visites de suivi."
 author: "zebra-editorial"
@@ -63,7 +63,7 @@ faq:
     answer: "Un meilleur tracker garde l’historique de symptômes structure, le relie au contexte comme les médicaments ou les changements orthostatiques, et rend le résumé final plus facile à relire."
 ---
 
-Si vous avez besoin d’un tracker de symptômes pour les rendez-vous médicaux, la meilleure option est celle qui vous aide à expliquer ce qui a changé, à quelle fréquence cela s’est produit, ce qui a affecte la vie quotidienne et quelles questions restent ouvertes. Le but n’est pas de collecter des données parfaites. Le but est d’arriver au rendez-vous avec un historique vraiment utilisable.
+Si vous avez besoin d’un tracker de symptômes pour les rendez-vous médicaux, la meilleure option est celle qui vous aide à expliquer ce qui a changé, à quelle fréquence cela s’est produit, ce qui a affecté la vie quotidienne et quelles questions restent ouvertes. Le but n’est pas de collecter des données parfaites. Le but est d’arriver au rendez-vous avec un historique vraiment utilisable.
 
 C est encore plus important lorsque vous gérez le brain fog, des symptômes fluctuants, des conditions qui se chevauchent ou des visites spécialisées courtes. Un tracker n’est utile que s’il réduit le travail de préparation au lieu d’en ajouter.
 

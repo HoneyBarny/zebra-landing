@@ -142,7 +142,7 @@ Si vous comparez des outils pacing-first avec le suivi oriente préparation de r
 
 ## Conclusion
 
-La meilleure app pour le suivi des symptômes autonomiques est celle qui garde le profil comprehensible plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus d’information. C est un dossier connecte qui rend symptômes, contexte et préparation de rendez-vous plus faciles à relire. Zebra est construit pour combler cet écart.
+La meilleure app pour le suivi des symptômes autonomiques est celle qui garde le profil comprehensible plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus d’information. C est un dossier connecté qui rend symptômes, contexte et préparation de rendez-vous plus faciles à relire. Zebra est construit pour combler cet écart.
 
 ## FAQ
 

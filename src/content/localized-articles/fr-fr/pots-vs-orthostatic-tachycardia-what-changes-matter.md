@@ -173,7 +173,7 @@ Si vous voulez une structure simple, suivez:
 - durée
 - temps de récupération
 
-### Ce que cela a affecte
+### Ce que cela a affecté
 
 - douche
 - travail

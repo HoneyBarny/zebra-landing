@@ -177,7 +177,7 @@ Así que tu nota en casa no debe decir "me diagnostique".
 
 Puede decir:
 
-"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudo. Podemos revisar si esto encaja con POTS, hipotensión ortostática, síncope vasovagal, otro patrón de disautonomía o algo más?"
+"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudó. Podemos revisar si esto encaja con POTS, hipotensión ortostática, síncope vasovagal, otro patrón de disautonomía o algo más?"
 
 Esa es una mejor pregunta para la cita.
 
@@ -203,8 +203,8 @@ Para cada episodio, escribe:
 - qué estabas haciendo
 - cuánto tiempo estuviste de pie
 - síntomas
-- si sentarte ayudo
-- si acostarte ayudo
+- si sentarte ayudó
+- si acostarte ayudó
 - tiempo de recuperación
 - qué cambió en tu día
 

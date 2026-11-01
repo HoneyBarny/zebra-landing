@@ -90,7 +90,7 @@ Registra:
 - si los síntomas empezaron de inmediato o después de minutos
 - si estabas quieto o moviendote
 - si hubo calor, ducha, comida o esfuerzo cerca
-- si sentarte o acostarte ayudo
+- si sentarte o acostarte ayudó
 - cuánto duró la recuperación
 
 Ejemplo: "De pie en cocina 18 minutos. Pies rojo-morados, pantorrillas pesadas, mareo 5/10, FC 124 de pie. Me sente con piernas elevadas, color mejoró en 12 minutos."

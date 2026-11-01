@@ -159,7 +159,7 @@ Zebra a été positionne exactement pour ce type de problème de chevauchement. 
 ## Points clés
 
 - Les symptômes EDS et dysautonomie peuvent se chevaucher dans la façon dont les personnes vivent le quotidien.
-- Le suivi doit rester organise autour de ce qui s'est passé, de ce qui a changé et de ce qui a affecte le fonctionnement.
+- Le suivi doit rester organise autour de ce qui s'est passé, de ce qui a changé et de ce qui a affecté le fonctionnement.
 - Un historique du profil complet est souvent plus utile que des notes de catégories isolées.
 - Le dossier de chevauchement le plus clair garde généralement ensemble symptômes, contexte lié à la position et impact sur la vie quotidienne.
 

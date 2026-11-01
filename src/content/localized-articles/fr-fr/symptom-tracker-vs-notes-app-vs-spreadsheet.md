@@ -139,7 +139,7 @@ Un bon dossier de symptômes n'a pas besoin d'être parfait. Il doit être utili
 - quand cela a-t-il commence?
 - est-ce normal pour vous?
 - qu'est-ce qui a changé autour de ce moment?
-- comment cela a-t-il affecte le fonctionnement quotidien?
+- comment cela a-t-il affecté le fonctionnement quotidien?
 - les médicaments, le sel, l'eau, le sommeil, la chaleur ou l'activité ont-ils aussi change?
 
 ## Comparaison côté à côté

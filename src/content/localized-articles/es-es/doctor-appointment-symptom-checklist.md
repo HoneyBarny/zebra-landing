@@ -135,7 +135,7 @@ Notas útiles:
 - gravedad
 - duración
 - posible disparador o contexto
-- qué ayudó, si algo ayudo
+- qué ayudó, si algo ayudó
 - si la recuperación fue distinta de lo habitual
 
 No necesitas demostrar un disparador. Basta con decir: "Estas cosas ocurrieron cerca del brote."

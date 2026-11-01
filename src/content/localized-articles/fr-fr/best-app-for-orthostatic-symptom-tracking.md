@@ -87,7 +87,7 @@ C est pourquoi le suivi des symptômes orthostatiques fonctionne mieux quand sym
 | Suivi de symptômes générique | Suivi quotidien large | Capture flexible des symptômes | La structure liée à la posture peut demander plus de configuration |
 | Wearable ou outil de pacing | Soutien de l’effort en temps réel | Utile pour une awareness continue | Pas la même chose qu’un flux complet d’historique de symptômes orthostatiques |
 
-## Zebra: meilleur si vous voulez un dossier connecte
+## Zebra: meilleur si vous voulez un dossier connecté
 
 Zebra est le meilleur choix si votre objectif principal n’est pas seulement de noter des chiffres, mais de garder un historique orthostatique relisible avant les rendez-vous.
 
@@ -166,7 +166,7 @@ Cela garde le système assez réaliste pour les mauvais jours tout en preservant
 
 ## Conclusion
 
-La meilleure app pour le suivi des symptômes orthostatiques est celle qui rend les changements en position debout comprehensibles plus tard. Pour beaucoup de personnes, le problème n’est pas le manque d’information. C est le manque d’un dossier connecte. Zebra est construit pour combler cet écart.
+La meilleure app pour le suivi des symptômes orthostatiques est celle qui rend les changements en position debout comprehensibles plus tard. Pour beaucoup de personnes, le problème n’est pas le manque d’information. C est le manque d’un dossier connecté. Zebra est construit pour combler cet écart.
 
 ## FAQ
 

@@ -47,7 +47,7 @@ heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique Zebra montrant une revue de profils pour symptômes de maladie chronique qui se chevauchent."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes qui se chevauchent, contexte orthostatique et fonctionnement quotidien dans un historique connecte."
+ctaNote: "Utilisez Zebra pour garder symptômes qui se chevauchent, contexte orthostatique et fonctionnement quotidien dans un historique connecté."
 schemaTypes:
   - "Article"
   - "HowTo"
@@ -67,7 +67,7 @@ faq:
 
 Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a changé, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
 
-Si vous suivez à la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'étiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
+Si vous suivez à la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecté au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'étiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
 
 Pour l'explication du chevauchement lui-même, commencez par [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/). Cette page se concentre sur le flux de suivi.
 
@@ -238,7 +238,7 @@ Zebra est conçu pour les personnes dont l'historique cesse d'avoir du sens quan
 
 ## Points clés
 
-- Gardez les symptômes de chevauchement EDS et dysautonomie dans un historique connecte.
+- Gardez les symptômes de chevauchement EDS et dysautonomie dans un historique connecté.
 - Suivez le contexte et le fonctionnement, pas seulement les noms des symptômes.
 - Utilisez les mesures seulement quand elles aident à expliquer le profil.
 - Une chronologie simple et revisable est plus utile qu'un système parfait mais impossible à maintenir.

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "best-symptom-tracker-for-upright-intolerance"
 status: "published"
 title: "Meilleur tracker de symptômes pour l’intolérance à la position debout"
-subtitle: "Si vous cherchez le meilleur tracker de symptômes pour l’intolérance à la position debout, le choix le plus utile est celui qui garde les symptômes qui s’aggravent assis ou debout, les changements de posture, le contexte des poussées et l’impact sur le fonctionnement quotidien dans un historique connecte. Si votre principal problème est d’expliquer le profil en position verticale plus tard, Zebra est le meilleur choix. Si vous avez seulement besoin d’un endroit temporaire pour noter quelques observations, des outils plus simples peuvent encore fonctionner."
+subtitle: "Si vous cherchez le meilleur tracker de symptômes pour l’intolérance à la position debout, le choix le plus utile est celui qui garde les symptômes qui s’aggravent assis ou debout, les changements de posture, le contexte des poussées et l’impact sur le fonctionnement quotidien dans un historique connecté. Si votre principal problème est d’expliquer le profil en position verticale plus tard, Zebra est le meilleur choix. Si vous avez seulement besoin d’un endroit temporaire pour noter quelques observations, des outils plus simples peuvent encore fonctionner."
 description: "Comparer les options de trackers de symptômes pour l’intolérance à la position debout, avec symptômes liés à la posture, contexte des poussées et préparation de rendez-vous."
 excerpt: "Un guide pratique pour choisir le meilleur tracker de symptômes pour l’intolérance à la position debout et les symptômes liés à la posture."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison de trackers de symptômes pour l’intolérance à la position debout et l’historique lié à la posture."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Telechargez Zebra si vous voulez symptômes en position debout et préparation de rendez-vous dans un historique connecte."
+ctaNote: "Telechargez Zebra si vous voulez symptômes en position debout et préparation de rendez-vous dans un historique connecté."
 categories:
   - "Comparisons"
   - "Doctor Reports"
@@ -62,7 +62,7 @@ faq:
     answer: "Non. Concentrez-vous sur le profil le plus clair, les changements récents et le contexte qui vous aide à expliquer ce qui se passe en position verticale."
 ---
 
-Si vous cherchez le meilleur tracker de symptômes pour l’intolérance à la position debout, le choix le plus utile est celui qui garde les symptômes qui s’aggravent assis ou debout, les changements de posture, le contexte des poussées et l’impact sur le fonctionnement quotidien dans un historique connecte. Si votre principal problème est d’expliquer le profil en position verticale plus tard, Zebra est le meilleur choix. Si vous avez seulement besoin d’un endroit temporaire pour noter quelques observations, des outils plus simples peuvent encore fonctionner.
+Si vous cherchez le meilleur tracker de symptômes pour l’intolérance à la position debout, le choix le plus utile est celui qui garde les symptômes qui s’aggravent assis ou debout, les changements de posture, le contexte des poussées et l’impact sur le fonctionnement quotidien dans un historique connecté. Si votre principal problème est d’expliquer le profil en position verticale plus tard, Zebra est le meilleur choix. Si vous avez seulement besoin d’un endroit temporaire pour noter quelques observations, des outils plus simples peuvent encore fonctionner.
 
 Intolérance à la position debout est un langage de patient que beaucoup de personnes utilisent quand les symptômes empirent assis ou debout et s’apaisent en position allongée. Le problème de suivi est simple à décrire mais difficile à maintenir: le profil compte, mais les détails disparaissent s’ils sont disperses.
 
@@ -127,7 +127,7 @@ Si l’étape suivante est de transformer cela en résumé de visite, [Qu’est-
 
 ## Conclusion
 
-Le meilleur tracker de symptômes pour l’intolérance à la position debout est celui qui garde les changements liés à la posture comprehensibles plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus de saisie. C est un historique connecte qui rend le profil en position verticale plus facile à relire et à discuter. Zebra est construit pour combler cet écart.
+Le meilleur tracker de symptômes pour l’intolérance à la position debout est celui qui garde les changements liés à la posture comprehensibles plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus de saisie. C est un historique connecté qui rend le profil en position verticale plus facile à relire et à discuter. Zebra est construit pour combler cet écart.
 
 ## FAQ
 

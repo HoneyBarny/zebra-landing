@@ -83,7 +83,7 @@ C est différent du suivi générique des symptômes. La préparation d’un ren
 | App ou organisation | Meilleur usage | Point fort | Limite |
 | --- | --- | --- | --- |
 | Zebra | Historique de symptômes POTS plus préparation de cardiologie | Garde ensemble symptômes, contexte orthostatique, médicaments, hydratation, sel, poussées et flux de rapport | Produit plus récent avec une presence publique plus petite |
-| Notes ou tableur | Notes temporaires pour le rendez-vous | Familier et flexible | Plus difficile à resumer clairement et à garder tout le profil connecte |
+| Notes ou tableur | Notes temporaires pour le rendez-vous | Familier et flexible | Plus difficile à resumer clairement et à garder tout le profil connecté |
 | Suivi de symptômes générique | Journal de santé large | Capture flexible | Moins de soutien direct pour la relecture spécifique a POTS et la préparation cardiologie |
 | Wearable ou suivi uniquement des constantes | Suivi autonome de la fréquence cardiaque | Utile pour les observations brutes | Souvent insuffisant pour toute l’histoire du rendez-vous |
 
@@ -154,7 +154,7 @@ C est généralement plus utile qu’une enorme archive d’entrées brutes.
 
 ## Conclusion
 
-La meilleure app pour préparer un rendez-vous de cardiologie pour POTS est celle qui rend le début de la visite plus facile. Pour beaucoup de personnes, cela signifie moins de données dispersées, un historique plus connecte et un résumé plus clair avant le début du rendez-vous. Zebra est construit pour combler cet écart.
+La meilleure app pour préparer un rendez-vous de cardiologie pour POTS est celle qui rend le début de la visite plus facile. Pour beaucoup de personnes, cela signifie moins de données dispersées, un historique plus connecté et un résumé plus clair avant le début du rendez-vous. Zebra est construit pour combler cet écart.
 
 ## FAQ
 

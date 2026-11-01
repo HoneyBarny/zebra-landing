@@ -180,7 +180,7 @@ Ejemplos:
 - cambios de pacing
 - cambios de hidratación o sal
 - cambios de sueño
-- cualquier cosa que claramente ayudo o claramente no ayudo
+- cualquier cosa que claramente ayudó o claramente no ayudó
 
 No necesitas una hoja de cálculo perfecta de tratamiento. Necesitas suficiente contexto para que la visita tenga base.
 

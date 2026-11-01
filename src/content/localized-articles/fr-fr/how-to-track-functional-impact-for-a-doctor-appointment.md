@@ -104,7 +104,7 @@ C'est plus facile à discuter.
 Utilisez une structure simple:
 
 1. Symptôme
-2. Ce qu'il a affecte
+2. Ce qu'il a affecté
 3. À quelle fréquence cela s'est produit
 4. Ce qui a changé récemment
 5. Quelle question vous voulez poser

@@ -117,7 +117,7 @@ Registra:
 
 - hora de la siesta
 - duración
-- si ayudo
+- si ayudó
 - si despertaste peor
 - si afecto el sueño nocturno
 - si fue planificada o inevitable

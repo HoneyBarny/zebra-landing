@@ -145,7 +145,7 @@ Zebra est conçu pour garder symptômes, poussées, médicaments, hydratation, s
 - Suivez ensemble symptômes, changements liés à la posture, contexte et poussées.
 - Gardez le dossier assez simple pour l’utiliser les mauvais jours.
 - Utilisez les mesures à domicile comme contexte utile, pas comme autodiagnostic.
-- Un dossier connecte est plus facile à relire que plusieurs outils separes.
+- Un dossier connecté est plus facile à relire que plusieurs outils separes.
 
 ## FAQ
 

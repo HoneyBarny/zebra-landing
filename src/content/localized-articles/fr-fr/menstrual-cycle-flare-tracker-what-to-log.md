@@ -160,7 +160,7 @@ Notez ce qui a changé:
 - fatigue lourde bloquant les tâches normales
 - brain fog rendant formulaires, messages ou conversations plus difficiles
 
-Cela montre combien la poussée liée au cycle a affecte votre vie.
+Cela montre combien la poussée liée au cycle a affecté votre vie.
 
 ## Médicaments et mesures comptent
 

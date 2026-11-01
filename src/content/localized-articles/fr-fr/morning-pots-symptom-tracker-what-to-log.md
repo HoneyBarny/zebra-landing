@@ -184,7 +184,7 @@ Cela peut transformer un schéma vague en questions concrètes pour le rendez-vo
 
 Les symptômes du matin comptent parce qu'ils changent ce que vous pouvez faire.
 
-Notez s'ils ont affecte :
+Notez s'ils ont affecté :
 
 - s'habiller
 - se doucher

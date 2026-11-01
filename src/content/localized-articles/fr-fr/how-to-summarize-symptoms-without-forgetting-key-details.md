@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-summarize-symptoms-without-forgetting-key-details"
 status: "published"
 title: "Comment resumer les symptômes sans oublier les détails importants"
-subtitle: "Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a changé, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon résumé de symptômes est assez court pour servir sous pression et assez structure pour empêcher les détails importants de disparaitre quand le brain fog arrive."
+subtitle: "Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a changé, ce qui a affecté la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon résumé de symptômes est assez court pour servir sous pression et assez structure pour empêcher les détails importants de disparaitre quand le brain fog arrive."
 description: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les détails qui comptent le plus."
 excerpt: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les détails qui comptent le plus."
 author: "zebra-editorial"
@@ -51,14 +51,14 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Comment resumer les symptômes pour une visite médicale?"
-    answer: "Concentrez-vous sur ce qui a changé, comment cela a affecte la vie quotidienne, quel contexte pertinent a changé autour et quelle question vous avez besoin de resoudre."
+    answer: "Concentrez-vous sur ce qui a changé, comment cela a affecté la vie quotidienne, quel contexte pertinent a changé autour et quelle question vous avez besoin de resoudre."
   - question: "Comment éviter d'oublier des détails importants pendant les rendez-vous?"
     answer: "Utilisez un résumé écrit avant la visite au lieu de compter sur votre mémoire dans la salle."
   - question: "Quelle longueur doit faire un résumé de symptômes?"
     answer: "Assez court pour être scanne rapidement. Si vous ne pouvez pas le relire facilement sous stress, il est probablement trop long."
 ---
 
-Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a changé, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon résumé de symptômes est assez court pour servir sous pression et assez structure pour empêcher les détails importants de disparaitre quand le brain fog arrive.
+Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a changé, ce qui a affecté la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon résumé de symptômes est assez court pour servir sous pression et assez structure pour empêcher les détails importants de disparaitre quand le brain fog arrive.
 
 ## Pourquoi les personnes oublient la partie importante
 
@@ -134,7 +134,7 @@ Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le ré
 
 ### Comment resumer les symptômes pour une visite médicale?
 
-Concentrez-vous sur ce qui a changé, comment cela a affecte la vie quotidienne, quel contexte pertinent a changé autour et quelle question vous avez besoin de resoudre.
+Concentrez-vous sur ce qui a changé, comment cela a affecté la vie quotidienne, quel contexte pertinent a changé autour et quelle question vous avez besoin de resoudre.
 
 ### Comment éviter d'oublier des détails importants pendant les rendez-vous?
 

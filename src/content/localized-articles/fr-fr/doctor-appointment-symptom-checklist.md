@@ -256,6 +256,6 @@ Pour le flux plus large, lisez [How to Track Symptoms Before a Specialist Appoin
 
 ## Conclusion
 
-Une bonne checklist des symptômes pour un rendez-vous médical est courte, spécifique et facile à relire. Elle doit répondre à ce qui a changé, ce qui s'est repete, ce qui a affecte la vie quotidienne, quels médicaments ou routines ont changé et ce que vous devez décider ensuite.
+Une bonne checklist des symptômes pour un rendez-vous médical est courte, spécifique et facile à relire. Elle doit répondre à ce qui a changé, ce qui s'est repete, ce qui a affecté la vie quotidienne, quels médicaments ou routines ont changé et ce que vous devez décider ensuite.
 
 Vous n'essayez pas d'apporter un journal parfait. Vous essayez d'apporter le point de départ le plus clair pour la conversation.

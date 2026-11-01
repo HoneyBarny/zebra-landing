@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-prepare-a-monthly-symptom-summary"
 status: "published"
 title: "Comment préparer un résumé mensuel des symptômes"
-subtitle: "Un résumé mensuel des symptômes transforme des notes quotidiennes dispersées en une courte revue de ce qui a changé, de ce qui s'est repete, de ce qui a affecte le fonctionnement et des questions que vous voulez apporter aux soins. Il doit être assez court pour servir avant un rendez-vous et assez clair pour être revu quand le brain fog est élevé."
+subtitle: "Un résumé mensuel des symptômes transforme des notes quotidiennes dispersées en une courte revue de ce qui a changé, de ce qui s'est repete, de ce qui a affecté le fonctionnement et des questions que vous voulez apporter aux soins. Il doit être assez court pour servir avant un rendez-vous et assez clair pour être revu quand le brain fog est élevé."
 description: "Apprenez comment préparer un résumé mensuel des symptômes à partir des symptômes, poussées, médicaments, changements de fonctionnement et questions de rendez-vous."
 excerpt: "Un cadre simple pour transformer un mois de suivi des symptômes en résumé plus clair et prêt pour rendez-vous."
 author: "zebra-editorial"
@@ -59,7 +59,7 @@ faq:
     answer: "Non. C'est un outil d'organisation pour l'historique saisi par le patient, pas un diagnostic ni une recommandation de traitement."
 ---
 
-Un résumé mensuel des symptômes transforme des notes quotidiennes dispersées en une courte revue de ce qui a changé, de ce qui s'est repete, de ce qui a affecte le fonctionnement et des questions que vous voulez apporter aux soins. Il doit être assez court pour servir avant un rendez-vous et assez clair pour être revu quand le brain fog est élevé.
+Un résumé mensuel des symptômes transforme des notes quotidiennes dispersées en une courte revue de ce qui a changé, de ce qui s'est repete, de ce qui a affecté le fonctionnement et des questions que vous voulez apporter aux soins. Il doit être assez court pour servir avant un rendez-vous et assez clair pour être revu quand le brain fog est élevé.
 
 Ce type de résumé est utile parce que le suivi brut peut devenir difficile à utiliser. Un mois d'entrées n'aide que si vous pouvez le transformer en [rapport prêt pour le médecin](/fr-fr/knowledge/doctor-ready-report/) clair ou en note de rendez-vous.
 

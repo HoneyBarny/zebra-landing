@@ -159,8 +159,8 @@ La recuperación es parte del patrón.
 
 Anota:
 
-- si sentarte ayudo
-- si acostarte ayudo
+- si sentarte ayudó
+- si acostarte ayudó
 - cuánto tardó en mejorar
 - si los síntomas volvieron al ponerte de pie otra vez
 - si el episodio cambio lo que podías hacer después
