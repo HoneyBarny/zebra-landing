@@ -77,23 +77,23 @@ Rather than tracking everything, start with the categories most people find rele
 
 ### 1. Position and posture
 
-Standing, prolonged upright time, or position changes. This is especially relevant for POTS and dysautonomia, where orthostatic symptoms are common.
+Standing, prolonged upright time, or position changes. This is especially relevant for POTS and dysautonomia, where orthostatic symptoms are common. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) lists standing frequently, such as waiting in line or shopping, among the situations that can trigger POTS symptoms.
 
 ### 2. Sleep
 
-Whether the prior night's sleep was better or worse than usual. Unrefreshing sleep is a frequent factor across several overlapping conditions.
+Whether the prior night's sleep was better or worse than usual. Sleep that does not leave you rested is part of several overlapping conditions. The [CDC](https://www.cdc.gov/me-cfs/signs-symptoms/index.html) lists sleep problems among the required symptoms of ME/CFS, including not feeling better even after a full night's sleep.
 
 ### 3. Heat and temperature
 
-Hot rooms, hot showers, or warm weather. A common context for both POTS and fibromyalgia symptom changes.
+Hot rooms, hot showers, or warm weather. Cleveland Clinic lists warm environments, such as a hot bath or shower or a hot day outside, among POTS symptom triggers.
 
 ### 4. Activity and exertion
 
-Physical, cognitive, or social exertion. This matters even more if you have post-exertional symptoms, since the effect may not show up until later.
+Physical, cognitive, or social exertion. This matters even more if you have post-exertional symptoms, since the effect may not show up until later. Cleveland Clinic also lists strenuous exercise as a POTS trigger.
 
 ### 5. Meals
 
-Whether symptoms tend to cluster after eating, and roughly what kind of meal, without needing calorie-level detail.
+Whether symptoms tend to cluster after eating, and roughly what kind of meal, without needing calorie-level detail. Cleveland Clinic notes that a large meal can make POTS symptoms worse, because the body sends more blood to digestion.
 
 ### 6. Stress or a demanding stretch
 
@@ -103,9 +103,9 @@ That is the full list. Most people do not need more than this to start noticing 
 
 ## How delayed effects change what you track
 
-Some symptoms show up right away. Others, especially post-exertional malaise or payback from overdoing it, can appear hours later or the next day. If you only track context on the day symptoms happen, you will miss this entirely.
+Some symptoms show up right away. Others, especially post-exertional malaise or payback from overdoing it, can appear hours later or the next day. The [CDC](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html) says that with post-exertional malaise, symptoms typically worsen 12 to 48 hours after activity. If you only track context on the day symptoms happen, you will miss this entirely.
 
-A simple fix: note context on ordinary days too, not just symptomatic ones. If a hard day tends to follow a demanding day by 24 to 48 hours, that pattern only becomes visible if the demanding day was also tracked.
+A simple fix: note context on ordinary days too, not just symptomatic ones. If a hard day tends to follow a demanding day by 12 to 48 hours, that pattern only becomes visible if the demanding day was also tracked.
 
 ## How to notice an association without overclaiming it
 

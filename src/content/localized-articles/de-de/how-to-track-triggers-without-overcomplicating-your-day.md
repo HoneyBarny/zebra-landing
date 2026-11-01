@@ -77,23 +77,23 @@ Statt alles zu erfassen, beginnen Sie mit den Kategorien, die den meisten Mensch
 
 ### 1. Haltung und Position
 
-Stehen, längere Zeit aufrecht sein oder Lagewechsel. Das ist besonders bei POTS und Dysautonomie wichtig, wo Beschwerden beim Aufstehen häufig sind.
+Stehen, längere Zeit aufrecht sein oder Lagewechsel. Das ist besonders bei POTS und Dysautonomie wichtig, wo Beschwerden beim Aufstehen häufig sind. Die [Cleveland Clinic (englisch)](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) nennt häufiges Stehen, etwa in einer Warteschlange oder beim Einkaufen, unter den Situationen, die POTS-Beschwerden auslösen können.
 
 ### 2. Schlaf
 
-Ob der Schlaf der letzten Nacht besser oder schlechter war als üblich. Nicht erholsamer Schlaf ist ein häufiger Faktor bei mehreren überlappenden Erkrankungen.
+Ob der Schlaf der letzten Nacht besser oder schlechter war als üblich. Schlaf, nach dem Sie sich nicht erholt fühlen, gehört zu mehreren überlappenden Erkrankungen. Die [CDC (englisch)](https://www.cdc.gov/me-cfs/signs-symptoms/index.html) zählt Schlafprobleme zu den notwendigen Symptomen von ME/CFS, etwa sich auch nach einer ganzen Nacht nicht besser zu fühlen.
 
 ### 3. Hitze und Temperatur
 
-Heiße Räume, heiße Duschen oder warmes Wetter. Ein häufiger Kontext für Veränderungen bei POTS und Fibromyalgie.
+Heiße Räume, heiße Duschen oder warmes Wetter. Die Cleveland Clinic nennt warme Umgebungen, etwa ein heißes Bad, eine heiße Dusche oder einen heißen Tag draußen, unter den Auslösern von POTS-Beschwerden.
 
 ### 4. Aktivität und Belastung
 
-Körperliche, geistige oder soziale Belastung. Das ist noch wichtiger, wenn Sie Beschwerden nach Belastung haben, da die Wirkung erst später auftreten kann.
+Körperliche, geistige oder soziale Belastung. Das ist noch wichtiger, wenn Sie Beschwerden nach Belastung haben, da die Wirkung erst später auftreten kann. Die Cleveland Clinic nennt auch anstrengendes Training als Auslöser bei POTS.
 
 ### 5. Mahlzeiten
 
-Ob Beschwerden nach dem Essen gehäuft auftreten, und ungefähr welche Art von Mahlzeit, ohne Detailgenauigkeit auf Kalorienebene.
+Ob Beschwerden nach dem Essen gehäuft auftreten, und ungefähr welche Art von Mahlzeit, ohne Detailgenauigkeit auf Kalorienebene. Laut Cleveland Clinic kann eine große Mahlzeit POTS-Beschwerden verstärken, weil der Körper dann viel Blut zur Verdauung umleitet.
 
 ### 6. Stress oder eine fordernde Phase
 
@@ -103,9 +103,9 @@ Das ist die ganze Liste. Die meisten Menschen brauchen nicht mehr als das, um an
 
 ## Wie verzögerte Effekte festlegen, was Sie erfassen
 
-Manche Symptome treten sofort auf. Andere, besonders Verschlechterung nach Belastung oder die Rechnung für Überlastung, können Stunden oder am nächsten Tag erscheinen. Wenn Sie Kontext nur an dem Tag festhalten, an dem Symptome auftreten, übersehen Sie das völlig.
+Manche Symptome treten sofort auf. Andere, besonders Verschlechterung nach Belastung oder die Rechnung für Überlastung, können Stunden später oder am nächsten Tag erscheinen. Laut [CDC (englisch)](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html) verschlechtern sich die Symptome bei Post-Exertional Malaise meist 12 bis 48 Stunden nach der Aktivität. Wenn Sie Kontext nur an dem Tag festhalten, an dem Symptome auftreten, übersehen Sie das völlig.
 
-Eine einfache Lösung: Notieren Sie Kontext auch an gewöhnlichen Tagen, nicht nur an Tagen mit Beschwerden. Wenn ein schwerer Tag oft auf einen fordernden Tag 24 bis 48 Stunden später folgt, wird dieses Muster nur sichtbar, wenn der fordernde Tag auch erfasst wurde.
+Eine einfache Lösung: Notieren Sie Kontext auch an gewöhnlichen Tagen, nicht nur an Tagen mit Beschwerden. Wenn ein schwerer Tag oft auf einen fordernden Tag 12 bis 48 Stunden später folgt, wird dieses Muster nur sichtbar, wenn der fordernde Tag auch erfasst wurde.
 
 ## Wie Sie einen Zusammenhang erkennen, ohne zu übertreiben
 
