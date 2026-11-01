@@ -55,7 +55,7 @@ faq:
   - question: "Kann das Tracking zeigen, ob ein Medikament eine Nebenwirkung verursacht?"
     answer: "Das Tracking kann zeigen, dass nach einer Dosis- oder Medikamentenänderung etwas Neues auftrat. Das ist eine nützliche Beobachtung für die Ärztin oder den Arzt. Es kann nicht bestätigen, dass das Medikament die Ursache war, weil sich oft gleichzeitig anderes ändert."
   - question: "Sollte ich auch Nahrungsergänzungsmittel und rezeptfreie Medikamente erfassen?"
-    answer: "Ja. Eine Ärztin oder ein Arzt, die oder der Ihre Medikation prüft, profitiert davon, das ganze Bild zu sehen, einschließlich Nahrungsergänzungsmittel, rezeptfreier Präparate und Bedarfsmedikamente, nicht nur der verschreibungspflichtigen."
+    answer: "Ja. Eine Ärztin oder ein Arzt, die oder der Ihre Medikation prüft, profitiert davon, das ganze Bild zu sehen, einschließlich Nahrungsergänzungsmittel, rezeptfreier Präparate und Bedarfsmedikamente, nicht nur der verschreibungspflichtigen. Die FDA nennt den Beginn eines Nahrungsergänzungsmittels als einen der Zeitpunkte, an denen Nebenwirkungen auftreten können."
   - question: "Wie erfasse ich ein Bedarfsmedikament?"
     answer: "Notieren Sie, wann Sie es genommen haben, warum und wie es Ihnen danach ungefähr ging. Mit der Zeit zeigt sich, ob ein Bedarfsmedikament zuverlässig hilft, mal hilft oder kaum etwas bewirkt."
   - question: "Was mache ich, wenn ich mehrere Medikamente nehme und nicht jedes Detail erfassen kann?"
@@ -78,7 +78,7 @@ Das ist in drei häufigen Situationen wichtig:
 
 ## Was Sie zu jedem Medikament festhalten
 
-Halten Sie das im richtigen Maß. Ein stabiles, unverändertes Medikament braucht keine tägliche Aufmerksamkeit. Eine Änderung schon.
+Halten Sie das im richtigen Maß. Ein stabiles, unverändertes Medikament braucht keine tägliche Aufmerksamkeit. Eine Änderung schon. Wenn die Änderung während eines Schubs passiert, lesen Sie, [wie Sie Medikamentenänderungen während eines Schubs erfassen](/de-de/blog/how-to-track-medication-changes-during-a-flare/).
 
 ### 1. Was es ist und die aktuelle Dosis
 
@@ -108,7 +108,9 @@ Das ist oft die schwierigste Unterscheidung, und es gibt keine perfekte Regel. E
 - **Ob es Ihren üblichen Symptomen ähnelt.** Eine neue Art von Symptom, die Sie vorher nicht hatten, unterscheidet sich von einem vertrauten Schub, der zufällig in dieselbe Zeit fällt.
 - **Ob es sich bei weiterer Einnahme wiederholt oder abklingt.** Eine echte Nebenwirkung bleibt oft bestehen oder kehrt zurück, während ein unabhängiger Schub seinem eigenen Muster folgt.
 
-Sie müssen das nicht allein klären. Das Ziel des Trackings ist, einer Ärztin oder einem Arzt einen klaren, datierten Bericht zu geben, nicht selbst die Ursache zu diagnostizieren.
+Der [Leitfaden der FDA zu Nebenwirkungen (englisch)](https://www.fda.gov/drugs/find-information-about-drug/finding-and-learning-about-side-effects-adverse-reactions) nennt die Momente, in denen Nebenwirkungen beginnen können: wenn Sie ein neues Medikament oder Nahrungsergänzungsmittel beginnen, ein länger genommenes Medikament absetzen oder die Dosis erhöhen oder senken. Genau diese Daten lohnt es sich aufzuschreiben.
+
+Sie müssen das nicht allein klären. Das Ziel des Trackings ist, einer Ärztin oder einem Arzt einen klaren, datierten Bericht zu geben, nicht selbst die Ursache zu diagnostizieren. Die FDA rät außerdem, bei einer neuen Verschreibung mit Ihrer Ärztin oder Ihrem Arzt über mögliche Nebenwirkungen zu sprechen.
 
 ## Ein einfacher Aufbau zur Nutzung
 
@@ -195,7 +197,7 @@ Das Tracking kann zeigen, dass nach einer Dosis- oder Medikamentenänderung etwa
 
 ### Sollte ich auch Nahrungsergänzungsmittel und rezeptfreie Medikamente erfassen?
 
-Ja. Eine Ärztin oder ein Arzt, die oder der Ihre Medikation prüft, profitiert davon, das ganze Bild zu sehen, einschließlich Nahrungsergänzungsmittel, rezeptfreier Präparate und Bedarfsmedikamente, nicht nur der verschreibungspflichtigen.
+Ja. Eine Ärztin oder ein Arzt, die oder der Ihre Medikation prüft, profitiert davon, das ganze Bild zu sehen, einschließlich Nahrungsergänzungsmittel, rezeptfreier Präparate und Bedarfsmedikamente, nicht nur der verschreibungspflichtigen. Die FDA nennt den Beginn eines Nahrungsergänzungsmittels als einen der Zeitpunkte, an denen Nebenwirkungen auftreten können.
 
 ### Wie erfasse ich ein Bedarfsmedikament?
 

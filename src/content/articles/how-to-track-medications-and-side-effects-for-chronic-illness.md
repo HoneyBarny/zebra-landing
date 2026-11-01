@@ -53,7 +53,7 @@ faq:
   - question: "Can tracking tell me if a medication is causing a side effect?"
     answer: "Tracking can show that something new appeared after a dose or medication change, which is a useful observation to bring to a clinician. It cannot confirm the medication caused it, since other things often change around the same time."
   - question: "Should I track supplements and over-the-counter medicine too?"
-    answer: "Yes. A clinician reviewing your medications benefits from seeing the full picture, including supplements, over-the-counter products, and as-needed medications, not just prescriptions."
+    answer: "Yes. A clinician reviewing your medications benefits from seeing the full picture, including supplements, over-the-counter products, and as-needed medications, not just prescriptions. The FDA lists starting a dietary supplement as one of the times side effects can happen."
   - question: "How do I track an as-needed (PRN) medication?"
     answer: "Note when you took it, why, and roughly how it went afterward. Over time, this shows whether a PRN medication is reliably helping, inconsistently helping, or not doing much."
   - question: "What if I am on several medications and cannot track every detail?"
@@ -76,7 +76,7 @@ This matters for three common situations:
 
 ## What to track for each medication
 
-Keep the tracking proportional. A stable, unchanged medication does not need daily attention. A change does.
+Keep the tracking proportional. A stable, unchanged medication does not need daily attention. A change does. If the change happens during a flare, see [how to track medication changes during a flare](/blog/how-to-track-medication-changes-during-a-flare/).
 
 ### 1. What it is and the current dose
 
@@ -106,7 +106,9 @@ This is often the hardest distinction, and there is no perfect rule. A few thing
 - **Whether it resembles your usual symptoms.** A new type of symptom you have not had before is different from a familiar flare that happens to occur around the same time.
 - **Whether it repeats with continued use, or fades.** A true side effect often persists or recurs, while an unrelated flare tends to follow its own separate pattern.
 
-None of this needs to be resolved by you alone. The goal of tracking is to bring a clear, dated account to a clinician, not to diagnose the cause yourself.
+The [FDA's guide to side effects](https://www.fda.gov/drugs/find-information-about-drug/finding-and-learning-about-side-effects-adverse-reactions) names the moments when side effects can start: when you begin a new drug or dietary supplement, stop a drug you have taken for a while, or raise or lower a dose. Those are the dates worth writing down.
+
+None of this needs to be resolved by you alone. The goal of tracking is to bring a clear, dated account to a clinician, not to diagnose the cause yourself. The FDA also advises asking your health care professional about possible side effects when a drug is prescribed.
 
 ## A simple structure to use
 
@@ -193,7 +195,7 @@ Tracking can show that something new appeared after a dose or medication change,
 
 ### Should I track supplements and over-the-counter medicine too?
 
-Yes. A clinician reviewing your medications benefits from seeing the full picture, including supplements, over-the-counter products, and as-needed medications, not just prescriptions.
+Yes. A clinician reviewing your medications benefits from seeing the full picture, including supplements, over-the-counter products, and as-needed medications, not just prescriptions. The FDA lists starting a dietary supplement as one of the times side effects can happen.
 
 ### How do I track an as-needed (PRN) medication?
 
