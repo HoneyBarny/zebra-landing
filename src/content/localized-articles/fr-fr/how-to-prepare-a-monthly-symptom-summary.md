@@ -32,7 +32,7 @@ entities:
   - "Functional Impact"
   - "Chronic Illness Appointment Prep"
 priority: 3
-primaryKeyword: "resume mensuel symptomes"
+primaryKeyword: "resume mensuel symptômes"
 secondaryKeywords:
   - "resume symptômes pour médecin"
   - "resume mensuel sante"
@@ -68,7 +68,7 @@ Ce type de resume est utile parce que le suivi brut peut devenir difficile a uti
 Avant de lister les details, ecrivez une phrase directe:
 
 - Ce mois-ci, le plus grand changement a été...
-- Les symptômes qui m'ont le plus affecte etaient...
+- Les symptômes qui m'ont le plus affecte étaient...
 - Le profil que j'ai besoin d'aide a comprendre est...
 - La question principale que je veux poser est...
 
@@ -78,7 +78,7 @@ Cette phrase donne un centre au resume.
 
 Choisissez les symptômes qui ont le plus compte, pas chaque symptôme que vous avez note.
 
-Les bons choix sont les symptômes qui etaient:
+Les bons choix sont les symptômes qui étaient:
 
 - nouveaux
 - pires que d'habitude
@@ -94,7 +94,7 @@ Si tout semble important, choisissez les trois symptômes qui ont le plus change
 Pour l'historique des poussees, resumez:
 
 - combien de jours de poussee notables ont eu lieu
-- quels symptômes etaient les plus forts
+- quels symptômes étaient les plus forts
 - si les poussees ont dure plus longtemps que d'habitude
 - si la recuperation a change
 - si un profil s'est repete
@@ -125,7 +125,7 @@ Incluez les changements qui pourraient compter dans la conversation:
 - changements d'hydratation ou de sel
 - changements de sommeil
 - changements d'activité
-- vetements de compression ou autres strategies de soutien
+- vêtements de compression ou autres strategies de soutien
 
 Ce contexte vous aide a poser de meilleures questions.
 

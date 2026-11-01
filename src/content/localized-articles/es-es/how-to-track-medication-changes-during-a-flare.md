@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-medication-changes-during-a-flare"
 status: "published"
 title: "Como rastrear cambios de medicación durante un brote"
-subtitle: "Los cambios de medicación son más faciles de comentar después cuando se mantienen conectados con el brote, los síntomas, el momento y el contexto diario alrededor. El objetivo no es interpretar por tu cuenta los efectos de la medicación. Es mantener un registro cuidadoso introducido por el paciente que puedas revisar con un profesional clínico."
+subtitle: "Los cambios de medicación son más fáciles de comentar después cuando se mantienen conectados con el brote, los síntomas, el momento y el contexto diario alrededor. El objetivo no es interpretar por tu cuenta los efectos de la medicación. Es mantener un registro cuidadoso introducido por el paciente que puedas revisar con un profesional clínico."
 description: "Aprende como rastrear cambios de medicación durante un brote sin separarlos de los síntomas, el momento y el contexto de la cita."
 excerpt: "Una guía práctica para mantener cambios de medicación, brotes, síntomas y preguntas en un registro revisable."
 author: "zebra-editorial"
@@ -36,7 +36,7 @@ primaryKeyword: "rastrear cambios de medicación durante un brote"
 secondaryKeywords: 
   - "rastreo de medicación para brotes de síntomas"
   - "rastrear medicamentos y síntomas"
-  - "linea de tiempo de medicación para cita médica"
+  - "línea de tiempo de medicación para cita médica"
 seoTitle: "Como rastrear cambios de medicación durante un brote | Zebra"
 metaDescription: "Aprende como rastrear cambios de medicación durante un brote sin separarlos de los síntomas, el momento y el contexto de la cita."
 ogTitle: "Como rastrear cambios de medicación durante un brote"
@@ -54,12 +54,12 @@ faq:
   - question: "¿Debo rastrear cambios de medicación durante un brote?"
     answer: "Si los cambios de medicación son relevantes para tu conversación médica, rastrearlos junto a síntomas y momento puede hacer que el historial sea más fácil de revisar."
   - question: "¿Qué detalles de medicación debo rastrear?"
-    answer: "Los detalles útiles pueden incluir la fecha, que cambio, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico."
+    answer: "Los detalles útiles pueden incluir la fecha, que cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico."
   - question: "¿Rastrear cambios de medicación puede decirme que causo un brote?"
     answer: "No. El rastreo puede conservar contexto para la conversación, pero no debe tratarse como prueba de causa ni como consejo médico."
 ---
 
-Los cambios de medicación son más faciles de comentar después cuando se mantienen conectados con el brote, los síntomas, el momento y el contexto diario alrededor. El objetivo no es interpretar por tu cuenta los efectos de la medicación. Es mantener un registro cuidadoso introducido por el paciente que puedas revisar con un profesional clínico.
+Los cambios de medicación son más fáciles de comentar después cuando se mantienen conectados con el brote, los síntomas, el momento y el contexto diario alrededor. El objetivo no es interpretar por tu cuenta los efectos de la medicación. Es mantener un registro cuidadoso introducido por el paciente que puedas revisar con un profesional clínico.
 
 Si manejas una enfermedad crónica, las notas de medicación pueden dispersarse rapidamente. Un cambio puede quedar en un mensaje del portal, un recibo de farmacia, una app de notas o la memoria. Durante un brote, eso es mucho para reconstruir.
 
@@ -73,9 +73,9 @@ Ejemplos:
 - dejar un medicamento
 - cambiar dosis u horario
 - olvidar una dosis
-- anadir un medicamento sin receta
+- añadir un medicamento sin receta
 - cambiar suplementos si tu profesional clínico los sigue
-- notar un efecto secundario o una preocupacion
+- notar un efecto secundario o una preocupación
 
 No uses un rastreador para tomar decisiones de medicación por tu cuenta. Usalo para conservar el historial que quieres comentar.
 
@@ -131,7 +131,7 @@ Evita convertir el registro en un lugar para decisiones inseguras.
 No lo uses para:
 
 - diagnosticar efectos secundarios por tu cuenta
-- decidir si dejar un medicamento sin orientacion médica
+- decidir si dejar un medicamento sin orientación médica
 - reemplazar atención urgente
 - ignorar síntomas que necesitan atención médica inmediata
 
@@ -151,7 +151,7 @@ Esto puede convertirse en parte de un [informe de síntomas listo para el médic
 
 ## Dónde encaja Zebra
 
-Zebra mantiene medicamentos, síntomas, brotes, notas y preguntas de cita en una sola linea de tiempo para que el contexto de medicación no quede separado del resto de tu historial de salud.
+Zebra mantiene medicamentos, síntomas, brotes, notas y preguntas de cita en una sola línea de tiempo para que el contexto de medicación no quede separado del resto de tu historial de salud.
 
 ## Puntos clave
 

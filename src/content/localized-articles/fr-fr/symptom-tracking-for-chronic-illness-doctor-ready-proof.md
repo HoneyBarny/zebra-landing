@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Symptom Tracking and Proof"
 category: "Symptom Tracking and Proof"
-primaryKeyword: "suivi des symptomes pour maladie chronique"
+primaryKeyword: "suivi des symptômes pour maladie chronique"
 seoTitle: "Suivi des symptômes pour maladie chronique: preuve prete pour le médecin"
 metaDescription: "Apprenez comment transformer le suivi des symptômes en preuve prete pour le médecin avec un cadre simple pour symptômes, poussees, fonctionnement et préparation de rendez-vous."
 ogTitle: "Suivi des symptômes pour maladie chronique"
@@ -144,7 +144,7 @@ Une preuve faible ressemble souvent a:
 - aucun impact fonctionnel
 - questions rappelees trop tard
 
-Cela ne signifie pas que le suivi etait inutile. Cela signifie que le dossier n'a jamais été organise pour le moment ou il devait être utilise.
+Cela ne signifie pas que le suivi était inutile. Cela signifie que le dossier n'a jamais été organise pour le moment ou il devait être utilise.
 
 ## A quoi ressemble une preuve plus forte
 
@@ -163,7 +163,7 @@ Elle est plus facile a relire, plus facile a discuter et moins dependante d'un r
 
 Zebra est construit autour de ce flux exact. Le but n'est pas seulement de noter les symptômes. Le but est de garder ensemble l'historique des symptômes, les poussees, le fonctionnement, les médicaments, l'hydratation et les observations liees, afin qu'ils puissent devenir plus tard un rapport pret pour le médecin.
 
-Cette meme approche est au coeur de la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/), pensee pour les journees a faible energie et le brain fog.
+Cette meme approche est au coeur de la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/), pensee pour les journees a faible énergie et le brain fog.
 
 Zebra ne diagnostique pas les conditions et ne controle pas la reaction d'un médecin. Il aide a organiser l'historique saisi par le patient pour rendre la conversation plus facile a préparer.
 

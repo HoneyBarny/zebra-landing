@@ -5,7 +5,7 @@ title: "Comment suivre la presyncope et les episodes etranges de dysautonomie"
 status: "published"
 subtitle: "La presyncope peut être difficile a expliquer parce que vous ne perdez pas toujours connaissance. Notez les signes d'alerte, la posture, le moment, les declencheurs, la recuperation, les constantes, les médicaments, l'hydratation et l'impact quotidien pour aider votre médecin a voir le schema."
 description: "Apprenez comment suivre la presyncope et les episodes de dysautonomie, avec signes d'alerte, posture, declencheurs, recuperation, constantes et notes pour le rendez-vous."
-excerpt: "Un guide pratique pour suivre les quasi-malaises, les etourdissements et les episodes de dysautonomie difficiles a décrire."
+excerpt: "Un guide pratique pour suivre les quasi-malaises, les étourdissements et les episodes de dysautonomie difficiles a décrire."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -18,7 +18,7 @@ primaryKeyword: "comment suivre la presyncope"
 seoTitle: "Suivre la presyncope et les episodes de dysautonomie | Zebra"
 metaDescription: "Suivez la presyncope et les episodes de dysautonomie avec signes d'alerte, posture, declencheurs, recuperation, constantes, médicaments, hydratation et notes pour le médecin."
 ogTitle: "Comment suivre la presyncope et les episodes de dysautonomie"
-ogDescription: "Un guide pratique pour suivre les quasi-malaises, les etourdissements et les episodes de dysautonomie difficiles a expliquer."
+ogDescription: "Un guide pratique pour suivre les quasi-malaises, les étourdissements et les episodes de dysautonomie difficiles a expliquer."
 heroImage: "/screenshots/orthostatic-test-fr.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des symptômes et constantes par position."
 ctaLabel: "Télécharger Zebra"
@@ -60,7 +60,7 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Qu'est-ce que la presyncope?"
-    answer: "La presyncope signifie avoir l'impression de pouvoir s'evanouir sans perdre completement connaissance. Elle peut inclure etourdissement, faiblesse, nausee, transpiration, changements visuels et instabilite."
+    answer: "La presyncope signifie avoir l'impression de pouvoir s'évanouir sans perdre completement connaissance. Elle peut inclure étourdissement, faiblesse, nausee, transpiration, changements visuels et instabilite."
   - question: "Que faut-il suivre pendant un episode de presyncope?"
     answer: "Notez les signes d'alerte, la posture, le temps debout, l'activité, les declencheurs, le temps de recuperation, les constantes si disponibles, les médicaments, l'hydratation, le sel et ce que vous avez du arrêter."
   - question: "Faut-il suivre les episodes qui ne finissent pas par un malaise complet?"
@@ -71,7 +71,7 @@ faq:
     answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-La presyncope est la sensation de "je vais peut-etre m'evanouir" qui ne devient pas toujours une [syncope](/fr-fr/knowledge/syncope/) complete. Cela peut être bref, etrange et difficile a décrire ensuite. Vous pouvez vous souvenir de la peur plus clairement que des details.
+La presyncope est la sensation de "je vais peut-être m'évanouir" qui ne devient pas toujours une [syncope](/fr-fr/knowledge/syncope/) complete. Cela peut être bref, etrange et difficile a décrire ensuite. Vous pouvez vous souvenir de la peur plus clairement que des details.
 
 C'est pourquoi le suivi aide. Une courte note prise peu après l'episode peut montrer a votre médecin ce qui s'est passe, dans quelle position vous etiez, ce qui a pu declencher l'episode, combien de temps la recuperation a pris et comment votre journee a été affectee.
 
@@ -83,7 +83,7 @@ Notez d'abord ce que vous avez ressenti avant que l'episode atteigne son maximum
 
 Signes utiles:
 
-- etourdissement ou vertige
+- étourdissement ou vertige
 - vision en tunnel, points noirs ou vision floue
 - audition etouffee ou bourdonnement
 - nausee
@@ -110,7 +110,7 @@ Notez:
 - si les symptômes sont revenus en vous relevant
 - si vous avez perdu connaissance ou si vous etes reste conscient
 
-La recommandation ACC, AHA et HRS decrit l'intolérance orthostatique comme des symptômes qui apparaissent en position debout et s'ameliorent assis ou allongé. Une note de posture peut donc être plus utile qu'un long paragraphe.
+La recommandation ACC, AHA et HRS decrit l'intolérance orthostatique comme des symptômes qui apparaissent en position debout et s'améliorent assis ou allongé. Une note de posture peut donc être plus utile qu'un long paragraphe.
 
 ## Notez le contexte qui a pu abaisser votre seuil
 
@@ -160,7 +160,7 @@ Par exemple:
 - symptômes au meme moment
 - ce qui s'est passe après s'être assis ou allongé
 
-Ne poursuivez pas les chiffres pendant un episode dangereux. Si vous sentez que vous pouvez vous evanouir, la priorite est de vous mettre en sécurité. Les constantes n'aident que si les mesurer ne vous met pas en risque.
+Ne poursuivez pas les chiffres pendant un episode dangereux. Si vous sentez que vous pouvez vous évanouir, la priorite est de vous mettre en sécurité. Les constantes n'aident que si les mesurer ne vous met pas en risque.
 
 ## Marquez les details de sécurité et les signaux d'alerte
 
@@ -175,7 +175,7 @@ Dans votre tracker, marquez:
 - s'il y avait douleur thoracique, difficulte a respirer, nouvelle faiblesse, mal de tête severe ou symptômes inhabituels pour vous
 - si des soins d'urgence ont été nécessaires
 
-MedlinePlus note que l'evanouissement peut parfois indiquer un problème serieux. Les episodes nouveaux, severes ou inexpliques meritent donc une discussion avec un professionnel de sante.
+MedlinePlus note que l'évanouissement peut parfois indiquer un problème serieux. Les episodes nouveaux, severes ou inexpliques meritent donc une discussion avec un professionnel de sante.
 
 ## Modele rapide pour la presyncope
 
@@ -194,14 +194,14 @@ Le meilleur tracker est celui que vous pouvez utiliser quand vous etes epuise. C
 
 Informations utiles:
 
-- [Apercu de la presyncope par Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/presyncope)
-- [Apercu de la dysautonomie par Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6004-dysautonomia)
-- [Apercu de l'evanouissement par MedlinePlus](https://medlineplus.gov/fainting.html)
+- [Aperçu de la presyncope par Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/presyncope)
+- [Aperçu de la dysautonomie par Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6004-dysautonomia)
+- [Aperçu de l'évanouissement par MedlinePlus](https://medlineplus.gov/fainting.html)
 - [Recommandation ACC/AHA/HRS 2017 sur la syncope](https://www.jacc.org/doi/10.1016/j.jacc.2017.03.003)
 
 ## La place de Zebra
 
-Zebra vous aide a garder les quasi-malaises au meme endroit que les [vertiges](/fr-fr/knowledge/dizziness/), [etourdissements](/fr-fr/knowledge/lightheadedness/), notes de fréquence cardiaque ou tension, hydratation, sel, médicaments, declencheurs et impact fonctionnel.
+Zebra vous aide a garder les quasi-malaises au meme endroit que les [vertiges](/fr-fr/knowledge/dizziness/), [étourdissements](/fr-fr/knowledge/lightheadedness/), notes de fréquence cardiaque ou tension, hydratation, sel, médicaments, declencheurs et impact fonctionnel.
 
 Zebra ne vous dit pas pourquoi un episode est arrive. Il vous aide a apporter une chronologie plus claire au rendez-vous.
 
@@ -217,7 +217,7 @@ Zebra ne vous dit pas pourquoi un episode est arrive. Il vous aide a apporter un
 
 ### Qu'est-ce que la presyncope?
 
-La presyncope signifie avoir l'impression de pouvoir s'evanouir sans perdre completement connaissance. Elle peut inclure etourdissement, faiblesse, nausee, transpiration, changements visuels et instabilite.
+La presyncope signifie avoir l'impression de pouvoir s'évanouir sans perdre completement connaissance. Elle peut inclure étourdissement, faiblesse, nausee, transpiration, changements visuels et instabilite.
 
 ### Que faut-il suivre pendant un episode de presyncope?
 

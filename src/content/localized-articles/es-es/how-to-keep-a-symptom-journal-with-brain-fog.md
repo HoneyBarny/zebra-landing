@@ -17,7 +17,7 @@ primaryKeyword: "como llevar diario de síntomas con brain fog"
 seoTitle: "Como llevar un diario de síntomas con brain fog | Zebra"
 metaDescription: "Aprende como llevar un diario de síntomas con brain fog usando un sistema estructurado y de bajo esfuerzo que todavía ayuda antes de las citas."
 ogTitle: "Como llevar un diario de síntomas con brain fog"
-ogDescription: "Un enfoque de bajo esfuerzo para registrar síntomas cuando memoria, enfoque y escritura son más dificiles de lo normal."
+ogDescription: "Un enfoque de bajo esfuerzo para registrar síntomas cuando memoria, enfoque y escritura son más difíciles de lo normal."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Plantilla de diario de síntomas de cuatro partes para personas con brain fog"
 ctaLabel: "Descargar Zebra"
@@ -53,7 +53,7 @@ faq:
   - question: "¿Cómo llevo un diario de síntomas cuando tengo brain fog?"
     answer: "Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea síntomas, cambios e impacto funcional en el formato útil más pequeno."
   - question: "¿Qué debo escribir en días malos de brain fog?"
-    answer: "El síntoma más fuerte, que cambio y una linea sobre como afecto tu día suelen ser suficientes."
+    answer: "El síntoma más fuerte, que cambió y una línea sobre cómo afectó tu día suelen ser suficientes."
   - question: "¿Necesito ponerme al día con los días perdidos?"
     answer: "No. Reiniciar hoy suele ser más sostenible que intentar reconstruirlo todo perfectamente."
 ---
@@ -75,7 +75,7 @@ No debería exigirte ser articulado, motivado u organizado en el momento.
 
 ## La entrada minima útil
 
-En un día dificil, una entrada útil puede ser tan simple como:
+En un día difícil, una entrada útil puede ser tan simple como:
 
 - síntoma
 - severidad
@@ -116,7 +116,7 @@ Si perdiste días:
 
 Un registro real parcial es más útil que uno perfecto imaginario.
 
-## Enfocate en lo que más importa
+## Enfócate en lo que más importa
 
 Cuando tu energía esta baja, rastrea:
 
@@ -146,7 +146,7 @@ Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea s
 
 ### ¿Qué debo escribir en días malos de brain fog?
 
-El síntoma más fuerte, qué cambió y una linea sobre cómo afectó tu día suelen ser suficientes.
+El síntoma más fuerte, qué cambió y una línea sobre cómo afectó tu día suelen ser suficientes.
 
 ### ¿Necesito ponerme al día con los días perdidos?
 

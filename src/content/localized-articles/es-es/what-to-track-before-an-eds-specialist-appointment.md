@@ -4,7 +4,7 @@ originalSlug: "what-to-track-before-an-eds-specialist-appointment"
 status: "published"
 publishedAt: "2026-07-12"
 title: "Que rastrear antes de una cita con especialista en EDS"
-subtitle: "Antes de una cita con especialista en EDS, lo más útil es rastrear el patron que explica que cambio, como se siente tu cuerpo día a día, que afecta la función y que síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita."
+subtitle: "Antes de una cita con especialista en EDS, lo más útil es rastrear el patrón que explica que cambió, como se siente tu cuerpo día a día, que afecta la función y que síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita."
 description: "Aprende que rastrear antes de una cita con especialista en EDS, incluyendo síntomas articulares, patrones de solapamiento, función diaria, medicación y tus preguntas principales."
 excerpt: "Una checklist práctica para rastrear los síntomas, cambios y preguntas que hacen más útil una cita con especialista en EDS."
 author: "zebra-editorial"
@@ -54,20 +54,20 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo rastrear antes de una cita con especialista en EDS?"
-    answer: "Rastrea los síntomas más relevantes para la visita, que cambio recientemente, como afectan los síntomas la función diaria, patrones de solapamiento, tratamientos o apoyos que probaste, y las preguntas principales que quieres responder."
+    answer: "Rastrea los síntomas más relevantes para la visita, que cambió recientemente, como afectan los síntomas la función diaria, patrones de solapamiento, tratamientos o apoyos que probaste, y las preguntas principales que quieres responder."
   - question: "¿Necesito rastrear todos los síntomas de EDS antes de mi cita?"
-    answer: "No. Enfocate en los síntomas más nuevos, más disruptivos, más frecuentes o más relevantes para la razon por la que ves al especialista."
+    answer: "No. Enfócate en los síntomas más nuevos, más disruptivos, más frecuentes o más relevantes para la razón por la que ves al especialista."
   - question: "¿Debo rastrear síntomas de disautonomía antes de una visita por EDS?"
     answer: "Si mareo, palpitaciones, síntomas ortostáticos, fatiga u otros problemas de solapamiento son parte de tu cuadro, es útil incluirlos en el mismo historial reciente."
   - question: "¿Qué pasa si tengo brain fog y no puedo preparar un resumen largo?"
-    answer: "Usa una estructura corta: que cambio, que afecta la función, que síntomas de solapamiento importan, que probaste y con que quieres ayuda."
+    answer: "Usa una estructura corta: que cambió, que afecta la función, que síntomas de solapamiento importan, que probaste y con que quieres ayuda."
   - question: "¿Debo llevar un informe listo para el médico a una cita de EDS?"
     answer: "Un informe o resumen conciso puede hacer la visita más fácil porque te ayuda a revisar patrones, preguntas y cambios recientes sin depender solo de la memoria."
 ---
 
-Antes de una cita con especialista en EDS, lo más útil es rastrear el patron que explica qué cambió, cómo se siente tu cuerpo día a día, qué afecta la función y qué síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita.
+Antes de una cita con especialista en EDS, lo más útil es rastrear el patrón que explica qué cambió, cómo se siente tu cuerpo día a día, qué afecta la función y qué síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita.
 
-Para muchas personas que lidian con [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/), la parte dificil no es notar síntomas. Es convertir un mes desordenado de dolor, inestabilidad, fatiga, mareo y brain fog en una historia corta que todavía tenga sentido en la consulta. Ahí ayuda un [historial de salud](/knowledge/health-history/) claro.
+Para muchas personas que lidian con [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/), la parte difícil no es notar síntomas. Es convertir un mes desordenado de dolor, inestabilidad, fatiga, mareo y brain fog en una historia corta que todavía tenga sentido en la consulta. Ahí ayuda un [historial de salud](/knowledge/health-history/) claro.
 
 ## Qué suele necesitar entender rápido un especialista en EDS
 
@@ -92,13 +92,13 @@ Empieza con los síntomas más relevantes para esta visita.
 Eso puede incluir:
 
 - dolor
-- inestabilidad articular o episodios de subluxacion
+- inestabilidad articular o episodios de subluxación
 - fatiga
 - mareo o aturdimiento
 - brain fog
 - síntomas GI
 - dolores de cabeza
-- alteracion del sueño
+- alteración del sueño
 
 No necesitas rastrear cada sensación. Rastrea los síntomas que son:
 
@@ -110,17 +110,17 @@ No necesitas rastrear cada sensación. Rastrea los síntomas que son:
 
 ## 2. Que cambió recientemente
 
-Los especialistas suelen necesitar la linea de tiempo reciente más que todo el historial de vida.
+Los especialistas suelen necesitar la línea de tiempo reciente más que todo el historial de vida.
 
 Rastrea:
 
-- cuando cambio el patron de síntomas
-- si algo se volvio más frecuente
-- si la recuperación empezo a tomar más tiempo
+- cuando cambio el patrón de síntomas
+- si algo se volvió más frecuente
+- si la recuperación empezó a tomar más tiempo
 - si los síntomas empezaron a afectar más partes del día
 - si un síntoma ahora lleva a otro
 
-Esto ayuda especialmente si tu mes se ha sentido dificil de resumir en voz alta.
+Esto ayuda especialmente si tu mes se ha sentido difícil de resumir en voz alta.
 
 ## 3. Síntomas de solapamiento que pertenecen al mismo registro
 
@@ -133,10 +133,10 @@ El contexto útil de solapamiento puede incluir:
 - mareo después de estar de pie
 - palpitaciones durante brotes
 - fatiga después de actividad
-- brain fog en días más dificiles
+- brain fog en días más difíciles
 - grupos de síntomas que aparecen juntos
 
-No intentas probar la causa por tu cuenta. Mantienes el patron revisable.
+No intentas probar la causa por tu cuenta. Mantienes el patrón revisable.
 
 ## 4. Impacto funcional
 
@@ -153,9 +153,9 @@ Rastrea ejemplos como:
 
 Este tipo de [impacto funcional](/knowledge/functional-impact/) hace que el historial de síntomas sea mucho más fácil de entender.
 
-## 5. Brotes y días más dificiles
+## 5. Brotes y días más difíciles
 
-Si tus síntomas vienen en olas, rastrea el patron de brotes en lugar de intentar recrear cada hora.
+Si tus síntomas vienen en olas, rastrea el patrón de brotes en lugar de intentar recrear cada hora.
 
 Notas útiles de brote incluyen:
 
@@ -166,7 +166,7 @@ Notas útiles de brote incluyen:
 - cuánto duró
 - qué tuviste que dejar de hacer
 
-Eso te da un resumen más claro que una narracion larga escrita después.
+Eso te da un resumen más claro que una narración larga escrita después.
 
 ## 6. Tratamientos, apoyos y cambios de rutina
 
@@ -243,7 +243,7 @@ Si quieres la parte del informe de ese flujo, [Que es un informe de síntomas li
 
 ## Puntos clave
 
-- Rastrea el patron reciente, no todo tu historial médico.
+- Rastrea el patrón reciente, no todo tu historial médico.
 - Incluye síntomas de solapamiento si forman parte del mismo cuadro vivido.
 - Muestra que síntomas cambiaron y que te impidieron hacer.
 - Lleva una lista corta de preguntas para que la visita no dependa solo de la memoria.
@@ -256,7 +256,7 @@ Rastrea los síntomas más relevantes para la visita, qué cambió recientemente
 
 ### ¿Necesito rastrear todos los síntomas de EDS antes de mi cita?
 
-No. Enfocate en los síntomas más nuevos, más disruptivos, más frecuentes o más relevantes para la razon por la que ves al especialista.
+No. Enfócate en los síntomas más nuevos, más disruptivos, más frecuentes o más relevantes para la razón por la que ves al especialista.
 
 ### ¿Debo rastrear síntomas de disautonomía antes de una visita por EDS?
 

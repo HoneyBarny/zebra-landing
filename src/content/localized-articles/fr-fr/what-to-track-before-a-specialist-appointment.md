@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
-primaryKeyword: "quoi suivre avant rendez-vous specialiste"
+primaryKeyword: "quoi suivre avant rendez-vous spécialiste"
 seoTitle: "Quoi suivre avant un rendez-vous spécialiste | Zebra"
 metaDescription: "Apprenez quoi suivre avant un rendez-vous spécialiste, y compris symptômes, poussees, médicaments, changements de fonctionnement et vos principales questions."
 ogTitle: "Quoi suivre avant un rendez-vous spécialiste"
@@ -92,7 +92,7 @@ Commencez par les symptômes les plus pertinents pour le rendez-vous a venir.
 
 Exemples:
 
-- etourdissements
+- étourdissements
 - palpitations
 - fatigue
 - brain fog
@@ -109,7 +109,7 @@ Vous n'avez pas besoin de suivre chaque sensation. Suivez les symptômes qui son
 - clairement aggraves
 - les plus importants a demander
 
-Si vous avez seulement l'energie de suivre quelques choses, commencez la.
+Si vous avez seulement l'énergie de suivre quelques choses, commencez la.
 
 ### 2. Quand les symptômes arrivent et ce qui a change
 
@@ -124,7 +124,7 @@ Suivez:
 
 C'est particulierement utile pour les conditions fluctuantes, ou "je me sens mal parfois" est vrai mais trop large pour aider beaucoup pendant un court rendez-vous.
 
-Pour les symptômes lies au POTS et a la dysautonomie, il peut être particulierement utile de noter si les symptômes empirent en position debout et s'ameliorent en position allongée, car les symptômes orthostatiques sont souvent lies a la position. Dysautonomia International note que les symptômes du POTS incluent souvent etourdissements, fatigue, palpitations et intolérance a l'exercice, et que les observations de fréquence cardiaque et de tension arterielle au lit peuvent faire partie des discussions d'évaluation pour certains patients. Voir [Dysautonomia International](https://dysautonomiainternational.org/page.php?ID=30).
+Pour les symptômes lies au POTS et a la dysautonomie, il peut être particulierement utile de noter si les symptômes empirent en position debout et s'améliorent en position allongée, car les symptômes orthostatiques sont souvent lies a la position. Dysautonomia International note que les symptômes du POTS incluent souvent étourdissements, fatigue, palpitations et intolérance a l'exercice, et que les observations de fréquence cardiaque et de tension arterielle au lit peuvent faire partie des discussions d'évaluation pour certains patients. Voir [Dysautonomia International](https://dysautonomiainternational.org/page.php?ID=30).
 
 ### 3. Tendances de poussees
 
@@ -135,7 +135,7 @@ Les details utiles de poussee incluent:
 - date
 - sévérité
 - durée
-- quels symptômes etaient les plus forts
+- quels symptômes étaient les plus forts
 - ce qui se passait aussi autour de ce moment
 
 Cela vous donne une image plus claire des mauvais jours que votre cerveau risque le plus de melanger plus tard.
@@ -211,7 +211,7 @@ Si vous repartez sans réponse a vos questions, meme un rendez-vous bien suivi p
 
 ## Une facon simple d'organiser vos notes
 
-Si vous avez peu d'energie, utilisez cette structure:
+Si vous avez peu d'énergie, utilisez cette structure:
 
 ### Ce qui a le plus change
 
@@ -268,7 +268,7 @@ Ce qui compte le plus:
 - contexte pertinent
 - ce que vous voulez discuter
 
-## Ce qu'il ne faut pas gaspiller d'energie a suivre
+## Ce qu'il ne faut pas gaspiller d'énergie a suivre
 
 Ne transformez pas cela en projet de perfection.
 
@@ -280,7 +280,7 @@ Vous n'avez généralement pas besoin de:
 - un rattrapage parfait
 - un document parfaitement formate a la dernière minute
 
-Si le suivi prend tellement d'energie que vous arretez, c'est trop.
+Si le suivi prend tellement d'énergie que vous arretez, c'est trop.
 
 ## Si vous avez du brain fog, utilisez la version minimum utile
 

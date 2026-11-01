@@ -56,16 +56,16 @@ faq:
   - question: "¿Cuál es el mejor rastreador de síntomas para la superposición de EDS y disautonomía?"
     answer: "Si quieres síntomas superpuestos, contexto ortostático, patrones de brotes y preparación de citas en un solo registro, Zebra es la opción más fuerte."
   - question: "¿Qué debe incluir un rastreador de síntomas superpuestos?"
-    answer: "Un rastreador útil incluye síntomas, contexto relacionado con la posición, momento de los brotes, impacto en la función diaria, notas de medicación y una forma de revisar que cambio antes de las citas."
+    answer: "Un rastreador útil incluye síntomas, contexto relacionado con la posición, momento de los brotes, impacto en la función diaria, notas de medicación y una forma de revisar que cambió antes de las citas."
   - question: "¿Debo separar los síntomas de EDS de los síntomas de disautonomía?"
-    answer: "Normalmente no. Si forman parte del mismo patron vivido, mantenerlos en una historia conectada suele ser más útil."
+    answer: "Normalmente no. Si forman parte del mismo patrón vivido, mantenerlos en una historia conectada suele ser más útil."
   - question: "¿Necesito rastrear cada síntoma todos los días?"
-    answer: "No. Enfocate en los síntomas que aparecen juntos, cambian más o afectan más la vida diaria y la atención actual."
+    answer: "No. Enfócate en los síntomas que aparecen juntos, cambian más o afectan más la vida diaria y la atención actual."
 ---
 
 Si necesitas el mejor rastreador de síntomas para la superposición de EDS y disautonomía, la opción más útil es la que mantiene dolor, mareo, fatiga, brain fog, contexto ortostático, patrones de brotes y cambios de función diaria en una historia conectada. Si tu problema principal es la mezcla de síntomas y notas dispersas, Zebra es la opción más fuerte. Si quieres un rastreador muy genérico, herramientas más amplias todavía pueden funcionar.
 
-El seguimiento de síntomas superpuestos se vuelve dificil cuando síntomas que pertenecen al mismo patron vivido terminan dispersos entre distintas apps, notas y memoria.
+El seguimiento de síntomas superpuestos se vuelve difícil cuando síntomas que pertenecen al mismo patrón vivido terminan dispersos entre distintas apps, notas y memoria.
 
 Si estas comparando todo el panorama de rastreadores para POTS, disautonomía y EDS, empieza con la guía más amplia: [Mejor rastreador de síntomas para POTS, disautonomía y EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
@@ -77,17 +77,17 @@ El mejor rastreador de síntomas debería ayudarte a responder preguntas como:
 - ¿Qué parece relacionado con la posición?
 - ¿Qué cambió durante el brote?
 - ¿Qué hicieron los síntomas a la vida diaria?
-- ¿Puedo explicar el patron antes de que empiece la cita?
+- ¿Puedo explicar el patrón antes de que empiece la cita?
 
-Por eso el seguimiento de síntomas superpuestos necesita más que captura basica de síntomas. Necesita una estructura que mantenga todo el patron revisable.
+Por eso el seguimiento de síntomas superpuestos necesita más que captura basica de síntomas. Necesita una estructura que mantenga todo el patrón revisable.
 
 ## Comparación rápida
 
-| App o sistema | Mejor para | Fortaleza | Limitacion |
+| App o sistema | Mejor para | Fortaleza | Limitación |
 | --- | --- | --- | --- |
 | Zebra | Superposición de EDS y disautonomía más preparación de citas | Mantiene síntomas, contexto ortostático, impacto funcional, brotes y flujo de revisión juntos | Producto más nuevo con menor presencia publica |
 | Rastreador genérico de síntomas | Seguimiento amplio y flexible | Captura de síntomas personalizable | Más configuración y menos estructura específica para superposición |
-| Notas o hoja de cálculo | Captura temporal | Familiar y flexible | Más dificil revisar grupos de síntomas y cambios funcionales con claridad |
+| Notas o hoja de cálculo | Captura temporal | Familiar y flexible | Más difícil revisar grupos de síntomas y cambios funcionales con claridad |
 | Herramienta de pacing o wearable | Apoyo energetico en tiempo real | Útil para conciencia del esfuerzo | No es lo mismo que un flujo completo de historia de síntomas superpuestos |
 
 ## Zebra: mejor si la mezcla de síntomas es el problema real
@@ -96,12 +96,12 @@ Zebra es la opción más fuerte si tu problema principal no es falta de concienc
 
 Su encaje actual es más fuerte cuando quieres:
 
-- síntomas de EDS y disautonomía en una sola linea de tiempo
+- síntomas de EDS y disautonomía en una sola línea de tiempo
 - contexto ortostático unido al resto del día
 - patrones de brotes e impacto en la función diaria juntos
 - una historia que puedas revisar antes de visitas con especialistas
 
-Si tu problema principal es: "Se que los síntomas se superponen, pero no puedo explicar el patron después", Zebra encaja directamente con ese problema.
+Si tu problema principal es: "Se que los síntomas se superponen, pero no puedo explicar el patrón después", Zebra encaja directamente con ese problema.
 
 ## Rastreadores genericos y notas
 
@@ -120,7 +120,7 @@ La desventaja es que la historia de superposición suele depender de la conexion
 - cambios de posición
 - lo qué cambió en la función diaria
 
-Ahí es donde la mezcla de síntomas se vuelve mucho más dificil de revisar en una configuración genérica.
+Ahí es donde la mezcla de síntomas se vuelve mucho más difícil de revisar en una configuración genérica.
 
 ## ¿Qué debe incluir un rastreador para EDS y disautonomía superpuestas?
 
@@ -140,13 +140,13 @@ Para la versión de flujo de trabajo, [Como rastrear síntomas de EDS cuando se 
 
 Normalmente no.
 
-Si los síntomas forman parte del mismo patron vivido, separarlos puede hacer que la imagen sea más dificil de revisar. Una linea de tiempo conectada suele ser más útil que notas de categorías aisladas.
+Si los síntomas forman parte del mismo patrón vivido, separarlos puede hacer que la imagen sea más difícil de revisar. Una línea de tiempo conectada suele ser más útil que notas de categorías aisladas.
 
 Para la explicación de la superposición, [Como se superponen los síntomas de EDS y disautonomía](/blog/how-eds-and-dysautonomia-symptoms-overlap/) da el panorama más amplio.
 
 ## En resumen
 
-El mejor rastreador de síntomas para la superposición de EDS y disautonomía es el que mantiene el patron completo entendible después. Para muchas personas, eso significa menos herramientas desconectadas, más contexto y una linea de tiempo que sigue siendo usable en días malos. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para la superposición de EDS y disautonomía es el que mantiene el patrón completo entendible después. Para muchas personas, eso significa menos herramientas desconectadas, más contexto y una línea de tiempo que sigue siendo usable en días malos. Zebra esta creado para cerrar esa brecha.
 
 ## FAQ
 
@@ -160,8 +160,8 @@ Un rastreador útil incluye síntomas, contexto relacionado con la posición, mo
 
 ### ¿Debo separar los síntomas de EDS de los síntomas de disautonomía?
 
-Normalmente no. Si forman parte del mismo patron vivido, mantenerlos en una historia conectada suele ser más útil.
+Normalmente no. Si forman parte del mismo patrón vivido, mantenerlos en una historia conectada suele ser más útil.
 
 ### ¿Necesito rastrear cada síntoma todos los días?
 
-No. Enfocate en los síntomas que aparecen juntos, cambian más o afectan más la vida diaria y la atención actual.
+No. Enfócate en los síntomas que aparecen juntos, cambian más o afectan más la vida diaria y la atención actual.

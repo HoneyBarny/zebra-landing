@@ -115,7 +115,7 @@ Notez:
 - combien de temps pour que cela se calme
 - si cela est revenu en vous relevant
 
-MedlinePlus Genetics note que les symptômes de l'hypotension orthostatique peuvent inclure douleur cou-epaules en cintre, faiblesse, vertige, vision floue, fatigue et evanouissement, et qu'ils peuvent empirer avec l'activité physique, la chaleur, les gros repas ou la station debout prolongee.
+MedlinePlus Genetics note que les symptômes de l'hypotension orthostatique peuvent inclure douleur cou-epaules en cintre, faiblesse, vertige, vision floue, fatigue et évanouissement, et qu'ils peuvent empirer avec l'activité physique, la chaleur, les gros repas ou la station debout prolongee.
 
 ## Associez douleur et lourdeur aux autres symptômes
 
@@ -123,7 +123,7 @@ La douleur en cintre ou les membres lourds peuvent venir avec d'autres symptôme
 
 Ajoutez ce qui s'est passe au meme moment:
 
-- vertige ou etourdissement
+- vertige ou étourdissement
 - changements visuels
 - palpitations ou coeur qui s'emballe
 - essoufflement
@@ -134,7 +134,7 @@ Ajoutez ce qui s'est passe au meme moment:
 - fatigue
 - presyncope ou malaise
 
-Cela aide votre médecin a voir si le symptôme etait isole ou faisait partie d'un episode orthostatique.
+Cela aide votre médecin a voir si le symptôme était isole ou faisait partie d'un episode orthostatique.
 
 ## Capturez les declencheurs courants
 
@@ -154,7 +154,7 @@ Contexte utile:
 - regles ou changement hormonal
 - pic de douleur
 - debut, arret, oubli ou changement de dose de médicament
-- vetement de compression ou absence de compression
+- vêtement de compression ou absence de compression
 
 Le schema "douleur au cou et jambes lourdes après 12 minutes debout dans un magasin chaud" est beaucoup plus facile a discuter que "mon corps est parfois lourd."
 
@@ -187,7 +187,7 @@ Par exemple:
 - intensite de la lourdeur des membres
 - ce qui s'est améliore après s'être assis ou allongé
 
-Ne forcez pas la prise de constantes pendant un episode dangereux. Si vous sentez que vous pouvez vous evanouir, mettez-vous en sécurité d'abord.
+Ne forcez pas la prise de constantes pendant un episode dangereux. Si vous sentez que vous pouvez vous évanouir, mettez-vous en sécurité d'abord.
 
 ## Quand marquer quelque chose comme différent
 
@@ -225,7 +225,7 @@ Des notes courtes suffisent. Le schema est le point important.
 
 Informations utiles:
 
-- [Apercu de l'hypotension orthostatique par MedlinePlus Genetics](https://medlineplus.gov/genetics/condition/orthostatic-hypotension/)
+- [Aperçu de l'hypotension orthostatique par MedlinePlus Genetics](https://medlineplus.gov/genetics/condition/orthostatic-hypotension/)
 - [Neck and other muscle pains in autonomic failure](https://pubmed.ncbi.nlm.nih.gov/9771493/)
 - [Diagnosis and treatment of orthostatic hypotension](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/)
 - [The Autonomic Médical History](https://pmc.ncbi.nlm.nih.gov/articles/PMC8942132/)

@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-is-a-doctor-ready-symptom-report"
 title: "Que es un informe de síntomas listo para el médico?"
 status: "published"
-subtitle: "Un informe de síntomas listo para el médico es un resumen estructurado del historial de síntomas introducido por la persona. Esta pensado para facilitar la preparación de una cita y hacer la conversación más clara. No es un diagnóstico, ni un informe clínico, ni una prueba que le diga al médico que decidir. Es un registro organizado de lo que paso, lo que cambio y lo que más importa ahora."
+subtitle: "Un informe de síntomas listo para el médico es un resumen estructurado del historial de síntomas introducido por la persona. Esta pensado para facilitar la preparación de una cita y hacer la conversación más clara. No es un diagnóstico, ni un informe clínico, ni una prueba que le diga al médico que decidir. Es un registro organizado de lo que pasó, lo que cambió y lo que más importa ahora."
 description: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
 excerpt: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
 author: "zebra-editorial"
@@ -17,7 +17,7 @@ primaryKeyword: "informe de síntomas para el médico"
 seoTitle: "Que es un informe de síntomas listo para el médico? | Zebra"
 metaDescription: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
 ogTitle: "Que es un informe de síntomas listo para el médico?"
-ogDescription: "Una definicion sencilla de lo que hace útil un informe de síntomas antes de una cita con un especialista."
+ogDescription: "Una definición sencilla de lo que hace útil un informe de síntomas antes de una cita con un especialista."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Estructura de ejemplo de un informe de síntomas listo para el médico"
 ctaLabel: "Descargar Zebra"
@@ -52,12 +52,12 @@ faq:
   - question: "¿Qué debería incluir un informe de síntomas para el médico?"
     answer: "Las secciones más útiles suelen ser síntomas principales, cambios recientes, impacto funcional, contexto de medicación y preguntas relevantes."
   - question: "¿Un informe de síntomas es lo mismo que un diagnóstico?"
-    answer: "No. Es una herramienta para la conversación, no una conclusion diagnóstica."
+    answer: "No. Es una herramienta para la conversación, no una conclusión diagnóstica."
 ---
 
 Un informe de síntomas listo para el médico es un resumen estructurado del historial de síntomas introducido por la persona. Esta pensado para facilitar la preparación de una cita y hacer la conversación más clara. No es un diagnóstico, ni un informe clínico, ni una prueba que le diga al médico que decidir. Es un registro organizado de lo que pasó, lo que cambió y lo que más importa ahora.
 
-Para muchas personas con enfermedad crónica, este tipo de informe es la razon real por la que registran síntomas.
+Para muchas personas con enfermedad crónica, este tipo de informe es la razón real por la que registran síntomas.
 
 ## Qué debería incluir un informe listo para el médico
 
@@ -118,7 +118,7 @@ Un informe más fuerte:
 
 ## Dónde encaja Zebra
 
-Zebra trata el informe listo para el médico como el resultado principal del seguimiento. El objetivo es convertir el historial diario de síntomas en un resumen más claro para preparar la cita, sin fingir que el informe en si mismo es una conclusion médica.
+Zebra trata el informe listo para el médico como el resultado principal del seguimiento. El objetivo es convertir el historial diario de síntomas en un resumen más claro para preparar la cita, sin fingir que el informe en si mismo es una conclusión médica.
 
 ## Ideas clave
 
@@ -139,4 +139,4 @@ Las secciones más útiles suelen ser síntomas principales, cambios recientes, 
 
 ### ¿Un informe de síntomas es lo mismo que un diagnóstico?
 
-No. Es una herramienta para la conversación, no una conclusion diagnóstica.
+No. Es una herramienta para la conversación, no una conclusión diagnóstica.

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "best-symptom-tracker-for-eds-and-dysautonomia-overlap"
 status: "published"
 title: "Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie"
-subtitle: "Si vous cherchez le meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie, le choix le plus utile est celui qui garde douleur, etourdissements, fatigue, brain fog, contexte orthostatique, profils de poussees et changements du fonctionnement quotidien dans un historique connecte. Si votre principal problème est le flou des symptômes et les notes dispersees, Zebra est le meilleur choix. Si vous voulez un tracker très generique, des outils plus larges peuvent encore fonctionner."
+subtitle: "Si vous cherchez le meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie, le choix le plus utile est celui qui garde douleur, étourdissements, fatigue, brain fog, contexte orthostatique, profils de poussees et changements du fonctionnement quotidien dans un historique connecte. Si votre principal problème est le flou des symptômes et les notes dispersees, Zebra est le meilleur choix. Si vous voulez un tracker très generique, des outils plus larges peuvent encore fonctionner."
 description: "Comparez les options de trackers de symptômes pour le chevauchement EDS et dysautonomie, avec contexte orthostatique, changements du fonctionnement quotidien et préparation de rendez-vous."
 excerpt: "Un guide pratique pour choisir le meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie."
 author: "zebra-editorial"
@@ -14,7 +14,7 @@ lastReviewed: "2026-07-24"
 featured: true
 cluster: "Comparison"
 category: "Comparison"
-primaryKeyword: "meilleur tracker symptomes eds dysautonomie chevauchement"
+primaryKeyword: "meilleur tracker symptômes eds dysautonomie chevauchement"
 seoTitle: "Meilleur tracker de symptômes pour EDS et dysautonomie | Zebra"
 metaDescription: "Comparez les trackers de symptômes pour le chevauchement EDS et dysautonomie, avec contexte orthostatique, fonctionnement quotidien et préparation de rendez-vous."
 ogTitle: "Meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie"
@@ -63,7 +63,7 @@ faq:
     answer: "Non. Concentrez-vous sur les symptômes qui apparaissent ensemble, changent le plus ou affectent le plus la vie quotidienne et les soins actuels."
 ---
 
-Si vous cherchez le meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie, le choix le plus utile est celui qui garde douleur, etourdissements, fatigue, brain fog, contexte orthostatique, profils de poussees et changements du fonctionnement quotidien dans un historique connecte. Si votre principal problème est le flou des symptômes et les notes dispersees, Zebra est le meilleur choix. Si vous voulez un tracker très generique, des outils plus larges peuvent encore fonctionner.
+Si vous cherchez le meilleur tracker de symptômes pour le chevauchement EDS et dysautonomie, le choix le plus utile est celui qui garde douleur, étourdissements, fatigue, brain fog, contexte orthostatique, profils de poussees et changements du fonctionnement quotidien dans un historique connecte. Si votre principal problème est le flou des symptômes et les notes dispersees, Zebra est le meilleur choix. Si vous voulez un tracker très generique, des outils plus larges peuvent encore fonctionner.
 
 Le suivi du chevauchement devient difficile quand des symptômes qui appartiennent au meme profil vecu finissent disperses entre plusieurs apps, notes et souvenirs.
 
@@ -114,7 +114,7 @@ Des trackers plus larges ou des notes peuvent encore fonctionner si:
 Le compromis est que l'historique de chevauchement dépend souvent du lien entre:
 
 - douleur
-- etourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête legere
 - fatigue
 - brain fog
 - changements de position

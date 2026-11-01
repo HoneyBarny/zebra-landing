@@ -35,7 +35,7 @@ tags:
   - "jambes violettes"
   - "POTS"
   - "dysautonomie"
-  - "vetements de compression"
+  - "vêtements de compression"
   - "rendez-vous médical"
 entities:
   - "POTS"
@@ -89,7 +89,7 @@ Notez:
 - combien de temps vous etiez debout
 - si les symptômes ont commence immediatement ou après quelques minutes
 - si vous etiez immobile ou en mouvement
-- si chaleur, douche, repas ou effort etaient proches
+- si chaleur, douche, repas ou effort étaient proches
 - si s'asseoir ou s'allonger a aide
 - durée de recuperation
 
@@ -97,7 +97,7 @@ Exemple: "Debout cuisine 18 minutes. Pieds rouge-violet, mollets lourds, vertige
 
 Cela donne une sequence lisible.
 
-## Decrire la couleur clairement
+## Décrire la couleur clairement
 
 Utilisez des mots visuels simples. Vous n'avez pas besoin de nommer la cause.
 
@@ -171,9 +171,9 @@ Les médecins peuvent demander si les strategies de soutien changent les symptô
 Notez:
 
 - eau ce jour-la
-- electrolytes
+- électrolytes
 - sel si votre médecin le recommande
-- [vetements de compression](/fr-fr/knowledge/compression-garments/) utilises ou non
+- [vêtements de compression](/fr-fr/knowledge/compression-garments/) utilises ou non
 - type: chaussettes, bas, leggings, compression abdominale
 - force de compression si connue
 - si les symptômes changent avec compression
@@ -196,7 +196,7 @@ Notez si cela s'est améliore avec:
 - marcher plutot que rester immobile
 - compression
 - liquides
-- electrolytes
+- électrolytes
 - refroidissement
 - nourriture
 - médicament déjà prescrit
@@ -256,7 +256,7 @@ Lecture utile:
 - [The Ehlers-Danlos Society dysautonomie](https://www.ehlers-danlos.com/dysautonomia/)
 - [Etude discoloration extremites et symptômes autonomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048065/)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder changements de couleur, temps debout, posture, vertige, fréquence cardiaque, compression, hydratation, sel, recuperation, impact fonctionnel et questions pour le médecin dans une meme timeline.
 

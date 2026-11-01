@@ -14,7 +14,7 @@ lastReviewed: "2026-08-08"
 featured: false
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"
-primaryKeyword: "7 premiers jours suivi symptomes"
+primaryKeyword: "7 premiers jours suivi symptômes"
 seoTitle: "Les 7 premiers jours de suivi des symptômes | Zebra"
 metaDescription: "Commencez le suivi des symptômes avec un plan simple de 7 jours pour symptômes, declencheurs, médicaments, recuperation et impact quotidien."
 ogTitle: "Les 7 premiers jours de suivi des symptômes"
@@ -97,7 +97,7 @@ Choisissez un a trois symptômes qui affectent le plus votre journee:
 
 - douleur
 - fatigue
-- vertige ou etourdissement
+- vertige ou étourdissement
 - brain fog
 - palpitations
 - nausee
@@ -131,7 +131,7 @@ Notez:
 - matin, apres-midi, soir ou nuit
 - combien de temps cela a dure
 - si cela venait et repartait
-- si c'etait pire a un moment précis
+- si c'était pire a un moment précis
 - si repos, nourriture, liquides, médicaments, position allongée, refroidissement ou sommeil ont aide
 
 Le journal de symptômes de Kaiser Permanente demande quand le symptôme commence, quand il gene le plus et s'il va et vient pendant la journee. C'est un bon modele: un timing simple vaut mieux qu'un suivi complique.
@@ -212,7 +212,7 @@ Cela transforme le suivi en préparation de rendez-vous, pas en corvee sans fin.
 
 | Jour | Quoi noter | Version minimale |
 | --- | --- | --- |
-| 1 | Trois principaux symptômes | "Aujourd'hui le problème principal etait..." |
+| 1 | Trois principaux symptômes | "Aujourd'hui le problème principal était..." |
 | 2 | Intensite | "Symptôme a __/10." |
 | 3 | Moment | "Pire a __, durée __." |
 | 4 | Mieux ou pire | "Pire après __, mieux avec __." |

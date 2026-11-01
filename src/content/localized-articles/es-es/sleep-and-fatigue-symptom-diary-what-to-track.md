@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar contexto de sueño, fatiga, brain fog, dolor, actividad, medicamentos y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar contexto de sueño, fatiga, brain fog, dolor, actividad, medicamentos y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Fatigue"
@@ -64,12 +64,12 @@ faq:
   - question: "¿Un diario de sueño puede diagnosticar un trastorno del sueño?"
     answer: "No. Un diario puede ayudar a organizar patrones para un médico, pero el diagnóstico puede requerir evaluación clínica o pruebas."
   - question: "¿Debo registrar cada detalle si tengo fatiga?"
-    answer: "No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y que cambio tu función."
+    answer: "No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y que cambió tu función."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El sueño y la [fatiga](/es-es/knowledge/fatigue/) estan muy conectados para muchas personas con enfermedad crónica, pero el patron puede ser dificil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la linea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
+El sueño y la [fatiga](/es-es/knowledge/fatigue/) estan muy conectados para muchas personas con enfermedad crónica, pero el patrón puede ser difícil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la línea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
 
 Un diario de sueño y fatiga no diagnostica insomnio, apnea del sueño, ME/CFS, fibromialgia, Long COVID ni ninguna otra condición. Te ayuda a llevar un registro más claro a un médico.
 
@@ -84,14 +84,14 @@ Empieza con:
 - horas estimadas de sueño
 - calidad del sueño: mala, regular, buena
 - cuantas veces despertaste
-- si dolor, síntomas, baño, calor, estres o respiracion te despertaron
+- si dolor, síntomas, baño, calor, estres o respiración te despertaron
 - qué tan descansado o no descansado te sentiste
 
 Ejemplo: "Cama 23:30, desperte 7:10, quizas 5.5 horas, desperte 3 veces por dolor de cadera, no descansado 8/10."
 
 Eso basta para interpretar mejor el día siguiente.
 
-## Anade fatiga y función del día siguiente
+## Añade fatiga y función del día siguiente
 
 Las notas de sueño son más útiles cuando se conectan con el día siguiente.
 
@@ -143,9 +143,9 @@ No cambies medicamentos solo por un diario. Usa las notas para una conversación
 
 ## Conecta sueño con brotes, PEM y dolor
 
-Para algunas personas, la alteracion del sueño forma parte de un patron más amplio de brote.
+Para algunas personas, la alteración del sueño forma parte de un patrón más amplio de brote.
 
-Registra si el mal sueño ocurrio cerca de:
+Registra si el mal sueño ocurrió cerca de:
 
 - brote de dolor de [fibromialgia](/es-es/knowledge/fibromyalgia/)
 - crash de [ME/CFS](/es-es/knowledge/me-cfs/) o [PEM](/es-es/knowledge/pem/)
@@ -171,7 +171,7 @@ Usa esta estructura:
 4. Día siguiente: fatiga, brain fog, dolor, función.
 5. Pregunta: ¿qué debo preguntar en la cita?
 
-El punto es la constancia, no la perfeccion.
+El punto es la constancia, no la perfección.
 
 ## Qué resumir antes de la cita
 
@@ -185,14 +185,14 @@ Antes de una visita, saca:
 - síntomas que te despertaron
 - si la fatiga afecto trabajo, escuela, cuidados, conducir o tareas basicas
 - patrones de medicamentos o cafeina que quieres preguntar
-- respiracion, ronquidos, despertar jadeando o síntomas urgentes a mencionar
+- respiración, ronquidos, despertar jadeando o síntomas urgentes a mencionar
 
 Preguntas útiles:
 
-- "Un problema de sueño podria empeorar mi fatiga, dolor, brain fog o mareo?"
+- "Un problema de sueño podría empeorar mi fatiga, dolor, brain fog o mareo?"
 - "Debo registrar el sueño durante más tiempo?"
 - "Algun síntoma sugiere estudio del sueño u otra evaluación?"
-- "El horario de medicamentos podria afectar el sueño o la fatiga diurna?"
+- "El horario de medicamentos podría afectar el sueño o la fatiga diurna?"
 - "Que síntomas son urgentes?"
 
 ## Contexto de fuentes
@@ -208,9 +208,9 @@ Contexto útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar contexto de sueño, fatiga, dolor, [brotes](/es-es/knowledge/flare/), medicamentos, disparadores, actividad, impacto funcional y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar contexto de sueño, fatiga, dolor, [brotes](/es-es/knowledge/flare/), medicamentos, disparadores, actividad, impacto funcional y preguntas para el médico en una sola línea de tiempo.
 
-Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a llevar un patron más claro de sueño y síntomas al médico que puede evaluarlo.
+Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a llevar un patrón más claro de sueño y síntomas al médico que puede evaluarlo.
 
 ## Puntos clave
 
@@ -218,7 +218,7 @@ Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a lleva
 - Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeina, síntomas e impacto.
 - Un diario corto de una o dos semanas puede ser más útil que notas largas dispersas.
 - No trates el contexto de sueño como prueba de causa; usalo como contexto para la cita.
-- El mejor resultado es una lista breve de preguntas y un patron que tu médico pueda revisar.
+- El mejor resultado es una lista breve de preguntas y un patrón que tu médico pueda revisar.
 
 ## FAQ
 

@@ -70,7 +70,7 @@ faq:
 
 Une poussee de [MCAS](/fr-fr/knowledge/mcas/) ou une reaction type mastocytes peut être difficile a expliquer ensuite, car l'episode peut toucher plusieurs systèmes du corps en meme temps: peau, intestin, respiration, pouls, tension, vertiges, gonflement ou sensation soudaine de "reaction allergique".
 
-Une note utile n'essaie pas de prouver la cause. Elle garde les details dont votre médecin peut avoir besoin: ce qui s'est passe, quand cela a commence, quels systèmes etaient impliques, ce qui etait present autour, ce que vous avez pris, si les symptômes ont baisse et si l'episode a touche la sécurité ou le quotidien.
+Une note utile n'essaie pas de prouver la cause. Elle garde les details dont votre médecin peut avoir besoin: ce qui s'est passe, quand cela a commence, quels systèmes étaient impliques, ce qui était present autour, ce que vous avez pris, si les symptômes ont baisse et si l'episode a touche la sécurité ou le quotidien.
 
 Le diagnostic de MCAS est complexe et doit rester clinique. Le suivi sert a organiser, pas a s'autodiagnostiquer.
 
@@ -83,8 +83,8 @@ Ne continuez pas a noter au lieu de demander de l'aide pour:
 - difficulte a respirer
 - gonflement de la gorge, langue, levres ou visage
 - sifflement respiratoire ou stridor
-- malaise ou evanouissement
-- etourdissement severe ou symptômes de tension basse
+- malaise ou évanouissement
+- étourdissement severe ou symptômes de tension basse
 - douleur thoracique
 - confusion ou sensation d'insecurite
 - reaction que votre médecin vous a dit de traiter comme urgente
@@ -101,7 +101,7 @@ Notez les symptômes par groupe:
 - intestin: douleur abdominale, crampes, diarrhee, nausee, vomissement, reflux
 - respiration: sifflement, toux, essoufflement, gorge serree, nez bouche
 - cardiovasculaire: pouls rapide, palpitations, symptômes de tension basse, malaise
-- neurologique ou général: vertige, etourdissement, mal de tête, faiblesse soudaine, brain fog, fatigue
+- neurologique ou général: vertige, étourdissement, mal de tête, faiblesse soudaine, brain fog, fatigue
 
 Vous n'avez pas besoin de décider si l'episode "compte". Notez simplement ce qui s'est passe clairement.
 
@@ -160,7 +160,7 @@ Pour chaque episode, notez:
 
 - médicaments ou mesures prises
 - heure de prise
-- s'ils etaient prescrits, sans ordonnance ou inclus dans votre plan
+- s'ils étaient prescrits, sans ordonnance ou inclus dans votre plan
 - si les symptômes ont baisse, empire ou reste identiques
 - si vous avez utilise un médicament d'urgence
 - si vous avez contacte un médecin, les urgences ou les secours
@@ -186,7 +186,7 @@ Notez:
 Utilisez cette structure:
 
 1. Heure: debut et durée.
-2. Systemes: peau, intestin, respiration, cardiovasculaire, neurologique, général.
+2. Systèmes: peau, intestin, respiration, cardiovasculaire, neurologique, général.
 3. Symptômes: symptômes les plus forts et sévérité.
 4. Contexte possible: nourriture, chaleur, parfum, maladie, stress, médicaments, activité.
 5. Actions: médicament, plan d'urgence, contact médical, repos.
@@ -220,12 +220,12 @@ Bonnes questions:
 
 Contexte utile:
 
-- [Apercu MCAS de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/mast-cell-activation-syndrome)
+- [Aperçu MCAS de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/mast-cell-activation-syndrome)
 - [Informations AAAAI sur le mast cell activation syndrome](https://www.aaaai.org/conditions-treatments/related-conditions/mcas)
 - [Mayo Clinic Press sur le suivi des declencheurs lies aux mastocytes](https://mcpress.mayoclinic.org/living-well/understanding-your-ism-triggers/)
 - [Perspectives patients et praticiens sur les declencheurs mastocytaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC12207528/)
 
-## Ou Zebra aide
+## Où Zebra aide
 
 Zebra aide a garder [poussees](/fr-fr/knowledge/flare/), [declencheurs](/fr-fr/knowledge/trigger/), symptômes, médicaments, notes, impact fonctionnel et questions pour le rendez-vous dans une meme timeline.
 

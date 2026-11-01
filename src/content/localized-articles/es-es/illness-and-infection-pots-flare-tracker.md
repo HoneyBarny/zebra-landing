@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener síntomas de enfermedad, cambios de brote, hidratación, sal, medicación, recuperación y preguntas para la consulta en una misma linea de tiempo."
+ctaNote: "Use Zebra para mantener síntomas de enfermedad, cambios de brote, hidratación, sal, medicación, recuperación y preguntas para la consulta en una misma línea de tiempo."
 categories: 
   - "Registro de síntomas"
   - "Disautonomía"
@@ -76,35 +76,35 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, un resfriado, virus estomacal, fiebre, COVID, gripe, sinusitis, síntomas urinarios u otra enfermedad puede hacer que el patron habitual sea más dificil de entender.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, un resfriado, virus estomacal, fiebre, COVID, gripe, sinusitis, síntomas urinarios u otra enfermedad puede hacer que el patrón habitual sea más difícil de entender.
 
-Un registro de brotes por enfermedad e infección no diagnostica infección, POTS, disautonomía, deshidratación, efectos de medicación ni ninguna otra condición. Le ayuda a llevar contexto más claro a su clínico: qué síntomas de enfermedad estaban presentes, qué cambió frente a su linea base, qué ayudó y cuánto duró la recuperación.
+Un registro de brotes por enfermedad e infección no diagnostica infección, POTS, disautonomía, deshidratación, efectos de medicación ni ninguna otra condición. Le ayuda a llevar contexto más claro a su clínico: qué síntomas de enfermedad estaban presentes, qué cambió frente a su línea base, qué ayudó y cuánto duró la recuperación.
 
 ## Empiece Con El Contexto De Enfermedad
 
-Escriba los detalles del día de enfermedad que cambiaron su patron normal.
+Escriba los detalles del día de enfermedad que cambiaron su patrón normal.
 
-Registre dolor de garganta, tos, congestion, fiebre, escalofrios, síntomas digestivos, síntomas urinarios, erupcion o dolor; fecha de inicio; temperatura si se midio; resultados de COVID, gripe u otras pruebas si aplica; sueño alterado; cambios de apetito; vomitos o diarrea; comidas omitidas; menos líquidos; y si ya estaba en un brote.
+Registre dolor de garganta, tos, congestion, fiebre, escalofrios, síntomas digestivos, síntomas urinarios, erupción o dolor; fecha de inicio; temperatura si se midio; resultados de COVID, gripe u otras pruebas si aplica; sueño alterado; cambios de apetito; vomitos o diarrea; comidas omitidas; menos líquidos; y si ya estaba en un brote.
 
 Ejemplo: "Día 2 de resfriado, fiebre baja, mal sueño. Mareo mucho peor al estar de pie, frecuencia cardíaca más alta que lo habitual al caminar al baño, menos líquidos por nauseas."
 
-Esa nota mantiene conectado el contexto de infección con el patron de POTS.
+Esa nota mantiene conectado el contexto de infección con el patrón de POTS.
 
-## Registre Qué Cambió Frente A Su Linea Base
+## Registre Qué Cambió Frente A Su Línea Base
 
 La pregunta clave no es solo "Que síntomas tuve?", sino "Que fue diferente de lo habitual?"
 
-Compare mareo peor que la linea base, frecuencia cardíaca más alta, palpitaciones más frecuentes, más sensación de desmayo al estar de pie, niebla mental o fatiga peores, ducha más dificil, menor tiempo de pie, más tiempo en cama y recuperación más lenta después de tareas basicas.
+Compare mareo peor que la línea base, frecuencia cardíaca más alta, palpitaciones más frecuentes, más sensación de desmayo al estar de pie, niebla mental o fatiga peores, ducha más difícil, menor tiempo de pie, más tiempo en cama y recuperación más lenta después de tareas basicas.
 
-Si ya registra [síntomas de base](/es-es/knowledge/baseline-symptoms/) en Zebra, compare el día de enfermedad con ese patron habitual.
+Si ya registra [síntomas de base](/es-es/knowledge/baseline-symptoms/) en Zebra, compare el día de enfermedad con ese patrón habitual.
 
-## Anada Líquidos, Sal, Comidas Y Medicación
+## Añada Líquidos, Sal, Comidas Y Medicación
 
 La enfermedad puede cambiar hidratación, comida y horario de medicación.
 
 Registre agua y electrolitos, sal si su clínico la recomienda, comidas omitidas, nauseas o poco apetito, vomitos o diarrea, fiebre o sudoración, horario de medicación, dosis olvidadas, medicamentos sin receta y cambios recientes de recetas.
 
-No cambie líquidos, sal, medicación o suplementos basandose solo en un registro. Use el patron para preguntar que plan de días de enfermedad es seguro para su situacion.
+No cambie líquidos, sal, medicación o suplementos basandose solo en un registro. Use el patrón para preguntar que plan de días de enfermedad es seguro para su situación.
 
 ## Registre Síntomas Al Estar Erguido Durante La Enfermedad
 
@@ -112,25 +112,25 @@ Los síntomas de POTS y disautonomía pueden verse distintos cuando el cuerpo co
 
 Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), falta de aire, molestia en el pecho, temblor, sudoración, nauseas, dolor de cabeza, piernas pesadas, debilidad, [niebla mental](/es-es/knowledge/brain-fog/) y [fatiga](/es-es/knowledge/fatigue/).
 
-Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
+Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
 ## Registre Recuperación E Impacto Diario
 
 La recuperación puede durar más que la infección.
 
-Anote cuando mejoraron la fiebre o síntomas agudos, cuando los síntomas ortostáticos volvieron a la linea base, si fatiga, niebla mental, dolor de cabeza o mareo persistieron, días perdidos de trabajo, estudios, citas, ejercicio, tareas o cuidados, si necesito ayuda y si los síntomas volvieron al intentar actividad normal.
+Anote cuando mejoraron la fiebre o síntomas agudos, cuando los síntomas ortostáticos volvieron a la línea base, si fatiga, niebla mental, dolor de cabeza o mareo persistieron, días perdidos de trabajo, estudios, citas, ejercicio, tareas o cuidados, si necesito ayuda y si los síntomas volvieron al intentar actividad normal.
 
 "El resfriado se fue, pero estar de pie sigue peor después de seis días" es un detalle importante para la consulta.
 
 ## Qué Resumir Antes De Una Consulta
 
-Resuma fecha de inicio y síntomas principales, fiebre, vomitos, diarrea, mala ingesta o preocupacion por deshidratación, cambios frente a linea base, frecuencia cardíaca o presión si ya las mide, cambios de medicación o dosis olvidadas, líquidos, sal, comidas, recuperación, impacto diario y síntomas de alarma.
+Resuma fecha de inicio y síntomas principales, fiebre, vomitos, diarrea, mala ingesta o preocupación por deshidratación, cambios frente a línea base, frecuencia cardíaca o presión si ya las mide, cambios de medicación o dosis olvidadas, líquidos, sal, comidas, recuperación, impacto diario y síntomas de alarma.
 
 Preguntas útiles:
 
 - "Necesito un plan para días de enfermedad sobre líquidos, sal, medicación o control?"
 - "Que síntomas deberían ser urgentes para mi?"
-- "Esta enfermedad podria explicar el brote o deberiamos buscar otra causa?"
+- "Esta enfermedad podría explicar el brote o deberiamos buscar otra causa?"
 - "Cuanto debería tardar la recuperación?"
 - "Cuando debería retomar actividad normal o citas?"
 
@@ -145,13 +145,13 @@ Antecedentes útiles:
 
 ## Dónde Encaja Zebra
 
-Zebra ayuda a mantener síntomas de enfermedad, cambios de brote, hidratación, sal, medicación, recuperación, impacto diario y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener síntomas de enfermedad, cambios de brote, hidratación, sal, medicación, recuperación, impacto diario y preguntas para la consulta en una misma línea de tiempo.
 
-No diagnostica infecciones ni condiciones autonomicas. Le ayuda a llevar un patron de brote de día de enfermedad más claro y listo para consulta.
+No diagnostica infecciones ni condiciones autonómicas. Le ayuda a llevar un patrón de brote de día de enfermedad más claro y listo para consulta.
 
 ## Puntos Clave
 
 - Registre juntos síntomas de enfermedad, fiebre, líquidos, sal, comidas, medicación, síntomas al estar erguido, recuperación e impacto diario.
-- Compare días de enfermedad con su linea base habitual.
-- La recuperación después de enfermedad puede formar parte del patron de brote.
+- Compare días de enfermedad con su línea base habitual.
+- La recuperación después de enfermedad puede formar parte del patrón de brote.
 - Use el seguimiento para preguntas más seguras sobre días de enfermedad, no para autodiagnosticarse ni cambiar tratamiento solo.

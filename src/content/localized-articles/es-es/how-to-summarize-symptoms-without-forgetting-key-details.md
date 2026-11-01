@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-summarize-symptoms-without-forgetting-key-details"
 status: "published"
 title: "Como resumir síntomas sin olvidar detalles clave"
-subtitle: "Para resumir síntomas sin olvidar detalles clave, empieza con que cambio, que afecto la vida diaria, que cambios de tratamiento o rutina importan y con que necesitas ayuda ahora. Un buen resumen de síntomas es lo bastante corto para usar bajo presión y lo bastante estructurado para evitar que los detalles importantes desaparezcan cuando llega el brain fog."
+subtitle: "Para resumir síntomas sin olvidar detalles clave, empieza con que cambió, que afectó la vida diaria, que cambios de tratamiento o rutina importan y con que necesitas ayuda ahora. Un buen resumen de síntomas es lo bastante corto para usar bajo presión y lo bastante estructurado para evitar que los detalles importantes desaparezcan cuando llega el brain fog."
 description: "Aprende como resumir síntomas con claridad para citas sin perder los detalles que más importan."
 excerpt: "Aprende como resumir síntomas con claridad para citas sin perder los detalles que más importan."
 author: "zebra-editorial"
@@ -51,7 +51,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cómo resumo síntomas para una visita médica?"
-    answer: "Enfocate en que cambio, como afecto la vida diaria, que contexto relevante cambio alrededor y que pregunta necesitas responder."
+    answer: "Enfócate en que cambió, cómo afectó la vida diaria, que contexto relevante cambio alrededor y que pregunta necesitas responder."
   - question: "¿Cómo dejo de olvidar detalles importantes durante las citas?"
     answer: "Usa un resumen escrito antes de la visita en lugar de depender de la memoria en la consulta."
   - question: "¿Qué tan largo debe ser un resumen de síntomas?"
@@ -65,9 +65,9 @@ Para resumir síntomas sin olvidar detalles clave, empieza con qué cambió, qu�
 La mayoría de las personas no olvidan porque fueron descuidadas. Olvidan porque:
 
 - las citas son estresantes
-- los síntomas fluctuan
+- los síntomas fluctúan
 - los peores días se mezclan
-- el brain fog hace más dificil recordar
+- el brain fog hace más difícil recordar
 - la historia vive en demasiados lugares
 
 La respuesta no es recordar con más fuerza. Es resumir mejor.
@@ -98,12 +98,12 @@ Incluye el contexto que importa:
 
 - medicamentos
 - sueño
-- patron de brotes
+- patrón de brotes
 - cambios de hidratación o rutina
 
 ### 4. Con qué necesitas ayuda
 
-Deja tu pregunta o decision principal al final:
+Deja tu pregunta o decisión principal al final:
 
 - ¿qué debería rastrear después?
 - ¿qué cambió importa más?
@@ -115,7 +115,7 @@ Si el resumen es demasiado largo para releerlo rápido, es demasiado largo. Un r
 
 - un parrafo corto
 - una lista de puntos
-- una nota de linea de tiempo
+- una nota de línea de tiempo
 
 El objetivo es que sea usable, no completo.
 
@@ -134,7 +134,7 @@ Zebra ayuda porque primero organiza la historia diaria. Eso hace que el resumen 
 
 ### ¿Cómo resumo síntomas para una visita médica?
 
-Enfocate en qué cambió, cómo afectó la vida diaria, qué contexto relevante cambió alrededor y que pregunta necesitas responder.
+Enfócate en qué cambió, cómo afectó la vida diaria, qué contexto relevante cambió alrededor y que pregunta necesitas responder.
 
 ### ¿Cómo dejo de olvidar detalles importantes durante las citas?
 

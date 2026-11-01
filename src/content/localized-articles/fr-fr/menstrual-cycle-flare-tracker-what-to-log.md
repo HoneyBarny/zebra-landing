@@ -80,7 +80,7 @@ Un suivi des poussees liees au cycle menstruel ne doit pas supposer que les horm
 
 ## Commencer par le timing du cycle
 
-L'entree utile la plus simple commence par les dates.
+L'entrée utile la plus simple commence par les dates.
 
 Notez:
 
@@ -103,7 +103,7 @@ Catégories utiles:
 
 - douleur: crampes, douleur pelvienne, douleur articulaire, douleur musculaire, migraine, mal de tête
 - fatigue: fatigue plus lourde, sommeil non reparateur, besoin de siestes
-- symptômes autonomiques: vertiges, etourdissement, palpitations, pouls rapide, impression de malaise
+- symptômes autonomiques: vertiges, étourdissement, palpitations, pouls rapide, impression de malaise
 - symptômes cognitifs: brain fog, mots difficiles a trouver, trous de mémoire
 - symptômes GI: nausee, diarrhee, constipation, ballonnement, crampes
 - sensibilité sensorielle: lumière, bruit, toucher, chaleur
@@ -143,7 +143,7 @@ Notez aussi:
 - reaction type MCAS ou symptômes allergiques
 - rendez-vous, procedure ou vaccination récente
 
-Ecrire "regles jour 1, mauvais sommeil, chaleur, vertiges pires" donne plus de contexte que "les regles ont cause les vertiges."
+Écrire "regles jour 1, mauvais sommeil, chaleur, vertiges pires" donne plus de contexte que "les regles ont cause les vertiges."
 
 ## Ajouter l'impact fonctionnel
 
@@ -170,7 +170,7 @@ Notez:
 
 - ce que vous avez pris
 - quand vous l'avez pris
-- si c'etait prescrit, sans ordonnance ou dans votre plan approuve par le médecin
+- si c'était prescrit, sans ordonnance ou dans votre plan approuve par le médecin
 - si les symptômes ont baisse, empire ou reste identiques
 - effets secondaires ou inquietudes
 - questions pour votre médecin
@@ -184,7 +184,7 @@ Demandez des soins pour:
 - saignement très abondant
 - saignement entre les regles nouveau ou inquietant
 - douleur pelvienne severe ou nouvelle
-- malaise ou evanouissement
+- malaise ou évanouissement
 - douleur thoracique ou difficulte a respirer
 - suspicion de grossesse
 - symptômes qui perturbent la vie quotidienne
@@ -236,7 +236,7 @@ Contexte utile:
 - [PubMed etude fibromyalgie et regles](https://pubmed.ncbi.nlm.nih.gov/16396694/)
 - [Office on Women's Health fibromyalgie](https://womenshealth.gov/a-z-topics/fibromyalgia)
 
-## Ou Zebra aide
+## Où Zebra aide
 
 Zebra aide a garder contexte du cycle, symptômes, [poussees](/fr-fr/knowledge/flare/), [declencheurs](/fr-fr/knowledge/trigger/), médicaments, hydratation, notes orthostatiques, impact fonctionnel et questions pour le médecin dans une meme timeline.
 

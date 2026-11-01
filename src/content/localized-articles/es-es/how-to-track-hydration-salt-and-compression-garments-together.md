@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-hydration-salt-and-compression-garments-together"
 status: "published"
 title: "Como rastrear hidratación, sal y prendas de compresión juntas"
-subtitle: "La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar que cambio antes de una cita."
+subtitle: "La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar que cambió antes de una cita."
 description: "Aprende como rastrear hidratación, sal, prendas de compresión, síntomas y tolerancia al estar de pie juntos sin convertir el registro en más trabajo."
 excerpt: "Una guía práctica para rastrear hidratación, sal, prendas de compresión y contexto de síntomas en un registro útil de enfermedad crónica."
 author: "zebra-editorial"
@@ -47,7 +47,7 @@ heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Pantalla de resumen de Zebra que muestra contexto diario de síntomas y patrones."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener hidratación, sal, apoyos, síntomas y brotes en la misma linea de tiempo."
+ctaNote: "Usa Zebra para mantener hidratación, sal, apoyos, síntomas y brotes en la misma línea de tiempo."
 schemaTypes: 
   - "Article"
   - "HowTo"
@@ -101,7 +101,7 @@ Ejemplos:
 - líquidos: bajo, habitual, más alto que lo habitual
 - sal/electrolitos: nada, habitual, extra
 - compresión: no usada, parte del día, la mayor parte del día
-- síntomas al estar de pie: leves, moderados, día dificil
+- síntomas al estar de pie: leves, moderados, día difícil
 
 Ese nivel de detalle suele ser suficiente para preparar citas.
 
@@ -134,7 +134,7 @@ El objetivo es un resumen corto para la cita, no una hoja de cálculo larga.
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a mantener hidratación, sal, contexto de compresión, síntomas, brotes, medicamentos y notas en una linea de tiempo para que tu rutina diaria no se separe de la historia de síntomas que necesitas explicar.
+Zebra ayuda a mantener hidratación, sal, contexto de compresión, síntomas, brotes, medicamentos y notas en una línea de tiempo para que tu rutina diaria no se separe de la historia de síntomas que necesitas explicar.
 
 ## Puntos clave
 

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "why-symptom-tracking-fails-on-bad-days"
 title: "Pourquoi le suivi des symptômes echoue les mauvais jours"
 status: "published"
-subtitle: "Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, etourdissements et surcharge reduisent l'energie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin."
+subtitle: "Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin."
 description: "Apprenez pourquoi le suivi des symptômes s'effondre souvent les mauvais jours et comment une approche avec moins d'effort peut le rendre plus durable."
 excerpt: "Apprenez pourquoi le suivi des symptômes s'effondre souvent les mauvais jours et comment une approche avec moins d'effort peut le rendre plus durable."
 author: "zebra-editorial"
@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
-primaryKeyword: "pourquoi suivi symptomes echoue mauvais jours"
+primaryKeyword: "pourquoi suivi symptômes echoue mauvais jours"
 seoTitle: "Pourquoi le suivi des symptômes echoue les mauvais jours | Zebra"
 metaDescription: "Apprenez pourquoi le suivi des symptômes s'effondre souvent les mauvais jours et comment une approche avec moins d'effort peut le rendre plus durable."
 ogTitle: "Pourquoi le suivi des symptômes echoue les mauvais jours"
@@ -48,14 +48,14 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Pourquoi le suivi des symptômes est-il le plus difficile les mauvais jours?"
-    answer: "Parce que la douleur, la fatigue, le brain fog et les etourdissements reduisent l'energie et la concentration nécessaires pour noter ce qui s'est passe."
+    answer: "Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passe."
   - question: "Que faire si je manque des jours de suivi?"
     answer: "Recommencez avec aujourd'hui. Un dossier réel mais partiel est plus utile qu'une tentative tardive de rattrapage parfait."
   - question: "Les jours manques rendent-ils le suivi inutile?"
     answer: "Non. Un dossier imparfait mais utilisable reste precieux, surtout s'il capture les symptômes les plus forts et l'impact fonctionnel."
 ---
 
-Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, etourdissements et surcharge reduisent l'energie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin.
+Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin.
 
 ## Le problème des mauvais jours
 
@@ -106,7 +106,7 @@ Cela compte quand meme.
 
 La proposition de valeur de Zebra est construite autour de la reduction de l'effort les jours difficiles, au lieu d'en demander plus. Le dossier aide seulement si vous pouvez encore l'utiliser quand les symptômes sont au pire.
 
-Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutot qu'une application de bien-etre générale, la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) explique cette approche.
+Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutot qu'une application de bien-être générale, la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) explique cette approche.
 
 ## Points clés
 
@@ -118,7 +118,7 @@ Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutot
 
 ### Pourquoi le suivi des symptômes est-il le plus difficile les mauvais jours?
 
-Parce que la douleur, la fatigue, le brain fog et les etourdissements reduisent l'energie et la concentration nécessaires pour noter ce qui s'est passe.
+Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passe.
 
 ### Que faire si je manque des jours de suivi?
 

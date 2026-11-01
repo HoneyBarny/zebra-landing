@@ -72,7 +72,7 @@ Prueba lista para el médico no significa un diagnóstico. No significa un grafi
 - qué se ha intentado
 - qué preguntas todavía necesitan respuesta
 
-El proposito es comunicacion, no certeza.
+El proposito es comunicación, no certeza.
 
 ## El marco de Zebra: Rastrear -> Entender -> Preparar -> Compartir
 
@@ -129,7 +129,7 @@ No necesitas un registro perfecto de cuerpo completo. Necesitas un registro que 
 
 ## Por qué la prueba importa tanto en enfermedad crónica
 
-Para muchas personas con enfermedad invisible, los síntomas no solo son dificiles de manejar. También son dificiles de describir de una forma que sobreviva a una cita corta. El brain fog, la invalidacion, las visitas apresuradas y el historial fragmentado hacen fácil salir sintiendo que la parte importante nunca se dijo.
+Para muchas personas con enfermedad invisible, los síntomas no solo son difíciles de manejar. También son difíciles de describir de una forma que sobreviva a una cita corta. El brain fog, la invalidación, las visitas apresuradas y el historial fragmentado hacen fácil salir sintiendo que la parte importante nunca se dijo.
 
 El rastreo se vuelve más útil cuando reduce esa presión.
 
@@ -137,7 +137,7 @@ El rastreo se vuelve más útil cuando reduce esa presión.
 
 Una prueba debil suele verse como:
 
-- notas dispersas sin linea de tiempo
+- notas dispersas sin línea de tiempo
 - nombres de síntomas sin contexto
 - ningun registro de qué cambió
 - ningun historial de medicación
@@ -150,7 +150,7 @@ Eso no significa que el rastreo no sirviera. Significa que el registro nunca se 
 
 Una prueba más fuerte suele incluir:
 
-- una linea de tiempo reciente
+- una línea de tiempo reciente
 - cambios de síntomas resumidos con claridad
 - historial de brotes
 - qué parte de la vida diaria fue afectada

@@ -19,10 +19,10 @@ metaDescription: "Aprende a registrar síntomas de POTS, cambios al estar de pie
 ogTitle: "Como registrar síntomas de POTS"
 ogDescription: "Una guía práctica para registrar síntomas, brotes y cambios ortostáticos sin hacer el proceso abrumador."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Guía para registrar síntomas de POTS y cambios ortostáticos en una sola linea temporal"
+heroImageAlt: "Guía para registrar síntomas de POTS y cambios ortostáticos en una sola línea temporal"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas y cambios al estar de pie en la misma linea temporal."
+ctaNote: "Usa Zebra para mantener síntomas y cambios al estar de pie en la misma línea temporal."
 featured: false
 categories: 
   - "POTS"
@@ -122,7 +122,7 @@ En días de brote, registra:
 
 ## Registra mediciones relevantes en casa
 
-Si las observaciones de frecuencia cardíaca o presión arterial en casa forman parte de tu atención o preparación actual, mantenlas organizadas y vinculadas a los síntomas. Un patron simple suele bastar:
+Si las observaciones de frecuencia cardíaca o presión arterial en casa forman parte de tu atención o preparación actual, mantenlas organizadas y vinculadas a los síntomas. Un patrón simple suele bastar:
 
 - fecha
 - postura

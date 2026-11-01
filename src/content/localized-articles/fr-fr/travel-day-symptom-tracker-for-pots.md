@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomie"
 category: "Suivi des symptomes"
-primaryKeyword: "suivi symptomes jour de voyage POTS"
+primaryKeyword: "suivi symptômes jour de voyage POTS"
 seoTitle: "Suivi de jour de voyage pour POTS | Zebra"
 metaDescription: "Suivez les jours de voyage avec POTS : vols, voiture, station debout, marche, chaleur, liquides, sel, compression, médicaments, vertiges, fatigue, recuperation et impact."
 ogTitle: "Suivi des symptômes les jours de voyage avec POTS"
@@ -86,7 +86,7 @@ Un suivi de symptômes de jour de voyage ne diagnostique pas POTS, dysautonomie,
 
 Les notes de voyage doivent commencer par la forme de la journee.
 
-Notez vol, voiture, bus, train, bateau, covoiturage, journee avec beaucoup de marche ou voyage mixte; heures de depart et d'arrivee; durée totale; changement de fuseau horaire; sommeil la nuit precedente; repas sautes ou retardes; eau, electrolytes et sel; horaire des médicaments; vetements de compression si utilises; aide a la mobilite, assistance fauteuil, choix du siege ou pauses prevues; meteo, chaleur, humidite ou espaces interieurs remplis; bagages, escaliers, longs trajets a pied ou files.
+Notez vol, voiture, bus, train, bateau, covoiturage, journee avec beaucoup de marche ou voyage mixte; heures de depart et d'arrivee; durée totale; changement de fuseau horaire; sommeil la nuit precedente; repas sautes ou retardes; eau, électrolytes et sel; horaire des médicaments; vêtements de compression si utilises; aide a la mobilite, assistance fauteuil, choix du siege ou pauses prevues; meteo, chaleur, humidite ou espaces interieurs remplis; bagages, escaliers, longs trajets a pied ou files.
 
 Exemple : "Jour de vol. Reveil 4 h 45, petit-dejeuner manque, 35 minutes debout a la sécurité, deux terminaux traverses, compression portee, moins bu car pas de siege couloir. Vertiges et coeur rapide pires a l'embarquement."
 
@@ -104,7 +104,7 @@ Essayez d'écrire "file de sécurité plus peu de liquides" ou "long trajet en v
 
 Certains symptômes arrivent en position debout, en marchant, en embarquant, en conduisant ou assis. D'autres apparaissent après l'arrivee ou le lendemain.
 
-Notez [vertiges](/fr-fr/knowledge/dizziness/), [etourdissement](/fr-fr/knowledge/lightheadedness/), quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/), pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/), [palpitations](/fr-fr/knowledge/palpitations/), gene thoracique, essoufflement, tremblements, transpiration, nausees, mal de tête ou symptômes de migraine, jambes lourdes, gonflement ou douleur inhabituelle dans une jambe, faiblesse, [brouillard mental](/fr-fr/knowledge/brain-fog/), [fatigue](/fr-fr/knowledge/fatigue/) et crash après le voyage.
+Notez [vertiges](/fr-fr/knowledge/dizziness/), [étourdissement](/fr-fr/knowledge/lightheadedness/), quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/), pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/), [palpitations](/fr-fr/knowledge/palpitations/), gene thoracique, essoufflement, tremblements, transpiration, nausees, mal de tête ou symptômes de migraine, jambes lourdes, gonflement ou douleur inhabituelle dans une jambe, faiblesse, [brouillard mental](/fr-fr/knowledge/brain-fog/), [fatigue](/fr-fr/knowledge/fatigue/) et crash après le voyage.
 
 Si les symptômes sont severes, nouveaux, d'un seul côté, associes a une douleur thoracique ou un essoufflement severe, ou differents de votre schema habituel, suivez les consignes de votre clinicien pour les soins urgents.
 
@@ -112,7 +112,7 @@ Si les symptômes sont severes, nouveaux, d'un seul côté, associes a une doule
 
 Le voyage change souvent les routines qui rendent les symptômes plus previsibles.
 
-Notez liquides avant le depart, liquides pendant le voyage, electrolytes, sel si recommande par votre clinicien, repas sautes, nausees ou faible appetit, horaire des médicaments, doses oubliees ou retardees, médicaments de voyage sans ordonnance, chaussettes de compression, leggings, compression abdominale ou aucune compression, si la compression etait tolerable avec chaleur, ainsi que pauses, mouvement des jambes, etirements ou intervalles de marche.
+Notez liquides avant le depart, liquides pendant le voyage, électrolytes, sel si recommande par votre clinicien, repas sautes, nausees ou faible appetit, horaire des médicaments, doses oubliees ou retardees, médicaments de voyage sans ordonnance, chaussettes de compression, leggings, compression abdominale ou aucune compression, si la compression était tolerable avec chaleur, ainsi que pauses, mouvement des jambes, etirements ou intervalles de marche.
 
 Ne changez pas liquides, sel, compression, médicaments ou complements seulement a partir d'un tracker. Utilisez vos notes pour demander quel plan de voyage est sur pour votre corps et vos antecedents médicaux.
 
@@ -120,7 +120,7 @@ Ne changez pas liquides, sel, compression, médicaments ou complements seulement
 
 Le detail de voyage le plus important peut être ce qui se passe après l'arrivee.
 
-Ecrivez combien de temps les symptômes ont dure après le voyage, si vous avez du vous allonger tout de suite, si vous avez pu defaire les bagages, vous doucher, manger, assister a l'evenement ou dormir, si les symptômes etaient pires le lendemain matin, le nombre de jours nécessaires pour revenir au niveau de base, travail, ecole, rendez-vous, soins, plans sociaux ou exercice manques, et si un trajet plus court, une assistance, la compression, un horaire plus frais, l'hydratation ou plus de repos a semble aider.
+Ecrivez combien de temps les symptômes ont dure après le voyage, si vous avez du vous allonger tout de suite, si vous avez pu defaire les bagages, vous doucher, manger, assister a l'evenement ou dormir, si les symptômes étaient pires le lendemain matin, le nombre de jours nécessaires pour revenir au niveau de base, travail, ecole, rendez-vous, soins, plans sociaux ou exercice manques, et si un trajet plus court, une assistance, la compression, un horaire plus frais, l'hydratation ou plus de repos a semble aider.
 
 "Recuperation après une heure" et "trois jours perdus après le vol" sont des details médicaux differents.
 
@@ -156,7 +156,7 @@ Contexte utile :
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [Dysautonomia International POTS overview](https://dysautonomiainternational.org/page.php?ID=30)
 
-## Ou Zebra S'Insere
+## Où Zebra S'Insere
 
 Zebra aide a garder contexte de voyage, symptômes, hydratation, sel, compression, médicaments, recuperation, impact quotidien et questions de rendez-vous dans une meme chronologie.
 

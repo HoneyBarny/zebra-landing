@@ -77,7 +77,7 @@ Le suivi est donc utile, mais seulement s'il reste assez petit pour être fait q
 
 ## Commencez par un snapshot du flare
 
-Si vous n'avez l'energie que pour une note, faites un snapshot.
+Si vous n'avez l'énergie que pour une note, faites un snapshot.
 
 Utilisez:
 
@@ -100,7 +100,7 @@ Notez:
 - emplacement: tout le corps, cou, dos, hanches, jambes, bras, machoire, mains, pieds
 - sensation: courbature, brulure, coup de couteau, pulsation, sensibilité, type grippe
 - intensite de 0 a 10
-- si toucher, vetements, bruit, lumière ou temperature l'ont aggravee
+- si toucher, vêtements, bruit, lumière ou temperature l'ont aggravee
 - si la douleur est restee dans une zone ou a bouge pendant la journee
 
 Le NHS note que la douleur de fibromyalgie peut être ressentie comme une douleur sourde, une brulure, une douleur vive ou lancinante, et que la sensibilité au toucher, a la lumière, aux aliments, a la fumee ou a d'autres stimuli peut faire flamber les symptômes.
@@ -234,8 +234,8 @@ Si c'est trop, utilisez seulement les lignes 1, 2 et 7.
 
 Informations utiles:
 
-- [Apercu fibromyalgie CDC](https://www.cdc.gov/chronic-disease/fibromyalgia/index.html)
-- [Apercu fibromyalgie Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4832-fibromyalgia)
+- [Aperçu fibromyalgie CDC](https://www.cdc.gov/chronic-disease/fibromyalgia/index.html)
+- [Aperçu fibromyalgie Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4832-fibromyalgia)
 - [Symptômes fibromyalgie NHS](https://www.nhs.uk/conditions/fibromyalgia/symptoms/)
 - [Cambridge University Hospitals flare-up and setback management](https://www.cuh.nhs.uk/patient-information/flare-up-and-setback-management/)
 

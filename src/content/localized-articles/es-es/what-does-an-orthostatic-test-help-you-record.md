@@ -42,7 +42,7 @@ entities:
 secondaryKeywords: 
   - "registro de frecuencia cardíaca al ponerse de pie"
   - "seguimiento de síntomas por postura"
-  - "registro de prueba de bipedestacion"
+  - "registro de prueba de bipedestación"
 schemaTypes: 
   - "Article"
   - "FAQPage"
@@ -52,7 +52,7 @@ faq:
   - question: "¿Una prueba ortostática es solo para POTS?"
     answer: "No. Es especialmente relevante en contextos de POTS y disautonomía, pero el concepto más amplio trata sobre cambios de síntomas al estar en posición vertical."
   - question: "¿Debería guardar observaciones ortostáticas junto con mi historial de síntomas?"
-    answer: "Si, si te ayuda a revisar el patron con más claridad y preparar citas con más facilidad."
+    answer: "Si, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad."
 ---
 
 Una prueba ortostática ayuda a registrar que ocurre con los síntomas y, cuando es relevante, con la frecuencia cardíaca o la presión arterial al pasar por distintas posiciones, como tumbarse, sentarse y ponerse de pie. Es útil porque captura una imagen estructurada del cambio de síntomas al estar en posición vertical, en lugar de dejar esa historia repartida entre memoria y notas desconectadas.
@@ -71,7 +71,7 @@ El objetivo no es hacer un diagnóstico por tu cuenta. El objetivo es crear un r
 
 ## Por qué importa
 
-Muchas personas pueden describir que se sienten peor al ponerse de pie, pero es mucho más dificil explicarlo claramente después si el registro es irregular o esta desconectado del historial de síntomas.
+Muchas personas pueden describir que se sienten peor al ponerse de pie, pero es mucho más difícil explicarlo claramente después si el registro es irregular o esta desconectado del historial de síntomas.
 
 El seguimiento estructurado basado en postura puede ayudarte a:
 
@@ -89,7 +89,7 @@ Una prueba ortostática suele ser más útil cuando esta junto a:
 - contexto de hidratación y sal cuando sea relevante
 - impacto funcional
 
-Eso convierte una medicion aislada en parte de una historia más amplia.
+Eso convierte una medición aislada en parte de una historia más amplia.
 
 ## Qué no hace
 
@@ -97,9 +97,9 @@ Una prueba ortostática no:
 
 - diagnóstica POTS por si sola
 - explica cada síntoma
-- sustituye pruebas clinicas
+- sustituye pruebas clínicas
 
-Es una herramienta de seguimiento y comunicacion.
+Es una herramienta de seguimiento y comunicación.
 
 ## Dónde encaja Zebra
 
@@ -109,7 +109,7 @@ Zebra trata las observaciones ortostáticas como parte de la misma historia que 
 
 - Una prueba ortostática registra como cambian los síntomas y observaciones relacionadas con la postura.
 - Es más útil cuando se guarda en el mismo registro que los síntomas y el historial reciente.
-- Apoya la comunicacion y la preparación, no el autodiagnostico.
+- Apoya la comunicación y la preparación, no el autodiagnostico.
 
 ## FAQ
 
@@ -123,4 +123,4 @@ No. Es especialmente relevante en contextos de POTS y disautonomía, pero el con
 
 ### ¿Debería guardar observaciones ortostáticas junto con mi historial de síntomas?
 
-Si, si te ayuda a revisar el patron con más claridad y preparar citas con más facilidad.
+Si, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad.

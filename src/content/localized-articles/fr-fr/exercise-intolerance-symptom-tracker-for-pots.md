@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomie"
 category: "Suivi des symptomes"
-primaryKeyword: "suivi intolerance effort"
+primaryKeyword: "suivi intolérance effort"
 seoTitle: "Suivi de l'intolérance a l'effort pour POTS | Zebra"
 metaDescription: "Suivez l'intolérance a l'effort avec activité, position, durée, fréquence cardiaque, vertiges, fatigue, aggravation differee, recuperation et impact."
 ogTitle: "Suivi de l'intolérance a l'effort pour POTS"
@@ -101,13 +101,13 @@ Notez :
 
 Exemple : "10 minutes de marche lente dehors, petite côté, temps chaud. FC max 132, vertiges 5/10, jambes lourdes. Assise 15 minutes; fatigue jusqu'au soir."
 
-C'est plus utile que "l'exercice etait mauvais."
+C'est plus utile que "l'exercice était mauvais."
 
 ## Separez Position Et Intensite
 
 Pour le POTS et l'intolérance orthostatique, la position du corps compte.
 
-Notez si l'activité etait :
+Notez si l'activité était :
 
 - couche
 - incline
@@ -138,7 +138,7 @@ Notez :
 Symptômes possibles :
 
 - [vertiges](/fr-fr/knowledge/dizziness/)
-- [etourdissement](/fr-fr/knowledge/lightheadedness/)
+- [étourdissement](/fr-fr/knowledge/lightheadedness/)
 - quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/)
 - pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/)
 - [palpitations](/fr-fr/knowledge/palpitations/)
@@ -177,7 +177,7 @@ La tolerance a l'activité peut changer avec le contexte.
 Notes utiles :
 
 - liquides avant activité
-- electrolytes
+- électrolytes
 - sel si recommande par votre clinicien
 - repas saute
 - gros repas
@@ -187,7 +187,7 @@ Notes utiles :
 - mauvais sommeil
 - moment du cycle
 - horaire des médicaments
-- vetements de compression
+- vêtements de compression
 
 Ne changez pas liquides, sel, médicaments, complements, compression ou plans d'activité seulement a partir d'un tracker. Utilisez le schema pour poser de meilleures questions.
 
@@ -240,7 +240,7 @@ Ressources utiles :
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [Cleveland Clinic exercise intolérance overview](https://my.clevelandclinic.org/health/diseases/exercise-intolerance)
 
-## Ou Zebra S'insere
+## Où Zebra S'insere
 
 Zebra aide a garder type d'activité, position, symptômes, hydratation, sel, médicaments, recuperation, aggravation differee et questions de rendez-vous dans une meme chronologie.
 

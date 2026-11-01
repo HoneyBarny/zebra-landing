@@ -32,7 +32,7 @@ entities:
   - "Health History"
   - "Doctor-Ready Report"
 priority: 4
-primaryKeyword: "suivre changements de medicaments pendant une poussee"
+primaryKeyword: "suivre changements de médicaments pendant une poussee"
 secondaryKeywords:
   - "suivi médicaments pour poussees de symptômes"
   - "suivre médicaments et symptômes"
@@ -81,7 +81,7 @@ N'utilisez pas un outil de suivi pour prendre seul des décisions de médicament
 
 ## Que noter pendant une poussee
 
-Gardez l'entree simple:
+Gardez l'entrée simple:
 
 - date
 - ce qui a change
@@ -118,7 +118,7 @@ Par exemple, au lieu d'écrire:
 ecrivez:
 
 - horaire du médicament change lundi
-- les etourdissements et la fatigue etaient déjà plus forts cette semaine
+- les étourdissements et la fatigue étaient déjà plus forts cette semaine
 - la poussee s'est aggravee mardi et mercredi
 - question: dois-je suivre quelque chose differemment avant le suivi?
 

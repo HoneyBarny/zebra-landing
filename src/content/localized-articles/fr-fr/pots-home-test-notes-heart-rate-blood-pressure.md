@@ -64,7 +64,7 @@ faq:
   - question: "Un test debout a domicile peut-il diagnostiquer POTS?"
     answer: "Non. Les notes a domicile peuvent soutenir une discussion clinique, mais le diagnostic de POTS demande une interprétation médicale et l'exclusion d'autres causes de tachycardie ou symptômes orthostatiques."
   - question: "Quand faut-il arrêter une verification orthostatique a domicile?"
-    answer: "Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous evanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent."
+    answer: "Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent."
   - question: "Faut-il changer sel, liquides ou médicaments selon les chiffres a domicile?"
     answer: "Non. Ne changez pas le traitement sur la base de mesures a domicile seules. Utilisez les notes pour demander a votre médecin quels changements sont adaptes a vous."
   - question: "Zebra est-il un avis médical?"
@@ -81,7 +81,7 @@ Ne faites pas de verification debout a domicile si votre médecin vous a dit de 
 
 Arretez et asseyez-vous ou allongez-vous si vous ressentez:
 
-- impression de pouvoir vous evanouir
+- impression de pouvoir vous évanouir
 - douleur thoracique
 - difficulte a respirer
 - faiblesse severe
@@ -100,14 +100,14 @@ Notez:
 - matin, apres-midi ou soir
 - combien de temps vous etiez allongé ou assis avant de commencer
 - si vous aviez mange recemment
-- hydratation et electrolytes
+- hydratation et électrolytes
 - contexte du sel si votre médecin le suit avec vous
 - caféine ou alcool si pertinent
-- vetements de compression
+- vêtements de compression
 - horaire des médicaments, doses oubliees ou changements récents
 - maladie, regles, pic de douleur, mauvais sommeil, chaleur ou jour de flare
 
-La declaration [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que les symptômes de POTS surviennent debout et incluent souvent etourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin a comprendre les chiffres.
+La declaration [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que les symptômes de POTS surviennent debout et incluent souvent étourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin a comprendre les chiffres.
 
 ## Utilisez posture plus temps
 
@@ -154,7 +154,7 @@ Les notes orthostatiques parlent de la réponse du corps a la posture, pas seule
 
 Notez:
 
-- vertige ou etourdissement
+- vertige ou étourdissement
 - palpitations ou coeur qui s'emballe
 - tremblement
 - faiblesse
@@ -167,7 +167,7 @@ Notez:
 - fatigue
 - presyncope ou malaise
 
-Si les symptômes s'ameliorent en vous allongeant, notez-le aussi.
+Si les symptômes s'améliorent en vous allongeant, notez-le aussi.
 
 ## Ne transformez pas les criteres en autodiagnostic
 
@@ -235,7 +235,7 @@ Informations utiles:
 
 Zebra aide a garder notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, fréquence cardiaque, tension, médicaments, hydratation, contexte du sel, declencheurs et questions de rendez-vous au meme endroit.
 
-Pour le suivi plus large des symptômes, des poussees et des rendez-vous lies au POTS, le [journal POTS](/fr-fr/pots-tracker/) est le point d'entree le plus adapte.
+Pour le suivi plus large des symptômes, des poussees et des rendez-vous lies au POTS, le [journal POTS](/fr-fr/pots-tracker/) est le point d'entrée le plus adapte.
 
 Il ne diagnostique pas le POTS et n'interprete pas vos mesures. Il vous aide a apporter un dossier plus clair a la personne qui le peut.
 
@@ -259,7 +259,7 @@ Non. Les notes a domicile peuvent soutenir une discussion clinique, mais le diag
 
 ### Quand faut-il arrêter une verification orthostatique a domicile?
 
-Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous evanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent.
+Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent.
 
 ### Faut-il changer sel, liquides ou médicaments selon les chiffres a domicile?
 

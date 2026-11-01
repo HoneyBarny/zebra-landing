@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-to-bring-to-a-pots-cardiology-appointment"
 status: "published"
 title: "Que llevar a una cita de cardiología por POTS"
-subtitle: "Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardiologa o cardiologo a entender que ocurre cuando estas de pie, que ha cambiado recientemente y que esta afectando a tu vida diaria."
+subtitle: "Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardióloga o cardiólogo a entender que ocurre cuando estas de pie, que ha cambiado recientemente y que esta afectando a tu vida diaria."
 description: "Una lista práctica para una cita de cardiología por POTS, con síntomas, observaciones ortostáticas, medicamentos, sal, hidratación y preguntas."
 excerpt: "Una lista práctica para una cita de cardiología por POTS, con síntomas, observaciones ortostáticas, medicamentos, sal, hidratación y preguntas."
 author: "zebra-editorial"
@@ -60,7 +60,7 @@ faq:
     answer: "Llevalo igualmente. Un registro reciente breve sigue siendo mejor que depender por completo de la memoria."
 ---
 
-Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardiologa o cardiologo a entender qué ocurre cuando estás de pie, que ha cambiado recientemente y qué está afectando a tu vida diaria.
+Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardióloga o cardiólogo a entender qué ocurre cuando estás de pie, que ha cambiado recientemente y qué está afectando a tu vida diaria.
 
 Es fácil que una visita de cardiología se desperdicie cuando toda la historia esta repartida entre memoria, capturas de pantalla y notas sueltas. Un registro breve y enfocado suele ayudar más que una gran cantidad de seguimiento sin organizar.
 
@@ -83,7 +83,7 @@ Incluye que ha cambiado recientemente y que parece alterar más tu día.
 
 ### 2. Observaciones ortostáticas si las tienes
 
-Si has estado registrando observaciones tumbada, sentada o de pie en casa, lleva un resumen claro. No te preocupes por hacerlo parecer clínico. Lo útil es mostrar el patron con claridad.
+Si has estado registrando observaciones tumbada, sentada o de pie en casa, lleva un resumen claro. No te preocupes por hacerlo parecer clínico. Lo útil es mostrar el patrón con claridad.
 
 Por ejemplo:
 
@@ -136,7 +136,7 @@ Intenta no llevar:
 - meses de datos sin revisar
 - una historia escrita enorme sin resumen al principio
 
-Tu cardiologa o cardiologo normalmente necesita primero la versión más clara.
+Tu cardióloga o cardiólogo normalmente necesita primero la versión más clara.
 
 ## Una estructura sencilla que ayuda
 
@@ -144,7 +144,7 @@ Usa este formato:
 
 - síntomas principales
 - qué ha cambiado recientemente
-- notas del patron ortostático
+- notas del patrón ortostático
 - contexto de medicamentos, sal e hidratación
 - preguntas principales
 

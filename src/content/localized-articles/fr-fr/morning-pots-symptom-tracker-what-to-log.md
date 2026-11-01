@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomie"
 category: "Suivi des symptomes"
-primaryKeyword: "suivi symptomes matinaux POTS"
+primaryKeyword: "suivi symptômes matinaux POTS"
 seoTitle: "Suivi des symptômes matinaux de POTS | Zebra"
 metaDescription: "Suivez les symptômes matinaux de POTS avec heure de reveil, sommeil, position debout, liquides, sel, petit-dejeuner, médicaments, fréquence cardiaque, vertiges, recuperation et impact."
 ogTitle: "Suivi des symptômes matinaux de POTS"
@@ -123,7 +123,7 @@ Notes utiles :
 
 - eau avant de sortir du lit
 - liquides peu après le reveil
-- electrolytes
+- électrolytes
 - sel si recommande par votre clinicien
 - petit-dejeuner saute
 - gros petit-dejeuner
@@ -142,7 +142,7 @@ Ecrivez les symptômes qui ont vraiment change la matinee, pas chaque sensation.
 Notes matinales frequentes :
 
 - [vertiges](/fr-fr/knowledge/dizziness/)
-- [etourdissement](/fr-fr/knowledge/lightheadedness/)
+- [étourdissement](/fr-fr/knowledge/lightheadedness/)
 - quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/)
 - pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/)
 - [palpitations](/fr-fr/knowledge/palpitations/)
@@ -170,9 +170,9 @@ Notez si vous avez essaye :
 - se lever plus lentement
 - boire avant de se mettre debout
 - petit-dejeuner ou petite collation
-- electrolytes
+- électrolytes
 - sel si recommande
-- vetements de compression
+- vêtements de compression
 - refroidissement
 - se recoucher
 - deplacer les plans plus tard
@@ -206,7 +206,7 @@ Avant un rendez-vous de medecine générale, cardiologie, neurologie, Long COVID
 
 - combien de matins par semaine sont touches
 - si les symptômes commencent avant ou après la station debout
-- si les symptômes s'ameliorent plus tard dans la journee
+- si les symptômes s'améliorent plus tard dans la journee
 - contexte du sommeil
 - liquides, sel, petit-dejeuner et horaire des médicaments
 - fréquence cardiaque ou tension si déjà mesurees
@@ -233,7 +233,7 @@ Ressources utiles :
 - [Cleveland Clinic POTS overview](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [Johns Hopkins Medicine POTS overview](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 
-## Ou Zebra S'insere
+## Où Zebra S'insere
 
 Zebra aide a garder symptômes matinaux, sommeil, premier lever, liquides, sel, repas, horaire des médicaments, recuperation et questions de rendez-vous dans une meme chronologie.
 

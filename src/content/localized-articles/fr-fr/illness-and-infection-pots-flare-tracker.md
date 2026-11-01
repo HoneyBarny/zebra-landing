@@ -78,7 +78,7 @@ faq:
 
 Pour certaines personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), Long COVID, chevauchement EDS ou HSD, ME/CFS, migraine ou maladie chronique, un rhume, une gastro, de la fievre, COVID, grippe, sinusite, symptômes urinaires ou autre maladie peut rendre le schema habituel plus difficile a lire.
 
-Un suivi de poussee avec maladie et infection ne diagnostique pas infection, POTS, dysautonomie, deshydratation, effets de médicaments ou autre condition. Il vous aide a apporter un contexte plus clair au clinicien : quels symptômes de maladie etaient presents, ce qui a change par rapport a votre niveau de base, ce qui a aide et combien de temps la recuperation a pris.
+Un suivi de poussee avec maladie et infection ne diagnostique pas infection, POTS, dysautonomie, deshydratation, effets de médicaments ou autre condition. Il vous aide a apporter un contexte plus clair au clinicien : quels symptômes de maladie étaient presents, ce qui a change par rapport a votre niveau de base, ce qui a aide et combien de temps la recuperation a pris.
 
 ## Commencez Par Le Contexte De Maladie
 
@@ -92,7 +92,7 @@ Cette note garde le contexte infectieux relie au schema de POTS.
 
 ## Suivez Ce Qui A Change Par Rapport Au Niveau De Base
 
-La question clé n'est pas seulement "Quels symptômes ai-je eus ?", mais "Qu'est-ce qui etait différent de d'habitude ?"
+La question clé n'est pas seulement "Quels symptômes ai-je eus ?", mais "Qu'est-ce qui était différent de d'habitude ?"
 
 Comparez vertiges plus forts que le niveau de base, fréquence cardiaque plus haute, palpitations plus frequentes, plus de malaise debout, brouillard mental ou fatigue pires, douche plus difficile, temps debout plus court, plus de temps au lit et recuperation plus lente après les taches simples.
 
@@ -102,7 +102,7 @@ Si vous suivez les [symptômes de reference](/fr-fr/knowledge/baseline-symptoms/
 
 La maladie peut changer hydratation, alimentation et horaire des médicaments.
 
-Notez eau et electrolytes, sel si recommande par votre clinicien, repas sautes, nausees ou faible appetit, vomissements ou diarrhee, fievre ou transpiration, horaire des médicaments, doses oubliees, médicaments sans ordonnance et changements récents de prescription.
+Notez eau et électrolytes, sel si recommande par votre clinicien, repas sautes, nausees ou faible appetit, vomissements ou diarrhee, fievre ou transpiration, horaire des médicaments, doses oubliees, médicaments sans ordonnance et changements récents de prescription.
 
 Ne changez pas liquides, sel, médicaments ou complements seulement a partir d'un tracker. Utilisez le schema pour demander quel plan de jour malade est sur pour votre situation.
 
@@ -110,7 +110,7 @@ Ne changez pas liquides, sel, médicaments ou complements seulement a partir d'u
 
 Les symptômes de POTS et de dysautonomie peuvent sembler differents quand le corps combat une maladie.
 
-Notez [vertiges](/fr-fr/knowledge/dizziness/), [etourdissement](/fr-fr/knowledge/lightheadedness/), quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/), pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/), [palpitations](/fr-fr/knowledge/palpitations/), essoufflement, gene thoracique, tremblements, transpiration, nausees, mal de tête, jambes lourdes, faiblesse, [brouillard mental](/fr-fr/knowledge/brain-fog/) et [fatigue](/fr-fr/knowledge/fatigue/).
+Notez [vertiges](/fr-fr/knowledge/dizziness/), [étourdissement](/fr-fr/knowledge/lightheadedness/), quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/), pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/), [palpitations](/fr-fr/knowledge/palpitations/), essoufflement, gene thoracique, tremblements, transpiration, nausees, mal de tête, jambes lourdes, faiblesse, [brouillard mental](/fr-fr/knowledge/brain-fog/) et [fatigue](/fr-fr/knowledge/fatigue/).
 
 Si les symptômes sont severes, nouveaux, d'un seul côté ou differents de votre schema habituel, suivez les consignes de votre clinicien pour les soins urgents.
 
@@ -143,7 +143,7 @@ Ressources utiles :
 - [NIH News in Health POTS overview](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
 - [Dysautonomia International POTS overview](https://dysautonomiainternational.org/page.php?ID=30)
 
-## Ou Zebra S'insere
+## Où Zebra S'insere
 
 Zebra aide a garder symptômes de maladie, changements de poussee, hydratation, sel, médicaments, recuperation, impact quotidien et questions de rendez-vous dans une meme chronologie.
 

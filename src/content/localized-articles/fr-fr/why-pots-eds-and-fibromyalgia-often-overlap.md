@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "why-pots-eds-and-fibromyalgia-often-overlap"
 title: "Pourquoi POTS, EDS et fibromyalgie se chevauchent souvent"
 status: "published"
-subtitle: "Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre etourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussees sous plus d'une etiquette a la fois."
+subtitle: "Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussees sous plus d'une etiquette a la fois."
 description: "Apprenez pourquoi les symptômes de POTS, EDS et fibromyalgie se chevauchent souvent et pourquoi cela rend le suivi et la préparation des rendez-vous plus difficiles."
 excerpt: "Apprenez pourquoi les symptômes de POTS, EDS et fibromyalgie se chevauchent souvent et pourquoi cela rend le suivi et la préparation des rendez-vous plus difficiles."
 author: "zebra-editorial"
@@ -56,7 +56,7 @@ faq:
     answer: "Suivez les symptômes, changements, impact fonctionnel, poussees et contexte pertinent afin que votre historique reste utile meme quand les etiquettes sont encore en train d'être clarifiees."
 ---
 
-Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre etourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussees sous plus d'une etiquette a la fois.
+Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussees sous plus d'une etiquette a la fois.
 
 Ce chevauchement peut rendre les soins et le suivi beaucoup plus difficiles, surtout quand chaque condition est traitee comme une histoire separee.
 
@@ -64,7 +64,7 @@ Ce chevauchement peut rendre les soins et le suivi beaucoup plus difficiles, sur
 
 Pour beaucoup de patients, le chevauchement signifie:
 
-- etourdissements et symptômes en position debout
+- étourdissements et symptômes en position debout
 - douleur et instabilite articulaire
 - fatigue qui affecte le fonctionnement quotidien
 - brain fog

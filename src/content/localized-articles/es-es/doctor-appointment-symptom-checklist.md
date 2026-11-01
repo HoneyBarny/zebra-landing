@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "doctor-appointment-symptom-checklist"
 title: "Lista de síntomas para una cita médica"
 status: "published"
-subtitle: "Una lista de síntomas para una cita médica te ayuda a llevar los detalles correctos sin intentar recordar todo tu historial de salud en la sala de espera. La lista más útil incluye tus síntomas principales, que cambio, patrones de brotes, impacto funcional, medicamentos, mediciones relevantes y las preguntas principales que necesitas responder."
+subtitle: "Una lista de síntomas para una cita médica te ayuda a llevar los detalles correctos sin intentar recordar todo tu historial de salud en la sala de espera. La lista más útil incluye tus síntomas principales, que cambió, patrones de brotes, impacto funcional, medicamentos, mediciones relevantes y las preguntas principales que necesitas responder."
 description: "Usa esta lista de síntomas para una cita médica para organizar síntomas, brotes, medicamentos, cambios funcionales y preguntas antes de la visita."
 excerpt: "Una lista práctica de síntomas para preparar notas más claras antes de una cita médica, de especialista o de cardiología."
 author: "zebra-editorial"
@@ -69,7 +69,7 @@ Una lista de síntomas para una cita médica te ayuda a llevar los detalles corr
 
 El objetivo no es llegar con registros perfectos. El objetivo es hacer que la cita sea más fácil de usar.
 
-Esto importa en enfermedades cronicas porque los síntomas pueden cambiar despacio, solaparse o mezclarse durante los días de brote. Cuando por fin te sientas con el médico, puede ser dificil recordar qué pasó esta semana, qué pasó el mes pasado y que querias preguntar.
+Esto importa en enfermedades cronicas porque los síntomas pueden cambiar despacio, solaparse o mezclarse durante los días de brote. Cuando por fin te sientas con el médico, puede ser difícil recordar qué pasó esta semana, qué pasó el mes pasado y que querias preguntar.
 
 ## Lista rápida
 
@@ -84,7 +84,7 @@ Antes de la cita, intenta llevar:
 - mediciones relevantes en casa, si las registras
 - alergias o problemas previos con medicamentos
 - tus 3 preguntas principales
-- la decision en la que más necesitas ayuda
+- la decisión en la que más necesitas ayuda
 
 No necesitas cada detalle. Necesitas los detalles que convierten la memoria vaga en una conversación más clara.
 
@@ -103,7 +103,7 @@ Para muchas personas que usan Zebra, pueden incluir:
 - falta de aire
 - debilidad
 - intolerancia al ejercicio
-- alteracion del sueño
+- alteración del sueño
 
 Elige síntomas nuevos, peores, repetidos o que afecten más la vida diaria. Si enumeras veinte síntomas, los más importantes pueden perderse. Si eliges tres a cinco, la conversación tiene un centro.
 
@@ -111,22 +111,22 @@ MedlinePlus recomienda anotar detalles de los síntomas antes de una visita, inc
 
 ## 2. Que cambió
 
-Los medicos a menudo necesitan el cambio, no solo el nombre del síntoma.
+Los médicos a menudo necesitan el cambio, no solo el nombre del síntoma.
 
 Anota:
 
 - cuándo empezó el síntoma
-- si se volvio más frecuente
+- si se volvió más frecuente
 - si cambio la gravedad
 - si cambio la recuperación
 - si aparecio un síntoma nuevo
 - si hubo cambios de rutina, medicamento, infección, periodo, viaje, calor, sueño o actividad en el mismo periodo
 
-En enfermedad crónica, "estoy cansada" puede ser verdad pero dificil de usar. "La fatiga paso de ser sobre todo por la noche a durar todo el día después de poca actividad" da más contexto.
+En enfermedad crónica, "estoy cansada" puede ser verdad pero difícil de usar. "La fatiga paso de ser sobre todo por la noche a durar todo el día después de poca actividad" da más contexto.
 
 ## 3. Patrones de brotes
 
-Si los síntomas vienen en oleadas, añade una seccion breve de brotes.
+Si los síntomas vienen en oleadas, añade una sección breve de brotes.
 
 Notas útiles:
 
@@ -165,7 +165,7 @@ Lleva una lista actual de:
 - vitaminas
 - suplementos
 - cambios de dosis
-- fechas de inicio o suspension
+- fechas de inicio o suspensión
 - efectos secundarios o preocupaciones
 - dosis omitidas si es relevante
 
@@ -195,7 +195,7 @@ Los materiales de AHRQ sugieren llevar tus preguntas principales y preguntar sob
 
 Formatos útiles:
 
-- ¿Qué patron parece más importante?
+- ¿Qué patrón parece más importante?
 - ¿Qué debería registrar antes de la proxima visita?
 - ¿Qué habría que esto fuera urgente?
 - ¿Cuáles son los proximos pasos?
@@ -219,7 +219,7 @@ Lo principal con lo que necesito ayuda es:
 
 ### Qué cambió
 
-- Empezo o empeoro:
+- Empezó o empeoro:
 - Ocurre con más frecuencia cuando:
 - Mejor o peor que lo habitual:
 
@@ -231,7 +231,7 @@ Lo principal con lo que necesito ayuda es:
 
 ### Impacto funcional
 
-- Esto me impidio:
+- Esto me impidió:
 - Necesite ayuda con:
 
 ### Medicamentos y rutinas
@@ -254,7 +254,7 @@ Usa Zebra para mantener síntomas, brotes, medicamentos, cambios de rutina, sal,
 
 Para el flujo más amplio, lee [How to Track Symptoms Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/). Para el formato de resumen, lee [How to Prepare a Monthly Symptom Summary](/blog/how-to-prepare-a-monthly-symptom-summary/).
 
-## Conclusion
+## Conclusión
 
 Una buena lista de síntomas para una cita médica es breve, específica y fácil de revisar. Debe responder qué cambió, qué se repitió, qué afectó la vida diaria, que medicamentos o rutinas cambiaron y que necesitas decidir después.
 

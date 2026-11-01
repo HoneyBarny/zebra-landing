@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "symptom-tracker-vs-notes-app-vs-spreadsheet"
 title: "Rastreador de síntomas vs app de notas vs hoja de cálculo"
 status: "published"
-subtitle: "Una app de notas es mejor para pensamientos rapidos. Una hoja de cálculo es mejor cuando quieres control total sobre las columnas. Un rastreador de síntomas es mejor cuando el registro necesita sobrevivir a brain fog, brotes, cambios de medicación y preparación de citas médicas."
+subtitle: "Una app de notas es mejor para pensamientos rápidos. Una hoja de cálculo es mejor cuando quieres control total sobre las columnas. Un rastreador de síntomas es mejor cuando el registro necesita sobrevivir a brain fog, brotes, cambios de medicación y preparación de citas médicas."
 description: "Una guía práctica para decidir entre una app de notas, una hoja de cálculo o un rastreador de síntomas para enfermedad crónica y citas médicas."
 excerpt: "Una guía práctica para decidir entre una app de notas, una hoja de cálculo o un rastreador de síntomas para enfermedad crónica y citas médicas."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparación de apps de notas, hojas de cálculo y rastreadores de síntomas para enfermedad crónica"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Mira como Zebra mantiene todo en una sola linea de tiempo."
+ctaNote: "Mira como Zebra mantiene todo en una sola línea de tiempo."
 featured: false
 categories: 
   - "Comparisons"
@@ -51,7 +51,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Es suficiente una app de notas para rastrear síntomas?"
-    answer: "Puede ser suficiente para captura rápida, pero después suele ser más dificil revisar patrones y prepararse para citas."
+    answer: "Puede ser suficiente para captura rápida, pero después suele ser más difícil revisar patrones y prepararse para citas."
   - question: "¿Es una hoja de cálculo mejor que un rastreador de síntomas?"
     answer: "Depende de tu flujo de trabajo. Las hojas de cálculo ofrecen control, pero también crean más mantenimiento. Un rastreador de síntomas suele ser más fácil para uso diario repetido."
   - question: "¿Por qué no usar simplemente Apple Notes?"
@@ -83,10 +83,10 @@ Suelen ser el lugar más fácil para empezar.
 Usa una app de notas cuando el pensamiento es pequeno e inmediato:
 
 - "preguntar por mareo después de comer"
-- "nuevo dolor de hombro empezo el martes"
+- "nuevo dolor de hombro empezó el martes"
 - "mencionar que el sueño esta empeorando"
 
-El problema llega después. Las notas son dificiles de comparar con el tiempo, dificiles de resumir rápido y faciles de olvidar cuando tienes más de unas pocas entradas. Una nota puede guardar el detalle, pero normalmente no convierte ese detalle en un historial usable por si sola.
+El problema llega después. Las notas son difíciles de comparar con el tiempo, difíciles de resumir rápido y fáciles de olvidar cuando tienes más de unas pocas entradas. Una nota puede guardar el detalle, pero normalmente no convierte ese detalle en un historial usable por si sola.
 
 ## Cuándo funciona una hoja de cálculo
 
@@ -106,7 +106,7 @@ Usa una hoja de cálculo cuando quieres elegir cada campo tu mismo:
 - desencadenante
 - notas
 
-El intercambio es el mantenimiento. Las hojas de cálculo suelen requerir más energía y más cuidado. También pueden volverse dificiles de usar en días de brain fog o durante brotes, especialmente en un telefono.
+El intercambio es el mantenimiento. Las hojas de cálculo suelen requerir más energía y más cuidado. También pueden volverse difíciles de usar en días de brain fog o durante brotes, especialmente en un telefono.
 
 ## Cuándo funciona mejor un rastreador de síntomas
 
@@ -126,11 +126,11 @@ El problema se ha convertido en:
 
 En ese punto, el rastreador es útil porque le da forma al historial antes de que la cita lo pida.
 
-## La prueba de decision
+## La prueba de decisión
 
 Antes de elegir una herramienta, haz una pregunta práctica:
 
-**Puedo usar esto en un día dificil y todavía entenderlo tres semanas después?**
+**Puedo usar esto en un día difícil y todavía entenderlo tres semanas después?**
 
 Si la respuesta es no, el sistema es demasiado fragil.
 
@@ -144,9 +144,9 @@ Un buen registro de síntomas no necesita ser perfecto. Necesita ser usable cuan
 
 ## Comparación lado a lado
 
-| Herramienta | Mejor para | Parte más dificil |
+| Herramienta | Mejor para | Parte más difícil |
 | --- | --- | --- |
-| App de notas | Pensamientos rapidos, preguntas, detalles puntuales | Convertir notas dispersas en un patron |
+| App de notas | Pensamientos rápidos, preguntas, detalles puntuales | Convertir notas dispersas en un patrón |
 | Hoja de cálculo | Columnas personalizadas y control manual | Mantenerla actualizada en días de baja energía |
 | Rastreador de síntomas | Historial continuo y preparación de citas | Elegir un rastreador que encaje con tu condición y flujo de trabajo |
 
@@ -170,7 +170,7 @@ Esta diseñado para personas que quieren:
 - rastreo específico para solapamiento de POTS, EDS y fibromialgia
 - un informe listo para el médico como resultado de mantener el historial organizado
 
-Si tu sistema actual funciona y puedes usarlo de forma fiable antes de citas, puede que no necesites cambiarlo. Si tu sistema actual esta disperso, es agotador o es dificil de revisar, ahí es donde más ayuda un rastreador dedicado.
+Si tu sistema actual funciona y puedes usarlo de forma fiable antes de citas, puede que no necesites cambiarlo. Si tu sistema actual esta disperso, es agotador o es difícil de revisar, ahí es donde más ayuda un rastreador dedicado.
 
 ## En resumen
 
@@ -184,7 +184,7 @@ Usa un rastreador de síntomas si necesitas un registro con el que realmente pue
 
 ### ¿Es suficiente una app de notas para rastrear síntomas?
 
-Puede ser suficiente para captura rápida, pero después suele ser más dificil revisar patrones y prepararse para citas.
+Puede ser suficiente para captura rápida, pero después suele ser más difícil revisar patrones y prepararse para citas.
 
 ### ¿Es una hoja de cálculo mejor que un rastreador de síntomas?
 

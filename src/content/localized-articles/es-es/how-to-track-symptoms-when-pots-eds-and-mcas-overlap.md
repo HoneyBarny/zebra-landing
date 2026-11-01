@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-symptoms-when-pots-eds-and-mcas-overlap"
 status: "published"
 title: "Como registrar síntomas cuando POTS, EDS y MCAS se superponen"
-subtitle: "Cuando los síntomas de POTS, EDS y MCAS se superponen, lo dificil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e impacto funcional como un historial legible."
+subtitle: "Cuando los síntomas de POTS, EDS y MCAS se superponen, lo difícil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e impacto funcional como un historial legible."
 description: "Aprende como registrar síntomas cuando POTS, EDS y MCAS se superponen, incluyendo brotes, desencadenantes, contexto ortostático, medicación y preparación de citas."
 excerpt: "Una guía práctica para personas que manejan síntomas superpuestos de POTS, EDS o hEDS y MCAS antes de citas médicas."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Pantalla de Zebra con historial de patrones de síntomas guardados en el tiempo."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas superpuestos, desencadenantes, medicación, contexto ortostático y preguntas de cita en una sola linea temporal."
+ctaNote: "Usa Zebra para mantener síntomas superpuestos, desencadenantes, medicación, contexto ortostático y preguntas de cita en una sola línea temporal."
 categories: 
   - "Symptom Tracking"
   - "POTS"
@@ -61,22 +61,22 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Pueden superponerse los síntomas de POTS, EDS y MCAS?"
-    answer: "Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretacion clínica."
+    answer: "Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica."
   - question: "¿Qué debo registrar cuando los síntomas se superponen?"
     answer: "Registra el grupo principal de síntomas, el momento, posibles desencadenantes, contexto ortostático, cambios de medicación, impacto funcional y preguntas para la cita."
   - question: "¿Debo registrar desencadenantes como prueba?"
     answer: "No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estres, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa."
   - question: "¿Cómo mantengo el registro manejable con brain fog?"
-    answer: "Usa una estructura diaria corta: que cambio, que tan fuerte fue, que habia cerca y que te impidio hacer."
+    answer: "Usa una estructura diaria corta: que cambió, que tan fuerte fue, que había cerca y que te impidió hacer."
   - question: "¿Zebra diagnostica POTS, EDS o MCAS?"
     answer: "No. Zebra ayuda a organizar historial introducido por la persona para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Cuando [POTS](/knowledge/pots/), [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/) y [MCAS](/knowledge/mcas/) se superponen, lo dificil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e [impacto funcional](/knowledge/functional-impact/) como un historial legible en lugar de fragmentos separados.
+Cuando [POTS](/knowledge/pots/), [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/) y [MCAS](/knowledge/mcas/) se superponen, lo difícil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e [impacto funcional](/knowledge/functional-impact/) como un historial legible en lugar de fragmentos separados.
 
-Por eso el registro de superposición necesita una forma distinta de un diario de síntomas normal. Una lista de síntomas puede volverse demasiado larga para usar. Un registro mejor muestra qué cambió, qué pasó cerca y qué hizo más dificil la vida diaria.
+Por eso el registro de superposición necesita una forma distinta de un diario de síntomas normal. Una lista de síntomas puede volverse demasiado larga para usar. Un registro mejor muestra qué cambió, qué pasó cerca y qué hizo más difícil la vida diaria.
 
-Fuentes médicas y de educacion para pacientes describen superposición entre hipermovilidad, POTS o disautonomía y síntomas relacionados con mastocitos, pero también senalan que el diagnóstico es complejo y pertenece a profesionales clinicos. El objetivo del registro no es probar un diagnóstico. El objetivo es llevar una historia más clara a la atención médica.
+Fuentes médicas y de educación para pacientes describen superposición entre hipermovilidad, POTS o disautonomía y síntomas relacionados con mastocitos, pero también senalan que el diagnóstico es complejo y pertenece a profesionales clínicos. El objetivo del registro no es probar un diagnóstico. El objetivo es llevar una historia más clara a la atención médica.
 
 ## Empieza con el grupo, no con cada síntoma
 
@@ -85,16 +85,16 @@ En días de superposición, empieza nombrando el grupo principal.
 Por ejemplo:
 
 - síntomas al estar erguida: mareo, palpitaciones, temblor, fatiga
-- síntomas de tejido conectivo: dolor articular, inestabilidad, lesiones, notas de subluxacion
+- síntomas de tejido conectivo: dolor articular, inestabilidad, lesiones, notas de subluxación
 - síntomas tipo mastocito: flushing, picor, urticaria, malestar GI, hinchazon, reacciones a comida o calor
 - síntomas cognitivos: brain fog, lagunas de memoria, dificultad para encontrar palabras
 - impacto funcional: ducharse, estar de pie, conducir, trabajar, estudiar, cuidar, cocinar
 
-No necesitas registrar cada sensación perfectamente. El primer objetivo es conservar suficiente patron para no reconstruirlo de memoria antes de la cita.
+No necesitas registrar cada sensación perfectamente. El primer objetivo es conservar suficiente patrón para no reconstruirlo de memoria antes de la cita.
 
 ## Registra el momento y el contexto cercano
 
-Los síntomas superpuestos son más faciles de revisar cuando cada entrada incluye timing.
+Los síntomas superpuestos son más fáciles de revisar cuando cada entrada incluye timing.
 
 Notas útiles incluyen:
 
@@ -123,11 +123,11 @@ Registra:
 - medicamentos de rescate o de uso según necesidad
 - preguntas que quieres hacer
 
-El valor no es solo la lista. El valor es la linea temporal. Si los síntomas cambiaron cerca de un cambio de medicación, puedes llevar ese contexto sin intentar recordar la secuencia después.
+El valor no es solo la lista. El valor es la línea temporal. Si los síntomas cambiaron cerca de un cambio de medicación, puedes llevar ese contexto sin intentar recordar la secuencia después.
 
 Para una versión más profunda, lee [Como registrar cambios de medicación durante un brote](/blog/how-to-track-medication-changes-during-a-flare/).
 
-## Anade impacto funcional para que la cita tenga un centro
+## Añade impacto funcional para que la cita tenga un centro
 
 Los síntomas pueden sonar abstractos hasta que explicas que cambiaron.
 
@@ -139,7 +139,7 @@ En vez de escribir solo "fatiga", añade ejemplos como:
 - necesite ayuda con recados
 - no pude conducir
 - el dolor cambio caminar, escaleras, sueño o uso de las manos
-- brain fog hizo más dificiles mensajes, formularios o conversaciones
+- brain fog hizo más difíciles mensajes, formularios o conversaciones
 
 Esto ayuda a convertir una lista larga de síntomas en una conversación de cuidado. El impacto funcional responde a la pregunta práctica: que le esta haciendo esto a tu vida?
 
@@ -159,7 +159,7 @@ Este formato funciona incluso si solo completas parte. Una entrada parcial de un
 
 ## Qué llevar a la cita
 
-Antes de una visita con especialista, convierte la linea temporal en un resumen corto:
+Antes de una visita con especialista, convierte la línea temporal en un resumen corto:
 
 - los 3 grupos de síntomas principales
 - qué cambió desde la última visita
@@ -174,7 +174,7 @@ Si necesitas la versión específica para citas, usa la [Checklist de síntomas 
 
 ## Contexto de fuentes
 
-The Ehlers-Danlos Society senala que hEDS puede afectar muchos sistemas del cuerpo y habla de síntomas de MCAS como respuestas alergicas, síntomas GI y problemas de vejiga en su página educativa sobre hEDS. Fuentes de PubMed y PMC también describen interes clínico en la relacion entre hEDS, POTS y MCAS, mientras enfatizan que las definiciones y la evidencia pueden ser complejas.
+The Ehlers-Danlos Society senala que hEDS puede afectar muchos sistemas del cuerpo y habla de síntomas de MCAS como respuestas alergicas, síntomas GI y problemas de vejiga en su página educativa sobre hEDS. Fuentes de PubMed y PMC también describen interes clínico en la relación entre hEDS, POTS y MCAS, mientras enfatizan que las definiciones y la evidencia pueden ser complejas.
 
 Lectura útil:
 
@@ -185,7 +185,7 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola linea temporal.
+Zebra esta creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola línea temporal.
 
 No diagnostica POTS, EDS, MCAS ni ninguna condición. Ayuda a mantener el historial introducido por la persona organizado para revisarlo antes de una visita médica.
 
@@ -201,7 +201,7 @@ No diagnostica POTS, EDS, MCAS ni ninguna condición. Ayuda a mantener el histor
 
 ### ¿Pueden superponerse los síntomas de POTS, EDS y MCAS?
 
-Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretacion clínica.
+Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica.
 
 ### ¿Qué debo registrar cuando los síntomas se superponen?
 

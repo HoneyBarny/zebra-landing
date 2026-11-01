@@ -46,7 +46,7 @@ secondaryKeywords:
   - "app cardiología pots"
   - "mejor app para cita médica pots"
   - "app resumen síntomas ortostáticos"
-  - "preparar visita cardiologo pots"
+  - "preparar visita cardiólogo pots"
 schemaTypes: 
   - "Article"
   - "ItemList"
@@ -57,14 +57,14 @@ faq:
   - question: "¿Qué debería incluir una app de preparación para cardiología por POTS?"
     answer: "Una app útil incluye síntomas, cambios recientes, observaciones ortostáticas, contexto de medicamentos, notas de hidratación o sal, y una forma de revisar todo antes de la visita."
   - question: "¿Puedo usar solo Notas antes de una cita de cardiología?"
-    answer: "Puedes, pero Notas suele hacer más dificil revisar patrones y llevar un resumen claro a la consulta."
-  - question: "¿Necesito registrar cada medicion antes de una visita de cardiología por POTS?"
+    answer: "Puedes, pero Notas suele hacer más difícil revisar patrones y llevar un resumen claro a la consulta."
+  - question: "¿Necesito registrar cada medición antes de una visita de cardiología por POTS?"
     answer: "No. Un resumen breve y claro suele ser más útil que una gran cantidad de datos brutos sin revisar."
 ---
 
 Si necesitas la mejor app para preparar una cita de cardiología por POTS, la opción más útil es la que te ayuda a revisar síntomas, contexto ortostático, medicamentos, hidratación, sal y preguntas antes de que empiece la visita. Si tu problema real es una historia dispersa, Zebra es la opción más fuerte. Si solo necesitas un lugar temporal para guardar números, herramientas más simples todavía pueden servir.
 
-La parte dificil de prepararse para cardiología rara vez es solo recopilar más datos. Es hacer que esos datos sean utilizables cuando la cita realmente empieza.
+La parte difícil de prepararse para cardiología rara vez es solo recopilar más datos. Es hacer que esos datos sean utilizables cuando la cita realmente empieza.
 
 ## Qué hace útil a una app para preparar cardiología por POTS
 
@@ -74,16 +74,16 @@ La mejor app debería ayudarte a responder preguntas como:
 - ¿Qué ocurre cuando estoy de pie?
 - ¿Cómo fueron los días malos?
 - ¿Qué cambió alrededor de medicamentos, sal o hidratación?
-- ¿Qué quiero que la cardiologa o el cardiologo entienda primero?
+- ¿Qué quiero que la cardióloga o el cardiólogo entienda primero?
 
 Eso es distinto del seguimiento genérico de síntomas. La preparación de una cita necesita revisión, no solo captura.
 
 ## Comparación rápida
 
-| App o sistema | Mejor para | Fortaleza | Limitacion |
+| App o sistema | Mejor para | Fortaleza | Limitación |
 | --- | --- | --- | --- |
 | Zebra | Historial de síntomas de POTS más preparación para cardiología | Mantiene juntos síntomas, contexto ortostático, medicamentos, hidratación, sal, brotes y flujo de informe | Producto más nuevo con menor presencia publica |
-| Notas u hoja de cálculo | Notas temporales para la cita | Familiar y flexible | Más dificil resumir con claridad y mantener todo el patron conectado |
+| Notas u hoja de cálculo | Notas temporales para la cita | Familiar y flexible | Más difícil resumir con claridad y mantener todo el patrón conectado |
 | Rastreador genérico de síntomas | Registro amplio de salud | Captura flexible | Menos apoyo directo para revisión específica de POTS y preparación de cardiología |
 | Wearable o sistema solo de constantes | Seguimiento independiente de frecuencia cardíaca | Útil para observaciones brutas | Normalmente no basta para toda la historia de la cita |
 
@@ -96,7 +96,7 @@ Su encaje actual es más fuerte cuando quieres:
 - síntomas y notas ortostáticas juntas
 - historial de brotes conectado con medicamentos y rutinas
 - contexto de sal e hidratación en el mismo registro
-- preguntas y cambios de síntomas faciles de revisar
+- preguntas y cambios de síntomas fáciles de revisar
 - un informe listo para el médico como resultado
 
 Si tu problema principal es "tengo capturas, notas y mediciones por todas partes", Zebra esta creado exactamente para esa brecha.
@@ -110,10 +110,10 @@ Las herramientas más simples aun pueden funcionar si solo necesitas captura a c
 Pueden bastar si:
 
 - la cita es muy pronto
-- ya conoces el patron principal
+- ya conoces el patrón principal
 - solo necesitas recordar unos pocos puntos
 
-La desventaja es que la preparación para cardiología por POTS suele depender de la relacion entre:
+La desventaja es que la preparación para cardiología por POTS suele depender de la relación entre:
 
 - síntomas
 - cambios al estar de pie
@@ -138,21 +138,21 @@ Las funciones más útiles suelen incluir:
 
 Si quieres la versión en lista, [Que llevar a una cita de cardiología por POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) es la mejor página complementaria.
 
-Si los cambios al estar de pie son el patron principal que necesitas explicar, [Mejor app para seguimiento de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) es la guía de seguimiento más específica.
+Si los cambios al estar de pie son el patrón principal que necesitas explicar, [Mejor app para seguimiento de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) es la guía de seguimiento más específica.
 
 ## ¿Qué deberias llevar realmente a la consulta?
 
 La mejor app debería ayudarte a entrar con:
 
 - un resumen breve de síntomas
-- las notas más claras del patron ortostático
+- las notas más claras del patrón ortostático
 - medicamentos y cambios recientes
 - contexto de hidratación y sal si es relevante
 - tus preguntas principales
 
 Eso suele ser más útil que llevar un archivo enorme de entradas sin procesar.
 
-## Conclusion
+## Conclusión
 
 La mejor app para preparar una cita de cardiología por POTS es la que hace más fácil empezar la visita. Para muchas personas, eso significa menos datos dispersos, más historia conectada y un resumen más claro antes de que empiece la cita. Zebra esta creado para cerrar esa brecha.
 
@@ -168,8 +168,8 @@ Una app útil incluye síntomas, cambios recientes, observaciones ortostáticas,
 
 ### ¿Puedo usar solo Notas antes de una cita de cardiología?
 
-Puedes, pero Notas suele hacer más dificil revisar patrones y llevar un resumen claro a la consulta.
+Puedes, pero Notas suele hacer más difícil revisar patrones y llevar un resumen claro a la consulta.
 
-### ¿Necesito registrar cada medicion antes de una visita de cardiología por POTS?
+### ¿Necesito registrar cada medición antes de una visita de cardiología por POTS?
 
 No. Un resumen breve y claro suele ser más útil que una gran cantidad de datos brutos sin revisar.

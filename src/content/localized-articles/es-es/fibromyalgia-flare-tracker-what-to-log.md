@@ -5,7 +5,7 @@ title: "Tracker de brotes de fibromialgia: que registrar en un mal día"
 status: "published"
 subtitle: "Un brote de fibromialgia puede hacer que todo se sienta más fuerte: dolor, fatiga, problemas de sueño, brain fog, sensibilidad sensorial y estres. Registra los detalles pequenos útiles sin convertir un mal día en un día de papeleo."
 description: "Aprende que registrar durante un brote de fibromialgia, incluyendo dolor, fatiga, sueño, brain fog, desencadenantes, pacing, recuperación e impacto funcional."
-excerpt: "Una guía práctica de tracker para brotes de fibromialgia: dolor, fatiga, sueño, brain fog, desencadenantes, recuperación y que ayudo."
+excerpt: "Una guía práctica de tracker para brotes de fibromialgia: dolor, fatiga, sueño, brain fog, desencadenantes, recuperación y que ayudó."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -18,12 +18,12 @@ primaryKeyword: "tracker brote fibromialgia"
 seoTitle: "Tracker de brotes de fibromialgia: que registrar | Zebra"
 metaDescription: "Usa un tracker de brotes de fibromialgia para registrar dolor, fatiga, sueño, brain fog, desencadenantes, pacing, recuperación, medicamentos e impacto diario."
 ogTitle: "Tracker de brotes de fibromialgia: que registrar en un mal día"
-ogDescription: "Una guía práctica para registrar brotes de fibromialgia sin sobrecargarte en los días más dificiles."
+ogDescription: "Una guía práctica para registrar brotes de fibromialgia sin sobrecargarte en los días más difíciles."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla diaria de Zebra para síntomas, desencadenantes, hidratación, medicamentos y notas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener notas de brotes de fibromialgia, síntomas, desencadenantes, medicamentos, contexto de sueño e impacto funcional en una sola linea de tiempo."
+ctaNote: "Usa Zebra para mantener notas de brotes de fibromialgia, síntomas, desencadenantes, medicamentos, contexto de sueño e impacto funcional en una sola línea de tiempo."
 categories: 
   - "Fibromyalgia"
   - "Symptom Tracking"
@@ -58,20 +58,20 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar durante un brote de fibromialgia?"
-    answer: "Registra ubicacion e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estres, nivel de actividad, posibles desencadenantes, contexto de medicación, que ayudo, tiempo de recuperación e impacto diario."
+    answer: "Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estres, nivel de actividad, posibles desencadenantes, contexto de medicación, que ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Cuánto debo escribir en un mal día de brote?"
-    answer: "Mantenlo corto. Unos toques o una frase pueden bastar: intensidad de síntomas, posible desencadenante, que tuviste que dejar de hacer y que ayudo."
+    answer: "Mantenlo corto. Unos toques o una frase pueden bastar: intensidad de síntomas, posible desencadenante, que tuviste que dejar de hacer y que ayudó."
   - question: "¿El tracking puede ayudar a identificar desencadenantes de brotes de fibromialgia?"
     answer: "El tracking puede ayudarte a notar patrones repetidos alrededor de cambios de sueño, estres, exceso de actividad, enfermedad, clima, cambios de rutina o cambios de medicación, pero tu médico debe ayudarte a interpretarlos."
   - question: "¿Debo registrar que ayudó durante un brote?"
-    answer: "Si. Registra pacing, descanso, movimiento suave, calor, relajacion, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar que ayuda con el tiempo."
+    answer: "Si. Registra pacing, descanso, movimiento suave, calor, relajación, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar que ayuda con el tiempo."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
 Un brote de [fibromialgia](/es-es/knowledge/fibromyalgia/) puede hacer que todo se sienta más fuerte: dolor, fatiga, problemas de sueño, [brain fog](/es-es/knowledge/brain-fog/), sensibilidad sensorial y estres. En un mal día de brote, el objetivo no es escribir un diario perfecto. El objetivo es guardar suficiente detalle para que tu yo futuro y tu médico entiendan qué pasó.
 
-CDC describe la fibromialgia como una condición que puede causar dolor, fatiga, malestar emocional y mental, y problemas de sueño. Cleveland Clinic senala que los síntomas pueden empeorar durante brotes y que desencadenantes comunes pueden incluir estres emocional, cambios de rutina, mal sueño, cambios de clima o temperatura, enfermedad, lesion y cambios de medicación o tratamiento.
+CDC describe la fibromialgia como una condición que puede causar dolor, fatiga, malestar emocional y mental, y problemas de sueño. Cleveland Clinic senala que los síntomas pueden empeorar durante brotes y que desencadenantes comunes pueden incluir estres emocional, cambios de rutina, mal sueño, cambios de clima o temperatura, enfermedad, lesión y cambios de medicación o tratamiento.
 
 Eso hace que registrar sea útil, pero solo si es suficientemente pequeno para hacerlo cuando te sientes fatal.
 
@@ -97,7 +97,7 @@ El dolor de fibromialgia puede moverse, extenderse o cambiar de calidad.
 
 Registra:
 
-- ubicacion: todo el cuerpo, cuello, espalda, caderas, piernas, brazos, mandibula, manos, pies
+- ubicación: todo el cuerpo, cuello, espalda, caderas, piernas, brazos, mandibula, manos, pies
 - sensación: dolor sordo, ardor, punzada, latido, sensibilidad, tipo gripe
 - intensidad de 0 a 10
 - si tacto, ropa, ruido, luz o temperatura lo empeoraron
@@ -166,15 +166,15 @@ Contexto posible:
 - estres emocional
 - enfermedad o sentirte agotado
 - cambio de clima o temperatura
-- viaje o interrupcion de rutina
+- viaje o interrupción de rutina
 - sobrecarga sensorial
 - periodo o cambio hormonal
 - migraña
 - síntomas digestivos
-- inicio, suspension, dosis olvidada o cambio de dosis de medicación
+- inicio, suspensión, dosis olvidada o cambio de dosis de medicación
 - pico de dolor por otra condición
 
-Cambridge University Hospitals describe los brotes de dolor crónico como episodios de dolor mucho peor que pueden ocurrir después de exceso de actividad, enfermedad, tension emocional o a veces sin razon clara. Esa parte de "sin razon clara" importa.
+Cambridge University Hospitals describe los brotes de dolor crónico como episodios de dolor mucho peor que pueden ocurrir después de exceso de actividad, enfermedad, tensión emocional o a veces sin razón clara. Esa parte de "sin razón clara" importa.
 
 ## Anota que ayudó y que no
 
@@ -187,10 +187,10 @@ Ejemplos:
 - estiramiento suave
 - caminata corta o movimiento ligero
 - calor
-- habitacion tranquila
+- habitación tranquila
 - menos pantalla
-- respiracion de relajacion
-- medicación según indicacion
+- respiración de relajación
+- medicación según indicación
 - comida y líquidos
 - cancelar o simplificar tareas
 - pedir ayuda
@@ -221,14 +221,14 @@ Usa esto en malos días:
 
 1. Intensidad del brote: 0-10.
 2. Síntomas principales: dolor, fatiga, fog, sueño, sensibilidad, animo, digestion.
-3. Dolor: ubicacion y sensación.
+3. Dolor: ubicación y sensación.
 4. Sueño: horas y calidad.
 5. Contexto: estres, actividad, clima, enfermedad, horario, medicamentos.
 6. Qué ayudó: pacing, calor, descanso, movimiento, silencio, contexto de medicación.
 7. Impacto: que tuviste que detener, cancelar o cambiar.
 8. Recuperación: mismo día, día siguiente, varios días.
 
-Si es demasiado, usa solo las lineas 1, 2 y 7.
+Si es demasiado, usa solo las líneas 1, 2 y 7.
 
 ## Contexto de fuentes
 
@@ -243,7 +243,7 @@ Información útil:
 
 Zebra ayuda a mantener notas de [brote](/es-es/knowledge/flare/), intensidad de síntomas, fatiga, brain fog, contexto de medicación, desencadenantes, notas de sueño e [impacto funcional](/es-es/knowledge/functional-impact/) en un solo lugar.
 
-No diagnostica fibromialgia ni te dice que tratamiento usar. Ayuda a llevar un patron de brotes más claro al médico.
+No diagnostica fibromialgia ni te dice que tratamiento usar. Ayuda a llevar un patrón de brotes más claro al médico.
 
 ## Puntos clave
 
@@ -257,7 +257,7 @@ No diagnostica fibromialgia ni te dice que tratamiento usar. Ayuda a llevar un p
 
 ### ¿Qué debo registrar durante un brote de fibromialgia?
 
-Registra ubicacion e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estres, nivel de actividad, posibles desencadenantes, contexto de medicación, qué ayudó, tiempo de recuperación e impacto diario.
+Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estres, nivel de actividad, posibles desencadenantes, contexto de medicación, qué ayudó, tiempo de recuperación e impacto diario.
 
 ### ¿Cuánto debo escribir en un mal día de brote?
 
@@ -269,7 +269,7 @@ El tracking puede ayudarte a notar patrones repetidos alrededor de cambios de su
 
 ### ¿Debo registrar que ayudó durante un brote?
 
-Si. Registra pacing, descanso, movimiento suave, calor, relajacion, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar qué ayuda con el tiempo.
+Si. Registra pacing, descanso, movimiento suave, calor, relajación, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar qué ayuda con el tiempo.
 
 ### ¿Zebra es consejo médico?
 

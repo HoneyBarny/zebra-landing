@@ -84,7 +84,7 @@ Bearable es fuerte si quieres:
 
 - un rastreador de síntomas amplio
 - un sistema personalizable que puedas moldear tu mismo
-- una app que no este atada a un patron de condición específico
+- una app que no este atada a un patrón de condición específico
 
 Esa flexibilidad es útil para personas que disfrutan construir su propio setup y no les molestan más decisiones iniciales.
 
@@ -110,7 +110,7 @@ Para el panorama más amplio de apps para POTS, [Mejores apps de rastreo de sín
 | Estilo de configuración | Más configuración personalizada | Estructura de rastreo más guiada |
 | Contexto ortostático | Posible, pero depende de la configuración | Integrado en la historia del producto |
 | Papel de sal e hidratación | Flexible pero genérico | Parte del flujo conectado de POTS |
-| Resultado para preparación de citas | Apoyo para revisión y exportacion | Informe listo para el médico como resultado central |
+| Resultado para preparación de citas | Apoyo para revisión y exportación | Informe listo para el médico como resultado central |
 
 ## ¿Cuál es mejor para citas médicas?
 
@@ -124,7 +124,7 @@ Eso es porque las citas por POTS a menudo requieren conservar:
 - cambios de medicación
 - preguntas para la visita
 
-Esos detalles son más faciles de usar cuando permanecen en un historial conectado.
+Esos detalles son más fáciles de usar cuando permanecen en un historial conectado.
 
 Si quieres el angulo más amplio de preparación de citas, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) y [Que llevar a una cita de cardiología por POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) son las siguientes mejores paginas.
 
@@ -144,9 +144,9 @@ Zebra puede funcionar mejor si:
 
 - el historial sigue dispersandose
 - quieres menos decisiones de configuración
-- la parte más dificil es entender el patron después
+- la parte más difícil es entender el patrón después
 
-Si ese es tu problema principal, [Por que el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica el patron directamente.
+Si ese es tu problema principal, [Por que el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica el patrón directamente.
 
 ## En resumen
 

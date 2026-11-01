@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-is-orthostatic-intolerance"
 title: "Que es la intolerancia ortostática?"
 status: "published"
-subtitle: "La intolerancia ortostática es un termino que se usa cuando los síntomas aparecen o empeoran al estar sentada, sentado o de pie, y mejoran al tumbarse. Describe un patron de síntomas, no un diagnóstico por si solo."
+subtitle: "La intolerancia ortostática es un termino que se usa cuando los síntomas aparecen o empeoran al estar sentada, sentado o de pie, y mejoran al tumbarse. Describe un patrón de síntomas, no un diagnóstico por si solo."
 description: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por que el seguimiento relacionado con la postura puede ser útil."
 excerpt: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por que el seguimiento relacionado con la postura puede ser útil."
 author: "zebra-editorial"
@@ -50,12 +50,12 @@ faq:
   - question: "¿Qué significa intolerancia ortostática?"
     answer: "Significa que los síntomas aparecen o empeoran cuando estas en posición vertical y mejoran cuando te tumbas."
   - question: "¿La intolerancia ortostática es lo mismo que POTS?"
-    answer: "No. POTS es un diagnóstico que puede incluir síntomas ortostáticos, pero la intolerancia ortostática es un patron más amplio."
+    answer: "No. POTS es un diagnóstico que puede incluir síntomas ortostáticos, pero la intolerancia ortostática es un patrón más amplio."
   - question: "¿El seguimiento puede diagnosticar intolerancia ortostática?"
     answer: "No. El seguimiento puede ayudar a organizar la historia, pero el diagnóstico sigue dependiendo de una evaluación clínica."
 ---
 
-La intolerancia ortostática es un termino que se usa cuando los síntomas aparecen o empeoran al estar sentada, sentado o de pie, y mejoran al tumbarse. Describe un patron de síntomas, no un diagnóstico por si solo.
+La intolerancia ortostática es un termino que se usa cuando los síntomas aparecen o empeoran al estar sentada, sentado o de pie, y mejoran al tumbarse. Describe un patrón de síntomas, no un diagnóstico por si solo.
 
 Muchas personas usan este termino al hablar de mareo, aturdimiento, debilidad, brain fog, palpitaciones o sentirse mal cuando pasan demasiado tiempo en posición vertical.
 
@@ -72,15 +72,15 @@ Los síntomas pueden incluir:
 - brain fog
 - nauseas
 
-No todo el mundo tiene el mismo patron, y un mal día puede verse distinto de una persona a otra.
+No todo el mundo tiene el mismo patrón, y un mal día puede verse distinto de una persona a otra.
 
 ## ¿La intolerancia ortostática es lo mismo que POTS?
 
-No. POTS es una condición que incluye síntomas ortostáticos, pero intolerancia ortostática es un termino más amplio. Describe el patron de síntomas al estar en posición vertical, sin nombrar la condición exacta que hay detras.
+No. POTS es una condición que incluye síntomas ortostáticos, pero intolerancia ortostática es un termino más amplio. Describe el patrón de síntomas al estar en posición vertical, sin nombrar la condición exacta que hay detras.
 
 ## Por qué importa el termino
 
-Para pacientes, este termino puede ayudar porque da nombre a un patron:
+Para pacientes, este termino puede ayudar porque da nombre a un patrón:
 
 - peor en posición vertical
 - mejor al tumbarse
@@ -108,8 +108,8 @@ Cuando POTS es el centro del cuadro, el [diario POTS](/es-es/pots-tracker/) es e
 ## Ideas clave
 
 - La intolerancia ortostática significa que los síntomas empeoran en posición vertical y mejoran al tumbarse.
-- Es un patron de síntomas, no un diagnóstico por si solo.
-- Registrar el patron relacionado con la postura puede hacer que la historia sea más fácil de revisar después.
+- Es un patrón de síntomas, no un diagnóstico por si solo.
+- Registrar el patrón relacionado con la postura puede hacer que la historia sea más fácil de revisar después.
 
 ## FAQ
 
@@ -119,7 +119,7 @@ Significa que los síntomas aparecen o empeoran cuando estas en posición vertic
 
 ### ¿La intolerancia ortostática es lo mismo que POTS?
 
-No. POTS es un diagnóstico que puede incluir síntomas ortostáticos, pero la intolerancia ortostática es un patron más amplio.
+No. POTS es un diagnóstico que puede incluir síntomas ortostáticos, pero la intolerancia ortostática es un patrón más amplio.
 
 ### ¿El seguimiento puede diagnosticar intolerancia ortostática?
 

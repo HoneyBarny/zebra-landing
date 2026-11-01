@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "exercise-intolerance-symptom-tracker-for-pots"
 title: "Registro de intolerancia al ejercicio para POTS: que anotar"
 status: "published"
-subtitle: "Las notas sobre intolerancia al ejercicio son más útiles cuando tipo de actividad, posición corporal, duración, intensidad, calor, hidratación, sal, frecuencia cardíaca, respiracion, mareo, fatiga, empeoramiento diferido, recuperación e impacto diario quedan conectados. El objetivo no es forzar progreso. El objetivo es llevar patrones de esfuerzo más claros al clínico."
+subtitle: "Las notas sobre intolerancia al ejercicio son más útiles cuando tipo de actividad, posición corporal, duración, intensidad, calor, hidratación, sal, frecuencia cardíaca, respiración, mareo, fatiga, empeoramiento diferido, recuperación e impacto diario quedan conectados. El objetivo no es forzar progreso. El objetivo es llevar patrones de esfuerzo más claros al clínico."
 description: "Aprenda que anotar en un registro de intolerancia al ejercicio para POTS, disautonomía, Long COVID, fatiga, frecuencia cardíaca, mareo, hidratación, sal, recuperación y visitas médicas."
 excerpt: "Una guía práctica para registrar intolerancia al ejercicio, tipo de actividad, posición, duración, intensidad, frecuencia cardíaca, mareo, fatiga, empeoramiento diferido, recuperación y resumenes para consulta."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener esfuerzo, síntomas, hidratación, sal, frecuencia cardíaca, recuperación y preguntas para la consulta en una misma linea de tiempo."
+ctaNote: "Use Zebra para mantener esfuerzo, síntomas, hidratación, sal, frecuencia cardíaca, recuperación y preguntas para la consulta en una misma línea de tiempo."
 categories: 
   - "Registro de síntomas"
   - "Disautonomía"
@@ -77,7 +77,7 @@ faq:
 
 La intolerancia al ejercicio puede significar cosas muy distintas para personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, ME/CFS, solapamiento con EDS o HSD, migraña o enfermedad crónica. Para una persona puede ser mareo después de una caminata corta. Para otra puede ser una frecuencia cardíaca que no baja, piernas pesadas después de escaleras, síntomas después de fisioterapia o fatiga que aparece más tarde.
 
-Un registro de intolerancia al ejercicio no diagnostica POTS, disautonomía, Long COVID, ME/CFS, enfermedad cardíaca, enfermedad pulmonar, anemia, efectos de medicación ni ninguna otra condición. Le ayuda a llevar un patron de esfuerzo más claro a un clínico que pueda evaluarlo y orientar la actividad de forma segura.
+Un registro de intolerancia al ejercicio no diagnostica POTS, disautonomía, Long COVID, ME/CFS, enfermedad cardíaca, enfermedad pulmonar, anemia, efectos de medicación ni ninguna otra condición. Le ayuda a llevar un patrón de esfuerzo más claro a un clínico que pueda evaluarlo y orientar la actividad de forma segura.
 
 ## Empiece Con La Actividad
 
@@ -92,12 +92,12 @@ Registre:
 - cocinar o limpiar
 - fisioterapia
 - estiramientos
-- bicicleta reclinada, remo, natacion o ejercicios en el suelo
+- bicicleta reclinada, remo, natación o ejercicios en el suelo
 - ejercicio erguido
 - cargar bolsas o ropa
 - tiempo de pie
 - duración total
-- intensidad: fácil, moderada, dificil o demasiado
+- intensidad: fácil, moderada, difícil o demasiado
 
 Ejemplo: "10 minutos caminata lenta afuera, pequena cuesta, calor. FC maxima 132, mareo 5/10, piernas pesadas. Me sente 15 minutos; fatiga hasta la noche."
 
@@ -118,7 +118,7 @@ Anote si la actividad fue:
 - agacharse o ponerse en cuclillas
 - mucho tiempo erguido
 
-También separe esfuerzo de posición. Una tarea corta de pie puede desencadenar más síntomas que una tarea más larga sentada. Esa distincion puede ayudar a su clínico o fisioterapeuta.
+También separe esfuerzo de posición. Una tarea corta de pie puede desencadenar más síntomas que una tarea más larga sentada. Esa distinción puede ayudar a su clínico o fisioterapeuta.
 
 ## Registre Síntomas Durante Y Después
 
@@ -153,9 +153,9 @@ Síntomas posibles:
 - [niebla mental](/es-es/knowledge/brain-fog/)
 - [fatiga](/es-es/knowledge/fatigue/)
 
-Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
+Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
-## Anada Frecuencia Cardíaca O Presión Solo Si Ya Forma Parte De Su Plan
+## Añada Frecuencia Cardíaca O Presión Solo Si Ya Forma Parte De Su Plan
 
 Algunas personas deben registrar frecuencia cardíaca, presión arterial, oxigeno o recuperación después del esfuerzo. Otras no.
 
@@ -170,7 +170,7 @@ Si ya mide, escriba:
 
 No empiece un control intenso si empeora síntomas o ansiedad. Una nota sencilla como "el corazon acelerado no bajo durante 30 minutos" también puede ayudar.
 
-## Anada Hidratación, Sal, Comida, Calor Y Sueño
+## Añada Hidratación, Sal, Comida, Calor Y Sueño
 
 La tolerancia a la actividad puede cambiar con el contexto.
 
@@ -182,14 +182,14 @@ Notas útiles:
 - comida omitida
 - comida grande
 - cafeina o alcohol
-- habitacion calida o día caluroso
+- habitación calida o día caluroso
 - enfermedad o infección
 - mal sueño
 - momento del ciclo
 - horario de medicación
 - prendas de compresión
 
-No cambie líquidos, sal, medicación, suplementos, compresión o planes de actividad basandose solo en un registro. Use el patron para hacer mejores preguntas.
+No cambie líquidos, sal, medicación, suplementos, compresión o planes de actividad basandose solo en un registro. Use el patrón para hacer mejores preguntas.
 
 ## Observe El Empeoramiento Diferido
 
@@ -221,7 +221,7 @@ Antes de una consulta, resuma:
 - qué ayuda a recuperarse
 - cuánto dura la recuperación
 - impacto diario
-- desmayo, dolor de pecho, falta de aire intensa, preocupacion por oxigeno, lesion o síntomas neurologicos nuevos
+- desmayo, dolor de pecho, falta de aire intensa, preocupación por oxigeno, lesión o síntomas neurologicos nuevos
 
 Preguntas útiles:
 
@@ -242,13 +242,13 @@ Antecedentes útiles:
 
 ## Dónde Encaja Zebra
 
-Zebra ayuda a mantener tipo de actividad, posición, síntomas, hidratación, sal, medicación, recuperación, empeoramiento diferido y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener tipo de actividad, posición, síntomas, hidratación, sal, medicación, recuperación, empeoramiento diferido y preguntas para la consulta en una misma línea de tiempo.
 
-No diagnostica intolerancia al ejercicio ni prescribe actividad. Le ayuda a llevar a su clínico un patron de esfuerzo más claro y listo para consulta.
+No diagnostica intolerancia al ejercicio ni prescribe actividad. Le ayuda a llevar a su clínico un patrón de esfuerzo más claro y listo para consulta.
 
 ## Puntos Clave
 
 - Registre juntos actividad, posición, duración, intensidad, síntomas, hidratación, sal, recuperación, empeoramiento diferido e impacto diario.
 - La actividad erguida puede ser distinta de la sentada o reclinada.
 - Los síntomas diferidos importan, sobre todo si fatiga o niebla mental empeoran más tarde.
-- Use el seguimiento para conversaciones clinicas más seguras, no para empujar senales de alarma.
+- Use el seguimiento para conversaciones clínicas más seguras, no para empujar senales de alarma.

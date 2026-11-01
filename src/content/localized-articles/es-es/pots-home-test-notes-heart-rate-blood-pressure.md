@@ -23,7 +23,7 @@ heroImage: "/screenshots/orthostatic-test-es.png"
 heroImageAlt: "Pantalla de prueba ortostática de Zebra con seguimiento de síntomas y signos vitales por posición."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener notas ortostáticas, síntomas, signos vitales, hidratación, medicamentos y preguntas para citas en una sola linea de tiempo."
+ctaNote: "Usa Zebra para mantener notas ortostáticas, síntomas, signos vitales, hidratación, medicamentos y preguntas para citas en una sola línea de tiempo."
 categories: 
   - "POTS"
   - "Dysautonomia"
@@ -62,7 +62,7 @@ faq:
   - question: "¿Qué debo registrar durante una prueba POTS en casa?"
     answer: "Registra postura, tiempo, frecuencia cardíaca, presión arterial, síntomas, si mejoraron al sentarte o acostarte, contexto de medicación, hidratación, sal si es relevante para tu plan y notas de seguridad."
   - question: "¿Una prueba de pie en casa puede diagnosticar POTS?"
-    answer: "No. Las notas en casa pueden apoyar una conversación clínica, pero el diagnóstico de POTS requiere interpretacion médica y descartar otras causas de taquicardia o síntomas ortostáticos."
+    answer: "No. Las notas en casa pueden apoyar una conversación clínica, pero el diagnóstico de POTS requiere interpretación médica y descartar otras causas de taquicardia o síntomas ortostáticos."
   - question: "¿Cuándo debo detener una revisión ortostática en casa?"
     answer: "Detente si te sientes inseguro, puedes desmayarte, aparecen síntomas graves o tu médico te dio condiciones para parar. Sientate o acuestate y busca ayuda médica si los síntomas preocupan."
   - question: "¿Debo cambiar sal, líquidos o medicación según números en casa?"
@@ -73,7 +73,7 @@ faq:
 
 Las notas en casa para [POTS](/es-es/knowledge/pots/) o [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/) son más útiles cuando frecuencia cardíaca y presión arterial se conectan con postura, momento, síntomas y contexto.
 
-Los números solos pueden confundir. Un valor de frecuencia cardíaca sin "acostado, de pie, minuto 2, mareado, habia tomado medicación" es menos útil que una linea de tiempo simple. El objetivo no es diagnosticarte en casa. El objetivo es llevar observaciones más claras a tu médico.
+Los números solos pueden confundir. Un valor de frecuencia cardíaca sin "acostado, de pie, minuto 2, mareado, había tomado medicación" es menos útil que una línea de tiempo simple. El objetivo no es diagnosticarte en casa. El objetivo es llevar observaciones más claras a tu médico.
 
 ## Empieza con seguridad
 
@@ -107,7 +107,7 @@ Anota:
 - horario de medicación, dosis olvidadas o cambios recientes
 - enfermedad, periodo, pico de dolor, mal sueño, calor o día de brote
 
-La declaracion de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que los síntomas de POTS ocurren al estar de pie y suelen incluir aturdimiento, palpitaciones, temblor, debilidad, visión borrosa, intolerancia al ejercicio y fatiga. El contexto ayuda a tu médico a interpretar los números.
+La declaración de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que los síntomas de POTS ocurren al estar de pie y suelen incluir aturdimiento, palpitaciones, temblor, debilidad, visión borrosa, intolerancia al ejercicio y fatiga. El contexto ayuda a tu médico a interpretar los números.
 
 ## Usa postura más tiempo
 
@@ -115,19 +115,19 @@ Para cada lectura, conecta el número con postura y tiempo.
 
 Etiquetas útiles:
 
-- linea base acostado después de reposo
-- linea base sentado si acostarte no es posible
+- línea base acostado después de reposo
+- línea base sentado si acostarte no es posible
 - de pie inmediatamente
 - de pie minuto 2
 - de pie minuto 5
 - de pie minuto 10, solo si es seguro y aprobado por tu médico
 - recuperación después de sentarte o acostarte
 
-El American College of Cardiology describe una prueba active stand de 10 minutos con mediciones después de estar supino, inmediatamente al ponerse de pie, y a los 2, 5 y 10 minutos. La prueba NASA 10 Minute Lean Test de Bateman Horne Center usa lecturas repetidas de pulso y presión arterial con observacion de síntomas. Tu médico puede decirte que formato es apropiado para ti.
+El American College of Cardiology describe una prueba active stand de 10 minutos con mediciones después de estar supino, inmediatamente al ponerse de pie, y a los 2, 5 y 10 minutos. La prueba NASA 10 Minute Lean Test de Bateman Horne Center usa lecturas repetidas de pulso y presión arterial con observación de síntomas. Tu médico puede decirte que formato es apropiado para ti.
 
 ## Registra frecuencia cardíaca y presión juntas
 
-Frecuencia cardíaca sin presión puede perder parte de la historia. Presión sin síntomas también puede ser dificil de interpretar.
+Frecuencia cardíaca sin presión puede perder parte de la historia. Presión sin síntomas también puede ser difícil de interpretar.
 
 Para cada momento, registra:
 
@@ -171,13 +171,13 @@ Si los síntomas mejoran al acostarte, anotalo también.
 
 ## No conviertas criterios en autodiagnostico
 
-Fuentes de consenso describen POTS con aumento sostenido de frecuencia cardíaca al estar de pie, síntomas de intolerancia ortostática y sin hipotensión ortostática significativa. También enfatizan interpretacion clínica y descartar otras causas como deshidratación, infección, anemia, fiebre, dolor, enfermedad tiroidea, efectos de medicamentos o reposo prolongado.
+Fuentes de consenso describen POTS con aumento sostenido de frecuencia cardíaca al estar de pie, síntomas de intolerancia ortostática y sin hipotensión ortostática significativa. También enfatizan interpretación clínica y descartar otras causas como deshidratación, infección, anemia, fiebre, dolor, enfermedad tiroidea, efectos de medicamentos o reposo prolongado.
 
 Así que tu nota en casa no debe decir "me diagnostique".
 
 Puede decir:
 
-"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudo. Podemos revisar si esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patron de disautonomía o algo más?"
+"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudo. Podemos revisar si esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patrón de disautonomía o algo más?"
 
 Esa es una mejor pregunta para la cita.
 
@@ -227,8 +227,8 @@ Las notas cortas y constantes son más útiles que datos perfectos una sola vez.
 Información útil:
 
 - [Bateman Horne Center NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
-- [Declaracion de Heart Rhythm Society sobre POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
-- [Descripcion ACC 2022 de active stand test](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003)
+- [Declaración de Heart Rhythm Society sobre POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
+- [Descripción ACC 2022 de active stand test](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003)
 - [Diagnosis and management of POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8920526/)
 
 ## Dónde encaja Zebra
@@ -255,7 +255,7 @@ Registra postura, tiempo, frecuencia cardíaca, presión arterial, síntomas, si
 
 ### ¿Una prueba de pie en casa puede diagnosticar POTS?
 
-No. Las notas en casa pueden apoyar una conversación clínica, pero el diagnóstico de POTS requiere interpretacion médica y descartar otras causas de taquicardia o síntomas ortostáticos.
+No. Las notas en casa pueden apoyar una conversación clínica, pero el diagnóstico de POTS requiere interpretación médica y descartar otras causas de taquicardia o síntomas ortostáticos.
 
 ### ¿Cuándo debo detener una revisión ortostática en casa?
 

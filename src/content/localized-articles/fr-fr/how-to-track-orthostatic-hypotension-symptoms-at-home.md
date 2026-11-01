@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomia"
 category: "Dysautonomia"
-primaryKeyword: "suivi symptomes hypotension orthostatique"
+primaryKeyword: "suivi symptômes hypotension orthostatique"
 seoTitle: "Suivre les symptômes d'hypotension orthostatique | Zebra"
 metaDescription: "Suivez l'hypotension orthostatique avec posture, tension, pouls, horaire, repas, médicaments, recuperation et notes pour le médecin."
 ogTitle: "Comment suivre les symptômes d'hypotension orthostatique a la maison"
@@ -71,11 +71,11 @@ faq:
     answer: "Non. L'hypotension orthostatique concerne surtout une baisse de tension après le passage debout. Le POTS concerne une hausse excessive du pouls sans hypotension orthostatique significative. Un médecin peut interpréter le motif."
 ---
 
-[L'hypotension orthostatique](/fr-fr/knowledge/orthostatic-hypotension/) signifie que la tension arterielle baisse après le passage debout. Pour beaucoup de personnes, la partie visible n'est pas seulement le chiffre. C'est le moment ou la position debout apporte vertige, etourdissement, faiblesse, vision floue, nausee, confusion ou impression de malaise.
+[L'hypotension orthostatique](/fr-fr/knowledge/orthostatic-hypotension/) signifie que la tension arterielle baisse après le passage debout. Pour beaucoup de personnes, la partie visible n'est pas seulement le chiffre. C'est le moment ou la position debout apporte vertige, étourdissement, faiblesse, vision floue, nausee, confusion ou impression de malaise.
 
 Une note utile a domicile relie la mesure a la situation: posture, horaire, symptômes, repas, horaire des médicaments, hydratation et recuperation. Ce contexte aide votre médecin a voir si le motif ressemble a une hypotension orthostatique, au [POTS](/fr-fr/knowledge/pots/), a une syncope vasovagale, a un effet medicamenteux, a une deshydratation, a un autre motif de dysautonomie ou a autre chose.
 
-Le suivi a domicile n'est pas un diagnostic. C'est une aide-memoire plus claire.
+Le suivi a domicile n'est pas un diagnostic. C'est une aide-mémoire plus claire.
 
 ## Commencer par la sécurité
 
@@ -147,8 +147,8 @@ Notez le contexte:
 - pendant une maladie
 - pendant une poussee
 - après alcool ou caféine, si pertinent
-- hydratation et electrolytes
-- vetements de compression, si cela fait partie de votre plan
+- hydratation et électrolytes
+- vêtements de compression, si cela fait partie de votre plan
 - horaire des médicaments, doses manquees ou changements récents
 
 N'utilisez pas la note pour changer le traitement seul. Utilisez-la pour poser de meilleures questions.
@@ -166,7 +166,7 @@ Notez:
 - si l'episode a change ce que vous pouviez faire ensuite
 - si vous avez eu besoin d'aide
 
-Pour préparer un rendez-vous, "j'avais le vertige" est utile. "J'ai eu le vertige après 2 minutes debout, la tension etait plus basse, j'ai du m'allonger 10 minutes et je n'ai pas pu finir de cuisiner" est beaucoup plus utile.
+Pour préparer un rendez-vous, "j'avais le vertige" est utile. "J'ai eu le vertige après 2 minutes debout, la tension était plus basse, j'ai du m'allonger 10 minutes et je n'ai pas pu finir de cuisiner" est beaucoup plus utile.
 
 ## Garder les repas et médicaments visibles
 
@@ -179,7 +179,7 @@ Pour chaque episode, vous pouvez noter:
 - horaire des médicaments du matin
 - horaire des médicaments pour la tension, si pertinent
 - nouveau médicament ou changement de dose
-- complements, sel ou electrolytes si votre médecin les suit avec vous
+- complements, sel ou électrolytes si votre médecin les suit avec vous
 
 N'arretez pas, ne commencez pas et ne modifiez pas un médicament a cause d'une seule mesure a domicile, sauf si votre médecin vous a donne des consignes precises.
 
@@ -219,7 +219,7 @@ Contexte utile:
 - [Mayo Clinic sur le diagnostic et le traitement](https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/diagnosis-treatment/drc-20352553)
 - [Merck Manual Professional sur l'hypotension orthostatique](https://www.merckmanuals.com/professional/cardiovascular-disorders/symptoms-of-cardiovascular-disorders/orthostatic-hypotension)
 
-## Ou Zebra aide
+## Où Zebra aide
 
 Zebra aide a garder les notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, tension, pouls, médicaments, hydratation, declencheurs, recuperation et questions pour le rendez-vous au meme endroit.
 

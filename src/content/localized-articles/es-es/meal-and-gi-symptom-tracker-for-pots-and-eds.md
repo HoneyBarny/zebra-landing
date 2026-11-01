@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, notas, hidratación y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar contexto de comidas, síntomas GI, mareo, frecuencia cardíaca, hidratación, sal, medicamentos y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar contexto de comidas, síntomas GI, mareo, frecuencia cardíaca, hidratación, sal, medicamentos y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Dysautonomia"
@@ -66,18 +66,18 @@ faq:
   - question: "¿Qué debo registrar si los síntomas empeoran después de comer?"
     answer: "Registra hora de comida, tamano aproximado, síntomas, tiempo después de comer, mareo, frecuencia cardíaca o presión arterial si ya las mides, nausea, hinchazon, reflujo, cambios intestinales, hidratación, sal, medicamentos y recuperación."
   - question: "¿Un tracker de comidas puede probar un desencadenante alimentario?"
-    answer: "No. Un tracker puede mostrar patrones para comentar, pero no puede probar un desencadenante alimentario ni diagnosticar una condición GI, alergica, autonomica o mastocitaria."
+    answer: "No. Un tracker puede mostrar patrones para comentar, pero no puede probar un desencadenante alimentario ni diagnosticar una condición GI, alergica, autonómica o mastocitaria."
   - question: "¿Debo registrar cada ingrediente?"
-    answer: "Normalmente no. Empieza con horario, tamano de la comida, cambios importantes, síntomas y recuperación. Registra ingredientes si tu médico lo pide o si aparece un patron repetido."
+    answer: "Normalmente no. Empieza con horario, tamano de la comida, cambios importantes, síntomas y recuperación. Registra ingredientes si tu médico lo pide o si aparece un patrón repetido."
   - question: "¿Por qué los síntomas de POTS a veces se sienten peor después de comer?"
     answer: "Algunas personas con POTS o disautonomía notan más taquicardia, aturdimiento o fatiga después de comidas. Tamano de comida, hidratación, sal, postura, calor y medicamentos pueden ser contexto relevante para hablar con un médico."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Las comidas pueden cambiar síntomas en personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [EDS](/es-es/knowledge/eds/), reacciones tipo MCAS, reflujo, nausea, cambios intestinales, migraña o fatiga. Lo dificil es que el patron muchas veces no es solo "comida". Horario, postura, hidratación, sal, medicamentos, calor, actividad, estres y estado de brote pueden estar al lado de la comida.
+Las comidas pueden cambiar síntomas en personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [EDS](/es-es/knowledge/eds/), reacciones tipo MCAS, reflujo, nausea, cambios intestinales, migraña o fatiga. Lo difícil es que el patrón muchas veces no es solo "comida". Horario, postura, hidratación, sal, medicamentos, calor, actividad, estres y estado de brote pueden estar al lado de la comida.
 
-Un tracker de comidas y síntomas GI no es una dieta y no puede diagnosticar intolerancia alimentaria, alergia, gastroparesia, MCAS, IBS, POTS, EDS ni otra condición. Ayuda a llevar una linea de tiempo más clara al médico que puede evaluarlo.
+Un tracker de comidas y síntomas GI no es una dieta y no puede diagnosticar intolerancia alimentaria, alergia, gastroparesia, MCAS, IBS, POTS, EDS ni otra condición. Ayuda a llevar una línea de tiempo más clara al médico que puede evaluarlo.
 
 ## Empieza con horario de comida y síntomas
 
@@ -99,7 +99,7 @@ Eso le da al médico una secuencia, no solo un recuerdo difuso.
 
 ## Registra síntomas GI con lenguaje simple
 
-Usa etiquetas faciles de revisar:
+Usa etiquetas fáciles de revisar:
 
 - nausea
 - hinchazon
@@ -113,7 +113,7 @@ Usa etiquetas faciles de revisar:
 - perdida de apetito
 - dificultad para terminar comidas
 
-Anade severidad solo si ayuda. Una escala de 0 a 10 puede funcionar, pero una nota funcional suele ser más útil: "no pude terminar el almuerzo", "perdi clase", "necesite baño urgente" o "no pude conducir después de cenar."
+Añade severidad solo si ayuda. Una escala de 0 a 10 puede funcionar, pero una nota funcional suele ser más útil: "no pude terminar el almuerzo", "perdi clase", "necesite baño urgente" o "no pude conducir después de cenar."
 
 ## Mantén cerca los síntomas ortostáticos
 
@@ -134,7 +134,7 @@ Registra si después de comer hubo:
 
 Si ya mides frecuencia cardíaca o presión arterial como parte de tu plan de cuidado, anota el número y la posición: acostado, sentado o de pie. No empieces monitoreo intenso si empeora síntomas o ansiedad; pregunta al médico qué es útil.
 
-## Anade hidratación, sal y medicamentos
+## Añade hidratación, sal y medicamentos
 
 Para muchas personas con síntomas autonómicos, las notas de comidas tienen más sentido cuando [hidratación](/es-es/knowledge/hydration/), [sal](/es-es/knowledge/salt-loading/) y horario de medicamentos estan visibles.
 
@@ -154,7 +154,7 @@ No cambies sal, líquidos, medicamentos ni suplementos solo por un registro de a
 
 ## Trata posibles desencadenantes como pistas
 
-Es tentador marcar una comida como "la causa", sobre todo cuando los síntomas asustan. Un tracker funciona mejor cuando separa observacion de conclusion.
+Es tentador marcar una comida como "la causa", sobre todo cuando los síntomas asustan. Un tracker funciona mejor cuando separa observación de conclusión.
 
 Escribe:
 
@@ -171,7 +171,7 @@ Ese lenguaje deja espacio para otras explicaciones. Los patrones repetidos son m
 
 Las comidas pueden sentirse diferentes en días de brote que en días de baseline.
 
-Anade:
+Añade:
 
 - si ya estabas en un [brote](/es-es/knowledge/flare/)
 - síntomas base esa mañana
@@ -200,10 +200,10 @@ Antes de una cita con gastroenterologia, cardiología, medicina primaria, alergi
 
 Preguntas útiles:
 
-- "Podrian el horario o tamano de comida afectar mis síntomas?"
+- "Podrían el horario o tamano de comida afectar mis síntomas?"
 - "Debería registrar frecuencia cardíaca o presión arterial después de comer, y como?"
 - "Estos síntomas GI necesitan más evaluación?"
-- "Podrian importar medicamentos, hidratación, sal o compresión?"
+- "Podrían importar medicamentos, hidratación, sal o compresión?"
 - "Que síntomas deberían ser urgentes?"
 
 ## Contexto de fuentes
@@ -219,9 +219,9 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar horario de comida, síntomas GI, síntomas ortostáticos, líquidos, sal, medicamentos, posibles desencadenantes, recuperación y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar horario de comida, síntomas GI, síntomas ortostáticos, líquidos, sal, medicamentos, posibles desencadenantes, recuperación y preguntas para el médico en una sola línea de tiempo.
 
-No diagnostica reacciones alimentarias ni condiciones GI. Ayuda a llevar un patron más claro de síntomas después de comer al médico que puede evaluarlo.
+No diagnostica reacciones alimentarias ni condiciones GI. Ayuda a llevar un patrón más claro de síntomas después de comer al médico que puede evaluarlo.
 
 ## Puntos clave
 

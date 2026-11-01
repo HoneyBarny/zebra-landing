@@ -76,7 +76,7 @@ faq:
 
 Pour beaucoup de personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), Long COVID, chevauchement EDS ou HSD, ME/CFS ou maladie chronique, rester immobile debout peut être plus difficile que marcher. Une caisse, une attente a la pharmacie, un arret de bus, une file de concert, une file de sécurité, un couloir d'ecole, un plan de travail ou une salle d'attente peut provoquer vertiges, coeur qui s'emballe, nausees, tremblements, jambes lourdes, brouillard mental, transpiration, accumulation de sang ou quasi-malaise.
 
-Un suivi des symptômes en file d'attente ne diagnostique pas POTS, dysautonomie, hypotension, deshydratation, anxiete ou autre condition. Il vous aide a apporter au clinicien un schema plus clair de station debout prolongee : quelle etait la situation, combien de temps elle a dure, quels symptômes sont apparus, ce qui a aide et ce qui a change dans votre journee.
+Un suivi des symptômes en file d'attente ne diagnostique pas POTS, dysautonomie, hypotension, deshydratation, anxiete ou autre condition. Il vous aide a apporter au clinicien un schema plus clair de station debout prolongee : quelle était la situation, combien de temps elle a dure, quels symptômes sont apparus, ce qui a aide et ce qui a change dans votre journee.
 
 ## Commencez Par La Situation Debout
 
@@ -124,7 +124,7 @@ Ecrivez quand les symptômes ont commence et ce qui a change en premier.
 Notez si vous avez remarque :
 
 - [vertiges](/fr-fr/knowledge/dizziness/)
-- [etourdissement](/fr-fr/knowledge/lightheadedness/)
+- [étourdissement](/fr-fr/knowledge/lightheadedness/)
 - quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/)
 - pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/)
 - [palpitations](/fr-fr/knowledge/palpitations/)
@@ -149,7 +149,7 @@ Les symptômes debout peuvent changer selon le contexte.
 Notes utiles :
 
 - liquides plus tot dans la journee
-- electrolytes
+- électrolytes
 - sel si recommande par votre clinicien
 - repas saute
 - repas copieux ou riche en glucides
@@ -173,7 +173,7 @@ Exemples :
 - surelever les jambes
 - se refroidir
 - boire de l'eau
-- electrolytes
+- électrolytes
 - collation
 - bouger les pieds ou deplacer le poids
 - croiser les jambes
@@ -231,7 +231,7 @@ Ressources utiles :
 - [NHS PoTS overview](https://www.nhs.uk/conditions/postural-tachycardia-syndrome/)
 - [NHS low blood pressure overview](https://www.nhs.uk/conditions/low-blood-pressure-hypotension/)
 
-## Ou Zebra S'insere
+## Où Zebra S'insere
 
 Zebra aide a garder episodes debout, symptômes, hydratation, sel, compression, médicaments, recuperation et questions de rendez-vous dans une meme chronologie.
 

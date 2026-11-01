@@ -136,9 +136,9 @@ Ne changez que ce que votre clinicien recommande. Mais si hydratation, sel, comp
 
 Notes utiles:
 
-- eau ou electrolytes
+- eau ou électrolytes
 - sel si votre clinicien vous a demande de le suivre
-- utilisation de vetements de compression
+- utilisation de vêtements de compression
 - debut, arret ou changement de dose de médicaments
 - doses manquees
 - nouveaux effets secondaires ou inquietudes
@@ -168,7 +168,7 @@ Après un test de table basculante positif, vous pouvez apporter des questions c
 
 - Quel profil le test a-t-il montre?
 - Est-ce compatible avec POTS, hypotension orthostatique, syncope vasovagale, un autre profil de dysautonomie ou autre chose?
-- Les mesures de tension etaient-elles importantes dans mon resultat?
+- Les mesures de tension étaient-elles importantes dans mon resultat?
 - Quels symptômes devraient me faire chercher des soins urgents?
 - Que devrais-je suivre avant le prochain rendez-vous?
 - Dois-je suivre fréquence cardiaque ou tension a domicile, et si oui comment?
@@ -181,12 +181,12 @@ Si vous craignez d'oublier les questions pendant la consultation, mettez-les dan
 
 Contexte utile:
 
-- [Apercu Cleveland Clinic du test de table basculante](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test)
+- [Aperçu Cleveland Clinic du test de table basculante](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test)
 - [MedlinePlus sur les tests autonomiques](https://medlineplus.gov/lab-tests/autonomic-testing/)
 - [Bateman Horne Center sur le NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
 - [Consensus Heart Rhythm Society sur POTS et syncope vasovagale](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder l'histoire après le test dans un seul endroit: symptômes, [observations orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, notes, declencheurs et questions de suivi.
 

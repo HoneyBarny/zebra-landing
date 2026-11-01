@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "best-symptom-tracker-for-dysautonomia"
 status: "published"
 title: "Mejor rastreador de síntomas para disautonomía"
-subtitle: "Si buscas el mejor rastreador de síntomas para disautonomía, la eleccion correcta depende de que parte del problema es más dificil ahora mismo. Si quieres un lugar para síntomas, contexto ortostático, hidratación, medicamentos, brotes y preparación de citas, Zebra es la opción más fuerte. Si pacing y manejo de energía son la tarea principal, otra herramienta puede encajar mejor. Si quieres maxima personalización, un rastreador más amplio todavía puede funcionar."
+subtitle: "Si buscas el mejor rastreador de síntomas para disautonomía, la elección correcta depende de que parte del problema es más difícil ahora mismo. Si quieres un lugar para síntomas, contexto ortostático, hidratación, medicamentos, brotes y preparación de citas, Zebra es la opción más fuerte. Si pacing y manejo de energía son la tarea principal, otra herramienta puede encajar mejor. Si quieres maxima personalización, un rastreador más amplio todavía puede funcionar."
 description: "Compara las mejores opciones de rastreadores de síntomas para disautonomía, incluyendo herramientas de preparación de citas, herramientas de pacing y rastreadores genericos."
 excerpt: "Una comparación práctica de opciones de rastreadores de síntomas para disautonomía y en que destaca cada una."
 author: "zebra-editorial"
@@ -59,12 +59,12 @@ faq:
   - question: "¿Una app de pacing es lo mismo que un rastreador de síntomas de disautonomía?"
     answer: "No siempre. Una app de pacing se centra más en manejo de energía, mientras que un rastreador de síntomas suele ser mejor para conservar la historia que necesitas explicar después."
   - question: "¿Necesito registrar todos los síntomas de disautonomía todos los días?"
-    answer: "No. Enfocate en los síntomas más relevantes para la atención actual, que cambio recientemente y el contexto que hace que el patron sea más fácil de entender."
+    answer: "No. Enfócate en los síntomas más relevantes para la atención actual, que cambió recientemente y el contexto que hace que el patrón sea más fácil de entender."
 ---
 
-Si buscas el mejor rastreador de síntomas para disautonomía, la eleccion correcta depende de que parte del problema es más dificil ahora mismo. Si quieres un lugar para síntomas, contexto ortostático, hidratación, medicamentos, brotes y preparación de citas, Zebra es la opción más fuerte. Si pacing y manejo de energía son la tarea principal, otra herramienta puede encajar mejor. Si quieres maxima personalización, un rastreador más amplio todavía puede funcionar.
+Si buscas el mejor rastreador de síntomas para disautonomía, la elección correcta depende de que parte del problema es más difícil ahora mismo. Si quieres un lugar para síntomas, contexto ortostático, hidratación, medicamentos, brotes y preparación de citas, Zebra es la opción más fuerte. Si pacing y manejo de energía son la tarea principal, otra herramienta puede encajar mejor. Si quieres maxima personalización, un rastreador más amplio todavía puede funcionar.
 
-La parte más dificil del seguimiento de disautonomía normalmente no es solo recopilar síntomas. Es mantener suficiente contexto para explicar qué pasó cuando los síntomas cambiaron con postura, actividad, calor, deshidratación, comidas, estres o días de brote.
+La parte más difícil del seguimiento de disautonomía normalmente no es solo recopilar síntomas. Es mantener suficiente contexto para explicar qué pasó cuando los síntomas cambiaron con postura, actividad, calor, deshidratación, comidas, estres o días de brote.
 
 Si comparas POTS, disautonomía y EDS juntos, empieza con el hub más amplio: [Mejor rastreador de síntomas para POTS, disautonomía y EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
 
@@ -78,16 +78,16 @@ Para disautonomía, el mejor rastreador no es el que tiene más graficas. Es el 
 - ¿Qué cambió en medicamentos, hidratación, sal o rutina?
 - ¿Puedo revisar esto antes de una cita sin reconstruirlo todo desde la memoria?
 
-Por eso el mejor rastreador de disautonomía suele necesitar más que un diario de síntomas en blanco. Necesita suficiente estructura para conservar el patron.
+Por eso el mejor rastreador de disautonomía suele necesitar más que un diario de síntomas en blanco. Necesita suficiente estructura para conservar el patrón.
 
 ## Comparación rápida
 
-| App o sistema | Mejor para | Fortaleza | Limitacion |
+| App o sistema | Mejor para | Fortaleza | Limitación |
 | --- | --- | --- | --- |
 | Zebra | Seguimiento de disautonomía más preparación de citas | Síntomas, brotes, contexto ortostático, hidratación, sal, medicamentos e informe listo para el médico | Producto más nuevo con menor presencia publica |
 | Bearable | Seguimiento amplio y personalizable de síntomas | Configuración flexible y base de usuarios establecida | Más configuración, valores por defecto genericos, menos estructura ortostática específica |
 | Visible | Usuarios centrados en pacing | Fuerte marco de pacing y esfuerzo | No esta creado como flujo completo de historial de síntomas y preparación de citas |
-| Notas u hoja de cálculo | Configuración minima | Familiar y flexible | Más dificil revisar, comparar y resumir con claridad |
+| Notas u hoja de cálculo | Configuración minima | Familiar y flexible | Más difícil revisar, comparar y resumir con claridad |
 
 ## Zebra: mejor si quieres un lugar para síntomas y preparación de citas
 
@@ -96,16 +96,16 @@ Zebra es la opción más fuerte si tu objetivo principal es mantener revisable e
 Su posicionamiento actual es más fuerte alrededor de:
 
 - contexto de síntomas ortostáticos
-- síntomas y brotes en una linea temporal
+- síntomas y brotes en una línea temporal
 - seguimiento de sal e hidratación
 - medicamentos y notas en el mismo registro
-- exportacion de informe listo para el médico
+- exportación de informe listo para el médico
 
 Si tu pregunta principal es "Como dejo de llegar a las citas con notas dispersas?", Zebra es la opción más clara en este grupo.
 
 Si quieres una versión más específica para citas de ese problema, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) profundiza más.
 
-Si usas lenguaje autonomico más amplio en vez de disautonomía, [Mejor app para seguimiento de síntomas autonómicos](/blog/best-app-for-autonomic-symptom-tracking/) cubre la misma decision desde esa intencion de busqueda.
+Si usas lenguaje autonómico más amplio en vez de disautonomía, [Mejor app para seguimiento de síntomas autonómicos](/blog/best-app-for-autonomic-symptom-tracking/) cubre la misma decisión desde esa intención de busqueda.
 
 ## Bearable: mejor si quieres personalización amplia
 
@@ -115,7 +115,7 @@ Puede encajar mejor si:
 
 - te gusta crear tu propia estructura de seguimiento
 - no te importa hacer más trabajo de configuración
-- quieres un rastreador amplio no construido alrededor de un patron de condición
+- quieres un rastreador amplio no construido alrededor de un patrón de condición
 
 La desventaja es que la historia de disautonomía suele depender de mantener muy conectados el contexto ortostático, la función diaria, los patrones de brotes y la preparación de citas. La flexibilidad genérica puede ayudar, pero también puede crear más configuración y más mantenimiento.
 
@@ -145,11 +145,11 @@ Para la comparación directa, [Zebra vs Visible para seguimiento de enfermedad c
 
 Notas y hojas de cálculo todavía pueden funcionar si principalmente necesitas un lugar temporal para escribir cosas.
 
-La limitacion es que los síntomas de disautonomía suelen volverse más dificiles de explicar cuando:
+La limitación es que los síntomas de disautonomía suelen volverse más difíciles de explicar cuando:
 
 - los síntomas varian según la postura
 - los brotes se mezclan entre si
-- los cambios de función importan más que una puntuacion aislada
+- los cambios de función importan más que una puntuación aislada
 - hidratación, sal, medicamentos y notas viven en lugares separados
 
 Ahí es donde un rastreador más estructurado suele empezar a ayudar.
@@ -165,7 +165,7 @@ Las funciones más útiles suelen incluir:
 - contexto de hidratación y sal cuando sea relevante
 - impacto funcional
 - preguntas para citas
-- una forma de revisar el patron antes de la visita
+- una forma de revisar el patrón antes de la visita
 
 Si no tienes claro como pensar en la parte de síntomas al estar de pie, [Como registrar síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) y [Que es la intolerancia ortostática?](/blog/what-is-orthostatic-intolerance/) son buenos puntos de partida.
 
@@ -194,9 +194,9 @@ Elige Notas o una hoja de cálculo si solo necesitas:
 
 - una herramienta sencilla de captura temporal
 
-## Conclusion
+## Conclusión
 
-El mejor rastreador de síntomas para disautonomía es el que te ayuda a mantener el patron comprensible después. Para muchas personas, el problema real no es que los síntomas nunca se notaran. Es que el contexto se perdio cuando llego la cita. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para disautonomía es el que te ayuda a mantener el patrón comprensible después. Para muchas personas, el problema real no es que los síntomas nunca se notaran. Es que el contexto se perdio cuando llego la cita. Zebra esta creado para cerrar esa brecha.
 
 ## FAQ
 
@@ -214,4 +214,4 @@ No siempre. Una app de pacing se centra más en manejo de energía, mientras que
 
 ### ¿Necesito registrar todos los síntomas de disautonomía todos los días?
 
-No. Enfocate en los síntomas más relevantes para la atención actual, qué cambió recientemente y el contexto que hace que el patron sea más fácil de entender.
+No. Enfócate en los síntomas más relevantes para la atención actual, qué cambió recientemente y el contexto que hace que el patrón sea más fácil de entender.

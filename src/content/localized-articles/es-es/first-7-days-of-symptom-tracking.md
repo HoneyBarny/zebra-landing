@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "first-7-days-of-symptom-tracking"
 title: "Primeros 7 días de seguimiento de síntomas: que registrar si estas abrumado"
 status: "published"
-subtitle: "Cuando los síntomas ya agotan, registrar puede parecer otra tarea más. Empieza con siete notas diarias pequenas: que paso, que cambio, que ayudo y que te impidio hacer el síntoma."
+subtitle: "Cuando los síntomas ya agotan, registrar puede parecer otra tarea más. Empieza con siete notas diarias pequenas: que pasó, que cambió, que ayudó y que te impidió hacer el síntoma."
 description: "Un plan simple de 7 días para seguir síntomas cuando te sientes abrumado, con que registrar cada día y como mantener notas útiles para el médico."
 excerpt: "Empieza a seguir síntomas sin sobrecargarte: un plan práctico de 7 días para síntomas, desencadenantes, medicamentos, recuperación e impacto diario."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla diaria de Zebra para síntomas, desencadenantes, hidratación, medicamentos y notas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas, desencadenantes, medicamentos, notas y preguntas para citas en una linea de tiempo tranquila."
+ctaNote: "Usa Zebra para mantener síntomas, desencadenantes, medicamentos, notas y preguntas para citas en una línea de tiempo tranquila."
 categories: 
   - "Symptom Tracking"
   - "Appointment Preparation"
@@ -59,7 +59,7 @@ faq:
   - question: "¿Qué debo registrar en la primera semana?"
     answer: "Registra tus síntomas principales, intensidad, momento, que los mejoró o empeoro, contexto de medicación, tiempo de recuperación y que te impidieron hacer."
   - question: "¿Cuánto debo escribir si estoy abrumado?"
-    answer: "Escribe una frase o usa unos campos rapidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados."
+    answer: "Escribe una frase o usa unos campos rápidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados."
   - question: "¿Tengo que registrar todos los síntomas?"
     answer: "No. Empieza con uno a tres síntomas que más afecten tu día. Puedes agregar más después si se siente manejable."
   - question: "¿Cuánto tiempo tarda en ser útil el seguimiento?"
@@ -68,17 +68,17 @@ faq:
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es dificil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
+Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es difícil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
 
 No tienes que registrarlo todo. Durante los primeros siete días, el objetivo es más pequeno: una nota útil al día.
 
-Kaiser Permanente senala que un diario de síntomas puede ayudar a tu médico a diagnosticar y tratar tu condición porque algunos síntomas son dificiles de describir desde la memoria. CDC también aconseja a personas con condiciones cronicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo médico sobre síntomas nuevos o que empeoran.
+Kaiser Permanente senala que un diario de síntomas puede ayudar a tu médico a diagnosticar y tratar tu condición porque algunos síntomas son difíciles de describir desde la memoria. CDC también aconseja a personas con condiciones cronicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo médico sobre síntomas nuevos o que empeoran.
 
 Así que la primera semana no va de datos perfectos. Va de crear un registro que puedas mantener.
 
 ## Regla de la primera semana: una nota gana a ninguna
 
-En un día dificil, una frase basta.
+En un día difícil, una frase basta.
 
 Ejemplos útiles:
 
@@ -116,7 +116,7 @@ Puedes definirla así:
 
 - 0 significa ausente
 - 3 significa notable pero manejable
-- 6 significa dificil de ignorar
+- 6 significa difícil de ignorar
 - 8 significa cambio tu día
 - 10 significa peor nivel o inseguro
 
@@ -124,7 +124,7 @@ El número exacto importa menos que usar la misma escala de forma constante.
 
 ## Día 3: Agrega momento
 
-El momento ayuda a convertir síntomas dispersos en un patron.
+El momento ayuda a convertir síntomas dispersos en un patrón.
 
 Registra:
 
@@ -200,7 +200,7 @@ Después de siete días, revisa tus notas y escribe tres preguntas.
 
 Ejemplos:
 
-- "Este patron parece brote, efecto secundario, problema ortostático, migraña u otra cosa?"
+- "Este patrón parece brote, efecto secundario, problema ortostático, migraña u otra cosa?"
 - "Que síntomas debo seguir antes de la proxima visita?"
 - "Que síntomas significan que debo buscar ayuda urgente?"
 - "Debo seguir frecuencia cardíaca, presión arterial, sueño, hidratación o horario de medicación?"
@@ -217,7 +217,7 @@ Esto convierte el tracking en preparación para la cita, no en una tarea infinit
 | 3 | Momento | "Peor a __, duro __." |
 | 4 | Mejor o peor | "Peor después de __, mejor con __." |
 | 5 | Medicación/contexto | "Meds/plan: __." |
-| 6 | Impacto funcional | "Me impidio __." |
+| 6 | Impacto funcional | "Me impidió __." |
 | 7 | Preguntas | "Preguntar al médico: __." |
 
 Si pierdes un día, no reinicies. Agrega lo que recuerdes y sigue.
@@ -253,7 +253,7 @@ Registra tus síntomas principales, intensidad, momento, que los mejoró o empeo
 
 ### ¿Cuánto debo escribir si estoy abrumado?
 
-Escribe una frase o usa unos campos rapidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados.
+Escribe una frase o usa unos campos rápidos. Una nota útil puede ser: dolor 7/10, peor después de ducha, acostado 40 minutos, recados cancelados.
 
 ### ¿Tengo que registrar todos los síntomas?
 

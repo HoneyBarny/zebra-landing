@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-to-track-before-a-specialist-appointment"
 title: "Como rastrear síntomas antes de una cita con especialista"
 status: "published"
-subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar que cambio, que esta afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
+subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar que cambió, que esta afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
 description: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 excerpt: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 author: "zebra-editorial"
@@ -54,22 +54,22 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo rastrear antes de una cita con especialista?"
-    answer: "Rastrea tus síntomas principales, cuando ocurren, que cambio, patrones de brotes, impacto funcional, cambios de medicación o suplementos, mediciones relevantes en casa y tus preguntas principales para la visita."
+    answer: "Rastrea tus síntomas principales, cuando ocurren, que cambió, patrones de brotes, impacto funcional, cambios de medicación o suplementos, mediciones relevantes en casa y tus preguntas principales para la visita."
   - question: "¿Cuántos días debo rastrear antes de una cita médica?"
-    answer: "Si la cita es pronto, empieza ahora. Un punto práctico es enfocarte en las ultimas 2 a 4 semanas, más cualquier cambio anterior que sea especialmente importante o repetido."
+    answer: "Si la cita es pronto, empieza ahora. Un punto práctico es enfocarte en las últimas 2 a 4 semanas, más cualquier cambio anterior que sea especialmente importante o repetido."
   - question: "¿Necesito rastrear todos los síntomas antes de una cita?"
     answer: "No. Rastrea los síntomas que son más disruptivos, más relevantes para la visita o claramente nuevos o peores."
   - question: "¿Debo llevar una lista de medicación a una cita con especialista?"
     answer: "Si. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita."
   - question: "¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?"
-    answer: "Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una linea sobre como afecto tu día. Un pequeno registro real es mejor que ningun registro."
+    answer: "Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningun registro."
   - question: "¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?"
     answer: "Puede ayudar anotar síntomas relacionados con la posición, brotes recientes, cambios de hidratación y sal, y observaciones relevantes de frecuencia cardíaca o presión arterial en casa. Mantén las notas simples y enfocadas en la conversación."
 ---
 
 Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar qué cambió, qué está afectando la vida diaria, qué has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto.
 
-Para muchas personas con enfermedad crónica, la parte más dificil no es notar síntomas. Es recordarlos con claridad cuando la cita realmente ocurre. El brain fog, los días de brote y las notas dispersas entre distintas apps hacen fácil olvidar los detalles que más importan. Una estructura simple ayuda más que rastrear más.
+Para muchas personas con enfermedad crónica, la parte más difícil no es notar síntomas. Es recordarlos con claridad cuando la cita realmente ocurre. El brain fog, los días de brote y las notas dispersas entre distintas apps hacen fácil olvidar los detalles que más importan. Una estructura simple ayuda más que rastrear más.
 
 ## Qué suele necesitar un especialista de tu historial de síntomas
 
@@ -80,9 +80,9 @@ Un historial de síntomas útil ayuda a tu profesional clínico a entender cuatr
 3. Como afecta la vida diaria.
 4. Con qué quieres ayuda en esta visita.
 
-Eso significa que tu rastreo debe enfocarse en patrones y contexto para tomar decisiones, no en escribir una narracion larga para cada día.
+Eso significa que tu rastreo debe enfocarse en patrones y contexto para tomar decisiones, no en escribir una narración larga para cada día.
 
-Para personas que manejan POTS, disautonomía, EDS, fibromialgia o condiciones solapadas, el problema de la cita suele ser el mismo: tienes mucha experiencia vivida, pero es dificil convertir esa experiencia en un resumen corto y organizado cuando ya estas con cansancio, mareo, niebla mental o prisa.
+Para personas que manejan POTS, disautonomía, EDS, fibromialgia o condiciones solapadas, el problema de la cita suele ser el mismo: tienes mucha experiencia vivida, pero es difícil convertir esa experiencia en un resumen corto y organizado cuando ya estas con cansancio, mareo, niebla mental o prisa.
 
 ## Las 7 cosas que rastrear antes de una cita con especialista
 
@@ -120,7 +120,7 @@ Rastrea:
 - cuando empezaron los síntomas o empeoraron
 - si son diarios, ocasionales o basados en brotes
 - si aparecen después de estar de pie, actividad, mal sueño, calor, comidas o estres
-- si algo mejoró o se volvio más severo
+- si algo mejoró o se volvió más severo
 
 Esto es especialmente útil para condiciones fluctuantes, donde "a veces me siento mal" es cierto pero demasiado amplio para ayudar mucho en una cita corta.
 
@@ -155,7 +155,7 @@ Ejemplos:
 - no pude pensar con suficiente claridad para responder mensajes
 - tuve que cancelar planes
 
-Esto importa porque los síntomas son más faciles de minimizar cuando se describen solo como palabras. El impacto funcional muestra que estan haciendo esos síntomas a tu vida diaria.
+Esto importa porque los síntomas son más fáciles de minimizar cuando se describen solo como palabras. El impacto funcional muestra que estan haciendo esos síntomas a tu vida diaria.
 
 ### 5. Cambios de medicación, suplementos y rutina
 
@@ -256,21 +256,21 @@ Para la mayoría de visitas con especialistas, el lugar más útil para empezar 
 Un punto práctico es:
 
 - empieza ahora si la cita es pronto
-- enfocate en las ultimas 2 a 4 semanas
-- incluye historial anterior solo si muestra un cambio grande, un patron repetido de brotes o un cambio relevante de tratamiento
+- enfócate en las últimas 2 a 4 semanas
+- incluye historial anterior solo si muestra un cambio grande, un patrón repetido de brotes o un cambio relevante de tratamiento
 
 No necesitas reconstruir toda tu historia de salud desde cero la noche anterior.
 
 Lo que más importa es:
 
-- patron reciente
+- patrón reciente
 - cambios claros
 - contexto relevante
 - qué quieres comentar
 
 ## En que no gastar energía rastreando
 
-No conviertas esto en un proyecto de perfeccion.
+No conviertas esto en un proyecto de perfección.
 
 Normalmente no necesitas:
 
@@ -333,7 +333,7 @@ Si solo rastreas nombres de síntomas, puedes perder la parte que muestra por qu
 
 ### Olvidar cambios de medicación
 
-Los profesionales clinicos a menudo necesitan el contexto del tratamiento tanto como el contexto de síntomas.
+Los profesionales clínicos a menudo necesitan el contexto del tratamiento tanto como el contexto de síntomas.
 
 ### No preparar preguntas
 
@@ -355,7 +355,7 @@ Rastrea tus síntomas principales, cuándo ocurren, qué cambió, patrones de br
 
 ### ¿Cuántos días debo rastrear antes de una cita médica?
 
-Si la cita es pronto, empieza ahora. Un punto práctico es enfocarte en las ultimas 2 a 4 semanas, más cualquier cambio anterior que sea especialmente importante o repetido.
+Si la cita es pronto, empieza ahora. Un punto práctico es enfocarte en las últimas 2 a 4 semanas, más cualquier cambio anterior que sea especialmente importante o repetido.
 
 ### ¿Necesito rastrear todos los síntomas antes de una cita?
 
@@ -367,7 +367,7 @@ Si. Una lista clara de medicamentos, suplementos y cambios recientes suele ser c
 
 ### ¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?
 
-Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una linea sobre como afecto tu día. Un pequeno registro real es mejor que ningun registro.
+Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningun registro.
 
 ### ¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?
 

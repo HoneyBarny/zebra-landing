@@ -4,7 +4,7 @@ originalSlug: "how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia"
 status: "published"
 publishedAt: "2026-07-12"
 title: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie"
-subtitle: "Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Etourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend a arriver ensemble et ce que vous devez mentionner au prochain rendez-vous."
+subtitle: "Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend a arriver ensemble et ce que vous devez mentionner au prochain rendez-vous."
 description: "Apprenez comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie, avec profils de symptômes partages, fonctionnement quotidien et contexte lie a la position."
 excerpt: "Un flux pratique pour garder les symptômes de chevauchement EDS et dysautonomie dans un dossier clair et utilisable."
 author: "zebra-editorial"
@@ -33,7 +33,7 @@ entities:
   - "Functional Impact"
   - "Orthostatic Intolérance"
 priority: 2
-primaryKeyword: "suivre symptomes eds avec dysautonomie"
+primaryKeyword: "suivre symptômes eds avec dysautonomie"
 secondaryKeywords:
   - "suivi symptômes eds dysautonomie"
   - "comment suivre symptômes qui se chevauchent"
@@ -65,7 +65,7 @@ faq:
     answer: "Resumez ce qui a change, ce qui se regroupe, ce qui affecte le fonctionnement et quelles questions vous voulez resoudre. Un court historique revisable est généralement plus utile qu'une collection de notes dispersees."
 ---
 
-Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Etourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend a arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
+Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend a arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
 
 Si vous suivez a la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'etiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
 
@@ -84,7 +84,7 @@ C'est pourquoi le suivi du chevauchement doit rester assez simple pour être uti
 
 ## Suivez les symptômes dans une seule chronologie, pas dans des silos separes
 
-Si la fatigue va dans une app, les etourdissements dans une autre et les changements de fonctionnement dans vos notes, l'image devient plus difficile a revoir.
+Si la fatigue va dans une app, les étourdissements dans une autre et les changements de fonctionnement dans vos notes, l'image devient plus difficile a revoir.
 
 Une meilleure structure est une chronologie qui capture:
 
@@ -94,14 +94,14 @@ Une meilleure structure est une chronologie qui capture:
 - impact fonctionnel
 - mesures seulement quand elles sont utiles
 
-C'est particulierement important pour les profils de chevauchement, car la relation entre les symptômes compte souvent plus qu'une seule entree.
+C'est particulierement important pour les profils de chevauchement, car la relation entre les symptômes compte souvent plus qu'une seule entrée.
 
 ## Que suivre ensemble
 
 Pour beaucoup de personnes, les catégories de chevauchement les plus utiles incluent:
 
 - douleur
-- etourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête legere
 - fatigue
 - brain fog
 - palpitations
@@ -156,7 +156,7 @@ Cet [impact fonctionnel](/fr-fr/knowledge/functional-impact/) donne aux rendez-v
 
 Les symptômes qui se chevauchent sont souvent plus faciles a revoir sous forme de groupes:
 
-- etourdissements plus fatigue
+- étourdissements plus fatigue
 - douleur plus brain fog
 - palpitations plus intolérance en position debout
 - jours de poussee avec aggravation large

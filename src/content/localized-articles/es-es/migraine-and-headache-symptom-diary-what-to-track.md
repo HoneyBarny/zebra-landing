@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "migraine-and-headache-symptom-diary-what-to-track"
 title: "Diario de migraña y dolor de cabeza: que registrar"
 status: "published"
-subtitle: "Un diario de migraña o dolor de cabeza es más útil cuando frecuencia, duración, intensidad, síntomas, horario de medicamentos, posibles desencadenantes, ciclo menstrual, sueño, hidratación e impacto funcional quedan conectados. El objetivo no es probar un desencadenante, sino llevar un patron más claro al médico."
+subtitle: "Un diario de migraña o dolor de cabeza es más útil cuando frecuencia, duración, intensidad, síntomas, horario de medicamentos, posibles desencadenantes, ciclo menstrual, sueño, hidratación e impacto funcional quedan conectados. El objetivo no es probar un desencadenante, sino llevar un patrón más claro al médico."
 description: "Aprende que registrar en un diario de migraña y dolor de cabeza: frecuencia, duración, intensidad, síntomas, medicamentos, desencadenantes, sueño, hidratación, ciclo e impacto funcional."
 excerpt: "Una guía práctica para registrar días de migraña y dolor de cabeza, síntomas, respuesta a medicamentos, posibles desencadenantes, sueño, hidratación, ciclo y resumen para citas."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Pantalla de historial de insights de Zebra con patrones de síntomas y notas guardadas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar días de dolor de cabeza, síntomas de migraña, medicamentos, desencadenantes, sueño, hidratación, ciclo y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar días de dolor de cabeza, síntomas de migraña, medicamentos, desencadenantes, sueño, hidratación, ciclo y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Brain Fog"
@@ -58,9 +58,9 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar en un diario de migraña o dolor de cabeza?"
-    answer: "Registra días con dolor de cabeza, hora de inicio y fin, intensidad, ubicacion del dolor, síntomas asociados, medicamentos tomados, respuesta, posibles desencadenantes, sueño, hidratación, ciclo menstrual si aplica e impacto funcional."
+    answer: "Registra días con dolor de cabeza, hora de inicio y fin, intensidad, ubicación del dolor, síntomas asociados, medicamentos tomados, respuesta, posibles desencadenantes, sueño, hidratación, ciclo menstrual si aplica e impacto funcional."
   - question: "¿Cuánto tiempo debo llevar un diario de dolor de cabeza?"
-    answer: "La orientacion varia, pero NICE recomienda al menos 8 semanas cuando se usa un diario para ayudar al diagnóstico. Tu médico puede sugerir un periodo más corto o largo según la pregunta clínica."
+    answer: "La orientación varia, pero NICE recomienda al menos 8 semanas cuando se usa un diario para ayudar al diagnóstico. Tu médico puede sugerir un periodo más corto o largo según la pregunta clínica."
   - question: "¿Un diario puede probar mi desencadenante de migraña?"
     answer: "No. Un diario puede mostrar patrones para comentar, pero los desencadenantes de migraña pueden ser complejos y superponerse. Trata los posibles desencadenantes como pistas, no como prueba."
   - question: "¿Debo registrar uso de medicamentos?"
@@ -69,9 +69,9 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Los síntomas de migraña y dolor de cabeza pueden ser dificiles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la nausea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más especificos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudo y qué te impidió hacer.
+Los síntomas de migraña y dolor de cabeza pueden ser difíciles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la nausea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más especificos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudo y qué te impidió hacer.
 
-Un diario de migraña o dolor de cabeza no diagnostica migraña, cefalea tensional, cefalea en racimos, dolor de cabeza por uso excesivo de medicamentos, POTS, EDS, MCAS, Long COVID ni otra condición. Ayuda a llevar un patron más claro al médico.
+Un diario de migraña o dolor de cabeza no diagnostica migraña, cefalea tensional, cefalea en racimos, dolor de cabeza por uso excesivo de medicamentos, POTS, EDS, MCAS, Long COVID ni otra condición. Ayuda a llevar un patrón más claro al médico.
 
 ## Empieza con días de dolor, no con cada posible desencadenante
 
@@ -83,16 +83,16 @@ Registra:
 - hora de inicio
 - hora de fin o duración total
 - intensidad: 0 a 10, leve/moderada/severa o tu propia escala simple
-- ubicacion: un lado, ambos lados, frente, detras del ojo, cuello, toda la cabeza
-- tipo de dolor: pulsante, presión, punzante, ardor, tension
-- si fue un patron nuevo o tu patron habitual
+- ubicación: un lado, ambos lados, frente, detras del ojo, cuello, toda la cabeza
+- tipo de dolor: pulsante, presión, punzante, ardor, tensión
+- si fue un patrón nuevo o tu patrón habitual
 - si pudiste funcionar normalmente
 
-Ejemplo: "Empezo 9:30, sien derecha y detras del ojo, pulsante 7/10, nausea y sensibilidad a la luz, acostado de 10:00 a 12:00, perdi llamada de trabajo."
+Ejemplo: "Empezó 9:30, sien derecha y detras del ojo, pulsante 7/10, nausea y sensibilidad a la luz, acostado de 10:00 a 12:00, perdi llamada de trabajo."
 
 Eso ya es más útil que "migraña fuerte."
 
-## Anade síntomas asociados
+## Añade síntomas asociados
 
 Los trastornos de dolor de cabeza suelen incluir más que dolor. Mantén visibles los síntomas conectados.
 
@@ -130,7 +130,7 @@ Registra:
 - si fue recetado, de venta libre o no farmacologico
 - días en que tomaste medicina para dolor o migraña
 
-No cambies medicamentos por un diario solo. Lleva el patron al médico, especialmente si usas medicación aguda con frecuencia o no funciona bien.
+No cambies medicamentos por un diario solo. Lleva el patrón al médico, especialmente si usas medicación aguda con frecuencia o no funciona bien.
 
 ## Trata posibles desencadenantes como pistas, no culpa
 
@@ -162,7 +162,7 @@ Registra:
 - calor o esfuerzo
 - cambios de estres
 - enfermedad o infección
-- día del ciclo, periodo, ovulacion o cambios hormonales si aplica
+- día del ciclo, periodo, ovulación o cambios hormonales si aplica
 - estado de brote si tienes síntomas cronicos
 
 Esto ayuda especialmente cuando los dolores de cabeza se superponen con POTS, disautonomía, EDS, fibromialgia, Long COVID o ME/CFS.
@@ -207,17 +207,17 @@ Antes de una cita con medicina primaria, neurologia, cardiología, alergia o enf
 - días de medicación al mes
 - tratamientos que ayudaron o fallaron
 - posibles desencadenantes repetidos
-- relacion con sueño, comidas, hidratación, periodo, estres o brotes
+- relación con sueño, comidas, hidratación, periodo, estres o brotes
 - si síntomas cambiaron con postura
 - impacto funcional: trabajo, escuela, conducir, pantallas, cuidados o sueño
 - síntomas nuevos o cambiantes
 
 Preguntas útiles:
 
-- "Que tipo de patron de dolor de cabeza parece esto?"
+- "Que tipo de patrón de dolor de cabeza parece esto?"
 - "Cuantos días con dolor o medicación deberían motivar seguimiento?"
 - "Hay síntomas de alarma?"
-- "Podrian estar conectados migraña, síntomas autonómicos, hormonas, sueño o medicamentos?"
+- "Podrían estar conectados migraña, síntomas autonómicos, hormonas, sueño o medicamentos?"
 - "Que debería registrar hasta la proxima cita?"
 
 ## Contexto de fuentes
@@ -233,13 +233,13 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar días de dolor de cabeza, síntomas de migraña, horario de medicamentos, posibles desencadenantes, sueño, hidratación, ciclo, brotes, impacto funcional y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar días de dolor de cabeza, síntomas de migraña, horario de medicamentos, posibles desencadenantes, sueño, hidratación, ciclo, brotes, impacto funcional y preguntas para el médico en una sola línea de tiempo.
 
-No diagnostica migraña ni trastornos de dolor de cabeza. Ayuda a llevar un patron más claro y listo para el médico.
+No diagnostica migraña ni trastornos de dolor de cabeza. Ayuda a llevar un patrón más claro y listo para el médico.
 
 ## Puntos clave
 
 - Registra juntos frecuencia, duración, intensidad, síntomas, horario de medicamentos, posibles desencadenantes e impacto funcional.
 - Mantén los posibles desencadenantes como pistas, no como prueba.
 - La respuesta y frecuencia de medicamentos son detalles importantes para la cita.
-- Un diario constante puede hacer que el patron sea más fácil de revisar para el médico.
+- Un diario constante puede hacer que el patrón sea más fácil de revisar para el médico.

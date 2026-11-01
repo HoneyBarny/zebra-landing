@@ -5,7 +5,7 @@ title: "Registro de síntomas en días de viaje con POTS: que anotar"
 status: "published"
 subtitle: "Las notas de día de viaje son más útiles cuando vuelos, trayectos en coche, caminar, filas, calor, comidas omitidas, líquidos, sal, compresión, horario de medicación, mareo, frecuencia cardíaca, fatiga, niebla mental, recuperación e impacto diario quedan conectados. El objetivo no es hacer que viajar sea perfecto. El objetivo es llevar patrones más claros al clínico antes del siguiente viaje."
 description: "Aprenda que anotar en un registro de día de viaje para POTS, disautonomía, hidratación, sal, compresión, medicación, mareo, fatiga, recuperación y consultas."
-excerpt: "Una guía práctica para registrar síntomas de POTS durante vuelos, coche, terminales, filas, comidas omitidas, cambios de hidratación, sal, compresión, medicación, fatiga, recuperación y planificacion de viajes."
+excerpt: "Una guía práctica para registrar síntomas de POTS durante vuelos, coche, terminales, filas, comidas omitidas, cambios de hidratación, sal, compresión, medicación, fatiga, recuperación y planificación de viajes."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener desencadenantes de viaje, hidratación, sal, medicación, compresión, síntomas, recuperación y preguntas para la consulta en una misma linea de tiempo."
+ctaNote: "Use Zebra para mantener desencadenantes de viaje, hidratación, sal, medicación, compresión, síntomas, recuperación y preguntas para la consulta en una misma línea de tiempo."
 categories: 
   - "Registro de síntomas"
   - "Disautonomía"
@@ -76,39 +76,39 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, viajar puede convertir muchos desencadenantes pequenos en un día dificil.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, viajar puede convertir muchos desencadenantes pequenos en un día difícil.
 
 Un vuelo, viaje por carretera, tren, día largo de citas, traslado al aeropuerto, entrada al hotel, parque tematico, conferencia, boda o visita familiar puede incluir madrugar, mal sueño, comidas omitidas, menos líquidos, calor, caminar por terminales, filas, cargar equipaje, estar sentado mucho tiempo, cambios de zona horaria, cambios de medicación y recuperación después del viaje.
 
-Un registro de síntomas de día de viaje no diagnostica POTS, disautonomía, deshidratación, coagulos, efectos de medicación, ansiedad, infección ni ninguna otra condición. Le ayuda a llevar un patron de viaje más claro al clínico: qué pasó antes, durante y después del viaje.
+Un registro de síntomas de día de viaje no diagnostica POTS, disautonomía, deshidratación, coagulos, efectos de medicación, ansiedad, infección ni ninguna otra condición. Le ayuda a llevar un patrón de viaje más claro al clínico: qué pasó antes, durante y después del viaje.
 
 ## Empiece Con El Contexto Del Viaje
 
 Las notas de viaje deben empezar con la forma del día.
 
-Registre vuelo, coche, autobus, tren, barco, transporte compartido, día con mucho caminar o viaje mixto; horas de salida y llegada; tiempo total de viaje; cambio de zona horaria; sueño la noche anterior; comidas omitidas o retrasadas; agua, electrolitos y sal; horario de medicación; prendas de compresión si se usaron; apoyo de movilidad, asistencia con silla de ruedas, eleccion de asiento o descansos planeados; clima, calor, humedad o espacios interiores llenos; equipaje, escaleras, caminatas largas o filas.
+Registre vuelo, coche, autobus, tren, barco, transporte compartido, día con mucho caminar o viaje mixto; horas de salida y llegada; tiempo total de viaje; cambio de zona horaria; sueño la noche anterior; comidas omitidas o retrasadas; agua, electrolitos y sal; horario de medicación; prendas de compresión si se usaron; apoyo de movilidad, asistencia con silla de ruedas, elección de asiento o descansos planeados; clima, calor, humedad o espacios interiores llenos; equipaje, escaleras, caminatas largas o filas.
 
-Ejemplo: "Día de vuelo. Me levante 4:45, perdi el desayuno, estuve 35 minutos en seguridad, camine dos terminales, use compresión, bebi menos porque no habia asiento de pasillo. Mareo y corazon acelerado peor al embarcar."
+Ejemplo: "Día de vuelo. Me levante 4:45, perdi el desayuno, estuve 35 minutos en seguridad, camine dos terminales, use compresión, bebi menos porque no había asiento de pasillo. Mareo y corazon acelerado peor al embarcar."
 
 Esa nota es mucho más fácil de revisar que "viajar me destruyo".
 
 ## Separe Los Desencadenantes Que Se Acumulan
 
-Viajar puede hacer que los síntomas sean más dificiles de entender porque varios factores ocurren al mismo tiempo.
+Viajar puede hacer que los síntomas sean más difíciles de entender porque varios factores ocurren al mismo tiempo.
 
-Categorías útiles: filas de facturacion, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es dificil de acceder; comidas omitidas o alimentos desconocidos; cafeina, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estres, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
+Categorías útiles: filas de facturación, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es difícil de acceder; comidas omitidas o alimentos desconocidos; cafeina, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estres, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
 
-Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche más comida omitida" en vez de decidir la causa demasiado pronto. El patron es más útil cuando se mantiene específico.
+Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche más comida omitida" en vez de decidir la causa demasiado pronto. El patrón es más útil cuando se mantiene específico.
 
 ## Registre Síntomas Durante Y Después Del Viaje
 
 Algunos síntomas aparecen al estar de pie, caminar, embarcar, conducir o sentarse. Otros aparecen después de llegar o al día siguiente.
 
-Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, nauseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazon o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajon después del viaje.
+Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, nauseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazon o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajón después del viaje.
 
-Si los síntomas son intensos, nuevos, de un solo lado, asociados con dolor de pecho o falta de aire intensa, o diferentes de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
+Si los síntomas son intensos, nuevos, de un solo lado, asociados con dolor de pecho o falta de aire intensa, o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
-## Anada Hidratación, Sal, Compresión Y Medicación
+## Añada Hidratación, Sal, Compresión Y Medicación
 
 Viajar suele cambiar las rutinas que hacen que los síntomas sean más predecibles.
 
@@ -120,15 +120,15 @@ No cambie líquidos, sal, compresión, medicación o suplementos basandose solo 
 
 El detalle de viaje más importante puede ser lo que ocurre después de llegar.
 
-Anote cuánto duraron los síntomas después del viaje, si tuvo que acostarse enseguida, si pudo deshacer maletas, ducharse, comer, asistir al evento o dormir, si los síntomas fueron peores a la mañana siguiente, cuantos días tardo en volver a la linea base, trabajo, escuela, citas, cuidados, planes sociales o ejercicio perdidos, y si una ruta más corta, asistencia, compresión, horario más fresco, hidratación o más descanso parecio ayudar.
+Anote cuánto duraron los síntomas después del viaje, si tuvo que acostarse enseguida, si pudo deshacer maletas, ducharse, comer, asistir al evento o dormir, si los síntomas fueron peores a la mañana siguiente, cuantos días tardo en volver a la línea base, trabajo, escuela, citas, cuidados, planes sociales o ejercicio perdidos, y si una ruta más corta, asistencia, compresión, horario más fresco, hidratación o más descanso parecio ayudar.
 
-"Me recupere después de una hora" y "perdi tres días después del vuelo" son detalles medicos diferentes.
+"Me recupere después de una hora" y "perdi tres días después del vuelo" son detalles médicos diferentes.
 
 ## Qué Resumir Antes De Una Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitacion, resuma:
+Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitación, resuma:
 
-- qué situaciones de viaje son más dificiles
+- qué situaciones de viaje son más difíciles
 - si filas, caminar, sentarse, calor o comidas omitidas parecen más conectados
 - líquidos, sal, comidas, compresión y medicación
 - frecuencia cardíaca o presión si ya las mide
@@ -143,8 +143,8 @@ Preguntas útiles:
 - "Necesito un plan de viaje para líquidos, sal, horario de medicación, compresión o apoyo de movilidad?"
 - "Que síntomas de viaje deberían ser urgentes para mi?"
 - "Debería registrar frecuencia cardíaca o presión alrededor de los días de viaje?"
-- "Estar de pie, calor, deshidratación o estar sentado mucho tiempo podrían ser parte de este patron?"
-- "Que documentacion debería llevar para medicamentos, adaptaciones o historia médica?"
+- "Estar de pie, calor, deshidratación o estar sentado mucho tiempo podrían ser parte de este patrón?"
+- "Que documentación debería llevar para medicamentos, adaptaciones o historia médica?"
 
 ## Contexto De Fuentes
 
@@ -158,12 +158,12 @@ Contexto útil:
 
 ## Dónde Encaja Zebra
 
-Zebra ayuda a mantener contexto de viaje, síntomas, hidratación, sal, compresión, medicación, recuperación, impacto diario y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener contexto de viaje, síntomas, hidratación, sal, compresión, medicación, recuperación, impacto diario y preguntas para la consulta en una misma línea de tiempo.
 
-No diagnostica síntomas de viaje ni le dice como viajar de forma segura. Le ayuda a llevar un patron de viaje más claro y listo para el médico al clínico que puede orientarle.
+No diagnostica síntomas de viaje ni le dice como viajar de forma segura. Le ayuda a llevar un patrón de viaje más claro y listo para el médico al clínico que puede orientarle.
 
 ## Puntos Clave
 
 - Registre tipo de viaje, estar de pie, caminar, sentarse, calor, comidas, líquidos, sal, compresión, medicación, síntomas, recuperación e impacto juntos.
-- Compare días de viaje con su linea base para explicar mejor los cambios.
+- Compare días de viaje con su línea base para explicar mejor los cambios.
 - Use el resumen para pedir a su clínico un plan de viaje más seguro antes del proximo viaje.

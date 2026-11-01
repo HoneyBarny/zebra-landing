@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-prepare-a-monthly-symptom-summary"
 status: "published"
 title: "Como preparar un resumen mensual de síntomas"
-subtitle: "Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de que cambio, que se repitio, que afecto la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto."
+subtitle: "Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de que cambió, que se repitió, que afectó la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto."
 description: "Aprende como preparar un resumen mensual de síntomas a partir de síntomas, brotes, medicamentos, cambios de función y preguntas para citas."
 excerpt: "Un marco simple para convertir un mes de seguimiento de síntomas en un resumen más claro y listo para citas."
 author: "zebra-editorial"
@@ -54,14 +54,14 @@ faq:
   - question: "¿Qué debe incluir un resumen mensual de síntomas?"
     answer: "Debe incluir síntomas principales, cambios recientes, patrones de brotes, impacto funcional, contexto de medicación o rutina y preguntas para la cita."
   - question: "¿Qué tan largo debe ser un resumen de síntomas?"
-    answer: "Un resumen útil suele ser lo bastante corto para revisar rápido. Enfocate en los patrones más claros y las preguntas que más importan."
+    answer: "Un resumen útil suele ser lo bastante corto para revisar rápido. Enfócate en los patrones más claros y las preguntas que más importan."
   - question: "¿Un resumen mensual de síntomas es lo mismo que un diagnóstico?"
-    answer: "No. Es una herramienta de organización para la historia ingresada por el paciente, no un diagnóstico ni una recomendacion de tratamiento."
+    answer: "No. Es una herramienta de organización para la historia ingresada por el paciente, no un diagnóstico ni una recomendación de tratamiento."
 ---
 
 Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de qué cambió, qué se repitió, qué afectó la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto.
 
-Este tipo de resumen es útil porque el seguimiento sin procesar puede volverse dificil de usar. Un mes de entradas solo ayuda si puedes convertirlo en un [informe listo para el médico](/knowledge/doctor-ready-report/) o una nota para la cita.
+Este tipo de resumen es útil porque el seguimiento sin procesar puede volverse difícil de usar. Un mes de entradas solo ayuda si puedes convertirlo en un [informe listo para el médico](/knowledge/doctor-ready-report/) o una nota para la cita.
 
 ## Empieza con la respuesta principal
 
@@ -69,7 +69,7 @@ Antes de listar detalles, escribe una frase directa:
 
 - Este mes, el mayor cambio fue...
 - Los síntomas que más me afectaron fueron...
-- El patron que necesito ayuda para entender es...
+- El patrón que necesito ayuda para entender es...
 - La pregunta principal que quiero hacer es...
 
 Esa frase le da un centro al resumen.
@@ -97,7 +97,7 @@ Para la historia de brotes, resume:
 - cuales fueron los síntomas más fuertes
 - si los brotes duraron más que lo habitual
 - si la recuperación cambio
-- si se repitio un patron
+- si se repitió un patrón
 
 No necesitas volver a contar cada brote. Necesitas una imagen lo bastante clara para conversar.
 
@@ -135,7 +135,7 @@ Un resumen mensual útil debe terminar con dos o tres preguntas.
 
 Ejemplos:
 
-- ¿Qué patron debería seguir rastreando?
+- ¿Qué patrón debería seguir rastreando?
 - ¿Qué cambios debería mencionar antes?
 - ¿Qué información seria más útil antes de la proxima visita?
 - ¿Hay algo en esta historia que cambie el plan de seguimiento?
@@ -148,7 +148,7 @@ Usa esta estructura:
 
 1. Mayor cambio este mes
 2. Síntomas principales
-3. Patron de brotes
+3. Patrón de brotes
 4. Impacto funcional
 5. Contexto de medicación o rutina
 6. Preguntas para la cita
@@ -173,8 +173,8 @@ Debe incluir síntomas principales, cambios recientes, patrones de brotes, impac
 
 ### ¿Qué tan largo debe ser un resumen de síntomas?
 
-Un resumen útil suele ser lo bastante corto para revisar rápido. Enfocate en los patrones más claros y las preguntas que más importan.
+Un resumen útil suele ser lo bastante corto para revisar rápido. Enfócate en los patrones más claros y las preguntas que más importan.
 
 ### ¿Un resumen mensual de síntomas es lo mismo que un diagnóstico?
 
-No. Es una herramienta de organización para la historia ingresada por el paciente, no un diagnóstico ni una recomendacion de tratamiento.
+No. Es una herramienta de organización para la historia ingresada por el paciente, no un diagnóstico ni una recomendación de tratamiento.

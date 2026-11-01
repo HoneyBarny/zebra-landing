@@ -2,10 +2,10 @@
 locale: "fr-fr"
 originalSlug: "how-to-track-hydration-salt-and-compression-garments-together"
 status: "published"
-title: "Comment suivre hydratation, sel et vetements de compression ensemble"
-subtitle: "L'hydratation, le sel et les vetements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, a la tolerance en position debout et a l'historique des poussees. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journee. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous."
-description: "Apprenez comment suivre hydratation, sel, vetements de compression, symptômes et tolerance en position debout ensemble sans transformer le dossier en travail supplementaire."
-excerpt: "Un guide pratique pour suivre hydratation, sel, vetements de compression et contexte des symptômes dans un dossier utile de maladie chronique."
+title: "Comment suivre hydratation, sel et vêtements de compression ensemble"
+subtitle: "L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, a la tolerance en position debout et a l'historique des poussees. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journee. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous."
+description: "Apprenez comment suivre hydratation, sel, vêtements de compression, symptômes et tolerance en position debout ensemble sans transformer le dossier en travail supplementaire."
+excerpt: "Un guide pratique pour suivre hydratation, sel, vêtements de compression et contexte des symptômes dans un dossier utile de maladie chronique."
 author: "zebra-editorial"
 publishedAt: "2026-07-22"
 scheduledAt: "2026-07-22"
@@ -22,7 +22,7 @@ categories:
 tags:
   - "hydratation"
   - "suivi du sel"
-  - "vetements de compression"
+  - "vêtements de compression"
   - "POTS"
   - "dysautonomie"
   - "suivi des symptômes"
@@ -34,14 +34,14 @@ entities:
   - "Dysautonomia"
   - "Orthostatic Intolérance"
 priority: 3
-primaryKeyword: "suivre hydratation sel et vetements de compression"
+primaryKeyword: "suivre hydratation sel et vêtements de compression"
 secondaryKeywords:
   - "suivi hydratation et sel pour pots"
-  - "vetements de compression suivi symptômes"
+  - "vêtements de compression suivi symptômes"
   - "suivi routine pots"
-seoTitle: "Comment suivre hydratation, sel et vetements de compression | Zebra"
-metaDescription: "Apprenez comment suivre hydratation, sel, vetements de compression, symptômes et tolerance en position debout ensemble sans créer plus de travail."
-ogTitle: "Comment suivre hydratation, sel et vetements de compression"
+seoTitle: "Comment suivre hydratation, sel et vêtements de compression | Zebra"
+metaDescription: "Apprenez comment suivre hydratation, sel, vêtements de compression, symptômes et tolerance en position debout ensemble sans créer plus de travail."
+ogTitle: "Comment suivre hydratation, sel et vêtements de compression"
 ogDescription: "Un guide pratique pour garder les strategies de soutien quotidiennes connectees a l'historique des symptômes et des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Écran de resume Zebra montrant le contexte quotidien des symptômes et les profils."
@@ -53,15 +53,15 @@ schemaTypes:
   - "HowTo"
   - "FAQPage"
 faq:
-  - question: "Dois-je suivre hydratation, sel et vetements de compression ensemble?"
+  - question: "Dois-je suivre hydratation, sel et vêtements de compression ensemble?"
     answer: "S'ils font partie de votre routine ou de vos conversations de soins, les suivre a côté des symptômes peut rendre le dossier plus facile a revoir."
   - question: "Ai-je besoin de chiffres exacts d'hydratation ou de sel chaque jour?"
     answer: "Pas toujours. Un dossier approximatif et constant des changements, jours manques ou jours inhabituels peut encore être utile."
-  - question: "Le suivi des vetements de compression peut-il montrer s'ils fonctionnent?"
+  - question: "Le suivi des vêtements de compression peut-il montrer s'ils fonctionnent?"
     answer: "Le suivi peut montrer du contexte et des profils a discuter avec un clinicien, mais il ne doit pas être traite comme une preuve ou un conseil médical."
 ---
 
-L'hydratation, le sel et les vetements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, a la tolerance en position debout et a l'historique des poussees. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journee. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous.
+L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, a la tolerance en position debout et a l'historique des poussees. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journee. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous.
 
 Pour les personnes qui suivent le [POTS](/fr-fr/knowledge/pots/), la [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [l'intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), les routines de soutien peuvent compter parce que les symptômes changent souvent avec la position, l'activité, les liquides, la chaleur, le sommeil et le stress quotidien. Un dossier simple peut vous aider a discuter de ces changements sans reconstruire tout le mois de mémoire.
 
@@ -70,25 +70,25 @@ Pour les personnes qui suivent le [POTS](/fr-fr/knowledge/pots/), la [dysautonom
 Gardez les catégories petites:
 
 - hydratation ou apport en liquides
-- soutien en sel ou electrolytes si pertinent pour votre routine
-- vetements de compression ou vetements de soutien
+- soutien en sel ou électrolytes si pertinent pour votre routine
+- vêtements de compression ou vêtements de soutien
 - symptômes en position debout
 - sévérité des poussees
 - impact fonctionnel
 - changements de médicaments ou de routine
 
-Vous n'avez pas besoin d'un journal bien-etre parfait. Vous avez besoin d'un dossier assez clair pour être scanne plus tard.
+Vous n'avez pas besoin d'un journal bien-être parfait. Vous avez besoin d'un dossier assez clair pour être scanne plus tard.
 
 ## Pourquoi ces details doivent rester a côté des symptômes
 
-L'hydratation, le sel et les vetements de compression ne sont utiles dans un historique que s'ils ont du contexte.
+L'hydratation, le sel et les vêtements de compression ne sont utiles dans un historique que s'ils ont du contexte.
 
 Par exemple:
 
-- Les etourdissements ont-ils empire un jour ou vous avez saute un soutien habituel?
+- Les étourdissements ont-ils empire un jour ou vous avez saute un soutien habituel?
 - La tolerance en position debout a-t-elle change pendant une poussee?
 - Les symptômes ont-ils change quand la chaleur, le sommeil ou l'activité ont aussi change?
-- Avez-vous porte des vetements de compression pendant la periode que vous essayez de resumer?
+- Avez-vous porte des vêtements de compression pendant la periode que vous essayez de resumer?
 
 Ces notes ne prouvent pas une cause. Elles donnent a votre equipe de soins une image plus claire de ce qui s'est passe autour des symptômes.
 
@@ -99,7 +99,7 @@ Utilisez des etiquettes larges au lieu de chiffres exacts quand les chiffres exa
 Exemples:
 
 - liquides: bas, habituel, plus que d'habitude
-- sel/electrolytes: aucun, habituel, extra
+- sel/électrolytes: aucun, habituel, extra
 - compression: non portee, une partie de la journee, la plupart de la journee
 - symptômes en position debout: legers, moderes, jour difficile
 
@@ -111,10 +111,10 @@ Ajoutez du detail quand quelque chose change.
 
 Moments utiles a noter:
 
-- un nouveau vetement de soutien
+- un nouveau vêtement de soutien
 - un changement de sel ou de liquides
 - une poussee plus forte
-- un jour avec etourdissements ou palpitations inhabituels
+- un jour avec étourdissements ou palpitations inhabituels
 - un jour ou le fonctionnement quotidien a baisse
 - un changement de médicament ou de routine
 
@@ -124,7 +124,7 @@ Les changements comptent généralement plus que des totaux parfaits.
 
 Avant une visite, cherchez:
 
-- les jours ou les symptômes en position debout etaient pires
+- les jours ou les symptômes en position debout étaient pires
 - les routines de soutien qui ont change autour de ces jours
 - les profils repetes
 - les questions que vous voulez poser
@@ -138,13 +138,13 @@ Zebra aide a garder hydratation, sel, contexte de compression, symptômes, pouss
 
 ## Points clés
 
-- Suivez hydratation, sel et vetements de compression a côté des symptômes quand ils font partie de votre contexte de soins.
+- Suivez hydratation, sel et vêtements de compression a côté des symptômes quand ils font partie de votre contexte de soins.
 - Des catégories approximatives et constantes sont souvent plus durables que des chiffres exacts.
 - Utilisez le dossier pour préparer de meilleures questions, pas pour vous diagnostiquer.
 
 ## FAQ
 
-### Dois-je suivre hydratation, sel et vetements de compression ensemble?
+### Dois-je suivre hydratation, sel et vêtements de compression ensemble?
 
 S'ils font partie de votre routine ou de vos conversations de soins, les suivre a côté des symptômes peut rendre le dossier plus facile a revoir.
 
@@ -152,6 +152,6 @@ S'ils font partie de votre routine ou de vos conversations de soins, les suivre 
 
 Pas toujours. Un dossier approximatif et constant des changements, jours manques ou jours inhabituels peut encore être utile.
 
-### Le suivi des vetements de compression peut-il montrer s'ils fonctionnent?
+### Le suivi des vêtements de compression peut-il montrer s'ils fonctionnent?
 
 Le suivi peut montrer du contexte et des profils a discuter avec un clinicien, mais il ne doit pas être traite comme une preuve ou un conseil médical.

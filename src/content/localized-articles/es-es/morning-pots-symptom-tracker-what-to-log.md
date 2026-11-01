@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, horario de medicación, recuperación y preguntas para la consulta en una misma linea de tiempo."
+ctaNote: "Use Zebra para mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, horario de medicación, recuperación y preguntas para la consulta en una misma línea de tiempo."
 categories: 
   - "Registro de síntomas"
   - "Disautonomía"
@@ -64,9 +64,9 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar si los síntomas de POTS son peores por la mañana?"
-    answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudo, tiempo de recuperación e impacto diario."
+    answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Pueden los síntomas de POTS ser peores por la mañana?"
-    answer: "Si. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patron específico."
+    answer: "Si. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patrón específico."
   - question: "¿Debo medir mi frecuencia cardíaca antes de levantarme?"
     answer: "Solo si su clínico se lo pidio y es seguro para usted. Las notas breves de síntomas también pueden ser útiles sin mediciones."
   - question: "¿Puede un registro diagnosticar síntomas matutinos de POTS?"
@@ -75,9 +75,9 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mananas son más dificiles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, nauseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
+Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mananas son más difíciles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, nauseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
 
-Un registro de síntomas matutinos de POTS no diagnostica POTS, disautonomía, presión baja, deshidratación, trastornos del sueño, efectos de medicación ni ninguna otra condición. Le ayuda a llevar a su clínico un patron más claro de la primera hora: qué pasó al despertar, qué cambió los síntomas y cuánto afectó la mañana.
+Un registro de síntomas matutinos de POTS no diagnostica POTS, disautonomía, presión baja, deshidratación, trastornos del sueño, efectos de medicación ni ninguna otra condición. Le ayuda a llevar a su clínico un patrón más claro de la primera hora: qué pasó al despertar, qué cambió los síntomas y cuánto afectó la mañana.
 
 ## Empiece Con La Hora De Despertar Y El Sueño
 
@@ -115,7 +115,7 @@ Registre:
 
 Si ya registra frecuencia cardíaca o presión arterial como parte de su plan, añada momento y posición: acostado antes de levantarse, sentado, de pie o después de caminar. No empiece un control intenso si no es seguro o aumenta la ansiedad; pregunte a su clínico qué es útil.
 
-## Anada Líquidos, Sal, Desayuno Y Medicación
+## Añada Líquidos, Sal, Desayuno Y Medicación
 
 Los síntomas matutinos pueden estar dentro de un contexto más amplio.
 
@@ -133,7 +133,7 @@ Notas útiles:
 - dosis olvidada
 - cambio reciente de dosis
 
-No cambie líquidos, sal, comidas, medicación o suplementos basandose solo en un registro. Use el patron para hacer mejores preguntas.
+No cambie líquidos, sal, comidas, medicación o suplementos basandose solo en un registro. Use el patrón para hacer mejores preguntas.
 
 ## Registre Los Síntomas Que Cambian La Mañana
 
@@ -158,7 +158,7 @@ Notas matutinas comunes:
 - [niebla mental](/es-es/knowledge/brain-fog/)
 - [fatiga](/es-es/knowledge/fatigue/)
 
-Si los síntomas son nuevos, intensos, de un solo lado o diferentes de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
+Si los síntomas son nuevos, intensos, de un solo lado o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
 ## Registre Lo Que Ayudó
 
@@ -178,7 +178,7 @@ Anote si intento:
 - mover planes a más tarde
 - ayuda de otra persona
 
-Esto puede convertir un patron vago en preguntas concretas para la consulta.
+Esto puede convertir un patrón vago en preguntas concretas para la consulta.
 
 ## Registre El Impacto Diario
 
@@ -202,7 +202,7 @@ Registre si afectaron:
 
 ## Qué Resumir Antes De Una Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, Long COVID, EDS, disautonomía o rehabilitacion, resuma:
+Antes de una consulta de atención primaria, cardiología, neurologia, Long COVID, EDS, disautonomía o rehabilitación, resuma:
 
 - cuantas mananas por semana se ven afectadas
 - si los síntomas empiezan antes o después de ponerse de pie
@@ -213,11 +213,11 @@ Antes de una consulta de atención primaria, cardiología, neurologia, Long COVI
 - qué ayudó
 - tiempo de recuperación
 - impacto diario
-- desmayo, dolor de pecho, falta de aire intensa, confusión, lesion o nuevos síntomas neurologicos
+- desmayo, dolor de pecho, falta de aire intensa, confusión, lesión o nuevos síntomas neurologicos
 
 Preguntas útiles:
 
-- "Este patron de la primera hora podria estar relacionado con intolerancia ortostática?"
+- "Este patrón de la primera hora podría estar relacionado con intolerancia ortostática?"
 - "Debo registrar frecuencia cardíaca o presión alrededor del despertar?"
 - "Debemos revisar líquidos, sal, desayuno, medicación o sueño?"
 - "Que síntomas deberían ser urgentes?"
@@ -235,13 +235,13 @@ Antecedentes útiles:
 
 ## Dónde Encaja Zebra
 
-Zebra ayuda a mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, comidas, horario de medicación, recuperación y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener síntomas matutinos, sueño, primer momento de pie, líquidos, sal, comidas, horario de medicación, recuperación y preguntas para la consulta en una misma línea de tiempo.
 
-No diagnostica síntomas matutinos de POTS ni condiciones autonomicas. Le ayuda a llevar a su clínico un patron matutino más claro y listo para consulta.
+No diagnostica síntomas matutinos de POTS ni condiciones autonómicas. Le ayuda a llevar a su clínico un patrón matutino más claro y listo para consulta.
 
 ## Puntos Clave
 
 - Registre juntos hora de despertar, sueño, primer cambio de posición, líquidos, sal, desayuno, medicación, síntomas, recuperación e impacto diario.
 - Los síntomas matutinos pueden variar de un día a otro, así que las notas breves y constantes son más útiles que el detalle perfecto.
-- Anada frecuencia cardíaca o presión solo si ya forma parte de su plan y es seguro.
-- Un diario de la primera hora puede hacer que las limitaciones matutinas sean más faciles de explicar en consulta.
+- Añada frecuencia cardíaca o presión solo si ya forma parte de su plan y es seguro.
+- Un diario de la primera hora puede hacer que las limitaciones matutinas sean más fáciles de explicar en consulta.

@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "long-covid-symptom-tracker-what-to-log-before-a-doctor-visit"
 title: "Rastreador de síntomas de Long COVID: que registrar antes de una cita médica"
 status: "published"
-subtitle: "El seguimiento de Long COVID es más útil cuando fatiga, brain fog, PEM, mareo al estar de pie, falta de aire, palpitaciones, sueño, dolor, medicamentos, actividad e impacto funcional quedan en una linea de tiempo clara. El objetivo no es probarlo todo, sino preparar mejor la cita."
+subtitle: "El seguimiento de Long COVID es más útil cuando fatiga, brain fog, PEM, mareo al estar de pie, falta de aire, palpitaciones, sueño, dolor, medicamentos, actividad e impacto funcional quedan en una línea de tiempo clara. El objetivo no es probarlo todo, sino preparar mejor la cita."
 description: "Aprende que registrar en un rastreador de síntomas de Long COVID antes de una cita: fatiga, brain fog, PEM, mareo, palpitaciones, falta de aire, sueño, actividad e impacto funcional."
 excerpt: "Una guía práctica para registrar síntomas de Long COVID, crashes retrasados, síntomas ortostáticos, límites de actividad y preguntas para el médico."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, notas y contexto funcional."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar síntomas de Long COVID, contexto de actividad, crashes retrasados, medicamentos y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar síntomas de Long COVID, contexto de actividad, crashes retrasados, medicamentos y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Fatigue"
@@ -63,16 +63,16 @@ faq:
   - question: "¿Qué debo registrar para Long COVID?"
     answer: "Registra los principales grupos de síntomas, empeoramiento retrasado después de actividad, mareo o pulso rápido al estar de pie, falta de aire, sueño, medicamentos, impacto funcional y preguntas para tu médico."
   - question: "¿Debo registrar actividad si tengo PEM o PESE?"
-    answer: "Si, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, que cambio y cuanto duro la recuperación."
+    answer: "Si, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, que cambió y cuánto duró la recuperación."
   - question: "¿Un rastreador de síntomas puede diagnosticar Long COVID?"
     answer: "No. El seguimiento puede organizar tu historia para una visita médica, pero el diagnóstico y las decisiones de tratamiento requieren evaluación clínica."
   - question: "¿Cómo puedo registrar sin empeorar la fatiga?"
-    answer: "Usa la entrada minima útil: que cambio más, que paso cerca, que te impidio hacer y una pregunta para la cita."
+    answer: "Usa la entrada minima útil: que cambió más, que pasó cerca, que te impidió hacer y una pregunta para la cita."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-[Long COVID](/es-es/knowledge/long-covid/) puede incluir síntomas que aparecen y desaparecen, cambian con el tiempo y afectan muchas partes de la vida diaria. Un rastreador útil de síntomas de Long COVID no debe pedirte un diario perfecto. Debe ayudarte a conservar las partes más dificiles de reconstruir antes de una cita médica: fatiga, brain fog, empeoramiento retrasado, mareo al estar de pie, falta de aire, palpitaciones, alteracion del sueño, dolor, medicamentos, actividad y función.
+[Long COVID](/es-es/knowledge/long-covid/) puede incluir síntomas que aparecen y desaparecen, cambian con el tiempo y afectan muchas partes de la vida diaria. Un rastreador útil de síntomas de Long COVID no debe pedirte un diario perfecto. Debe ayudarte a conservar las partes más difíciles de reconstruir antes de una cita médica: fatiga, brain fog, empeoramiento retrasado, mareo al estar de pie, falta de aire, palpitaciones, alteración del sueño, dolor, medicamentos, actividad y función.
 
 El objetivo no es probar cada causa. El objetivo es que tu historia sea más fácil de revisar con un médico.
 
@@ -88,23 +88,23 @@ Dominios útiles:
 - mareo, aturdimiento o síntomas al estar de pie
 - pulso rápido o palpitaciones
 - falta de aire, tos o molestias en el pecho
-- alteracion del sueño
+- alteración del sueño
 - dolor de cabeza
 - dolor muscular, articular o de pecho
 - síntomas digestivos
 - cambios en olfato o gusto
 - contexto de animo, estres o aislamiento
 
-En un día dificil, elige los principales uno a tres dominios. Muchas veces basta.
+En un día difícil, elige los principales uno a tres dominios. Muchas veces basta.
 
 ## Registra el empeoramiento retrasado sin sobrecargarte
 
-Muchas personas con Long COVID describen síntomas que empeoran después de esfuerzo fisico, cognitivo, emocional o social. Recursos de CDC y NHS describen post-exertional malaise o post-exertional symptom exacerbation como parte comun del cuadro de Long COVID para algunas personas.
+Muchas personas con Long COVID describen síntomas que empeoran después de esfuerzo físico, cognitivo, emocional o social. Recursos de CDC y NHS describen post-exertional malaise o post-exertional symptom exacerbation como parte comun del cuadro de Long COVID para algunas personas.
 
 Si esto te pasa, registra:
 
 - cuál fue la actividad o estresor
-- cuando ocurrio
+- cuando ocurrió
 - cuando empeoraron los síntomas
 - qué síntomas cambiaron
 - cuánto duró la recuperación
@@ -117,13 +117,13 @@ Ejemplo:
 | Lunes | Compra y llamada telefonica | Más fatiga y brain fog el martes | Necesite cama, perdi bloque de trabajo |
 | Jueves | Ducha y papeleo | Mareo y dolor de cabeza por la tarde | No pude cocinar cena |
 
-Esto ayuda a mostrar el patron sin escribir un ensayo cada día.
+Esto ayuda a mostrar el patrón sin escribir un ensayo cada día.
 
 ## Registra síntomas al estar de pie por separado
 
 Long COVID puede solaparse con síntomas de [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), como mareo al estar de pie, aturdimiento, pulso rápido o sentirse peor en posición vertical.
 
-Cuando aparezca ese patron, registra:
+Cuando aparezca ese patrón, registra:
 
 - postura: acostado, sentado, de pie, después de ducha, después de estar en una fila
 - tiempo de pie antes de síntomas
@@ -133,13 +133,13 @@ Cuando aparezca ese patron, registra:
 - si acostarte ayudo
 - tiempo de recuperación
 
-Esto no diagnostica POTS, disautonomía ni hipotensión ortostática. Da a tu médico una descripcion más clara de lo que pasa al estar de pie.
+Esto no diagnostica POTS, disautonomía ni hipotensión ortostática. Da a tu médico una descripción más clara de lo que pasa al estar de pie.
 
 ## Mantén actividad y función juntas
 
 En Long COVID, los síntomas importan. La función suele explicar la carga.
 
-Anade ejemplos como:
+Añade ejemplos como:
 
 - necesite acostarme después de ducharme
 - no pude terminar un bloque de trabajo
@@ -151,7 +151,7 @@ Anade ejemplos como:
 
 Esto ayuda a que la cita se centre en lo que los síntomas hacen a tu vida, no solo en nombres de síntomas.
 
-## Registra medicamentos, pruebas y notas de atención en la misma linea de tiempo
+## Registra medicamentos, pruebas y notas de atención en la misma línea de tiempo
 
 La atención de Long COVID puede incluir varias visitas, pruebas, medicamentos, suplementos, derivaciones y cambios de autocuidado.
 
@@ -175,7 +175,7 @@ Usa esto cuando la energía sea limitada:
 1. ¿Qué cambió más hoy?
 2. ¿Qué pasó cerca: actividad, enfermedad, estres, sueño, comida, calor, medicamento?
 3. Los síntomas empeoraron después?
-4. Que te impidio hacer?
+4. Que te impidió hacer?
 5. Que pregunta debes llevar a la proxima cita?
 
 Si solo respondes una pregunta, responde la cuarta. El impacto funcional suele ser lo primero que la memoria pierde.
@@ -186,7 +186,7 @@ Antes de una cita médica, saca:
 
 - principales 3 grupos de síntomas
 - mayor cambio desde la última visita
-- crashes retrasados o patron PEM/PESE
+- crashes retrasados o patrón PEM/PESE
 - síntomas al estar de pie o palpitaciones, si existen
 - falta de aire o síntomas de pecho, si existen
 - cambios de sueño
@@ -197,7 +197,7 @@ Antes de una cita médica, saca:
 Preguntas útiles:
 
 - "Que síntomas debemos priorizar primero?"
-- "Alguno podria sugerir disautonomía, POTS, PEM tipo ME/CFS, problemas respiratorios, cardiacos, anemia, tiroides, efectos de medicamentos u otra cosa a evaluar?"
+- "Alguno podría sugerir disautonomía, POTS, PEM tipo ME/CFS, problemas respiratorios, cardiacos, anemia, tiroides, efectos de medicamentos u otra cosa a evaluar?"
 - "Que debo registrar de aquí a la proxima visita?"
 - "Que síntomas deberían llevarme a urgencias?"
 - "Que límites de actividad o pautas de pacing debo seguir?"
@@ -215,7 +215,7 @@ Contexto útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar síntomas, crashes retrasados, contexto de actividad, [impacto funcional](/es-es/knowledge/functional-impact/), medicamentos, signos vitales, notas y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar síntomas, crashes retrasados, contexto de actividad, [impacto funcional](/es-es/knowledge/functional-impact/), medicamentos, signos vitales, notas y preguntas para el médico en una sola línea de tiempo.
 
 Zebra no diagnostica Long COVID ni decide que tratamiento es adecuado. Te ayuda a llevar un registro más claro al médico que si puede hacerlo.
 
@@ -224,7 +224,7 @@ Zebra no diagnostica Long COVID ni decide que tratamiento es adecuado. Te ayuda 
 - Registra Long COVID por dominios de síntomas, no intentando registrarlo todo.
 - Mantén actividad, empeoramiento retrasado, recuperación e impacto funcional juntos.
 - Registra síntomas al estar de pie por separado si estar de pie empeora síntomas.
-- Medicamentos y notas de atención son más faciles de revisar si viven junto a los síntomas.
+- Medicamentos y notas de atención son más fáciles de revisar si viven junto a los síntomas.
 - El mejor resultado del rastreador es un resumen breve para la cita y mejores preguntas.
 
 ## FAQ

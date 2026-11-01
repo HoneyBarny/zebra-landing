@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "blood-pooling-leg-discoloration-symptom-tracker"
 title: "Tracker de blood pooling y cambio de color en piernas"
 status: "published"
-subtitle: "Las notas de blood pooling son más útiles cuando cambios de color, hinchazon, pesadez, dolor, temperatura, tiempo de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal, recuperación e impacto funcional quedan conectados. El objetivo no es autodiagnosticar circulacion, sino llevar patrones más claros al médico."
+subtitle: "Las notas de blood pooling son más útiles cuando cambios de color, hinchazon, pesadez, dolor, temperatura, tiempo de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal, recuperación e impacto funcional quedan conectados. El objetivo no es autodiagnosticar circulación, sino llevar patrones más claros al médico."
 description: "Aprende que registrar para blood pooling, piernas moradas, cambio de color en pies, hinchazon, pesadez, dolor, estar de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal y recuperación."
 excerpt: "Una guía práctica para registrar blood pooling, cambio de color en piernas o pies, hinchazon, pesadez, dolor, tiempo de pie, postura, compresión, hidratación, sal, recuperación y resumen médico."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar blood pooling, cambios de color, postura, mareo, compresión, hidratación, sal, recuperación y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar blood pooling, cambios de color, postura, mareo, compresión, hidratación, sal, recuperación y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Dysautonomia"
@@ -64,9 +64,9 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar para blood pooling o piernas moradas?"
-    answer: "Registra cambios de color, hinchazon, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, que ayudo, tiempo de recuperación e impacto funcional."
+    answer: "Registra cambios de color, hinchazon, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, que ayudó, tiempo de recuperación e impacto funcional."
   - question: "¿Puede pasar blood pooling con POTS?"
-    answer: "Si. Fuentes sobre POTS describen acumulacion de sangre en la parte baja del cuerpo al estar de pie, y algunas personas notan color rojizo-morado en piernas, pies, manos o pies. Un médico debe evaluar tu patron."
+    answer: "Si. Fuentes sobre POTS describen acumulación de sangre en la parte baja del cuerpo al estar de pie, y algunas personas notan color rojizo-morado en piernas, pies, manos o pies. Un médico debe evaluar tu patrón."
   - question: "¿Un tracker puede diagnosticar blood pooling?"
     answer: "No. Un tracker puede organizar patrones para revisión médica, pero no puede diagnosticar POTS, disautonomía, enfermedad vascular, Raynaud, acrocianosis, problemas de coagulos u otras causas."
   - question: "¿Cuándo es urgente el cambio de color en una pierna?"
@@ -75,9 +75,9 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), intolerancia ortostática, EDS o HSD, Long COVID o enfermedad crónica notan cambios de color en piernas o pies al estar de pie. Las piernas pueden verse rojas, moradas, moteadas, oscuras o hinchadas. Los pies pueden sentirse pesados, frios, calientes, tensos, dolorosos o dificiles de mover. Los síntomas pueden mejorar al sentarte, acostarte, elevar piernas, enfriar, tomar líquidos, sal o usar compresión.
+Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), intolerancia ortostática, EDS o HSD, Long COVID o enfermedad crónica notan cambios de color en piernas o pies al estar de pie. Las piernas pueden verse rojas, moradas, moteadas, oscuras o hinchadas. Los pies pueden sentirse pesados, frios, calientes, tensos, dolorosos o difíciles de mover. Los síntomas pueden mejorar al sentarte, acostarte, elevar piernas, enfriar, tomar líquidos, sal o usar compresión.
 
-Un tracker de blood pooling no diagnostica POTS, disautonomía, enfermedad vascular, Raynaud, acrocianosis, coagulos ni otra condición. Ayuda a llevar un patron más claro al médico.
+Un tracker de blood pooling no diagnostica POTS, disautonomía, enfermedad vascular, Raynaud, acrocianosis, coagulos ni otra condición. Ayuda a llevar un patrón más claro al médico.
 
 ## Empieza con posición y tiempo de pie
 
@@ -114,12 +114,12 @@ Descripciones útiles:
 - un pie o ambos
 - manos, pies, piernas o dedos
 - color cambio solo al estar de pie
-- color mejoró con elevacion
+- color mejoró con elevación
 - color siguio incluso en reposo
 
 Si es seguro y tu médico lo considera útil, puedes tomar una foto para la consulta. No dependas solo de fotos; timing y síntomas también importan.
 
-## Anade hinchazon, pesadez, dolor y temperatura
+## Añade hinchazon, pesadez, dolor y temperatura
 
 El color es solo una parte.
 
@@ -164,9 +164,9 @@ Registra si el cambio de color paso con:
 
 Si ya mides frecuencia cardíaca o presión arterial como parte de tu cuidado, anota número y posición. No empieces mediciones constantes si empeoran síntomas o ansiedad.
 
-## Anade compresión, hidratación y sal
+## Añade compresión, hidratación y sal
 
-Los medicos pueden preguntar si las estrategias de apoyo cambian síntomas.
+Los médicos pueden preguntar si las estrategias de apoyo cambian síntomas.
 
 Registra:
 
@@ -177,12 +177,12 @@ Registra:
 - tipo: calcetines, medias, leggings, compresión abdominal
 - fuerza de compresión si la sabes
 - si los síntomas cambiaron con compresión
-- calor, ducha o habitacion calida
+- calor, ducha o habitación calida
 - horario de medicamentos
 - comidas saltadas
 - ciclo menstrual si aplica
 
-No cambies sal, líquidos, compresión ni medicamentos solo por una app. Usa el patron para hablar con tu médico.
+No cambies sal, líquidos, compresión ni medicamentos solo por una app. Usa el patrón para hablar con tu médico.
 
 ## Registra que ayudó y que tan rápido
 
@@ -212,7 +212,7 @@ Busca atención urgente por:
 - dolor fuerte de pantorrilla
 - dolor de pecho
 - falta de aire nueva
-- desmayo con lesion
+- desmayo con lesión
 - extremidad fria, palida, entumecida o debil
 - perdida de pulso
 - síntomas neurologicos repentinos
@@ -239,7 +239,7 @@ Antes de cardiología, neurologia, vascular, medicina primaria, EDS, Long COVID 
 
 Preguntas útiles:
 
-- "Este patron podria ser blood pooling, acrocianosis, Raynaud, circulacion u otra cosa?"
+- "Este patrón podría ser blood pooling, acrocianosis, Raynaud, circulación u otra cosa?"
 - "Debería registrar fotos, tiempo de pie, frecuencia cardíaca, presión o síntomas?"
 - "Que síntomas deberían ser urgentes?"
 - "Que plan de compresión o hidratación es apropiado para mi?"
@@ -252,17 +252,17 @@ Lectura útil:
 - [Johns Hopkins Medicine resumen de POTS](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 - [Cleveland Clinic resumen de POTS](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [NIH News in Health reconocer POTS](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
-- [NHLBI POTS investigacion](https://www.nhlbi.nih.gov/news/2021/decoding-mysteries-postural-orthostatic-tachycardia-syndrome)
+- [NHLBI POTS investigación](https://www.nhlbi.nih.gov/news/2021/decoding-mysteries-postural-orthostatic-tachycardia-syndrome)
 - [The Ehlers-Danlos Society disautonomía](https://www.ehlers-danlos.com/dysautonomia/)
 - [Estudio sobre cambio de color y síntomas autonómicos](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048065/)
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar cambios de color, tiempo de pie, postura, mareo, frecuencia cardíaca, compresión, hidratación, sal, recuperación, impacto funcional y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar cambios de color, tiempo de pie, postura, mareo, frecuencia cardíaca, compresión, hidratación, sal, recuperación, impacto funcional y preguntas para el médico en una sola línea de tiempo.
 
 Si el blood pooling es parte de tu seguimiento de POTS, el [registro de POTS de Zebra](/es-es/pots-tracker/) puede ayudar a mantener juntos color, tiempo de pie, síntomas, sal, agua y notas de citas.
 
-No diagnostica blood pooling ni problemas de circulacion. Ayuda a llevar notas más claras al médico.
+No diagnostica blood pooling ni problemas de circulación. Ayuda a llevar notas más claras al médico.
 
 ## Puntos clave
 

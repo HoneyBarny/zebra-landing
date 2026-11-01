@@ -95,7 +95,7 @@ Notez:
 
 Exemple: "Debut 14:15 debout dans la cuisine. Coeur rapide et fort, FC 132 debout, tête legere 6/10. Assis, bu de l'eau, mieux a 14:35."
 
-Cela donne une sequence au médecin, pas seulement "mon coeur etait bizarre."
+Cela donne une sequence au médecin, pas seulement "mon coeur était bizarre."
 
 ## Ajouter fréquence cardiaque et position si vous mesurez
 
@@ -189,9 +189,9 @@ Avec POTS et dysautonomie, les palpitations se chevauchent souvent avec [hydrata
 
 Notez:
 
-- eau ou electrolytes ce jour-la
+- eau ou électrolytes ce jour-la
 - sel si votre médecin le recommande
-- vetements de compression
+- vêtements de compression
 - si s'allonger a aide
 - si s'asseoir a aide
 - si refroidir a aide
@@ -254,7 +254,7 @@ Lecture utile:
 - [Cleveland Clinic aperçu POTS](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
 - [American Heart Association palpitations](https://www.heart.org/en/news/2026/02/09/how-serious-are-heart-palpitations-causes-symptoms-and-when-to-worry)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder palpitations, fréquence cardiaque, position, declencheurs, hydratation, sel, médicaments, recuperation, impact fonctionnel et questions pour le médecin dans une meme timeline.
 

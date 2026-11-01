@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"
-primaryKeyword: "journal migraine maux de tete"
+primaryKeyword: "journal migraine maux de tête"
 seoTitle: "Journal migraine et maux de tête: quoi suivre | Zebra"
 metaDescription: "Suivez migraine et maux de tête avec fréquence, durée, sévérité, symptômes, médicaments, declencheurs, sommeil, hydratation, cycle et impact."
 ogTitle: "Journal migraine et maux de tête"
@@ -85,7 +85,7 @@ Notez:
 - sévérité: 0 a 10, leger/modere/severe ou votre propre echelle simple
 - localisation: un côté, deux cotes, front, derriere l'oeil, cou, toute la tête
 - type de douleur: pulsatile, pression, piquante, brulure, tension
-- si c'etait un nouveau motif ou votre motif habituel
+- si c'était un nouveau motif ou votre motif habituel
 - si vous pouviez fonctionner normalement
 
 Exemple: "Debut 9:30, tempe droite et derriere l'oeil, pulsatile 7/10, nausee et sensibilité a la lumière, allongé de 10:00 a midi, appel de travail manque."
@@ -127,7 +127,7 @@ Notez:
 - si les symptômes ont diminue
 - si une autre dose a été nécessaire
 - effets secondaires
-- si le traitement etait prescrit, sans ordonnance ou non medicamenteux
+- si le traitement était prescrit, sans ordonnance ou non medicamenteux
 - jours ou vous avez pris un médicament contre douleur ou migraine
 
 Ne changez pas les médicaments a partir d'un journal seul. Apportez le motif au médecin, surtout si vous utilisez souvent des médicaments de crise ou s'ils marchent mal.
@@ -231,7 +231,7 @@ Lecture utile:
 - [Mayo Clinic migraine avec aura préparation au rendez-vous](https://www.mayoclinic.org/diseases-conditions/migraine-with-aura/diagnosis-treatment/drc-20352077)
 - [NHS aperçu migraine](https://www.nhs.uk/conditions/Migraine/)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder jours de maux de tête, symptômes de migraine, horaire des médicaments, declencheurs possibles, sommeil, hydratation, cycle, flares, impact fonctionnel et questions pour le médecin dans une meme timeline.
 

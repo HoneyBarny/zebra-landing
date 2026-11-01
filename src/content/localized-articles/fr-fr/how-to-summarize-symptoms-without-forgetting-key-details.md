@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
-primaryKeyword: "comment resumer symptomes sans oublier details importants"
+primaryKeyword: "comment resumer symptômes sans oublier details importants"
 seoTitle: "Comment resumer les symptômes sans oublier les details importants | Zebra"
 metaDescription: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les details qui comptent le plus."
 ogTitle: "Comment resumer les symptômes sans oublier les details importants"
@@ -121,7 +121,7 @@ L'objectif est l'utilisabilite, pas l'exhaustivite.
 
 ## La place de Zebra
 
-Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le resume final plus facile a construire plus tard, surtout si les symptômes, poussees, fonctionnement, médicaments et observations liees etaient déjà gardes ensemble.
+Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le resume final plus facile a construire plus tard, surtout si les symptômes, poussees, fonctionnement, médicaments et observations liees étaient déjà gardes ensemble.
 
 ## Points clés
 

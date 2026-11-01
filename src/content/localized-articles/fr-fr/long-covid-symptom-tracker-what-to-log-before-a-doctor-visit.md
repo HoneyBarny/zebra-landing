@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Long COVID"
 category: "Symptom Tracking"
-primaryKeyword: "suivi symptomes Long COVID"
+primaryKeyword: "suivi symptômes Long COVID"
 seoTitle: "Suivi des symptômes du Long COVID: quoi noter | Zebra"
 metaDescription: "Suivez le Long COVID avec fatigue, brain fog, PEM, vertiges, palpitations, essoufflement, activité, fonction et notes médecin."
 ogTitle: "Suivi des symptômes du Long COVID: quoi noter avant un rendez-vous"
@@ -67,7 +67,7 @@ faq:
   - question: "Un suivi de symptômes peut-il diagnostiquer le Long COVID?"
     answer: "Non. Le suivi peut organiser votre historique pour une visite médicale, mais le diagnostic et les décisions de traitement demandent une évaluation clinique."
   - question: "Comment suivre sans aggraver la fatigue?"
-    answer: "Utilisez l'entree minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous."
+    answer: "Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
@@ -82,10 +82,10 @@ Le Long COVID peut inclure beaucoup de symptômes, donc une liste complete peut 
 
 Domaines utiles:
 
-- fatigue ou faible energie
+- fatigue ou faible énergie
 - [brain fog](/fr-fr/knowledge/brain-fog/), mémoire ou concentration
 - [PEM](/fr-fr/knowledge/pem/) ou aggravation après effort
-- vertiges, etourdissement ou symptômes debout
+- vertiges, étourdissement ou symptômes debout
 - pouls rapide ou palpitations
 - essoufflement, toux ou gene thoracique
 - troubles du sommeil
@@ -121,7 +121,7 @@ Cela montre le motif sans écrire un long texte chaque jour.
 
 ## Noter separement les symptômes debout
 
-Le Long COVID peut se chevaucher avec des symptômes d'[intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), comme vertiges debout, etourdissement, pouls rapide ou sensation d'être pire debout.
+Le Long COVID peut se chevaucher avec des symptômes d'[intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), comme vertiges debout, étourdissement, pouls rapide ou sensation d'être pire debout.
 
 Quand ce motif apparaît, notez:
 
@@ -170,7 +170,7 @@ Ne changez pas le traitement seulement selon un suivi. Utilisez le dossier pour 
 
 ## Modele simple Long COVID
 
-Utilisez ceci quand l'energie est limitee:
+Utilisez ceci quand l'énergie est limitee:
 
 1. Qu'est-ce qui a le plus change aujourd'hui?
 2. Qu'y avait-il autour: activité, maladie, stress, sommeil, repas, chaleur, médicament?
@@ -213,7 +213,7 @@ Contexte utile:
 - [NHS Inform sur fatigue Long COVID et PEM](https://www.nhsinform.scot/long-term-effects-of-covid-19-long-covid/signs-and-symptoms/long-covid-fatigue/)
 - [Mayo Clinic préparation de rendez-vous Long COVID](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351)
 
-## Ou Zebra aide
+## Où Zebra aide
 
 Zebra aide a garder symptômes, crashes retardes, contexte d'activité, [impact fonctionnel](/fr-fr/knowledge/functional-impact/), médicaments, constantes, notes et questions pour le médecin dans une meme timeline.
 
@@ -243,7 +243,7 @@ Non. Le suivi peut organiser votre historique pour une visite médicale, mais le
 
 ### Comment suivre sans aggraver la fatigue?
 
-Utilisez l'entree minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous.
+Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous.
 
 ### Zebra est-il un avis médical?
 

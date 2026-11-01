@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "symptom-tracker-for-doctor-appointments"
 title: "Tracker de síntomas para citas médicas"
 status: "published"
-subtitle: "Si necesitas un tracker de síntomas para citas médicas, la mejor opción es la que te ayuda a explicar que cambio, con que frecuencia ocurrio, que afecto a la vida diaria y que preguntas siguen abiertas. La idea no es recopilar datos perfectos. La idea es entrar en la visita con un registro que puedas usar de verdad."
+subtitle: "Si necesitas un tracker de síntomas para citas médicas, la mejor opción es la que te ayuda a explicar que cambió, con que frecuencia ocurrió, que afectó a la vida diaria y que preguntas siguen abiertas. La idea no es recopilar datos perfectos. La idea es entrar en la visita con un registro que puedas usar de verdad."
 description: "Aprende que buscar en un tracker de síntomas para citas médicas y por que un historial estructurado funciona mejor que notas dispersas."
 excerpt: "Una guía práctica para elegir un tracker de síntomas que ayude antes de citas con especialistas y visitas de seguimiento."
 author: "zebra-editorial"
@@ -56,7 +56,7 @@ faq:
   - question: "¿Qué debería incluir un tracker de síntomas para citas médicas?"
     answer: "El tracker más útil incluye síntomas, cambios recientes, patrones de brotes, impacto funcional, medicación, mediciones relevantes y tus preguntas principales para la visita."
   - question: "¿Basta con una app de notas antes de una cita médica?"
-    answer: "Puede bastar para capturar rápido, pero suele ser más dificil revisar patrones y resumir con claridad bajo presión de tiempo."
+    answer: "Puede bastar para capturar rápido, pero suele ser más difícil revisar patrones y resumir con claridad bajo presión de tiempo."
   - question: "¿Necesito registrar todos los síntomas antes de ver al médico?"
     answer: "No. Centrate en los síntomas más relevantes para la visita, los cambios recientes más claros y lo que más afecto a la vida diaria."
   - question: "¿Qué hace mejor a un tracker de síntomas para citas con especialistas?"
@@ -84,7 +84,7 @@ Si una herramienta no te ayuda a responder esas preguntas rápido, puede captura
 
 La configuración más fuerte suele incluir:
 
-- historial de síntomas en una linea temporal
+- historial de síntomas en una línea temporal
 - registro de brotes
 - espacio para notas y preguntas
 - contexto de medicación y rutina
@@ -92,13 +92,13 @@ La configuración más fuerte suele incluir:
 - mediciones en casa relevantes cuando corresponda
 - un resumen que puedas revisar antes de la visita
 
-Por eso un tracker dedicado suele funcionar mejor que notas dispersas. No porque las notas sean malas. Sino porque revisar es la parte dificil.
+Por eso un tracker dedicado suele funcionar mejor que notas dispersas. No porque las notas sean malas. Sino porque revisar es la parte difícil.
 
 ## Comparación rápida
 
-| Opción | Mejor para | Parte más dificil antes de la visita |
+| Opción | Mejor para | Parte más difícil antes de la visita |
 | --- | --- | --- |
-| App de notas | Captura rápida | Dificil de revisar, comparar y resumir |
+| App de notas | Captura rápida | Difícil de revisar, comparar y resumir |
 | Hoja de cálculo | Estructura manual | Más mantenimiento y más decisiones |
 | Tracker de síntomas | Historial estructurado continuo | Requiere elegir uno creado para tu caso |
 
@@ -147,7 +147,7 @@ Mantiene:
 
 en un solo registro, para que el último paso sea un [informe de síntomas listo para el médico](/blog/what-is-a-doctor-ready-symptom-report/), no un monton de entradas desconectadas.
 
-Eso es especialmente útil para personas que registran POTS, disautonomía, EDS o enfermedad crónica solapada, donde los síntomas cambian por postura, actividad o patron de brotes y se vuelven más dificiles de reconstruir después.
+Eso es especialmente útil para personas que registran POTS, disautonomía, EDS o enfermedad crónica solapada, donde los síntomas cambian por postura, actividad o patrón de brotes y se vuelven más difíciles de reconstruir después.
 
 ## Lo que suele faltar en una configuración más debil
 
@@ -181,7 +181,7 @@ Elige un tracker dedicado si:
 - quieres historial repetido en un solo lugar
 - necesitas preparar citas con más claridad
 - quieres síntomas, contexto y función juntos
-- quieres que el resumen final se sienta más fácil, no más dificil
+- quieres que el resumen final se sienta más fácil, no más difícil
 
 ## En resumen
 
@@ -197,7 +197,7 @@ El tracker más útil incluye síntomas, cambios recientes, patrones de brotes, 
 
 ### ¿Basta con una app de notas antes de una cita médica?
 
-Puede bastar para capturar rápido, pero suele ser más dificil revisar patrones y resumir con claridad bajo presión de tiempo.
+Puede bastar para capturar rápido, pero suele ser más difícil revisar patrones y resumir con claridad bajo presión de tiempo.
 
 ### ¿Necesito registrar todos los síntomas antes de ver al médico?
 

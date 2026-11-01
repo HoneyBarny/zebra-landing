@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomia"
 category: "Symptom Tracking"
-primaryKeyword: "tracker repas symptomes GI"
+primaryKeyword: "tracker repas symptômes GI"
 seoTitle: "Tracker repas et symptômes GI pour POTS et EDS | Zebra"
 metaDescription: "Suivez repas, nausee, ballonnements, reflux, intestin, fréquence cardiaque, vertige, hydratation, sel, médicaments et recuperation."
 ogTitle: "Tracker repas et symptômes GI pour POTS et EDS"
@@ -140,11 +140,11 @@ Pour beaucoup de personnes avec symptômes autonomes, les notes de repas sont pl
 
 Contexte utile:
 
-- eau ou electrolytes avant le repas
+- eau ou électrolytes avant le repas
 - sel si votre médecin l'a recommande
 - liquides oublies
 - caféine ou alcool
-- vetements de compression
+- vêtements de compression
 - horaire des médicaments
 - doses oubliees ou changements récents
 - nouveaux supplements
@@ -217,7 +217,7 @@ Lecture utile:
 - [Mayo Clinic allergie alimentaire](https://www.mayoclinic.org/diseases-conditions/food-allergy/symptoms-causes/syc-20355095)
 - [Mayo Clinic hypotension postprandiale](https://www.mayoclinic.org/diseases-conditions/low-blood-pressure/expert-answers/postprandial-hypotension/faq-20057722)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder horaire du repas, symptômes GI, symptômes orthostatiques, liquides, sel, médicaments, declencheurs possibles, recuperation et questions pour le médecin dans une meme timeline.
 

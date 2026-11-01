@@ -14,13 +14,13 @@ lastReviewed: "2026-08-08"
 featured: false
 cluster: "Symptom Tracking"
 category: "Symptom Tracking"
-primaryKeyword: "suivre symptomes POTS EDS MCAS"
+primaryKeyword: "suivre symptômes POTS EDS MCAS"
 seoTitle: "Comment suivre les symptômes POTS, EDS et MCAS ensemble | Zebra"
 metaDescription: "Un guide pratique pour suivre les symptômes POTS, EDS et MCAS qui se chevauchent avant les rendez-vous médicaux."
 ogTitle: "Comment suivre les symptômes quand POTS, EDS et MCAS se chevauchent"
 ogDescription: "Suivre vertiges, douleur, fatigue, flush, symptômes GI, declencheurs, médicaments et impact fonctionnel dans un historique lisible."
 heroImage: "/screenshots/insight-history.png"
-heroImageAlt: "Écran Zebra d historique des tendances montrant des profils de symptômes sauvegardes dans le temps."
+heroImageAlt: "Écran Zebra d’historique des tendances montrant des profils de symptômes sauvegardes dans le temps."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder symptômes qui se chevauchent, declencheurs, médicaments, contexte orthostatique et questions de rendez-vous dans une seule chronologie."
@@ -65,16 +65,16 @@ faq:
   - question: "Que dois-je suivre quand les symptômes se chevauchent?"
     answer: "Suivez le groupe principal de symptômes, le moment, les declencheurs possibles, le contexte orthostatique, les changements de médicaments, l'impact fonctionnel et les questions pour le rendez-vous."
   - question: "Dois-je suivre les declencheurs comme preuve?"
-    answer: "Non. Suivez les declencheurs comme contexte. Noter que chaleur, nourriture, station debout, stress, infection, changement de médicament ou activité etaient proches d'une poussee peut être utile sans affirmer une cause."
+    answer: "Non. Suivez les declencheurs comme contexte. Noter que chaleur, nourriture, station debout, stress, infection, changement de médicament ou activité étaient proches d'une poussee peut être utile sans affirmer une cause."
   - question: "Comment garder le suivi faisable avec le brain fog?"
-    answer: "Utilisez une structure quotidienne courte: ce qui a change, l'intensite, ce qui etait autour et ce que cela vous a empeche de faire."
+    answer: "Utilisez une structure quotidienne courte: ce qui a change, l'intensite, ce qui était autour et ce que cela vous a empeche de faire."
   - question: "Zebra diagnostique-t-il le POTS, l'EDS ou le MCAS?"
     answer: "Non. Zebra aide a organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
 Quand [POTS](/fr-fr/knowledge/pots/), [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [MCAS](/fr-fr/knowledge/mcas/) se chevauchent, le plus difficile n'est pas seulement d'avoir plus de symptômes. C'est d'expliquer vertiges, douleur, fatigue, flush, symptômes GI, changements de médicaments, declencheurs et [impact fonctionnel](/fr-fr/knowledge/functional-impact/) comme un historique lisible plutot que comme des fragments separes.
 
-C'est pourquoi le suivi du chevauchement a besoin d'une autre forme qu'un journal de symptômes classique. Une liste de symptômes peut devenir trop longue pour être utilisable. Un meilleur dossier montre ce qui a change, ce qui etait proche et ce qui a rendu la vie quotidienne plus difficile.
+C'est pourquoi le suivi du chevauchement a besoin d'une autre forme qu'un journal de symptômes classique. Une liste de symptômes peut devenir trop longue pour être utilisable. Un meilleur dossier montre ce qui a change, ce qui était proche et ce qui a rendu la vie quotidienne plus difficile.
 
 Des sources medicales et d'education patient decrivent des chevauchements entre hypermobilite, POTS ou dysautonomie et symptômes lies aux mastocytes, tout en rappelant que le diagnostic est complexe et doit rester clinique. Le but du suivi n'est pas de prouver un diagnostic. Le but est d'apporter une histoire plus claire aux soins.
 
@@ -94,7 +94,7 @@ Vous n'avez pas besoin de suivre chaque sensation parfaitement. Le premier objec
 
 ## Suivre le moment et le contexte proche
 
-Les symptômes qui se chevauchent sont plus faciles a relire quand chaque entree inclut le timing.
+Les symptômes qui se chevauchent sont plus faciles a relire quand chaque entrée inclut le timing.
 
 Notes utiles:
 
@@ -155,7 +155,7 @@ Pour les poussees avec chevauchement, essayez ce format court:
 - impact fonctionnel
 - une question pour le prochain rendez-vous
 
-Ce format marche meme si vous ne remplissez qu'une partie. Une entree partielle d'un mauvais jour est souvent plus utile qu'une entree parfaite qui n'arrive jamais.
+Ce format marche meme si vous ne remplissez qu'une partie. Une entrée partielle d'un mauvais jour est souvent plus utile qu'une entrée parfaite qui n'arrive jamais.
 
 ## Que prendre au rendez-vous
 
@@ -178,12 +178,12 @@ The Ehlers-Danlos Society note que le hEDS peut toucher de nombreux systèmes du
 
 Contexte utile:
 
-- [Apercu hEDS de The Ehlers-Danlos Society](https://www.ehlers-danlos.com/heds/)
+- [Aperçu hEDS de The Ehlers-Danlos Society](https://www.ehlers-danlos.com/heds/)
 - [Revue PubMed sur hEDS, POTS et MCAS](https://pubmed.ncbi.nlm.nih.gov/31267471/)
 - [Article PMC sur comorbidites hEDS et odyssee diagnostique](https://pmc.ncbi.nlm.nih.gov/articles/PMC11613559/)
 - [Article Frontiers 2025 sur POTS, hypermobilite et MCAS](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1513199/full)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra est construit pour le problème de suivi cree par le chevauchement: symptômes, poussees, [constantes orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, declencheurs, notes et questions de rendez-vous dans une seule chronologie.
 
@@ -194,7 +194,7 @@ Il ne diagnostique pas le POTS, l'EDS, le MCAS ni aucune condition. Il aide a ga
 - Les symptômes POTS, EDS ou hEDS et MCAS peuvent se chevaucher, mais le suivi ne remplace pas le diagnostic.
 - Suivez groupes, timing, contexte proche, changements de médicaments et impact fonctionnel.
 - Traitez les declencheurs comme contexte, pas comme preuve.
-- Une entree courte et partielle de mauvais jour vaut mieux qu'attendre un suivi parfait.
+- Une entrée courte et partielle de mauvais jour vaut mieux qu'attendre un suivi parfait.
 - Le resume de rendez-vous le plus utile explique ce qui a change, ce qui s'est repete et a quoi ressemblait la vie quotidienne.
 
 ## FAQ
@@ -209,11 +209,11 @@ Suivez le groupe principal de symptômes, le moment, les declencheurs possibles,
 
 ### Dois-je suivre les declencheurs comme preuve?
 
-Non. Suivez les declencheurs comme contexte. Noter que chaleur, nourriture, station debout, stress, infection, changement de médicament ou activité etaient proches d'une poussee peut être utile sans affirmer une cause.
+Non. Suivez les declencheurs comme contexte. Noter que chaleur, nourriture, station debout, stress, infection, changement de médicament ou activité étaient proches d'une poussee peut être utile sans affirmer une cause.
 
 ### Comment garder le suivi faisable avec le brain fog?
 
-Utilisez une structure quotidienne courte: ce qui a change, l'intensite, ce qui etait autour et ce que cela vous a empeche de faire.
+Utilisez une structure quotidienne courte: ce qui a change, l'intensite, ce qui était autour et ce que cela vous a empeche de faire.
 
 ### Zebra diagnostique-t-il le POTS, l'EDS ou le MCAS?
 

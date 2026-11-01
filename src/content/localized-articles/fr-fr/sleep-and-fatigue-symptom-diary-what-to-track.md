@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Fatigue"
 category: "Symptom Tracking"
-primaryKeyword: "journal sommeil fatigue symptomes"
+primaryKeyword: "journal sommeil fatigue symptômes"
 seoTitle: "Journal sommeil et fatigue: quoi suivre | Zebra"
 metaDescription: "Suivez sommeil et fatigue avec coucher, lever, qualite, siestes, médicaments, caféine, douleur, brain fog, activité et fonction."
 ogTitle: "Journal sommeil et fatigue: quoi suivre"
@@ -69,7 +69,7 @@ faq:
     answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Le sommeil et la [fatigue](/fr-fr/knowledge/fatigue/) sont etroitement lies pour beaucoup de personnes avec maladie chronique, mais le motif peut être difficile a expliquer de mémoire. Vous pouvez vous rappeler avoir mal dormi. Vous pouvez vous rappeler que le lendemain etait terrible. La partie utile pour un médecin est souvent la timeline entre les deux: heure du coucher, heure du lever, qualite du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, [brain fog](/fr-fr/knowledge/brain-fog/), activité et fonction le lendemain.
+Le sommeil et la [fatigue](/fr-fr/knowledge/fatigue/) sont etroitement lies pour beaucoup de personnes avec maladie chronique, mais le motif peut être difficile a expliquer de mémoire. Vous pouvez vous rappeler avoir mal dormi. Vous pouvez vous rappeler que le lendemain était terrible. La partie utile pour un médecin est souvent la timeline entre les deux: heure du coucher, heure du lever, qualite du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, [brain fog](/fr-fr/knowledge/brain-fog/), activité et fonction le lendemain.
 
 Un journal sommeil et fatigue ne diagnostique pas insomnie, apnee du sommeil, ME/CFS, fibromyalgie, Long COVID ou autre condition. Il aide a apporter un dossier plus clair a un médecin.
 
@@ -87,7 +87,7 @@ Commencez par:
 - si douleur, symptômes, toilettes, chaleur, stress ou respiration vous ont reveille
 - niveau de repos ou de non-repos au reveil
 
-Exemple: "Coucher 23:30, lever 7:10, peut-etre 5,5 h, reveille 3 fois par douleur de hanche, non repose 8/10."
+Exemple: "Coucher 23:30, lever 7:10, peut-être 5,5 h, reveille 3 fois par douleur de hanche, non repose 8/10."
 
 C'est suffisant pour mieux interpréter le lendemain.
 
@@ -101,7 +101,7 @@ Notez:
 - fatigue de l'apres-midi
 - brain fog
 - niveau de douleur
-- vertiges ou etourdissement
+- vertiges ou étourdissement
 - capacité a se doucher, cuisiner, travailler, etudier, conduire, faire de l'exercice ou voir des gens
 - besoin de s'allonger
 - besoin d'une sieste
@@ -120,9 +120,9 @@ Notez:
 - si elle a aide
 - si vous vous etes reveille pire
 - si elle a affecte le sommeil de nuit
-- si elle etait prevue ou inevitable
+- si elle était prevue ou inevitable
 
-Pour les maladies avec energie limitee, une sieste inevitable peut être une note d'impact fonctionnel, pas un echec.
+Pour les maladies avec énergie limitee, une sieste inevitable peut être une note d'impact fonctionnel, pas un echec.
 
 ## Garder médicaments, caféine et alcool proches
 
@@ -145,7 +145,7 @@ Ne changez pas les médicaments seulement selon un journal. Utilisez les notes p
 
 Pour certaines personnes, le sommeil perturbe fait partie d'un motif de poussee plus large.
 
-Notez si le mauvais sommeil etait proche de:
+Notez si le mauvais sommeil était proche de:
 
 - poussee de douleur de [fibromyalgie](/fr-fr/knowledge/fibromyalgia/)
 - crash [ME/CFS](/fr-fr/knowledge/me-cfs/) ou [PEM](/fr-fr/knowledge/pem/)
@@ -181,7 +181,7 @@ Avant une visite, sortez:
 - nuits avec reveils frequents
 - matins non recuperateurs
 - pires jours de fatigue
-- si les siestes etaient nécessaires
+- si les siestes étaient nécessaires
 - symptômes qui vous ont reveille
 - si la fatigue a affecte travail, etudes, aide a un proche, conduite ou taches de base
 - motifs médicaments ou caféine a discuter
@@ -199,18 +199,18 @@ Questions utiles:
 
 Contexte utile:
 
-- [Apercu journal de sommeil Sleep Foundation](https://www.sleepfoundation.org/sleep-diary)
+- [Aperçu journal de sommeil Sleep Foundation](https://www.sleepfoundation.org/sleep-diary)
 - [Questions du journal sommeil Baylor Medicine](https://www.bcm.edu/healthcare/specialties/sleep-medicine/sleep-journal)
 - [NHLBI diagnostic de l'insomnie et journal sommeil](https://www.nhlbi.nih.gov/health/insomnia/diagnosis)
 - [MedlinePlus fatigue et note sur journal de fatigue](https://medlineplus.gov/fatigue.html)
 - [Mayo Clinic ME/CFS, pacing et sommeil](https://www.mayoclinic.org/diseases-conditions/chronic-fatigue-syndrome/diagnosis-treatment/drc-20360510)
 - [Kaiser Permanente journal de douleur](https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.learning-about-a-pain-diary.abk1346)
 
-## Ou Zebra aide
+## Où Zebra aide
 
 Zebra aide a garder contexte de sommeil, fatigue, douleur, [poussees](/fr-fr/knowledge/flare/), médicaments, declencheurs, activité, impact fonctionnel et questions pour le médecin dans une meme timeline.
 
-Zebra ne diagnostique pas les troubles du sommeil ou les causes de fatigue. Il vous aide a apporter un motif sommeil-symptomes plus clair au médecin qui peut l'évaluer.
+Zebra ne diagnostique pas les troubles du sommeil ou les causes de fatigue. Il vous aide a apporter un motif sommeil-symptômes plus clair au médecin qui peut l'évaluer.
 
 ## Points clés
 

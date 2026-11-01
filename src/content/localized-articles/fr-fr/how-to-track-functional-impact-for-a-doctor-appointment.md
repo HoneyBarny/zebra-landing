@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-functional-impact-for-a-doctor-appointment"
 status: "published"
 title: "Comment suivre l'impact fonctionnel pour un rendez-vous médical"
-subtitle: "L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, etourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile."
+subtitle: "L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile."
 description: "Apprenez comment suivre l'impact fonctionnel avant un rendez-vous médical pour rendre les symptômes plus faciles a expliquer avec de vrais exemples du quotidien."
 excerpt: "Un cadre pratique pour suivre comment les symptômes affectent la vie quotidienne avant un rendez-vous médical."
 author: "zebra-editorial"
@@ -59,7 +59,7 @@ faq:
     answer: "Non. Suivre les changements clairs, les jours de poussee ou les limites repetees peut suffire pour un resume de rendez-vous utile."
 ---
 
-L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, etourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile.
+L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile.
 
 C'est particulierement utile avant un rendez-vous médical, car les symptômes peuvent sembler vagues quand ils sont seulement listes par nom. [L'impact fonctionnel](/fr-fr/knowledge/functional-impact/) transforme le symptôme en exemple plus clair.
 
@@ -84,7 +84,7 @@ Ces exemples aident a montrer la sévérité sans avoir besoin d'un langage dram
 Une liste de symptômes peut dire:
 
 - fatigue
-- etourdissements
+- étourdissements
 - douleur
 - brain fog
 
@@ -93,7 +93,7 @@ Cette liste est utile, mais elle n'explique pas ce qui a change.
 Une note de rendez-vous plus forte dit:
 
 - la fatigue a rendu la douche et la cuisine difficiles trois jours cette semaine
-- les etourdissements sont apparus après être reste debout et m'ont force a m'asseoir
+- les étourdissements sont apparus après être reste debout et m'ont force a m'asseoir
 - le brain fog a rendu difficile de finir les messages de travail
 - la douleur a change combien de temps je pouvais marcher ou rester assis droit
 

@@ -78,7 +78,7 @@ Cela affecte:
 - la facilité de relecture avant les rendez-vous
 - si le but final est le suivi seul ou la préparation de rendez-vous
 
-## Ou Bearable est fort pour le POTS
+## Où Bearable est fort pour le POTS
 
 Bearable est fort si vous voulez:
 
@@ -88,7 +88,7 @@ Bearable est fort si vous voulez:
 
 Cette flexibilite est utile pour les personnes qui aiment construire leur propre configuration et ne craignent pas plus de décisions initiales.
 
-## Ou Zebra est plus fort pour le POTS
+## Où Zebra est plus fort pour le POTS
 
 Zebra est plus fort si vous voulez:
 
@@ -108,7 +108,7 @@ Pour le paysage plus large des apps POTS, [Meilleures apps de suivi des symptôm
 | Approche centrale | Outil generique personnalisable | Outil de préparation de rendez-vous oriente POTS et dysautonomie |
 | Meilleur pour | Utilisateurs qui veulent une large flexibilite | Utilisateurs qui veulent un contexte orthostatique et une préparation de rendez-vous plus claire |
 | Style de configuration | Plus de configuration personnalisee | Structure de suivi plus guidee |
-| Contexte orthostatique | Possible, mais dépend de la configuration | Integre a l'histoire du produit |
+| Contexte orthostatique | Possible, mais dépend de la configuration | Intègre a l'histoire du produit |
 | Role du sel et de l'hydratation | Flexible mais generique | Partie du flux POTS connecte |
 | Resultat préparation de rendez-vous | Support de relecture et d'export | Rapport pret pour le médecin comme resultat central |
 

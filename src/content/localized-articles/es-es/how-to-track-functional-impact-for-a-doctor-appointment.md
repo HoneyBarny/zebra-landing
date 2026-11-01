@@ -3,8 +3,8 @@ locale: "es-es"
 originalSlug: "how-to-track-functional-impact-for-a-doctor-appointment"
 status: "published"
 title: "Como rastrear impacto funcional para una cita médica"
-subtitle: "El impacto funcional es la parte del rastreo de síntomas que explica que cambiaron los síntomas en la vida real. En lugar de solo anotar dolor, fatiga, mareo o brain fog, rastrea que te impidieron hacer esos síntomas, que cambiaron, retrasaron o hicieron más dificil."
-description: "Aprende como rastrear impacto funcional antes de una cita médica para que los síntomas sean más faciles de explicar con ejemplos reales de la vida diaria."
+subtitle: "El impacto funcional es la parte del rastreo de síntomas que explica que cambiaron los síntomas en la vida real. En lugar de solo anotar dolor, fatiga, mareo o brain fog, rastrea que te impidieron hacer esos síntomas, que cambiaron, retrasaron o hicieron más difícil."
+description: "Aprende como rastrear impacto funcional antes de una cita médica para que los síntomas sean más fáciles de explicar con ejemplos reales de la vida diaria."
 excerpt: "Un marco práctico para rastrear como los síntomas afectan la vida diaria antes de una cita médica."
 author: "zebra-editorial"
 publishedAt: "2026-07-24"
@@ -38,7 +38,7 @@ secondaryKeywords:
   - "como síntomas afectan vida diaria médico"
   - "ejemplos síntomas cita médica"
 seoTitle: "Como rastrear impacto funcional para una cita médica | Zebra"
-metaDescription: "Aprende como rastrear impacto funcional antes de una cita médica para que los síntomas sean más faciles de explicar con ejemplos reales de la vida diaria."
+metaDescription: "Aprende como rastrear impacto funcional antes de una cita médica para que los síntomas sean más fáciles de explicar con ejemplos reales de la vida diaria."
 ogTitle: "Como rastrear impacto funcional"
 ogDescription: "Una guía práctica para explicar que cambiaron los síntomas en la vida diaria antes de una cita médica."
 heroImage: "/screenshots/appointment-preparation.png"
@@ -54,12 +54,12 @@ faq:
   - question: "¿Qué es impacto funcional en el rastreo de síntomas?"
     answer: "Impacto funcional significa que cambiaron los síntomas en la vida diaria, como trabajo, escuela, tareas de casa, movilidad, concentración o autocuidado."
   - question: "¿Por qué debo rastrear impacto funcional antes de una cita médica?"
-    answer: "Los ejemplos funcionales hacen que los síntomas sean más faciles de entender porque muestran que cambio, no solo lo que sentiste."
+    answer: "Los ejemplos funcionales hacen que los síntomas sean más fáciles de entender porque muestran que cambió, no solo lo que sentiste."
   - question: "¿Necesito rastrear impacto funcional todos los días?"
     answer: "No. Rastrear cambios claros, días de brote o límites repetidos puede ser suficiente para un resumen de cita útil."
 ---
 
-El impacto funcional es la parte del rastreo de síntomas que explica que cambiaron los síntomas en la vida real. En lugar de solo anotar dolor, fatiga, mareo o brain fog, rastrea que te impidieron hacer esos síntomas, que cambiaron, retrasaron o hicieron más dificil.
+El impacto funcional es la parte del rastreo de síntomas que explica que cambiaron los síntomas en la vida real. En lugar de solo anotar dolor, fatiga, mareo o brain fog, rastrea que te impidieron hacer esos síntomas, que cambiaron, retrasaron o hicieron más difícil.
 
 Esto es especialmente útil antes de una cita médica porque los síntomas pueden sonar vagos cuando se listan solo por nombre. El [impacto funcional](/knowledge/functional-impact/) convierte el síntoma en un ejemplo más claro.
 
@@ -81,7 +81,7 @@ Estos ejemplos ayudan a mostrar severidad sin necesitar lenguaje dramatico.
 
 ## Por qué los síntomas solos no siempre bastan
 
-Una lista de síntomas podria decir:
+Una lista de síntomas podría decir:
 
 - fatiga
 - mareo
@@ -92,9 +92,9 @@ Esa lista es útil, pero no explica qué cambió.
 
 Una nota de cita más fuerte dice:
 
-- la fatiga hizo dificil ducharme y cocinar tres días esta semana
+- la fatiga hizo difícil ducharme y cocinar tres días esta semana
 - el mareo aparecio después de estar de pie y me obligo a sentarme
-- el brain fog hizo dificil terminar mensajes de trabajo
+- el brain fog hizo difícil terminar mensajes de trabajo
 - el dolor cambio cuanto tiempo podia caminar o sentarme erguido
 
 Eso es más fácil de conversar.
@@ -171,7 +171,7 @@ Impacto funcional significa que cambiaron los síntomas en la vida diaria, como 
 
 ### ¿Por qué debo rastrear impacto funcional antes de una cita médica?
 
-Los ejemplos funcionales hacen que los síntomas sean más faciles de entender porque muestran qué cambió, no solo lo que sentiste.
+Los ejemplos funcionales hacen que los síntomas sean más fáciles de entender porque muestran qué cambió, no solo lo que sentiste.
 
 ### ¿Necesito rastrear impacto funcional todos los días?
 

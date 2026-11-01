@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomie"
 category: "Suivi des symptomes"
-primaryKeyword: "suivi symptomes douche POTS"
+primaryKeyword: "suivi symptômes douche POTS"
 seoTitle: "Suivi des symptômes de douche pour POTS | Zebra"
 metaDescription: "Suivez les symptômes de douche et de bain avec temperature de l'eau, temps debout, vertiges, fréquence cardiaque, palpitations, hydratation, sel, recuperation et impact."
 ogTitle: "Suivi des symptômes sous la douche et dans le bain pour POTS"
@@ -81,7 +81,7 @@ Un suivi des symptômes de douche ne diagnostique pas POTS, dysautonomie, maladi
 
 ## Commencez Par Le Contexte De La Douche
 
-Vous n'avez pas besoin d'un journal parfait de salle de bain. Commencez par les details qui peuvent expliquer pourquoi une douche etait plus facile ou plus difficile qu'une autre.
+Vous n'avez pas besoin d'un journal parfait de salle de bain. Commencez par les details qui peuvent expliquer pourquoi une douche était plus facile ou plus difficile qu'une autre.
 
 Notez :
 
@@ -91,7 +91,7 @@ Notez :
 - durée de la douche
 - debout, assis ou alternance
 - si vous avez lave les cheveux
-- si les bras etaient au-dessus de la tête
+- si les bras étaient au-dessus de la tête
 - moment de la journee
 - si vous aviez mange
 - contexte d'hydratation et de sel
@@ -127,7 +127,7 @@ Certains symptômes apparaissent sous la douche. D'autres apparaissent en sortan
 Notez si vous remarquez :
 
 - [vertiges](/fr-fr/knowledge/dizziness/)
-- [etourdissement](/fr-fr/knowledge/lightheadedness/)
+- [étourdissement](/fr-fr/knowledge/lightheadedness/)
 - quasi-malaise ou [syncope](/fr-fr/knowledge/syncope/)
 - pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/)
 - [palpitations](/fr-fr/knowledge/palpitations/)
@@ -173,7 +173,7 @@ Contexte utile :
 - ouvrir la porte ou réduire la vapeur
 - ventilateur ou aeration
 - boire avant ou après
-- electrolytes
+- électrolytes
 - sel si recommande par votre clinicien
 - compression avant ou après
 - repos avant la douche
@@ -230,7 +230,7 @@ Ressources utiles :
 - [NHS heatwave guidance](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/)
 - [The Ehlers-Danlos Society dysautonomia overview](https://www.ehlers-danlos.com/dysautonomia/)
 
-## Ou Zebra S'insere
+## Où Zebra S'insere
 
 Zebra aide a garder symptômes de douche, chaleur, temps debout, hydratation, sel, médicaments, recuperation et questions de rendez-vous dans une meme chronologie.
 

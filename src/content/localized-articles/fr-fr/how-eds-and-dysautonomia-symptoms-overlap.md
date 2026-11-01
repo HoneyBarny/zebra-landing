@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-eds-and-dysautonomia-symptoms-overlap"
 status: "published"
 title: "Comment les symptômes EDS et dysautonomie se chevauchent"
-subtitle: "Les symptômes EDS et dysautonomie se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps etourdissements, fatigue, brain fog, intolérance a l'effort, douleur et changements de fonctionnement, meme quand ces symptômes ne semblent pas appartenir a une seule etiquette."
+subtitle: "Les symptômes EDS et dysautonomie se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps étourdissements, fatigue, brain fog, intolérance a l'effort, douleur et changements de fonctionnement, meme quand ces symptômes ne semblent pas appartenir a une seule etiquette."
 description: "Comprenez comment les symptômes EDS et dysautonomie peuvent se chevaucher, a quoi cela ressemble dans la vie quotidienne et comment suivre le profil plus clairement."
 excerpt: "Une explication pratique du chevauchement EDS et dysautonomie, avec une facon de garder l'historique des symptômes revisable."
 author: "zebra-editorial"
@@ -13,7 +13,7 @@ nextReview: "2026-12-31"
 lastReviewed: "2026-07-04"
 cluster: "EDS / hEDS"
 category: "Symptom Tracking"
-primaryKeyword: "symptomes eds dysautonomie chevauchement"
+primaryKeyword: "symptômes eds dysautonomie chevauchement"
 seoTitle: "Comment les symptômes EDS et dysautonomie se chevauchent | Zebra"
 metaDescription: "Comprenez comment les symptômes EDS et dysautonomie peuvent se chevaucher, pourquoi cela rend le suivi plus difficile et comment garder le profil revisable."
 ogTitle: "Comment les symptômes EDS et dysautonomie se chevauchent"
@@ -53,7 +53,7 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Les symptômes EDS et dysautonomie peuvent-ils se chevaucher?"
-    answer: "Oui. Beaucoup de personnes decrivent un chevauchement avec des symptômes comme fatigue, etourdissements, brain fog, palpitations et changements de fonctionnement."
+    answer: "Oui. Beaucoup de personnes decrivent un chevauchement avec des symptômes comme fatigue, étourdissements, brain fog, palpitations et changements de fonctionnement."
   - question: "Comment suivre des symptômes qui se chevauchent?"
     answer: "Suivez les symptômes, les changements, les profils de poussees, le contexte lie a la position et l'impact fonctionnel dans un historique utilisable, au lieu de les disperser entre differents systèmes."
   - question: "Le chevauchement rend-il le diagnostic evident?"
@@ -64,7 +64,7 @@ faq:
     answer: "Un court resume de ce qui a change, de ce qui se regroupe, de ce qui semble lie a la position et de ce que cela fait a la vie quotidienne est généralement plus facile a revoir que des notes dispersees."
 ---
 
-Les symptômes [EDS](/fr-fr/knowledge/eds/), [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/) se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps [etourdissements](/fr-fr/knowledge/dizziness/), [fatigue](/fr-fr/knowledge/fatigue/), [brain fog](/fr-fr/knowledge/brain-fog/), intolérance a l'effort, douleur et changements de [fonctionnement quotidien](/fr-fr/knowledge/functional-impact/), meme quand ces symptômes ne semblent pas appartenir a une seule etiquette.
+Les symptômes [EDS](/fr-fr/knowledge/eds/), [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/) se chevauchent souvent d'une facon qui rend le suivi quotidien et la préparation de rendez-vous confus. Beaucoup de personnes finissent par gérer en meme temps [étourdissements](/fr-fr/knowledge/dizziness/), [fatigue](/fr-fr/knowledge/fatigue/), [brain fog](/fr-fr/knowledge/brain-fog/), intolérance a l'effort, douleur et changements de [fonctionnement quotidien](/fr-fr/knowledge/functional-impact/), meme quand ces symptômes ne semblent pas appartenir a une seule etiquette.
 
 C'est l'une des raisons pour lesquelles le chevauchement peut être si difficile a expliquer dans les soins. Le problème n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Quand plusieurs symptômes montent et descendent ensemble, il devient plus difficile de se rappeler ce qui a change en premier, ce qui se regroupe et ce qui compte le plus a mentionner au prochain rendez-vous.
 
@@ -85,7 +85,7 @@ C'est pourquoi un dossier du profil complet est généralement plus utile que de
 
 Le chevauchement peut inclure:
 
-- etourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête legere
 - fatigue
 - brain fog
 - douleur
@@ -167,7 +167,7 @@ Zebra a été positionne exactement pour ce type de problème de chevauchement. 
 
 ### Les symptômes EDS et dysautonomie peuvent-ils se chevaucher?
 
-Oui. Beaucoup de personnes decrivent un chevauchement avec des symptômes comme fatigue, etourdissements, brain fog, palpitations et changements de fonctionnement.
+Oui. Beaucoup de personnes decrivent un chevauchement avec des symptômes comme fatigue, étourdissements, brain fog, palpitations et changements de fonctionnement.
 
 ### Comment suivre des symptômes qui se chevauchent?
 

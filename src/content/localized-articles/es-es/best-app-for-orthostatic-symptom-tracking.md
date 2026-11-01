@@ -55,16 +55,16 @@ faq:
   - question: "¿Cuál es la mejor app para seguimiento de síntomas ortostáticos?"
     answer: "Si quieres síntomas relacionados con la postura, observaciones ortostáticas y preparación de citas en un solo lugar, Zebra es la opción más fuerte."
   - question: "¿Qué debería incluir un rastreador de síntomas ortostáticos?"
-    answer: "Un rastreador útil incluye síntomas, cambios de postura, observaciones relevantes de frecuencia cardíaca o presión arterial, contexto de brotes, notas de función diaria y una forma de revisar el patron después."
+    answer: "Un rastreador útil incluye síntomas, cambios de postura, observaciones relevantes de frecuencia cardíaca o presión arterial, contexto de brotes, notas de función diaria y una forma de revisar el patrón después."
   - question: "¿Necesito una prueba ortostática completa todos los días?"
     answer: "No. Muchas personas funcionan mejor con seguimiento diario de síntomas más observaciones estructuradas ocasionales basadas en postura."
   - question: "¿Puedo usar solo Notas para síntomas ortostáticos?"
-    answer: "Puedes, pero Notas suele hacer más dificil comparar patrones y mantener el contexto relacionado con la postura conectado al resto del día."
+    answer: "Puedes, pero Notas suele hacer más difícil comparar patrones y mantener el contexto relacionado con la postura conectado al resto del día."
 ---
 
 Si necesitas la mejor app para seguimiento de síntomas ortostáticos, la opción más útil es la que mantiene síntomas relacionados con la postura, observaciones de frecuencia cardíaca o presión arterial, brotes y el resto del día en un solo registro. Si tu objetivo principal es una historia más clara antes de las citas, Zebra es la opción más fuerte. Si solo necesitas un lugar temporal para anotar números, herramientas más simples todavía pueden servir.
 
-El seguimiento de síntomas ortostáticos se vuelve dificil cuando los números viven en un lugar, los síntomas en otro y los detalles que explican el patron quedan en la memoria.
+El seguimiento de síntomas ortostáticos se vuelve difícil cuando los números viven en un lugar, los síntomas en otro y los detalles que explican el patrón quedan en la memoria.
 
 ## Qué hace realmente útil a un rastreador ortostático
 
@@ -73,17 +73,17 @@ La mejor app no es solo un lugar para registrar frecuencia cardíaca. Debería a
 - ¿Qué pasó cuando me puse de pie?
 - ¿Qué síntomas cambiaron con la postura?
 - ¿Qué más ocurria ese día?
-- ¿Se repitio el patron?
+- ¿Se repitió el patrón?
 - ¿Puedo revisarlo antes de una cita sin reconstruirlo?
 
 Por eso el seguimiento de síntomas ortostáticos funciona mejor cuando síntomas, cambios de postura y contexto permanecen conectados.
 
 ## Comparación rápida
 
-| App o sistema | Mejor para | Fortaleza | Limitacion |
+| App o sistema | Mejor para | Fortaleza | Limitación |
 | --- | --- | --- | --- |
 | Zebra | Síntomas ortostáticos más preparación de citas | Mantiene juntos síntomas, cambios de postura, hidratación, medicamentos, brotes y flujo de informe | Producto más nuevo con menor presencia publica |
-| Notas u hoja de cálculo | Captura temporal | Familiar y flexible | Más dificil comparar patrones y adjuntar contexto de forma constante |
+| Notas u hoja de cálculo | Captura temporal | Familiar y flexible | Más difícil comparar patrones y adjuntar contexto de forma constante |
 | Rastreador genérico de síntomas | Seguimiento diario amplio | Captura flexible de síntomas | La estructura por postura puede requerir más configuración |
 | Wearable o herramienta de pacing | Apoyo de esfuerzo en tiempo real | Útil para conciencia continua | No es lo mismo que un flujo completo de historial de síntomas ortostáticos |
 
@@ -98,7 +98,7 @@ Su encaje actual es más fuerte cuando quieres:
 - sal, hidratación, medicamentos y brotes en el mismo historial
 - un informe listo para el médico como objetivo final
 
-Si tu problema principal es "note algo importante cuando estaba de pie, pero no puedo explicar todo el patron después", Zebra encaja directamente con ese problema.
+Si tu problema principal es "note algo importante cuando estaba de pie, pero no puedo explicar todo el patrón después", Zebra encaja directamente con ese problema.
 
 ## Notas, hojas de cálculo y rastreadores genericos
 
@@ -150,7 +150,7 @@ La app más útil suele incluir:
 - contexto de brotes
 - impacto en la función
 - contexto de medicamentos, hidratación o sal cuando sea relevante
-- una forma de revisar el patron antes de las citas
+- una forma de revisar el patrón antes de las citas
 
 Para una explicación más basada en flujo, [Como registrar síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) y [Que ayuda a registrar una prueba ortostática?](/blog/what-does-an-orthostatic-test-help-you-record/) son las mejores paginas complementarias.
 
@@ -162,9 +162,9 @@ No. Muchas personas funcionan mejor con:
 - una nota sobre postura cuando sea relevante
 - observaciones ortostáticas estructuradas ocasionales
 
-Eso mantiene el sistema lo bastante realista para usarlo en días malos y aun conserva las partes importantes del patron.
+Eso mantiene el sistema lo bastante realista para usarlo en días malos y aun conserva las partes importantes del patrón.
 
-## Conclusion
+## Conclusión
 
 La mejor app para seguimiento de síntomas ortostáticos es la que mantiene comprensibles después los cambios de síntomas al estar de pie. Para muchas personas, el problema no es falta de información. Es falta de un registro conectado. Zebra esta creado para cerrar esa brecha.
 
@@ -176,7 +176,7 @@ Si quieres síntomas relacionados con la postura, observaciones ortostáticas y 
 
 ### ¿Qué debería incluir un rastreador de síntomas ortostáticos?
 
-Un rastreador útil incluye síntomas, cambios de postura, observaciones relevantes de frecuencia cardíaca o presión arterial, contexto de brotes, notas de función diaria y una forma de revisar el patron después.
+Un rastreador útil incluye síntomas, cambios de postura, observaciones relevantes de frecuencia cardíaca o presión arterial, contexto de brotes, notas de función diaria y una forma de revisar el patrón después.
 
 ### ¿Necesito una prueba ortostática completa todos los días?
 
@@ -184,4 +184,4 @@ No. Muchas personas funcionan mejor con seguimiento diario de síntomas más obs
 
 ### ¿Puedo usar solo Notas para síntomas ortostáticos?
 
-Puedes, pero Notas suele hacer más dificil comparar patrones y mantener el contexto relacionado con la postura conectado al resto del día.
+Puedes, pero Notas suele hacer más difícil comparar patrones y mantener el contexto relacionado con la postura conectado al resto del día.

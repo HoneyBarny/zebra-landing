@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-salt-fluids-and-flares"
 title: "Como rastrear sal, líquidos y brotes"
 status: "published"
-subtitle: "Si estas rastreando POTS o síntomas relacionados con disautonomía, la sal, los líquidos y el historial de brotes suelen ser más útiles cuando viven en el mismo registro que tus síntomas. El objetivo no es crear un registro de manejo perfecto. Es hacer que los cambios diarios sean más faciles de notar y más faciles de revisar antes de las citas."
+subtitle: "Si estas rastreando POTS o síntomas relacionados con disautonomía, la sal, los líquidos y el historial de brotes suelen ser más útiles cuando viven en el mismo registro que tus síntomas. El objetivo no es crear un registro de manejo perfecto. Es hacer que los cambios diarios sean más fáciles de notar y más fáciles de revisar antes de las citas."
 description: "Aprende como rastrear sal, líquidos, brotes y síntomas en un registro claro sin crear más agobio diario."
 excerpt: "Aprende como rastrear sal, líquidos, brotes y síntomas en un registro claro sin crear más agobio diario."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Rastreador diario para líquidos, sal, severidad del brote y síntomas"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener sal, líquidos, brotes y síntomas en la misma linea de tiempo."
+ctaNote: "Usa Zebra para mantener sal, líquidos, brotes y síntomas en la misma línea de tiempo."
 featured: false
 categories: 
   - "POTS"
@@ -53,10 +53,10 @@ faq:
   - question: "¿Necesito números exactos todos los días?"
     answer: "No siempre. Un rastreo amplio y consistente puede seguir siendo útil, especialmente cuando tu objetivo es reconocer cambios y prepararte para citas."
   - question: "¿Por qué rastrear los días de brote por separado?"
-    answer: "Los días de brote suelen ser los más dificiles de recordar con claridad después, así que darles su propio lugar en el registro puede ser especialmente útil."
+    answer: "Los días de brote suelen ser los más difíciles de recordar con claridad después, así que darles su propio lugar en el registro puede ser especialmente útil."
 ---
 
-Si estas rastreando POTS o síntomas relacionados con disautonomía, la sal, los líquidos y el historial de brotes suelen ser más útiles cuando viven en el mismo registro que tus síntomas. El objetivo no es crear un registro de manejo perfecto. Es hacer que los cambios diarios sean más faciles de notar y más faciles de revisar antes de las citas.
+Si estas rastreando POTS o síntomas relacionados con disautonomía, la sal, los líquidos y el historial de brotes suelen ser más útiles cuando viven en el mismo registro que tus síntomas. El objetivo no es crear un registro de manejo perfecto. Es hacer que los cambios diarios sean más fáciles de notar y más fáciles de revisar antes de las citas.
 
 ## Por qué estas categorías van juntas
 
@@ -67,11 +67,11 @@ Muchas personas rastrean:
 - sal de forma vaga o nada
 - días de brote solo cuando son lo bastante malos para recordarlos
 
-Eso hace que después sea más dificil revisar el panorama completo.
+Eso hace que después sea más difícil revisar el panorama completo.
 
 ## Qué rastrear
 
-Manténlo simple:
+Mantenlo simple:
 
 - ingesta aproximada de líquidos
 - apoyo con sal o electrolitos si es relevante para tu rutina
@@ -108,7 +108,7 @@ Zebra esta creado para mantener síntomas, brotes, hidratación, sal, medicació
 
 - Rastrea sal, líquidos y brotes juntos cuando sea posible.
 - Mantén el registro lo bastante simple para usarlo en días malos.
-- Enfócate en qué cambió y que importa para revisar, no en medicion perfecta.
+- Enfócate en qué cambió y que importa para revisar, no en medición perfecta.
 
 ## FAQ
 
@@ -122,4 +122,4 @@ No siempre. Un rastreo amplio y consistente puede seguir siendo útil, especialm
 
 ### ¿Por qué rastrear los días de brote por separado?
 
-Los días de brote suelen ser los más dificiles de recordar con claridad después, así que darles su propio lugar en el registro puede ser especialmente útil.
+Los días de brote suelen ser los más difíciles de recordar con claridad después, así que darles su propio lugar en el registro puede ser especialmente útil.

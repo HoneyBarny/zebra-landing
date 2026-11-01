@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-keep-a-symptom-journal-with-brain-fog"
 status: "published"
 title: "Comment tenir un journal de symptômes avec le brain fog"
-subtitle: "Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entree utile."
+subtitle: "Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile."
 description: "Apprenez comment tenir un journal de symptômes avec le brain fog grace a un système structure et peu exigeant qui aide encore avant les rendez-vous."
 excerpt: "Apprenez comment tenir un journal de symptômes avec le brain fog grace a un système structure et peu exigeant qui aide encore avant les rendez-vous."
 author: "zebra-editorial"
@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
-primaryKeyword: "comment tenir journal symptomes brain fog"
+primaryKeyword: "comment tenir journal symptômes brain fog"
 seoTitle: "Comment tenir un journal de symptômes avec le brain fog | Zebra"
 metaDescription: "Apprenez comment tenir un journal de symptômes avec le brain fog grace a un système structure et peu exigeant qui aide encore avant les rendez-vous."
 ogTitle: "Comment tenir un journal de symptômes avec le brain fog"
@@ -58,7 +58,7 @@ faq:
     answer: "Non. Recommencer aujourd'hui est généralement plus durable que d'essayer de tout reconstruire parfaitement."
 ---
 
-Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entree utile.
+Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile.
 
 Un journal de symptômes n'echoue pas parce que vous manquez des details. Il echoue quand le processus vous demande plus que ce que vous pouvez donner les jours ou vous en avez le plus besoin.
 
@@ -73,9 +73,9 @@ Un journal de symptômes compatible avec le brain fog doit être:
 
 Il ne doit pas exiger que vous soyez eloquent, motive ou organise sur le moment.
 
-## L'entree minimum utile
+## L'entrée minimum utile
 
-Un jour difficile, une entree utile peut être aussi simple que:
+Un jour difficile, une entrée utile peut être aussi simple que:
 
 - symptôme
 - sévérité
@@ -85,7 +85,7 @@ Un jour difficile, une entree utile peut être aussi simple que:
 Exemple:
 
 - brain fog: pire que d'habitude
-- etourdissements après être reste debout
+- étourdissements après être reste debout
 - mauvais sommeil
 - impossible de me concentrer assez pour finir le travail
 
@@ -118,7 +118,7 @@ Un dossier réel partiel est plus utile qu'un dossier parfait imaginaire.
 
 ## Concentrez-vous sur ce qui compte le plus
 
-Quand votre energie est basse, suivez:
+Quand votre énergie est basse, suivez:
 
 - les symptômes les plus forts
 - les grands changements
@@ -134,7 +134,7 @@ Zebra est construit autour d'un suivi court et structure plutot que d'un journal
 ## Points clés
 
 - Un journal de symptômes compatible avec le brain fog doit être court et structure.
-- L'entree minimum utile suffit.
+- L'entrée minimum utile suffit.
 - Les jours manques ne doivent pas devenir un projet de rattrapage.
 - Suivez les symptômes et l'impact qui auront le plus de chances de compter plus tard.
 

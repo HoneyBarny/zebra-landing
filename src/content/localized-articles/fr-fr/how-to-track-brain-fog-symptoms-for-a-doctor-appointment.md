@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
-primaryKeyword: "comment suivre symptomes brain fog rendez-vous medical"
+primaryKeyword: "comment suivre symptômes brain fog rendez-vous medical"
 seoTitle: "Comment suivre les symptômes de brain fog pour un rendez-vous médical | Zebra"
 metaDescription: "Apprenez comment suivre les symptômes de brain fog, les changements de fonctionnement et le contexte pour rendre l'historique plus facile a expliquer aux rendez-vous."
 ogTitle: "Comment suivre les symptômes de brain fog"
@@ -79,11 +79,11 @@ Exemples d'impact fonctionnel:
 
 ## Pourquoi le fonctionnement compte autant
 
-Si le brain fog est seulement decrit comme "ma pensee etait bizarre", cela peut ne pas montrer a quel point il a été perturbant. L'impact fonctionnel rend le symptôme plus concret.
+Si le brain fog est seulement decrit comme "ma pensee était bizarre", cela peut ne pas montrer a quel point il a été perturbant. L'impact fonctionnel rend le symptôme plus concret.
 
 ## Gardez le dossier simple
 
-Vous n'avez pas besoin d'un long paragraphe a chaque fois. Une bonne entree peut être:
+Vous n'avez pas besoin d'un long paragraphe a chaque fois. Une bonne entrée peut être:
 
 - brain fog pire que d'habitude
 - commence en fin de matinee

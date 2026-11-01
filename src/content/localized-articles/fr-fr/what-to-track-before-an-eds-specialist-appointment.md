@@ -33,7 +33,7 @@ entities:
   - "Doctor-Ready Report"
   - "Functional Impact"
 priority: 1
-primaryKeyword: "quoi suivre avant rendez-vous specialiste EDS"
+primaryKeyword: "quoi suivre avant rendez-vous spécialiste EDS"
 secondaryKeywords:
   - "checklist rendez-vous eds"
   - "quoi apporter rendez-vous eds"
@@ -58,7 +58,7 @@ faq:
   - question: "Dois-je suivre tous les symptômes EDS avant mon rendez-vous?"
     answer: "Non. Concentrez-vous sur les symptômes les plus nouveaux, les plus perturbateurs, les plus frequents ou les plus pertinents pour la raison de votre visite spécialiste."
   - question: "Dois-je suivre les symptômes de dysautonomie avant une visite EDS?"
-    answer: "Si les etourdissements, palpitations, symptômes orthostatiques, fatigue ou autres problèmes de chevauchement font partie de votre tableau, il est utile de les inclure dans le meme historique récent."
+    answer: "Si les étourdissements, palpitations, symptômes orthostatiques, fatigue ou autres problèmes de chevauchement font partie de votre tableau, il est utile de les inclure dans le meme historique récent."
   - question: "Et si j'ai du brain fog et ne peux pas préparer un long resume?"
     answer: "Utilisez une structure courte: ce qui a change, ce qui affecte le fonctionnement, quels symptômes de chevauchement comptent, ce que vous avez essaye et ce pour quoi vous voulez de l'aide."
   - question: "Dois-je apporter un rapport pret pour le médecin a un rendez-vous EDS?"
@@ -67,7 +67,7 @@ faq:
 
 Avant un rendez-vous spécialiste EDS, la chose la plus utile a suivre est la tendance qui explique ce qui a change, comment votre corps se sent au quotidien, ce qui affecte le fonctionnement et quels symptômes de chevauchement pourraient compter. Vous n'avez pas besoin d'une histoire de vie parfaite. Vous avez besoin d'un dossier récent et clair que vous pouvez vraiment relire quand la visite commence.
 
-Pour beaucoup de personnes qui vivent avec un [EDS](/fr-fr/knowledge/eds/) ou un [hEDS](/fr-fr/knowledge/heds/), la partie difficile n'est pas de remarquer les symptômes. C'est de transformer un mois confus de douleur, instabilite, fatigue, etourdissements et brain fog en une histoire courte qui garde du sens dans la salle de consultation. C'est la qu'un [historique de sante](/fr-fr/knowledge/health-history/) clair aide.
+Pour beaucoup de personnes qui vivent avec un [EDS](/fr-fr/knowledge/eds/) ou un [hEDS](/fr-fr/knowledge/heds/), la partie difficile n'est pas de remarquer les symptômes. C'est de transformer un mois confus de douleur, instabilite, fatigue, étourdissements et brain fog en une histoire courte qui garde du sens dans la salle de consultation. C'est la qu'un [historique de sante](/fr-fr/knowledge/health-history/) clair aide.
 
 ## Ce qu'un spécialiste EDS doit généralement comprendre vite
 
@@ -94,7 +94,7 @@ Cela peut inclure:
 - douleur
 - instabilite articulaire ou episodes de subluxation
 - fatigue
-- etourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête legere
 - brain fog
 - symptômes GI
 - maux de tête
@@ -124,13 +124,13 @@ C'est particulierement utile si votre mois a été difficile a resumer a voix ha
 
 ## 3. Symptômes de chevauchement qui vont dans le meme dossier
 
-Beaucoup de personnes avec EDS essaient aussi d'expliquer des symptômes de chevauchement comme etourdissements, fatigue, palpitations, brain fog et intolérance a la position debout. Si cela fait partie de votre tableau, incluez-les dans le meme dossier au lieu de les garder dans une autre app ou note.
+Beaucoup de personnes avec EDS essaient aussi d'expliquer des symptômes de chevauchement comme étourdissements, fatigue, palpitations, brain fog et intolérance a la position debout. Si cela fait partie de votre tableau, incluez-les dans le meme dossier au lieu de les garder dans une autre app ou note.
 
 C'est la que [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/) peut aider a cadrer ce que vous observez. Si les symptômes lies a la position comptent, [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) donne un modele de suivi simple.
 
 Le contexte de chevauchement utile peut inclure:
 
-- etourdissements après être reste debout
+- étourdissements après être reste debout
 - palpitations pendant les poussees
 - fatigue après l'activité
 - brain fog les jours plus difficiles
@@ -217,7 +217,7 @@ Si le brain fog rend une longue préparation peu réaliste, utilisez cette struc
 
 ### Quels symptômes de chevauchement comptent
 
-- etourdissements
+- étourdissements
 - fatigue
 - palpitations
 - brain fog
@@ -260,7 +260,7 @@ Non. Concentrez-vous sur les symptômes les plus nouveaux, les plus perturbateur
 
 ### Dois-je suivre les symptômes de dysautonomie avant une visite EDS?
 
-Si les etourdissements, palpitations, symptômes orthostatiques, fatigue ou autres problèmes de chevauchement font partie de votre tableau, il est utile de les inclure dans le meme historique récent.
+Si les étourdissements, palpitations, symptômes orthostatiques, fatigue ou autres problèmes de chevauchement font partie de votre tableau, il est utile de les inclure dans le meme historique récent.
 
 ### Et si j'ai du brain fog et ne peux pas préparer un long resume?
 

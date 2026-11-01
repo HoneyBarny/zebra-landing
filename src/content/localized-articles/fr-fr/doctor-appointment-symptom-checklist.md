@@ -14,7 +14,7 @@ lastReviewed: "2026-08-08"
 featured: false
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
-primaryKeyword: "checklist symptomes rendez-vous medical"
+primaryKeyword: "checklist symptômes rendez-vous medical"
 seoTitle: "Checklist des symptômes pour un rendez-vous médical | Zebra"
 metaDescription: "Utilisez cette checklist des symptômes pour organiser symptômes, poussees, médicaments, changements fonctionnels et questions avant une visite médicale."
 ogTitle: "Checklist des symptômes pour un rendez-vous médical"
@@ -94,7 +94,7 @@ Commencez par les symptômes les plus pertinents pour le rendez-vous.
 
 Pour beaucoup d'utilisateurs de Zebra, cela peut inclure:
 
-- vertiges ou etourdissements
+- vertiges ou étourdissements
 - fatigue
 - palpitations
 - brain fog
@@ -136,7 +136,7 @@ Notes utiles:
 - durée
 - declencheur possible ou contexte
 - ce qui a aide, le cas echeant
-- si la recuperation etait différente de d'habitude
+- si la recuperation était différente de d'habitude
 
 Vous n'avez pas besoin de prouver un declencheur. Il suffit de dire: "Ces choses se sont produites autour de la poussee."
 

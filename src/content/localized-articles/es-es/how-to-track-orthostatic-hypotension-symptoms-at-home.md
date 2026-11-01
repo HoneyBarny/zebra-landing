@@ -23,7 +23,7 @@ heroImage: "/screenshots/orthostatic-test-es.png"
 heroImageAlt: "Pantalla de prueba ortostática de Zebra con seguimiento de signos vitales y síntomas por posición."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar síntomas ortostáticos, presión arterial, pulso, medicamentos, comidas, hidratación y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar síntomas ortostáticos, presión arterial, pulso, medicamentos, comidas, hidratación y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Dysautonomia"
   - "Symptom Tracking"
@@ -60,20 +60,20 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar para la hipotensión ortostática?"
-    answer: "Registra postura, hora, presión arterial, pulso, síntomas, que estabas haciendo, comidas, horario de medicamentos, contexto de hidratación y cuanto tardo la recuperación después de sentarte o acostarte."
+    answer: "Registra postura, hora, presión arterial, pulso, síntomas, que estabas haciendo, comidas, horario de medicamentos, contexto de hidratación y cuánto tardó la recuperación después de sentarte o acostarte."
   - question: "¿El seguimiento en casa puede diagnosticar hipotensión ortostática?"
-    answer: "No. Las notas en casa pueden ayudar a tu médico a ver un patron, pero el diagnóstico y las decisiones de tratamiento necesitan evaluación clínica."
+    answer: "No. Las notas en casa pueden ayudar a tu médico a ver un patrón, pero el diagnóstico y las decisiones de tratamiento necesitan evaluación clínica."
   - question: "¿Cuándo debo detener una prueba de pie en casa?"
     answer: "Detente si te sientes inseguro, te desmayas, aparecen síntomas intensos o tu médico te dio reglas para detenerte. Sientate o acuestate y busca ayuda médica si los síntomas preocupan."
   - question: "¿Debo cambiar medicamentos, sal o líquidos por lecturas en casa?"
-    answer: "No. No cambies el tratamiento solo por lecturas en casa. Lleva el patron a tu médico y pregunta que cambios son adecuados para ti."
+    answer: "No. No cambies el tratamiento solo por lecturas en casa. Lleva el patrón a tu médico y pregunta que cambios son adecuados para ti."
   - question: "¿La hipotensión ortostática es lo mismo que POTS?"
-    answer: "No. La hipotensión ortostática se centra en una bajada de presión arterial después de ponerse de pie. POTS se centra en un aumento excesivo del pulso sin hipotensión ortostática significativa. Un médico puede interpretar que patron encaja."
+    answer: "No. La hipotensión ortostática se centra en una bajada de presión arterial después de ponerse de pie. POTS se centra en un aumento excesivo del pulso sin hipotensión ortostática significativa. Un médico puede interpretar que patrón encaja."
 ---
 
 [La hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/) significa que la presión arterial baja después de ponerse de pie. Para muchas personas, lo más visible no es solo el número. Es el momento en que estar de pie trae mareo, aturdimiento, debilidad, visión borrosa, nauseas, confusión o sensación de desmayo.
 
-Una nota útil en casa conecta la lectura con la situacion: postura, horario, síntomas, comidas, horario de medicamentos, hidratación y recuperación. Ese contexto ayuda a tu médico a revisar si el patron parece hipotensión ortostática, [POTS](/es-es/knowledge/pots/), sincope vasovagal, efecto de medicamentos, deshidratación, otro patron de disautonomía u otra cosa.
+Una nota útil en casa conecta la lectura con la situación: postura, horario, síntomas, comidas, horario de medicamentos, hidratación y recuperación. Ese contexto ayuda a tu médico a revisar si el patrón parece hipotensión ortostática, [POTS](/es-es/knowledge/pots/), sincope vasovagal, efecto de medicamentos, deshidratación, otro patrón de disautonomía u otra cosa.
 
 El seguimiento en casa no es un diagnóstico. Es una ayuda de memoria más clara.
 
@@ -89,7 +89,7 @@ Detente y sientate o acuestate si sientes:
 - debilidad intensa
 - síntomas neurologicos nuevos
 - confusión inusual
-- síntomas intensos o diferentes a tu patron habitual
+- síntomas intensos o diferentes a tu patrón habitual
 
 Si los síntomas preocupan, busca ayuda médica. El seguimiento nunca debe empujarte a seguir de pie cuando tu cuerpo te pide parar.
 
@@ -107,7 +107,7 @@ Etiquetas útiles:
 - recuperación después de sentarte
 - recuperación después de acostarte
 
-Varias fuentes clinicas describen controles ortostáticos de presión con lecturas acostado o en posición supina seguidas de lecturas de pie. Algunas recomendaciones también mencionan mediciones repetidas en días diferentes cuando el patron no aparece en una sola visita.
+Varias fuentes clínicas describen controles ortostáticos de presión con lecturas acostado o en posición supina seguidas de lecturas de pie. Algunas recomendaciones también mencionan mediciones repetidas en días diferentes cuando el patrón no aparece en una sola visita.
 
 ## Registra presión arterial y pulso juntos
 
@@ -131,7 +131,7 @@ Ejemplo:
 
 Este tipo de nota es más fácil de revisar que muchas fotos del monitor.
 
-## Anade el contexto de disparadores
+## Añade el contexto de disparadores
 
 Los síntomas de hipotensión ortostática pueden cambiar según el día, el lugar y lo que pasó antes.
 
@@ -155,7 +155,7 @@ No uses la nota para cambiar tratamiento por tu cuenta. Usala para hacer mejores
 
 ## Registra como fue la recuperación
 
-La recuperación es parte del patron.
+La recuperación es parte del patrón.
 
 Anota:
 
@@ -199,11 +199,11 @@ Las notas cortas y repetidas suelen ser más útiles que un registro perfecto.
 
 ## Qué preguntar a tu médico
 
-Lleva el patron, no un autodiagnostico.
+Lleva el patrón, no un autodiagnostico.
 
 Preguntas útiles:
 
-- "Estas lecturas parecen más hipotensión ortostática, POTS, sincope vasovagal, efectos de medicamentos, deshidratación u otro patron?"
+- "Estas lecturas parecen más hipotensión ortostática, POTS, sincope vasovagal, efectos de medicamentos, deshidratación u otro patrón?"
 - "Que posiciones y momentos debo seguir registrando?"
 - "Debo registrar síntomas después de comidas o por la mañana?"
 - "Hay lecturas o síntomas urgentes para mi?"
@@ -241,7 +241,7 @@ Registra postura, hora, presión arterial, pulso, síntomas, que estabas haciend
 
 ### ¿El seguimiento en casa puede diagnosticar hipotensión ortostática?
 
-No. Las notas en casa pueden ayudar a tu médico a ver un patron, pero el diagnóstico y las decisiones de tratamiento necesitan evaluación clínica.
+No. Las notas en casa pueden ayudar a tu médico a ver un patrón, pero el diagnóstico y las decisiones de tratamiento necesitan evaluación clínica.
 
 ### ¿Cuándo debo detener una prueba de pie en casa?
 
@@ -249,8 +249,8 @@ Detente si te sientes inseguro, te desmayas, aparecen síntomas intensos o tu m�
 
 ### ¿Debo cambiar medicamentos, sal o líquidos por lecturas en casa?
 
-No. No cambies el tratamiento solo por lecturas en casa. Lleva el patron a tu médico y pregunta qué cambios son adecuados para ti.
+No. No cambies el tratamiento solo por lecturas en casa. Lleva el patrón a tu médico y pregunta qué cambios son adecuados para ti.
 
 ### ¿La hipotensión ortostática es lo mismo que POTS?
 
-No. La hipotensión ortostática se centra en una bajada de presión arterial después de ponerse de pie. POTS se centra en un aumento excesivo del pulso sin hipotensión ortostática significativa. Un médico puede interpretar que patron encaja.
+No. La hipotensión ortostática se centra en una bajada de presión arterial después de ponerse de pie. POTS se centra en un aumento excesivo del pulso sin hipotensión ortostática significativa. Un médico puede interpretar que patrón encaja.

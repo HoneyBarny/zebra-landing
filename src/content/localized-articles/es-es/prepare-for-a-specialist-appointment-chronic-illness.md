@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "prepare-for-a-specialist-appointment-chronic-illness"
 title: "Como preparar una cita con un especialista cuando tienes una enfermedad crónica"
 status: "published"
-subtitle: "Preparar una cita con un especialista cuando tienes una enfermedad crónica suele consistir menos en llevar más información y más en llevar la información correcta en un formato que puedas usar de verdad. El objetivo es entrar sabiendo que cambio, que afecta a la vida diaria, que has probado y con que quieres ayuda."
-description: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de linea temporal."
-excerpt: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de linea temporal."
+subtitle: "Preparar una cita con un especialista cuando tienes una enfermedad crónica suele consistir menos en llevar más información y más en llevar la información correcta en un formato que puedas usar de verdad. El objetivo es entrar sabiendo que cambió, que afecta a la vida diaria, que has probado y con que quieres ayuda."
+description: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de línea temporal."
+excerpt: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de línea temporal."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,7 +15,7 @@ cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "como preparar cita especialista enfermedad crónica"
 seoTitle: "Como preparar una cita con especialista si tienes enfermedad crónica"
-metaDescription: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de linea temporal."
+metaDescription: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de línea temporal."
 ogTitle: "Como preparar una cita con un especialista"
 ogDescription: "Una checklist clara para preparar historial de síntomas, medicación y preguntas antes de ver a un especialista."
 heroImage: "/screenshots/appointment-preparation.png"
@@ -50,7 +50,7 @@ faq:
   - question: "¿Cómo preparo una cita con un especialista si tengo una enfermedad crónica?"
     answer: "Centrate en cambios recientes de síntomas, impacto funcional, cambios de medicación, mediciones relevantes y las preguntas principales que quieres responder."
   - question: "¿Cuánto historial debería llevar a una visita con especialista?"
-    answer: "Normalmente las ultimas 2 a 4 semanas son lo más útil, junto con cualquier cambio importante anterior que siga dando forma al problema actual."
+    answer: "Normalmente las últimas 2 a 4 semanas son lo más útil, junto con cualquier cambio importante anterior que siga dando forma al problema actual."
   - question: "¿Y si me bloqueo durante la cita?"
     answer: "Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estres dificulten hablar con claridad."
   - question: "¿Debería llevar todas las notas que he tomado?"
@@ -84,7 +84,7 @@ Tu resumen debería responder:
 
 Hazlo lo bastante corto para poder usarlo de verdad.
 
-### 2. Lleva una linea temporal, no solo notas aisladas
+### 2. Lleva una línea temporal, no solo notas aisladas
 
 Un especialista suele necesitar la secuencia:
 
@@ -124,14 +124,14 @@ Ejemplos:
 - una explicación más clara
 - la siguiente prueba
 - opciones de tratamiento
-- confirmacion de que vigilar
-- orientacion sobre que registrar antes de la proxima visita
+- confirmación de que vigilar
+- orientación sobre que registrar antes de la proxima visita
 
 Si no lo defines antes, es más fácil salir insatisfecha aunque la visita haya sido razonable.
 
 ## Qué hacer la semana antes
 
-- revisar las ultimas 2 a 4 semanas
+- revisar las últimas 2 a 4 semanas
 - extraer los cambios de síntomas más claros
 - anotar cambios funcionales
 - listar medicación y cambios de rutina
@@ -166,7 +166,7 @@ Ese historial puede apoyar después un informe listo para el médico y un resume
 ## Ideas clave
 
 - Preparar una cita con especialista funciona mejor cuando es corto, estructurado y reciente.
-- Lleva resumen de síntomas, linea temporal, lista de medicación y preguntas.
+- Lleva resumen de síntomas, línea temporal, lista de medicación y preguntas.
 - Decide que quieres de la cita antes de llegar.
 - La preparación adecuada reduce la presión del brain fog dentro de la consulta.
 
@@ -178,7 +178,7 @@ Centrate en cambios recientes de síntomas, impacto funcional, cambios de medica
 
 ### ¿Cuánto historial debería llevar a una visita con especialista?
 
-Normalmente las ultimas 2 a 4 semanas son lo más útil, junto con cualquier cambio importante anterior que siga dando forma al problema actual.
+Normalmente las últimas 2 a 4 semanas son lo más útil, junto con cualquier cambio importante anterior que siga dando forma al problema actual.
 
 ### ¿Y si me bloqueo durante la cita?
 

@@ -23,7 +23,7 @@ heroImage: "/screenshots/orthostatic-test-es.png"
 heroImageAlt: "Pantalla de prueba ortostática de Zebra con seguimiento de síntomas y constantes por posición."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas ortostáticos, constantes, medicación, hidratación, sal, notas y preguntas de cita en una linea temporal."
+ctaNote: "Usa Zebra para mantener síntomas ortostáticos, constantes, medicación, hidratación, sal, notas y preguntas de cita en una línea temporal."
 categories: 
   - "POTS"
   - "Dysautonomia"
@@ -63,7 +63,7 @@ faq:
   - question: "¿Qué debo registrar después de una prueba de mesa inclinada positiva?"
     answer: "Registra síntomas, contexto al estar de pie, tiempo de recuperación, medicación, hidratación, sal, impacto funcional y preguntas para la cita de seguimiento."
   - question: "¿Una prueba de mesa inclinada positiva siempre significa POTS?"
-    answer: "No. Un resultado positivo significa que tu cuerpo respondio de forma anormal durante la prueba, pero tu clínico interpreta el patron junto con tus síntomas, historia y otros datos."
+    answer: "No. Un resultado positivo significa que tu cuerpo respondio de forma anormal durante la prueba, pero tu clínico interpreta el patrón junto con tus síntomas, historia y otros datos."
   - question: "¿Debo seguir registrando frecuencia cardíaca y presión arterial después de la prueba?"
     answer: "Si tu clínico quiere observaciones en casa, registralas con posición, timing, síntomas y contexto. No cambies el tratamiento basandote solo en números."
   - question: "¿Qué síntomas son útiles de anotar?"
@@ -74,7 +74,7 @@ faq:
 
 Una prueba de [mesa inclinada](/knowledge/orthostatic-test/) positiva puede dejar más preguntas que respuestas. El siguiente paso útil es registrar síntomas, contexto al estar de pie, tiempo de recuperación, medicación, hidratación, sal e impacto en la vida diaria para que tu clínico entienda como se ve el resultado fuera del laboratorio.
 
-Esto importa porque la prueba es solo una parte de la historia. Cleveland Clinic explica que una prueba de mesa inclinada monitorea frecuencia cardíaca, presión arterial y síntomas mientras el cuerpo pasa de estar acostado a estar erguido. Un resultado positivo significa que el cuerpo respondio de forma anormal durante la prueba, pero el significado depende del patron y de tu historia médica.
+Esto importa porque la prueba es solo una parte de la historia. Cleveland Clinic explica que una prueba de mesa inclinada monitorea frecuencia cardíaca, presión arterial y síntomas mientras el cuerpo pasa de estar acostado a estar erguido. Un resultado positivo significa que el cuerpo respondio de forma anormal durante la prueba, pero el significado depende del patrón y de tu historia médica.
 
 El objetivo después de la prueba no es diagnosticarte. El objetivo es llevar notas más claras al seguimiento.
 
@@ -146,7 +146,7 @@ Notas útiles:
 
 El consenso de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que la historia clínica en sospecha de POTS debe considerar factores modificadores y posibles desencadenantes, incluidos deshidratación, calor, alcohol y ejercicio. Registrarlos como contexto puede hacer más precisa la cita de seguimiento.
 
-## Anade impacto funcional
+## Añade impacto funcional
 
 El impacto funcional suele ser la diferencia entre "me maree" y "esto cambio mi día".
 
@@ -160,14 +160,14 @@ Escribe ejemplos como:
 - no pude conducir
 - necesite horas de recuperación después de una salida corta
 
-Los clinicos no siempre pueden ver el coste de los síntomas si no llevas ejemplos de vida real.
+Los clínicos no siempre pueden ver el coste de los síntomas si no llevas ejemplos de vida real.
 
 ## Preguntas para la cita de seguimiento
 
 Después de una prueba de mesa inclinada positiva, puedes llevar preguntas como:
 
-- ¿Qué patron mostro la prueba?
-- ¿Esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patron de disautonomía o algo más?
+- ¿Qué patrón mostro la prueba?
+- ¿Esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patrón de disautonomía o algo más?
 - ¿Fueron importantes las lecturas de presión arterial en mi resultado?
 - ¿Qué síntomas deberían hacerme buscar atención urgente?
 - ¿Qué debo registrar antes de la proxima visita?
@@ -182,7 +182,7 @@ Si te preocupa olvidar preguntas en la consulta, escribelas en tu tracker de sí
 Lectura útil:
 
 - [Resumen de Cleveland Clinic sobre prueba de mesa inclinada](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test)
-- [MedlinePlus sobre pruebas autonomicas](https://medlineplus.gov/lab-tests/autonomic-testing/)
+- [MedlinePlus sobre pruebas autonómicas](https://medlineplus.gov/lab-tests/autonomic-testing/)
 - [Bateman Horne Center sobre NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
 - [Consenso de Heart Rhythm Society sobre POTS y sincope vasovagal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
 
@@ -208,7 +208,7 @@ Registra síntomas, contexto al estar de pie, tiempo de recuperación, medicaci�
 
 ### ¿Una prueba de mesa inclinada positiva siempre significa POTS?
 
-No. Un resultado positivo significa que tu cuerpo respondio de forma anormal durante la prueba, pero tu clínico interpreta el patron junto con tus síntomas, historia y otros datos.
+No. Un resultado positivo significa que tu cuerpo respondio de forma anormal durante la prueba, pero tu clínico interpreta el patrón junto con tus síntomas, historia y otros datos.
 
 ### ¿Debo seguir registrando frecuencia cardíaca y presión arterial después de la prueba?
 

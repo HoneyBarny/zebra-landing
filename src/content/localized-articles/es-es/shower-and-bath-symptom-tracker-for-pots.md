@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra para mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, frecuencia cardíaca, recuperación y preguntas para la consulta en una misma linea de tiempo."
+ctaNote: "Use Zebra para mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, frecuencia cardíaca, recuperación y preguntas para la consulta en una misma línea de tiempo."
 categories: 
   - "Registro de síntomas"
   - "Disautonomía"
@@ -77,11 +77,11 @@ faq:
 
 Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, nauseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
 
-Un registro de síntomas de ducha no diagnostica POTS, disautonomía, enfermedad por calor, efectos secundarios de medicación, ansiedad ni ninguna otra condición. Le ayuda a llevar un patron cotidiano más claro a su clínico: qué tipo de ducha o baño desencadenó síntomas, qué ocurrió, qué ayudó y cuánto duró la recuperación.
+Un registro de síntomas de ducha no diagnostica POTS, disautonomía, enfermedad por calor, efectos secundarios de medicación, ansiedad ni ninguna otra condición. Le ayuda a llevar un patrón cotidiano más claro a su clínico: qué tipo de ducha o baño desencadenó síntomas, qué ocurrió, qué ayudó y cuánto duró la recuperación.
 
 ## Empiece Con El Contexto De La Ducha
 
-No necesita un registro perfecto del baño. Empiece por los detalles que pueden explicar por que una ducha fue más fácil o más dificil que otra.
+No necesita un registro perfecto del baño. Empiece por los detalles que pueden explicar por que una ducha fue más fácil o más difícil que otra.
 
 Registre:
 
@@ -93,7 +93,7 @@ Registre:
 - si lavo el pelo
 - si tuvo los brazos por encima de la cabeza
 - hora del día
-- si habia comido
+- si había comido
 - contexto de hidratación y sal
 - horario de medicación
 - si ya estaba en un brote
@@ -106,10 +106,10 @@ Ese tipo de nota es más fácil de revisar que "las duchas son horribles."
 
 La ducha puede juntar varios desencadenantes.
 
-El patron puede incluir:
+El patrón puede incluir:
 
 - calor del agua
-- habitacion caliente o vapor
+- habitación caliente o vapor
 - estar quieto de pie
 - movimiento de brazos al lavar el pelo
 - agacharse, alcanzar o girar
@@ -143,9 +143,9 @@ Registre si noto:
 - niebla mental
 - fatiga
 
-Si un síntoma es nuevo, intenso, de un solo lado o diferente de su patron habitual, siga las indicaciones de su clínico sobre atención urgente.
+Si un síntoma es nuevo, intenso, de un solo lado o diferente de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
-## Anada Frecuencia Cardíaca O Presión Solo Si Es Seguro
+## Añada Frecuencia Cardíaca O Presión Solo Si Es Seguro
 
 Algunas personas ya registran frecuencia cardíaca o presión arterial como parte de su plan. Si es su caso, lo más útil es anotar posición y momento.
 
@@ -156,7 +156,7 @@ Notas posibles:
 - justo después de la ducha
 - después de sentarse o acostarse
 - después de enfriarse
-- cuando los síntomas volvieron a la linea base
+- cuando los síntomas volvieron a la línea base
 
 No intente tomar mediciones en un baño resbaladizo si no es seguro. Una nota sencilla como "senti el corazon acelerado después de 10 minutos de pie en ducha calida" también sirve.
 
@@ -171,7 +171,7 @@ Contexto útil:
 - sentarse o usar silla de ducha
 - lavar el pelo por separado
 - abrir la puerta o reducir el vapor
-- ventilador o ventilacion
+- ventilador o ventilación
 - beber líquidos antes o después
 - electrolitos
 - sal si su clínico la recomendo
@@ -180,7 +180,7 @@ Contexto útil:
 - acostarse después
 - cambiar la hora de la ducha
 
-No cambie líquidos, sal, medicación o compresión basandose solo en una app. Use el patron para hacer mejores preguntas médicas.
+No cambie líquidos, sal, medicación o compresión basandose solo en una app. Use el patrón para hacer mejores preguntas médicas.
 
 ## Registre Recuperación E Impacto Diario
 
@@ -199,27 +199,27 @@ Anote:
 
 ## Qué Resumir Antes De La Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitacion, resuma:
+Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitación, resuma:
 
 - con qué frecuencia la ducha desencadena síntomas
 - si los banos son distintos de las duchas
 - si el agua caliente es peor que la templada
-- si el tiempo de pie cambia el patron
+- si el tiempo de pie cambia el patrón
 - si lavar el pelo es un desencadenante separado
 - hidratación, sal, comidas y medicación
 - frecuencia cardíaca o presión si ya las mide
 - qué ayudó
 - tiempo de recuperación
 - impacto funcional
-- desmayos, dolor de pecho, falta de aire intensa, confusión, lesion o preocupacion por enfermedad por calor
+- desmayos, dolor de pecho, falta de aire intensa, confusión, lesión o preocupación por enfermedad por calor
 
 Preguntas útiles:
 
-- "Podrian el calor, estar de pie o la hidratación ser parte de este patron?"
+- "Podrían el calor, estar de pie o la hidratación ser parte de este patrón?"
 - "Debo registrar frecuencia cardíaca o presión alrededor de las duchas?"
-- "Que estrategias de ducha más seguras encajan con mi situacion?"
+- "Que estrategias de ducha más seguras encajan con mi situación?"
 - "Que síntomas deberían ser urgentes?"
-- "Podrian importar el horario de medicación, las comidas o la recuperación?"
+- "Podrían importar el horario de medicación, las comidas o la recuperación?"
 
 ## Contexto De Fuentes
 
@@ -232,9 +232,9 @@ Antecedentes útiles:
 
 ## Dónde Encaja Zebra
 
-Zebra ayuda a mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, medicación, recuperación y preguntas para la consulta en una misma linea de tiempo.
+Zebra ayuda a mantener síntomas de ducha, calor, tiempo de pie, hidratación, sal, medicación, recuperación y preguntas para la consulta en una misma línea de tiempo.
 
-No diagnostica intolerancia a la ducha ni condiciones autonomicas. Le ayuda a llevar a su clínico un patron de ducha más claro y listo para consulta.
+No diagnostica intolerancia a la ducha ni condiciones autonómicas. Le ayuda a llevar a su clínico un patrón de ducha más claro y listo para consulta.
 
 ## Puntos Clave
 

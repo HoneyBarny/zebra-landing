@@ -13,7 +13,7 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Comparison"
 category: "Comparison"
-primaryKeyword: "suivi symptomes vs app de notes"
+primaryKeyword: "suivi symptômes vs app de notes"
 seoTitle: "Suivi des symptômes vs notes vs tableur: lequel utiliser?"
 metaDescription: "Choisissez entre une app de notes, un tableur ou un outil de suivi des symptômes pour maladie chronique, poussees, médicaments et rendez-vous."
 ogTitle: "Suivi des symptômes vs app de notes vs tableur"
@@ -82,7 +82,7 @@ Elles sont souvent le point de depart le plus simple.
 
 Utilisez une app de notes quand la pensee est petite et immediate:
 
-- "demander pour les etourdissements après le dejeuner"
+- "demander pour les étourdissements après le dejeuner"
 - "nouvelle douleur a l'epaule commencee mardi"
 - "mentionner que le sommeil empire"
 
@@ -106,7 +106,7 @@ Utilisez un tableur quand vous voulez choisir chaque champ vous-meme:
 - declencheur
 - notes
 
-Le compromis est l'entretien. Les tableurs demandent généralement plus d'energie et plus de maintenance. Ils peuvent aussi devenir difficiles a utiliser les jours de brain fog ou pendant les poussees, surtout sur telephone.
+Le compromis est l'entretien. Les tableurs demandent généralement plus d'énergie et plus de maintenance. Ils peuvent aussi devenir difficiles a utiliser les jours de brain fog ou pendant les poussees, surtout sur telephone.
 
 ## Quand un outil de suivi des symptômes fonctionne le mieux
 
@@ -147,7 +147,7 @@ Un bon dossier de symptômes n'a pas besoin d'être parfait. Il doit être utili
 | Outil | Meilleur pour | Partie la plus difficile |
 | --- | --- | --- |
 | App de notes | Pensees rapides, questions, details ponctuels | Transformer des notes dispersees en tendance |
-| Tableur | Colonnes personnalisees et controle manuel | Le tenir a jour les jours de faible energie |
+| Tableur | Colonnes personnalisees et controle manuel | Le tenir a jour les jours de faible énergie |
 | Suivi des symptômes | Historique continu et préparation des rendez-vous | Choisir un outil adapte a votre condition et a votre facon de travailler |
 
 ## Choisissez selon le travail
@@ -158,7 +158,7 @@ Choisissez un tableur si vous aimez construire la structure vous-meme.
 
 Choisissez un outil de suivi des symptômes si le dossier doit relier poussees, symptômes, contexte des médicaments, impact fonctionnel et préparation médicale sans reconstruire toute l'histoire a la main.
 
-C'est surtout important pour le suivi des maladies chroniques parce que les symptômes ne sont pas toujours ordonnes. Une poussee peut inclure douleur, fatigue, etourdissements, brain fog, changements de médicaments, changements d'hydratation, chaleur, sommeil et fonctionnement quotidien manque. Si ces éléments vivent dans des endroits separes, la préparation du rendez-vous devient le travail.
+C'est surtout important pour le suivi des maladies chroniques parce que les symptômes ne sont pas toujours ordonnes. Une poussee peut inclure douleur, fatigue, étourdissements, brain fog, changements de médicaments, changements d'hydratation, chaleur, sommeil et fonctionnement quotidien manque. Si ces éléments vivent dans des endroits separes, la préparation du rendez-vous devient le travail.
 
 ## La place de Zebra
 
@@ -170,7 +170,7 @@ Il est concu pour les personnes qui veulent:
 - suivi spécifique pour les chevauchements POTS, EDS et fibromyalgie
 - un rapport pret pour le médecin comme resultat d'un historique organise
 
-Si votre système actuel fonctionne et que vous pouvez l'utiliser de facon fiable avant les rendez-vous, vous n'avez peut-etre pas besoin de le changer. Si votre système actuel est disperse, epuisant ou difficile a relire, c'est la qu'un outil dedie aide le plus.
+Si votre système actuel fonctionne et que vous pouvez l'utiliser de facon fiable avant les rendez-vous, vous n'avez peut-être pas besoin de le changer. Si votre système actuel est disperse, epuisant ou difficile a relire, c'est la qu'un outil dedie aide le plus.
 
 ## En bref
 

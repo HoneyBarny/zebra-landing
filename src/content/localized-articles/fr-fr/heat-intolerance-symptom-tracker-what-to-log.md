@@ -14,7 +14,7 @@ lastReviewed: "2026-08-09"
 featured: false
 cluster: "Dysautonomia"
 category: "Symptom Tracking"
-primaryKeyword: "tracker intolerance chaleur"
+primaryKeyword: "tracker intolérance chaleur"
 seoTitle: "Tracker intolérance a la chaleur pour POTS | Zebra"
 metaDescription: "Suivez intolérance a la chaleur avec temperature, douche, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration et recuperation."
 ogTitle: "Tracker intolérance a la chaleur pour POTS et dysautonomie"
@@ -114,7 +114,7 @@ Notez:
 - durée de recuperation
 - si les symptômes sont revenus ensuite
 
-Exemple: "Douche chaude 8:10, debout 12 minutes. A 8:25, coeur rapide, jambes faibles, vertige 7/10. Allonge, electrolytes, mieux a 9:15 mais fatigue jusqu'au dejeuner."
+Exemple: "Douche chaude 8:10, debout 12 minutes. A 8:25, coeur rapide, jambes faibles, vertige 7/10. Allonge, électrolytes, mieux a 9:15 mais fatigue jusqu'au dejeuner."
 
 C'est plus facile a revoir que "la chaleur m'a terrasse."
 
@@ -148,13 +148,13 @@ Les symptômes lies a la chaleur peuvent varier selon liquides, sel, médicament
 Contexte utile:
 
 - eau avant et pendant la chaleur
-- electrolytes
+- électrolytes
 - sel si votre médecin le recommande
 - repas sautes
 - caféine ou alcool
 - horaire des médicaments
 - dose oubliee ou changement récent
-- [vetements de compression](/fr-fr/knowledge/compression-garments/)
+- [vêtements de compression](/fr-fr/knowledge/compression-garments/)
 - gilet froid, ventilateur, brumisateur, poche de glace, ombre ou climatisation
 - heure de la journee
 
@@ -242,7 +242,7 @@ Lecture utile:
 - [Revue dysautonomie dans EDS et HSD sur PubMed](https://pubmed.ncbi.nlm.nih.gov/34766441/)
 - [NIH News in Health aperçu POTS](https://newsinhealth.nih.gov/2023/09/recognizing-pots)
 
-## Ou Zebra s'insere
+## Où Zebra s'insere
 
 Zebra aide a garder exposition a la chaleur, symptômes orthostatiques, hydratation, sel, médicaments, refroidissement, recuperation et questions pour le médecin dans une meme timeline.
 

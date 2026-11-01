@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "how-to-track-presyncope-and-dysautonomia-episodes"
 title: "Como registrar presincope y episodios raros de disautonomía"
 status: "published"
-subtitle: "El presincope puede ser dificil de explicar porque tal vez no llegas a desmayarte. Registra senales de aviso, postura, momento, desencadenantes, recuperación, signos vitales, medicamentos, hidratación e impacto diario para que tu médico vea el patron."
+subtitle: "El presincope puede ser difícil de explicar porque tal vez no llegas a desmayarte. Registra senales de aviso, postura, momento, desencadenantes, recuperación, signos vitales, medicamentos, hidratación e impacto diario para que tu médico vea el patrón."
 description: "Aprende como registrar presincope y episodios de disautonomía, incluyendo senales de aviso, postura, desencadenantes, recuperación, signos vitales y notas para la cita."
-excerpt: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía dificiles de describir."
+excerpt: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía difíciles de describir."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -18,12 +18,12 @@ primaryKeyword: "como registrar presincope"
 seoTitle: "Como registrar presincope y episodios de disautonomía | Zebra"
 metaDescription: "Registra presincope y episodios de disautonomía con senales de aviso, postura, desencadenantes, recuperación, signos vitales, medicamentos, hidratación y notas para el médico."
 ogTitle: "Como registrar presincope y episodios de disautonomía"
-ogDescription: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía dificiles de explicar."
+ogDescription: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía difíciles de explicar."
 heroImage: "/screenshots/orthostatic-test-es.png"
 heroImageAlt: "Pantalla de prueba ortostática de Zebra con seguimiento de síntomas y signos vitales por posición."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas de presincope, desencadenantes, signos vitales, hidratación, medicamentos y notas para citas en una sola linea de tiempo."
+ctaNote: "Usa Zebra para mantener síntomas de presincope, desencadenantes, signos vitales, hidratación, medicamentos y notas para citas en una sola línea de tiempo."
 categories: 
   - "Dysautonomia"
   - "POTS"
@@ -64,18 +64,18 @@ faq:
   - question: "¿Qué debo registrar durante un episodio de presincope?"
     answer: "Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si estan disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer."
   - question: "¿Debo registrar episodios que no terminan en desmayo?"
-    answer: "Si. Los casi desmayos también pueden mostrar un patron, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación."
+    answer: "Si. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación."
   - question: "¿Cuándo debo buscar ayuda médica por presincope?"
-    answer: "Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesion, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves."
+    answer: "Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El presincope es la sensación de "me voy a desmayar" que no siempre termina en [sincope](/es-es/knowledge/syncope/) completo. Puede ser breve, raro y dificil de describir después. A veces recuerdas más el miedo que los detalles.
+El presincope es la sensación de "me voy a desmayar" que no siempre termina en [sincope](/es-es/knowledge/syncope/) completo. Puede ser breve, raro y difícil de describir después. A veces recuerdas más el miedo que los detalles.
 
 Por eso ayuda registrar. Una nota corta poco después del episodio puede mostrar a tu médico qué pasó, en que posición estabas, qué pudo desencadenarlo, cuánto tardó la recuperación y cómo afectó tu día.
 
-Esto es especialmente útil cuando los síntomas se mezclan con [disautonomía](/es-es/knowledge/dysautonomia/), [POTS](/es-es/knowledge/pots/) o [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/). El objetivo no es autodiagnosticarte. El objetivo es llevar un patron más claro a la consulta.
+Esto es especialmente útil cuando los síntomas se mezclan con [disautonomía](/es-es/knowledge/dysautonomia/), [POTS](/es-es/knowledge/pots/) o [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/). El objetivo no es autodiagnosticarte. El objetivo es llevar un patrón más claro a la consulta.
 
 ## Empieza con las senales de aviso
 
@@ -85,7 +85,7 @@ Senales útiles:
 
 - mareo o aturdimiento
 - visión en tunel, puntos negros o visión borrosa
-- audicion apagada o zumbido
+- audición apagada o zumbido
 - nauseas
 - sudoración, rubor o calor repentino
 - temblor o debilidad
@@ -118,7 +118,7 @@ El presincope puede aparecer cuando varios factores se acumulan.
 
 Anota lo que aplicaba:
 
-- calor, ducha caliente o habitacion calida
+- calor, ducha caliente o habitación calida
 - estar quieto de pie en una fila
 - deshidratación o menos líquidos de lo normal
 - comida omitida
@@ -128,7 +128,7 @@ Anota lo que aplicaba:
 - día de brote
 - infección, periodo, migraña o pico de dolor
 - viaje, recados, escaleras o esfuerzo
-- inicio, suspension, cambio de dosis o dosis olvidada de medicación
+- inicio, suspensión, cambio de dosis o dosis olvidada de medicación
 - estres emocional o procedimiento médico
 
 No intentas probar una sola causa. Estas reuniendo contexto para comparar episodios repetidos.
@@ -146,7 +146,7 @@ Después del episodio, anota:
 - si la fatiga o el brain fog duro minutos, horas o el resto del día
 - si tuviste que cancelar trabajo, escuela, cuidados, conducir, cocinar o planes
 
-"Me recupere en 10 minutos" y "perdi el resto del día" son historias clinicas muy distintas.
+"Me recupere en 10 minutos" y "perdi el resto del día" son historias clínicas muy distintas.
 
 ## Agrega signos vitales solo cuando sea seguro y relevante
 
@@ -203,7 +203,7 @@ Información útil:
 
 Zebra te ayuda a mantener los casi desmayos en el mismo lugar que [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), notas de frecuencia cardíaca o presión arterial, hidratación, sal, medicamentos, desencadenantes e impacto funcional.
 
-No te dice por que ocurrio un episodio. Te ayuda a llevar una linea de tiempo más clara a la cita.
+No te dice por que ocurrió un episodio. Te ayuda a llevar una línea de tiempo más clara a la cita.
 
 ## Puntos clave
 
@@ -225,11 +225,11 @@ Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, t
 
 ### ¿Debo registrar episodios que no terminan en desmayo?
 
-Si. Los casi desmayos también pueden mostrar un patron, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación.
+Si. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación.
 
 ### ¿Cuándo debo buscar ayuda médica por presincope?
 
-Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesion, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves.
+Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves.
 
 ### ¿Zebra es consejo médico?
 

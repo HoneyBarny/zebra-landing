@@ -74,7 +74,7 @@ Cela rend plus difficile la relecture de l'ensemble plus tard.
 Gardez cela simple:
 
 - apport approximatif en liquides
-- soutien en sel ou electrolytes si pertinent pour votre routine
+- soutien en sel ou électrolytes si pertinent pour votre routine
 - sévérité de la poussee
 - principaux symptômes
 - impact fonctionnel

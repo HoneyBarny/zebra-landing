@@ -23,7 +23,7 @@ heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Pantalla de historial de insights de Zebra con patrones de síntomas y notas guardadas."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para guardar palpitaciones, frecuencia cardíaca, posición, desencadenantes, hidratación, medicamentos, recuperación y preguntas para el médico en una sola linea de tiempo."
+ctaNote: "Usa Zebra para guardar palpitaciones, frecuencia cardíaca, posición, desencadenantes, hidratación, medicamentos, recuperación y preguntas para el médico en una sola línea de tiempo."
 categories: 
   - "Symptom Tracking"
   - "Dysautonomia"
@@ -74,7 +74,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Las palpitaciones pueden sentirse como corazon acelerado, golpes fuertes, aleteo, latidos saltados o conciencia repentina del latido. Para personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), intolerancia ortostática, ansiedad superpuesta, cambios de medicamentos, preguntas de tiroides, Long COVID o brotes cronicos, lo dificil suele ser explicar el episodio después.
+Las palpitaciones pueden sentirse como corazon acelerado, golpes fuertes, aleteo, latidos saltados o conciencia repentina del latido. Para personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), intolerancia ortostática, ansiedad superpuesta, cambios de medicamentos, preguntas de tiroides, Long COVID o brotes cronicos, lo difícil suele ser explicar el episodio después.
 
 Un diario de palpitaciones no diagnostica arritmia, POTS, disautonomía ni enfermedad cardíaca. Ayuda a llevar una historia más clara al médico.
 
@@ -87,17 +87,17 @@ Registra:
 - hora de inicio
 - hora de fin o duración total
 - sensación: acelerado, golpes fuertes, aleteo, latidos saltados, irregular, fuerte
-- si empezo de golpe o gradualmente
+- si empezó de golpe o gradualmente
 - si termino de golpe o gradualmente
 - qué estabas haciendo al inicio
 - si estabas acostado, sentado, de pie, caminando, haciendo ejercicio, duchandote, comiendo o descansando
 - qué ayudó a calmarlo
 
-Ejemplo: "Empezo 14:15 estando de pie en la cocina. Corazon rápido y fuerte, FC 132 de pie, aturdimiento 6/10. Me sente, tome agua, mejoró a las 14:35."
+Ejemplo: "Empezó 14:15 estando de pie en la cocina. Corazon rápido y fuerte, FC 132 de pie, aturdimiento 6/10. Me sente, tome agua, mejoró a las 14:35."
 
 Eso da una secuencia, no solo "mi corazon estuvo raro."
 
-## Anade frecuencia cardíaca y posición si ya mides
+## Añade frecuencia cardíaca y posición si ya mides
 
 Si registrar frecuencia cardíaca es parte de tu cuidado, anota el número con la posición.
 
@@ -126,7 +126,7 @@ Registra si tuviste:
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
 - casi desmayo o [sincope](/es-es/knowledge/syncope/)
-- dolor, presión u opresion en el pecho
+- dolor, presión u opresión en el pecho
 - falta de aire
 - sudoración
 - nausea
@@ -138,11 +138,11 @@ Registra si tuviste:
 - fatiga inusual después
 - sensación de panico o subida de adrenalina
 
-Busca ayuda urgente con dolor o presión en el pecho, desmayo, falta de aire severa, mareo severo, confusión o ritmo rapido/irregular que no se resuelve pronto.
+Busca ayuda urgente con dolor o presión en el pecho, desmayo, falta de aire severa, mareo severo, confusión o ritmo rápido/irregular que no se resuelve pronto.
 
 ## Mantén cerca posibles desencadenantes
 
-Las palpitaciones pueden tener muchos contribuyentes. Un tracker funciona mejor cuando registra contexto sin saltar a conclusion.
+Las palpitaciones pueden tener muchos contribuyentes. Un tracker funciona mejor cuando registra contexto sin saltar a conclusión.
 
 Contexto posible:
 
@@ -158,16 +158,16 @@ Contexto posible:
 - nicotina
 - medicamento o suplemento nuevo
 - dosis olvidada
-- estres o emocion fuerte
+- estres o emoción fuerte
 - mal sueño
 - fiebre, infección o enfermedad
 - ciclo menstrual o cambio hormonal
 
-Escribe "posible desencadenante" en vez de "causa" salvo que el médico confirme la relacion.
+Escribe "posible desencadenante" en vez de "causa" salvo que el médico confirme la relación.
 
 ## Registra medicamentos y estimulantes
 
-Los medicos suelen preguntar que tomas y cuando, incluidos medicamentos recetados, de venta libre, suplementos, cafeina, nicotina y otros estimulantes.
+Los médicos suelen preguntar que tomas y cuando, incluidos medicamentos recetados, de venta libre, suplementos, cafeina, nicotina y otros estimulantes.
 
 Registra:
 
@@ -183,7 +183,7 @@ Registra:
 
 No suspendas ni ajustes medicamentos solo por un diario. Usa el registro para preguntas más seguras.
 
-## Anade hidratación, sal y recuperación
+## Añade hidratación, sal y recuperación
 
 En POTS y disautonomía, las palpitaciones suelen superponerse con [hidratación](/es-es/knowledge/hydration/), [sal](/es-es/knowledge/salt-loading/), postura y calor.
 
@@ -240,7 +240,7 @@ Preguntas útiles:
 - "Estos episodios necesitan ECG, Holter u otras pruebas?"
 - "Que síntomas deberían ser urgentes?"
 - "Debo registrar frecuencia cardíaca, presión arterial o posición durante episodios?"
-- "Podrian importar medicamentos, cafeina, hidratación, sal, calor o estar de pie?"
+- "Podrían importar medicamentos, cafeina, hidratación, sal, calor o estar de pie?"
 - "Cuantos episodios deberían motivar seguimiento?"
 
 ## Contexto de fuentes
@@ -256,7 +256,7 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a guardar palpitaciones, frecuencia cardíaca, posición, desencadenantes, hidratación, sal, medicamentos, recuperación, impacto funcional y preguntas para el médico en una sola linea de tiempo.
+Zebra ayuda a guardar palpitaciones, frecuencia cardíaca, posición, desencadenantes, hidratación, sal, medicamentos, recuperación, impacto funcional y preguntas para el médico en una sola línea de tiempo.
 
 No diagnostica palpitaciones ni problemas de ritmo cardiaco. Ayuda a llevar una historia de episodios más clara y lista para el médico.
 

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-mecfs-symptoms-without-triggering-pem"
 status: "published"
 title: "Comment suivre les symptômes d'EM/SFC sans declencher de PEM"
-subtitle: "Si vous avez une EM/SFC, la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre energie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort."
+subtitle: "Si vous avez une EM/SFC, la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre énergie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort."
 description: "Apprenez comment suivre les symptômes d'EM/SFC avec moins d'effort, afin de garder les tendances utiles sans créer plus de tension post-effort."
 excerpt: "Un guide a faible friction pour suivre les symptômes d'EM/SFC, les crashs retardes et le fonctionnement quotidien sans rendre le processus plus difficile a tenir."
 author: "zebra-editorial"
@@ -33,7 +33,7 @@ entities:
   - "Fatigue"
   - "Brain Fog"
 priority: 4
-primaryKeyword: "suivre symptomes EM/SFC sans declencher PEM"
+primaryKeyword: "suivre symptômes EM/SFC sans declencher PEM"
 secondaryKeywords:
   - "comment suivre symptômes em sfc"
   - "suivi symptômes pem"
@@ -60,14 +60,14 @@ faq:
   - question: "Que suivre quand le PEM est retarde?"
     answer: "Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, ce qui a change, combien de temps le crash a dure et quelles activités sont devenues plus difficiles."
   - question: "Est-ce acceptable de sauter le suivi les pires jours?"
-    answer: "Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplementaire. Reprenez avec la plus petite entree utile possible."
+    answer: "Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplementaire. Reprenez avec la plus petite entrée utile possible."
   - question: "Un rapport pret pour le médecin peut-il aider si mon suivi est incomplet?"
     answer: "Oui. Meme un dossier imparfait peut montrer les crashs recurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule."
 ---
 
-Si vous avez une [EM/SFC](/fr-fr/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre energie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort.
+Si vous avez une [EM/SFC](/fr-fr/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au depart: votre énergie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider a reperer les tendances sans transformer la saisie en une autre forme d'effort.
 
-C'est encore plus important quand le [PEM](/fr-fr/knowledge/pem/) fait partie du tableau. Si une routine de suivi coute trop d'energie, elle peut cesser d'être utile bien avant que le dossier devienne exploitable.
+C'est encore plus important quand le [PEM](/fr-fr/knowledge/pem/) fait partie du tableau. Si une routine de suivi coute trop d'énergie, elle peut cesser d'être utile bien avant que le dossier devienne exploitable.
 
 ## Le but n'est pas un suivi parfait
 
@@ -117,7 +117,7 @@ Si vous voulez la version minimum utile, suivez:
 - fatigue
 - [brain fog](/fr-fr/knowledge/brain-fog/)
 - douleur
-- etourdissements
+- étourdissements
 - perturbation du sommeil
 
 ### Ce qui a pu contribuer
@@ -165,7 +165,7 @@ Si votre aggravation a tendance a apparaitre plus tard, utilisez un lien simple 
 
 Suivez:
 
-- quelle etait l'activité
+- quelle était l'activité
 - quand vous l'avez faite
 - quand les symptômes se sont aggraves
 - a quoi ressemblait le crash
@@ -176,7 +176,7 @@ Cela donne un historique plus clair que d'essayer de reconstruire la chaine plus
 ## Ce qu'il vaut mieux éviter
 
 - ne vous forcez pas a tout noter
-- ne depensez pas plus d'energie dans le suivi que ce que le dossier vaut
+- ne depensez pas plus d'énergie dans le suivi que ce que le dossier vaut
 - ne traitez pas les jours manques comme un echec
 - ne separez pas symptômes, crashs et fonctionnement dans des systèmes completement differents
 
@@ -195,7 +195,7 @@ Si vous preparez des soins, [Que suivre avant un rendez-vous spécialiste](/fr-f
 
 ## La place de Zebra
 
-Zebra est concu pour garder le dossier utilisable les jours difficiles, pas seulement les bons jours. C'est important pour la [fatigue](/fr-fr/knowledge/fatigue/) et l'EM/SFC, car le processus aide seulement s'il reste possible a utiliser quand l'energie baisse.
+Zebra est concu pour garder le dossier utilisable les jours difficiles, pas seulement les bons jours. C'est important pour la [fatigue](/fr-fr/knowledge/fatigue/) et l'EM/SFC, car le processus aide seulement s'il reste possible a utiliser quand l'énergie baisse.
 
 ## Points clés
 
@@ -220,7 +220,7 @@ Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, 
 
 ### Est-ce acceptable de sauter le suivi les pires jours?
 
-Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplementaire. Reprenez avec la plus petite entree utile possible.
+Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplementaire. Reprenez avec la plus petite entrée utile possible.
 
 ### Un rapport pret pour le médecin peut-il aider si mon suivi est incomplet?
 
