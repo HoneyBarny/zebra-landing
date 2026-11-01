@@ -196,9 +196,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'eds',
     name: 'EDS',
-    summary: 'A condition hub for EDS-related overlap, symptom variability, daily-function limits, and visit preparation.',
+    summary: 'Ehlers-Danlos syndromes are 13 heritable connective tissue conditions, with joint hypermobility common across types. Zebra helps keep overlap symptoms in one timeline.',
     definition:
-      'EDS is a Zebra knowledge-hub condition page for people tracking complex overlap symptoms, fluctuating function, and chronic-illness appointment history.',
+      'The Ehlers-Danlos syndromes (EDS) are a group of 13 heritable connective tissue disorders, according to the Ehlers-Danlos Society and the 2017 international classification. Features seen across types include joint hypermobility, skin that stretches further than usual, and fragile tissue. A clinician makes the diagnosis. Zebra does not diagnose EDS. It helps you keep symptoms, flares and appointment notes in one timeline.',
     entityType: 'condition',
     clusters: ['eds', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'definitions',
@@ -208,9 +208,9 @@ export const knowledgeEntities: KnowledgeEntity[] = [
   {
     slug: 'heds',
     name: 'hEDS',
-    summary: 'A hypermobile EDS hub that supports overlap tracking, pain and function context, and clearer history before care visits.',
+    summary: 'Hypermobile EDS causes widespread joint hypermobility, joint instability and chronic pain. There is no laboratory test for it yet.',
     definition:
-      'hEDS is the hypermobile EDS knowledge page in Zebra’s entity graph. It supports overlap-oriented tracking and better context for specialist appointments.',
+      'Hypermobile Ehlers-Danlos syndrome (hEDS) is a heritable connective tissue disorder that causes generalized joint hypermobility, joint instability and chronic pain, according to the Ehlers-Danlos Society. Its cause has not been identified, and there is no laboratory test for it. A clinician diagnoses it against clinical criteria. Zebra helps you keep pain, joint symptoms, flares and appointment notes together.',
     entityType: 'condition',
     clusters: ['eds', 'symptom-tracking', 'appointment-preparation'],
     hubSection: 'overlap',
