@@ -54,7 +54,7 @@ faq:
     answer: "No. Rastrea los síntomas y el contexto que más probablemente importen para entender cambios y preparar citas."
   - question: "¿Qué hace útil un informe de síntomas?"
     answer: "Un momento claro, categorías de síntomas relevantes, impacto funcional, contexto de medicación y una estructura fácil de revisar."
-  - question: "¿Puede un rastreador de síntomas diagnosticar que esta mal?"
+  - question: "¿Puede un rastreador de síntomas diagnosticar que está mal?"
     answer: "No. Un rastreador de síntomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluación médica."
 ---
 
@@ -66,13 +66,13 @@ Muchas personas con enfermedad crónica ya rastrean algo. El problema es que el 
 
 Prueba lista para el médico no significa un diagnóstico. No significa un grafico que lo demuestre todo. Significa un registro organizado introducido por el paciente que te ayuda a comentar:
 
-- qué síntomas estan ocurriendo
+- qué síntomas están ocurriendo
 - qué cambió recientemente
 - qué afecta la vida diaria
 - qué se ha intentado
 - qué preguntas todavía necesitan respuesta
 
-El proposito es comunicación, no certeza.
+El propósito es comunicación, no certeza.
 
 ## El marco de Zebra: Rastrear -> Entender -> Preparar -> Compartir
 
@@ -139,9 +139,9 @@ Una prueba debil suele verse como:
 
 - notas dispersas sin línea de tiempo
 - nombres de síntomas sin contexto
-- ningun registro de qué cambió
-- ningun historial de medicación
-- ningun impacto funcional
+- ningún registro de qué cambió
+- ningún historial de medicación
+- ningún impacto funcional
 - preguntas recordadas demasiado tarde
 
 Eso no significa que el rastreo no sirviera. Significa que el registro nunca se organizo para el momento en que necesitaba usarse.
@@ -161,7 +161,7 @@ Es más fácil de revisar, más fácil de comentar y depende menos de una memori
 
 ## Dónde encaja Zebra
 
-Zebra esta construido alrededor de este flujo exacto. El punto no es solo registrar síntomas. El punto es mantener juntos historial de síntomas, brotes, función, medicación, hidratación y observaciones relacionadas para que después puedan convertirse en un informe listo para el médico.
+Zebra está construido alrededor de este flujo exacto. El punto no es solo registrar síntomas. El punto es mantener juntos historial de síntomas, brotes, función, medicación, hidratación y observaciones relacionadas para que después puedan convertirse en un informe listo para el médico.
 
 Este mismo enfoque es el centro de la página [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/), pensada para días de poca energía y niebla mental.
 
@@ -188,6 +188,6 @@ No. Rastrea los síntomas y el contexto que más probablemente importen para ent
 
 Un momento claro, categorías de síntomas relevantes, impacto funcional, contexto de medicación y una estructura fácil de revisar.
 
-### ¿Puede un rastreador de síntomas diagnosticar que esta mal?
+### ¿Puede un rastreador de síntomas diagnosticar que está mal?
 
 No. Un rastreador de síntomas puede ayudar a organizar el historial, pero no diagnostica condiciones ni reemplaza una evaluación médica.

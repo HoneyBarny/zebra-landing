@@ -67,7 +67,7 @@ faq:
   - question: "¿Cuántos ciclos debo registrar antes de una cita médica?"
     answer: "Varios recursos de salud menstrual sugieren registrar síntomas durante algunos ciclos cuando PMS o síntomas recurrentes del ciclo preocupan, pero tu médico puede recomendar otro plan."
   - question: "¿El seguimiento del ciclo puede explicar todos los brotes?"
-    answer: "No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambiar por sueño, enfermedad, estres, cambios de medicamentos, hidratación, actividad u otra condición."
+    answer: "No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambiar por sueño, enfermedad, estrés, cambios de medicamentos, hidratación, actividad u otra condición."
   - question: "¿Cuándo debo buscar atención médica por síntomas relacionados con el periodo?"
     answer: "Busca atención por sangrado abundante, dolor fuerte o nuevo, desmayo, falta de aire, dolor en el pecho, posible embarazo, síntomas que interrumpen la vida diaria o síntomas de animo graves como sentirte insegura o con ideas suicidas."
   - question: "¿Zebra es consejo médico?"
@@ -105,7 +105,7 @@ Categorías útiles:
 - fatiga: fatiga más pesada, sueño no reparador, necesidad de siestas
 - síntomas autonómicos: mareo, aturdimiento, palpitaciones, pulso rápido, sensación de desmayo
 - síntomas cognitivos: brain fog, dificultad para encontrar palabras, lagunas de memoria
-- síntomas GI: nauseas, diarrea, estrenimiento, hinchazon, colicos
+- síntomas GI: náuseas, diarrea, estrenimiento, hinchazón, colicos
 - sensibilidad sensorial: luz, ruido, tacto, calor
 - animo: irritabilidad, ansiedad, animo bajo, sentirse abrumada
 - sueño: insomnio, despertares, dormir más, despertar sin descanso
@@ -137,13 +137,13 @@ También anota:
 - hidratación y sal, si son relevantes para tu plan
 - actividad o sobreesfuerzo
 - viaje o cambio de rutina
-- estres
+- estrés
 - inicio, suspensión, dosis olvidada o cambio de medicamento
 - migraña
 - reacción tipo MCAS o síntomas alergicos
 - cita, procedimiento o vacuna reciente
 
-Escribir "periodo día 1, mal sueño, calor, mareo peor" da más contexto que "el periodo causo mareo."
+Escribir "periodo día 1, mal sueño, calor, mareo peor" da más contexto que "el periodo causó mareo."
 
 ## Añade impacto funcional
 
@@ -199,7 +199,7 @@ Usa esta nota rápida:
 1. Día del ciclo: antes del periodo, día 1, día 2, después del periodo, desconocido.
 2. Contexto del periodo: flujo, colicos, cambios de sangrado.
 3. Síntomas principales: 1 a 3 síntomas principales.
-4. Contexto cercano: sueño, calor, infección, actividad, estres, hidratación, medicamentos.
+4. Contexto cercano: sueño, calor, infección, actividad, estrés, hidratación, medicamentos.
 5. Impacto funcional: qué cambió hoy.
 6. Acción: descanso, medicación según indicación, contacto médico, pregunta para cita.
 
@@ -223,7 +223,7 @@ Preguntas útiles:
 - "Que síntomas son urgentes para mi?"
 - "Cuantos ciclos debo seguir registrando?"
 - "Debo registrar flujo, dolor, síntomas ortostáticos o horario de medicamentos de otra forma?"
-- "Algun tratamiento o derivación podría ayudar con este patrón?"
+- "Algún tratamiento o derivación podría ayudar con este patrón?"
 
 ## Contexto de fuentes
 
@@ -262,7 +262,7 @@ Varios recursos de salud menstrual sugieren registrar síntomas durante algunos 
 
 ### ¿El seguimiento del ciclo puede explicar todos los brotes?
 
-No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambiar por sueño, enfermedad, estres, cambios de medicamentos, hidratación, actividad u otra condición.
+No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambiar por sueño, enfermedad, estrés, cambios de medicamentos, hidratación, actividad u otra condición.
 
 ### ¿Cuándo debo buscar atención médica por síntomas relacionados con el periodo?
 

@@ -4,7 +4,7 @@ originalSlug: "symptom-tracker-for-doctor-appointments"
 title: "Tracker de síntomas para citas médicas"
 status: "published"
 subtitle: "Si necesitas un tracker de síntomas para citas médicas, la mejor opción es la que te ayuda a explicar que cambió, con que frecuencia ocurrió, que afectó a la vida diaria y que preguntas siguen abiertas. La idea no es recopilar datos perfectos. La idea es entrar en la visita con un registro que puedas usar de verdad."
-description: "Aprende que buscar en un tracker de síntomas para citas médicas y por que un historial estructurado funciona mejor que notas dispersas."
+description: "Aprende que buscar en un tracker de síntomas para citas médicas y por qué un historial estructurado funciona mejor que notas dispersas."
 excerpt: "Una guía práctica para elegir un tracker de síntomas que ayude antes de citas con especialistas y visitas de seguimiento."
 author: "zebra-editorial"
 publishedAt: "2026-07-24"
@@ -17,7 +17,7 @@ cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "tracker de síntomas para citas médicas"
 seoTitle: "Tracker de síntomas para citas médicas | Zebra"
-metaDescription: "Aprende que buscar en un tracker de síntomas para citas médicas y por que un historial estructurado funciona mejor que notas dispersas."
+metaDescription: "Aprende que buscar en un tracker de síntomas para citas médicas y por qué un historial estructurado funciona mejor que notas dispersas."
 ogTitle: "Tracker de síntomas para citas médicas"
 ogDescription: "Una guía práctica para elegir un tracker de síntomas que ayude antes de citas con especialistas y visitas de seguimiento."
 heroImage: "/screenshots/appointment-preparation.png"
@@ -78,7 +78,7 @@ Un tracker útil debería ayudarte a responder seis preguntas practicas:
 5. ¿Qué cambió en medicación, rutinas, hidratación o actividad?
 6. ¿Con qué quieres ayuda en la cita?
 
-Si una herramienta no te ayuda a responder esas preguntas rápido, puede capturar información, pero no esta haciendo todo el trabajo de preparar la cita.
+Si una herramienta no te ayuda a responder esas preguntas rápido, puede capturar información, pero no está haciendo todo el trabajo de preparar la cita.
 
 ## Qué buscar en un tracker de síntomas para citas médicas
 
@@ -118,7 +118,7 @@ Para visitas médicas, la mejor herramienta suele ayudarte a conservar:
 
 Eso significa que la estructura importa más que una personalización infinita. Una nota en blanco puede contenerlo todo, pero también te pide organizarlo todo cuando ya estas cansada.
 
-## Qué deberias registrar antes de la cita
+## Qué deberías registrar antes de la cita
 
 Centrate en las partes de tu historia que facilitan la conversación:
 
@@ -134,7 +134,7 @@ Si quieres una checklist más completa, [What to Track Before a Specialist Appoi
 
 ## Qué hace que Zebra encaje en las citas médicas
 
-Zebra esta creado alrededor de la versión de seguimiento pensada para preparar citas.
+Zebra está creado alrededor de la versión de seguimiento pensada para preparar citas.
 
 Mantiene:
 
@@ -154,7 +154,7 @@ Eso es especialmente útil para personas que registran POTS, disautonomía, EDS 
 Una configuración más debil para preparar citas suele tener uno de estos problemas:
 
 - los síntomas se registran sin momento
-- las notas estan dispersas entre apps
+- las notas están dispersas entre apps
 - el impacto funcional nunca se escribe
 - faltan cambios de medicación
 - los números se guardan sin contexto

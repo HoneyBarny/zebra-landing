@@ -5,7 +5,7 @@ title: "Registro de síntomas de POTS al estar en una fila: que anotar"
 status: "published"
 subtitle: "Las notas sobre estar de pie sin moverse son más útiles cuando tiempo erguido, movimiento, calor, hidratación, sal, comidas, compresión, frecuencia cardíaca, mareo, palpitaciones, acumulación de sangre, recuperación e impacto diario quedan conectados. El objetivo no es demostrar que cada fila es insegura. El objetivo es llevar patrones más claros de estar de pie durante mucho tiempo al clínico."
 description: "Aprenda que anotar cuando estar en una fila desencadena síntomas de POTS o disautonomía, incluyendo tiempo de pie, calor, líquidos, sal, frecuencia cardíaca, mareo, palpitaciones, acumulación de sangre, recuperación e impacto."
-excerpt: "Una guía práctica para registrar síntomas al estar en una fila, comprar, esperar, transporte, hidratación, sal, compresión, frecuencia cardíaca, mareo, palpitaciones, recuperación y resumenes para el médico."
+excerpt: "Una guía práctica para registrar síntomas al estar en una fila, comprar, esperar, transporte, hidratación, sal, compresión, frecuencia cardíaca, mareo, palpitaciones, recuperación y resúmenes para el médico."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -65,7 +65,7 @@ faq:
   - question: "¿Qué debo registrar si estar en una fila desencadena síntomas?"
     answer: "Registre cuanto tiempo estuvo erguido, si estaba quieto o moviendose, calor, aglomeración, líquidos, sal, comidas, compresión, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Puede estar de pie mucho tiempo empeorar síntomas de POTS?"
-    answer: "Si. Fuentes sobre POTS describen empeoramiento con estar de pie, estar de pie durante mucho tiempo, comprar, esperar, ambientes calidos y falta de líquidos o sal. Un clínico debe evaluar su patrón."
+    answer: "Sí. Fuentes sobre POTS describen empeoramiento con estar de pie, estar de pie durante mucho tiempo, comprar, esperar, ambientes calidos y falta de líquidos o sal. Un clínico debe evaluar su patrón."
   - question: "¿Debo registrar cada vez que estoy de pie?"
     answer: "No. Empiece con episodios que cambiaron su día: filas, compras, transporte, eventos, cocinar, citas o estar quieto suficiente tiempo como para causar síntomas."
   - question: "¿Puede un registro diagnosticar POTS?"
@@ -74,7 +74,7 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS o enfermedad crónica, estar quieto de pie puede ser más difícil que caminar. Una fila de caja, espera en farmacia, parada de bus, fila de concierto, control de seguridad, pasillo escolar, cocina o sala de espera puede traer mareo, corazon acelerado, nauseas, temblor, piernas pesadas, niebla mental, sudoración, acumulación de sangre o casi desmayo.
+Para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS o enfermedad crónica, estar quieto de pie puede ser más difícil que caminar. Una fila de caja, espera en farmacia, parada de bus, fila de concierto, control de seguridad, pasillo escolar, cocina o sala de espera puede traer mareo, corazon acelerado, náuseas, temblor, piernas pesadas, niebla mental, sudoración, acumulación de sangre o casi desmayo.
 
 Un registro de síntomas al estar en una fila no diagnostica POTS, disautonomía, presión baja, deshidratación, ansiedad ni ninguna otra condición. Le ayuda a llevar a su clínico un patrón más claro de estar de pie durante mucho tiempo: cuál era la situación, cuánto duró, qué síntomas aparecieron, qué ayudó y qué cambió en su día.
 
@@ -128,7 +128,7 @@ Registre si noto:
 - casi desmayo o [sincope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
-- nauseas
+- náuseas
 - temblor
 - sudoración
 - falta de aire
@@ -180,7 +180,7 @@ Ejemplos:
 - compresión
 - pedir un asiento
 - salir de la fila
-- usar entrega o recogida la proxima vez
+- usar entrega o recogida la próxima vez
 
 El punto no es juzgar la estrategia. El punto es aprender que hace la vida diaria más segura y realista.
 
@@ -192,7 +192,7 @@ Escriba:
 
 - cuánto duraron los síntomas
 - si volvió a su línea base
-- si fatiga, dolor de cabeza, nauseas o niebla mental persistieron
+- si fatiga, dolor de cabeza, náuseas o niebla mental persistieron
 - si después condujo, cocino, trabajo, estudio, se ducho o hizo ejercicio
 - si cancelo planes
 - si necesito ayuda

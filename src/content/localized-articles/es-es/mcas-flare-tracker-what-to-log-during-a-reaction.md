@@ -61,14 +61,14 @@ faq:
   - question: "¿El seguimiento puede diagnosticar MCAS?"
     answer: "No. El diagnóstico de MCAS requiere criterios clínicos e interpretación médica. El seguimiento puede organizar la historia de episodios para una visita médica."
   - question: "¿Debo tratar posibles disparadores como prueba?"
-    answer: "No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa."
+    answer: "No. Trata los posibles disparadores como contexto. Comida, calor, estrés, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa."
   - question: "¿Cuándo debo buscar atención de emergencia?"
-    answer: "Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia."
+    answer: "Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazón de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Un brote de [MCAS](/es-es/knowledge/mcas/) o una reacción tipo mastocitos puede ser difícil de explicar después porque el episodio puede involucrar más de un sistema del cuerpo a la vez: piel, intestino, respiración, pulso, presión arterial, mareo, hinchazon o una sensación repentina de "reacción alergica".
+Un brote de [MCAS](/es-es/knowledge/mcas/) o una reacción tipo mastocitos puede ser difícil de explicar después porque el episodio puede involucrar más de un sistema del cuerpo a la vez: piel, intestino, respiración, pulso, presión arterial, mareo, hinchazón o una sensación repentina de "reacción alergica".
 
 Una nota útil no intenta probar que causó el episodio. Guarda los detalles que tu médico puede necesitar: qué pasó, cuándo empezó, qué sistemas estuvieron involucrados, qué había cerca, que tomaste, si los síntomas mejoraron y si el episodio afecto la seguridad o la vida diaria.
 
@@ -81,7 +81,7 @@ Si tienes síntomas de anafilaxia o una reacción grave, sigue tu plan de emerge
 No sigas registrando en vez de pedir ayuda ante:
 
 - dificultad para respirar
-- hinchazon de garganta, lengua, labios o cara
+- hinchazón de garganta, lengua, labios o cara
 - sibilancias o estridor
 - desmayo
 - aturdimiento intenso o síntomas de presión arterial baja
@@ -97,8 +97,8 @@ Las conversaciones sobre MCAS suelen centrarse en episodios que involucran más 
 
 Registra síntomas por grupo:
 
-- piel: enrojecimiento, picor, urticaria, sarpullido, hinchazon
-- intestino: dolor abdominal, colicos, diarrea, nauseas, vomitos, reflujo
+- piel: enrojecimiento, picor, urticaria, sarpullido, hinchazón
+- intestino: dolor abdominal, colicos, diarrea, náuseas, vomitos, reflujo
 - respiración: sibilancias, tos, falta de aire, opresión en garganta, nariz tapada
 - cardiovascular: pulso rápido, palpitaciones, síntomas de presión baja, desmayo
 - neurologico o general: mareo, aturdimiento, dolor de cabeza, debilidad repentina, brain fog, fatiga
@@ -126,7 +126,7 @@ Ejemplo:
 | --- | --- |
 | 12:20 | Comi almuerzo |
 | 12:45 | Empezó enrojecimiento facial y picor |
-| 12:55 | Nauseas y colicos, 6/10 |
+| 12:55 | Náuseas y colicos, 6/10 |
 | 1:05 | Tome medicación de rescate aprobada por mi médico |
 | 1:40 | Los síntomas bajan |
 | 3:00 | Aun cansado, cancele recados |
@@ -135,7 +135,7 @@ Esa secuencia es más fácil de revisar que "mala reacción después de comer."
 
 ## Registra posibles disparadores como contexto
 
-Los posibles disparadores pueden ser útiles, pero no son prueba por si solos. Una comida, olor, cambio de temperatura, medicamento, infección o estres cercano puede importar o puede ser coincidencia.
+Los posibles disparadores pueden ser útiles, pero no son prueba por si solos. Una comida, olor, cambio de temperatura, medicamento, infección o estrés cercano puede importar o puede ser coincidencia.
 
 Contexto útil:
 
@@ -144,8 +144,8 @@ Contexto útil:
 - calor, frio, ducha o cambio brusco de temperatura
 - fragancia, humo, productos de limpieza u olores quimicos
 - polen, mascotas, moho o exposición ambiental
-- ejercicio o estres físico
-- estres emocional
+- ejercicio o estrés físico
+- estrés emocional
 - infección o enfermedad
 - mal sueño
 - contexto menstrual, si aplica
@@ -165,7 +165,7 @@ Para cada episodio, registra:
 - si usaste medicación de emergencia
 - si contactaste a un médico, urgencias o emergencias
 
-No uses un rastreador para decidir cambios de medicación por tu cuenta. Usalo para mantener clara la secuencia para quien maneja tu atención.
+No uses un rastreador para decidir cambios de medicación por tu cuenta. Úsalo para mantener clara la secuencia para quien maneja tu atención.
 
 ## Añade recuperación e impacto funcional
 
@@ -188,7 +188,7 @@ Usa esta estructura:
 1. Hora: cuando empezó y cuánto duró.
 2. Sistemas: piel, intestino, respiración, cardiovascular, neurologico, general.
 3. Síntomas: síntomas más fuertes y gravedad.
-4. Posible contexto: comida, calor, fragancia, enfermedad, estres, medicamentos, actividad.
+4. Posible contexto: comida, calor, fragancia, enfermedad, estrés, medicamentos, actividad.
 5. Acciones: medicación, plan de emergencia, contacto médico, descanso.
 6. Recuperación: tiempo hasta mejorar y síntomas persistentes.
 7. Impacto: que te impidió hacer el episodio.
@@ -202,7 +202,7 @@ Antes de una visita, resume:
 
 - con qué frecuencia pasan los episodios
 - grupos de síntomas más comunes
-- episodios con respiración, hinchazon, desmayo o acciones de emergencia
+- episodios con respiración, hinchazón, desmayo o acciones de emergencia
 - posibles contextos repetidos que quieres comentar
 - notas de respuesta a medicación o tratamiento
 - tiempo de recuperación e impacto funcional
@@ -214,7 +214,7 @@ Buenas preguntas:
 - "Que síntomas debo tratar como urgentes en mi caso?"
 - "Que debo registrar durante el proximo episodio?"
 - "Hay medicamentos o exposiciones que revisar?"
-- "Algun laboratorio debe tomarse cerca de episodios agudos?"
+- "Algún laboratorio debe tomarse cerca de episodios agudos?"
 
 ## Contexto de fuentes
 
@@ -251,11 +251,11 @@ No. El diagnóstico de MCAS requiere criterios clínicos e interpretación médi
 
 ### ¿Debo tratar posibles disparadores como prueba?
 
-No. Trata los posibles disparadores como contexto. Comida, calor, estres, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa.
+No. Trata los posibles disparadores como contexto. Comida, calor, estrés, fragancias, infección, cambios de medicamentos o esfuerzo cerca de un episodio pueden ser útiles para conversar sin probar causa.
 
 ### ¿Cuándo debo buscar atención de emergencia?
 
-Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazon de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia.
+Busca ayuda de emergencia ante síntomas de anafilaxia o reacciones graves, como dificultad para respirar, hinchazón de garganta, desmayo, síntomas fuertes de presión baja o si tu médico te indico usar medicación de emergencia.
 
 ### ¿Zebra es consejo médico?
 

@@ -3,8 +3,8 @@ locale: "fr-fr"
 originalSlug: "pots-vs-orthostatic-tachycardia-what-changes-matter"
 status: "published"
 title: "POTS vs tachycardie orthostatique: quels changements comptent?"
-subtitle: "POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d’explication. La tachycardie orthostatique decrit un profil de fréquence cardiaque lie a la posture. POTS est un syndrome clinique plus large qui inclut souvent des symptômes comme les étourdissements, les palpitations, la fatigue et l’intolérance a la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n’est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait a la vie quotidienne."
-description: "Comprendre la différence entre POTS et tachycardie orthostatique, et quels symptômes, constantes et changements du quotidien sont les plus utiles a suivre."
+subtitle: "POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d’explication. La tachycardie orthostatique décrit un profil de fréquence cardiaque lie à la posture. POTS est un syndrome clinique plus large qui inclut souvent des symptômes comme les étourdissements, les palpitations, la fatigue et l’intolérance à la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n’est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait à la vie quotidienne."
+description: "Comprendre la différence entre POTS et tachycardie orthostatique, et quels symptômes, constantes et changements du quotidien sont les plus utiles à suivre."
 excerpt: "Une comparaison pratique de POTS et de la tachycardie orthostatique, avec ce qu’il faut suivre pour obtenir un historique plus clair pret pour le médecin."
 author: "zebra-editorial"
 publishedAt: "2026-07-15"
@@ -40,34 +40,34 @@ secondaryKeywords:
   - "suivre symptômes de tachycardie orthostatique"
   - "suivi palpitations pots"
 seoTitle: "POTS vs tachycardie orthostatique: quels changements comptent? | Zebra"
-metaDescription: "Comprendre la différence entre POTS et tachycardie orthostatique, y compris quels symptômes, changements de posture et profils de fonctionnement quotidien sont les plus utiles a suivre."
+metaDescription: "Comprendre la différence entre POTS et tachycardie orthostatique, y compris quels symptômes, changements de posture et profils de fonctionnement quotidien sont les plus utiles à suivre."
 ogTitle: "POTS vs tachycardie orthostatique"
-ogDescription: "Une comparaison claire entre un profil de fréquence cardiaque lie a la posture et le tableau plus large de symptômes qui peut compter dans les soins."
+ogDescription: "Une comparaison claire entre un profil de fréquence cardiaque lie à la posture et le tableau plus large de symptômes qui peut compter dans les soins."
 heroImage: "/screenshots/pattern-comparison.png"
-heroImageAlt: "Vue comparative montrant les changements de fréquence cardiaque lies a la posture, les symptômes et les profils de fonctionnement quotidien dans Zebra."
+heroImageAlt: "Vue comparative montrant les changements de fréquence cardiaque lies à la posture, les symptômes et les profils de fonctionnement quotidien dans Zebra."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes, changements lies a la posture et fonctionnement quotidien dans un historique pret pour le médecin."
+ctaNote: "Utilisez Zebra pour garder symptômes, changements lies à la posture et fonctionnement quotidien dans un historique pret pour le médecin."
 schemaTypes:
   - "Article"
   - "ItemList"
   - "FAQPage"
 faq:
   - question: "Quelle est la différence entre POTS et tachycardie orthostatique?"
-    answer: "La tachycardie orthostatique decrit un profil de fréquence cardiaque qui apparaît en position verticale. POTS est un syndrome clinique plus large qui peut inclure la tachycardie orthostatique ainsi que des symptômes comme les étourdissements, palpitations, fatigue et intolérance a la position debout."
+    answer: "La tachycardie orthostatique décrit un profil de fréquence cardiaque qui apparaît en position verticale. POTS est un syndrome clinique plus large qui peut inclure la tachycardie orthostatique ainsi que des symptômes comme les étourdissements, palpitations, fatigue et intolérance à la position debout."
   - question: "La tachycardie orthostatique signifie-t-elle automatiquement POTS?"
-    answer: "Non. Un changement de fréquence cardiaque lie a la posture peut faire partie du tableau, mais le diagnostic dépend d’une évaluation clinique et du contexte plus large des symptômes."
+    answer: "Non. Un changement de fréquence cardiaque lie à la posture peut faire partie du tableau, mais le diagnostic dépend d’une évaluation clinique et du contexte plus large des symptômes."
   - question: "Que faut-il suivre si ma fréquence cardiaque monte quand je me leve?"
-    answer: "Suivez la posture, les symptômes, le moment, l’impact sur le fonctionnement quotidien et toute observation pertinente de fréquence cardiaque ou de tension arterielle dans le meme dossier."
-  - question: "Faut-il suivre les palpitations separement des étourdissements et de la fatigue?"
-    answer: "Il est souvent utile de les garder ensemble pour que le profil soit plus facile a relire, surtout si elles ont tendance a se produire en meme temps."
+    answer: "Suivez la posture, les symptômes, le moment, l’impact sur le fonctionnement quotidien et toute observation pertinente de fréquence cardiaque ou de tension artérielle dans le meme dossier."
+  - question: "Faut-il suivre les palpitations séparément des étourdissements et de la fatigue?"
+    answer: "Il est souvent utile de les garder ensemble pour que le profil soit plus facile à relire, surtout si elles ont tendance a se produire en meme temps."
   - question: "Un rapport pret pour le médecin peut-il aider avec les symptômes orthostatiques?"
-    answer: "Un rapport concis peut aider a relire les profils recurrents, les groupes de symptômes et les questions que vous voulez apporter aux soins."
+    answer: "Un rapport concis peut aider à relire les profils récurrents, les groupes de symptômes et les questions que vous voulez apporter aux soins."
 ---
 
-POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d’explication. La tachycardie orthostatique decrit un profil de fréquence cardiaque lie a la posture. [POTS](/fr-fr/knowledge/pots/) est un syndrome clinique plus large qui inclut souvent des symptômes comme les étourdissements, [palpitations](/fr-fr/knowledge/palpitations/), fatigue et intolérance a la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n’est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait a la vie quotidienne.
+POTS et la tachycardie orthostatique sont lies, mais ils ne sont pas le meme niveau d’explication. La tachycardie orthostatique décrit un profil de fréquence cardiaque lie à la posture. [POTS](/fr-fr/knowledge/pots/) est un syndrome clinique plus large qui inclut souvent des symptômes comme les étourdissements, [palpitations](/fr-fr/knowledge/palpitations/), fatigue et intolérance à la position debout. Si vous suivez ces éléments pour vos soins, la question la plus utile n’est pas seulement de savoir si votre fréquence cardiaque monte. C est ce qui change avec la posture, quels symptômes apparaissent avec cela et ce que ce profil fait à la vie quotidienne.
 
-Pour le suivi des symptômes, cette différence compte parce que les chiffres seuls suffisent rarement. Un historique plus clair combine souvent symptômes, contexte lie a la posture et changements de fonctionnement dans un seul dossier.
+Pour le suivi des symptômes, cette différence compte parce que les chiffres seuls suffisent rarement. Un historique plus clair combine souvent symptômes, contexte lie à la posture et changements de fonctionnement dans un seul dossier.
 
 ## La réponse courte
 
@@ -78,7 +78,7 @@ Voici la distinction pratique:
 
 Cela signifie que vous pouvez suivre la tachycardie orthostatique comme une partie de votre historique sans supposer que tout le tableau est explique.
 
-## Ce que decrit la tachycardie orthostatique
+## Ce que décrit la tachycardie orthostatique
 
 La tachycardie orthostatique signifie généralement que votre fréquence cardiaque augmente de maniere notable lorsque vous passez en position verticale.
 
@@ -89,10 +89,10 @@ Que se passe-t-il lorsque vous vous allongez, vous asseyez, vous mettez debout o
 Cela peut inclure:
 
 - changement de fréquence cardiaque
-- étourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête légère
 - tremblements
 - palpitations
-- nausees
+- nausées
 - faiblesse
 - brain fog
 
@@ -100,29 +100,29 @@ C est pourquoi un historique symptômes-et-posture est souvent plus utile qu’u
 
 ## Ce que POTS ajoute au tableau
 
-POTS n’est généralement pas seulement un chiffre. C est l’experience plus large de symptômes en position verticale, de repetition du profil et de leur impact sur la journee.
+POTS n’est généralement pas seulement un chiffre. C est l’experience plus large de symptômes en position verticale, de repetition du profil et de leur impact sur la journée.
 
 Cela inclut souvent:
 
-- étourdissements ou sensation de tête legere
+- étourdissements ou sensation de tête légère
 - fatigue
 - palpitations
 - [tachycardie](/fr-fr/knowledge/tachycardia/)
 - brain fog
-- intolérance a l’effort
-- sensibilité a la chaleur
-- recuperation plus difficile après être reste debout
+- intolérance à l’effort
+- sensibilité à la chaleur
+- récupération plus difficile après être reste debout
 
-Dysautonomia International decrit POTS comme un syndrome impliquant une intolérance orthostatique et des symptômes pouvant inclure sensation de tête legere, fatigue, palpitations et intolérance a l’effort. Voir [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30).
+Dysautonomia International décrit POTS comme un syndrome impliquant une intolérance orthostatique et des symptômes pouvant inclure sensation de tête légère, fatigue, palpitations et intolérance à l’effort. Voir [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30).
 
-## Côté a côté: quels changements comptent?
+## Côté à côté: quels changements comptent?
 
 | Question | Tachycardie orthostatique | POTS |
 | --- | --- | --- |
-| Ce que cela decrit | Un profil de fréquence cardiaque lie a la posture | Un syndrome plus large qui peut inclure tachycardie orthostatique et symptômes |
-| Ce qu’il faut suivre | Posture, moment, symptômes, changements de fréquence cardiaque | Posture, symptômes, poussees, fonctionnement, contexte et mesures pertinentes |
+| Ce que cela décrit | Un profil de fréquence cardiaque lie à la posture | Un syndrome plus large qui peut inclure tachycardie orthostatique et symptômes |
+| Ce qu’il faut suivre | Posture, moment, symptômes, changements de fréquence cardiaque | Posture, symptômes, poussées, fonctionnement, contexte et mesures pertinentes |
 | Ce qui manque si vous ne suivez que le chiffre | Charge symptomatique et impact sur la vie quotidienne | Le profil peut sembler incomplet sans tout le contexte |
-| Meilleur usage du suivi | Montrer ce qui se passe en position verticale | Montrer le profil complet a discuter dans les soins |
+| Meilleur usage du suivi | Montrer ce qui se passe en position verticale | Montrer le profil complet à discuter dans les soins |
 
 ## Que suivre pour rendre le profil clair
 
@@ -131,9 +131,9 @@ Le dossier le plus utile combine souvent:
 - posture
 - symptômes
 - moment
-- intensite
+- intensité
 - impact fonctionnel
-- fréquence cardiaque ou tension arterielle si pertinent
+- fréquence cardiaque ou tension artérielle si pertinent
 
 C est la meme raison pour laquelle [Comment suivre les symptômes de POTS et les changements orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) fonctionne mieux qu’un journal uniquement centre sur les constantes.
 
@@ -143,12 +143,12 @@ Si la question plus large est ce qu’ajoute votre test structure, [Que permet d
 
 - ne traitez pas une fréquence cardiaque qui monte comme toute l’histoire
 - ne separez pas les symptômes des notes de posture s’ils arrivent ensemble
-- ne supposez pas que le suivi a domicile remplace l’évaluation clinique
-- ne collectez pas tellement de chiffres que le dossier devient plus difficile a relire
+- ne supposez pas que le suivi à domicile remplace l’évaluation clinique
+- ne collectez pas tellement de chiffres que le dossier devient plus difficile à relire
 
 Le but n’est pas l’autodiagnostic. Le but est de conserver un contexte utile.
 
-## Une meilleure facon d’organiser l’historique
+## Une meilleure façon d’organiser l’historique
 
 Si vous voulez une structure simple, suivez:
 
@@ -169,9 +169,9 @@ Si vous voulez une structure simple, suivez:
 ### Ce qui a change
 
 - fréquence cardiaque si prise
-- intensite
+- intensité
 - durée
-- temps de recuperation
+- temps de récupération
 
 ### Ce que cela a affecte
 
@@ -181,37 +181,37 @@ Si vous voulez une structure simple, suivez:
 - courses
 - concentration
 
-Cela donne un dossier beaucoup plus facile a relire avant une visite ou a inclure dans un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/).
+Cela donne un dossier beaucoup plus facile à relire avant une visite ou à inclure dans un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/).
 
 ## Où Zebra s’intègre
 
-Zebra est concu pour combler l’espace entre "j’ai remarque quelque chose d’important" et "je peux expliquer clairement le profil plus tard". C est particulierement utile lorsque les symptômes d [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), la [tachycardie](/fr-fr/knowledge/tachycardia/) et les changements de fonctionnement quotidien doivent rester connectes.
+Zebra est conçu pour combler l’espace entre "j’ai remarque quelque chose d’important" et "je peux expliquer clairement le profil plus tard". C est particulierement utile lorsque les symptômes d [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), la [tachycardie](/fr-fr/knowledge/tachycardia/) et les changements de fonctionnement quotidien doivent rester connectes.
 
 ## Points clés
 
-- La tachycardie orthostatique decrit un profil. POTS decrit un syndrome plus large.
+- La tachycardie orthostatique décrit un profil. POTS décrit un syndrome plus large.
 - Le dossier le plus utile combine symptômes, posture et contexte de fonctionnement quotidien.
-- Un chiffre sans contexte est plus difficile a utiliser dans les soins.
+- Un chiffre sans contexte est plus difficile à utiliser dans les soins.
 - Un historique relisible est souvent meilleur que des notes separees de constantes et de symptômes.
 
 ## FAQ
 
 ### Quelle est la différence entre POTS et tachycardie orthostatique?
 
-La tachycardie orthostatique decrit un profil de fréquence cardiaque qui apparaît en position verticale. POTS est un syndrome clinique plus large qui peut inclure la tachycardie orthostatique ainsi que des symptômes comme les étourdissements, palpitations, fatigue et intolérance a la position debout.
+La tachycardie orthostatique décrit un profil de fréquence cardiaque qui apparaît en position verticale. POTS est un syndrome clinique plus large qui peut inclure la tachycardie orthostatique ainsi que des symptômes comme les étourdissements, palpitations, fatigue et intolérance à la position debout.
 
 ### La tachycardie orthostatique signifie-t-elle automatiquement POTS?
 
-Non. Un changement de fréquence cardiaque lie a la posture peut faire partie du tableau, mais le diagnostic dépend d’une évaluation clinique et du contexte plus large des symptômes.
+Non. Un changement de fréquence cardiaque lie à la posture peut faire partie du tableau, mais le diagnostic dépend d’une évaluation clinique et du contexte plus large des symptômes.
 
 ### Que faut-il suivre si ma fréquence cardiaque monte quand je me leve?
 
-Suivez la posture, les symptômes, le moment, l’impact sur le fonctionnement quotidien et toute observation pertinente de fréquence cardiaque ou de tension arterielle dans le meme dossier.
+Suivez la posture, les symptômes, le moment, l’impact sur le fonctionnement quotidien et toute observation pertinente de fréquence cardiaque ou de tension artérielle dans le meme dossier.
 
-### Faut-il suivre les palpitations separement des étourdissements et de la fatigue?
+### Faut-il suivre les palpitations séparément des étourdissements et de la fatigue?
 
-Il est souvent utile de les garder ensemble pour que le profil soit plus facile a relire, surtout si elles ont tendance a se produire en meme temps.
+Il est souvent utile de les garder ensemble pour que le profil soit plus facile à relire, surtout si elles ont tendance a se produire en meme temps.
 
 ### Un rapport pret pour le médecin peut-il aider avec les symptômes orthostatiques?
 
-Un rapport concis peut aider a relire les profils recurrents, les groupes de symptômes et les questions que vous voulez apporter aux soins.
+Un rapport concis peut aider à relire les profils récurrents, les groupes de symptômes et les questions que vous voulez apporter aux soins.

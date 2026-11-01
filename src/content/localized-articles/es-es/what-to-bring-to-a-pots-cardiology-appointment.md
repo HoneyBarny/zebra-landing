@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-to-bring-to-a-pots-cardiology-appointment"
 status: "published"
 title: "Que llevar a una cita de cardiología por POTS"
-subtitle: "Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardióloga o cardiólogo a entender que ocurre cuando estas de pie, que ha cambiado recientemente y que esta afectando a tu vida diaria."
+subtitle: "Para una cita de cardiología por POTS, lo más útil suele ser llevar un resumen breve de síntomas, una lista de medicamentos y suplementos, observaciones relevantes de frecuencia cardíaca o presión arterial en casa, y una lista clara de preguntas. No necesitas una carpeta perfecta. Necesitas la información que ayude a tu cardióloga o cardiólogo a entender que ocurre cuando estas de pie, que ha cambiado recientemente y que está afectando a tu vida diaria."
 description: "Una lista práctica para una cita de cardiología por POTS, con síntomas, observaciones ortostáticas, medicamentos, sal, hidratación y preguntas."
 excerpt: "Una lista práctica para una cita de cardiología por POTS, con síntomas, observaciones ortostáticas, medicamentos, sal, hidratación y preguntas."
 author: "zebra-editorial"
@@ -123,7 +123,7 @@ lleva una nota breve sobre esos patrones. No necesitas certeza. Necesitas contex
 
 Algunas buenas preguntas son:
 
-- ¿Qué debería seguir registrando antes de la proxima visita?
+- ¿Qué debería seguir registrando antes de la próxima visita?
 - ¿Qué síntomas o mediciones son más importantes para usted?
 - ¿Hay pruebas o proximos pasos que debería entender mejor?
 - ¿Cómo debería manejar el empeoramiento de síntomas al estar de pie entre visitas?
@@ -152,7 +152,7 @@ Esto suele bastar para una conversación mucho mejor.
 
 ## Dónde encaja Zebra
 
-Zebra esta creado justo para este flujo. Ayuda a mantener síntomas, brotes, hidratación, sal, medicamentos y observaciones ortostáticas en un solo registro para que puedas revisarlo antes de la cita, en vez de reconstruir la historia desde la memoria.
+Zebra está creado justo para este flujo. Ayuda a mantener síntomas, brotes, hidratación, sal, medicamentos y observaciones ortostáticas en un solo registro para que puedas revisarlo antes de la cita, en vez de reconstruir la historia desde la memoria.
 
 Esto es especialmente útil para personas que manejan POTS junto con EDS, fibromialgia u otros síntomas superpuestos que se dispersan facilmente entre distintas herramientas.
 

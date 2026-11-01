@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "morning-pots-symptom-tracker-what-to-log"
 title: "Registro de síntomas matutinos de POTS: que anotar al despertar"
 status: "published"
-subtitle: "Las notas matutinas son más útiles cuando hora de despertar, sueño, primer cambio de posición, líquidos, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, palpitaciones, niebla mental, recuperación e impacto diario quedan conectados. El objetivo no es demostrar que la mañana es el unico problema. El objetivo es llevar patrones de la primera hora más claros al clínico."
+subtitle: "Las notas matutinas son más útiles cuando hora de despertar, sueño, primer cambio de posición, líquidos, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, palpitaciones, niebla mental, recuperación e impacto diario quedan conectados. El objetivo no es demostrar que la mañana es el único problema. El objetivo es llevar patrones de la primera hora más claros al clínico."
 description: "Aprenda que anotar en un registro de síntomas matutinos de POTS, incluyendo hora de despertar, sueño, estar de pie, líquidos, sal, desayuno, medicación, frecuencia cardíaca, mareo, recuperación e impacto diario."
-excerpt: "Una guía práctica para registrar síntomas matutinos de POTS, levantarse de la cama, hidratación, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, niebla mental, recuperación y resumenes para el médico."
+excerpt: "Una guía práctica para registrar síntomas matutinos de POTS, levantarse de la cama, hidratación, sal, desayuno, horario de medicación, frecuencia cardíaca, presión arterial, mareo, niebla mental, recuperación y resúmenes para el médico."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -66,7 +66,7 @@ faq:
   - question: "¿Qué debo registrar si los síntomas de POTS son peores por la mañana?"
     answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Pueden los síntomas de POTS ser peores por la mañana?"
-    answer: "Si. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patrón específico."
+    answer: "Sí. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patrón específico."
   - question: "¿Debo medir mi frecuencia cardíaca antes de levantarme?"
     answer: "Solo si su clínico se lo pidio y es seguro para usted. Las notas breves de síntomas también pueden ser útiles sin mediciones."
   - question: "¿Puede un registro diagnosticar síntomas matutinos de POTS?"
@@ -75,7 +75,7 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mananas son más difíciles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, nauseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
+Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mañanas son más difíciles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, náuseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
 
 Un registro de síntomas matutinos de POTS no diagnostica POTS, disautonomía, presión baja, deshidratación, trastornos del sueño, efectos de medicación ni ninguna otra condición. Le ayuda a llevar a su clínico un patrón más claro de la primera hora: qué pasó al despertar, qué cambió los síntomas y cuánto afectó la mañana.
 
@@ -107,7 +107,7 @@ Registre:
 
 - acostado, sentado, de pie, caminando o ida al baño
 - si se levanto rápido o despacio
-- cuánto tiempo se sento antes de ponerse de pie
+- cuánto tiempo se sentó antes de ponerse de pie
 - cuánto tiempo estuvo de pie antes de que empezaran los síntomas
 - si los síntomas mejoraron al sentarse o acostarse
 - si tuvo que volver a la cama
@@ -128,7 +128,7 @@ Notas útiles:
 - desayuno omitido
 - desayuno grande
 - desayuno alto en carbohidratos refinados
-- nauseas o poco apetito
+- náuseas o poco apetito
 - hora de medicación
 - dosis olvidada
 - cambio reciente de dosis
@@ -146,7 +146,7 @@ Notas matutinas comunes:
 - casi desmayo o [sincope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
-- nauseas
+- náuseas
 - temblor
 - sudoración
 - falta de aire
@@ -204,7 +204,7 @@ Registre si afectaron:
 
 Antes de una consulta de atención primaria, cardiología, neurologia, Long COVID, EDS, disautonomía o rehabilitación, resuma:
 
-- cuantas mananas por semana se ven afectadas
+- cuantas mañanas por semana se ven afectadas
 - si los síntomas empiezan antes o después de ponerse de pie
 - si mejoran más tarde en el día
 - contexto del sueño

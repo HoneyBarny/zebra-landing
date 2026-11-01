@@ -96,7 +96,7 @@ Esa nota es mucho más fácil de revisar que "viajar me destruyo".
 
 Viajar puede hacer que los síntomas sean más difíciles de entender porque varios factores ocurren al mismo tiempo.
 
-Categorías útiles: filas de facturación, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es difícil de acceder; comidas omitidas o alimentos desconocidos; cafeina, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estres, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
+Categorías útiles: filas de facturación, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es difícil de acceder; comidas omitidas o alimentos desconocidos; cafeina, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estrés, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
 
 Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche más comida omitida" en vez de decidir la causa demasiado pronto. El patrón es más útil cuando se mantiene específico.
 
@@ -104,7 +104,7 @@ Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche
 
 Algunos síntomas aparecen al estar de pie, caminar, embarcar, conducir o sentarse. Otros aparecen después de llegar o al día siguiente.
 
-Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, nauseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazon o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajón después del viaje.
+Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, náuseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazón o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajón después del viaje.
 
 Si los síntomas son intensos, nuevos, de un solo lado, asociados con dolor de pecho o falta de aire intensa, o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
@@ -112,7 +112,7 @@ Si los síntomas son intensos, nuevos, de un solo lado, asociados con dolor de p
 
 Viajar suele cambiar las rutinas que hacen que los síntomas sean más predecibles.
 
-Registre líquidos antes de salir, líquidos durante el viaje, electrolitos, sal si su clínico la recomienda, comidas omitidas, nauseas o poco apetito, horario de medicación, dosis omitidas o retrasadas, medicación de venta libre para viajar, calcetines de compresión, leggings, compresión abdominal o ninguna compresión, si la compresión fue tolerable con calor, y descansos, movimiento de piernas, estiramientos o intervalos caminando.
+Registre líquidos antes de salir, líquidos durante el viaje, electrolitos, sal si su clínico la recomienda, comidas omitidas, náuseas o poco apetito, horario de medicación, dosis omitidas o retrasadas, medicación de venta libre para viajar, calcetines de compresión, leggings, compresión abdominal o ninguna compresión, si la compresión fue tolerable con calor, y descansos, movimiento de piernas, estiramientos o intervalos caminando.
 
 No cambie líquidos, sal, compresión, medicación o suplementos basandose solo en un registro. Use sus notas para preguntar que plan de viaje es seguro para su cuerpo y su historia médica.
 
@@ -120,7 +120,7 @@ No cambie líquidos, sal, compresión, medicación o suplementos basandose solo 
 
 El detalle de viaje más importante puede ser lo que ocurre después de llegar.
 
-Anote cuánto duraron los síntomas después del viaje, si tuvo que acostarse enseguida, si pudo deshacer maletas, ducharse, comer, asistir al evento o dormir, si los síntomas fueron peores a la mañana siguiente, cuantos días tardo en volver a la línea base, trabajo, escuela, citas, cuidados, planes sociales o ejercicio perdidos, y si una ruta más corta, asistencia, compresión, horario más fresco, hidratación o más descanso parecio ayudar.
+Anote cuánto duraron los síntomas después del viaje, si tuvo que acostarse enseguida, si pudo deshacer maletas, ducharse, comer, asistir al evento o dormir, si los síntomas fueron peores a la mañana siguiente, cuantos días tardo en volver a la línea base, trabajo, escuela, citas, cuidados, planes sociales o ejercicio perdidos, y si una ruta más corta, asistencia, compresión, horario más fresco, hidratación o más descanso pareció ayudar.
 
 "Me recupere después de una hora" y "perdi tres días después del vuelo" son detalles médicos diferentes.
 
@@ -136,7 +136,7 @@ Antes de una consulta de atención primaria, cardiología, neurologia, disautono
 - tiempo de recuperación
 - impacto diario
 - qué ayudó
-- qué necesita planear para la proxima vez
+- qué necesita planear para la próxima vez
 
 Preguntas útiles:
 

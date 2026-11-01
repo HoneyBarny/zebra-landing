@@ -3,8 +3,8 @@ locale: "fr-fr"
 originalSlug: "meal-and-gi-symptom-tracker-for-pots-and-eds"
 title: "Tracker repas et symptômes GI pour POTS et EDS"
 status: "published"
-subtitle: "Les notes repas et symptômes GI sont plus utiles quand horaire du repas, nausee, ballonnements, reflux, changements intestinaux, fréquence cardiaque, vertige, hydratation, sel, médicaments et recuperation restent connectes. Le but n'est pas de prouver un declencheur alimentaire, mais d'apporter des motifs post-repas plus clairs au médecin."
-description: "Apprenez quoi noter dans un tracker repas et symptômes GI pour POTS, EDS et dysautonomie: horaire, nausee, ballonnements, reflux, intestin, fréquence cardiaque, hydratation, sel, médicaments et recuperation."
+subtitle: "Les notes repas et symptômes GI sont plus utiles quand horaire du repas, nausee, ballonnements, reflux, changements intestinaux, fréquence cardiaque, vertige, hydratation, sel, médicaments et récupération restent connectes. Le but n'est pas de prouver un déclencheur alimentaire, mais d'apporter des motifs post-repas plus clairs au médecin."
+description: "Apprenez quoi noter dans un tracker repas et symptômes GI pour POTS, EDS et dysautonomie: horaire, nausee, ballonnements, reflux, intestin, fréquence cardiaque, hydratation, sel, médicaments et récupération."
 excerpt: "Un guide pratique pour suivre symptômes après repas, nausee, ballonnements, reflux, changements intestinaux, fréquence cardiaque, vertige, hydratation, sel, médicaments et impact fonctionnel."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
@@ -16,9 +16,9 @@ cluster: "Dysautonomia"
 category: "Symptom Tracking"
 primaryKeyword: "tracker repas symptômes GI"
 seoTitle: "Tracker repas et symptômes GI pour POTS et EDS | Zebra"
-metaDescription: "Suivez repas, nausee, ballonnements, reflux, intestin, fréquence cardiaque, vertige, hydratation, sel, médicaments et recuperation."
+metaDescription: "Suivez repas, nausee, ballonnements, reflux, intestin, fréquence cardiaque, vertige, hydratation, sel, médicaments et récupération."
 ogTitle: "Tracker repas et symptômes GI pour POTS et EDS"
-ogDescription: "Suivez symptômes après repas, changements GI, contexte orthostatique, hydratation, sel, médicaments et recuperation."
+ogDescription: "Suivez symptômes après repas, changements GI, contexte orthostatique, hydratation, sel, médicaments et récupération."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes, hydratation et contexte du jour."
 ctaLabel: "Télécharger Zebra"
@@ -64,20 +64,20 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que suivre si les symptômes empirent après les repas?"
-    answer: "Notez heure du repas, taille approximative, symptômes, delai après le repas, vertige, fréquence cardiaque ou tension si vous les mesurez déjà, nausee, ballonnements, reflux, changements intestinaux, hydratation, sel, médicaments et recuperation."
-  - question: "Un tracker de repas peut-il prouver un declencheur alimentaire?"
-    answer: "Non. Un tracker peut montrer des motifs a discuter, mais il ne peut pas prouver un declencheur alimentaire ni diagnostiquer une condition GI, allergique, autonome ou mastocytaire."
+    answer: "Notez heure du repas, taille approximative, symptômes, delai après le repas, vertige, fréquence cardiaque ou tension si vous les mesurez déjà, nausee, ballonnements, reflux, changements intestinaux, hydratation, sel, médicaments et récupération."
+  - question: "Un tracker de repas peut-il prouver un déclencheur alimentaire?"
+    answer: "Non. Un tracker peut montrer des motifs à discuter, mais il ne peut pas prouver un déclencheur alimentaire ni diagnostiquer une condition GI, allergique, autonome ou mastocytaire."
   - question: "Faut-il noter chaque ingredient?"
-    answer: "En général non. Commencez par horaire, taille du repas, grands changements, symptômes et recuperation. Les ingredients deviennent utiles si votre médecin le demande ou si un motif repete apparaît."
+    answer: "En général non. Commencez par horaire, taille du repas, grands changements, symptômes et récupération. Les ingredients deviennent utiles si votre médecin le demande ou si un motif repete apparaît."
   - question: "Pourquoi les symptômes de POTS semblent parfois pires après manger?"
-    answer: "Certaines personnes avec POTS ou dysautonomie remarquent plus de tachycardie, vertige ou fatigue après les repas. Taille du repas, hydratation, sel, posture, chaleur et médicaments peuvent être un contexte utile a discuter avec un médecin."
+    answer: "Certaines personnes avec POTS ou dysautonomie remarquent plus de tachycardie, vertige ou fatigue après les repas. Taille du repas, hydratation, sel, posture, chaleur et médicaments peuvent être un contexte utile à discuter avec un médecin."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Les repas peuvent changer les symptômes pour les personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), [EDS](/fr-fr/knowledge/eds/), reactions de type MCAS, reflux, nausee, changements intestinaux, migraine ou fatigue. La partie difficile: le motif n'est souvent pas seulement "alimentaire". Horaire, posture, hydratation, sel, médicaments, chaleur, activité, stress et état de flare peuvent tous être proches du repas.
+Les repas peuvent changer les symptômes pour les personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), [EDS](/fr-fr/knowledge/eds/), réactions de type MCAS, reflux, nausee, changements intestinaux, migraine ou fatigue. La partie difficile: le motif n'est souvent pas seulement "alimentaire". Horaire, posture, hydratation, sel, médicaments, chaleur, activité, stress et état de flare peuvent tous être proches du repas.
 
-Un tracker repas et symptômes GI n'est pas un regime et ne peut pas diagnostiquer intolérance alimentaire, allergie, gastroparesie, MCAS, IBS, POTS, EDS ou autre condition. Il aide a apporter une timeline plus claire au médecin qui peut évaluer la situation.
+Un tracker repas et symptômes GI n'est pas un regime et ne peut pas diagnostiquer intolérance alimentaire, allergie, gastroparesie, MCAS, IBS, POTS, EDS ou autre condition. Il aide à apporter une timeline plus claire au médecin qui peut évaluer la situation.
 
 ## Commencer par l'horaire du repas et des symptômes
 
@@ -95,11 +95,11 @@ Commencez par:
 
 Exemple: "Dejeuner 12:20, grand repas, assis après. A 12:50, nausee 6/10, coeur qui s'emballe, vertige debout. Allonge 30 minutes, mieux vers 14:00."
 
-Cela donne une sequence a votre médecin, pas seulement un souvenir vague.
+Cela donne une sequence à votre médecin, pas seulement un souvenir vague.
 
 ## Noter les symptômes GI avec des mots simples
 
-Utilisez des etiquettes faciles a scanner:
+Utilisez des étiquettes faciles à scanner:
 
 - nausee
 - ballonnements
@@ -111,7 +111,7 @@ Utilisez des etiquettes faciles a scanner:
 - constipation
 - besoin urgent d'aller aux toilettes
 - perte d'appetit
-- difficulte a finir les repas
+- difficulte à finir les repas
 
 Ajoutez la sévérité seulement si cela aide. Une echelle de 0 a 10 peut marcher, mais une note fonctionnelle est souvent plus utile: "impossible de finir le dejeuner", "cours manque", "toilettes urgentes" ou "impossible de conduire après le diner."
 
@@ -122,7 +122,7 @@ Les notes post-repas sont plus utiles pour POTS et dysautonomie quand les sympt�
 Notez si le repas a été suivi par:
 
 - [vertige](/fr-fr/knowledge/dizziness/)
-- [sensation de tête legere](/fr-fr/knowledge/lightheadedness/)
+- [sensation de tête légère](/fr-fr/knowledge/lightheadedness/)
 - [tachycardie](/fr-fr/knowledge/tachycardia/) ou pouls rapide
 - [palpitations](/fr-fr/knowledge/palpitations/)
 - tremblements
@@ -150,24 +150,24 @@ Contexte utile:
 - nouveaux supplements
 - chaleur, douche ou station debout avant ou après manger
 
-Ne changez pas sel, liquides, médicaments ou supplements a partir d'un journal d'app seul. Utilisez le dossier pour poser de meilleures questions.
+Ne changez pas sel, liquides, médicaments ou supplements à partir d'un journal d'app seul. Utilisez le dossier pour poser de meilleures questions.
 
-## Traiter les declencheurs possibles comme des indices
+## Traiter les déclencheurs possibles comme des indices
 
 Il est tentant d'appeler un repas "la cause", surtout quand les symptômes font peur. Un tracker est meilleur quand il separe observation et conclusion.
 
 Ecrivez:
 
-- "declencheur possible: grand repas"
-- "declencheur possible: plat epice"
-- "declencheur possible: produits laitiers"
-- "declencheur possible: aliment riche en histamine"
-- "declencheur possible: manger après mauvais sommeil"
-- "declencheur possible: repas après douche"
+- "déclencheur possible: grand repas"
+- "déclencheur possible: plat epice"
+- "déclencheur possible: produits laitiers"
+- "déclencheur possible: aliment riche en histamine"
+- "déclencheur possible: manger après mauvais sommeil"
+- "déclencheur possible: repas après douche"
 
 Cette formulation laisse de la place a d'autres explications. Les motifs repetes sont plus utiles qu'un episode intense isole.
 
-## Inclure l'état de flare et la recuperation
+## Inclure l'état de flare et la récupération
 
 Les repas peuvent se sentir differents les jours de flare et les jours de baseline.
 
@@ -175,13 +175,13 @@ Ajoutez:
 
 - si vous etiez déjà en [flare](/fr-fr/knowledge/flare/)
 - symptômes de baseline le matin
-- qualite du sommeil la veille
-- stress, infection, regles, voyage ou effort
-- durée de recuperation
-- si vous etes revenu a votre baseline
-- si le reste de la journee a change
+- qualité du sommeil la veille
+- stress, infection, règles, voyage ou effort
+- durée de récupération
+- si vous êtes revenu à votre baseline
+- si le reste de la journée a change
 
-La recuperation compte, car un symptôme GI leger qui cause deux heures de crash peut être plus important qu'un pic bref.
+La récupération compte, car un symptôme GI léger qui cause deux heures de crash peut être plus important qu'un pic bref.
 
 ## Que resumer avant le rendez-vous
 
@@ -194,9 +194,9 @@ Avant un rendez-vous gastro, cardio, médecin traitant, allergologie ou EDS, res
 - contexte de fréquence cardiaque ou tension, si mesure
 - hydratation et sel
 - questions sur l'horaire des médicaments
-- aliments ou situations qui reviennent comme declencheurs possibles
-- changement de poids, vomissements, sang dans les selles, malaise, douleur severe, deshydratation ou autres symptômes urgents
-- ce qui a change dans travail, ecole, conduite, cuisine, courses ou soins
+- aliments ou situations qui reviennent comme déclencheurs possibles
+- changement de poids, vomissements, sang dans les selles, malaise, douleur sévère, déshydratation ou autres symptômes urgents
+- ce qui a change dans travail, école, conduite, cuisine, courses ou soins
 
 Questions utiles:
 
@@ -219,13 +219,13 @@ Lecture utile:
 
 ## Où Zebra s'insere
 
-Zebra aide a garder horaire du repas, symptômes GI, symptômes orthostatiques, liquides, sel, médicaments, declencheurs possibles, recuperation et questions pour le médecin dans une meme timeline.
+Zebra aide à garder horaire du repas, symptômes GI, symptômes orthostatiques, liquides, sel, médicaments, déclencheurs possibles, récupération et questions pour le médecin dans une meme timeline.
 
-Il ne diagnostique pas les reactions alimentaires ou conditions GI. Il aide a apporter un motif post-repas plus clair au médecin qui peut l'évaluer.
+Il ne diagnostique pas les réactions alimentaires ou conditions GI. Il aide à apporter un motif post-repas plus clair au médecin qui peut l'évaluer.
 
 ## Points clés
 
-- Suivez ensemble horaire du repas, horaire des symptômes, symptômes GI, symptômes orthostatiques, hydratation, sel, médicaments et recuperation.
+- Suivez ensemble horaire du repas, horaire des symptômes, symptômes GI, symptômes orthostatiques, hydratation, sel, médicaments et récupération.
 - Commencez par taille et horaire du repas avant de noter chaque ingredient.
-- Traitez les declencheurs alimentaires possibles comme des indices, pas comme une preuve.
-- Un suivi court et régulier peut rendre les symptômes après repas plus faciles a expliquer en rendez-vous.
+- Traitez les déclencheurs alimentaires possibles comme des indices, pas comme une preuve.
+- Un suivi court et régulier peut rendre les symptômes après repas plus faciles à expliquer en rendez-vous.

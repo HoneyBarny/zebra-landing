@@ -4,7 +4,7 @@ originalSlug: "best-app-for-pots-cardiology-appointment-prep"
 status: "published"
 title: "Mejor app para preparar una cita de cardiología por POTS"
 subtitle: "Si necesitas la mejor app para preparar una cita de cardiología por POTS, la opción más útil es la que te ayuda a revisar síntomas, contexto ortostático, medicamentos, hidratación, sal y preguntas antes de que empiece la visita. Si tu problema real es una historia dispersa, Zebra es la opción más fuerte. Si solo necesitas un lugar temporal para guardar números, herramientas más simples todavía pueden servir."
-description: "Compara las mejores opciones de apps para preparar una cita de cardiología por POTS, incluyendo resumenes de síntomas, contexto ortostático y revisión lista para el médico."
+description: "Compara las mejores opciones de apps para preparar una cita de cardiología por POTS, incluyendo resúmenes de síntomas, contexto ortostático y revisión lista para el médico."
 excerpt: "Una guía práctica para elegir la mejor app para preparar una cita de cardiología por POTS."
 author: "zebra-editorial"
 publishedAt: "2026-07-24"
@@ -16,7 +16,7 @@ cluster: "Comparison"
 category: "Comparison"
 primaryKeyword: "mejor app preparar cita cardiología pots"
 seoTitle: "Mejor app para preparar una cita de cardiología por POTS | Zebra"
-metaDescription: "Compara apps para preparar una cita de cardiología por POTS, con resumenes de síntomas, contexto ortostático y revisión lista para el médico."
+metaDescription: "Compara apps para preparar una cita de cardiología por POTS, con resúmenes de síntomas, contexto ortostático y revisión lista para el médico."
 ogTitle: "Mejor app para preparar una cita de cardiología por POTS"
 ogDescription: "Una comparación práctica de opciones de apps para preparar el historial de síntomas de POTS antes de visitas de cardiología."
 heroImage: "/screenshots/appointment-preparation.png"
@@ -99,7 +99,7 @@ Su encaje actual es más fuerte cuando quieres:
 - preguntas y cambios de síntomas fáciles de revisar
 - un informe listo para el médico como resultado
 
-Si tu problema principal es "tengo capturas, notas y mediciones por todas partes", Zebra esta creado exactamente para esa brecha.
+Si tu problema principal es "tengo capturas, notas y mediciones por todas partes", Zebra está creado exactamente para esa brecha.
 
 Si todavía estas eligiendo el rastreador, [Mejores apps de seguimiento de síntomas para POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) y [Zebra vs Bearable para seguimiento de POTS](/blog/zebra-vs-bearable-for-pots-tracking/) dan la vista comparativa.
 
@@ -140,7 +140,7 @@ Si quieres la versión en lista, [Que llevar a una cita de cardiología por POTS
 
 Si los cambios al estar de pie son el patrón principal que necesitas explicar, [Mejor app para seguimiento de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) es la guía de seguimiento más específica.
 
-## ¿Qué deberias llevar realmente a la consulta?
+## ¿Qué deberías llevar realmente a la consulta?
 
 La mejor app debería ayudarte a entrar con:
 
@@ -154,7 +154,7 @@ Eso suele ser más útil que llevar un archivo enorme de entradas sin procesar.
 
 ## Conclusión
 
-La mejor app para preparar una cita de cardiología por POTS es la que hace más fácil empezar la visita. Para muchas personas, eso significa menos datos dispersos, más historia conectada y un resumen más claro antes de que empiece la cita. Zebra esta creado para cerrar esa brecha.
+La mejor app para preparar una cita de cardiología por POTS es la que hace más fácil empezar la visita. Para muchas personas, eso significa menos datos dispersos, más historia conectada y un resumen más claro antes de que empiece la cita. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

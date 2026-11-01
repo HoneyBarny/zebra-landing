@@ -64,14 +64,14 @@ faq:
 
 Si necesitas el mejor rastreador de síntomas para intolerancia al estar de pie, la opción más útil es la que mantiene síntomas que empeoran sentada, sentado o de pie, cambios de postura, contexto de brotes e impacto en la función diaria en una historia conectada. Si tu problema principal es explicar después el patrón al estar en posición vertical, Zebra es la opción más fuerte. Si solo necesitas un lugar temporal para anotar algunas observaciones, herramientas más simples todavía pueden servir.
 
-Intolerancia al estar de pie es lenguaje de pacientes que muchas personas usan cuando los síntomas empeoran sentada, sentado o de pie y se alivian al tumbarse. El problema de seguimiento es fácil de describir pero difícil de mantener: el patrón importa, pero los detalles desaparecen si estan dispersos.
+Intolerancia al estar de pie es lenguaje de pacientes que muchas personas usan cuando los síntomas empeoran sentada, sentado o de pie y se alivian al tumbarse. El problema de seguimiento es fácil de describir pero difícil de mantener: el patrón importa, pero los detalles desaparecen si están dispersos.
 
 ## Qué hace útil a un rastreador de intolerancia al estar de pie
 
 El mejor rastreador debería ayudarte a responder preguntas como:
 
 - ¿Qué síntomas empeoran cuando estoy en posición vertical?
-- ¿En que postura estaba cuando cambiaron los síntomas?
+- ¿En qué postura estaba cuando cambiaron los síntomas?
 - ¿Qué más ocurria ese día?
 - ¿Qué me impidieron hacer los síntomas?
 - ¿Puedo revisarlo antes de una cita?
@@ -123,11 +123,11 @@ El rastreador más útil suele incluir:
 - contexto de hidratación, sal o medicamentos cuando sea relevante
 - una forma de revisar el patrón antes de las citas
 
-Si el siguiente paso es convertir esto en un resumen para una visita, [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explica el resultado alrededor del que Zebra esta diseñado.
+Si el siguiente paso es convertir esto en un resumen para una visita, [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explica el resultado alrededor del que Zebra está diseñado.
 
 ## Conclusión
 
-El mejor rastreador de síntomas para intolerancia al estar de pie es el que mantiene comprensibles después los cambios de síntomas relacionados con la postura. Para muchas personas, la pieza que falta no es registrar más. Es una historia conectada que hace que el patrón al estar en posición vertical sea más fácil de revisar y comentar. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para intolerancia al estar de pie es el que mantiene comprensibles después los cambios de síntomas relacionados con la postura. Para muchas personas, la pieza que falta no es registrar más. Es una historia conectada que hace que el patrón al estar en posición vertical sea más fácil de revisar y comentar. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

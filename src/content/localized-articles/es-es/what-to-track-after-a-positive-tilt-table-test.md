@@ -166,11 +166,11 @@ Los clínicos no siempre pueden ver el coste de los síntomas si no llevas ejemp
 
 Después de una prueba de mesa inclinada positiva, puedes llevar preguntas como:
 
-- ¿Qué patrón mostro la prueba?
+- ¿Qué patrón mostró la prueba?
 - ¿Esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patrón de disautonomía o algo más?
 - ¿Fueron importantes las lecturas de presión arterial en mi resultado?
 - ¿Qué síntomas deberían hacerme buscar atención urgente?
-- ¿Qué debo registrar antes de la proxima visita?
+- ¿Qué debo registrar antes de la próxima visita?
 - ¿Debo registrar frecuencia cardíaca o presión arterial en casa, y si si, como?
 - ¿Hidratación, sal, compresión, ejercicio o medicación forman parte de mi plan?
 - ¿Qué contaría como mejoría?

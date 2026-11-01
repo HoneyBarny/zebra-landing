@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "why-pots-eds-and-fibromyalgia-often-overlap"
-title: "Por que POTS, EDS y fibromialgia suelen solaparse"
+title: "Por qué POTS, EDS y fibromialgia suelen solaparse"
 status: "published"
-subtitle: "POTS, EDS y fibromialgia suelen solaparse porque pueden compartir síntomas, limitaciones diarias y caminos diagnosticos, aunque no son la misma condición. Muchas personas acaban rastreando mareo, fatiga, dolor, brain fog, cambios de función y brotes a través de más de una etiqueta a la vez."
-description: "Aprende por que los síntomas de POTS, EDS y fibromialgia suelen solaparse y por que eso hace más difícil el rastreo y la preparación de citas."
-excerpt: "Aprende por que los síntomas de POTS, EDS y fibromialgia suelen solaparse y por que eso hace más difícil el rastreo y la preparación de citas."
+subtitle: "POTS, EDS y fibromialgia suelen solaparse porque pueden compartir síntomas, limitaciones diarias y caminos diagnósticos, aunque no son la misma condición. Muchas personas acaban rastreando mareo, fatiga, dolor, brain fog, cambios de función y brotes a través de más de una etiqueta a la vez."
+description: "Aprende por qué los síntomas de POTS, EDS y fibromialgia suelen solaparse y por qué eso hace más difícil el rastreo y la preparación de citas."
+excerpt: "Aprende por qué los síntomas de POTS, EDS y fibromialgia suelen solaparse y por qué eso hace más difícil el rastreo y la preparación de citas."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -14,10 +14,10 @@ lastReviewed: "2026-06-29"
 cluster: "Condition Overlap"
 category: "Condition Overlap"
 primaryKeyword: "solapamiento pots eds fibromialgia"
-seoTitle: "Por que POTS, EDS y fibromialgia suelen solaparse | Zebra"
-metaDescription: "Aprende por que los síntomas de POTS, EDS y fibromialgia suelen solaparse y por que eso hace más difícil el rastreo y la preparación de citas."
-ogTitle: "Por que POTS, EDS y fibromialgia suelen solaparse"
-ogDescription: "Una explicación práctica de por que el solapamiento hace que los síntomas sean más difíciles de rastrear y las conversaciones médicas más difíciles de preparar."
+seoTitle: "Por qué POTS, EDS y fibromialgia suelen solaparse | Zebra"
+metaDescription: "Aprende por qué los síntomas de POTS, EDS y fibromialgia suelen solaparse y por qué eso hace más difícil el rastreo y la preparación de citas."
+ogTitle: "Por qué POTS, EDS y fibromialgia suelen solaparse"
+ogDescription: "Una explicación práctica de por qué el solapamiento hace que los síntomas sean más difíciles de rastrear y las conversaciones médicas más difíciles de preparar."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Ilustración que muestra solapamiento entre experiencias de síntomas de POTS, EDS y fibromialgia"
 ctaLabel: "Descargar Zebra"
@@ -53,10 +53,10 @@ faq:
   - question: "¿El solapamiento significa que las condiciones son iguales?"
     answer: "No. No son la misma condición, pero pueden solaparse en síntomas y en la forma en que las personas viven limitaciones diarias."
   - question: "¿Qué debo rastrear si mis síntomas se solapan?"
-    answer: "Rastrea síntomas, cambios, impacto funcional, brotes y contexto relevante para que tu historial siga siendo útil incluso cuando las etiquetas todavía se estan aclarando."
+    answer: "Rastrea síntomas, cambios, impacto funcional, brotes y contexto relevante para que tu historial siga siendo útil incluso cuando las etiquetas todavía se están aclarando."
 ---
 
-POTS, EDS y fibromialgia suelen solaparse porque pueden compartir síntomas, limitaciones diarias y caminos diagnosticos, aunque no son la misma condición. Muchas personas acaban rastreando mareo, fatiga, dolor, brain fog, cambios de función y brotes a través de más de una etiqueta a la vez.
+POTS, EDS y fibromialgia suelen solaparse porque pueden compartir síntomas, limitaciones diarias y caminos diagnósticos, aunque no son la misma condición. Muchas personas acaban rastreando mareo, fatiga, dolor, brain fog, cambios de función y brotes a través de más de una etiqueta a la vez.
 
 Ese solapamiento puede hacer que la atención y el rastreo sean mucho más difíciles, especialmente cuando cada condición se trata como una historia separada.
 
@@ -106,7 +106,7 @@ Cuando lidias con condiciones solapadas, las categorías de más valor suelen se
 - brotes
 - cambios de medicación o rutina
 
-Esto crea un registro que sigue siendo útil incluso cuando la interpretación exacta todavía esta evolucionando.
+Esto crea un registro que sigue siendo útil incluso cuando la interpretación exacta todavía está evolucionando.
 
 ## Dónde encaja Zebra
 
@@ -132,4 +132,4 @@ No. No son la misma condición, pero pueden solaparse en síntomas y en la forma
 
 ### ¿Qué debo rastrear si mis síntomas se solapan?
 
-Rastrea síntomas, cambios, impacto funcional, brotes y contexto relevante para que tu historial siga siendo útil incluso cuando las etiquetas todavía se estan aclarando.
+Rastrea síntomas, cambios, impacto funcional, brotes y contexto relevante para que tu historial siga siendo útil incluso cuando las etiquetas todavía se están aclarando.

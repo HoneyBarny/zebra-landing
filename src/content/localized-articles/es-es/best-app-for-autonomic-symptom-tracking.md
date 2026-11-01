@@ -64,7 +64,7 @@ faq:
 
 Si necesitas la mejor app para seguimiento de síntomas autonómicos, la opción más útil es la que mantiene síntomas, cambios de postura, brotes, medicamentos, hidratación, función diaria y preguntas para citas en una historia revisable. Si tu problema principal es explicar después la disautonomía o los síntomas al estar de pie, Zebra es la opción más fuerte. Si tu objetivo principal es pacing o feedback en tiempo real, otra herramienta puede encajar mejor.
 
-El seguimiento de síntomas autonómicos se vuelve difícil porque el patrón puede implicar muchos sistemas del cuerpo a la vez. Mareo, palpitaciones, fatiga, brain fog, nauseas, intolerancia al calor y cambios de función pueden importar, pero son menos útiles cuando estan repartidos entre notas desconectadas.
+El seguimiento de síntomas autonómicos se vuelve difícil porque el patrón puede implicar muchos sistemas del cuerpo a la vez. Mareo, palpitaciones, fatiga, brain fog, náuseas, intolerancia al calor y cambios de función pueden importar, pero son menos útiles cuando están repartidos entre notas desconectadas.
 
 ## Qué hace útil a un rastreador de síntomas autonómicos
 
@@ -99,7 +99,7 @@ Su encaje actual es más fuerte cuando quieres:
 - cambios de función diaria en el mismo registro
 - un informe listo para el médico como objetivo final
 
-Si tu problema principal es "se que algo esta pasando, pero no puedo resumirlo con claridad en la visita", Zebra encaja directamente con ese problema.
+Si tu problema principal es "se que algo está pasando, pero no puedo resumirlo con claridad en la visita", Zebra encaja directamente con ese problema.
 
 Para el lado de preparación de citas de ese problema, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) y [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explican en que debería convertirse la historia.
 
@@ -111,7 +111,7 @@ Elige una herramienta centrada en pacing o wearable si:
 
 - tu objetivo principal es manejo de energía
 - quieres alertas en tiempo real o feedback de esfuerzo
-- estas menos centrada o centrado en resumenes para citas
+- estas menos centrada o centrado en resúmenes para citas
 
 Elige un rastreador genérico si:
 
@@ -142,7 +142,7 @@ Si comparas herramientas centradas en pacing frente a seguimiento para preparar 
 
 ## Conclusión
 
-La mejor app para seguimiento de síntomas autonómicos es la que mantiene comprensible el patrón después. Para muchas personas, la pieza que falta no es más información. Es un registro conectado que hace que síntomas, contexto y preparación de citas sean más fáciles de revisar. Zebra esta creado para cerrar esa brecha.
+La mejor app para seguimiento de síntomas autonómicos es la que mantiene comprensible el patrón después. Para muchas personas, la pieza que falta no es más información. Es un registro conectado que hace que síntomas, contexto y preparación de citas sean más fáciles de revisar. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

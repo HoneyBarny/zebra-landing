@@ -55,7 +55,7 @@ faq:
     answer: "Si los cambios de medicación son relevantes para tu conversación médica, rastrearlos junto a síntomas y momento puede hacer que el historial sea más fácil de revisar."
   - question: "¿Qué detalles de medicación debo rastrear?"
     answer: "Los detalles útiles pueden incluir la fecha, que cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico."
-  - question: "¿Rastrear cambios de medicación puede decirme que causo un brote?"
+  - question: "¿Rastrear cambios de medicación puede decirme que causó un brote?"
     answer: "No. El rastreo puede conservar contexto para la conversación, pero no debe tratarse como prueba de causa ni como consejo médico."
 ---
 
@@ -77,7 +77,7 @@ Ejemplos:
 - cambiar suplementos si tu profesional clínico los sigue
 - notar un efecto secundario o una preocupación
 
-No uses un rastreador para tomar decisiones de medicación por tu cuenta. Usalo para conservar el historial que quieres comentar.
+No uses un rastreador para tomar decisiones de medicación por tu cuenta. Úsalo para conservar el historial que quieres comentar.
 
 ## Qué registrar durante un brote
 
@@ -109,7 +109,7 @@ El momento no prueba causa. Ayuda a que la conversación sea clara.
 
 ## Mantén juntas las notas de síntomas y medicación
 
-Las notas de medicación son menos útiles cuando estan separadas de los síntomas.
+Las notas de medicación son menos útiles cuando están separadas de los síntomas.
 
 Por ejemplo, en lugar de escribir:
 
@@ -169,6 +169,6 @@ Si los cambios de medicación son relevantes para tu conversación médica, rast
 
 Los detalles útiles pueden incluir la fecha, qué cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico.
 
-### ¿Rastrear cambios de medicación puede decirme que causo un brote?
+### ¿Rastrear cambios de medicación puede decirme que causó un brote?
 
 No. El rastreo puede conservar contexto para la conversación, pero no debe tratarse como prueba de causa ni como consejo médico.

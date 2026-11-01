@@ -68,7 +68,7 @@ faq:
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es difícil, tu cerebro esta cansado, y ahora se supone que seas tu propio secretario de salud?
+Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es difícil, tu cerebro está cansado, y ahora se supone que seas tu propio secretario de salud?
 
 No tienes que registrarlo todo. Durante los primeros siete días, el objetivo es más pequeno: una nota útil al día.
 
@@ -85,7 +85,7 @@ Ejemplos útiles:
 - "Mareo 6/10 después de ducha, tuve que acostarme 30 minutos."
 - "Dolor 8/10 en caderas y piernas, peor después de recados, cancele cena."
 - "Brain fog fuerte, perdi recordatorio de medicación, no pude terminar formularios."
-- "Crash de fatiga después de llamada de trabajo, dormi 2 horas, aun no vuelvo a base."
+- "Crash de fatiga después de llamada de trabajo, dormi 2 horas, aún no vuelvo a base."
 
 Cada nota conecta síntoma, contexto e impacto. Ese es todo el trabajo.
 
@@ -100,7 +100,7 @@ Elige uno a tres síntomas que más afecten tu día:
 - mareo o aturdimiento
 - brain fog
 - palpitaciones
-- nauseas
+- náuseas
 - problemas de sueño
 - intensidad de brote
 - efectos secundarios de medicación
@@ -144,7 +144,7 @@ Anota si los síntomas parecieron afectados por:
 
 - actividad
 - descanso
-- estres
+- estrés
 - sueño
 - comidas o saltarse comidas
 - hidratación
@@ -201,7 +201,7 @@ Después de siete días, revisa tus notas y escribe tres preguntas.
 Ejemplos:
 
 - "Este patrón parece brote, efecto secundario, problema ortostático, migraña u otra cosa?"
-- "Que síntomas debo seguir antes de la proxima visita?"
+- "Que síntomas debo seguir antes de la próxima visita?"
 - "Que síntomas significan que debo buscar ayuda urgente?"
 - "Debo seguir frecuencia cardíaca, presión arterial, sueño, hidratación o horario de medicación?"
 - "¿Qué contaría como mejoría?"

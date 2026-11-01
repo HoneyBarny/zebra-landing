@@ -70,7 +70,7 @@ Las categorías útiles para POTS suelen incluir:
 - fatiga
 - falta de aire
 - temblores
-- nauseas
+- náuseas
 - brain fog
 - intolerancia al ejercicio
 - presincope
@@ -138,7 +138,7 @@ Si las observaciones de frecuencia cardíaca o presión arterial en casa forman 
 
 ## Dónde encaja Zebra
 
-Zebra esta diseñado para mantener síntomas, brotes, medicación, hidratación, sal y observaciones ortostáticas en un solo registro para que la historia siga conectada. Eso es especialmente útil para personas con POTS que también registran EDS, fibromialgia u otros síntomas que se solapan.
+Zebra está diseñado para mantener síntomas, brotes, medicación, hidratación, sal y observaciones ortostáticas en un solo registro para que la historia siga conectada. Eso es especialmente útil para personas con POTS que también registran EDS, fibromialgia u otros síntomas que se solapan.
 
 ## Ideas clave
 

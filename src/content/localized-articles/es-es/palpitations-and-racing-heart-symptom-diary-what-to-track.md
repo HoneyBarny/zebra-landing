@@ -65,7 +65,7 @@ faq:
   - question: "¿Qué debo registrar durante palpitaciones?"
     answer: "Registra hora de inicio, duración, como se sintio el ritmo, frecuencia cardíaca si se midio, posición, actividad, mareo o desmayo, síntomas de pecho, falta de aire, medicamentos, cafeina, hidratación, posibles desencadenantes, recuperación e impacto funcional."
   - question: "¿Un diario puede diagnosticar palpitaciones?"
-    answer: "No. Un diario puede organizar la historia de episodios, pero el diagnóstico puede requerir evaluación médica, ECG, monitor Holter, analisis de sangre u otras pruebas."
+    answer: "No. Un diario puede organizar la historia de episodios, pero el diagnóstico puede requerir evaluación médica, ECG, monitor Holter, análisis de sangre u otras pruebas."
   - question: "¿Cuándo son urgentes las palpitaciones?"
     answer: "Busca atención urgente si las palpitaciones aparecen con dolor o presión en el pecho, desmayo, falta de aire severa, mareo severo, confusión o síntomas que tu médico marco como urgentes."
   - question: "¿Debo registrar frecuencia cardíaca cada vez?"
@@ -78,7 +78,7 @@ Las palpitaciones pueden sentirse como corazon acelerado, golpes fuertes, aleteo
 
 Un diario de palpitaciones no diagnostica arritmia, POTS, disautonomía ni enfermedad cardíaca. Ayuda a llevar una historia más clara al médico.
 
-## Empieza con lo basico del episodio
+## Empieza con lo básico del episodio
 
 Una nota útil empieza con qué pasó y cuando.
 
@@ -158,7 +158,7 @@ Contexto posible:
 - nicotina
 - medicamento o suplemento nuevo
 - dosis olvidada
-- estres o emoción fuerte
+- estrés o emoción fuerte
 - mal sueño
 - fiebre, infección o enfermedad
 - ciclo menstrual o cambio hormonal

@@ -52,7 +52,7 @@ faq:
   - question: "¿Cómo organizo mi historial de salud para una cita médica?"
     answer: "Reune cambios recientes de síntomas, impacto funcional, cambios de medicación y preguntas en un resumen corto y estructurado."
   - question: "¿Debería llevar una línea temporal a una cita médica?"
-    answer: "Si, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas."
+    answer: "Sí, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas."
   - question: "¿Cuánto detalle debería incluir?"
     answer: "Incluye el detalle suficiente para explicar que cambió y que importa ahora. Guarda los detalles extra para preguntas de seguimiento si hacen falta."
 ---
@@ -93,7 +93,7 @@ Enumera medicación actual, suplementos y cambios recientes. Incluye cualquier c
 
 ### 5. Preguntas para la visita
 
-Mantén juntas tus preguntas principales para que no desaparezcan bajo el estres.
+Mantén juntas tus preguntas principales para que no desaparezcan bajo el estrés.
 
 ## Cómo es una buena línea temporal médica
 
@@ -119,7 +119,7 @@ Puedes llevarlo si hace falta. Simplemente no pertenece al inicio de la conversa
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para convertir el seguimiento diario en un historial de salud más claro. En lugar de guardar síntomas, brotes, medicación y cambios funcionales en herramientas separadas, el objetivo es mantenerlos en un registro introducido por ti que sea más fácil de revisar antes de una cita médica.
+Zebra está creado para convertir el seguimiento diario en un historial de salud más claro. En lugar de guardar síntomas, brotes, medicación y cambios funcionales en herramientas separadas, el objetivo es mantenerlos en un registro introducido por ti que sea más fácil de revisar antes de una cita médica.
 
 ## Ideas clave
 
@@ -136,7 +136,7 @@ Reune cambios recientes de síntomas, impacto funcional, cambios de medicación 
 
 ### ¿Debería llevar una línea temporal a una cita médica?
 
-Si, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas.
+Sí, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas.
 
 ### ¿Cuánto detalle debería incluir?
 

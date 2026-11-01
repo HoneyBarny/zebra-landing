@@ -1,11 +1,11 @@
 ---
 locale: "fr-fr"
 originalSlug: "heat-intolerance-symptom-tracker-what-to-log"
-title: "Tracker intolérance a la chaleur: quoi noter pour POTS"
+title: "Tracker intolérance à la chaleur: quoi noter pour POTS"
 status: "published"
-subtitle: "Les notes de symptômes lies a la chaleur sont plus utiles quand temperature, humidite, douche chaude, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration, recuperation et impact fonctionnel restent connectes. Le but n'est pas de prouver que la chaleur est le seul declencheur, mais d'apporter des motifs plus clairs au médecin."
-description: "Apprenez quoi noter dans un tracker intolérance a la chaleur pour POTS, dysautonomie et maladie chronique: temperature, douche, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration, recuperation et impact."
-excerpt: "Un guide pratique pour suivre symptômes lies a la chaleur, pieces chaudes, douches chaudes, hydratation, sel, fréquence cardiaque, vertige, transpiration, refroidissement, recuperation et resume médical."
+subtitle: "Les notes de symptômes lies à la chaleur sont plus utiles quand temperature, humidite, douche chaude, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration, récupération et impact fonctionnel restent connectes. Le but n'est pas de prouver que la chaleur est le seul déclencheur, mais d'apporter des motifs plus clairs au médecin."
+description: "Apprenez quoi noter dans un tracker intolérance à la chaleur pour POTS, dysautonomie et maladie chronique: temperature, douche, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration, récupération et impact."
+excerpt: "Un guide pratique pour suivre symptômes lies à la chaleur, pieces chaudes, douches chaudes, hydratation, sel, fréquence cardiaque, vertige, transpiration, refroidissement, récupération et resume médical."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -15,15 +15,15 @@ featured: false
 cluster: "Dysautonomia"
 category: "Symptom Tracking"
 primaryKeyword: "tracker intolérance chaleur"
-seoTitle: "Tracker intolérance a la chaleur pour POTS | Zebra"
-metaDescription: "Suivez intolérance a la chaleur avec temperature, douche, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration et recuperation."
-ogTitle: "Tracker intolérance a la chaleur pour POTS et dysautonomie"
-ogDescription: "Suivez symptômes lies a la chaleur, hydratation, sel, fréquence cardiaque, vertige, transpiration, refroidissement, recuperation et notes medicales."
+seoTitle: "Tracker intolérance à la chaleur pour POTS | Zebra"
+metaDescription: "Suivez intolérance à la chaleur avec temperature, douche, temps debout, hydratation, sel, fréquence cardiaque, vertige, transpiration et récupération."
+ogTitle: "Tracker intolérance à la chaleur pour POTS et dysautonomie"
+ogDescription: "Suivez symptômes lies à la chaleur, hydratation, sel, fréquence cardiaque, vertige, transpiration, refroidissement, récupération et notes medicales."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, hydratation, notes et contexte du jour."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder chaleur, vertige, fréquence cardiaque, hydratation, sel, refroidissement, recuperation et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder chaleur, vertige, fréquence cardiaque, hydratation, sel, refroidissement, récupération et questions pour le médecin dans une meme timeline."
 categories:
   - "Symptom Tracking"
   - "Dysautonomia"
@@ -33,7 +33,7 @@ tags:
   - "intolérance chaleur"
   - "POTS"
   - "dysautonomie"
-  - "suivi declencheurs"
+  - "suivi déclencheurs"
   - "hydratation"
   - "rendez-vous médical"
 entities:
@@ -58,27 +58,27 @@ secondaryKeywords:
   - "tracker chaleur POTS"
   - "suivre symptômes par temps chaud"
   - "douche chaude symptômes POTS"
-  - "journal declencheur chaleur dysautonomie"
+  - "journal déclencheur chaleur dysautonomie"
 schemaTypes:
   - "Article"
   - "HowTo"
   - "FAQPage"
 faq:
-  - question: "Que noter pour intolérance a la chaleur?"
-    answer: "Notez exposition a la chaleur, temperature si connue, humidite si pertinente, douche ou bain chaud, temps debout, hydratation, sel, symptômes, fréquence cardiaque ou tension si vous les mesurez déjà, actions de refroidissement, temps de recuperation et impact fonctionnel."
+  - question: "Que noter pour intolérance à la chaleur?"
+    answer: "Notez exposition à la chaleur, temperature si connue, humidite si pertinente, douche ou bain chaud, temps debout, hydratation, sel, symptômes, fréquence cardiaque ou tension si vous les mesurez déjà, actions de refroidissement, temps de récupération et impact fonctionnel."
   - question: "Pourquoi la chaleur peut-elle aggraver POTS ou dysautonomie?"
-    answer: "La chaleur peut être un declencheur fréquent chez les personnes avec POTS ou dysautonomie. Elle peut se chevaucher avec station debout, deshydratation, douches chaudes, effort, maladie, horaire des médicaments et manque de liquides ou de sel."
+    answer: "La chaleur peut être un déclencheur fréquent chez les personnes avec POTS ou dysautonomie. Elle peut se chevaucher avec station debout, déshydratation, douches chaudes, effort, maladie, horaire des médicaments et manque de liquides ou de sel."
   - question: "Faut-il noter chaque temperature?"
     answer: "Non. Commencez par le contexte qui a change vos symptômes: jour chaud, piece chaude, douche, attente debout, exercice, voyage ou chaleur après mauvais sommeil. Les chiffres exacts sont optionnels sauf demande du médecin."
-  - question: "Un tracker peut-il diagnostiquer intolérance a la chaleur?"
-    answer: "Non. Un tracker peut organiser les motifs pour revue médicale, mais il ne peut pas diagnostiquer POTS, dysautonomie, maladie liee a la chaleur, MCAS, EDS ou autre condition."
+  - question: "Un tracker peut-il diagnostiquer intolérance à la chaleur?"
+    answer: "Non. Un tracker peut organiser les motifs pour revue médicale, mais il ne peut pas diagnostiquer POTS, dysautonomie, maladie liée à la chaleur, MCAS, EDS ou autre condition."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-La chaleur peut transformer une journee gerable en journee lourde de symptômes pour beaucoup de personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), EDS ou HSD, Long COVID, ME/CFS, migraine ou flares chroniques. Piece chaude, meteo d'été, douche chaude, file d'attente, transport, cuisine, exercice ou manque de liquides peuvent tous apparaitre dans la meme timeline.
+La chaleur peut transformer une journée gerable en journée lourde de symptômes pour beaucoup de personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), EDS ou HSD, Long COVID, ME/CFS, migraine ou flares chroniques. Piece chaude, meteo d'été, douche chaude, file d'attente, transport, cuisine, exercice ou manque de liquides peuvent tous apparaitre dans la meme timeline.
 
-Un tracker intolérance a la chaleur ne diagnostique pas POTS, dysautonomie, maladie liee a la chaleur, MCAS, EDS ou autre condition. Il aide a apporter un motif plus clair au médecin: quelle exposition, quels symptômes, ce qui a aide, durée de recuperation et impact sur la journee.
+Un tracker intolérance à la chaleur ne diagnostique pas POTS, dysautonomie, maladie liée à la chaleur, MCAS, EDS ou autre condition. Il aide à apporter un motif plus clair au médecin: quelle exposition, quels symptômes, ce qui a aide, durée de récupération et impact sur la journée.
 
 ## Commencer par le contexte de chaleur
 
@@ -111,12 +111,12 @@ Notez:
 - pire symptôme
 - durée des symptômes
 - ce qui a aide
-- durée de recuperation
+- durée de récupération
 - si les symptômes sont revenus ensuite
 
 Exemple: "Douche chaude 8:10, debout 12 minutes. A 8:25, coeur rapide, jambes faibles, vertige 7/10. Allonge, électrolytes, mieux a 9:15 mais fatigue jusqu'au dejeuner."
 
-C'est plus facile a revoir que "la chaleur m'a terrasse."
+C'est plus facile à revoir que "la chaleur m'a terrasse."
 
 ## Garder les symptômes orthostatiques proches
 
@@ -125,7 +125,7 @@ Pour POTS et dysautonomie, la chaleur se melange souvent avec la posture debout.
 Notez si la chaleur a été suivie par:
 
 - [vertige](/fr-fr/knowledge/dizziness/)
-- [tête legere](/fr-fr/knowledge/lightheadedness/)
+- [tête légère](/fr-fr/knowledge/lightheadedness/)
 - pouls rapide ou [tachycardie](/fr-fr/knowledge/tachycardia/)
 - [palpitations](/fr-fr/knowledge/palpitations/)
 - essoufflement
@@ -143,7 +143,7 @@ Si vous mesurez déjà fréquence cardiaque ou tension dans votre plan de soins,
 
 ## Ajouter hydratation, sel et médicaments
 
-Les symptômes lies a la chaleur peuvent varier selon liquides, sel, médicaments et soutiens.
+Les symptômes lies à la chaleur peuvent varier selon liquides, sel, médicaments et soutiens.
 
 Contexte utile:
 
@@ -156,11 +156,11 @@ Contexte utile:
 - dose oubliee ou changement récent
 - [vêtements de compression](/fr-fr/knowledge/compression-garments/)
 - gilet froid, ventilateur, brumisateur, poche de glace, ombre ou climatisation
-- heure de la journee
+- heure de la journée
 
-Ne changez pas sel, liquides, médicaments ou supplements a partir d'un tracker seul. Utilisez le motif pour poser de meilleures questions.
+Ne changez pas sel, liquides, médicaments ou supplements à partir d'un tracker seul. Utilisez le motif pour poser de meilleures questions.
 
-## Noter douche et bain separement
+## Noter douche et bain séparément
 
 Les douches chaudes comptent car elles combinent chaleur, station debout, humidite et mouvements des bras.
 
@@ -173,11 +173,11 @@ Si les douches declenchent des symptômes, notez:
 - symptômes pendant la douche
 - symptômes après
 - si refroidissement, position assise ou hydratation avant a aide
-- durée de recuperation
+- durée de récupération
 
-Cela aide a discuter de changements realistes sans réduire le problème a "je ne tolere pas les douches."
+Cela aide à discuter de changements realistes sans réduire le problème a "je ne tolere pas les douches."
 
-## Separer chaleur et autres declencheurs possibles
+## Separer chaleur et autres déclencheurs possibles
 
 La chaleur peut être une partie d'un ensemble plus large.
 
@@ -186,27 +186,27 @@ Ecrivez:
 - "chaleur plus station debout"
 - "chaleur plus dejeuner saute"
 - "chaleur plus mauvais sommeil"
-- "chaleur plus regles"
+- "chaleur plus règles"
 - "chaleur plus infection"
 - "chaleur plus effort"
 - "chaleur plus changement de médicament"
 
-Cette formulation evite de traiter la chaleur comme seule cause.
+Cette formulation évite de traiter la chaleur comme seule cause.
 
-## Noter recuperation et impact fonctionnel
+## Noter récupération et impact fonctionnel
 
-La recuperation fait partie de l'histoire.
+La récupération fait partie de l'histoire.
 
 Notez:
 
 - combien de temps vous avez du vous reposer
-- si vous etes revenu a votre baseline
+- si vous êtes revenu à votre baseline
 - si la fatigue est restee
 - si brain fog, mal de tête, nausee ou vertige ont continue
-- si travail, ecole, courses, cuisine, conduite, douche, exercice ou plans sociaux ont été annules
+- si travail, école, courses, cuisine, conduite, douche, exercice ou plans sociaux ont été annulés
 - si vous avez eu besoin d'aide
 
-"Recupere en 20 minutes" et "journee perdue" sont des motifs très differents.
+"Recupere en 20 minutes" et "journée perdue" sont des motifs très differents.
 
 ## Que resumer avant le rendez-vous
 
@@ -219,13 +219,13 @@ Avant cardiologie, neurologie, médecin traitant, EDS, Long COVID ou dysautonomi
 - hydratation et sel
 - fréquence cardiaque ou tension si mesuree
 - strategies de refroidissement utiles ou non
-- durée habituelle de recuperation
+- durée habituelle de récupération
 - impact fonctionnel
-- malaise, douleur thoracique, essoufflement severe, confusion ou inquietude de maladie liee a la chaleur
+- malaise, douleur thoracique, essoufflement sévère, confusion ou inquietude de maladie liée à la chaleur
 
 Questions utiles:
 
-- "Devrais-je suivre fréquence cardiaque ou tension pendant les symptômes lies a la chaleur?"
+- "Devrais-je suivre fréquence cardiaque ou tension pendant les symptômes lies à la chaleur?"
 - "Chaleur, station debout, hydratation, sel ou médicaments pourraient-ils être lies?"
 - "Les douches chaudes sont-elles un indice utile pour mon évaluation?"
 - "Quels symptômes devraient être urgents?"
@@ -244,15 +244,15 @@ Lecture utile:
 
 ## Où Zebra s'insere
 
-Zebra aide a garder exposition a la chaleur, symptômes orthostatiques, hydratation, sel, médicaments, refroidissement, recuperation et questions pour le médecin dans une meme timeline.
+Zebra aide à garder exposition à la chaleur, symptômes orthostatiques, hydratation, sel, médicaments, refroidissement, récupération et questions pour le médecin dans une meme timeline.
 
-Pour le suivi spécifique au POTS, le [journal POTS Zebra](/fr-fr/pots-tracker/) relie chaleur, poussees, hydratation, sel, médicaments et notes de rendez-vous dans un meme historique.
+Pour le suivi spécifique au POTS, le [journal POTS Zebra](/fr-fr/pots-tracker/) relie chaleur, poussées, hydratation, sel, médicaments et notes de rendez-vous dans un meme historique.
 
-Il ne diagnostique pas intolérance a la chaleur ou conditions autonomes. Il aide a apporter un motif de chaleur plus clair, pret pour le médecin.
+Il ne diagnostique pas intolérance à la chaleur ou conditions autonomes. Il aide à apporter un motif de chaleur plus clair, pret pour le médecin.
 
 ## Points clés
 
-- Suivez ensemble contexte de chaleur, timing des symptômes, temps debout, hydratation, sel, médicaments, refroidissement, recuperation et impact fonctionnel.
-- Les douches chaudes meritent leurs propres notes car elles combinent chaleur, station debout, humidite et mouvement.
+- Suivez ensemble contexte de chaleur, timing des symptômes, temps debout, hydratation, sel, médicaments, refroidissement, récupération et impact fonctionnel.
+- Les douches chaudes méritent leurs propres notes car elles combinent chaleur, station debout, humidite et mouvement.
 - Traitez la chaleur comme contexte, pas comme preuve automatique.
 - Un journal court et régulier peut rendre la discussion médicale plus claire.

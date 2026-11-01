@@ -5,7 +5,7 @@ title: "Registro de intolerancia al ejercicio para POTS: que anotar"
 status: "published"
 subtitle: "Las notas sobre intolerancia al ejercicio son más útiles cuando tipo de actividad, posición corporal, duración, intensidad, calor, hidratación, sal, frecuencia cardíaca, respiración, mareo, fatiga, empeoramiento diferido, recuperación e impacto diario quedan conectados. El objetivo no es forzar progreso. El objetivo es llevar patrones de esfuerzo más claros al clínico."
 description: "Aprenda que anotar en un registro de intolerancia al ejercicio para POTS, disautonomía, Long COVID, fatiga, frecuencia cardíaca, mareo, hidratación, sal, recuperación y visitas médicas."
-excerpt: "Una guía práctica para registrar intolerancia al ejercicio, tipo de actividad, posición, duración, intensidad, frecuencia cardíaca, mareo, fatiga, empeoramiento diferido, recuperación y resumenes para consulta."
+excerpt: "Una guía práctica para registrar intolerancia al ejercicio, tipo de actividad, posición, duración, intensidad, frecuencia cardíaca, mareo, fatiga, empeoramiento diferido, recuperación y resúmenes para consulta."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -99,7 +99,7 @@ Registre:
 - duración total
 - intensidad: fácil, moderada, difícil o demasiado
 
-Ejemplo: "10 minutos caminata lenta afuera, pequena cuesta, calor. FC maxima 132, mareo 5/10, piernas pesadas. Me sente 15 minutos; fatiga hasta la noche."
+Ejemplo: "10 minutos caminata lenta afuera, pequena cuesta, calor. FC máxima 132, mareo 5/10, piernas pesadas. Me sente 15 minutos; fatiga hasta la noche."
 
 Eso es más útil que "el ejercicio fue malo."
 
@@ -145,7 +145,7 @@ Síntomas posibles:
 - falta de aire
 - molestia en el pecho
 - temblor
-- nauseas
+- náuseas
 - dolor de cabeza
 - sudoración
 - piernas pesadas
@@ -162,7 +162,7 @@ Algunas personas deben registrar frecuencia cardíaca, presión arterial, oxigen
 Si ya mide, escriba:
 
 - valor en reposo antes de la actividad
-- valor maximo
+- valor máximo
 - posición corporal
 - valor después de parar
 - cuánto tardó en bajar

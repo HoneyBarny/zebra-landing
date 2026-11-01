@@ -93,7 +93,7 @@ Esa lista es útil, pero no explica qué cambió.
 Una nota de cita más fuerte dice:
 
 - la fatiga hizo difícil ducharme y cocinar tres días esta semana
-- el mareo aparecio después de estar de pie y me obligo a sentarme
+- el mareo apareció después de estar de pie y me obligo a sentarme
 - el brain fog hizo difícil terminar mensajes de trabajo
 - el dolor cambio cuanto tiempo podia caminar o sentarme erguido
 

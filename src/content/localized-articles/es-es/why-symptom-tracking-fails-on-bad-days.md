@@ -1,11 +1,11 @@
 ---
 locale: "es-es"
 originalSlug: "why-symptom-tracking-fails-on-bad-days"
-title: "Por que el rastreo de síntomas falla en los días malos"
+title: "Por qué el rastreo de síntomas falla en los días malos"
 status: "published"
 subtitle: "El rastreo de síntomas suele fallar en los días malos porque los mismos síntomas que hacen importante rastrear también hacen que rastrear sea más difícil. Fatiga, dolor, brain fog, mareo y agobio reducen la energía, memoria y concentración necesarias para registrar lo que pasó. Cuando un sistema de rastreo asume que siempre puedes mantener el ritmo, se rompe justo cuando más lo necesitas."
-description: "Aprende por que el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
-excerpt: "Aprende por que el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
+description: "Aprende por qué el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
+excerpt: "Aprende por qué el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -13,13 +13,13 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
-primaryKeyword: "por que el rastreo de síntomas falla en días malos"
-seoTitle: "Por que el rastreo de síntomas falla en los días malos | Zebra"
-metaDescription: "Aprende por que el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
-ogTitle: "Por que el rastreo de síntomas falla en los días malos"
-ogDescription: "Una explicación realista de por que el rastreo se rompe cuando los síntomas empeoran y que funciona mejor."
+primaryKeyword: "por qué el rastreo de síntomas falla en días malos"
+seoTitle: "Por qué el rastreo de síntomas falla en los días malos | Zebra"
+metaDescription: "Aprende por qué el rastreo de síntomas suele deshacerse en los días malos y como un enfoque de menor esfuerzo puede hacerlo más sostenible."
+ogTitle: "Por qué el rastreo de síntomas falla en los días malos"
+ogDescription: "Una explicación realista de por qué el rastreo se rompe cuando los síntomas empeoran y que funciona mejor."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Diagrama de bucle que muestra por que el rastreo de síntomas suele romperse en días malos"
+heroImageAlt: "Diagrama de bucle que muestra por qué el rastreo de síntomas suele romperse en días malos"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Usa Zebra para reducir el esfuerzo necesario en días malos."
@@ -92,7 +92,7 @@ El rastreo amable con días malos suele significar:
 
 El punto no son las rachas. Es conservar suficiente historial para ayudar después.
 
-## Un mejor estandar de exito
+## Un mejor estándar de exito
 
 En días malos, el exito puede significar:
 
@@ -104,7 +104,7 @@ Eso todavía cuenta.
 
 ## Dónde encaja Zebra
 
-La propuesta de valor de Zebra esta construida alrededor de reducir el esfuerzo en días difíciles en lugar de pedir más. El registro solo ayuda si todavía puedes usarlo cuando los síntomas estan peor.
+La propuesta de valor de Zebra esta construida alrededor de reducir el esfuerzo en días difíciles en lugar de pedir más. El registro solo ayuda si todavía puedes usarlo cuando los síntomas están peor.
 
 Para quienes buscan un seguimiento pensado para la enfermedad invisible en lugar de una app de bienestar genérica, la página [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/) explica este enfoque.
 

@@ -147,7 +147,7 @@ Eso mantiene el sistema lo bastante realista para usarlo en días malos y aun co
 
 ## Conclusión
 
-El mejor rastreador de síntomas para intolerancia ortostática es el que mantiene comprensibles después los cambios de síntomas al estar de pie. Para muchas personas, el problema no es falta de información. Es falta de una historia conectada. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para intolerancia ortostática es el que mantiene comprensibles después los cambios de síntomas al estar de pie. Para muchas personas, el problema no es falta de información. Es falta de una historia conectada. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

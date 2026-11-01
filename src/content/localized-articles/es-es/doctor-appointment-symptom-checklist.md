@@ -18,7 +18,7 @@ primaryKeyword: "lista síntomas cita médica"
 seoTitle: "Lista de síntomas para una cita médica | Zebra"
 metaDescription: "Usa esta lista de síntomas para una cita médica para organizar síntomas, brotes, medicamentos, cambios funcionales y preguntas antes de la visita."
 ogTitle: "Lista de síntomas para una cita médica"
-ogDescription: "Una lista práctica para llevar un historial de síntomas más claro a tu proxima cita médica."
+ogDescription: "Una lista práctica para llevar un historial de síntomas más claro a tu próxima cita médica."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Pantalla de preparación de cita de Zebra con historial de síntomas y notas listas para el médico."
 ctaLabel: "Descargar Zebra"
@@ -60,7 +60,7 @@ faq:
   - question: "¿Qué tan larga debe ser mi lista de síntomas?"
     answer: "Mantenla lo bastante corta para revisarla durante la visita. Una página o unas pocas secciones organizadas suelen ser más útiles que un diario largo."
   - question: "¿Debo incluir medicamentos y suplementos?"
-    answer: "Si. Una lista clara de medicamentos recetados, medicamentos sin receta, vitaminas y suplementos es contexto útil para la cita."
+    answer: "Sí. Una lista clara de medicamentos recetados, medicamentos sin receta, vitaminas y suplementos es contexto útil para la cita."
   - question: "¿Esta lista es consejo médico?"
     answer: "No. Esta lista es una herramienta de organización para preparar citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -119,7 +119,7 @@ Anota:
 - si se volvió más frecuente
 - si cambio la gravedad
 - si cambio la recuperación
-- si aparecio un síntoma nuevo
+- si apareció un síntoma nuevo
 - si hubo cambios de rutina, medicamento, infección, periodo, viaje, calor, sueño o actividad en el mismo periodo
 
 En enfermedad crónica, "estoy cansada" puede ser verdad pero difícil de usar. "La fatiga paso de ser sobre todo por la noche a durar todo el día después de poca actividad" da más contexto.
@@ -196,7 +196,7 @@ Los materiales de AHRQ sugieren llevar tus preguntas principales y preguntar sob
 Formatos útiles:
 
 - ¿Qué patrón parece más importante?
-- ¿Qué debería registrar antes de la proxima visita?
+- ¿Qué debería registrar antes de la próxima visita?
 - ¿Qué habría que esto fuera urgente?
 - ¿Cuáles son los proximos pasos?
 - ¿Cuáles son beneficios y riesgos de esta prueba o tratamiento?
@@ -248,7 +248,7 @@ Lo principal con lo que necesito ayuda es:
 
 ## Cómo puede ayudar Zebra
 
-Zebra esta construido para personas que necesitan convertir notas de síntomas en preparación de cita, no solo guardarlas.
+Zebra está construido para personas que necesitan convertir notas de síntomas en preparación de cita, no solo guardarlas.
 
 Usa Zebra para mantener síntomas, brotes, medicamentos, cambios de rutina, sal, agua, contexto ortostático, notas y preguntas en un solo lugar.
 

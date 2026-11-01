@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "shower-and-bath-symptom-tracker-for-pots"
 title: "Registro de síntomas en ducha y baño para POTS: que anotar"
 status: "published"
-subtitle: "Las notas sobre la ducha son más útiles cuando temperatura del agua, tiempo de pie, apoyo para sentarse, movimiento de brazos, mareo, frecuencia cardíaca, palpitaciones, nauseas, sudoración, hidratación, sal, recuperación e impacto diario quedan conectados. El objetivo no es demostrar una única causa. El objetivo es llevar patrones cotidianos más claros a su clínico."
+subtitle: "Las notas sobre la ducha son más útiles cuando temperatura del agua, tiempo de pie, apoyo para sentarse, movimiento de brazos, mareo, frecuencia cardíaca, palpitaciones, náuseas, sudoración, hidratación, sal, recuperación e impacto diario quedan conectados. El objetivo no es demostrar una única causa. El objetivo es llevar patrones cotidianos más claros a su clínico."
 description: "Aprenda que anotar en un registro de síntomas de ducha y baño para POTS, disautonomía, intolerancia al calor, mareo, palpitaciones, hidratación, sal, recuperación y visitas médicas."
-excerpt: "Una guía práctica para registrar síntomas en ducha y baño, temperatura del agua, tiempo de pie, apoyo para sentarse, mareo, frecuencia cardíaca, palpitaciones, nauseas, sudoración, recuperación y resumenes para consulta."
+excerpt: "Una guía práctica para registrar síntomas en ducha y baño, temperatura del agua, tiempo de pie, apoyo para sentarse, mareo, frecuencia cardíaca, palpitaciones, náuseas, sudoración, recuperación y resúmenes para consulta."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -75,13 +75,13 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, nauseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, náuseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
 
 Un registro de síntomas de ducha no diagnostica POTS, disautonomía, enfermedad por calor, efectos secundarios de medicación, ansiedad ni ninguna otra condición. Le ayuda a llevar un patrón cotidiano más claro a su clínico: qué tipo de ducha o baño desencadenó síntomas, qué ocurrió, qué ayudó y cuánto duró la recuperación.
 
 ## Empiece Con El Contexto De La Ducha
 
-No necesita un registro perfecto del baño. Empiece por los detalles que pueden explicar por que una ducha fue más fácil o más difícil que otra.
+No necesita un registro perfecto del baño. Empiece por los detalles que pueden explicar por qué una ducha fue más fácil o más difícil que otra.
 
 Registre:
 
@@ -131,7 +131,7 @@ Registre si noto:
 - casi desmayo o [sincope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
-- nauseas
+- náuseas
 - temblor
 - sudoración mayor o menor de lo esperado
 - falta de aire

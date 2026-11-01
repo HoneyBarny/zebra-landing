@@ -2,10 +2,10 @@
 locale: "fr-fr"
 originalSlug: "how-to-summarize-symptoms-without-forgetting-key-details"
 status: "published"
-title: "Comment resumer les symptômes sans oublier les details importants"
-subtitle: "Pour resumer les symptômes sans oublier les details importants, commencez par ce qui a change, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon resume de symptômes est assez court pour servir sous pression et assez structure pour empecher les details importants de disparaitre quand le brain fog arrive."
-description: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les details qui comptent le plus."
-excerpt: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les details qui comptent le plus."
+title: "Comment resumer les symptômes sans oublier les détails importants"
+subtitle: "Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a change, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon resume de symptômes est assez court pour servir sous pression et assez structure pour empecher les détails importants de disparaitre quand le brain fog arrive."
+description: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les détails qui comptent le plus."
+excerpt: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les détails qui comptent le plus."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -13,10 +13,10 @@ nextReview: "2026-12-26"
 lastReviewed: "2026-06-29"
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
-primaryKeyword: "comment resumer symptômes sans oublier details importants"
-seoTitle: "Comment resumer les symptômes sans oublier les details importants | Zebra"
-metaDescription: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les details qui comptent le plus."
-ogTitle: "Comment resumer les symptômes sans oublier les details importants"
+primaryKeyword: "comment resumer symptômes sans oublier détails importants"
+seoTitle: "Comment resumer les symptômes sans oublier les détails importants | Zebra"
+metaDescription: "Apprenez comment resumer clairement les symptômes pour les rendez-vous sans perdre les détails qui comptent le plus."
+ogTitle: "Comment resumer les symptômes sans oublier les détails importants"
 ogDescription: "Une methode pratique pour écrire un court resume de symptômes qui aide encore sous pression."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Modele en quatre parties pour resumer les symptômes avant une visite médicale"
@@ -33,7 +33,7 @@ tags:
   - "resume de symptômes"
   - "brain fog"
   - "visite médicale"
-  - "historique de sante"
+  - "historique de santé"
   - "maladie chronique"
 entities:
   - "Health History"
@@ -52,13 +52,13 @@ schemaTypes:
 faq:
   - question: "Comment resumer les symptômes pour une visite médicale?"
     answer: "Concentrez-vous sur ce qui a change, comment cela a affecte la vie quotidienne, quel contexte pertinent a change autour et quelle question vous avez besoin de resoudre."
-  - question: "Comment éviter d'oublier des details importants pendant les rendez-vous?"
+  - question: "Comment éviter d'oublier des détails importants pendant les rendez-vous?"
     answer: "Utilisez un resume écrit avant la visite au lieu de compter sur votre mémoire dans la salle."
   - question: "Quelle longueur doit faire un resume de symptômes?"
     answer: "Assez court pour être scanne rapidement. Si vous ne pouvez pas le relire facilement sous stress, il est probablement trop long."
 ---
 
-Pour resumer les symptômes sans oublier les details importants, commencez par ce qui a change, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon resume de symptômes est assez court pour servir sous pression et assez structure pour empecher les details importants de disparaitre quand le brain fog arrive.
+Pour resumer les symptômes sans oublier les détails importants, commencez par ce qui a change, ce qui a affecte la vie quotidienne, quels changements de traitement ou de routine comptent et de quelle aide vous avez besoin maintenant. Un bon resume de symptômes est assez court pour servir sous pression et assez structure pour empecher les détails importants de disparaitre quand le brain fog arrive.
 
 ## Pourquoi les personnes oublient la partie importante
 
@@ -80,7 +80,7 @@ Commencez par le changement le plus clair:
 
 - nouveau symptôme
 - sévérité pire
-- poussees plus frequentes
+- poussées plus frequentes
 - nouveaux symptômes en position debout
 
 ### 2. Quelle partie de la vie quotidienne cela a affectee
@@ -90,7 +90,7 @@ Dites ce que le symptôme a fait:
 - impossible de finir le travail
 - besoin de m'allonger
 - arret de la conduite
-- difficulte a penser clairement
+- difficulte à penser clairement
 
 ### 3. Ce qui a aussi change autour
 
@@ -98,7 +98,7 @@ Incluez le contexte qui compte:
 
 - médicaments
 - sommeil
-- profil de poussees
+- profil de poussées
 - changements d'hydratation ou de routine
 
 ### 4. De quelle aide vous avez besoin
@@ -121,7 +121,7 @@ L'objectif est l'utilisabilite, pas l'exhaustivite.
 
 ## La place de Zebra
 
-Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le resume final plus facile a construire plus tard, surtout si les symptômes, poussees, fonctionnement, médicaments et observations liees étaient déjà gardes ensemble.
+Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le resume final plus facile à construire plus tard, surtout si les symptômes, poussées, fonctionnement, médicaments et observations liées étaient déjà gardes ensemble.
 
 ## Points clés
 
@@ -136,7 +136,7 @@ Zebra aide parce qu'il organise d'abord l'historique quotidien. Cela rend le res
 
 Concentrez-vous sur ce qui a change, comment cela a affecte la vie quotidienne, quel contexte pertinent a change autour et quelle question vous avez besoin de resoudre.
 
-### Comment éviter d'oublier des details importants pendant les rendez-vous?
+### Comment éviter d'oublier des détails importants pendant les rendez-vous?
 
 Utilisez un resume écrit avant la visite au lieu de compter sur votre mémoire dans la salle.
 

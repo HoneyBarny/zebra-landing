@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "pots-vs-orthostatic-tachycardia-what-changes-matter"
 status: "published"
 title: "POTS vs taquicardia ortostática: que cambios importan?"
-subtitle: "POTS y la taquicardia ortostática estan relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. POTS es un sindrome clínico más amplio que suele incluir síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria."
+subtitle: "POTS y la taquicardia ortostática están relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. POTS es un síndrome clínico más amplio que suele incluir síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria."
 description: "Aprende la diferencia entre POTS y taquicardia ortostática, y que síntomas, constantes y cambios de función diaria son más útiles de registrar."
 excerpt: "Una comparación práctica de POTS y taquicardia ortostática, más que registrar cuando necesitas un historial más claro listo para el médico."
 author: "zebra-editorial"
@@ -54,8 +54,8 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cuál es la diferencia entre POTS y taquicardia ortostática?"
-    answer: "La taquicardia ortostática describe un patrón de frecuencia cardíaca que ocurre al estar en posición vertical. POTS es un sindrome clínico más amplio que puede incluir taquicardia ortostática más síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie."
-  - question: "¿La taquicardia ortostática significa automaticamente POTS?"
+    answer: "La taquicardia ortostática describe un patrón de frecuencia cardíaca que ocurre al estar en posición vertical. POTS es un síndrome clínico más amplio que puede incluir taquicardia ortostática más síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie."
+  - question: "¿La taquicardia ortostática significa automáticamente POTS?"
     answer: "No. Un cambio de frecuencia cardíaca relacionado con la postura puede ser parte del cuadro, pero el diagnóstico depende de una evaluación clínica y del contexto más amplio de síntomas."
   - question: "¿Qué debería registrar si mi frecuencia cardíaca sube al ponerme de pie?"
     answer: "Registra postura, síntomas, momento, impacto en la función diaria y cualquier observación relevante de frecuencia cardíaca o presión arterial en el mismo registro."
@@ -65,7 +65,7 @@ faq:
     answer: "Un informe conciso puede ayudarte a revisar patrones recurrentes, grupos de síntomas y las preguntas que quieres llevar a la atención médica."
 ---
 
-POTS y la taquicardia ortostática estan relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. [POTS](/knowledge/pots/) es un sindrome clínico más amplio que suele incluir síntomas como mareo, [palpitaciones](/knowledge/palpitations/), fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria.
+POTS y la taquicardia ortostática están relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. [POTS](/knowledge/pots/) es un síndrome clínico más amplio que suele incluir síntomas como mareo, [palpitaciones](/knowledge/palpitations/), fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria.
 
 Para el seguimiento de síntomas, esa diferencia importa porque los números por si solos rara vez bastan. Un historial más claro suele combinar síntomas, contexto relacionado con la postura y cambios funcionales en un solo registro.
 
@@ -74,7 +74,7 @@ Para el seguimiento de síntomas, esa diferencia importa porque los números por
 La distinción práctica es:
 
 - [Taquicardia ortostática](/knowledge/orthostatic-tachycardia/) es un patrón descriptivo
-- [POTS](/knowledge/pots/) es un sindrome clínico más amplio
+- [POTS](/knowledge/pots/) es un síndrome clínico más amplio
 
 Eso significa que puedes registrar taquicardia ortostática como parte de tu historia sin asumir que explica todo el cuadro.
 
@@ -92,7 +92,7 @@ Eso puede incluir:
 - mareo o aturdimiento
 - temblores
 - palpitaciones
-- nauseas
+- náuseas
 - debilidad
 - brain fog
 
@@ -113,13 +113,13 @@ Eso suele incluir:
 - sensibilidad al calor
 - recuperación más difícil después de estar en posición vertical
 
-Dysautonomia International describe POTS como un sindrome que implica intolerancia ortostática y síntomas que pueden incluir aturdimiento, fatiga, palpitaciones e intolerancia al ejercicio. Ver [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30).
+Dysautonomia International describe POTS como un síndrome que implica intolerancia ortostática y síntomas que pueden incluir aturdimiento, fatiga, palpitaciones e intolerancia al ejercicio. Ver [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30).
 
 ## ¿Comparación: que cambios importan?
 
 | Pregunta | Taquicardia ortostática | POTS |
 | --- | --- | --- |
-| Que describe | Un patrón de frecuencia cardíaca relacionado con la postura | Un sindrome más amplio que puede incluir taquicardia ortostática y síntomas |
+| Que describe | Un patrón de frecuencia cardíaca relacionado con la postura | Un síndrome más amplio que puede incluir taquicardia ortostática y síntomas |
 | Que registrar | Postura, momento, síntomas, cambios de frecuencia cardíaca | Postura, síntomas, brotes, función, contexto y mediciones relevantes |
 | Que se pierde si solo registras el número | Carga de síntomas e impacto en la vida diaria | El patrón puede parecer incompleto sin todo el contexto |
 | Mejor uso del seguimiento | Mostrar que ocurre en posición vertical | Mostrar el patrón completo que necesitas comentar en la atención médica |
@@ -185,11 +185,11 @@ Eso te da un registro mucho más fácil de revisar antes de una visita o incluir
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para el espacio entre "note algo importante" y "puedo explicar claramente el patrón después". Eso es especialmente útil cuando los síntomas de [intolerancia ortostática](/knowledge/orthostatic-intolerance/), [taquicardia](/knowledge/tachycardia/) y cambios en la función diaria necesitan mantenerse conectados.
+Zebra está creado para el espacio entre "note algo importante" y "puedo explicar claramente el patrón después". Eso es especialmente útil cuando los síntomas de [intolerancia ortostática](/knowledge/orthostatic-intolerance/), [taquicardia](/knowledge/tachycardia/) y cambios en la función diaria necesitan mantenerse conectados.
 
 ## Ideas clave
 
-- La taquicardia ortostática describe un patrón. POTS describe un sindrome más amplio.
+- La taquicardia ortostática describe un patrón. POTS describe un síndrome más amplio.
 - El registro más útil combina síntomas, postura y contexto de función diaria.
 - Un número sin contexto es más difícil de usar en la atención médica.
 - Un historial revisable suele ser mejor que notas separadas de constantes y síntomas.
@@ -198,9 +198,9 @@ Zebra esta creado para el espacio entre "note algo importante" y "puedo explicar
 
 ### ¿Cuál es la diferencia entre POTS y taquicardia ortostática?
 
-La taquicardia ortostática describe un patrón de frecuencia cardíaca que ocurre al estar en posición vertical. POTS es un sindrome clínico más amplio que puede incluir taquicardia ortostática más síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie.
+La taquicardia ortostática describe un patrón de frecuencia cardíaca que ocurre al estar en posición vertical. POTS es un síndrome clínico más amplio que puede incluir taquicardia ortostática más síntomas como mareo, palpitaciones, fatiga e intolerancia al estar de pie.
 
-### ¿La taquicardia ortostática significa automaticamente POTS?
+### ¿La taquicardia ortostática significa automáticamente POTS?
 
 No. Un cambio de frecuencia cardíaca relacionado con la postura puede ser parte del cuadro, pero el diagnóstico depende de una evaluación clínica y del contexto más amplio de síntomas.
 

@@ -166,7 +166,7 @@ Eso mantiene el sistema lo bastante realista para usarlo en días malos y aun co
 
 ## Conclusión
 
-La mejor app para seguimiento de síntomas ortostáticos es la que mantiene comprensibles después los cambios de síntomas al estar de pie. Para muchas personas, el problema no es falta de información. Es falta de un registro conectado. Zebra esta creado para cerrar esa brecha.
+La mejor app para seguimiento de síntomas ortostáticos es la que mantiene comprensibles después los cambios de síntomas al estar de pie. Para muchas personas, el problema no es falta de información. Es falta de un registro conectado. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

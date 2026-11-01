@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-to-track-before-a-specialist-appointment"
 title: "Como rastrear síntomas antes de una cita con especialista"
 status: "published"
-subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar que cambió, que esta afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
+subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar que cambió, que está afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
 description: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 excerpt: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 author: "zebra-editorial"
@@ -17,7 +17,7 @@ primaryKeyword: "que rastrear antes de una cita con especialista"
 seoTitle: "Que rastrear antes de una cita con especialista | Zebra"
 metaDescription: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 ogTitle: "Que rastrear antes de una cita con especialista"
-ogDescription: "Una lista simple para rastrear síntomas, cambios, medicación y preguntas antes de tu proxima visita con especialista."
+ogDescription: "Una lista simple para rastrear síntomas, cambios, medicación y preguntas antes de tu próxima visita con especialista."
 heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Persona revisando una lista simple de síntomas y medicamentos antes de una cita con especialista."
 ctaLabel: "Descargar Zebra"
@@ -60,9 +60,9 @@ faq:
   - question: "¿Necesito rastrear todos los síntomas antes de una cita?"
     answer: "No. Rastrea los síntomas que son más disruptivos, más relevantes para la visita o claramente nuevos o peores."
   - question: "¿Debo llevar una lista de medicación a una cita con especialista?"
-    answer: "Si. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita."
+    answer: "Sí. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita."
   - question: "¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?"
-    answer: "Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningun registro."
+    answer: "Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningún registro."
   - question: "¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?"
     answer: "Puede ayudar anotar síntomas relacionados con la posición, brotes recientes, cambios de hidratación y sal, y observaciones relevantes de frecuencia cardíaca o presión arterial en casa. Mantén las notas simples y enfocadas en la conversación."
 ---
@@ -97,7 +97,7 @@ Ejemplos:
 - fatiga
 - brain fog
 - dolor
-- nauseas
+- náuseas
 - falta de aire
 - debilidad
 
@@ -119,7 +119,7 @@ Rastrea:
 
 - cuando empezaron los síntomas o empeoraron
 - si son diarios, ocasionales o basados en brotes
-- si aparecen después de estar de pie, actividad, mal sueño, calor, comidas o estres
+- si aparecen después de estar de pie, actividad, mal sueño, calor, comidas o estrés
 - si algo mejoró o se volvió más severo
 
 Esto es especialmente útil para condiciones fluctuantes, donde "a veces me siento mal" es cierto pero demasiado amplio para ayudar mucho en una cita corta.
@@ -155,7 +155,7 @@ Ejemplos:
 - no pude pensar con suficiente claridad para responder mensajes
 - tuve que cancelar planes
 
-Esto importa porque los síntomas son más fáciles de minimizar cuando se describen solo como palabras. El impacto funcional muestra que estan haciendo esos síntomas a tu vida diaria.
+Esto importa porque los síntomas son más fáciles de minimizar cuando se describen solo como palabras. El impacto funcional muestra que están haciendo esos síntomas a tu vida diaria.
 
 ### 5. Cambios de medicación, suplementos y rutina
 
@@ -202,7 +202,7 @@ Los materiales `Questions Are the Answer` de [AHRQ](https://www.ahrq.gov/questio
 Buenas categorías de preguntas incluyen:
 
 - qué cambió parece más importante
-- qué debo rastrear antes de la proxima visita
+- qué debo rastrear antes de la próxima visita
 - para que es esta prueba o tratamiento
 - qué alternativas existen
 - qué efectos secundarios o interacciones debo vigilar
@@ -227,7 +227,7 @@ Si tienes poca energía, usa esta estructura:
 - esfuerzo
 - comidas
 
-### Qué esta haciendo a la vida diaria
+### Qué está haciendo a la vida diaria
 
 - trabajo
 - escuela
@@ -249,7 +249,7 @@ Si tienes poca energía, usa esta estructura:
 
 Esto es suficiente para un resumen fuerte de cita incluso si no estas rastreando perfectamente.
 
-## ¿Cuánto tiempo hacia atras debes rastrear?
+## ¿Cuánto tiempo hacia atrás debes rastrear?
 
 Para la mayoría de visitas con especialistas, el lugar más útil para empezar es la ventana reciente antes de la cita.
 
@@ -277,7 +277,7 @@ Normalmente no necesitas:
 - un parrafo largo cada día
 - cada síntoma posible si solo algunos son relevantes
 - cada dato de casa
-- rellenar hacia atras sin errores
+- rellenar hacia atrás sin errores
 - un documento perfectamente formateado a último minuto
 
 Si rastrear consume tanta energía que dejas de hacerlo, es demasiado.
@@ -300,7 +300,7 @@ El objetivo es "dejarle a tu yo futuro algo real con lo que trabajar."
 
 ## Cómo encaja Zebra en este flujo
 
-Zebra esta creado para este problema exacto de preparación de citas.
+Zebra está creado para este problema exacto de preparación de citas.
 
 En lugar de mantener síntomas en un lugar, medicación en otro y preguntas en tu cabeza, Zebra puede ayudarte a mantener:
 
@@ -321,7 +321,7 @@ Zebra no diagnostica condiciones ni te dice que decidira tu especialista. Ayuda 
 
 ### Esperar hasta la noche anterior
 
-Si la cita ya esta en el calendario, empieza ahora con rastreo simple. Incluso unos pocos días de notas organizadas son mejores que un resumen apresurado desde la memoria.
+Si la cita ya está en el calendario, empieza ahora con rastreo simple. Incluso unos pocos días de notas organizadas son mejores que un resumen apresurado desde la memoria.
 
 ### Rastrear demasiado amplio
 
@@ -363,11 +363,11 @@ No. Rastrea los síntomas que son más disruptivos, más relevantes para la visi
 
 ### ¿Debo llevar una lista de medicación a una cita con especialista?
 
-Si. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita.
+Sí. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita.
 
 ### ¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?
 
-Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningun registro.
+Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningún registro.
 
 ### ¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?
 

@@ -1,10 +1,10 @@
 ---
 locale: "fr-fr"
 originalSlug: "pots-home-test-notes-heart-rate-blood-pressure"
-title: "Notes de test POTS a domicile: quoi noter avec fréquence cardiaque et tension"
+title: "Notes de test POTS à domicile: quoi noter avec fréquence cardiaque et tension"
 status: "published"
-subtitle: "Les notes orthostatiques a domicile sont plus utiles quand les chiffres restent lies a la posture, au moment, aux symptômes, aux médicaments, a l'hydratation et a la sécurité. Le but n'est pas de vous diagnostiquer, mais d'apporter des observations plus claires au médecin."
-description: "Apprenez quoi noter dans un test POTS a domicile: fréquence cardiaque, tension arterielle, posture, moment, symptômes, médicaments, hydratation et sécurité."
+subtitle: "Les notes orthostatiques à domicile sont plus utiles quand les chiffres restent lies à la posture, au moment, aux symptômes, aux médicaments, a l'hydratation et à la sécurité. Le but n'est pas de vous diagnostiquer, mais d'apporter des observations plus claires au médecin."
+description: "Apprenez quoi noter dans un test POTS à domicile: fréquence cardiaque, tension artérielle, posture, moment, symptômes, médicaments, hydratation et sécurité."
 excerpt: "Un guide pratique pour noter fréquence cardiaque, tension, symptômes et contexte pour les discussions sur POTS ou intolérance orthostatique."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
@@ -15,9 +15,9 @@ featured: false
 cluster: "POTS"
 category: "POTS"
 primaryKeyword: "notes test POTS domicile"
-seoTitle: "Notes de test POTS a domicile: fréquence et tension | Zebra"
-metaDescription: "Notez un test POTS a domicile avec fréquence cardiaque, tension, posture, moment, symptômes, hydratation, médicaments et questions pour le médecin."
-ogTitle: "Notes de test POTS a domicile: quoi noter"
+seoTitle: "Notes de test POTS à domicile: fréquence et tension | Zebra"
+metaDescription: "Notez un test POTS à domicile avec fréquence cardiaque, tension, posture, moment, symptômes, hydratation, médicaments et questions pour le médecin."
+ogTitle: "Notes de test POTS à domicile: quoi noter"
 ogDescription: "Un guide pratique pour noter fréquence cardiaque orthostatique, tension, symptômes et contexte."
 heroImage: "/screenshots/orthostatic-test-fr.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des symptômes et constantes par position."
@@ -32,7 +32,7 @@ categories:
 tags:
   - "test POTS domicile"
   - "fréquence cardiaque"
-  - "tension arterielle"
+  - "tension artérielle"
   - "test orthostatique"
   - "active stand test"
 entities:
@@ -59,36 +59,36 @@ schemaTypes:
   - "HowTo"
   - "FAQPage"
 faq:
-  - question: "Que faut-il noter pendant un test POTS a domicile?"
+  - question: "Que faut-il noter pendant un test POTS à domicile?"
     answer: "Notez posture, temps, fréquence cardiaque, tension, symptômes, amélioration après s'être assis ou allongé, contexte des médicaments, hydratation, sel si pertinent pour votre plan, et notes de sécurité."
-  - question: "Un test debout a domicile peut-il diagnostiquer POTS?"
-    answer: "Non. Les notes a domicile peuvent soutenir une discussion clinique, mais le diagnostic de POTS demande une interprétation médicale et l'exclusion d'autres causes de tachycardie ou symptômes orthostatiques."
-  - question: "Quand faut-il arrêter une verification orthostatique a domicile?"
-    answer: "Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent."
-  - question: "Faut-il changer sel, liquides ou médicaments selon les chiffres a domicile?"
-    answer: "Non. Ne changez pas le traitement sur la base de mesures a domicile seules. Utilisez les notes pour demander a votre médecin quels changements sont adaptes a vous."
+  - question: "Un test debout à domicile peut-il diagnostiquer POTS?"
+    answer: "Non. Les notes à domicile peuvent soutenir une discussion clinique, mais le diagnostic de POTS demande une interprétation médicale et l'exclusion d'autres causes de tachycardie ou symptômes orthostatiques."
+  - question: "Quand faut-il arrêter une vérification orthostatique à domicile?"
+    answer: "Arrêtez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent."
+  - question: "Faut-il changer sel, liquides ou médicaments selon les chiffres à domicile?"
+    answer: "Non. Ne changez pas le traitement sur la base de mesures à domicile seules. Utilisez les notes pour demander à votre médecin quels changements sont adaptes a vous."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Les notes a domicile pour le [POTS](/fr-fr/knowledge/pots/) ou l'[intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/) sont plus utiles quand fréquence cardiaque et tension arterielle restent liees a la posture, au moment, aux symptômes et au contexte.
+Les notes à domicile pour le [POTS](/fr-fr/knowledge/pots/) ou l'[intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/) sont plus utiles quand fréquence cardiaque et tension artérielle restent liées à la posture, au moment, aux symptômes et au contexte.
 
-Les chiffres seuls peuvent tromper. Une fréquence cardiaque sans "allongé, debout, minute 2, etourdi, médicament pris" est beaucoup moins utile qu'une chronologie simple. Le but n'est pas de vous diagnostiquer a la maison. Le but est d'apporter des observations plus claires a votre médecin.
+Les chiffres seuls peuvent tromper. Une fréquence cardiaque sans "allongé, debout, minute 2, etourdi, médicament pris" est beaucoup moins utile qu'une chronologie simple. Le but n'est pas de vous diagnostiquer à la maison. Le but est d'apporter des observations plus claires à votre médecin.
 
 ## Commencez par la sécurité
 
-Ne faites pas de verification debout a domicile si votre médecin vous a dit de ne pas le faire, si vous etes seul et sujet aux malaises, ou si vous ne vous sentez pas en sécurité.
+Ne faites pas de vérification debout à domicile si votre médecin vous a dit de ne pas le faire, si vous êtes seul et sujet aux malaises, ou si vous ne vous sentez pas en sécurité.
 
-Arretez et asseyez-vous ou allongez-vous si vous ressentez:
+Arrêtez et asseyez-vous ou allongez-vous si vous ressentez:
 
 - impression de pouvoir vous évanouir
 - douleur thoracique
-- difficulte a respirer
-- faiblesse severe
+- difficulte à respirer
+- faiblesse sévère
 - nouveaux symptômes neurologiques
 - symptômes inhabituels ou severes pour vous
 
-Le suivi a domicile ne doit jamais passer avant la sécurité.
+Le suivi à domicile ne doit jamais passer avant la sécurité.
 
 ## Notez le contexte avant les chiffres
 
@@ -99,19 +99,19 @@ Notez:
 - date et heure
 - matin, apres-midi ou soir
 - combien de temps vous etiez allongé ou assis avant de commencer
-- si vous aviez mange recemment
+- si vous aviez mange récemment
 - hydratation et électrolytes
 - contexte du sel si votre médecin le suit avec vous
 - caféine ou alcool si pertinent
 - vêtements de compression
 - horaire des médicaments, doses oubliees ou changements récents
-- maladie, regles, pic de douleur, mauvais sommeil, chaleur ou jour de flare
+- maladie, règles, pic de douleur, mauvais sommeil, chaleur ou jour de flare
 
-La declaration [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que les symptômes de POTS surviennent debout et incluent souvent étourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin a comprendre les chiffres.
+La declaration [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que les symptômes de POTS surviennent debout et incluent souvent étourdissement, palpitations, tremblement, faiblesse, vision floue, intolérance a l'effort et fatigue. Le contexte aide votre médecin à comprendre les chiffres.
 
 ## Utilisez posture plus temps
 
-Pour chaque mesure, liez le chiffre a la posture et au moment.
+Pour chaque mesure, liez le chiffre à la posture et au moment.
 
 Libelles utiles:
 
@@ -121,21 +121,21 @@ Libelles utiles:
 - debout minute 2
 - debout minute 5
 - debout minute 10, seulement si c'est sur et approuve par votre médecin
-- recuperation après s'être assis ou allongé
+- récupération après s'être assis ou allongé
 
-L'American College of Cardiology decrit un active stand test de 10 minutes avec mesures après position allongée, immediatement debout, puis a 2, 5 et 10 minutes. Le NASA 10 Minute Lean Test du Bateman Horne Center utilise des mesures repetees de pouls et tension avec observation des symptômes. Votre médecin peut vous dire quel format est adapte.
+L'American College of Cardiology décrit un active stand test de 10 minutes avec mesures après position allongée, immediatement debout, puis a 2, 5 et 10 minutes. Le NASA 10 Minute Lean Test du Bateman Horne Center utilise des mesures repetees de pouls et tension avec observation des symptômes. Votre médecin peut vous dire quel format est adapte.
 
 ## Notez fréquence cardiaque et tension ensemble
 
-La fréquence cardiaque sans tension peut manquer une partie de l'histoire. La tension sans symptômes peut aussi être difficile a interpréter.
+La fréquence cardiaque sans tension peut manquer une partie de l'histoire. La tension sans symptômes peut aussi être difficile à interpréter.
 
 Pour chaque moment, notez:
 
 - fréquence cardiaque
 - tension systolique
 - tension diastolique
-- intensite des symptômes de 0 a 10
-- symptôme principal a ce moment
+- intensité des symptômes de 0 a 10
+- symptôme principal à ce moment
 
 Exemple:
 
@@ -144,13 +144,13 @@ Exemple:
 | Baseline | Allonge | 72 | 112/70 | 1/10, calme |
 | Minute 2 | Debout | 112 | 110/72 | 5/10 etourdi, tremblant |
 | Minute 5 | Debout | 123 | 108/70 | 7/10 palpitations, fog |
-| Recuperation | Allonge | 82 | 114/72 | mieux après 4 minutes |
+| Récupération | Allonge | 82 | 114/72 | mieux après 4 minutes |
 
-Ce type de note est plus facile a revoir qu'une liste de mesures separees.
+Ce type de note est plus facile à revoir qu'une liste de mesures separees.
 
 ## Ajoutez les symptômes au meme moment
 
-Les notes orthostatiques parlent de la réponse du corps a la posture, pas seulement de ce que dit l'appareil.
+Les notes orthostatiques parlent de la réponse du corps à la posture, pas seulement de ce que dit l'appareil.
 
 Notez:
 
@@ -171,9 +171,9 @@ Si les symptômes s'améliorent en vous allongeant, notez-le aussi.
 
 ## Ne transformez pas les criteres en autodiagnostic
 
-Les sources de consensus decrivent le POTS avec une augmentation soutenue de la fréquence cardiaque en position debout, des symptômes d'intolérance orthostatique et l'absence d'hypotension orthostatique significative. Elles soulignent aussi l'interprétation clinique et l'exclusion d'autres causes comme deshydratation, infection, anemie, fievre, douleur, maladie thyroidienne, effets medicamenteux ou alitement prolonge.
+Les sources de consensus decrivent le POTS avec une augmentation soutenue de la fréquence cardiaque en position debout, des symptômes d'intolérance orthostatique et l'absence d'hypotension orthostatique significative. Elles soulignent aussi l'interprétation clinique et l'exclusion d'autres causes comme déshydratation, infection, anemie, fievre, douleur, maladie thyroidienne, effets médicamenteux ou alitement prolonge.
 
-Votre note a domicile ne devrait donc pas dire: "je me suis diagnostique."
+Votre note à domicile ne devrait donc pas dire: "je me suis diagnostique."
 
 Elle peut dire:
 
@@ -205,10 +205,10 @@ Pour chaque episode, ecrivez:
 - symptômes
 - si s'asseoir a aide
 - si s'allonger a aide
-- temps de recuperation
-- ce que l'episode a change dans votre journee
+- temps de récupération
+- ce que l'episode a change dans votre journée
 
-## Modele simple de note a domicile
+## Modele simple de note à domicile
 
 Utilisez ceci pour une note structuree:
 
@@ -216,11 +216,11 @@ Utilisez ceci pour une note structuree:
 2. Baseline: posture, FC, TA, symptômes.
 3. Mesures debout: minute, FC, TA, symptômes.
 4. Raison d'arret: termine, symptômes, sécurité, impression de malaise.
-5. Recuperation: assis ou allongé, temps pour amélioration.
+5. Récupération: assis ou allongé, temps pour amélioration.
 6. Impact: ce que vous n'avez pas pu faire après.
 7. Question pour le médecin: que dois-je suivre ensuite?
 
-Des notes courtes et regulieres sont plus utiles que des donnees parfaites une seule fois.
+Des notes courtes et regulieres sont plus utiles que des données parfaites une seule fois.
 
 ## Contexte des sources
 
@@ -233,38 +233,38 @@ Informations utiles:
 
 ## La place de Zebra
 
-Zebra aide a garder notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, fréquence cardiaque, tension, médicaments, hydratation, contexte du sel, declencheurs et questions de rendez-vous au meme endroit.
+Zebra aide à garder notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, fréquence cardiaque, tension, médicaments, hydratation, contexte du sel, déclencheurs et questions de rendez-vous au meme endroit.
 
-Pour le suivi plus large des symptômes, des poussees et des rendez-vous lies au POTS, le [journal POTS](/fr-fr/pots-tracker/) est le point d'entrée le plus adapte.
+Pour le suivi plus large des symptômes, des poussées et des rendez-vous lies au POTS, le [journal POTS](/fr-fr/pots-tracker/) est le point d'entrée le plus adapte.
 
-Il ne diagnostique pas le POTS et n'interprete pas vos mesures. Il vous aide a apporter un dossier plus clair a la personne qui le peut.
+Il ne diagnostique pas le POTS et n'interprète pas vos mesures. Il vous aide à apporter un dossier plus clair à la personne qui le peut.
 
 ## Points clés
 
 - Notez posture, temps, fréquence cardiaque, tension, symptômes et contexte ensemble.
-- Arretez toute verification a domicile si vous ne vous sentez pas en sécurité.
-- Ne changez pas sel, liquides, compression ou médicaments sans votre médecin a cause de chiffres a domicile.
+- Arrêtez toute vérification à domicile si vous ne vous sentez pas en sécurité.
+- Ne changez pas sel, liquides, compression ou médicaments sans votre médecin à cause de chiffres à domicile.
 - Les episodes de vie quotidienne sont aussi importants que les mesures structurees.
-- Le meilleur resultat est une question claire pour le médecin, pas un autodiagnostic.
+- Le meilleur résultat est une question claire pour le médecin, pas un autodiagnostic.
 
 ## FAQ
 
-### Que faut-il noter pendant un test POTS a domicile?
+### Que faut-il noter pendant un test POTS à domicile?
 
 Notez posture, temps, fréquence cardiaque, tension, symptômes, amélioration après s'être assis ou allongé, contexte des médicaments, hydratation, sel si pertinent pour votre plan, et notes de sécurité.
 
-### Un test debout a domicile peut-il diagnostiquer POTS?
+### Un test debout à domicile peut-il diagnostiquer POTS?
 
-Non. Les notes a domicile peuvent soutenir une discussion clinique, mais le diagnostic de POTS demande une interprétation médicale et l'exclusion d'autres causes de tachycardie ou symptômes orthostatiques.
+Non. Les notes à domicile peuvent soutenir une discussion clinique, mais le diagnostic de POTS demande une interprétation médicale et l'exclusion d'autres causes de tachycardie ou symptômes orthostatiques.
 
-### Quand faut-il arrêter une verification orthostatique a domicile?
+### Quand faut-il arrêter une vérification orthostatique à domicile?
 
-Arretez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent.
+Arrêtez si vous ne vous sentez pas en sécurité, si vous risquez de vous évanouir, si des symptômes severes apparaissent ou si votre médecin vous a donne des conditions d'arret. Asseyez-vous ou allongez-vous et cherchez une aide médicale si les symptômes inquietent.
 
-### Faut-il changer sel, liquides ou médicaments selon les chiffres a domicile?
+### Faut-il changer sel, liquides ou médicaments selon les chiffres à domicile?
 
-Non. Ne changez pas le traitement sur la base de mesures a domicile seules. Utilisez les notes pour demander a votre médecin quels changements sont adaptes a vous.
+Non. Ne changez pas le traitement sur la base de mesures à domicile seules. Utilisez les notes pour demander à votre médecin quels changements sont adaptes a vous.
 
 ### Zebra est-il un avis médical?
 
-Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.
+Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.

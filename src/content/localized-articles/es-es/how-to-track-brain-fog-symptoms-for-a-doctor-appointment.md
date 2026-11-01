@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-brain-fog-symptoms-for-a-doctor-appointment"
 status: "published"
 title: "Como rastrear síntomas de brain fog para una cita médica"
-subtitle: "Para rastrear síntomas de brain fog para una cita médica, enfócate en cuando ocurre, como afecta la vida diaria, que cambió alrededor y con que frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes senalar que hizo realmente a tu día."
+subtitle: "Para rastrear síntomas de brain fog para una cita médica, enfócate en cuando ocurre, como afecta la vida diaria, que cambió alrededor y con que frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes señalar que hizo realmente a tu día."
 description: "Aprende como rastrear síntomas de brain fog, cambios de función y contexto para que la historia sea más fácil de explicar en citas."
 excerpt: "Aprende como rastrear síntomas de brain fog, cambios de función y contexto para que la historia sea más fácil de explicar en citas."
 author: "zebra-editorial"
@@ -57,13 +57,13 @@ faq:
     answer: "No necesariamente. Un registro de episodios más fuertes o repetidos suele ser suficiente para aclarar el patrón."
 ---
 
-Para rastrear síntomas de brain fog para una cita médica, enfócate en cuándo ocurre, cómo afecta la vida diaria, qué cambió alrededor y con qué frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes senalar qué hizo realmente a tu día.
+Para rastrear síntomas de brain fog para una cita médica, enfócate en cuándo ocurre, cómo afecta la vida diaria, qué cambió alrededor y con qué frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes señalar qué hizo realmente a tu día.
 
 ## Qué rastrear
 
 El rastreo útil de brain fog puede incluir:
 
-- cuando aparecio
+- cuando apareció
 - qué tan intenso se sintio
 - qué no pudiste hacer
 - qué más estaba pasando alrededor

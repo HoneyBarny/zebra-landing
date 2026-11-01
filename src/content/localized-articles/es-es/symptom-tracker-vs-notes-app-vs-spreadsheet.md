@@ -84,7 +84,7 @@ Usa una app de notas cuando el pensamiento es pequeno e inmediato:
 
 - "preguntar por mareo después de comer"
 - "nuevo dolor de hombro empezó el martes"
-- "mencionar que el sueño esta empeorando"
+- "mencionar que el sueño está empeorando"
 
 El problema llega después. Las notas son difíciles de comparar con el tiempo, difíciles de resumir rápido y fáciles de olvidar cuando tienes más de unas pocas entradas. Una nota puede guardar el detalle, pero normalmente no convierte ese detalle en un historial usable por si sola.
 
@@ -106,7 +106,7 @@ Usa una hoja de cálculo cuando quieres elegir cada campo tu mismo:
 - desencadenante
 - notas
 
-El intercambio es el mantenimiento. Las hojas de cálculo suelen requerir más energía y más cuidado. También pueden volverse difíciles de usar en días de brain fog o durante brotes, especialmente en un telefono.
+El intercambio es el mantenimiento. Las hojas de cálculo suelen requerir más energía y más cuidado. También pueden volverse difíciles de usar en días de brain fog o durante brotes, especialmente en un teléfono.
 
 ## Cuándo funciona mejor un rastreador de síntomas
 

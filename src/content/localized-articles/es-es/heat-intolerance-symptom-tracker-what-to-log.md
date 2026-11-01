@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "heat-intolerance-symptom-tracker-what-to-log"
 title: "Tracker de intolerancia al calor: que registrar para POTS"
 status: "published"
-subtitle: "Las notas de síntomas por calor son más útiles cuando temperatura, humedad, ducha caliente, tiempo de pie, hidratación, sal, frecuencia cardíaca, mareo, sudoración, recuperación e impacto funcional quedan conectados. El objetivo no es probar que el calor sea el unico desencadenante, sino llevar patrones más claros al médico."
+subtitle: "Las notas de síntomas por calor son más útiles cuando temperatura, humedad, ducha caliente, tiempo de pie, hidratación, sal, frecuencia cardíaca, mareo, sudoración, recuperación e impacto funcional quedan conectados. El objetivo no es probar que el calor sea el único desencadenante, sino llevar patrones más claros al médico."
 description: "Aprende que registrar en un tracker de intolerancia al calor para POTS, disautonomía y enfermedad crónica: temperatura, ducha, estar de pie, hidratación, sal, frecuencia cardíaca, mareo, sudoración, recuperación e impacto."
 excerpt: "Una guía práctica para registrar síntomas por calor, habitaciones calientes, duchas calientes, hidratación, sal, frecuencia cardíaca, mareo, sudoración, enfriamiento, recuperación y resumen médico."
 author: "zebra-editorial"
@@ -254,5 +254,5 @@ No diagnostica intolerancia al calor ni condiciones autonómicas. Ayuda a llevar
 
 - Registra juntos contexto de calor, horario de síntomas, tiempo de pie, hidratación, sal, medicamentos, enfriamiento, recuperación e impacto funcional.
 - Las duchas calientes merecen notas propias porque combinan calor, estar de pie, humedad y movimiento.
-- Trata el calor como contexto, no como prueba automatica.
+- Trata el calor como contexto, no como prueba automática.
 - Un diario corto y constante puede hacer más clara la conversación médica.

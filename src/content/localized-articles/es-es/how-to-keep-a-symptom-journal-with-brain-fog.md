@@ -106,12 +106,12 @@ No necesitas voz de diario. Necesitas una estructura.
 
 ## Deja de intentar ponerte al día perfectamente
 
-Una de las formas más rapidas de abandonar un diario de síntomas es perder unos días y luego sentir presión por reconstruirlo todo desde la memoria.
+Una de las formas más rápidas de abandonar un diario de síntomas es perder unos días y luego sentir presión por reconstruirlo todo desde la memoria.
 
 Si perdiste días:
 
 - reinicia con hoy
-- anota solo lo que esta claro ahora
+- anota solo lo que está claro ahora
 - sigue adelante
 
 Un registro real parcial es más útil que uno perfecto imaginario.
@@ -129,7 +129,7 @@ Eso te da la historia de mayor valor con el menor esfuerzo.
 
 ## Dónde encaja Zebra
 
-Zebra esta creado alrededor de seguimiento corto y estructurado en lugar de diarios largos. Eso es especialmente útil para personas con brain fog, brotes y condiciones superpuestas que necesitan un registro que todavía puedan usar antes de las citas.
+Zebra está creado alrededor de seguimiento corto y estructurado en lugar de diarios largos. Eso es especialmente útil para personas con brain fog, brotes y condiciones superpuestas que necesitan un registro que todavía puedan usar antes de las citas.
 
 ## Puntos clave
 

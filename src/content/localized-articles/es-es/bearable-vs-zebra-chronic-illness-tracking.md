@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "bearable-vs-zebra-chronic-illness-tracking"
 status: "published"
 title: "Bearable vs Zebra para seguimiento de enfermedad crónica"
-subtitle: "Bearable y Zebra resuelven problemas relacionados de formas muy distintas. Bearable es un rastreador de síntomas amplio y muy personalizable. Zebra es un sistema de seguimiento específico para condiciones, creado alrededor de la superposición de POTS, EDS y fibromialgia, y la preparación de citas lista para el médico. Si quieres maxima personalización, Bearable puede encajar mejor. Si quieres un camino más rápido desde el seguimiento hasta un resumen listo para especialistas, Zebra encaja mejor."
+subtitle: "Bearable y Zebra resuelven problemas relacionados de formas muy distintas. Bearable es un rastreador de síntomas amplio y muy personalizable. Zebra es un sistema de seguimiento específico para condiciones, creado alrededor de la superposición de POTS, EDS y fibromialgia, y la preparación de citas lista para el médico. Si quieres máxima personalización, Bearable puede encajar mejor. Si quieres un camino más rápido desde el seguimiento hasta un resumen listo para especialistas, Zebra encaja mejor."
 description: "Compara Bearable y Zebra para ver cual encaja mejor para seguimiento genérico de síntomas, condiciones superpuestas y preparación de citas."
 excerpt: "Compara Bearable y Zebra para seguimiento genérico de síntomas, condiciones superpuestas y preparación de citas."
 author: "zebra-editorial"
@@ -52,14 +52,14 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Bearable es bueno para seguimiento de enfermedad crónica?"
-    answer: "Si. Es un rastreador genérico fuerte. La desventaja es que no esta diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas."
-  - question: "¿En que se diferencia Zebra de Bearable?"
-    answer: "Zebra esta posicionado alrededor de la superposición de POTS, EDS y fibromialgia, seguimiento con menos fricción, contexto ortostático e informes listos para el médico."
+    answer: "Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas."
+  - question: "¿En qué se diferencia Zebra de Bearable?"
+    answer: "Zebra está posicionado alrededor de la superposición de POTS, EDS y fibromialgia, seguimiento con menos fricción, contexto ortostático e informes listos para el médico."
   - question: "¿Cuál es mejor para brain fog y días malos?"
-    answer: "Depende de la persona, pero el posicionamiento principal de Zebra esta creado para reducir la fricción de configuración y revisión para usuarios con síntomas."
+    answer: "Depende de la persona, pero el posicionamiento principal de Zebra está creado para reducir la fricción de configuración y revisión para usuarios con síntomas."
 ---
 
-Bearable y Zebra resuelven problemas relacionados de formas muy distintas. Bearable es un rastreador de síntomas amplio y muy personalizable. Zebra es un sistema de seguimiento específico para condiciones, creado alrededor de la superposición de POTS, EDS y fibromialgia, y la preparación de citas lista para el médico. Si quieres maxima personalización, Bearable puede encajar mejor. Si quieres un camino más rápido desde el seguimiento hasta un resumen listo para especialistas, Zebra encaja mejor.
+Bearable y Zebra resuelven problemas relacionados de formas muy distintas. Bearable es un rastreador de síntomas amplio y muy personalizable. Zebra es un sistema de seguimiento específico para condiciones, creado alrededor de la superposición de POTS, EDS y fibromialgia, y la preparación de citas lista para el médico. Si quieres máxima personalización, Bearable puede encajar mejor. Si quieres un camino más rápido desde el seguimiento hasta un resumen listo para especialistas, Zebra encaja mejor.
 
 ## La mayor diferencia
 
@@ -92,7 +92,7 @@ Zebra es más fuerte si quieres:
 - síntomas, brotes, medicación, hidratación e historia ortostática juntos
 - un informe listo para el médico como salida principal
 
-Zebra esta creado alrededor del problema que muchas personas describen: tener datos en todas partes, pero nada claro para llevar a una cita.
+Zebra está creado alrededor del problema que muchas personas describen: tener datos en todas partes, pero nada claro para llevar a una cita.
 
 ## Vista lado a lado
 
@@ -104,7 +104,7 @@ Zebra esta creado alrededor del problema que muchas personas describen: tener da
 | Beneficio para preparar citas | Apoyo para exportar y revisar | Informe listo para el médico como flujo principal |
 | Posicionamiento de superposición | Audiencia amplia de enfermedad crónica | Creado alrededor de la superposición POTS + EDS + fibromialgia |
 
-## ¿Cuál deberias elegir?
+## ¿Cuál deberías elegir?
 
 Elige Bearable si:
 
@@ -128,12 +128,12 @@ Zebra encaja mejor cuando el seguimiento genérico es exactamente lo que no ha e
 
 ### ¿Bearable es bueno para seguimiento de enfermedad crónica?
 
-Si. Es un rastreador genérico fuerte. La desventaja es que no esta diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas.
+Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas.
 
-### ¿En que se diferencia Zebra de Bearable?
+### ¿En qué se diferencia Zebra de Bearable?
 
-Zebra esta posicionado alrededor de la superposición de POTS, EDS y fibromialgia, seguimiento con menos fricción, contexto ortostático e informes listos para el médico.
+Zebra está posicionado alrededor de la superposición de POTS, EDS y fibromialgia, seguimiento con menos fricción, contexto ortostático e informes listos para el médico.
 
 ### ¿Cuál es mejor para brain fog y días malos?
 
-Depende de la persona, pero el posicionamiento principal de Zebra esta creado para reducir la fricción de configuración y revisión para usuarios con síntomas.
+Depende de la persona, pero el posicionamiento principal de Zebra está creado para reducir la fricción de configuración y revisión para usuarios con síntomas.

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "what-is-a-symptom-journal"
 title: "Qu’est-ce qu’un journal de symptômes?"
 status: "published"
-subtitle: "Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile a comprendre et a discuter plus tard."
+subtitle: "Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard."
 description: "Comprendre ce qu’est un journal de symptômes, ce qu’il peut contenir et pourquoi la structure compte dans le suivi d’une maladie chronique."
 excerpt: "Comprendre ce qu’est un journal de symptômes, ce qu’il peut contenir et pourquoi la structure compte dans le suivi d’une maladie chronique."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Illustration conceptuelle expliquant ce qu’est un journal de symptômes"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra lorsque vous voulez un journal de symptômes structure, plus facile a relire ensuite."
+ctaNote: "Utilisez Zebra lorsque vous voulez un journal de symptômes structure, plus facile à relire ensuite."
 featured: false
 categories:
   - "Doctor Reports"
@@ -30,9 +30,9 @@ categories:
 tags:
   - "journal de symptômes"
   - "tracker de symptômes"
-  - "historique de sante"
+  - "historique de santé"
   - "maladie chronique"
-  - "suivi des poussees"
+  - "suivi des poussées"
 entities:
   - "Symptom Tracking"
   - "Health History"
@@ -41,30 +41,30 @@ entities:
   - "Doctor-Ready Report"
 secondaryKeywords:
   - "suivi des symptômes"
-  - "journal de sante"
+  - "journal de santé"
   - "carnet de symptômes"
 schemaTypes:
   - "Article"
   - "FAQPage"
 faq:
   - question: "A quoi sert un journal de symptômes?"
-    answer: "Il aide a garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile a revoir ensuite."
+    answer: "Il aide à garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile à revoir ensuite."
   - question: "Un journal de symptômes est-il la meme chose qu’un journal intime?"
     answer: "Pas exactement. Il peut contenir des notes, mais son objectif principal est de créer un historique de symptômes utilisable."
   - question: "Faut-il une app dediee pour tenir un journal de symptômes?"
     answer: "Pas toujours. Mais une app dediee peut aider si vous voulez plus de structure et une relecture plus simple."
 ---
 
-Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile a comprendre et a discuter plus tard.
+Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard.
 
 ## Que mettre dans un journal de symptômes?
 
-Les entrees utiles incluent souvent:
+Les entrées utiles incluent souvent:
 
 - symptômes
-- intensite
+- intensité
 - ce qui a change
-- notes sur les poussees
+- notes sur les poussées
 - impact sur le fonctionnement
 - contexte de médicaments ou de routine
 
@@ -83,7 +83,7 @@ C est particulierement utile lorsque la mémoire n’est pas fiable ou que les s
 
 ## Ce qui rend ce suivi difficile
 
-Les problèmes frequents incluent:
+Les problèmes fréquents incluent:
 
 - trop d’effort
 - la surcharge face a une page vide
@@ -94,19 +94,19 @@ C est pour cela que la structure compte.
 
 ## Où Zebra s’intègre
 
-Zebra est un journal de symptômes structure pour les personnes qui veulent que leur historique reste utile pour la relecture et la préparation des rendez-vous, surtout quand symptômes, poussees, médicaments et changements de fonctionnement doivent rester ensemble.
+Zebra est un journal de symptômes structure pour les personnes qui veulent que leur historique reste utile pour la relecture et la préparation des rendez-vous, surtout quand symptômes, poussées, médicaments et changements de fonctionnement doivent rester ensemble.
 
 ## Points clés
 
 - Un journal de symptômes garde une trace des symptômes et du contexte au fil du temps.
-- Il doit aider a relire l’historique plus tard, pas seulement capturer le moment.
+- Il doit aider à relire l’historique plus tard, pas seulement capturer le moment.
 - La structure compte lorsque les symptômes fluctuent ou que la mémoire est peu fiable.
 
 ## FAQ
 
 ### A quoi sert un journal de symptômes?
 
-Il aide a garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile a revoir ensuite.
+Il aide à garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile à revoir ensuite.
 
 ### Un journal de symptômes est-il la meme chose qu’un journal intime?
 

@@ -102,7 +102,7 @@ No es útil cuando se convierte en un segundo trabajo de tiempo completo.
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para mantener síntomas, brotes, hidratación, sal, medicación e historial relacionado juntos para que los días malos y los cambios de rutina no tengan que reconstruirse después desde varias herramientas.
+Zebra está creado para mantener síntomas, brotes, hidratación, sal, medicación e historial relacionado juntos para que los días malos y los cambios de rutina no tengan que reconstruirse después desde varias herramientas.
 
 ## Puntos clave
 

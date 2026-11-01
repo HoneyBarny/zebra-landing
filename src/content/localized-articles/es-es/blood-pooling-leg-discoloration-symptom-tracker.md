@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "blood-pooling-leg-discoloration-symptom-tracker"
 title: "Tracker de blood pooling y cambio de color en piernas"
 status: "published"
-subtitle: "Las notas de blood pooling son más útiles cuando cambios de color, hinchazon, pesadez, dolor, temperatura, tiempo de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal, recuperación e impacto funcional quedan conectados. El objetivo no es autodiagnosticar circulación, sino llevar patrones más claros al médico."
-description: "Aprende que registrar para blood pooling, piernas moradas, cambio de color en pies, hinchazon, pesadez, dolor, estar de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal y recuperación."
-excerpt: "Una guía práctica para registrar blood pooling, cambio de color en piernas o pies, hinchazon, pesadez, dolor, tiempo de pie, postura, compresión, hidratación, sal, recuperación y resumen médico."
+subtitle: "Las notas de blood pooling son más útiles cuando cambios de color, hinchazón, pesadez, dolor, temperatura, tiempo de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal, recuperación e impacto funcional quedan conectados. El objetivo no es autodiagnosticar circulación, sino llevar patrones más claros al médico."
+description: "Aprende que registrar para blood pooling, piernas moradas, cambio de color en pies, hinchazón, pesadez, dolor, estar de pie, postura, frecuencia cardíaca, mareo, compresión, hidratación, sal y recuperación."
+excerpt: "Una guía práctica para registrar blood pooling, cambio de color en piernas o pies, hinchazón, pesadez, dolor, tiempo de pie, postura, compresión, hidratación, sal, recuperación y resumen médico."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,9 +16,9 @@ cluster: "Dysautonomia"
 category: "Symptom Tracking"
 primaryKeyword: "tracker de blood pooling"
 seoTitle: "Tracker de blood pooling y piernas moradas | Zebra"
-metaDescription: "Registra blood pooling, piernas moradas, hinchazon, pesadez, tiempo de pie, postura, mareo, compresión, hidratación, sal y recuperación."
+metaDescription: "Registra blood pooling, piernas moradas, hinchazón, pesadez, tiempo de pie, postura, mareo, compresión, hidratación, sal y recuperación."
 ogTitle: "Tracker de blood pooling y cambio de color en piernas"
-ogDescription: "Registra cambios de color, hinchazon, pesadez, tiempo de pie, postura, mareo, compresión, hidratación, sal, recuperación y notas médicas."
+ogDescription: "Registra cambios de color, hinchazón, pesadez, tiempo de pie, postura, mareo, compresión, hidratación, sal, recuperación y notas médicas."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Pantalla de seguimiento diario de Zebra con síntomas, hidratación, notas y contexto del día."
 ctaLabel: "Descargar Zebra"
@@ -64,13 +64,13 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar para blood pooling o piernas moradas?"
-    answer: "Registra cambios de color, hinchazon, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, que ayudó, tiempo de recuperación e impacto funcional."
+    answer: "Registra cambios de color, hinchazón, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, que ayudó, tiempo de recuperación e impacto funcional."
   - question: "¿Puede pasar blood pooling con POTS?"
-    answer: "Si. Fuentes sobre POTS describen acumulación de sangre en la parte baja del cuerpo al estar de pie, y algunas personas notan color rojizo-morado en piernas, pies, manos o pies. Un médico debe evaluar tu patrón."
+    answer: "Sí. Fuentes sobre POTS describen acumulación de sangre en la parte baja del cuerpo al estar de pie, y algunas personas notan color rojizo-morado en piernas, pies, manos o pies. Un médico debe evaluar tu patrón."
   - question: "¿Un tracker puede diagnosticar blood pooling?"
     answer: "No. Un tracker puede organizar patrones para revisión médica, pero no puede diagnosticar POTS, disautonomía, enfermedad vascular, Raynaud, acrocianosis, problemas de coagulos u otras causas."
   - question: "¿Cuándo es urgente el cambio de color en una pierna?"
-    answer: "Busca atención urgente por hinchazon repentina de un solo lado, dolor severo, falta de aire nueva, dolor de pecho, extremidad fria o palida, perdida de pulso, debilidad nueva o síntomas que tu médico marco como urgentes."
+    answer: "Busca atención urgente por hinchazón repentina de un solo lado, dolor severo, falta de aire nueva, dolor de pecho, extremidad fria o palida, perdida de pulso, debilidad nueva o síntomas que tu médico marco como urgentes."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -119,13 +119,13 @@ Descripciones útiles:
 
 Si es seguro y tu médico lo considera útil, puedes tomar una foto para la consulta. No dependas solo de fotos; timing y síntomas también importan.
 
-## Añade hinchazon, pesadez, dolor y temperatura
+## Añade hinchazón, pesadez, dolor y temperatura
 
 El color es solo una parte.
 
 Registra si sentiste:
 
-- hinchazon
+- hinchazón
 - piel tensa
 - pesadez
 - dolor o molestia
@@ -140,7 +140,7 @@ Registra si sentiste:
 - dificultad para estar quieto
 - necesidad de sentarte o mover las piernas
 
-Anota también si es de un lado o de ambos. Hinchazon o dolor repentino de un solo lado merece consejo médico pronto.
+Anota también si es de un lado o de ambos. Hinchazón o dolor repentino de un solo lado merece consejo médico pronto.
 
 ## Mantén cerca síntomas ortostáticos
 
@@ -208,7 +208,7 @@ Luego añade cuánto tardó. "Mejoró en 5 minutos" y "tardo dos horas" son patr
 
 Busca atención urgente por:
 
-- hinchazon repentina de una pierna
+- hinchazón repentina de una pierna
 - dolor fuerte de pantorrilla
 - dolor de pecho
 - falta de aire nueva
@@ -234,7 +234,7 @@ Antes de cardiología, neurologia, vascular, medicina primaria, EDS, Long COVID 
 - si compresión ayuda
 - hidratación y sal
 - frecuencia cardíaca o presión si se midio
-- mareo, desmayo, dolor, hinchazon o impacto funcional
+- mareo, desmayo, dolor, hinchazón o impacto funcional
 - síntomas nuevos o urgentes
 
 Preguntas útiles:
@@ -268,5 +268,5 @@ No diagnostica blood pooling ni problemas de circulación. Ayuda a llevar notas 
 
 - Registra cambios de color con tiempo de pie, postura, síntomas, compresión, hidratación, sal y recuperación.
 - Describe lo que ves sin intentar fijar el diagnóstico.
-- Hinchazon repentina de un lado, dolor fuerte, dolor de pecho, falta de aire o extremidad fria y palida necesita atención urgente.
+- Hinchazón repentina de un lado, dolor fuerte, dolor de pecho, falta de aire o extremidad fria y palida necesita atención urgente.
 - Un diario corto y constante puede hacer más fácil hablar de patrones al estar de pie.

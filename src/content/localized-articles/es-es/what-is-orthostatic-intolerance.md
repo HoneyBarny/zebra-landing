@@ -4,8 +4,8 @@ originalSlug: "what-is-orthostatic-intolerance"
 title: "Que es la intolerancia ortostática?"
 status: "published"
 subtitle: "La intolerancia ortostática es un termino que se usa cuando los síntomas aparecen o empeoran al estar sentada, sentado o de pie, y mejoran al tumbarse. Describe un patrón de síntomas, no un diagnóstico por si solo."
-description: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por que el seguimiento relacionado con la postura puede ser útil."
-excerpt: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por que el seguimiento relacionado con la postura puede ser útil."
+description: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por qué el seguimiento relacionado con la postura puede ser útil."
+excerpt: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por qué el seguimiento relacionado con la postura puede ser útil."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,9 +15,9 @@ cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "que es intolerancia ortostática"
 seoTitle: "Que es la intolerancia ortostática? | Zebra"
-metaDescription: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por que el seguimiento relacionado con la postura puede ser útil."
+metaDescription: "Una explicación sencilla de la intolerancia ortostática, los síntomas al estar de pie y por qué el seguimiento relacionado con la postura puede ser útil."
 ogTitle: "Que es la intolerancia ortostática?"
-ogDescription: "Una explicación clara de los patrones de síntomas al estar de pie y por que importan en el seguimiento y la preparación de citas."
+ogDescription: "Una explicación clara de los patrones de síntomas al estar de pie y por qué importan en el seguimiento y la preparación de citas."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Diagrama que muestra síntomas que empeoran al estar de pie y mejoran al tumbarse"
 ctaLabel: "Descargar Zebra"
@@ -70,7 +70,7 @@ Los síntomas pueden incluir:
 - debilidad
 - fatiga
 - brain fog
-- nauseas
+- náuseas
 
 No todo el mundo tiene el mismo patrón, y un mal día puede verse distinto de una persona a otra.
 

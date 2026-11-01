@@ -1,11 +1,11 @@
 ---
 locale: "fr-fr"
 originalSlug: "first-7-days-of-symptom-tracking"
-title: "Les 7 premiers jours de suivi des symptômes: quoi noter quand vous etes submerge"
+title: "Les 7 premiers jours de suivi des symptômes: quoi noter quand vous êtes submerge"
 status: "published"
 subtitle: "Quand les symptômes epuisent déjà, le suivi peut ressembler a une tache de plus. Commencez par sept toutes petites notes quotidiennes: ce qui s'est passe, ce qui a change, ce qui a aide et ce que le symptôme vous a empeche de faire."
 description: "Un plan simple de 7 jours pour suivre les symptômes quand vous vous sentez submerge, avec quoi noter chaque jour et comment garder des notes utiles pour le médecin."
-excerpt: "Commencez le suivi des symptômes sans vous surcharger: un plan pratique de 7 jours pour symptômes, declencheurs, médicaments, recuperation et impact quotidien."
+excerpt: "Commencez le suivi des symptômes sans vous surcharger: un plan pratique de 7 jours pour symptômes, déclencheurs, médicaments, récupération et impact quotidien."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -16,14 +16,14 @@ cluster: "Symptom Tracking"
 category: "Symptom Tracking"
 primaryKeyword: "7 premiers jours suivi symptômes"
 seoTitle: "Les 7 premiers jours de suivi des symptômes | Zebra"
-metaDescription: "Commencez le suivi des symptômes avec un plan simple de 7 jours pour symptômes, declencheurs, médicaments, recuperation et impact quotidien."
+metaDescription: "Commencez le suivi des symptômes avec un plan simple de 7 jours pour symptômes, déclencheurs, médicaments, récupération et impact quotidien."
 ogTitle: "Les 7 premiers jours de suivi des symptômes"
-ogDescription: "Un plan de 7 jours leger pour les patients chroniques qui se sentent submerges."
+ogDescription: "Un plan de 7 jours léger pour les patients chroniques qui se sentent submerges."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Écran quotidien Zebra pour symptômes, declencheurs, hydratation, médicaments et notes."
+heroImageAlt: "Écran quotidien Zebra pour symptômes, déclencheurs, hydratation, médicaments et notes."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes, declencheurs, médicaments, notes et questions de rendez-vous dans une chronologie calme."
+ctaNote: "Utilisez Zebra pour garder symptômes, déclencheurs, médicaments, notes et questions de rendez-vous dans une chronologie calme."
 categories:
   - "Symptom Tracking"
   - "Appointment Préparation"
@@ -57,28 +57,28 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que faut-il suivre pendant la première semaine?"
-    answer: "Notez vos principaux symptômes, leur intensite, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de recuperation et ce que les symptômes vous ont empeche de faire."
+    answer: "Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empeche de faire."
   - question: "Combien faut-il écrire si je suis submerge?"
     answer: "Une phrase ou quelques champs rapides suffisent. Une note utile peut être: douleur 7/10, pire après douche, allongé 40 minutes, courses annulees."
   - question: "Dois-je suivre tous les symptômes?"
-    answer: "Non. Commencez par un a trois symptômes qui affectent le plus votre journee. Vous pourrez en ajouter si le suivi devient gerable."
+    answer: "Non. Commencez par un a trois symptômes qui affectent le plus votre journée. Vous pourrez en ajouter si le suivi devient gerable."
   - question: "Combien de temps avant que le suivi soit utile?"
-    answer: "Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout a créer une habitude durable."
+    answer: "Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout à créer une habitude durable."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Commencer un [journal de symptômes](/fr-fr/blog/what-is-a-symptom-journal/) peut sembler absurde quand vous etes déjà submerge. La journee est dure, votre cerveau est fatigue, et maintenant vous devriez devenir votre propre secretaire médical?
+Commencer un [journal de symptômes](/fr-fr/blog/what-is-a-symptom-journal/) peut sembler absurde quand vous êtes déjà submerge. La journée est dure, votre cerveau est fatigue, et maintenant vous devriez devenir votre propre secretaire médical?
 
 Vous n'avez pas besoin de tout suivre. Pendant les sept premiers jours, le but est beaucoup plus petit: une note utile par jour.
 
-Kaiser Permanente note qu'un journal de symptômes peut aider votre médecin a diagnostiquer et traiter votre condition, car certains symptômes sont difficiles a décrire de mémoire. Le CDC conseille aussi aux personnes avec conditions chroniques de surveiller leur sante a domicile quand cela fait partie du plan de soins et de signaler les symptômes nouveaux ou qui empirent a leur equipe médicale.
+Kaiser Permanente note qu'un journal de symptômes peut aider votre médecin à diagnostiquer et traiter votre condition, car certains symptômes sont difficiles à décrire de mémoire. Le CDC conseille aussi aux personnes avec conditions chroniques de surveiller leur santé à domicile quand cela fait partie du plan de soins et de signaler les symptômes nouveaux ou qui empirent a leur equipe médicale.
 
-La première semaine ne cherche donc pas des donnees parfaites. Elle cherche un dossier que vous pouvez vraiment tenir.
+La première semaine ne cherche donc pas des données parfaites. Elle cherche un dossier que vous pouvez vraiment tenir.
 
 ## Regle de la première semaine: une note vaut mieux que rien
 
-Pendant une journee difficile, une phrase suffit.
+Pendant une journée difficile, une phrase suffit.
 
 Exemples utiles:
 
@@ -93,7 +93,7 @@ Chaque note relie symptôme, contexte et impact. C'est tout le travail.
 
 Ne commencez pas avec tous vos symptômes.
 
-Choisissez un a trois symptômes qui affectent le plus votre journee:
+Choisissez un a trois symptômes qui affectent le plus votre journée:
 
 - douleur
 - fatigue
@@ -102,22 +102,22 @@ Choisissez un a trois symptômes qui affectent le plus votre journee:
 - palpitations
 - nausee
 - problèmes de sommeil
-- intensite de flare
+- intensité de flare
 - effets secondaires de médicaments
 - impact fonctionnel
 
 Si vous suivez trop le premier jour, vous risquez d'arrêter au troisieme. Commencez plus petit que vous pensez.
 
-## Jour 2: Ajoutez l'intensite
+## Jour 2: Ajoutez l'intensité
 
 Utilisez une simple echelle de 0 a 10.
 
 Vous pouvez la definir ainsi:
 
 - 0 signifie absent
-- 3 signifie present mais gerable
-- 6 signifie difficile a ignorer
-- 8 signifie que la journee a change
+- 3 signifie présent mais gerable
+- 6 signifie difficile à ignorer
+- 8 signifie que la journée a change
 - 10 signifie pire niveau ou dangereux
 
 Le chiffre exact compte moins que l'utilisation régulière de la meme echelle.
@@ -134,11 +134,11 @@ Notez:
 - si c'était pire a un moment précis
 - si repos, nourriture, liquides, médicaments, position allongée, refroidissement ou sommeil ont aide
 
-Le journal de symptômes de Kaiser Permanente demande quand le symptôme commence, quand il gene le plus et s'il va et vient pendant la journee. C'est un bon modele: un timing simple vaut mieux qu'un suivi complique.
+Le journal de symptômes de Kaiser Permanente demande quand le symptôme commence, quand il gene le plus et s'il va et vient pendant la journée. C'est un bon modele: un timing simple vaut mieux qu'un suivi complique.
 
 ## Jour 4: Ajoutez ce qui a améliore ou aggrave
 
-Vous n'essayez pas de prouver un declencheur. Vous collectez des indices.
+Vous n'essayez pas de prouver un déclencheur. Vous collectez des indices.
 
 Notez si les symptômes semblaient affectes par:
 
@@ -151,7 +151,7 @@ Notez si les symptômes semblaient affectes par:
 - chaleur ou froid
 - station debout
 - médicaments ou doses oubliees
-- regles ou changements hormonaux
+- règles ou changements hormonaux
 - maladie
 - voyage ou changement d'horaire
 - surcharge sensorielle
@@ -166,7 +166,7 @@ Notes utiles:
 
 - médicament pris comme prescrit
 - dose oubliee
-- dose changee recemment
+- dose changee récemment
 - nouveau médicament ou supplement
 - effet secondaire possible
 - médicament de secours ou au besoin utilise
@@ -178,7 +178,7 @@ Le CDC insiste sur la prise des médicaments comme prescrits et sur le fait de d
 
 L'[impact fonctionnel](/fr-fr/knowledge/functional-impact/) est souvent la partie la plus utile de la note.
 
-Notez ce que les symptômes ont arrete, change ou retarde:
+Notez ce que les symptômes ont arrêté, change ou retarde:
 
 - douche
 - cuisine
@@ -208,12 +208,12 @@ Exemples:
 
 Cela transforme le suivi en préparation de rendez-vous, pas en corvee sans fin.
 
-## Modele de depart sur 7 jours
+## Modele de départ sur 7 jours
 
 | Jour | Quoi noter | Version minimale |
 | --- | --- | --- |
 | 1 | Trois principaux symptômes | "Aujourd'hui le problème principal était..." |
-| 2 | Intensite | "Symptôme a __/10." |
+| 2 | Intensité | "Symptôme a __/10." |
 | 3 | Moment | "Pire a __, durée __." |
 | 4 | Mieux ou pire | "Pire après __, mieux avec __." |
 | 5 | Médicaments/contexte | "Meds/plan: __." |
@@ -233,15 +233,15 @@ Informations utiles:
 
 ## La place de Zebra
 
-Zebra est concu pour ce suivi leger: symptômes, intensite, declencheurs, médicaments, notes, [activités de la vie quotidienne](/fr-fr/knowledge/activities-of-daily-living/) et questions de rendez-vous au meme endroit.
+Zebra est conçu pour ce suivi léger: symptômes, intensité, déclencheurs, médicaments, notes, [activités de la vie quotidienne](/fr-fr/knowledge/activities-of-daily-living/) et questions de rendez-vous au meme endroit.
 
 Il ne diagnostique pas et ne dit pas ce que signifient vos symptômes. Il aide a ne plus compter sur la mémoire quand le rendez-vous arrive enfin.
 
 ## Points clés
 
 - La première semaine de suivi des symptômes doit rester petite.
-- Commencez avec un a trois symptômes, pas toute votre histoire de sante.
-- Ajoutez intensite, moment, contexte, médicaments, recuperation et impact fonctionnel progressivement.
+- Commencez avec un a trois symptômes, pas toute votre histoire de santé.
+- Ajoutez intensité, moment, contexte, médicaments, récupération et impact fonctionnel progressivement.
 - Une note d'une phrase reste utile.
 - Après sept jours, transformez vos notes en questions pour votre médecin.
 
@@ -249,7 +249,7 @@ Il ne diagnostique pas et ne dit pas ce que signifient vos symptômes. Il aide a
 
 ### Que faut-il suivre pendant la première semaine?
 
-Notez vos principaux symptômes, leur intensite, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de recuperation et ce que les symptômes vous ont empeche de faire.
+Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empeche de faire.
 
 ### Combien faut-il écrire si je suis submerge?
 
@@ -257,12 +257,12 @@ Une phrase ou quelques champs rapides suffisent. Une note utile peut être: doul
 
 ### Dois-je suivre tous les symptômes?
 
-Non. Commencez par un a trois symptômes qui affectent le plus votre journee. Vous pourrez en ajouter si le suivi devient gerable.
+Non. Commencez par un a trois symptômes qui affectent le plus votre journée. Vous pourrez en ajouter si le suivi devient gerable.
 
 ### Combien de temps avant que le suivi soit utile?
 
-Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout a créer une habitude durable.
+Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout à créer une habitude durable.
 
 ### Zebra est-il un avis médical?
 
-Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.
+Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.

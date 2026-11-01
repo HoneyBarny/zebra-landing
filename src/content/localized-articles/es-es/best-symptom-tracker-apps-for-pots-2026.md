@@ -54,9 +54,9 @@ faq:
   - question: "¿Cuál es la mejor app de rastreo de síntomas para POTS?"
     answer: "Si quieres un lugar para síntomas, cambios ortostáticos, brotes y preparación de citas, Zebra es la opción más fuerte. Si quieres un rastreador amplio y personalizable, Bearable sigue siendo una opción comun."
   - question: "¿Bearable es bueno para POTS?"
-    answer: "Bearable puede funcionar para POTS, especialmente si estas dispuesto a personalizar tu configuración. Su desventaja es que no esta diseñado especificamente alrededor de la superposición de POTS, EDS y fibromialgia."
+    answer: "Bearable puede funcionar para POTS, especialmente si estas dispuesto a personalizar tu configuración. Su desventaja es que no está diseñado especificamente alrededor de la superposición de POTS, EDS y fibromialgia."
   - question: "¿Necesito más de una app para POTS?"
-    answer: "Muchas personas actualmente usan más de una herramienta. El objetivo debería ser reducir ese conjunto si esta haciendo que las citas y los días malos sean más difíciles de manejar."
+    answer: "Muchas personas actualmente usan más de una herramienta. El objetivo debería ser reducir ese conjunto si está haciendo que las citas y los días malos sean más difíciles de manejar."
   - question: "¿Qué debe incluir un rastreador de POTS?"
     answer: "Las funciones útiles suelen incluir historia de síntomas, seguimiento de brotes, contexto de medicación, seguimiento de sal e hidratación y observaciones ortostáticas estructuradas cuando sean relevantes."
 ---
@@ -69,7 +69,7 @@ Si estas comparando POTS, disautonomía y EDS en conjunto, empieza con la guía 
 
 ## ¿Qué hace que un rastreador de POTS sea realmente útil?
 
-Para POTS, la mejor app no es la que tiene más graficos. Es la que ayuda a responder preguntas como:
+Para POTS, la mejor app no es la que tiene más gráficos. Es la que ayuda a responder preguntas como:
 
 - ¿Qué síntomas cambiaron este mes?
 - ¿Qué pasa cuando estoy de pie?
@@ -86,7 +86,7 @@ Si los síntomas al estar de pie son la razón principal por la que estas compar
 | --- | --- | --- | --- |
 | Zebra | POTS + condiciones superpuestas + preparación de citas | Síntomas, brotes, rastreo ortostático, sal e hidratación, informe listo para el médico | Producto más nuevo con menor presencia publica |
 | Bearable | Rastreo genérico personalizable | Personalización amplia y base de usuarios establecida | Más configuración, valores genericos por defecto, menos específico para condiciones |
-| Visible | Usuarios centrados en pacing | Enfoque fuerte de pacing y vista de tendencias | No esta creado como flujo completo de síntomas + medicación + informe |
+| Visible | Usuarios centrados en pacing | Enfoque fuerte de pacing y vista de tendencias | No está creado como flujo completo de síntomas + medicación + informe |
 | POTSie | Usuarios solo con POTS | Enfoque específico de POTS | Alcance más estrecho, menos apoyo para superposición |
 | Notas / hoja de cálculo | Configuración minima | Familiar y flexible | Difícil de revisar, comparar y compartir claramente |
 
@@ -94,7 +94,7 @@ Si los síntomas al estar de pie son la razón principal por la que estas compar
 
 Zebra encaja mejor si tu problema principal no es solo registrar síntomas, sino convertirlos en algo útil antes de una cita.
 
-Esta diseñado alrededor de la superposición que muchas personas ya estan manejando:
+Esta diseñado alrededor de la superposición que muchas personas ya están manejando:
 
 - POTS
 - EDS
@@ -118,7 +118,7 @@ Para la versión específica de citas de esta decisión, consulta [Mejor app par
 
 Bearable sigue siendo uno de los rastreadores de síntomas más establecidos en esta categoria. Es una opción fuerte para personas que quieren un sistema amplio de seguimiento de síntomas que puedan personalizar mucho con el tiempo.
 
-Su desventaja es que es genérico por diseño. Esa flexibilidad ayuda a algunos usuarios, pero también significa más configuración y más decisiones antes de que la app se sienta adaptada a POTS. La investigación propia de Zebra mostro esto repetidamente como un punto de dolor para usuarios con brain fog y para personas que ya usan varias herramientas.
+Su desventaja es que es genérico por diseño. Esa flexibilidad ayuda a algunos usuarios, pero también significa más configuración y más decisiones antes de que la app se sienta adaptada a POTS. La investigación propia de Zebra mostró esto repetidamente como un punto de dolor para usuarios con brain fog y para personas que ya usan varias herramientas.
 
 Bearable es una opción razonable si:
 
@@ -140,7 +140,7 @@ Las herramientas de una sola condición todavía pueden ser útiles, especialmen
 
 Ahí es donde las herramientas estrechas pueden convertirse en otra pieza del mismo problema de tres apps.
 
-## ¿Qué deberias elegir?
+## ¿Qué deberías elegir?
 
 Elige Zebra si quieres:
 
@@ -165,7 +165,7 @@ Elige Notas o una hoja de cálculo si solo necesitas:
 
 ## En resumen
 
-El mejor rastreador de síntomas para POTS es el que todavía puedes usar en un día malo y todavía entender antes de una cita. Para muchas personas, el problema real no es falta de datos. Son datos fragmentados. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para POTS es el que todavía puedes usar en un día malo y todavía entender antes de una cita. Para muchas personas, el problema real no es falta de datos. Son datos fragmentados. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 
@@ -175,11 +175,11 @@ Si quieres un lugar para síntomas, cambios ortostáticos, brotes y preparación
 
 ### ¿Bearable es bueno para POTS?
 
-Bearable puede funcionar para POTS, especialmente si estas dispuesto a personalizar tu configuración. Su desventaja es que no esta diseñado especificamente alrededor de la superposición de POTS, EDS y fibromialgia.
+Bearable puede funcionar para POTS, especialmente si estas dispuesto a personalizar tu configuración. Su desventaja es que no está diseñado especificamente alrededor de la superposición de POTS, EDS y fibromialgia.
 
 ### ¿Necesito más de una app para POTS?
 
-Muchas personas actualmente usan más de una herramienta. El objetivo debería ser reducir ese conjunto si esta haciendo que las citas y los días malos sean más difíciles de manejar.
+Muchas personas actualmente usan más de una herramienta. El objetivo debería ser reducir ese conjunto si está haciendo que las citas y los días malos sean más difíciles de manejar.
 
 ### ¿Qué debe incluir un rastreador de POTS?
 

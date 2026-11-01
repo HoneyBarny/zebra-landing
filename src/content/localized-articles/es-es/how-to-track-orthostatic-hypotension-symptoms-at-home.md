@@ -71,7 +71,7 @@ faq:
     answer: "No. La hipotensión ortostática se centra en una bajada de presión arterial después de ponerse de pie. POTS se centra en un aumento excesivo del pulso sin hipotensión ortostática significativa. Un médico puede interpretar que patrón encaja."
 ---
 
-[La hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/) significa que la presión arterial baja después de ponerse de pie. Para muchas personas, lo más visible no es solo el número. Es el momento en que estar de pie trae mareo, aturdimiento, debilidad, visión borrosa, nauseas, confusión o sensación de desmayo.
+[La hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/) significa que la presión arterial baja después de ponerse de pie. Para muchas personas, lo más visible no es solo el número. Es el momento en que estar de pie trae mareo, aturdimiento, debilidad, visión borrosa, náuseas, confusión o sensación de desmayo.
 
 Una nota útil en casa conecta la lectura con la situación: postura, horario, síntomas, comidas, horario de medicamentos, hidratación y recuperación. Ese contexto ayuda a tu médico a revisar si el patrón parece hipotensión ortostática, [POTS](/es-es/knowledge/pots/), sincope vasovagal, efecto de medicamentos, deshidratación, otro patrón de disautonomía u otra cosa.
 
@@ -113,8 +113,8 @@ Varias fuentes clínicas describen controles ortostáticos de presión con lectu
 
 Para cada momento, registra:
 
-- presión sistolica
-- presión diastolica
+- presión sistólica
+- presión diastólica
 - pulso
 - postura
 - intensidad del síntoma de 0 a 10
@@ -228,7 +228,7 @@ Zebra no diagnostica hipotensión ortostática ni interpreta lecturas. Te ayuda 
 ## Puntos clave
 
 - Registra postura, hora, presión arterial, pulso, síntomas y recuperación juntos.
-- Deten cualquier prueba de pie si no te sientes seguro.
+- Detén cualquier prueba de pie si no te sientes seguro.
 - El contexto como comidas, calor, medicamentos, hidratación y hora del día puede importar.
 - No cambies tratamiento solo por lecturas en casa.
 - El mejor resultado es una pregunta clara para la cita, no un autodiagnostico.

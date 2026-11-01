@@ -76,7 +76,7 @@ La mayoría de visitas avanzan mejor cuando tus notas ayudan a responder cinco p
 1. Que síntomas te afectan más ahora mismo?
 2. ¿Qué cambió recientemente?
 3. Que síntomas de solapamiento o patrones de brotes importan?
-4. Que esta haciendo esto a la función diaria?
+4. Que está haciendo esto a la función diaria?
 5. ¿Con qué quieres ayuda en esta visita?
 
 Eso significa que la mejor preparación no es un diario gigante de síntomas. Es un resumen reciente y organizado que apoya la conversación.
@@ -146,7 +146,7 @@ Rastrea ejemplos como:
 
 - necesite acostarme después de tareas basicas
 - tuve problemas para ducharme, cocinar o trasladarme
-- no pude sentarme erguido comodamente por mucho tiempo
+- no pude sentarme erguido cómodamente por mucho tiempo
 - tuve que cancelar planes o irme temprano
 - necesite ayuda con tareas del hogar
 - no pude pensar con suficiente claridad para terminar trabajo o mensajes
@@ -190,7 +190,7 @@ Escribe las dos o tres preguntas que más quieres que respondan.
 
 Ejemplos:
 
-- ¿Qué patrones importan más rastrear antes de la proxima visita?
+- ¿Qué patrones importan más rastrear antes de la próxima visita?
 - ¿Qué cambios debería vigilar más de cerca?
 - ¿Cómo debería organizar síntomas de solapamiento para el seguimiento?
 - Que pertenece a un [informe listo para el médico](/knowledge/doctor-ready-report/)?
@@ -237,7 +237,7 @@ Eso basta para crear un historial reciente útil sin construir un proceso demasi
 
 ## Qué aporta Zebra a este flujo
 
-Zebra esta creado para la parte que suele deshacerse antes de la cita: mantener síntomas, contexto de solapamiento, función diaria y preparación de preguntas en un registro que todavía tenga sentido después.
+Zebra está creado para la parte que suele deshacerse antes de la cita: mantener síntomas, contexto de solapamiento, función diaria y preparación de preguntas en un registro que todavía tenga sentido después.
 
 Si quieres la parte del informe de ese flujo, [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explica que contiene realmente un resumen útil.
 

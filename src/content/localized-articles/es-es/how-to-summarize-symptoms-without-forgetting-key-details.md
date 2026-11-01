@@ -55,7 +55,7 @@ faq:
   - question: "¿Cómo dejo de olvidar detalles importantes durante las citas?"
     answer: "Usa un resumen escrito antes de la visita en lugar de depender de la memoria en la consulta."
   - question: "¿Qué tan largo debe ser un resumen de síntomas?"
-    answer: "Lo bastante corto para revisar rápido. Si no puedes releerlo facilmente bajo estres, probablemente es demasiado largo."
+    answer: "Lo bastante corto para revisar rápido. Si no puedes releerlo facilmente bajo estrés, probablemente es demasiado largo."
 ---
 
 Para resumir síntomas sin olvidar detalles clave, empieza con qué cambió, qué afectó la vida diaria, qué cambios de tratamiento o rutina importan y con qué necesitas ayuda ahora. Un buen resumen de síntomas es lo bastante corto para usar bajo presión y lo bastante estructurado para evitar que los detalles importantes desaparezcan cuando llega el brain fog.
@@ -142,4 +142,4 @@ Usa un resumen escrito antes de la visita en lugar de depender de la memoria en 
 
 ### ¿Qué tan largo debe ser un resumen de síntomas?
 
-Lo bastante corto para revisar rápido. Si no puedes releerlo facilmente bajo estres, probablemente es demasiado largo.
+Lo bastante corto para revisar rápido. Si no puedes releerlo facilmente bajo estrés, probablemente es demasiado largo.

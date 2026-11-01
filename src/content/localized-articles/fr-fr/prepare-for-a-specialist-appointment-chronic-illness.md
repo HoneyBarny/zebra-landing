@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "prepare-for-a-specialist-appointment-chronic-illness"
 title: "Comment préparer un rendez-vous specialise quand on vit avec une maladie chronique"
 status: "published"
-subtitle: "Préparer un rendez-vous specialise avec une maladie chronique consiste souvent moins a apporter plus d’informations qu’a apporter les bonnes informations dans un format vraiment utilisable. L’objectif est d’arriver en sachant ce qui a change, ce qui affecte la vie quotidienne, ce que vous avez essaye et ce pour quoi vous voulez de l’aide."
+subtitle: "Préparer un rendez-vous specialise avec une maladie chronique consiste souvent moins à apporter plus d’informations qu’a apporter les bonnes informations dans un format vraiment utilisable. L’objectif est d’arriver en sachant ce qui a change, ce qui affecte la vie quotidienne, ce que vous avez essaye et ce pour quoi vous voulez de l’aide."
 description: "Une checklist pratique pour un rendez-vous specialise avec une maladie chronique, avec resume de symptômes, médicaments, questions et chronologie."
 excerpt: "Une checklist pratique pour un rendez-vous specialise avec une maladie chronique, avec resume de symptômes, médicaments, questions et chronologie."
 author: "zebra-editorial"
@@ -41,7 +41,7 @@ entities:
 secondaryKeywords:
   - "checklist rendez-vous specialise"
   - "questions pour médecin"
-  - "historique de sante"
+  - "historique de santé"
 schemaTypes:
   - "Article"
   - "HowTo"
@@ -57,13 +57,13 @@ faq:
     answer: "Non. Un resume court et structure est souvent plus utile qu’un gros ensemble de notes brutes."
 ---
 
-Préparer un rendez-vous specialise avec une maladie chronique consiste souvent moins a apporter plus d’informations qu’a apporter les bonnes informations dans un format vraiment utilisable. L’objectif est d’arriver en sachant ce qui a change, ce qui affecte la vie quotidienne, ce que vous avez essaye et ce pour quoi vous voulez de l’aide.
+Préparer un rendez-vous specialise avec une maladie chronique consiste souvent moins à apporter plus d’informations qu’a apporter les bonnes informations dans un format vraiment utilisable. L’objectif est d’arriver en sachant ce qui a change, ce qui affecte la vie quotidienne, ce que vous avez essaye et ce pour quoi vous voulez de l’aide.
 
-Cela semble simple, jusqu’à ce que le brain fog, la fatigue, l’historique de minimisation et les notes dispersees entrent en jeu. Un bon système de préparation reduit cette pression avant le debut de la visite.
+Cela semble simple, jusqu’à ce que le brain fog, la fatigue, l’historique de minimisation et les notes dispersees entrent en jeu. Un bon système de préparation réduit cette pression avant le debut de la visite.
 
-## Le role de la préparation
+## Le rôle de la préparation
 
-Une bonne préparation aide a faire quatre choses:
+Une bonne préparation aide à faire quatre choses:
 
 - se souvenir de l’important
 - montrer les changements dans le temps
@@ -79,7 +79,7 @@ Il ne s’agit pas d’avoir l’air parfait. Il s’agit de rendre la visite pl
 Votre resume devrait répondre a:
 
 - quels symptômes comptent le plus maintenant
-- ce qui a change recemment
+- ce qui a change récemment
 - ce qui semble le plus perturbant
 
 Gardez-le assez court pour pouvoir vraiment l’utiliser.
@@ -92,11 +92,11 @@ Un spécialiste a souvent besoin de la sequence:
 - ce qui se passait au meme moment
 - ce qui a change dans les médicaments, l’hydratation, le sommeil, le fonctionnement ou la routine
 
-Cela aide votre histoire a paraitre coherente plutot que dispersee.
+Cela aide votre histoire à paraitre coherente plutôt que dispersee.
 
 ### 3. Apportez votre liste de médicaments et complements
 
-La liste n’a pas besoin d’être elegante. Elle doit être exacte et facile a relire. Incluez:
+La liste n’a pas besoin d’être elegante. Elle doit être exacte et facile à relire. Incluez:
 
 - prescriptions
 - complements
@@ -105,17 +105,17 @@ La liste n’a pas besoin d’être elegante. Elle doit être exacte et facile a
 
 ### 4. Apportez seulement les chiffres pertinents
 
-Si le rendez-vous concerne la cardiologie ou la dysautonomie, apportez les mesures a domicile qui soutiennent la discussion. Si le rendez-vous concerne la douleur, le fonctionnement ou la fatigue, un historique clair des symptômes peut compter plus qu’un tableau rempli de constantes.
+Si le rendez-vous concerne la cardiologie ou la dysautonomie, apportez les mesures à domicile qui soutiennent la discussion. Si le rendez-vous concerne la douleur, le fonctionnement ou la fatigue, un historique clair des symptômes peut compter plus qu’un tableau rempli de constantes.
 
 ### 5. Ecrivez vos questions principales avant d’arriver
 
-Beaucoup de personnes preparent les symptômes et oublient les questions qui les ont poussees a prendre rendez-vous.
+Beaucoup de personnes preparent les symptômes et oublient les questions qui les ont poussées à prendre rendez-vous.
 
 Utilisez une courte liste:
 
 - Quel changement semble le plus important?
-- Que devrais-je continuer a suivre?
-- Que signifie ce resultat ou cette prochaine etape?
+- Que devrais-je continuer à suivre?
+- Que signifie ce résultat ou cette prochaine étape?
 
 ### 6. Decidez ce que vous voulez obtenir de ce rendez-vous
 
@@ -127,9 +127,9 @@ Exemples:
 - une confirmation de ce qu’il faut surveiller
 - des conseils sur ce qu’il faut suivre avant la prochaine visite
 
-Si vous ne le definissez pas a l’avance, il est plus facile de repartir insatisfait meme si la visite était correcte.
+Si vous ne le definissez pas à l’avance, il est plus facile de repartir insatisfait meme si la visite était correcte.
 
-## Que faire la semaine precedente
+## Que faire la semaine précédente
 
 - revoir les 2 a 4 dernières semaines
 - extraire les changements de symptômes les plus forts
@@ -141,10 +141,10 @@ Vous n’avez pas besoin de reconstruire toute votre histoire. Vous avez besoin 
 
 ## Que faire la veille
 
-- placer le resume de symptômes la ou vous pouvez l’ouvrir facilement
-- garder la liste de médicaments prete
+- placer le resume de symptômes là où vous pouvez l’ouvrir facilement
+- garder la liste de médicaments prête
 - garder la liste de questions courte
-- apporter les anciens comptes rendus ou resultats pertinents s’ils ont été demandes
+- apporter les anciens comptes rendus ou résultats pertinents s’ils ont été demandes
 
 La veille n’est pas le moment de construire tout le système de zero.
 
@@ -152,14 +152,14 @@ La veille n’est pas le moment de construire tout le système de zero.
 
 - commencez par le changement le plus clair, pas par toute l’histoire
 - utilisez votre resume lorsque le brain fog arrive
-- referez-vous a votre liste de questions
+- referez-vous à votre liste de questions
 - demandez quoi suivre avant la prochaine visite
 
-Les documents `Questions Are the Answer` de l [AHRQ](https://www.ahrq.gov/questions/10questions.html) sont utiles ici, car ils encouragent les personnes a apporter des questions ecrites et a demander des explications en langage clair.
+Les documents `Questions Are the Answer` de l [AHRQ](https://www.ahrq.gov/questions/10questions.html) sont utiles ici, car ils encouragent les personnes à apporter des questions ecrites et à demander des explications en langage clair.
 
 ## Où Zebra s’intègre
 
-Zebra est concu pour le mois avant le rendez-vous, pas seulement pour les dix minutes dans la salle. Il vous aide a garder symptômes, poussees, médicaments, changements de fonctionnement et observations liees dans un seul historique, afin de ne pas devoir les reconstruire de mémoire au dernier moment.
+Zebra est conçu pour le mois avant le rendez-vous, pas seulement pour les dix minutes dans la salle. Il vous aide à garder symptômes, poussées, médicaments, changements de fonctionnement et observations liées dans un seul historique, afin de ne pas devoir les reconstruire de mémoire au dernier moment.
 
 Cet historique peut ensuite soutenir un rapport pret pour le médecin et un resume de visite plus clair.
 
@@ -168,7 +168,7 @@ Cet historique peut ensuite soutenir un rapport pret pour le médecin et un resu
 - La préparation d’un rendez-vous specialise fonctionne mieux quand elle est courte, structuree et récente.
 - Apportez un resume de symptômes, une chronologie, une liste de médicaments et vos questions.
 - Decidez ce que vous voulez obtenir avant d’arriver.
-- La bonne préparation reduit la pression du brain fog dans la salle.
+- La bonne préparation réduit la pression du brain fog dans la salle.
 
 ## FAQ
 

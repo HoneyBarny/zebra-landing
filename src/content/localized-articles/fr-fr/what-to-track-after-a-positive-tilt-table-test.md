@@ -3,8 +3,8 @@ locale: "fr-fr"
 originalSlug: "what-to-track-after-a-positive-tilt-table-test"
 status: "published"
 title: "Que suivre après un test de table basculante positif"
-subtitle: "Un test de table basculante positif peut laisser plus de questions que de réponses. L'etape utile est de suivre symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel et impact quotidien pour aider votre clinicien a comprendre ce que le resultat donne hors laboratoire."
-description: "Apprenez quoi suivre après un test de table basculante positif: symptômes, contexte orthostatique, recuperation, médicaments, hydratation et questions de rendez-vous."
+subtitle: "Un test de table basculante positif peut laisser plus de questions que de réponses. L'étape utile est de suivre symptômes, contexte debout, temps de récupération, médicaments, hydratation, sel et impact quotidien pour aider votre clinicien à comprendre ce que le résultat donne hors laboratoire."
+description: "Apprenez quoi suivre après un test de table basculante positif: symptômes, contexte orthostatique, récupération, médicaments, hydratation et questions de rendez-vous."
 excerpt: "Un guide pratique pour suivre symptômes et contexte après un test de table basculante positif avant les rendez-vous de suivi."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
@@ -16,7 +16,7 @@ cluster: "POTS"
 category: "POTS"
 primaryKeyword: "quoi suivre apres test table basculante positif"
 seoTitle: "Que suivre après un test de table basculante positif | Zebra"
-metaDescription: "Après un test de table basculante positif, suivez symptômes, contexte debout, recuperation, médicaments, hydratation, sel et questions."
+metaDescription: "Après un test de table basculante positif, suivez symptômes, contexte debout, récupération, médicaments, hydratation, sel et questions."
 ogTitle: "Que suivre après un test de table basculante positif"
 ogDescription: "Un guide pratique de suivi pour les jours et semaines après un test de table basculante positif."
 heroImage: "/screenshots/orthostatic-test-fr.png"
@@ -61,20 +61,20 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que dois-je suivre après un test de table basculante positif?"
-    answer: "Suivez symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel, impact fonctionnel et questions pour le rendez-vous de suivi."
+    answer: "Suivez symptômes, contexte debout, temps de récupération, médicaments, hydratation, sel, impact fonctionnel et questions pour le rendez-vous de suivi."
   - question: "Un test de table basculante positif signifie-t-il toujours POTS?"
-    answer: "Non. Un resultat positif signifie que votre corps a reagi anormalement pendant le test, mais votre clinicien interprete le profil avec vos symptômes, votre histoire et d'autres donnees."
-  - question: "Dois-je continuer a suivre fréquence cardiaque et tension après le test?"
-    answer: "Si votre clinicien souhaite des observations a domicile, suivez-les avec position, timing, symptômes et contexte. Ne changez pas le traitement sur les chiffres seuls."
-  - question: "Quels symptômes sont utiles a noter?"
-    answer: "Les symptômes souvent utiles incluent vertiges, tête legere, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement."
+    answer: "Non. Un résultat positif signifie que votre corps a reagi anormalement pendant le test, mais votre clinicien interprète le profil avec vos symptômes, votre histoire et d'autres données."
+  - question: "Dois-je continuer à suivre fréquence cardiaque et tension après le test?"
+    answer: "Si votre clinicien souhaite des observations à domicile, suivez-les avec position, timing, symptômes et contexte. Ne changez pas le traitement sur les chiffres seuls."
+  - question: "Quels symptômes sont utiles à noter?"
+    answer: "Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Un test de [table basculante](/fr-fr/knowledge/orthostatic-test/) positif peut laisser plus de questions que de réponses. L'etape utile est de suivre symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel et impact de la vie quotidienne pour aider votre clinicien a comprendre ce que le resultat donne hors laboratoire.
+Un test de [table basculante](/fr-fr/knowledge/orthostatic-test/) positif peut laisser plus de questions que de réponses. L'étape utile est de suivre symptômes, contexte debout, temps de récupération, médicaments, hydratation, sel et impact de la vie quotidienne pour aider votre clinicien à comprendre ce que le résultat donne hors laboratoire.
 
-C'est important parce que le test n'est qu'une partie de l'histoire. Cleveland Clinic explique qu'un test de table basculante surveille fréquence cardiaque, tension arterielle et symptômes pendant que le corps passe de couche a debout. Un resultat positif signifie que le corps a reagi anormalement pendant le test, mais le sens dépend du profil et de votre historique médical.
+C'est important parce que le test n'est qu'une partie de l'histoire. Cleveland Clinic explique qu'un test de table basculante surveille fréquence cardiaque, tension artérielle et symptômes pendant que le corps passe de couche a debout. Un résultat positif signifie que le corps a reagi anormalement pendant le test, mais le sens dépend du profil et de votre historique médical.
 
 Le but après le test n'est pas de vous diagnostiquer. Le but est d'apporter des notes de suivi plus claires.
 
@@ -82,7 +82,7 @@ Le but après le test n'est pas de vous diagnostiquer. Le but est d'apporter des
 
 Avant de suivre quoi que ce soit de nouveau, notez les mots exacts du rapport de test ou du compte rendu.
 
-Details utiles:
+Détails utiles:
 
 - si le rapport mentionne POTS, hypotension orthostatique, syncope vasovagale, presyncope, syncope ou dysautonomie
 - quels symptômes sont apparus pendant le test
@@ -93,7 +93,7 @@ Details utiles:
 
 Si les mots semblent confus, c'est normal. Apportez les mots exacts au suivi au lieu de les traduire de mémoire.
 
-## Suivre ce qui arrive quand vous etes debout
+## Suivre ce qui arrive quand vous êtes debout
 
 Les notes post-test les plus utiles relient souvent symptômes, position et temps debout.
 
@@ -104,7 +104,7 @@ Suivez:
 - si les symptômes se sont ameliores allongé
 - si s'asseoir a suffi ou si seul s'allonger a aide
 - si les symptômes sont arrives après douche, chaleur, repas, courses ou escaliers
-- si la recuperation a pris minutes, heures ou le reste de la journee
+- si la récupération a pris minutes, heures ou le reste de la journée
 
 Pour les personnes evaluees pour [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), ce contexte peut compter autant que le nom des symptômes.
 
@@ -114,7 +114,7 @@ Vous n'avez pas besoin d'écrire un paragraphe chaque fois.
 
 Utilisez une liste courte:
 
-- vertiges ou tête legere
+- vertiges ou tête légère
 - malaise ou presque malaise
 - palpitations ou coeur qui s'emballe
 - tremblements
@@ -144,11 +144,11 @@ Notes utiles:
 - nouveaux effets secondaires ou inquietudes
 - caféine ou alcool si pertinent
 
-Le consensus de la [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que l'histoire clinique en cas de suspicion de POTS doit considerer les facteurs modificateurs et declencheurs possibles, dont deshydratation, chaleur, alcool et exercice. Les suivre comme contexte peut rendre les suivis plus précis.
+Le consensus de la [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) note que l'histoire clinique en cas de suspicion de POTS doit considerer les facteurs modificateurs et déclencheurs possibles, dont déshydratation, chaleur, alcool et exercice. Les suivre comme contexte peut rendre les suivis plus précis.
 
 ## Ajouter l'impact fonctionnel
 
-L'impact fonctionnel est souvent la différence entre "j'avais des vertiges" et "cela a change ma journee".
+L'impact fonctionnel est souvent la différence entre "j'avais des vertiges" et "cela a change ma journée".
 
 Notez des exemples comme:
 
@@ -168,10 +168,10 @@ Après un test de table basculante positif, vous pouvez apporter des questions c
 
 - Quel profil le test a-t-il montre?
 - Est-ce compatible avec POTS, hypotension orthostatique, syncope vasovagale, un autre profil de dysautonomie ou autre chose?
-- Les mesures de tension étaient-elles importantes dans mon resultat?
+- Les mesures de tension étaient-elles importantes dans mon résultat?
 - Quels symptômes devraient me faire chercher des soins urgents?
 - Que devrais-je suivre avant le prochain rendez-vous?
-- Dois-je suivre fréquence cardiaque ou tension a domicile, et si oui comment?
+- Dois-je suivre fréquence cardiaque ou tension à domicile, et si oui comment?
 - Hydratation, sel, compression, exercice ou médicaments font-ils partie de mon plan?
 - Qu'est-ce qui compterait comme amélioration?
 
@@ -188,14 +188,14 @@ Contexte utile:
 
 ## Où Zebra s'insere
 
-Zebra aide a garder l'histoire après le test dans un seul endroit: symptômes, [observations orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, notes, declencheurs et questions de suivi.
+Zebra aide à garder l'histoire après le test dans un seul endroit: symptômes, [observations orthostatiques](/fr-fr/knowledge/orthostatic-test/), médicaments, hydratation, sel, notes, déclencheurs et questions de suivi.
 
-Il n'interprete pas votre test et ne diagnostique pas le POTS. Il aide a organiser ce qui arrive ensuite pour que le rendez-vous de suivi demande moins de suppositions.
+Il n'interprète pas votre test et ne diagnostique pas le POTS. Il aide à organiser ce qui arrive ensuite pour que le rendez-vous de suivi demande moins de suppositions.
 
 ## Points clés
 
-- Un test de table basculante positif doit être interprete par votre clinicien.
-- Après le test, suivez symptômes avec position, timing, recuperation et impact quotidien.
+- Un test de table basculante positif doit être interprète par votre clinicien.
+- Après le test, suivez symptômes avec position, timing, récupération et impact quotidien.
 - Gardez hydratation, sel, compression et médicaments près des symptômes quand c'est pertinent pour votre plan.
 - Apportez les mots exacts du rapport et des questions precises au suivi.
 - Un dossier court et régulier est plus utile que des notes dispersees.
@@ -204,20 +204,20 @@ Il n'interprete pas votre test et ne diagnostique pas le POTS. Il aide a organis
 
 ### Que dois-je suivre après un test de table basculante positif?
 
-Suivez symptômes, contexte debout, temps de recuperation, médicaments, hydratation, sel, impact fonctionnel et questions pour le rendez-vous de suivi.
+Suivez symptômes, contexte debout, temps de récupération, médicaments, hydratation, sel, impact fonctionnel et questions pour le rendez-vous de suivi.
 
 ### Un test de table basculante positif signifie-t-il toujours POTS?
 
-Non. Un resultat positif signifie que votre corps a reagi anormalement pendant le test, mais votre clinicien interprete le profil avec vos symptômes, votre histoire et d'autres donnees.
+Non. Un résultat positif signifie que votre corps a reagi anormalement pendant le test, mais votre clinicien interprète le profil avec vos symptômes, votre histoire et d'autres données.
 
-### Dois-je continuer a suivre fréquence cardiaque et tension après le test?
+### Dois-je continuer à suivre fréquence cardiaque et tension après le test?
 
-Si votre clinicien souhaite des observations a domicile, suivez-les avec position, timing, symptômes et contexte. Ne changez pas le traitement sur les chiffres seuls.
+Si votre clinicien souhaite des observations à domicile, suivez-les avec position, timing, symptômes et contexte. Ne changez pas le traitement sur les chiffres seuls.
 
-### Quels symptômes sont utiles a noter?
+### Quels symptômes sont utiles à noter?
 
-Les symptômes souvent utiles incluent vertiges, tête legere, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement.
+Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement.
 
 ### Zebra est-il un avis médical?
 
-Non. Zebra aide a organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.
+Non. Zebra aide à organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux.

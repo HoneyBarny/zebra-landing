@@ -146,7 +146,7 @@ Para la explicación de la superposición, [Como se superponen los síntomas de 
 
 ## En resumen
 
-El mejor rastreador de síntomas para la superposición de EDS y disautonomía es el que mantiene el patrón completo entendible después. Para muchas personas, eso significa menos herramientas desconectadas, más contexto y una línea de tiempo que sigue siendo usable en días malos. Zebra esta creado para cerrar esa brecha.
+El mejor rastreador de síntomas para la superposición de EDS y disautonomía es el que mantiene el patrón completo entendible después. Para muchas personas, eso significa menos herramientas desconectadas, más contexto y una línea de tiempo que sigue siendo usable en días malos. Zebra está creado para cerrar esa brecha.
 
 ## FAQ
 

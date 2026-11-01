@@ -103,7 +103,7 @@ No necesitas volver a contar cada brote. Necesitas una imagen lo bastante clara 
 
 ## Agrega impacto funcional
 
-El impacto funcional explica por que los síntomas importaron.
+El impacto funcional explica por qué los síntomas importaron.
 
 Ejemplos:
 
@@ -137,7 +137,7 @@ Ejemplos:
 
 - ¿Qué patrón debería seguir rastreando?
 - ¿Qué cambios debería mencionar antes?
-- ¿Qué información seria más útil antes de la proxima visita?
+- ¿Qué información seria más útil antes de la próxima visita?
 - ¿Hay algo en esta historia que cambie el plan de seguimiento?
 
 Las preguntas hacen que el resumen sea más fácil de usar en la consulta.
@@ -157,7 +157,7 @@ Eso es suficiente para la mayoría de la preparación de citas.
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para ayudar a que la historia diaria de síntomas se convierta en un resumen mensual y un informe listo para el médico, para que no tengas que reconstruir la historia desde la memoria al final del mes.
+Zebra está creado para ayudar a que la historia diaria de síntomas se convierta en un resumen mensual y un informe listo para el médico, para que no tengas que reconstruir la historia desde la memoria al final del mes.
 
 ## Puntos clave
 

@@ -61,11 +61,11 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Pueden superponerse los síntomas de POTS, EDS y MCAS?"
-    answer: "Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica."
+    answer: "Sí. Algunas personas tienen diagnósticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica."
   - question: "¿Qué debo registrar cuando los síntomas se superponen?"
     answer: "Registra el grupo principal de síntomas, el momento, posibles desencadenantes, contexto ortostático, cambios de medicación, impacto funcional y preguntas para la cita."
   - question: "¿Debo registrar desencadenantes como prueba?"
-    answer: "No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estres, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa."
+    answer: "No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estrés, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa."
   - question: "¿Cómo mantengo el registro manejable con brain fog?"
     answer: "Usa una estructura diaria corta: que cambió, que tan fuerte fue, que había cerca y que te impidió hacer."
   - question: "¿Zebra diagnostica POTS, EDS o MCAS?"
@@ -86,7 +86,7 @@ Por ejemplo:
 
 - síntomas al estar erguida: mareo, palpitaciones, temblor, fatiga
 - síntomas de tejido conectivo: dolor articular, inestabilidad, lesiones, notas de subluxación
-- síntomas tipo mastocito: flushing, picor, urticaria, malestar GI, hinchazon, reacciones a comida o calor
+- síntomas tipo mastocito: flushing, picor, urticaria, malestar GI, hinchazón, reacciones a comida o calor
 - síntomas cognitivos: brain fog, lagunas de memoria, dificultad para encontrar palabras
 - impacto funcional: ducharse, estar de pie, conducir, trabajar, estudiar, cuidar, cocinar
 
@@ -101,7 +101,7 @@ Notas útiles incluyen:
 - mañana, tarde, noche o madrugada
 - antes o después de estar de pie
 - antes o después de comer
-- después de calor, ducha, recados, ejercicio, infección, mal sueño, viaje o estres
+- después de calor, ducha, recados, ejercicio, infección, mal sueño, viaje o estrés
 - alrededor de cambios de medicación, suplementos, hidratación, sal o compresión
 - cuánto tardó la recuperación
 
@@ -141,7 +141,7 @@ En vez de escribir solo "fatiga", añade ejemplos como:
 - el dolor cambio caminar, escaleras, sueño o uso de las manos
 - brain fog hizo más difíciles mensajes, formularios o conversaciones
 
-Esto ayuda a convertir una lista larga de síntomas en una conversación de cuidado. El impacto funcional responde a la pregunta práctica: que le esta haciendo esto a tu vida?
+Esto ayuda a convertir una lista larga de síntomas en una conversación de cuidado. El impacto funcional responde a la pregunta práctica: que le está haciendo esto a tu vida?
 
 ## Usa una nota simple de brote
 
@@ -153,7 +153,7 @@ Para brotes con superposición, prueba este formato corto:
 - cambios de medicación o rutina
 - notas ortostáticas, si importan
 - impacto funcional
-- una pregunta para la proxima cita
+- una pregunta para la próxima cita
 
 Este formato funciona incluso si solo completas parte. Una entrada parcial de un mal día suele ser más útil que una entrada perfecta que nunca ocurre.
 
@@ -185,7 +185,7 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola línea temporal.
+Zebra está creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola línea temporal.
 
 No diagnostica POTS, EDS, MCAS ni ninguna condición. Ayuda a mantener el historial introducido por la persona organizado para revisarlo antes de una visita médica.
 
@@ -201,7 +201,7 @@ No diagnostica POTS, EDS, MCAS ni ninguna condición. Ayuda a mantener el histor
 
 ### ¿Pueden superponerse los síntomas de POTS, EDS y MCAS?
 
-Si. Algunas personas tienen diagnosticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica.
+Sí. Algunas personas tienen diagnósticos o síntomas relacionados con POTS, EDS o hEDS y MCAS al mismo tiempo, pero registrar la superposición no reemplaza la interpretación clínica.
 
 ### ¿Qué debo registrar cuando los síntomas se superponen?
 
@@ -209,7 +209,7 @@ Registra el grupo principal de síntomas, el momento, posibles desencadenantes, 
 
 ### ¿Debo registrar desencadenantes como prueba?
 
-No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estres, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa.
+No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estrés, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa.
 
 ### ¿Cómo mantengo el registro manejable con brain fog?
 

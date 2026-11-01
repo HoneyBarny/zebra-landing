@@ -69,7 +69,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El sueño y la [fatiga](/es-es/knowledge/fatigue/) estan muy conectados para muchas personas con enfermedad crónica, pero el patrón puede ser difícil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la línea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
+El sueño y la [fatiga](/es-es/knowledge/fatigue/) están muy conectados para muchas personas con enfermedad crónica, pero el patrón puede ser difícil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la línea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
 
 Un diario de sueño y fatiga no diagnostica insomnio, apnea del sueño, ME/CFS, fibromialgia, Long COVID ni ninguna otra condición. Te ayuda a llevar un registro más claro a un médico.
 
@@ -84,7 +84,7 @@ Empieza con:
 - horas estimadas de sueño
 - calidad del sueño: mala, regular, buena
 - cuantas veces despertaste
-- si dolor, síntomas, baño, calor, estres o respiración te despertaron
+- si dolor, síntomas, baño, calor, estrés o respiración te despertaron
 - qué tan descansado o no descansado te sentiste
 
 Ejemplo: "Cama 23:30, desperte 7:10, quizas 5.5 horas, desperte 3 veces por dolor de cadera, no descansado 8/10."
@@ -152,7 +152,7 @@ Registra si el mal sueño ocurrió cerca de:
 - empeoramiento de síntomas de [Long COVID](/es-es/knowledge/long-covid/)
 - migraña
 - síntomas ortostáticos
-- estres o sobrecarga sensorial
+- estrés o sobrecarga sensorial
 - enfermedad
 - periodo o cambios hormonales
 - cambios de medicamentos
@@ -167,7 +167,7 @@ Usa esta estructura:
 
 1. Noche: hora de dormir, hora de despertar, sueño estimado, despertares.
 2. Calidad del sueño: mala, regular, buena.
-3. Contexto: dolor, medicamentos, cafeina, siesta, estres, síntomas.
+3. Contexto: dolor, medicamentos, cafeina, siesta, estrés, síntomas.
 4. Día siguiente: fatiga, brain fog, dolor, función.
 5. Pregunta: ¿qué debo preguntar en la cita?
 
@@ -179,7 +179,7 @@ Antes de una visita, saca:
 
 - hora promedio de dormir y despertar
 - noches con despertares frecuentes
-- mananas sin descanso
+- mañanas sin descanso
 - peores días de fatiga
 - si fueron necesarias siestas
 - síntomas que te despertaron
@@ -191,7 +191,7 @@ Preguntas útiles:
 
 - "Un problema de sueño podría empeorar mi fatiga, dolor, brain fog o mareo?"
 - "Debo registrar el sueño durante más tiempo?"
-- "Algun síntoma sugiere estudio del sueño u otra evaluación?"
+- "Algún síntoma sugiere estudio del sueño u otra evaluación?"
 - "El horario de medicamentos podría afectar el sueño o la fatiga diurna?"
 - "Que síntomas son urgentes?"
 
@@ -217,7 +217,7 @@ Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a lleva
 - Las notas de sueño son más útiles cuando se conectan con fatiga y función del día siguiente.
 - Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeina, síntomas e impacto.
 - Un diario corto de una o dos semanas puede ser más útil que notas largas dispersas.
-- No trates el contexto de sueño como prueba de causa; usalo como contexto para la cita.
+- No trates el contexto de sueño como prueba de causa; úsalo como contexto para la cita.
 - El mejor resultado es una lista breve de preguntas y un patrón que tu médico pueda revisar.
 
 ## FAQ

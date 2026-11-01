@@ -61,7 +61,7 @@ faq:
   - question: "¿Qué es el dolor tipo percha?"
     answer: "El dolor tipo percha suele describir dolor o molestia en la parte posterior del cuello, hombros y parte alta de la espalda. En trastornos autonómicos puede empeorar al estar de pie y mejorar al sentarse o acostarse."
   - question: "¿Qué debo registrar con el dolor tipo percha?"
-    answer: "Registra ubicación, intensidad, postura, tiempo de pie, desencadenantes, tiempo de recuperación, síntomas relacionados, signos vitales si estan disponibles, medicamentos, hidratación e impacto funcional."
+    answer: "Registra ubicación, intensidad, postura, tiempo de pie, desencadenantes, tiempo de recuperación, síntomas relacionados, signos vitales si están disponibles, medicamentos, hidratación e impacto funcional."
   - question: "¿La pesadez de extremidades puede aparecer con disautonomía?"
     answer: "Algunas personas con intolerancia ortostática o hipotensión ortostática reportan debilidad, pesadez, fatiga o menor resistencia al estar de pie. Tu médico debe interpretar si encaja con tu condición."
   - question: "Cuando son urgentes los síntomas de cuello, ¿hombros o extremidades?"
@@ -80,7 +80,7 @@ Registrar ayuda porque estos síntomas pueden sonar vagos en una cita corta. Una
 
 No escribas solo "dolor" si puedes ser más específico.
 
-Para dolor tipo percha, anota si esta en:
+Para dolor tipo percha, anota si está en:
 
 - base del craneo
 - parte posterior del cuello
@@ -109,7 +109,7 @@ Registra:
 
 - acostado, sentado, de pie, caminando, ducha, cocinando, escaleras o quieto de pie
 - cuánto tiempo llevabas en posición vertical
-- si aparecio rápido o fue aumentando
+- si apareció rápido o fue aumentando
 - si sentarte ayudo
 - si acostarte ayudo más que sentarte
 - cuánto tardó en calmarse
@@ -127,7 +127,7 @@ Agrega lo que ocurrió al mismo tiempo:
 - cambios de visión
 - palpitaciones o corazon acelerado
 - falta de aire
-- nauseas
+- náuseas
 - sudoración, rubor o calor
 - brain fog
 - temblor
@@ -208,13 +208,13 @@ Zebra puede ayudar a organizar notas, pero no puede decidir si un síntoma es se
 
 ## Plantilla rápida de registro
 
-Usa este formato cuando estes cansado:
+Usa este formato cuando estés cansado:
 
 1. Ubicación: cuello, hombros, espalda alta, piernas, brazos.
 2. Posición: de pie, caminando, ducha, escaleras, sentado, acostado.
 3. Tiempo de pie: 2 minutos, 10 minutos, 30 minutos.
 4. Intensidad: dolor 0-10, pesadez 0-10.
-5. Otros síntomas: mareo, visión, palpitaciones, nauseas, brain fog.
+5. Otros síntomas: mareo, visión, palpitaciones, náuseas, brain fog.
 6. Contexto: calor, comida, hidratación, sueño, medicamentos, brote, esfuerzo.
 7. Recuperación: sentado, acostado, líquidos, enfriar, tiempo hasta línea base.
 8. Impacto: que tuviste que detener, cambiar o cancelar.
@@ -254,7 +254,7 @@ El dolor tipo percha suele describir dolor o molestia en la parte posterior del 
 
 ### ¿Qué debo registrar con el dolor tipo percha?
 
-Registra ubicación, intensidad, postura, tiempo de pie, desencadenantes, tiempo de recuperación, síntomas relacionados, signos vitales si estan disponibles, medicamentos, hidratación e impacto funcional.
+Registra ubicación, intensidad, postura, tiempo de pie, desencadenantes, tiempo de recuperación, síntomas relacionados, signos vitales si están disponibles, medicamentos, hidratación e impacto funcional.
 
 ### ¿La pesadez de extremidades puede aparecer con disautonomía?
 

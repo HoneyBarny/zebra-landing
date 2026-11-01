@@ -63,7 +63,7 @@ faq:
   - question: "¿Qué debo registrar para Long COVID?"
     answer: "Registra los principales grupos de síntomas, empeoramiento retrasado después de actividad, mareo o pulso rápido al estar de pie, falta de aire, sueño, medicamentos, impacto funcional y preguntas para tu médico."
   - question: "¿Debo registrar actividad si tengo PEM o PESE?"
-    answer: "Si, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, que cambió y cuánto duró la recuperación."
+    answer: "Sí, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, que cambió y cuánto duró la recuperación."
   - question: "¿Un rastreador de síntomas puede diagnosticar Long COVID?"
     answer: "No. El seguimiento puede organizar tu historia para una visita médica, pero el diagnóstico y las decisiones de tratamiento requieren evaluación clínica."
   - question: "¿Cómo puedo registrar sin empeorar la fatiga?"
@@ -93,7 +93,7 @@ Dominios útiles:
 - dolor muscular, articular o de pecho
 - síntomas digestivos
 - cambios en olfato o gusto
-- contexto de animo, estres o aislamiento
+- contexto de animo, estrés o aislamiento
 
 En un día difícil, elige los principales uno a tres dominios. Muchas veces basta.
 
@@ -166,17 +166,17 @@ Registra:
 - derivaciones o planes de seguimiento
 - preguntas que surgieron después de la visita
 
-No cambies tratamiento solo por un rastreador. Usa el registro para hacer más clara la proxima visita.
+No cambies tratamiento solo por un rastreador. Usa el registro para hacer más clara la próxima visita.
 
 ## Plantilla simple de Long COVID
 
 Usa esto cuando la energía sea limitada:
 
 1. ¿Qué cambió más hoy?
-2. ¿Qué pasó cerca: actividad, enfermedad, estres, sueño, comida, calor, medicamento?
+2. ¿Qué pasó cerca: actividad, enfermedad, estrés, sueño, comida, calor, medicamento?
 3. Los síntomas empeoraron después?
 4. Que te impidió hacer?
-5. Que pregunta debes llevar a la proxima cita?
+5. Que pregunta debes llevar a la próxima cita?
 
 Si solo respondes una pregunta, responde la cuarta. El impacto funcional suele ser lo primero que la memoria pierde.
 
@@ -198,7 +198,7 @@ Preguntas útiles:
 
 - "Que síntomas debemos priorizar primero?"
 - "Alguno podría sugerir disautonomía, POTS, PEM tipo ME/CFS, problemas respiratorios, cardiacos, anemia, tiroides, efectos de medicamentos u otra cosa a evaluar?"
-- "Que debo registrar de aquí a la proxima visita?"
+- "Que debo registrar de aquí a la próxima visita?"
 - "Que síntomas deberían llevarme a urgencias?"
 - "Que límites de actividad o pautas de pacing debo seguir?"
 
@@ -235,7 +235,7 @@ Registra los principales grupos de síntomas, empeoramiento retrasado después d
 
 ### ¿Debo registrar actividad si tengo PEM o PESE?
 
-Si, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, qué cambió y cuánto duró la recuperación.
+Sí, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, qué cambió y cuánto duró la recuperación.
 
 ### ¿Un rastreador de síntomas puede diagnosticar Long COVID?
 

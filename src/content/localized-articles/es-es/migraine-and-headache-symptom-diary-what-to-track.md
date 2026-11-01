@@ -64,7 +64,7 @@ faq:
   - question: "¿Un diario puede probar mi desencadenante de migraña?"
     answer: "No. Un diario puede mostrar patrones para comentar, pero los desencadenantes de migraña pueden ser complejos y superponerse. Trata los posibles desencadenantes como pistas, no como prueba."
   - question: "¿Debo registrar uso de medicamentos?"
-    answer: "Si. Registra que tomaste, cuando lo tomaste, si ayudo y si necesitaste repetir dosis. Esto ayuda a revisar respuesta y frecuencia de medicación."
+    answer: "Sí. Registra que tomaste, cuando lo tomaste, si ayudo y si necesitaste repetir dosis. Esto ayuda a revisar respuesta y frecuencia de medicación."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -134,7 +134,7 @@ No cambies medicamentos por un diario solo. Lleva el patrón al médico, especia
 
 ## Trata posibles desencadenantes como pistas, no culpa
 
-Los desencadenantes de migraña pueden ser complejos. A veces un "desencadenante" es en realidad un síntoma temprano del ataque. A veces se superponen varios factores: mal sueño, estres, saltarse comidas, cambio de clima, periodo, deshidratación, luz brillante, alcohol o esfuerzo.
+Los desencadenantes de migraña pueden ser complejos. A veces un "desencadenante" es en realidad un síntoma temprano del ataque. A veces se superponen varios factores: mal sueño, estrés, saltarse comidas, cambio de clima, periodo, deshidratación, luz brillante, alcohol o esfuerzo.
 
 Usa lenguaje cuidadoso:
 
@@ -160,7 +160,7 @@ Registra:
 - alcohol, si aplica
 - [hidratación](/es-es/knowledge/hydration/)
 - calor o esfuerzo
-- cambios de estres
+- cambios de estrés
 - enfermedad o infección
 - día del ciclo, periodo, ovulación o cambios hormonales si aplica
 - estado de brote si tienes síntomas cronicos
@@ -207,7 +207,7 @@ Antes de una cita con medicina primaria, neurologia, cardiología, alergia o enf
 - días de medicación al mes
 - tratamientos que ayudaron o fallaron
 - posibles desencadenantes repetidos
-- relación con sueño, comidas, hidratación, periodo, estres o brotes
+- relación con sueño, comidas, hidratación, periodo, estrés o brotes
 - si síntomas cambiaron con postura
 - impacto funcional: trabajo, escuela, conducir, pantallas, cuidados o sueño
 - síntomas nuevos o cambiantes
@@ -218,7 +218,7 @@ Preguntas útiles:
 - "Cuantos días con dolor o medicación deberían motivar seguimiento?"
 - "Hay síntomas de alarma?"
 - "Podrían estar conectados migraña, síntomas autonómicos, hormonas, sueño o medicamentos?"
-- "Que debería registrar hasta la proxima cita?"
+- "Que debería registrar hasta la próxima cita?"
 
 ## Contexto de fuentes
 

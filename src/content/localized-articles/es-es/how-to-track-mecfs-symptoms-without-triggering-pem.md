@@ -60,9 +60,9 @@ faq:
   - question: "¿Qué debo rastrear cuando el PEM aparece con retraso?"
     answer: "Rastrea el esfuerzo o estresor, cuando empeoraron los síntomas, que cambió, cuánto duró el bajón y que actividades se volvieron más difíciles."
   - question: "¿Esta bien saltarme el rastreo en los peores días?"
-    answer: "Si. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar."
+    answer: "Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar."
   - question: "¿Puede ayudar un informe listo para el médico si mi rastreo esta incompleto?"
-    answer: "Si. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola."
+    answer: "Sí. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola."
 ---
 
 Si tienes [EM/SFC](/knowledge/me-cfs/), la parte más difícil del rastreo de síntomas suele ser la misma razón por la que quieres rastrear: tu energía es limitada, tu memoria no es fiable en los días peores, y excederte con el proceso puede salir mal. Un sistema útil para EM/SFC debe ayudarte a notar patrones sin convertir el registro en otra forma de esfuerzo.
@@ -80,7 +80,7 @@ El objetivo es:
 - mantener visibles los cambios en la función diaria
 - facilitar la preparación de citas después
 
-Ese es un estandar muy diferente a "registrar todo todos los días".
+Ese es un estándar muy diferente a "registrar todo todos los días".
 
 ## Por qué el rastreo detallado suele fallar con EM/SFC
 
@@ -94,7 +94,7 @@ Puntos de fallo comunes incluyen:
 - culpa después de entradas perdidas
 - presión por ponerse al día después de un bajón
 
-Esto se parece al mismo ciclo de días malos descrito en [Por que el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/), pero EM/SFC suele añadir empeoramiento retrasado que hace que el patrón sea aun más difícil de reconstruir.
+Esto se parece al mismo ciclo de días malos descrito en [Por qué el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/), pero EM/SFC suele añadir empeoramiento retrasado que hace que el patrón sea aun más difícil de reconstruir.
 
 ## Qué rastrear cuando PEM forma parte del cuadro
 
@@ -124,7 +124,7 @@ Si quieres la versión minima útil, rastrea:
 
 - actividad fisica
 - esfuerzo cognitivo
-- estres
+- estrés
 - mal sueño
 - citas o viajes
 
@@ -195,7 +195,7 @@ Si te estas preparando para recibir atención, [Que rastrear antes de una cita c
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para mantener el registro usable en días difíciles, no solo en los buenos. Eso importa para la [fatiga](/knowledge/fatigue/) y EM/SFC porque el proceso solo ayuda si sigue siendo posible usarlo cuando baja la energía.
+Zebra está creado para mantener el registro usable en días difíciles, no solo en los buenos. Eso importa para la [fatiga](/knowledge/fatigue/) y EM/SFC porque el proceso solo ayuda si sigue siendo posible usarlo cuando baja la energía.
 
 ## Puntos clave
 
@@ -220,8 +220,8 @@ Rastrea el esfuerzo o estresor, cuando empeoraron los síntomas, qué cambió, c
 
 ### ¿Esta bien saltarme el rastreo en los peores días?
 
-Si. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar.
+Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar.
 
 ### ¿Puede ayudar un informe listo para el médico si mi rastreo esta incompleto?
 
-Si. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola.
+Sí. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola.

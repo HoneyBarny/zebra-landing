@@ -60,11 +60,11 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué es el presincope?"
-    answer: "Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, nauseas, sudoración, cambios visuales y sensación de inestabilidad."
+    answer: "Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad."
   - question: "¿Qué debo registrar durante un episodio de presincope?"
-    answer: "Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si estan disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer."
+    answer: "Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si están disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer."
   - question: "¿Debo registrar episodios que no terminan en desmayo?"
-    answer: "Si. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación."
+    answer: "Sí. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación."
   - question: "¿Cuándo debo buscar ayuda médica por presincope?"
     answer: "Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves."
   - question: "¿Zebra es consejo médico?"
@@ -79,14 +79,14 @@ Esto es especialmente útil cuando los síntomas se mezclan con [disautonomía](
 
 ## Empieza con las senales de aviso
 
-Primero escribe que sentiste antes de que el episodio llegara a su punto maximo.
+Primero escribe que sentiste antes de que el episodio llegara a su punto máximo.
 
 Senales útiles:
 
 - mareo o aturdimiento
 - visión en tunel, puntos negros o visión borrosa
 - audición apagada o zumbido
-- nauseas
+- náuseas
 - sudoración, rubor o calor repentino
 - temblor o debilidad
 - palpitaciones o corazon acelerado
@@ -129,7 +129,7 @@ Anota lo que aplicaba:
 - infección, periodo, migraña o pico de dolor
 - viaje, recados, escaleras o esfuerzo
 - inicio, suspensión, cambio de dosis o dosis olvidada de medicación
-- estres emocional o procedimiento médico
+- estrés emocional o procedimiento médico
 
 No intentas probar una sola causa. Estas reuniendo contexto para comparar episodios repetidos.
 
@@ -182,7 +182,7 @@ MedlinePlus senala que el desmayo a veces puede indicar un problema serio, así 
 Usa esto cuando tengas brain fog:
 
 1. Posición: de pie, sentado, ducha, escaleras, caminando, fila.
-2. Senales: visión, nauseas, calor, debilidad, palpitaciones, mareo.
+2. Senales: visión, náuseas, calor, debilidad, palpitaciones, mareo.
 3. Contexto: calor, hidratación, comida, sueño, dolor, medicamentos, esfuerzo.
 4. Acción: me sente, me acoste, líquidos, sal, enfriar, ayuda.
 5. Recuperación: minutos, horas, resto del día.
@@ -203,7 +203,7 @@ Información útil:
 
 Zebra te ayuda a mantener los casi desmayos en el mismo lugar que [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), notas de frecuencia cardíaca o presión arterial, hidratación, sal, medicamentos, desencadenantes e impacto funcional.
 
-No te dice por que ocurrió un episodio. Te ayuda a llevar una línea de tiempo más clara a la cita.
+No te dice por qué ocurrió un episodio. Te ayuda a llevar una línea de tiempo más clara a la cita.
 
 ## Puntos clave
 
@@ -217,15 +217,15 @@ No te dice por que ocurrió un episodio. Te ayuda a llevar una línea de tiempo 
 
 ### ¿Qué es el presincope?
 
-Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, nauseas, sudoración, cambios visuales y sensación de inestabilidad.
+Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad.
 
 ### ¿Qué debo registrar durante un episodio de presincope?
 
-Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si estan disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer.
+Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si están disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer.
 
 ### ¿Debo registrar episodios que no terminan en desmayo?
 
-Si. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación.
+Sí. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación.
 
 ### ¿Cuándo debo buscar ayuda médica por presincope?
 

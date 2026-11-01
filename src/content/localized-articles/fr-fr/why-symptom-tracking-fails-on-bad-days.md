@@ -64,22 +64,22 @@ Les mauvais jours, les personnes gerent souvent:
 - plus de symptômes
 - moins de concentration
 - moins de patience pour la configuration
-- moins de mémoire a la fin de la journee
+- moins de mémoire à la fin de la journée
 
-Cela signifie qu'un système de suivi concu pour une regularite en bonne sante echouera souvent dans la realite de la maladie chronique.
+Cela signifie qu'un système de suivi conçu pour une regularite en bonne santé echouera souvent dans la realite de la maladie chronique.
 
 ## Pourquoi cela mene a l'abandon
 
 Le schema est courant:
 
-- depart motive
+- départ motive
 - jour manque
 - culpabilite
 - pression de rattrapage
 - evitement
 - abandon
 
-Ce n'est pas un echec personnel. C'est souvent un echec de conception.
+Ce n'est pas un échec personnel. C'est souvent un échec de conception.
 
 ## Ce qui fonctionne mieux
 
@@ -104,15 +104,15 @@ Cela compte quand meme.
 
 ## La place de Zebra
 
-La proposition de valeur de Zebra est construite autour de la reduction de l'effort les jours difficiles, au lieu d'en demander plus. Le dossier aide seulement si vous pouvez encore l'utiliser quand les symptômes sont au pire.
+La proposition de valeur de Zebra est construite autour de la réduction de l'effort les jours difficiles, au lieu d'en demander plus. Le dossier aide seulement si vous pouvez encore l'utiliser quand les symptômes sont au pire.
 
-Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutot qu'une application de bien-être générale, la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) explique cette approche.
+Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutôt qu'une application de bien-être générale, la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) explique cette approche.
 
 ## Points clés
 
 - Le suivi echoue les mauvais jours parce que les symptômes reduisent la capacité nécessaire pour les noter.
 - La culpabilite et la pression de rattrapage aggravent l'abandon.
-- Des entrees plus petites et des redemarrages plus faciles sont plus durables que la perfection.
+- Des entrées plus petites et des redemarrages plus faciles sont plus durables que la perfection.
 
 ## FAQ
 

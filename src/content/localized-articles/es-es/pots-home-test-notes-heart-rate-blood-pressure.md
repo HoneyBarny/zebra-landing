@@ -92,7 +92,7 @@ El tracking en casa nunca debe ser más importante que estar seguro.
 
 ## Registra el contexto antes de los números
 
-El contexto explica por que dos días pueden verse distintos.
+El contexto explica por qué dos días pueden verse distintos.
 
 Anota:
 
@@ -132,8 +132,8 @@ Frecuencia cardíaca sin presión puede perder parte de la historia. Presión si
 Para cada momento, registra:
 
 - frecuencia cardíaca
-- presión sistolica
-- presión diastolica
+- presión sistólica
+- presión diastólica
 - intensidad de síntomas de 0 a 10
 - síntoma principal en ese momento
 
@@ -159,7 +159,7 @@ Registra:
 - temblor
 - debilidad
 - visión borrosa o en tunel
-- nauseas
+- náuseas
 - falta de aire
 - molestia en el pecho
 - sudoración, rubor o calor
@@ -242,7 +242,7 @@ No diagnostica POTS ni interpreta tus lecturas. Ayuda a llevar un registro más 
 ## Puntos clave
 
 - Registra postura, tiempo, frecuencia cardíaca, presión arterial, síntomas y contexto juntos.
-- Deten cualquier revisión en casa si te sientes inseguro.
+- Detén cualquier revisión en casa si te sientes inseguro.
 - No cambies sal, líquidos, compresión o medicación sin tu médico por números en casa.
 - Los episodios cotidianos son tan importantes como las lecturas estructuradas.
 - El mejor resultado es una pregunta clara para el médico, no un autodiagnostico.

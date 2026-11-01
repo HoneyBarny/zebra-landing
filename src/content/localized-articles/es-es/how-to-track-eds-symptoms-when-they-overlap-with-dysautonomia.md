@@ -4,7 +4,7 @@ originalSlug: "how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia"
 status: "published"
 publishedAt: "2026-07-12"
 title: "Como rastrear síntomas de EDS cuando se superponen con disautonomía"
-subtitle: "Cuando los síntomas de EDS se superponen con disautonomía, el problema principal no es solo la cantidad de síntomas. Es la mezcla de síntomas. Mareo, fatiga, brain fog, dolor, palpitaciones y cambios de función pueden empezar a apilarse hasta que se vuelve difícil saber que cambió, que tiende a pasar junto y que necesitas mencionar en tu proxima cita."
+subtitle: "Cuando los síntomas de EDS se superponen con disautonomía, el problema principal no es solo la cantidad de síntomas. Es la mezcla de síntomas. Mareo, fatiga, brain fog, dolor, palpitaciones y cambios de función pueden empezar a apilarse hasta que se vuelve difícil saber que cambió, que tiende a pasar junto y que necesitas mencionar en tu próxima cita."
 description: "Aprende como rastrear síntomas de EDS cuando se superponen con disautonomía, incluyendo patrones de síntomas compartidos, función diaria y contexto relacionado con la posición."
 excerpt: "Un flujo de trabajo práctico para mantener síntomas superpuestos de EDS y disautonomía en un registro claro y usable."
 author: "zebra-editorial"
@@ -65,7 +65,7 @@ faq:
     answer: "Resume que cambió, que se agrupa, que afecta la función y que preguntas quieres responder. Una historia corta y revisable suele ser más útil que una colección de notas dispersas."
 ---
 
-Cuando los síntomas de EDS se superponen con disautonomía, el problema principal no es solo la cantidad de síntomas. Es la mezcla de síntomas. Mareo, fatiga, brain fog, dolor, palpitaciones y cambios de función pueden empezar a apilarse hasta que se vuelve difícil saber qué cambió, qué tiende a pasar junto y que necesitas mencionar en tu proxima cita.
+Cuando los síntomas de EDS se superponen con disautonomía, el problema principal no es solo la cantidad de síntomas. Es la mezcla de síntomas. Mareo, fatiga, brain fog, dolor, palpitaciones y cambios de función pueden empezar a apilarse hasta que se vuelve difícil saber qué cambió, qué tiende a pasar junto y que necesitas mencionar en tu próxima cita.
 
 Si estas rastreando tanto [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/) como [disautonomía](/knowledge/dysautonomia/), normalmente ayuda mantener un registro conectado en lugar de forzar los síntomas en sistemas separados. El objetivo no es etiquetar cada síntoma perfectamente en tiempo real. El objetivo es mantener el patrón revisable.
 
@@ -107,7 +107,7 @@ Para muchas personas, las categorías de superposición más útiles incluyen:
 - palpitaciones
 - debilidad
 - falta de aire
-- nauseas
+- náuseas
 - temblores
 
 No necesitas cada síntoma posible todos los días. Empieza con los síntomas que:
@@ -139,7 +139,7 @@ Si los síntomas ortostáticos son parte del cuadro, [Que es la intolerancia ort
 
 ## Rastrea lo que la superposición hace a la función
 
-Esta suele ser la forma más clara de mostrar por que el patrón importa.
+Esta suele ser la forma más clara de mostrar por qué el patrón importa.
 
 Rastrea ejemplos como:
 
@@ -206,7 +206,7 @@ Si quieres la versión minima útil, prueba esto:
 - más frecuente
 - más severo
 - duro más
-- aparecio en una combinación nueva
+- apareció en una combinación nueva
 
 ### Qué hizo a la función
 
@@ -234,7 +234,7 @@ Si vas a una consulta pronto, [Que rastrear antes de una cita con un especialist
 
 ## Qué agrega Zebra
 
-Zebra esta diseñado para personas cuya historia deja de tener sentido cuando los síntomas estan dispersos en distintas herramientas. En lugar de separar síntomas superpuestos en notas aisladas, ayuda a mantener conectados la línea de tiempo, el contexto y el flujo de revisión en un solo registro.
+Zebra está diseñado para personas cuya historia deja de tener sentido cuando los síntomas están dispersos en distintas herramientas. En lugar de separar síntomas superpuestos en notas aisladas, ayuda a mantener conectados la línea de tiempo, el contexto y el flujo de revisión en un solo registro.
 
 ## Puntos clave
 

@@ -3,9 +3,9 @@ locale: "fr-fr"
 originalSlug: "palpitations-and-racing-heart-symptom-diary-what-to-track"
 title: "Journal palpitations et coeur rapide: quoi suivre"
 status: "published"
-subtitle: "Les notes de palpitations sont plus utiles quand timing, sensation du rythme, fréquence cardiaque, position, temps debout, vertige, symptômes thoraciques, médicaments, caféine, hydratation, declencheurs possibles, recuperation et impact fonctionnel restent connectes. Le but n'est pas de diagnostiquer une arythmie, mais d'apporter une histoire plus claire au médecin."
-description: "Apprenez quoi suivre dans un journal palpitations et coeur rapide: timing, sensation du rythme, fréquence cardiaque, position, vertige, symptômes thoraciques, declencheurs, médicaments, hydratation et recuperation."
-excerpt: "Un guide pratique pour suivre palpitations, coeur rapide, battements sautes, fréquence cardiaque, position, vertige, declencheurs, médicaments, recuperation et resume médical."
+subtitle: "Les notes de palpitations sont plus utiles quand timing, sensation du rythme, fréquence cardiaque, position, temps debout, vertige, symptômes thoraciques, médicaments, caféine, hydratation, déclencheurs possibles, récupération et impact fonctionnel restent connectes. Le but n'est pas de diagnostiquer une arythmie, mais d'apporter une histoire plus claire au médecin."
+description: "Apprenez quoi suivre dans un journal palpitations et coeur rapide: timing, sensation du rythme, fréquence cardiaque, position, vertige, symptômes thoraciques, déclencheurs, médicaments, hydratation et récupération."
+excerpt: "Un guide pratique pour suivre palpitations, coeur rapide, battements sautes, fréquence cardiaque, position, vertige, déclencheurs, médicaments, récupération et resume médical."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,14 +16,14 @@ cluster: "Dysautonomia"
 category: "Symptom Tracking"
 primaryKeyword: "journal palpitations"
 seoTitle: "Journal palpitations et coeur rapide | Zebra"
-metaDescription: "Suivez palpitations avec timing, sensation du rythme, fréquence cardiaque, position, vertige, symptômes thoraciques, declencheurs, médicaments et recuperation."
+metaDescription: "Suivez palpitations avec timing, sensation du rythme, fréquence cardiaque, position, vertige, symptômes thoraciques, déclencheurs, médicaments et récupération."
 ogTitle: "Journal palpitations et coeur rapide"
-ogDescription: "Suivez episodes de coeur rapide, battements sautes, posture, fréquence cardiaque, vertige, declencheurs, médicaments et recuperation."
+ogDescription: "Suivez episodes de coeur rapide, battements sautes, posture, fréquence cardiaque, vertige, déclencheurs, médicaments et récupération."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique des insights Zebra avec motifs de symptômes et notes sauvegardees."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder palpitations, fréquence cardiaque, position, declencheurs, hydratation, médicaments, recuperation et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder palpitations, fréquence cardiaque, position, déclencheurs, hydratation, médicaments, récupération et questions pour le médecin dans une meme timeline."
 categories:
   - "Symptom Tracking"
   - "Dysautonomia"
@@ -63,20 +63,20 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que noter pendant des palpitations?"
-    answer: "Notez heure de debut, durée, sensation du rythme, fréquence cardiaque si mesuree, position, activité, vertige ou malaise, symptômes thoraciques, essoufflement, médicaments, caféine, hydratation, declencheurs possibles, recuperation et impact fonctionnel."
+    answer: "Notez heure de debut, durée, sensation du rythme, fréquence cardiaque si mesuree, position, activité, vertige ou malaise, symptômes thoraciques, essoufflement, médicaments, caféine, hydratation, déclencheurs possibles, récupération et impact fonctionnel."
   - question: "Un journal peut-il diagnostiquer des palpitations?"
     answer: "Non. Un journal peut organiser l'histoire des episodes, mais le diagnostic peut demander évaluation médicale, ECG, Holter, analyses de sang ou autres tests."
   - question: "Quand les palpitations sont-elles urgentes?"
-    answer: "Cherchez une aide urgente pour palpitations avec douleur ou pression thoracique, malaise, essoufflement severe, vertige severe, confusion ou symptômes que votre médecin a marques urgents."
-  - question: "Faut-il suivre la fréquence cardiaque a chaque fois?"
+    answer: "Cherchez une aide urgente pour palpitations avec douleur ou pression thoracique, malaise, essoufflement sévère, vertige sévère, confusion ou symptômes que votre médecin a marques urgents."
+  - question: "Faut-il suivre la fréquence cardiaque à chaque fois?"
     answer: "Seulement si cela fait déjà partie de votre plan de soins et n'aggrave pas symptômes ou anxiete. Si vous mesurez, notez nombre, heure et si vous etiez allongé, assis, debout, en exercice ou au repos."
   - question: "Zebra est-il un avis médical?"
-    answer: "Non. Zebra aide a organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
+    answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
 Les palpitations peuvent se sentir comme un coeur rapide, fort, qui flotte, saute des battements ou devient soudain très perceptible. Pour les personnes avec [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/), intolérance orthostatique, anxiete superposee, changements de médicaments, questions thyroidiennes, Long COVID ou flares chroniques, le plus difficile est souvent d'expliquer l'episode après coup.
 
-Un journal de palpitations ne diagnostique pas arythmie, POTS, dysautonomie ou maladie cardiaque. Il aide a apporter une histoire plus claire au médecin.
+Un journal de palpitations ne diagnostique pas arythmie, POTS, dysautonomie ou maladie cardiaque. Il aide à apporter une histoire plus claire au médecin.
 
 ## Commencer par les bases de l'episode
 
@@ -93,7 +93,7 @@ Notez:
 - si vous etiez allongé, assis, debout, en marche, exercice, douche, repas ou repos
 - ce qui a aide
 
-Exemple: "Debut 14:15 debout dans la cuisine. Coeur rapide et fort, FC 132 debout, tête legere 6/10. Assis, bu de l'eau, mieux a 14:35."
+Exemple: "Debut 14:15 debout dans la cuisine. Coeur rapide et fort, FC 132 debout, tête légère 6/10. Assis, bu de l'eau, mieux a 14:35."
 
 Cela donne une sequence au médecin, pas seulement "mon coeur était bizarre."
 
@@ -101,7 +101,7 @@ Cela donne une sequence au médecin, pas seulement "mon coeur était bizarre."
 
 Si le suivi de fréquence cardiaque fait partie de vos soins, notez le nombre avec la position.
 
-Etiquettes utiles:
+Étiquettes utiles:
 
 - allongé
 - assis
@@ -115,7 +115,7 @@ Etiquettes utiles:
 
 La meme fréquence peut signifier autre chose selon posture et contexte. Coeur rapide après courir n'est pas la meme histoire qu'au repos allongé.
 
-Ne verifiez pas constamment si cela aggrave symptômes ou anxiete. Demandez au médecin quel format est utile.
+Ne vérifiez pas constamment si cela aggrave symptômes ou anxiete. Demandez au médecin quel format est utile.
 
 ## Suivre les symptômes associes
 
@@ -124,7 +124,7 @@ Les palpitations sont plus utiles cliniquement quand les symptômes connectes re
 Notez si vous aviez:
 
 - [vertige](/fr-fr/knowledge/dizziness/)
-- [tête legere](/fr-fr/knowledge/lightheadedness/)
+- [tête légère](/fr-fr/knowledge/lightheadedness/)
 - quasi malaise ou [syncope](/fr-fr/knowledge/syncope/)
 - douleur, pression ou oppression thoracique
 - essoufflement
@@ -138,9 +138,9 @@ Notez si vous aviez:
 - fatigue inhabituelle après
 - sensation de panique ou montee d'adrenaline
 
-Cherchez une aide urgente pour douleur ou pression thoracique, malaise, essoufflement severe, vertige severe, confusion ou rythme rapide/irregulier qui ne se calme pas vite.
+Cherchez une aide urgente pour douleur ou pression thoracique, malaise, essoufflement sévère, vertige sévère, confusion ou rythme rapide/irregulier qui ne se calme pas vite.
 
-## Garder les declencheurs possibles proches
+## Garder les déclencheurs possibles proches
 
 Les palpitations peuvent avoir beaucoup de contributeurs. Un tracker est meilleur quand il note le contexte sans conclure trop vite.
 
@@ -150,7 +150,7 @@ Contexte possible:
 - rester debout longtemps
 - chaleur ou douche chaude
 - exercice ou effort
-- deshydratation ou peu de liquides
+- déshydratation ou peu de liquides
 - repas saute
 - grand repas
 - caféine
@@ -163,7 +163,7 @@ Contexte possible:
 - fievre, infection ou maladie
 - cycle ou changement hormonal
 
-Ecrivez "declencheur possible" plutot que "cause" sauf confirmation médicale.
+Ecrivez "déclencheur possible" plutôt que "cause" sauf confirmation médicale.
 
 ## Noter médicaments et stimulants
 
@@ -181,9 +181,9 @@ Notez:
 - nicotine ou autres stimulants
 - si les symptômes ont change après un changement de médicament
 
-Ne stoppez pas et n'ajustez pas les médicaments a partir d'un journal seul. Utilisez le dossier pour poser des questions plus sures.
+Ne stoppez pas et n'ajustez pas les médicaments à partir d'un journal seul. Utilisez le dossier pour poser des questions plus sures.
 
-## Ajouter hydratation, sel et recuperation
+## Ajouter hydratation, sel et récupération
 
 Avec POTS et dysautonomie, les palpitations se chevauchent souvent avec [hydratation](/fr-fr/knowledge/hydration/), [sel](/fr-fr/knowledge/salt-loading/), posture et chaleur.
 
@@ -195,10 +195,10 @@ Notez:
 - si s'allonger a aide
 - si s'asseoir a aide
 - si refroidir a aide
-- durée de recuperation
+- durée de récupération
 - si fatigue, brain fog, nausee ou tremblements ont persiste
 
-La recuperation compte. Un episode de 5 minutes avec deux heures de fatigue peut compter plus que la durée seule.
+La récupération compte. Un episode de 5 minutes avec deux heures de fatigue peut compter plus que la durée seule.
 
 ## Resumer la fonction, pas seulement les nombres
 
@@ -217,7 +217,7 @@ Exemples:
 - debout semblait dangereux
 - recupere et continue normalement
 
-L'impact fonctionnel aide a comprendre la sévérité quotidienne.
+L'impact fonctionnel aide à comprendre la sévérité quotidienne.
 
 ## Que porter au rendez-vous
 
@@ -233,7 +233,7 @@ Avant cardiologie, neurologie, médecin traitant, dysautonomie, Long COVID ou ED
 - médicaments, caféine, hydratation et sel
 - ce qui aide
 - impact fonctionnel
-- symptômes urgents: douleur thoracique, malaise, essoufflement severe, vertige severe ou confusion
+- symptômes urgents: douleur thoracique, malaise, essoufflement sévère, vertige sévère ou confusion
 
 Questions utiles:
 
@@ -256,13 +256,13 @@ Lecture utile:
 
 ## Où Zebra s'insere
 
-Zebra aide a garder palpitations, fréquence cardiaque, position, declencheurs, hydratation, sel, médicaments, recuperation, impact fonctionnel et questions pour le médecin dans une meme timeline.
+Zebra aide à garder palpitations, fréquence cardiaque, position, déclencheurs, hydratation, sel, médicaments, récupération, impact fonctionnel et questions pour le médecin dans une meme timeline.
 
-Il ne diagnostique pas les palpitations ou troubles du rythme. Il aide a apporter une histoire d'episodes plus claire, prete pour le médecin.
+Il ne diagnostique pas les palpitations ou troubles du rythme. Il aide à apporter une histoire d'episodes plus claire, prête pour le médecin.
 
 ## Points clés
 
-- Suivez ensemble timing, sensation du rythme, fréquence cardiaque si mesuree, position, symptômes, declencheurs, médicaments, hydratation et recuperation.
-- Palpitations avec douleur thoracique, malaise, essoufflement severe ou vertige severe demandent une aide urgente.
+- Suivez ensemble timing, sensation du rythme, fréquence cardiaque si mesuree, position, symptômes, déclencheurs, médicaments, hydratation et récupération.
+- Palpitations avec douleur thoracique, malaise, essoufflement sévère ou vertige sévère demandent une aide urgente.
 - La position compte: allongé, assis, debout, douche et effort racontent des histoires différentes.
 - Un journal court et régulier peut faciliter les rendez-vous cardio ou dysautonomie.

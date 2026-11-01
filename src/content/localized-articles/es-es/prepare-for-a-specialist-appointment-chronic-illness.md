@@ -52,7 +52,7 @@ faq:
   - question: "¿Cuánto historial debería llevar a una visita con especialista?"
     answer: "Normalmente las últimas 2 a 4 semanas son lo más útil, junto con cualquier cambio importante anterior que siga dando forma al problema actual."
   - question: "¿Y si me bloqueo durante la cita?"
-    answer: "Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estres dificulten hablar con claridad."
+    answer: "Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estrés dificulten hablar con claridad."
   - question: "¿Debería llevar todas las notas que he tomado?"
     answer: "No. Un resumen corto y estructurado suele ser más útil que un monton de notas en bruto."
 ---
@@ -125,7 +125,7 @@ Ejemplos:
 - la siguiente prueba
 - opciones de tratamiento
 - confirmación de que vigilar
-- orientación sobre que registrar antes de la proxima visita
+- orientación sobre que registrar antes de la próxima visita
 
 Si no lo defines antes, es más fácil salir insatisfecha aunque la visita haya sido razonable.
 
@@ -153,13 +153,13 @@ La noche anterior no es el momento de construir todo el sistema desde cero.
 - empieza con el cambio más claro, no con toda la historia
 - usa tu resumen cuando aparezca el brain fog
 - mira tu lista de preguntas
-- pregunta que deberias registrar antes de la siguiente visita
+- pregunta que deberías registrar antes de la siguiente visita
 
 Los materiales `Questions Are the Answer` de [AHRQ](https://www.ahrq.gov/questions/10questions.html) son útiles aquí porque animan a llevar preguntas escritas y pedir explicaciones en lenguaje claro.
 
 ## Dónde encaja Zebra
 
-Zebra esta creado para el mes anterior a la cita, no solo para los diez minutos dentro de la consulta. Te ayuda a mantener síntomas, brotes, medicación, cambios funcionales y observaciones relacionadas en un solo historial para no reconstruirlos de memoria en el último momento.
+Zebra está creado para el mes anterior a la cita, no solo para los diez minutos dentro de la consulta. Te ayuda a mantener síntomas, brotes, medicación, cambios funcionales y observaciones relacionadas en un solo historial para no reconstruirlos de memoria en el último momento.
 
 Ese historial puede apoyar después un informe listo para el médico y un resumen de visita más claro.
 
@@ -182,7 +182,7 @@ Normalmente las últimas 2 a 4 semanas son lo más útil, junto con cualquier ca
 
 ### ¿Y si me bloqueo durante la cita?
 
-Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estres dificulten hablar con claridad.
+Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estrés dificulten hablar con claridad.
 
 ### ¿Debería llevar todas las notas que he tomado?
 

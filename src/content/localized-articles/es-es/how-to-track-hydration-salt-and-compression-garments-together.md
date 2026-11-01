@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-hydration-salt-and-compression-garments-together"
 status: "published"
 title: "Como rastrear hidratación, sal y prendas de compresión juntas"
-subtitle: "La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar que cambió antes de una cita."
+subtitle: "La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causó un día mejor o peor. Es mantener suficiente contexto para revisar que cambió antes de una cita."
 description: "Aprende como rastrear hidratación, sal, prendas de compresión, síntomas y tolerancia al estar de pie juntos sin convertir el registro en más trabajo."
 excerpt: "Una guía práctica para rastrear hidratación, sal, prendas de compresión y contexto de síntomas en un registro útil de enfermedad crónica."
 author: "zebra-editorial"
@@ -61,9 +61,9 @@ faq:
     answer: "El rastreo puede mostrar contexto y patrones para conversar con un clínico, pero no debe tratarse como prueba ni consejo médico."
 ---
 
-La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causo un día mejor o peor. Es mantener suficiente contexto para revisar qué cambió antes de una cita.
+La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar que causó un día mejor o peor. Es mantener suficiente contexto para revisar qué cambió antes de una cita.
 
-Para personas que rastrean [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los síntomas suelen cambiar con posición, actividad, líquidos, calor, sueño y estres diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
+Para personas que rastrean [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los síntomas suelen cambiar con posición, actividad, líquidos, calor, sueño y estrés diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
 
 ## Qué rastrear junto
 

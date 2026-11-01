@@ -5,7 +5,7 @@ title: "Registro de brotes de POTS por enfermedad e infección: que anotar"
 status: "published"
 subtitle: "Las notas de días de enfermedad son más útiles cuando síntomas de enfermedad, fiebre, líquidos, sal, comidas, cambios de medicación, frecuencia cardíaca, mareo, palpitaciones, fatiga, niebla mental, recuperación e impacto diario quedan conectados. El objetivo no es autodiagnosticar una infección. El objetivo es llevar contexto de brote más claro al clínico."
 description: "Aprenda que anotar cuando enfermedad o infección empeora síntomas de POTS o disautonomía, incluyendo fiebre, líquidos, sal, medicación, frecuencia cardíaca, mareo, fatiga, recuperación e impacto."
-excerpt: "Una guía práctica para registrar brotes de POTS en días de enfermedad, síntomas de infección, fiebre, hidratación, sal, medicación, frecuencia cardíaca, mareo, fatiga, recuperación y resumenes para consulta."
+excerpt: "Una guía práctica para registrar brotes de POTS en días de enfermedad, síntomas de infección, fiebre, hidratación, sal, medicación, frecuencia cardíaca, mareo, fatiga, recuperación y resúmenes para consulta."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -67,7 +67,7 @@ faq:
   - question: "¿Qué debo registrar si una enfermedad empeora síntomas de POTS?"
     answer: "Registre síntomas de enfermedad, fiebre, líquidos, sal, comidas, horario o cambios de medicación, síntomas al estar erguido, frecuencia cardíaca o presión si ya las mide, descanso, tiempo de recuperación, fatiga diferida e impacto diario."
   - question: "¿Puede estar enfermo empeorar síntomas de POTS?"
-    answer: "Si. Fuentes sobre POTS describen que los síntomas pueden empeorar con enfermedad, resfriados o infecciones. Un clínico debe evaluar síntomas nuevos, intensos o inusuales."
+    answer: "Sí. Fuentes sobre POTS describen que los síntomas pueden empeorar con enfermedad, resfriados o infecciones. Un clínico debe evaluar síntomas nuevos, intensos o inusuales."
   - question: "¿Puede un registro diagnosticar una infección o brote?"
     answer: "No. Un registro puede ordenar patrones para revisión médica, pero no puede diagnosticar infección, POTS, disautonomía, deshidratación, efectos de medicación ni otra causa."
   - question: "¿Debo cambiar líquidos, sal o medicación cuando estoy enfermo?"
@@ -86,7 +86,7 @@ Escriba los detalles del día de enfermedad que cambiaron su patrón normal.
 
 Registre dolor de garganta, tos, congestion, fiebre, escalofrios, síntomas digestivos, síntomas urinarios, erupción o dolor; fecha de inicio; temperatura si se midio; resultados de COVID, gripe u otras pruebas si aplica; sueño alterado; cambios de apetito; vomitos o diarrea; comidas omitidas; menos líquidos; y si ya estaba en un brote.
 
-Ejemplo: "Día 2 de resfriado, fiebre baja, mal sueño. Mareo mucho peor al estar de pie, frecuencia cardíaca más alta que lo habitual al caminar al baño, menos líquidos por nauseas."
+Ejemplo: "Día 2 de resfriado, fiebre baja, mal sueño. Mareo mucho peor al estar de pie, frecuencia cardíaca más alta que lo habitual al caminar al baño, menos líquidos por náuseas."
 
 Esa nota mantiene conectado el contexto de infección con el patrón de POTS.
 
@@ -102,7 +102,7 @@ Si ya registra [síntomas de base](/es-es/knowledge/baseline-symptoms/) en Zebra
 
 La enfermedad puede cambiar hidratación, comida y horario de medicación.
 
-Registre agua y electrolitos, sal si su clínico la recomienda, comidas omitidas, nauseas o poco apetito, vomitos o diarrea, fiebre o sudoración, horario de medicación, dosis olvidadas, medicamentos sin receta y cambios recientes de recetas.
+Registre agua y electrolitos, sal si su clínico la recomienda, comidas omitidas, náuseas o poco apetito, vomitos o diarrea, fiebre o sudoración, horario de medicación, dosis olvidadas, medicamentos sin receta y cambios recientes de recetas.
 
 No cambie líquidos, sal, medicación o suplementos basandose solo en un registro. Use el patrón para preguntar que plan de días de enfermedad es seguro para su situación.
 
@@ -110,7 +110,7 @@ No cambie líquidos, sal, medicación o suplementos basandose solo en un registr
 
 Los síntomas de POTS y disautonomía pueden verse distintos cuando el cuerpo combate una enfermedad.
 
-Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), falta de aire, molestia en el pecho, temblor, sudoración, nauseas, dolor de cabeza, piernas pesadas, debilidad, [niebla mental](/es-es/knowledge/brain-fog/) y [fatiga](/es-es/knowledge/fatigue/).
+Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), falta de aire, molestia en el pecho, temblor, sudoración, náuseas, dolor de cabeza, piernas pesadas, debilidad, [niebla mental](/es-es/knowledge/brain-fog/) y [fatiga](/es-es/knowledge/fatigue/).
 
 Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
@@ -130,7 +130,7 @@ Preguntas útiles:
 
 - "Necesito un plan para días de enfermedad sobre líquidos, sal, medicación o control?"
 - "Que síntomas deberían ser urgentes para mi?"
-- "Esta enfermedad podría explicar el brote o deberiamos buscar otra causa?"
+- "Esta enfermedad podría explicar el brote o deberíamos buscar otra causa?"
 - "Cuanto debería tardar la recuperación?"
 - "Cuando debería retomar actividad normal o citas?"
 

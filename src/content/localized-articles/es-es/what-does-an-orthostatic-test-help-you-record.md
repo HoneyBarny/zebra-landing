@@ -4,8 +4,8 @@ originalSlug: "what-does-an-orthostatic-test-help-you-record"
 title: "Que ayuda a registrar una prueba ortostática?"
 status: "published"
 subtitle: "Una prueba ortostática ayuda a registrar que ocurre con los síntomas y, cuando es relevante, con la frecuencia cardíaca o la presión arterial al pasar por distintas posiciones, como tumbarse, sentarse y ponerse de pie. Es útil porque captura una imagen estructurada del cambio de síntomas al estar en posición vertical, en lugar de dejar esa historia repartida entre memoria y notas desconectadas."
-description: "Aprende que ayuda a registrar una prueba ortostática y por que las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
-excerpt: "Aprende que ayuda a registrar una prueba ortostática y por que las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
+description: "Aprende que ayuda a registrar una prueba ortostática y por qué las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
+excerpt: "Aprende que ayuda a registrar una prueba ortostática y por qué las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,7 +15,7 @@ cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "tracker prueba ortostática"
 seoTitle: "Que ayuda a registrar una prueba ortostática? | Zebra"
-metaDescription: "Aprende que ayuda a registrar una prueba ortostática y por que las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
+metaDescription: "Aprende que ayuda a registrar una prueba ortostática y por qué las observaciones basadas en postura son más útiles cuando se guardan junto al historial de síntomas."
 ogTitle: "Que ayuda a registrar una prueba ortostática?"
 ogDescription: "Una explicación sencilla de lo que el seguimiento ortostático estructurado aporta al historial de síntomas y a la preparación de citas."
 heroImage: "/screenshots/today-summary.png"
@@ -52,7 +52,7 @@ faq:
   - question: "¿Una prueba ortostática es solo para POTS?"
     answer: "No. Es especialmente relevante en contextos de POTS y disautonomía, pero el concepto más amplio trata sobre cambios de síntomas al estar en posición vertical."
   - question: "¿Debería guardar observaciones ortostáticas junto con mi historial de síntomas?"
-    answer: "Si, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad."
+    answer: "Sí, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad."
 ---
 
 Una prueba ortostática ayuda a registrar que ocurre con los síntomas y, cuando es relevante, con la frecuencia cardíaca o la presión arterial al pasar por distintas posiciones, como tumbarse, sentarse y ponerse de pie. Es útil porque captura una imagen estructurada del cambio de síntomas al estar en posición vertical, en lugar de dejar esa historia repartida entre memoria y notas desconectadas.
@@ -71,7 +71,7 @@ El objetivo no es hacer un diagnóstico por tu cuenta. El objetivo es crear un r
 
 ## Por qué importa
 
-Muchas personas pueden describir que se sienten peor al ponerse de pie, pero es mucho más difícil explicarlo claramente después si el registro es irregular o esta desconectado del historial de síntomas.
+Muchas personas pueden describir que se sienten peor al ponerse de pie, pero es mucho más difícil explicarlo claramente después si el registro es irregular o está desconectado del historial de síntomas.
 
 El seguimiento estructurado basado en postura puede ayudarte a:
 
@@ -123,4 +123,4 @@ No. Es especialmente relevante en contextos de POTS y disautonomía, pero el con
 
 ### ¿Debería guardar observaciones ortostáticas junto con mi historial de síntomas?
 
-Si, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad.
+Sí, si te ayuda a revisar el patrón con más claridad y preparar citas con más facilidad.

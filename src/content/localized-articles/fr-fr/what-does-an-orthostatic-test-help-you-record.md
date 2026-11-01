@@ -3,9 +3,9 @@ locale: "fr-fr"
 originalSlug: "what-does-an-orthostatic-test-help-you-record"
 title: "Que permet de noter un test orthostatique?"
 status: "published"
-subtitle: "Un test orthostatique aide a noter ce qui arrive aux symptômes et, lorsque c est pertinent, a la fréquence cardiaque ou a la tension arterielle lorsque vous passez par différentes positions, comme allongé, assis et debout. Il est utile parce qu’il capture un instantane structure du changement de symptômes en position verticale, au lieu de laisser cet historique disperse entre mémoire et notes deconnectees."
-description: "Comprendre ce qu’un test orthostatique aide a noter et pourquoi les observations liees a la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
-excerpt: "Comprendre ce qu’un test orthostatique aide a noter et pourquoi les observations liees a la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
+subtitle: "Un test orthostatique aide à noter ce qui arrive aux symptômes et, lorsque c est pertinent, à la fréquence cardiaque ou à la tension artérielle lorsque vous passez par différentes positions, comme allongé, assis et debout. Il est utile parce qu’il capture un instantané structure du changement de symptômes en position verticale, au lieu de laisser cet historique disperse entre mémoire et notes deconnectees."
+description: "Comprendre ce qu’un test orthostatique aide à noter et pourquoi les observations liées à la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
+excerpt: "Comprendre ce qu’un test orthostatique aide à noter et pourquoi les observations liées à la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,9 +15,9 @@ cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "tracker test orthostatique"
 seoTitle: "Que permet de noter un test orthostatique? | Zebra"
-metaDescription: "Comprendre ce qu’un test orthostatique aide a noter et pourquoi les observations liees a la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
+metaDescription: "Comprendre ce qu’un test orthostatique aide à noter et pourquoi les observations liées à la posture sont plus utiles lorsqu’elles restent avec l’historique de symptômes."
 ogTitle: "Que permet de noter un test orthostatique?"
-ogDescription: "Une explication simple de ce qu’un suivi orthostatique structure ajoute a l’historique de symptômes et a la préparation des rendez-vous."
+ogDescription: "Une explication simple de ce qu’un suivi orthostatique structure ajoute à l’historique de symptômes et à la préparation des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Parcours de suivi orthostatique en trois positions pour symptômes et observations"
 ctaLabel: "Télécharger Zebra"
@@ -48,24 +48,24 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que note un test orthostatique?"
-    answer: "Il peut noter les changements de symptômes selon la posture et, lorsque c est pertinent, les observations associees de fréquence cardiaque ou de tension arterielle."
+    answer: "Il peut noter les changements de symptômes selon la posture et, lorsque c est pertinent, les observations associees de fréquence cardiaque ou de tension artérielle."
   - question: "Un test orthostatique est-il seulement pour POTS?"
     answer: "Non. Il est particulierement pertinent dans les contextes de POTS et de dysautonomie, mais le concept plus large concerne les changements de symptômes en position verticale."
   - question: "Faut-il garder les observations orthostatiques avec l’historique de symptômes?"
-    answer: "Oui, si cela vous aide a relire le profil plus clairement et a préparer les rendez-vous plus facilement."
+    answer: "Oui, si cela vous aide à relire le profil plus clairement et à préparer les rendez-vous plus facilement."
 ---
 
-Un test orthostatique aide a noter ce qui arrive aux symptômes et, lorsque c est pertinent, a la fréquence cardiaque ou a la tension arterielle lorsque vous passez par différentes positions, comme allongé, assis et debout. Il est utile parce qu’il capture un instantane structure du changement de symptômes en position verticale, au lieu de laisser cet historique disperse entre mémoire et notes deconnectees.
+Un test orthostatique aide à noter ce qui arrive aux symptômes et, lorsque c est pertinent, à la fréquence cardiaque ou à la tension artérielle lorsque vous passez par différentes positions, comme allongé, assis et debout. Il est utile parce qu’il capture un instantané structure du changement de symptômes en position verticale, au lieu de laisser cet historique disperse entre mémoire et notes deconnectees.
 
 ## A quoi sert le test
 
-Dans un contexte de suivi, un test orthostatique peut aider a noter:
+Dans un contexte de suivi, un test orthostatique peut aider à noter:
 
 - position
 - symptômes qui changent en position verticale
 - observations pertinentes de fréquence cardiaque
-- observations pertinentes de tension arterielle
-- comment vous vous etes senti pendant le processus
+- observations pertinentes de tension artérielle
+- comment vous vous êtes senti pendant le processus
 
 Le but n’est pas de poser un diagnostic soi-meme. Le but est de créer un historique plus clair.
 
@@ -73,7 +73,7 @@ Le but n’est pas de poser un diagnostic soi-meme. Le but est de créer un hist
 
 Beaucoup de personnes peuvent décrire qu’elles se sentent moins bien debout, mais il est beaucoup plus difficile de l’expliquer clairement plus tard si le dossier est incoherent ou separe de l’historique de symptômes.
 
-Un suivi structure lie a la posture peut aider a:
+Un suivi structure lie à la posture peut aider a:
 
 - remarquer des profils repetes de symptômes en position verticale
 - garder les observations dans un meme format
@@ -81,10 +81,10 @@ Un suivi structure lie a la posture peut aider a:
 
 ## Avec quoi l’associer
 
-Un test orthostatique est généralement plus utile lorsqu’il se trouve a côté de:
+Un test orthostatique est généralement plus utile lorsqu’il se trouve à côté de:
 
 - symptômes quotidiens
-- historique des poussees
+- historique des poussées
 - médicaments
 - contexte d’hydratation et de sel lorsque c est pertinent
 - impact fonctionnel
@@ -103,7 +103,7 @@ C est un outil de suivi et de communication.
 
 ## Où Zebra s’intègre
 
-Zebra traite les observations orthostatiques comme une partie de la meme histoire que les symptômes, les poussees et la préparation des rendez-vous. C est utile pour les personnes qui veulent garder le dossier lie a la posture connecte au reste de ce que leur corps a fait.
+Zebra traite les observations orthostatiques comme une partie de la meme histoire que les symptômes, les poussées et la préparation des rendez-vous. C est utile pour les personnes qui veulent garder le dossier lie à la posture connecte au reste de ce que leur corps a fait.
 
 ## Points clés
 
@@ -115,7 +115,7 @@ Zebra traite les observations orthostatiques comme une partie de la meme histoir
 
 ### Que note un test orthostatique?
 
-Il peut noter les changements de symptômes selon la posture et, lorsque c est pertinent, les observations associees de fréquence cardiaque ou de tension arterielle.
+Il peut noter les changements de symptômes selon la posture et, lorsque c est pertinent, les observations associees de fréquence cardiaque ou de tension artérielle.
 
 ### Un test orthostatique est-il seulement pour POTS?
 
@@ -123,4 +123,4 @@ Non. Il est particulierement pertinent dans les contextes de POTS et de dysauton
 
 ### Faut-il garder les observations orthostatiques avec l’historique de symptômes?
 
-Oui, si cela vous aide a relire le profil plus clairement et a préparer les rendez-vous plus facilement.
+Oui, si cela vous aide à relire le profil plus clairement et à préparer les rendez-vous plus facilement.

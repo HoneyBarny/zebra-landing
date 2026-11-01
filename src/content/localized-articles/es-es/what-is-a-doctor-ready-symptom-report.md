@@ -4,8 +4,8 @@ originalSlug: "what-is-a-doctor-ready-symptom-report"
 title: "Que es un informe de síntomas listo para el médico?"
 status: "published"
 subtitle: "Un informe de síntomas listo para el médico es un resumen estructurado del historial de síntomas introducido por la persona. Esta pensado para facilitar la preparación de una cita y hacer la conversación más clara. No es un diagnóstico, ni un informe clínico, ni una prueba que le diga al médico que decidir. Es un registro organizado de lo que pasó, lo que cambió y lo que más importa ahora."
-description: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
-excerpt: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
+description: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por qué ayuda a preparar citas cuando vives con una enfermedad crónica."
+excerpt: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por qué ayuda a preparar citas cuando vives con una enfermedad crónica."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,7 +15,7 @@ cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "informe de síntomas para el médico"
 seoTitle: "Que es un informe de síntomas listo para el médico? | Zebra"
-metaDescription: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por que ayuda a preparar citas cuando vives con una enfermedad crónica."
+metaDescription: "Aprende que es un informe de síntomas listo para el médico, que debería incluir y por qué ayuda a preparar citas cuando vives con una enfermedad crónica."
 ogTitle: "Que es un informe de síntomas listo para el médico?"
 ogDescription: "Una definición sencilla de lo que hace útil un informe de síntomas antes de una cita con un especialista."
 heroImage: "/screenshots/today-summary.png"
@@ -86,7 +86,7 @@ Su trabajo es ayudar a comunicar y preparar.
 
 ## Por qué importa este tipo de informe
 
-Registrar síntomas se vuelve mucho más útil cuando termina en algo que puedes revisar antes de una visita, en lugar de obligarte a reconstruirlo todo de memoria mientras estas con estres o síntomas.
+Registrar síntomas se vuelve mucho más útil cuando termina en algo que puedes revisar antes de una visita, en lugar de obligarte a reconstruirlo todo de memoria mientras estas con estrés o síntomas.
 
 Esto es especialmente importante para personas con:
 
@@ -101,10 +101,10 @@ Esto es especialmente importante para personas con:
 Un informe debil suele tener uno de estos problemas:
 
 - demasiados datos en bruto
-- ningun resumen al principio
+- ningún resumen al principio
 - nombres de síntomas sin momento o contexto
-- ningun contexto funcional
-- ningun contexto de medicación
+- ningún contexto funcional
+- ningún contexto de medicación
 
 ## Qué hace que un informe sea más fuerte
 
