@@ -254,6 +254,8 @@ The main thing I need help with is:
 
 This is enough to make the appointment more focused.
 
+If a visit note leaves things out or gets something wrong, see [what to do if your doctor's notes are wrong or leave things out](/blog/what-to-do-if-your-doctors-notes-are-wrong/).
+
 ## How Zebra can help
 
 Zebra is built for people who need symptom notes to become appointment-ready, not just stored.

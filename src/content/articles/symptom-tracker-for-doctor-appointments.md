@@ -183,6 +183,8 @@ Choose a dedicated symptom tracker if:
 - you want symptoms, context, and function together
 - you want the summary step to feel easier, not harder
 
+If a visit note leaves things out or gets something wrong, see [what to do if your doctor's notes are wrong or leave things out](/blog/what-to-do-if-your-doctors-notes-are-wrong/).
+
 ## Bottom line
 
 The best symptom tracker for doctor appointments is the one that helps you review the story before the visit starts. It should help you see what changed, preserve the context that explains those changes, and make it easier to ask better questions under pressure.

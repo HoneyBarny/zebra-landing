@@ -148,6 +148,8 @@ Use this format:
 
 This is often enough for a much better conversation.
 
+If a visit note leaves things out or gets something wrong, see [what to do if your doctor's notes are wrong or leave things out](/blog/what-to-do-if-your-doctors-notes-are-wrong/).
+
 ## Where Zebra fits
 
 Zebra is built for exactly this workflow. It helps keep symptoms, flares, hydration, salt, medications, and orthostatic observations in one record so you can review them before the appointment instead of rebuilding the story from memory.

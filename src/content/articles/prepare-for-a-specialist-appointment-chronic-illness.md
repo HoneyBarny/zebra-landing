@@ -155,6 +155,8 @@ The night before is not the time to build the whole system from scratch.
 
 The [AHRQ](https://www.ahrq.gov/questions/10questions.html) `Questions Are the Answer` materials are useful here because they encourage people to bring written questions and ask for explanations in plain language.
 
+If a visit note leaves things out or gets something wrong, see [what to do if your doctor's notes are wrong or leave things out](/blog/what-to-do-if-your-doctors-notes-are-wrong/).
+
 ## Where Zebra fits
 
 Zebra is built for the month before the appointment, not just the ten minutes inside it. It helps you keep symptoms, flares, meds, function changes, and related observations in one history so you are not rebuilding them from memory at the last minute.
