@@ -3,8 +3,8 @@ locale: "es-es"
 originalSlug: "sleep-and-fatigue-symptom-diary-what-to-track"
 title: "Diario de sueño y fatiga: que registrar"
 status: "published"
-subtitle: "Las notas de sueño y fatiga son más útiles cuando hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función del día siguiente quedan conectados. El objetivo no es diagnosticar un trastorno del sueño, sino llevar patrones más claros al médico."
-description: "Aprende que registrar en un diario de sueño y fatiga: horarios, calidad, despertares, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función del día siguiente."
+subtitle: "Las notas de sueño y fatiga son más útiles cuando hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeína, dolor, brain fog, actividad y función del día siguiente quedan conectados. El objetivo no es diagnosticar un trastorno del sueño, sino llevar patrones más claros al médico."
+description: "Aprende que registrar en un diario de sueño y fatiga: horarios, calidad, despertares, siestas, medicamentos, cafeína, dolor, brain fog, actividad y función del día siguiente."
 excerpt: "Una guía práctica para registrar sueño, fatiga, dolor, brain fog, siestas, medicamentos, actividad e impacto funcional."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
@@ -16,7 +16,7 @@ cluster: "Fatigue"
 category: "Symptom Tracking"
 primaryKeyword: "diario de sueño y fatiga"
 seoTitle: "Diario de sueño y fatiga: que registrar | Zebra"
-metaDescription: "Registra sueño y fatiga con hora de dormir, despertar, calidad, siestas, medicamentos, cafeina, dolor, brain fog, actividad y función."
+metaDescription: "Registra sueño y fatiga con hora de dormir, despertar, calidad, siestas, medicamentos, cafeína, dolor, brain fog, actividad y función."
 ogTitle: "Diario de sueño y fatiga: que registrar"
 ogDescription: "Registra contexto de sueño, fatiga, brain fog, dolor, medicamentos, actividad e impacto del día siguiente."
 heroImage: "/screenshots/daily-tracking.png"
@@ -58,22 +58,22 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar en un diario de sueño y fatiga?"
-    answer: "Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente."
+    answer: "Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeína o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente."
   - question: "¿Cuánto tiempo debo llevar un diario de sueño antes de una cita?"
     answer: "Muchos recursos sugieren una o dos semanas, pero tu médico puede recomendar otra duración. Un registro corto y constante suele ser más útil que meses de notas dispersas."
   - question: "¿Un diario de sueño puede diagnosticar un trastorno del sueño?"
     answer: "No. Un diario puede ayudar a organizar patrones para un médico, pero el diagnóstico puede requerir evaluación clínica o pruebas."
   - question: "¿Debo registrar cada detalle si tengo fatiga?"
-    answer: "No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y que cambió tu función."
+    answer: "No. Registra el conjunto mínimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y qué cambió tu función."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El sueño y la [fatiga](/es-es/knowledge/fatigue/) están muy conectados para muchas personas con enfermedad crónica, pero el patrón puede ser difícil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la línea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeina, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
+El sueño y la [fatiga](/es-es/knowledge/fatigue/) están muy conectados para muchas personas con enfermedad crónica, pero el patrón puede ser difícil de explicar de memoria. Puedes recordar que dormiste mal. Puedes recordar que el día siguiente fue horrible. Lo útil para un médico suele ser la línea de tiempo entre ambos: hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, medicamentos, cafeína, dolor, [brain fog](/es-es/knowledge/brain-fog/), actividad y función del día siguiente.
 
 Un diario de sueño y fatiga no diagnostica insomnio, apnea del sueño, ME/CFS, fibromialgia, Long COVID ni ninguna otra condición. Te ayuda a llevar un registro más claro a un médico.
 
-## Empieza con la nota minima útil
+## Empieza con la nota mínima útil
 
 No necesitas datos perfectos de sueño.
 
@@ -124,19 +124,19 @@ Registra:
 
 Para enfermedades con energía limitada, una siesta inevitable puede ser una nota de impacto funcional, no un fracaso.
 
-## Mantén medicamentos, cafeina y alcohol cerca
+## Mantén medicamentos, cafeína y alcohol cerca
 
-Muchas plantillas de diario de sueño incluyen cafeina, alcohol, ejercicio, medicamentos y rutina nocturna porque esos detalles pueden afectar el sueño o ayudar al médico a hacer mejores preguntas.
+Muchas plantillas de diario de sueño incluyen cafeína, alcohol, ejercicio, medicamentos y rutina nocturna porque esos detalles pueden afectar el sueño o ayudar al médico a hacer mejores preguntas.
 
 Registra contexto como:
 
-- horario de cafeina
+- horario de cafeína
 - alcohol, si aplica
 - medicación para dormir o suplementos, si tu médico los sigue contigo
-- horario de analgesicos
-- antihistaminicos u otros medicamentos que puedan afectar somnolencia
+- horario de analgésicos
+- antihistamínicos u otros medicamentos que puedan afectar somnolencia
 - dosis olvidadas o cambios de medicamentos
-- comidas tardias o grandes, si aplica
+- comidas tardías o grandes, si aplica
 - pantallas o tareas estresantes antes de dormir, si aplica
 
 No cambies medicamentos solo por un diario. Usa las notas para una conversación médica.
@@ -167,7 +167,7 @@ Usa esta estructura:
 
 1. Noche: hora de dormir, hora de despertar, sueño estimado, despertares.
 2. Calidad del sueño: mala, regular, buena.
-3. Contexto: dolor, medicamentos, cafeina, siesta, estrés, síntomas.
+3. Contexto: dolor, medicamentos, cafeína, siesta, estrés, síntomas.
 4. Día siguiente: fatiga, brain fog, dolor, función.
 5. Pregunta: ¿qué debo preguntar en la cita?
 
@@ -183,8 +183,8 @@ Antes de una visita, saca:
 - peores días de fatiga
 - si fueron necesarias siestas
 - síntomas que te despertaron
-- si la fatiga afecto trabajo, escuela, cuidados, conducir o tareas basicas
-- patrones de medicamentos o cafeina que quieres preguntar
+- si la fatiga afecto trabajo, escuela, cuidados, conducir o tareas básicas
+- patrones de medicamentos o cafeína que quieres preguntar
 - respiración, ronquidos, despertar jadeando o síntomas urgentes a mencionar
 
 Preguntas útiles:
@@ -215,7 +215,7 @@ Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a lleva
 ## Puntos clave
 
 - Las notas de sueño son más útiles cuando se conectan con fatiga y función del día siguiente.
-- Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeina, síntomas e impacto.
+- Registra hora de dormir, despertar, calidad, despertares, siestas, medicamentos, cafeína, síntomas e impacto.
 - Un diario corto de una o dos semanas puede ser más útil que notas largas dispersas.
 - No trates el contexto de sueño como prueba de causa; úsalo como contexto para la cita.
 - El mejor resultado es una lista breve de preguntas y un patrón que tu médico pueda revisar.
@@ -224,7 +224,7 @@ Zebra no diagnostica trastornos del sueño ni causas de fatiga. Te ayuda a lleva
 
 ### ¿Qué debo registrar en un diario de sueño y fatiga?
 
-Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeina o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente.
+Registra hora de dormir, hora de despertar, calidad del sueño, despertares, siestas, cafeína o alcohol si aplica, horario de medicamentos, dolor, brain fog, gravedad de fatiga, actividad e impacto funcional del día siguiente.
 
 ### ¿Cuánto tiempo debo llevar un diario de sueño antes de una cita?
 
@@ -236,7 +236,7 @@ No. Un diario puede ayudar a organizar patrones para un médico, pero el diagnó
 
 ### ¿Debo registrar cada detalle si tengo fatiga?
 
-No. Registra el conjunto minimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y qué cambió tu función.
+No. Registra el conjunto mínimo útil: horarios de sueño, calidad, fatiga del día siguiente, brain fog, dolor, actividad y qué cambió tu función.
 
 ### ¿Zebra es consejo médico?
 

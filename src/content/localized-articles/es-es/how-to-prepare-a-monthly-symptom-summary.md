@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-prepare-a-monthly-symptom-summary"
 status: "published"
 title: "Como preparar un resumen mensual de síntomas"
-subtitle: "Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de que cambió, que se repitió, que afectó la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto."
+subtitle: "Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de qué cambió, qué se repitió, qué afectó la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto."
 description: "Aprende como preparar un resumen mensual de síntomas a partir de síntomas, brotes, medicamentos, cambios de función y preguntas para citas."
 excerpt: "Un marco simple para convertir un mes de seguimiento de síntomas en un resumen más claro y listo para citas."
 author: "zebra-editorial"
@@ -108,7 +108,7 @@ El impacto funcional explica por qué los síntomas importaron.
 Ejemplos:
 
 - faltar al trabajo o a la escuela
-- necesitar más descanso después de tareas basicas
+- necesitar más descanso después de tareas básicas
 - no poder estar de pie o sentarse erguido tanto tiempo
 - problemas para cocinar, limpiar, trasladarte o concentrarte
 - cancelar planes o necesitar ayuda
@@ -137,7 +137,7 @@ Ejemplos:
 
 - ¿Qué patrón debería seguir rastreando?
 - ¿Qué cambios debería mencionar antes?
-- ¿Qué información seria más útil antes de la próxima visita?
+- ¿Qué información sería más útil antes de la próxima visita?
 - ¿Hay algo en esta historia que cambie el plan de seguimiento?
 
 Las preguntas hacen que el resumen sea más fácil de usar en la consulta.

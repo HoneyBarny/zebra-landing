@@ -76,9 +76,9 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, viajar puede convertir muchos desencadenantes pequenos en un día difícil.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica, viajar puede convertir muchos desencadenantes pequeños en un día difícil.
 
-Un vuelo, viaje por carretera, tren, día largo de citas, traslado al aeropuerto, entrada al hotel, parque tematico, conferencia, boda o visita familiar puede incluir madrugar, mal sueño, comidas omitidas, menos líquidos, calor, caminar por terminales, filas, cargar equipaje, estar sentado mucho tiempo, cambios de zona horaria, cambios de medicación y recuperación después del viaje.
+Un vuelo, viaje por carretera, tren, día largo de citas, traslado al aeropuerto, entrada al hotel, parque temático, conferencia, boda o visita familiar puede incluir madrugar, mal sueño, comidas omitidas, menos líquidos, calor, caminar por terminales, filas, cargar equipaje, estar sentado mucho tiempo, cambios de zona horaria, cambios de medicación y recuperación después del viaje.
 
 Un registro de síntomas de día de viaje no diagnostica POTS, disautonomía, deshidratación, coagulos, efectos de medicación, ansiedad, infección ni ninguna otra condición. Le ayuda a llevar un patrón de viaje más claro al clínico: qué pasó antes, durante y después del viaje.
 
@@ -88,7 +88,7 @@ Las notas de viaje deben empezar con la forma del día.
 
 Registre vuelo, coche, autobus, tren, barco, transporte compartido, día con mucho caminar o viaje mixto; horas de salida y llegada; tiempo total de viaje; cambio de zona horaria; sueño la noche anterior; comidas omitidas o retrasadas; agua, electrolitos y sal; horario de medicación; prendas de compresión si se usaron; apoyo de movilidad, asistencia con silla de ruedas, elección de asiento o descansos planeados; clima, calor, humedad o espacios interiores llenos; equipaje, escaleras, caminatas largas o filas.
 
-Ejemplo: "Día de vuelo. Me levante 4:45, perdi el desayuno, estuve 35 minutos en seguridad, camine dos terminales, use compresión, bebi menos porque no había asiento de pasillo. Mareo y corazon acelerado peor al embarcar."
+Ejemplo: "Día de vuelo. Me levante 4:45, perdi el desayuno, estuve 35 minutos en seguridad, camine dos terminales, use compresión, bebi menos porque no había asiento de pasillo. Mareo y corazón acelerado peor al embarcar."
 
 Esa nota es mucho más fácil de revisar que "viajar me destruyo".
 
@@ -96,7 +96,7 @@ Esa nota es mucho más fácil de revisar que "viajar me destruyo".
 
 Viajar puede hacer que los síntomas sean más difíciles de entender porque varios factores ocurren al mismo tiempo.
 
-Categorías útiles: filas de facturación, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es difícil de acceder; comidas omitidas o alimentos desconocidos; cafeina, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estrés, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
+Categorías útiles: filas de facturación, seguridad, aduanas, embarque, banos o eventos; largas distancias caminando; cargar bolsas; estar sentado sin moverse mucho tiempo; calor, humedad o vehiculos calientes; pocos líquidos porque el baño es difícil de acceder; comidas omitidas o alimentos desconocidos; cafeína, alcohol o snacks con mucha azucar; cambios de horario de medicación; altitud, movimiento, ruido, luces o sobrecarga sensorial; estrés, dolor, migraña, ciclo menstrual, enfermedad o día de brote.
 
 Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche más comida omitida" en vez de decidir la causa demasiado pronto. El patrón es más útil cuando se mantiene específico.
 
@@ -104,7 +104,7 @@ Pruebe escribir "fila de seguridad más pocos líquidos" o "viaje largo en coche
 
 Algunos síntomas aparecen al estar de pie, caminar, embarcar, conducir o sentarse. Otros aparecen después de llegar o al día siguiente.
 
-Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, náuseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazón o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajón después del viaje.
+Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [síncope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), molestia en el pecho, falta de aire, temblor, sudoración, náuseas, dolor de cabeza o síntomas de migraña, piernas pesadas, hinchazón o dolor inusual en una pierna, debilidad, [niebla mental](/es-es/knowledge/brain-fog/), [fatiga](/es-es/knowledge/fatigue/) y bajón después del viaje.
 
 Si los síntomas son intensos, nuevos, de un solo lado, asociados con dolor de pecho o falta de aire intensa, o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 
@@ -126,7 +126,7 @@ Anote cuánto duraron los síntomas después del viaje, si tuvo que acostarse en
 
 ## Qué Resumir Antes De Una Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitación, resuma:
+Antes de una consulta de atención primaria, cardiología, neurología, disautonomía, Long COVID, EDS o rehabilitación, resuma:
 
 - qué situaciones de viaje son más difíciles
 - si filas, caminar, sentarse, calor o comidas omitidas parecen más conectados

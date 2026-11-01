@@ -23,7 +23,7 @@ heroImage: "/screenshots/orthostatic-test-fr.png"
 heroImageAlt: "Écran de test orthostatique Zebra montrant le suivi des constantes et symptômes selon la position."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes orthostatiques, tension, pouls, médicaments, repas, hydratation et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder symptômes orthostatiques, tension, pouls, médicaments, repas, hydratation et questions pour le médecin dans une même timeline."
 categories:
   - "Dysautonomia"
   - "Symptom Tracking"
@@ -64,16 +64,16 @@ faq:
   - question: "Le suivi à domicile peut-il diagnostiquer une hypotension orthostatique?"
     answer: "Non. Les notes à domicile peuvent aider votre médecin à voir un motif, mais le diagnostic et les décisions de traitement demandent une évaluation clinique."
   - question: "Quand arrêter une vérification debout à domicile?"
-    answer: "Arrêtez si vous ne vous sentez pas en sécurité, si vous vous evanouissez, si des symptômes severes apparaissent ou si votre médecin vous a donne des règles d'arret. Asseyez-vous ou allongez-vous et demandez de l'aide médicale si les symptômes inquietent."
+    answer: "Arrêtez si vous ne vous sentez pas en sécurité, si vous vous évanouissez, si des symptômes sévères apparaissent ou si votre médecin vous a donne des règles d'arret. Asseyez-vous ou allongez-vous et demandez de l'aide médicale si les symptômes inquietent."
   - question: "Faut-il changer médicaments, sel ou liquides selon les mesures à domicile?"
     answer: "Non. Ne changez pas le traitement seulement selon des mesures à domicile. Montrez le motif à votre médecin et demandez quels changements sont adaptes à votre cas."
-  - question: "L'hypotension orthostatique est-elle la meme chose que le POTS?"
+  - question: "L'hypotension orthostatique est-elle la même chose que le POTS?"
     answer: "Non. L'hypotension orthostatique concerne surtout une baisse de tension après le passage debout. Le POTS concerne une hausse excessive du pouls sans hypotension orthostatique significative. Un médecin peut interpréter le motif."
 ---
 
-[L'hypotension orthostatique](/fr-fr/knowledge/orthostatic-hypotension/) signifie que la tension artérielle baisse après le passage debout. Pour beaucoup de personnes, la partie visible n'est pas seulement le chiffre. C'est le moment où la position debout apporte vertige, étourdissement, faiblesse, vision floue, nausee, confusion ou impression de malaise.
+[L'hypotension orthostatique](/fr-fr/knowledge/orthostatic-hypotension/) signifie que la tension artérielle baisse après le passage debout. Pour beaucoup de personnes, la partie visible n'est pas seulement le chiffre. C'est le moment où la position debout apporte vertige, étourdissement, faiblesse, vision floue, nausée, confusion ou impression de malaise.
 
-Une note utile à domicile relie la mesure à la situation: posture, horaire, symptômes, repas, horaire des médicaments, hydratation et récupération. Ce contexte aide votre médecin à voir si le motif ressemble a une hypotension orthostatique, au [POTS](/fr-fr/knowledge/pots/), a une syncope vasovagale, a un effet médicamenteux, a une déshydratation, a un autre motif de dysautonomie ou à autre chose.
+Une note utile à domicile relie la mesure à la situation: posture, horaire, symptômes, repas, horaire des médicaments, hydratation et récupération. Ce contexte aide votre médecin à voir si le motif ressemble à une hypotension orthostatique, au [POTS](/fr-fr/knowledge/pots/), à une syncope vasovagale, à un effet médicamenteux, à une déshydratation, à un autre motif de dysautonomie ou à autre chose.
 
 Le suivi à domicile n'est pas un diagnostic. C'est une aide-mémoire plus claire.
 
@@ -85,11 +85,11 @@ Arrêtez et asseyez-vous ou allongez-vous si vous ressentez:
 
 - impression de malaise imminent
 - douleur thoracique
-- difficulte à respirer
+- difficulté à respirer
 - faiblesse sévère
 - nouveaux symptômes neurologiques
 - confusion inhabituelle
-- symptômes severes ou differents de votre motif habituel
+- symptômes sévères ou différents de votre motif habituel
 
 Si les symptômes inquietent, demandez une aide médicale. Le suivi ne doit jamais vous pousser à rester debout quand votre corps demande d'arrêter.
 
@@ -107,7 +107,7 @@ Libelles utiles:
 - récupération après être assis
 - récupération après être allongé
 
-Plusieurs sources cliniques decrivent les controles orthostatiques avec des mesures allongées ou en position supine suivies de mesures debout. Certaines recommandations mentionnent aussi des mesures repetees sur plusieurs jours quand le motif n'est pas clair en une seule consultation.
+Plusieurs sources cliniques decrivent les controles orthostatiques avec des mesures allongées ou en position supine suivies de mesures debout. Certaines recommandations mentionnent aussi des mesures répétées sur plusieurs jours quand le motif n'est pas clair en une seule consultation.
 
 ## Suivre tension et pouls ensemble
 
@@ -133,7 +133,7 @@ Ce type de note est plus facile à revoir qu'une série de photos du tensiometre
 
 ## Ajouter le contexte déclencheur
 
-Les symptômes d'hypotension orthostatique peuvent changer selon le jour, le lieu et ce qui s'est passe avant.
+Les symptômes d'hypotension orthostatique peuvent changer selon le jour, le lieu et ce qui s'est passé avant.
 
 Notez le contexte:
 
@@ -149,7 +149,7 @@ Notez le contexte:
 - après alcool ou caféine, si pertinent
 - hydratation et électrolytes
 - vêtements de compression, si cela fait partie de votre plan
-- horaire des médicaments, doses manquees ou changements récents
+- horaire des médicaments, doses manquées ou changements récents
 
 N'utilisez pas la note pour changer le traitement seul. Utilisez-la pour poser de meilleures questions.
 
@@ -163,7 +163,7 @@ Notez:
 - si s'allonger a aide
 - combien de temps il a fallu pour aller mieux
 - si les symptômes sont revenus en se relevant
-- si l'episode a change ce que vous pouviez faire ensuite
+- si l'épisode a changé ce que vous pouviez faire ensuite
 - si vous avez eu besoin d'aide
 
 Pour préparer un rendez-vous, "j'avais le vertige" est utile. "J'ai eu le vertige après 2 minutes debout, la tension était plus basse, j'ai du m'allonger 10 minutes et je n'ai pas pu finir de cuisiner" est beaucoup plus utile.
@@ -172,14 +172,14 @@ Pour préparer un rendez-vous, "j'avais le vertige" est utile. "J'ai eu le verti
 
 Certaines personnes remarquent plus de symptômes après les repas, le matin, après un médicament oublie ou après un changement de dose. Votre médecin decidera ce qui compte, mais le timing l'aide à poser les bonnes questions.
 
-Pour chaque episode, vous pouvez noter:
+Pour chaque épisode, vous pouvez noter:
 
 - heure du dernier repas ou snack
 - si les symptômes sont apparus après manger
 - horaire des médicaments du matin
 - horaire des médicaments pour la tension, si pertinent
 - nouveau médicament ou changement de dose
-- complements, sel ou électrolytes si votre médecin les suit avec vous
+- compléments, sel ou électrolytes si votre médecin les suit avec vous
 
 N'arrêtez pas, ne commencez pas et ne modifiez pas un médicament à cause d'une seule mesure à domicile, sauf si votre médecin vous a donne des consignes precises.
 
@@ -195,7 +195,7 @@ Utilisez cette structure:
 6. Impact: ce que vous n'avez pas pu faire ensuite.
 7. Question pour le rendez-vous: que faut-il revoir ou suivre ensuite?
 
-Des notes courtes et repetees sont souvent plus utiles qu'un journal parfait.
+Des notes courtes et répétées sont souvent plus utiles qu'un journal parfait.
 
 ## Questions à poser au médecin
 
@@ -203,7 +203,7 @@ Apportez le motif, pas un autodiagnostic.
 
 Questions utiles:
 
-- "Ces mesures ressemblent-elles plus a une hypotension orthostatique, au POTS, a une syncope vasovagale, a un effet médicamenteux, a une déshydratation ou a un autre motif?"
+- "Ces mesures ressemblent-elles plus à une hypotension orthostatique, au POTS, à une syncope vasovagale, à un effet médicamenteux, à une déshydratation ou à un autre motif?"
 - "Quelles positions et quels moments dois-je continuer à suivre?"
 - "Dois-je noter les symptômes après les repas ou le matin?"
 - "Y a-t-il des mesures ou symptômes urgents pour moi?"
@@ -221,7 +221,7 @@ Contexte utile:
 
 ## Où Zebra aide
 
-Zebra aide à garder les notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, tension, pouls, médicaments, hydratation, déclencheurs, récupération et questions pour le rendez-vous au meme endroit.
+Zebra aide à garder les notes de [test orthostatique](/fr-fr/knowledge/orthostatic-test/), symptômes, tension, pouls, médicaments, hydratation, déclencheurs, récupération et questions pour le rendez-vous au même endroit.
 
 Zebra ne diagnostique pas l'hypotension orthostatique et n'interprète pas les mesures. Il vous aide à apporter un dossier plus clair à la personne qui peut le faire.
 
@@ -245,12 +245,12 @@ Non. Les notes à domicile peuvent aider votre médecin à voir un motif, mais l
 
 ### Quand arrêter une vérification debout à domicile?
 
-Arrêtez si vous ne vous sentez pas en sécurité, si vous vous evanouissez, si des symptômes severes apparaissent ou si votre médecin vous a donne des règles d'arret. Asseyez-vous ou allongez-vous et demandez de l'aide médicale si les symptômes inquietent.
+Arrêtez si vous ne vous sentez pas en sécurité, si vous vous évanouissez, si des symptômes sévères apparaissent ou si votre médecin vous a donne des règles d'arret. Asseyez-vous ou allongez-vous et demandez de l'aide médicale si les symptômes inquietent.
 
 ### Faut-il changer médicaments, sel ou liquides selon les mesures à domicile?
 
 Non. Ne changez pas le traitement seulement selon des mesures à domicile. Montrez le motif à votre médecin et demandez quels changements sont adaptes à votre cas.
 
-### L'hypotension orthostatique est-elle la meme chose que le POTS?
+### L'hypotension orthostatique est-elle la même chose que le POTS?
 
 Non. L'hypotension orthostatique concerne surtout une baisse de tension après le passage debout. Le POTS concerne une hausse excessive du pouls sans hypotension orthostatique significative. Un médecin peut interpréter le motif.

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "menstrual-cycle-flare-tracker-what-to-log"
 title: "Suivi des poussées liées au cycle menstruel: quoi noter"
 status: "published"
-subtitle: "Le suivi des symptômes lies au cycle est plus utile quand dates des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et impact fonctionnel restent ensemble. Le but n'est pas d'accuser les hormones de tout, mais d'apporter des motifs plus clairs au médecin."
+subtitle: "Le suivi des symptômes liés au cycle est plus utile quand dates des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et impact fonctionnel restent ensemble. Le but n'est pas d'accuser les hormones de tout, mais d'apporter des motifs plus clairs au médecin."
 description: "Apprenez quoi noter dans un suivi des poussées du cycle menstruel: dates des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments et fonction."
 excerpt: "Un guide pratique pour suivre les poussées liées au cycle, symptômes POTS, douleur de fibromyalgie, fatigue, brain fog, symptômes GI, médicaments et questions medicales."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes et contexte du jour."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder contexte du cycle, symptômes, poussées, médicaments et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder contexte du cycle, symptômes, poussées, médicaments et questions pour le médecin dans une même timeline."
 categories:
   - "Symptom Tracking"
   - "Fatigue"
@@ -54,7 +54,7 @@ entities:
   - "Doctor-Ready Report"
 secondaryKeywords:
   - "suivre poussées symptômes règles"
-  - "suivi symptômes lies au cycle"
+  - "suivi symptômes liés au cycle"
   - "symptômes POTS pires pendant les règles"
   - "suivi fibromyalgie règles"
 schemaTypes:
@@ -63,13 +63,13 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que noter si les symptômes empirent autour des règles?"
-    answer: "Notez debut et fin des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et ce qui a change dans la fonction quotidienne."
+    answer: "Notez début et fin des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et ce qui a changé dans la fonction quotidienne."
   - question: "Combien de cycles suivre avant un rendez-vous médical?"
     answer: "Plusieurs ressources de santé menstruelle suggèrent de suivre les symptômes sur quelques cycles quand le PMS ou les symptômes récurrents du cycle posent question, mais votre médecin peut recommander un autre plan."
   - question: "Le suivi du cycle peut-il expliquer toutes les poussées?"
     answer: "Non. Le timing du cycle peut être un contexte utile, mais les symptômes peuvent aussi changer à cause du sommeil, d'une maladie, du stress, de changements de médicaments, de l'hydratation, de l'activité ou d'une autre condition."
-  - question: "Quand demander des soins pour des symptômes lies aux règles?"
-    answer: "Demandez des soins pour saignement abondant, douleur sévère ou nouvelle, malaise, essoufflement, douleur thoracique, suspicion de grossesse, symptômes qui perturbent la vie quotidienne ou symptômes d'humeur severes comme se sentir en danger ou suicidaire."
+  - question: "Quand demander des soins pour des symptômes liés aux règles?"
+    answer: "Demandez des soins pour saignement abondant, douleur sévère ou nouvelle, malaise, essoufflement, douleur thoracique, suspicion de grossesse, symptômes qui perturbent la vie quotidienne ou symptômes d'humeur sévères comme se sentir en danger ou suicidaire."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
@@ -93,11 +93,11 @@ Notez:
 - caillots, si pertinent pour la consultation
 - règles absentes, tardives ou inhabituellement precoces
 
-Mayo Clinic recommande de noter les dates de debut des règles pendant plusieurs mois pour connaitre ce qui est typique pour vous, et de noter les changements comme flux, douleur, saignement entre les règles, humeur ou comportement.
+Mayo Clinic recommande de noter les dates de début des règles pendant plusieurs mois pour connaitre ce qui est typique pour vous, et de noter les changements comme flux, douleur, saignement entre les règles, humeur ou comportement.
 
 ## Ajouter les symptômes qui changent avec le cycle
 
-Vous n'avez pas besoin de tout suivre. Choisissez les symptômes qui semblent changer de façon repetee.
+Vous n'avez pas besoin de tout suivre. Choisissez les symptômes qui semblent changer de façon répétée.
 
 Catégories utiles:
 
@@ -105,25 +105,25 @@ Catégories utiles:
 - fatigue: fatigue plus lourde, sommeil non réparateur, besoin de siestes
 - symptômes autonomiques: vertiges, étourdissement, palpitations, pouls rapide, impression de malaise
 - symptômes cognitifs: brain fog, mots difficiles à trouver, trous de mémoire
-- symptômes GI: nausee, diarrhee, constipation, ballonnement, crampes
+- symptômes GI: nausée, diarrhée, constipation, ballonnement, crampes
 - sensibilité sensorielle: lumière, bruit, toucher, chaleur
-- humeur: irritabilite, anxiete, humeur basse, sentiment d'être depasse
-- sommeil: insomnie, reveils, dormir davantage, reveil non réparateur
+- humeur: irritabilité, anxiete, humeur basse, sentiment d'être depasse
+- sommeil: insomnie, reveils, dormir davantage, réveil non réparateur
 
-Le but est de montrer ce qui a change, pas de créer une courbe parfaite du cycle.
+Le but est de montrer ce qui a changé, pas de créer une courbe parfaite du cycle.
 
 ## Suivre avant, pendant et après
 
-Les motifs lies au cycle peuvent être manques si vous ne notez que les jours de saignement.
+Les motifs liés au cycle peuvent être manques si vous ne notez que les jours de saignement.
 
 Essayez de suivre:
 
 - 5 a 7 jours avant le saignement
 - jours de saignement
-- 2 a 4 jours après le debut des règles
+- 2 a 4 jours après le début des règles
 - fenêtre d'ovulation, si vous la suivez déjà et qu'elle compte pour vous
 
-L'Office on Women's Health note que les symptômes de PMS sont souvent suivis sur quelques mois et peuvent apparaitre dans les jours avant les règles puis s'améliorer après leur debut. Ce timing aide à distinguer un motif premenstruel repete d'une poussée isolee.
+L'Office on Women's Health note que les symptômes de PMS sont souvent suivis sur quelques mois et peuvent apparaitre dans les jours avant les règles puis s'améliorer après leur début. Ce timing aide à distinguer un motif premenstruel repete d'une poussée isolée.
 
 ## Garder le contexte de maladie chronique avec le contexte du cycle
 
@@ -138,7 +138,7 @@ Notez aussi:
 - activité ou surmenage
 - voyage ou changement de routine
 - stress
-- debut, arret, dose oubliee ou changement de médicament
+- début, arret, dose oubliée ou changement de médicament
 - migraine
 - reaction type MCAS ou symptômes allergiques
 - rendez-vous, procedure ou vaccination récente
@@ -149,22 +149,22 @@ Notez aussi:
 
 L'impact fonctionnel rend le suivi utile pour le rendez-vous.
 
-Notez ce qui a change:
+Notez ce qui a changé:
 
-- travail, etudes ou plans manques
+- travail, études ou plans manques
 - impossible de rester debout assez longtemps pour cuisiner
 - besoin de s'allonger après la douche
 - impossible de conduire
 - besoin d'aide pour garde d'enfant ou courses
 - douleur changeant marche, escaliers, sommeil ou concentration
-- fatigue lourde bloquant les taches normales
+- fatigue lourde bloquant les tâches normales
 - brain fog rendant formulaires, messages ou conversations plus difficiles
 
 Cela montre combien la poussée liée au cycle a affecte votre vie.
 
 ## Médicaments et mesures comptent
 
-Si médicaments, complements, contraception hormonale, antalgiques, liquides, sel, compression ou médicaments au besoin font partie de votre discussion médicale, gardez-les dans la meme timeline.
+Si médicaments, compléments, contraception hormonale, antalgiques, liquides, sel, compression ou médicaments au besoin font partie de votre discussion médicale, gardez-les dans la même timeline.
 
 Notez:
 
@@ -185,10 +185,10 @@ Demandez des soins pour:
 - saignement entre les règles nouveau ou inquietant
 - douleur pelvienne sévère ou nouvelle
 - malaise ou évanouissement
-- douleur thoracique ou difficulte à respirer
+- douleur thoracique ou difficulté à respirer
 - suspicion de grossesse
 - symptômes qui perturbent la vie quotidienne
-- symptômes d'humeur qui semblent dangereux, y compris idees d'automutilation ou suicidaires
+- symptômes d'humeur qui semblent dangereux, y compris idées d'automutilation ou suicidaires
 
 L'OMS note que les symptômes inquietants comme douleur, saignement abondant, humeur depressive ou anxieuse, et menstruations absentes ou peu frequentes sont des raisons valables de chercher des soins. Votre suivi doit faciliter la demande d'aide, pas vous convaincre d'attendre.
 
@@ -200,10 +200,10 @@ Utilisez cette note rapide:
 2. Contexte des règles: flux, crampes, changement de saignement.
 3. Symptômes principaux: 1 a 3 symptômes.
 4. Contexte proche: sommeil, chaleur, infection, activité, stress, hydratation, médicaments.
-5. Impact fonctionnel: ce qui a change aujourd'hui.
+5. Impact fonctionnel: ce qui a changé aujourd'hui.
 6. Action: repos, médicament comme indique, contact médical, question pour le rendez-vous.
 
-Des entrées courtes et repetees sont plus utiles qu'une note parfaite.
+Des entrées courtes et répétées sont plus utiles qu'une note parfaite.
 
 ## Quoi resumer avant le rendez-vous
 
@@ -233,12 +233,12 @@ Contexte utile:
 - [Office on Women's Health suivi PMS](https://womenshealth.gov/menstrual-cycle/premenstrual-syndrome)
 - [OMS fiche sur la santé menstruelle](https://www.who.int/news-room/fact-sheets/detail/menstrual-health)
 - [Enquete sur les données gynecologiques dans le POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC12283190/)
-- [PubMed etude fibromyalgie et règles](https://pubmed.ncbi.nlm.nih.gov/16396694/)
+- [PubMed étude fibromyalgie et règles](https://pubmed.ncbi.nlm.nih.gov/16396694/)
 - [Office on Women's Health fibromyalgie](https://womenshealth.gov/a-z-topics/fibromyalgia)
 
 ## Où Zebra aide
 
-Zebra aide à garder contexte du cycle, symptômes, [poussées](/fr-fr/knowledge/flare/), [déclencheurs](/fr-fr/knowledge/trigger/), médicaments, hydratation, notes orthostatiques, impact fonctionnel et questions pour le médecin dans une meme timeline.
+Zebra aide à garder contexte du cycle, symptômes, [poussées](/fr-fr/knowledge/flare/), [déclencheurs](/fr-fr/knowledge/trigger/), médicaments, hydratation, notes orthostatiques, impact fonctionnel et questions pour le médecin dans une même timeline.
 
 Zebra ne diagnostique pas PMS, PMDD, endometriose, POTS, fibromyalgie ou une autre condition. Il vous aide à apporter un motif plus clair au médecin qui peut l'évaluer.
 
@@ -248,13 +248,13 @@ Zebra ne diagnostique pas PMS, PMDD, endometriose, POTS, fibromyalgie ou une aut
 - Notez avant, pendant et après les règles si les symptômes changent hors des jours de saignement.
 - Traitez le contexte du cycle comme un motif à discuter, pas comme une preuve de cause.
 - L'impact fonctionnel rend la note plus utile pour les rendez-vous.
-- Demandez des soins pour saignement abondant, douleur sévère, malaise, symptômes urgents ou symptômes d'humeur severes.
+- Demandez des soins pour saignement abondant, douleur sévère, malaise, symptômes urgents ou symptômes d'humeur sévères.
 
 ## FAQ
 
 ### Que noter si les symptômes empirent autour des règles?
 
-Notez debut et fin des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et ce qui a change dans la fonction quotidienne.
+Notez début et fin des règles, flux, douleur, fatigue, vertiges, palpitations, brain fog, sommeil, symptômes GI, médicaments, activité et ce qui a changé dans la fonction quotidienne.
 
 ### Combien de cycles suivre avant un rendez-vous médical?
 
@@ -264,9 +264,9 @@ Plusieurs ressources de santé menstruelle suggèrent de suivre les symptômes s
 
 Non. Le timing du cycle peut être un contexte utile, mais les symptômes peuvent aussi changer à cause du sommeil, d'une maladie, du stress, de changements de médicaments, de l'hydratation, de l'activité ou d'une autre condition.
 
-### Quand demander des soins pour des symptômes lies aux règles?
+### Quand demander des soins pour des symptômes liés aux règles?
 
-Demandez des soins pour saignement abondant, douleur sévère ou nouvelle, malaise, essoufflement, douleur thoracique, suspicion de grossesse, symptômes qui perturbent la vie quotidienne ou symptômes d'humeur severes comme se sentir en danger ou suicidaire.
+Demandez des soins pour saignement abondant, douleur sévère ou nouvelle, malaise, essoufflement, douleur thoracique, suspicion de grossesse, symptômes qui perturbent la vie quotidienne ou symptômes d'humeur sévères comme se sentir en danger ou suicidaire.
 
 ### Zebra est-il un avis médical?
 

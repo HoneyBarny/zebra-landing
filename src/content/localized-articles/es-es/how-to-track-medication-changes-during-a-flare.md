@@ -54,8 +54,8 @@ faq:
   - question: "¿Debo rastrear cambios de medicación durante un brote?"
     answer: "Si los cambios de medicación son relevantes para tu conversación médica, rastrearlos junto a síntomas y momento puede hacer que el historial sea más fácil de revisar."
   - question: "¿Qué detalles de medicación debo rastrear?"
-    answer: "Los detalles útiles pueden incluir la fecha, que cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico."
-  - question: "¿Rastrear cambios de medicación puede decirme que causó un brote?"
+    answer: "Los detalles útiles pueden incluir la fecha, qué cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico."
+  - question: "¿Rastrear cambios de medicación puede decirme qué causó un brote?"
     answer: "No. El rastreo puede conservar contexto para la conversación, pero no debe tratarse como prueba de causa ni como consejo médico."
 ---
 
@@ -169,6 +169,6 @@ Si los cambios de medicación son relevantes para tu conversación médica, rast
 
 Los detalles útiles pueden incluir la fecha, qué cambió, contexto de síntomas, efectos secundarios o preocupaciones, y preguntas para tu profesional clínico.
 
-### ¿Rastrear cambios de medicación puede decirme que causó un brote?
+### ¿Rastrear cambios de medicación puede decirme qué causó un brote?
 
 No. El rastreo puede conservar contexto para la conversación, pero no debe tratarse como prueba de causa ni como consejo médico.

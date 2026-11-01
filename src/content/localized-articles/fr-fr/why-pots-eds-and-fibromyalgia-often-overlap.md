@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "why-pots-eds-and-fibromyalgia-often-overlap"
 title: "Pourquoi POTS, EDS et fibromyalgie se chevauchent souvent"
 status: "published"
-subtitle: "Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussées sous plus d'une etiquette à la fois."
+subtitle: "Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, même si ce ne sont pas la même condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussées sous plus d'une étiquette à la fois."
 description: "Apprenez pourquoi les symptômes de POTS, EDS et fibromyalgie se chevauchent souvent et pourquoi cela rend le suivi et la préparation des rendez-vous plus difficiles."
 excerpt: "Apprenez pourquoi les symptômes de POTS, EDS et fibromyalgie se chevauchent souvent et pourquoi cela rend le suivi et la préparation des rendez-vous plus difficiles."
 author: "zebra-editorial"
@@ -19,7 +19,7 @@ metaDescription: "Apprenez pourquoi les symptômes de POTS, EDS et fibromyalgie 
 ogTitle: "Pourquoi POTS, EDS et fibromyalgie se chevauchent souvent"
 ogDescription: "Une explication pratique de pourquoi le chevauchement rend les symptômes plus difficiles à suivre et les conversations de soin plus difficiles à préparer."
 heroImage: "/screenshots/insight-history.png"
-heroImageAlt: "Illustration montrant le chevauchement entre les experiences de symptômes POTS, EDS et fibromyalgie"
+heroImageAlt: "Illustration montrant le chevauchement entre les expériences de symptômes POTS, EDS et fibromyalgie"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra quand le chevauchement rend le suivi d'une seule condition trop limite."
@@ -50,22 +50,22 @@ schemaTypes:
 faq:
   - question: "Est-il courant d'avoir des symptômes de POTS, EDS et fibromyalgie ensemble?"
     answer: "De nombreux patients et communautes rapportent un chevauchement de symptômes entre ces conditions, ce qui est l'une des raisons pour lesquelles le suivi et la préparation des rendez-vous peuvent devenir si compliques."
-  - question: "Le chevauchement signifie-t-il que les conditions sont les memes?"
-    answer: "Non. Ce ne sont pas la meme condition, mais elles peuvent se chevaucher dans les symptômes et dans la façon dont les personnes vivent les limites quotidiennes."
+  - question: "Le chevauchement signifie-t-il que les conditions sont les mêmes?"
+    answer: "Non. Ce ne sont pas la même condition, mais elles peuvent se chevaucher dans les symptômes et dans la façon dont les personnes vivent les limites quotidiennes."
   - question: "Que dois-je suivre si mes symptômes se chevauchent?"
-    answer: "Suivez les symptômes, changements, impact fonctionnel, poussées et contexte pertinent afin que votre historique reste utile meme quand les étiquettes sont encore en train d'être clarifiees."
+    answer: "Suivez les symptômes, changements, impact fonctionnel, poussées et contexte pertinent afin que votre historique reste utile même quand les étiquettes sont encore en train d'être clarifiées."
 ---
 
-Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, meme si ce ne sont pas la meme condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussées sous plus d'une etiquette à la fois.
+Le POTS, l'EDS et la fibromyalgie se chevauchent souvent parce qu'ils peuvent partager des symptômes, des limites quotidiennes et des parcours diagnostiques, même si ce ne sont pas la même condition. Beaucoup de personnes finissent par suivre étourdissements, fatigue, douleur, brain fog, changements de fonctionnement et poussées sous plus d'une étiquette à la fois.
 
-Ce chevauchement peut rendre les soins et le suivi beaucoup plus difficiles, surtout quand chaque condition est traitee comme une histoire separee.
+Ce chevauchement peut rendre les soins et le suivi beaucoup plus difficiles, surtout quand chaque condition est traitée comme une histoire séparée.
 
 ## A quoi ressemble le chevauchement dans la vraie vie
 
 Pour beaucoup de patients, le chevauchement signifie:
 
 - étourdissements et symptômes en position debout
-- douleur et instabilite articulaire
+- douleur et instabilité articulaire
 - fatigue qui affecte le fonctionnement quotidien
 - brain fog
 - perturbation du sommeil
@@ -90,10 +90,10 @@ C'est l'une des raisons pour lesquelles le chevauchement compte autant dans le p
 Le chevauchement ne signifie pas:
 
 - chaque symptôme a une seule cause
-- une etiquette explique tout
+- une étiquette explique tout
 - l'auto-suivi peut diagnostiquer quelle condition est responsable
 
-Le suivi reste utile. Il doit simplement rester organise autour de ce qui s'est passe, ce qui a change et quelle vie quotidienne a été affectee.
+Le suivi reste utile. Il doit simplement rester organise autour de ce qui s'est passé, ce qui a changé et quelle vie quotidienne a été affectée.
 
 ## Que suivre quand les conditions se chevauchent
 
@@ -102,23 +102,23 @@ Quand vous gérez des conditions qui se chevauchent, les catégories les plus ut
 - type de symptôme
 - sévérité
 - impact fonctionnel
-- changements lies à la position quand c'est pertinent
+- changements liés à la position quand c'est pertinent
 - poussées
 - changements de médicaments ou de routine
 
-Cela crée un dossier qui reste utile meme quand l'interprétation exacte evolue encore.
+Cela crée un dossier qui reste utile même quand l'interprétation exacte evolue encore.
 
 ## La place de Zebra
 
-Zebra a été positionne specifiquement autour de ce problème de chevauchement. Il est conçu pour les personnes fatiguees d'essayer de forcer les realites POTS, EDS et fibromyalgie dans des outils separes et des cases mentales separees.
+Zebra a été positionne spécifiquement autour de ce problème de chevauchement. Il est conçu pour les personnes fatiguées d'essayer de forcer les réalités POTS, EDS et fibromyalgie dans des outils separes et des cases mentales séparées.
 
-La page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) présente cette meme approche pour les personnes qui gerent plusieurs conditions invisibles à la fois.
+La page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/) présente cette même approche pour les personnes qui gerent plusieurs conditions invisibles à la fois.
 
 ## Points clés
 
-- POTS, EDS et fibromyalgie peuvent se chevaucher dans les tendances de symptômes vecues, meme si ce sont des conditions distinctes.
+- POTS, EDS et fibromyalgie peuvent se chevaucher dans les tendances de symptômes vecues, même si ce sont des conditions distinctes.
 - Le problème du chevauchement est pratique autant que clinique.
-- Le suivi doit se concentrer sur un historique clair et l'impact quotidien, pas sur la preuve de l'etiquette qui possede chaque symptôme.
+- Le suivi doit se concentrer sur un historique clair et l'impact quotidien, pas sur la preuve de l'étiquette qui possede chaque symptôme.
 
 ## FAQ
 
@@ -126,10 +126,10 @@ La page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illn
 
 De nombreux patients et communautes rapportent un chevauchement de symptômes entre ces conditions, ce qui est l'une des raisons pour lesquelles le suivi et la préparation des rendez-vous peuvent devenir si compliques.
 
-### Le chevauchement signifie-t-il que les conditions sont les memes?
+### Le chevauchement signifie-t-il que les conditions sont les mêmes?
 
-Non. Ce ne sont pas la meme condition, mais elles peuvent se chevaucher dans les symptômes et dans la façon dont les personnes vivent les limites quotidiennes.
+Non. Ce ne sont pas la même condition, mais elles peuvent se chevaucher dans les symptômes et dans la façon dont les personnes vivent les limites quotidiennes.
 
 ### Que dois-je suivre si mes symptômes se chevauchent?
 
-Suivez les symptômes, changements, impact fonctionnel, poussées et contexte pertinent afin que votre historique reste utile meme quand les étiquettes sont encore en train d'être clarifiees.
+Suivez les symptômes, changements, impact fonctionnel, poussées et contexte pertinent afin que votre historique reste utile même quand les étiquettes sont encore en train d'être clarifiées.

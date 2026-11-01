@@ -63,18 +63,18 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar si los síntomas empeoran alrededor del periodo?"
-    answer: "Registra inicio y final del periodo, flujo, dolor, fatiga, mareo, palpitaciones, brain fog, sueño, síntomas GI, medicamentos, actividad y que cambió en la función diaria."
+    answer: "Registra inicio y final del periodo, flujo, dolor, fatiga, mareo, palpitaciones, brain fog, sueño, síntomas GI, medicamentos, actividad y qué cambió en la función diaria."
   - question: "¿Cuántos ciclos debo registrar antes de una cita médica?"
     answer: "Varios recursos de salud menstrual sugieren registrar síntomas durante algunos ciclos cuando PMS o síntomas recurrentes del ciclo preocupan, pero tu médico puede recomendar otro plan."
   - question: "¿El seguimiento del ciclo puede explicar todos los brotes?"
     answer: "No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambiar por sueño, enfermedad, estrés, cambios de medicamentos, hidratación, actividad u otra condición."
   - question: "¿Cuándo debo buscar atención médica por síntomas relacionados con el periodo?"
-    answer: "Busca atención por sangrado abundante, dolor fuerte o nuevo, desmayo, falta de aire, dolor en el pecho, posible embarazo, síntomas que interrumpen la vida diaria o síntomas de animo graves como sentirte insegura o con ideas suicidas."
+    answer: "Busca atención por sangrado abundante, dolor fuerte o nuevo, desmayo, falta de aire, dolor en el pecho, posible embarazo, síntomas que interrumpen la vida diaria o síntomas de ánimo graves como sentirte insegura o con ideas suicidas."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas, los síntomas de enfermedad crónica cambian alrededor del ciclo menstrual. El dolor puede subir. La fatiga puede sentirse más pesada. Los síntomas de [POTS](/es-es/knowledge/pots/) o [disautonomía](/es-es/knowledge/dysautonomia/) pueden sentirse peores antes o durante el sangrado. [Brain fog](/es-es/knowledge/brain-fog/), síntomas GI, migraña, alteración del sueño, cambios de animo y necesidades de medicamentos también pueden cambiar.
+Para algunas personas, los síntomas de enfermedad crónica cambian alrededor del ciclo menstrual. El dolor puede subir. La fatiga puede sentirse más pesada. Los síntomas de [POTS](/es-es/knowledge/pots/) o [disautonomía](/es-es/knowledge/dysautonomia/) pueden sentirse peores antes o durante el sangrado. [Brain fog](/es-es/knowledge/brain-fog/), síntomas GI, migraña, alteración del sueño, cambios de ánimo y necesidades de medicamentos también pueden cambiar.
 
 Un rastreador de brotes del ciclo menstrual no debe asumir que las hormonas explican todo. Debe mantener el timing del ciclo junto a síntomas, contexto e impacto funcional para llevar un patrón más claro al médico.
 
@@ -89,11 +89,11 @@ Registra:
 - duración del ciclo, si la sabes
 - flujo: ligero, medio, abundante, inusual
 - manchado o sangrado entre periodos
-- colicos o dolor pelvico
+- cólicos o dolor pélvico
 - coagulos, si son relevantes para la consulta
 - periodos ausentes, tardios o inusualmente tempranos
 
-Mayo Clinic recomienda registrar las fechas de inicio del periodo durante varios meses para conocer lo tipico para ti y notar cambios como flujo, dolor, sangrado entre periodos y cambios de animo o conducta.
+Mayo Clinic recomienda registrar las fechas de inicio del periodo durante varios meses para conocer lo típico para ti y notar cambios como flujo, dolor, sangrado entre periodos y cambios de ánimo o conducta.
 
 ## Añade los síntomas que cambian con el ciclo
 
@@ -101,16 +101,16 @@ No necesitas registrar todos los síntomas. Elige los que parecen cambiar repeti
 
 Categorías útiles:
 
-- dolor: colicos, dolor pelvico, dolor articular, dolor muscular, migraña, dolor de cabeza
+- dolor: cólicos, dolor pélvico, dolor articular, dolor muscular, migraña, dolor de cabeza
 - fatiga: fatiga más pesada, sueño no reparador, necesidad de siestas
 - síntomas autonómicos: mareo, aturdimiento, palpitaciones, pulso rápido, sensación de desmayo
 - síntomas cognitivos: brain fog, dificultad para encontrar palabras, lagunas de memoria
-- síntomas GI: náuseas, diarrea, estrenimiento, hinchazón, colicos
+- síntomas GI: náuseas, diarrea, estrenimiento, hinchazón, cólicos
 - sensibilidad sensorial: luz, ruido, tacto, calor
-- animo: irritabilidad, ansiedad, animo bajo, sentirse abrumada
+- ánimo: irritabilidad, ansiedad, ánimo bajo, sentirse abrumada
 - sueño: insomnio, despertares, dormir más, despertar sin descanso
 
-El punto es mostrar qué cambió, no crear una grafica perfecta del ciclo.
+El punto es mostrar qué cambió, no crear una gráfica perfecta del ciclo.
 
 ## Registra antes, durante y después
 
@@ -140,7 +140,7 @@ También anota:
 - estrés
 - inicio, suspensión, dosis olvidada o cambio de medicamento
 - migraña
-- reacción tipo MCAS o síntomas alergicos
+- reacción tipo MCAS o síntomas alérgicos
 - cita, procedimiento o vacuna reciente
 
 Escribir "periodo día 1, mal sueño, calor, mareo peor" da más contexto que "el periodo causó mareo."
@@ -164,7 +164,7 @@ Esto ayuda a mostrar cuánto afectó tu vida el brote relacionado con el ciclo.
 
 ## Medicamentos y medidas importan
 
-Si medicamentos, suplementos, anticoncepción hormonal, analgesicos, líquidos, sal, compresión o medicinas de rescate forman parte de tu conversación médica, mantenlos en la misma línea de tiempo.
+Si medicamentos, suplementos, anticoncepción hormonal, analgésicos, líquidos, sal, compresión o medicinas de rescate forman parte de tu conversación médica, mantenlos en la misma línea de tiempo.
 
 Registra:
 
@@ -183,21 +183,21 @@ Busca atención médica por síntomas como:
 
 - sangrado muy abundante
 - sangrado entre periodos nuevo o preocupante
-- dolor pelvico fuerte o nuevo
+- dolor pélvico fuerte o nuevo
 - desmayo
 - dolor en el pecho o dificultad para respirar
 - posible embarazo
 - síntomas que interrumpen la vida diaria
-- síntomas de animo que se sienten inseguros, incluidas ideas de autolesión o suicidio
+- síntomas de ánimo que se sienten inseguros, incluidas ideas de autolesión o suicidio
 
-La OMS senala que síntomas preocupantes como dolor, sangrado abundante, animo deprimido o ansioso, y menstruación ausente o poco frecuente son razones validas para buscar atención. Tu rastreador debe facilitar pedir ayuda, no convencerte de esperar.
+La OMS senala que síntomas preocupantes como dolor, sangrado abundante, ánimo deprimido o ansioso, y menstruación ausente o poco frecuente son razones validas para buscar atención. Tu rastreador debe facilitar pedir ayuda, no convencerte de esperar.
 
 ## Plantilla simple de brote del ciclo
 
 Usa esta nota rápida:
 
 1. Día del ciclo: antes del periodo, día 1, día 2, después del periodo, desconocido.
-2. Contexto del periodo: flujo, colicos, cambios de sangrado.
+2. Contexto del periodo: flujo, cólicos, cambios de sangrado.
 3. Síntomas principales: 1 a 3 síntomas principales.
 4. Contexto cercano: sueño, calor, infección, actividad, estrés, hidratación, medicamentos.
 5. Impacto funcional: qué cambió hoy.
@@ -211,7 +211,7 @@ Lleva:
 
 - qué días del ciclo parecen más difíciles
 - qué síntomas empeoran de forma repetida
-- si síntomas tipo POTS, mareo, palpitaciones, fatiga, dolor, GI, migraña o animo se agrupan alrededor del ciclo
+- si síntomas tipo POTS, mareo, palpitaciones, fatiga, dolor, GI, migraña o ánimo se agrupan alrededor del ciclo
 - cambios de flujo o sangrado
 - notas de medicamentos o tratamiento
 - ejemplos de impacto funcional
@@ -232,7 +232,7 @@ Contexto útil:
 - [Mayo Clinic sobre seguimiento del ciclo menstrual](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/menstrual-cycle/art-20047186?p=1)
 - [Office on Women's Health sobre seguimiento de PMS](https://womenshealth.gov/menstrual-cycle/premenstrual-syndrome)
 - [OMS hoja informativa de salud menstrual](https://www.who.int/news-room/fact-sheets/detail/menstrual-health)
-- [Encuesta sobre hallazgos ginecologicos en POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC12283190/)
+- [Encuesta sobre hallazgos ginecológicos en POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC12283190/)
 - [PubMed estudio sobre síntomas de fibromialgia y menstruación](https://pubmed.ncbi.nlm.nih.gov/16396694/)
 - [Office on Women's Health fibromialgia](https://womenshealth.gov/a-z-topics/fibromyalgia)
 
@@ -248,7 +248,7 @@ Zebra no diagnostica PMS, PMDD, endometriosis, POTS, fibromialgia ni ninguna con
 - Registra antes, durante y después del periodo si los síntomas cambian fuera del sangrado.
 - Trata el contexto del ciclo como patrón para conversar, no como prueba de causa.
 - El impacto funcional hace la nota más útil para citas.
-- Busca atención por sangrado abundante, dolor fuerte, desmayo, síntomas urgentes o síntomas graves de animo.
+- Busca atención por sangrado abundante, dolor fuerte, desmayo, síntomas urgentes o síntomas graves de ánimo.
 
 ## FAQ
 
@@ -266,7 +266,7 @@ No. El ciclo puede ser contexto útil, pero los síntomas también pueden cambia
 
 ### ¿Cuándo debo buscar atención médica por síntomas relacionados con el periodo?
 
-Busca atención por sangrado abundante, dolor fuerte o nuevo, desmayo, falta de aire, dolor en el pecho, posible embarazo, síntomas que interrumpen la vida diaria o síntomas de animo graves como sentirte insegura o con ideas suicidas.
+Busca atención por sangrado abundante, dolor fuerte o nuevo, desmayo, falta de aire, dolor en el pecho, posible embarazo, síntomas que interrumpen la vida diaria o síntomas de ánimo graves como sentirte insegura o con ideas suicidas.
 
 ### ¿Zebra es consejo médico?
 

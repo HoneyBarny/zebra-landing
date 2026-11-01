@@ -64,13 +64,13 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar para blood pooling o piernas moradas?"
-    answer: "Registra cambios de color, hinchazón, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, que ayudó, tiempo de recuperación e impacto funcional."
+    answer: "Registra cambios de color, hinchazón, pesadez, dolor, temperatura de la piel, tiempo de pie, posición, frecuencia cardíaca o presión arterial si ya las mides, mareo, prendas de compresión, hidratación, sal, qué ayudó, tiempo de recuperación e impacto funcional."
   - question: "¿Puede pasar blood pooling con POTS?"
     answer: "Sí. Fuentes sobre POTS describen acumulación de sangre en la parte baja del cuerpo al estar de pie, y algunas personas notan color rojizo-morado en piernas, pies, manos o pies. Un médico debe evaluar tu patrón."
   - question: "¿Un tracker puede diagnosticar blood pooling?"
     answer: "No. Un tracker puede organizar patrones para revisión médica, pero no puede diagnosticar POTS, disautonomía, enfermedad vascular, Raynaud, acrocianosis, problemas de coagulos u otras causas."
   - question: "¿Cuándo es urgente el cambio de color en una pierna?"
-    answer: "Busca atención urgente por hinchazón repentina de un solo lado, dolor severo, falta de aire nueva, dolor de pecho, extremidad fria o palida, perdida de pulso, debilidad nueva o síntomas que tu médico marco como urgentes."
+    answer: "Busca atención urgente por hinchazón repentina de un solo lado, dolor severo, falta de aire nueva, dolor de pecho, extremidad fría o pálida, pérdida de pulso, debilidad nueva o síntomas que tu médico marco como urgentes."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -109,7 +109,7 @@ Descripciones útiles:
 - moteado
 - manchado
 - oscuro
-- palido
+- pálido
 - blanco
 - un pie o ambos
 - manos, pies, piernas o dedos
@@ -150,11 +150,11 @@ Registra si el cambio de color paso con:
 
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - falta de aire
-- nausea
+- náusea
 - sudoración
 - temblor
 - brain fog
@@ -184,7 +184,7 @@ Registra:
 
 No cambies sal, líquidos, compresión ni medicamentos solo por una app. Usa el patrón para hablar con tu médico.
 
-## Registra que ayudó y que tan rápido
+## Registra qué ayudó y qué tan rápido
 
 La recuperación da contexto.
 
@@ -213,16 +213,16 @@ Busca atención urgente por:
 - dolor de pecho
 - falta de aire nueva
 - desmayo con lesión
-- extremidad fria, palida, entumecida o debil
-- perdida de pulso
-- síntomas neurologicos repentinos
+- extremidad fría, pálida, entumecida o débil
+- pérdida de pulso
+- síntomas neurológicos repentinos
 - síntomas que tu médico marco como urgentes
 
 El registro puede esperar. La seguridad va primero.
 
 ## Qué resumir antes de la cita
 
-Antes de cardiología, neurologia, vascular, medicina primaria, EDS, Long COVID o disautonomía, resume:
+Antes de cardiología, neurología, vascular, medicina primaria, EDS, Long COVID o disautonomía, resume:
 
 - dónde pasan los cambios de color
 - qué color notas
@@ -268,5 +268,5 @@ No diagnostica blood pooling ni problemas de circulación. Ayuda a llevar notas 
 
 - Registra cambios de color con tiempo de pie, postura, síntomas, compresión, hidratación, sal y recuperación.
 - Describe lo que ves sin intentar fijar el diagnóstico.
-- Hinchazón repentina de un lado, dolor fuerte, dolor de pecho, falta de aire o extremidad fria y palida necesita atención urgente.
+- Hinchazón repentina de un lado, dolor fuerte, dolor de pecho, falta de aire o extremidad fría y pálida necesita atención urgente.
 - Un diario corto y constante puede hacer más fácil hablar de patrones al estar de pie.

@@ -73,7 +73,7 @@ Las categorías útiles para POTS suelen incluir:
 - náuseas
 - brain fog
 - intolerancia al ejercicio
-- presincope
+- presíncope
 
 No necesitas registrar cada posible sensación cada día. Empieza por los síntomas que:
 
@@ -133,7 +133,7 @@ Si las observaciones de frecuencia cardíaca o presión arterial en casa forman 
 
 - no intentes escribir un diario largo todos los días
 - no registres tantas categorías que acabes dejandolo
-- no trates el seguimiento en casa como autodiagnostico
+- no trates el seguimiento en casa como autodiagnóstico
 - no mantengas síntomas y notas ortostáticas en sistemas totalmente separados si eso dificulta revisarlos
 
 ## Dónde encaja Zebra
@@ -144,7 +144,7 @@ Zebra está diseñado para mantener síntomas, brotes, medicación, hidratación
 
 - Registra síntomas, cambios relacionados con la postura, contexto y brotes juntos.
 - Mantén el registro lo bastante simple para usarlo en días malos.
-- Usa las mediciones en casa como contexto útil, no como autodiagnostico.
+- Usa las mediciones en casa como contexto útil, no como autodiagnóstico.
 - Un registro conectado es más fácil de revisar que varias herramientas separadas.
 
 ## FAQ

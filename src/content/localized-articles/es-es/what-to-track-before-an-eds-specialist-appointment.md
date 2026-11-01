@@ -4,7 +4,7 @@ originalSlug: "what-to-track-before-an-eds-specialist-appointment"
 status: "published"
 publishedAt: "2026-07-12"
 title: "Que rastrear antes de una cita con especialista en EDS"
-subtitle: "Antes de una cita con especialista en EDS, lo más útil es rastrear el patrón que explica que cambió, como se siente tu cuerpo día a día, que afecta la función y que síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita."
+subtitle: "Antes de una cita con especialista en EDS, lo más útil es rastrear el patrón que explica qué cambió, cómo se siente tu cuerpo día a día, que afecta la función y que síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita."
 description: "Aprende que rastrear antes de una cita con especialista en EDS, incluyendo síntomas articulares, patrones de solapamiento, función diaria, medicación y tus preguntas principales."
 excerpt: "Una checklist práctica para rastrear los síntomas, cambios y preguntas que hacen más útil una cita con especialista en EDS."
 author: "zebra-editorial"
@@ -54,13 +54,13 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo rastrear antes de una cita con especialista en EDS?"
-    answer: "Rastrea los síntomas más relevantes para la visita, que cambió recientemente, como afectan los síntomas la función diaria, patrones de solapamiento, tratamientos o apoyos que probaste, y las preguntas principales que quieres responder."
+    answer: "Rastrea los síntomas más relevantes para la visita, qué cambió recientemente, como afectan los síntomas la función diaria, patrones de solapamiento, tratamientos o apoyos que probaste, y las preguntas principales que quieres responder."
   - question: "¿Necesito rastrear todos los síntomas de EDS antes de mi cita?"
     answer: "No. Enfócate en los síntomas más nuevos, más disruptivos, más frecuentes o más relevantes para la razón por la que ves al especialista."
   - question: "¿Debo rastrear síntomas de disautonomía antes de una visita por EDS?"
     answer: "Si mareo, palpitaciones, síntomas ortostáticos, fatiga u otros problemas de solapamiento son parte de tu cuadro, es útil incluirlos en el mismo historial reciente."
   - question: "¿Qué pasa si tengo brain fog y no puedo preparar un resumen largo?"
-    answer: "Usa una estructura corta: que cambió, que afecta la función, que síntomas de solapamiento importan, que probaste y con que quieres ayuda."
+    answer: "Usa una estructura corta: qué cambió, qué afecta la función, que síntomas de solapamiento importan, que probaste y con que quieres ayuda."
   - question: "¿Debo llevar un informe listo para el médico a una cita de EDS?"
     answer: "Un informe o resumen conciso puede hacer la visita más fácil porque te ayuda a revisar patrones, preguntas y cambios recientes sin depender solo de la memoria."
 ---
@@ -108,7 +108,7 @@ No necesitas rastrear cada sensación. Rastrea los síntomas que son:
 - los que más afectan la función
 - más importantes para preguntar
 
-## 2. Que cambió recientemente
+## 2. Qué cambió recientemente
 
 Los especialistas suelen necesitar la línea de tiempo reciente más que todo el historial de vida.
 
@@ -140,11 +140,11 @@ No intentas probar la causa por tu cuenta. Mantienes el patrón revisable.
 
 ## 4. Impacto funcional
 
-Las notas de cita más claras suelen mostrar no solo que sentiste, sino que cambió.
+Las notas de cita más claras suelen mostrar no solo que sentiste, sino qué cambió.
 
 Rastrea ejemplos como:
 
-- necesite acostarme después de tareas basicas
+- necesite acostarme después de tareas básicas
 - tuve problemas para ducharme, cocinar o trasladarme
 - no pude sentarme erguido cómodamente por mucho tiempo
 - tuve que cancelar planes o irme temprano
@@ -212,7 +212,7 @@ Si el brain fog hace poco realista una preparación larga, usa esta estructura:
 - estar de pie
 - caminar
 - trabajo o escuela
-- tareas domesticas
+- tareas domésticas
 - concentración
 
 ### Qué síntomas de solapamiento importan

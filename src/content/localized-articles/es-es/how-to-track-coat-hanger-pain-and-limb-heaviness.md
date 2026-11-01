@@ -70,9 +70,9 @@ faq:
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El dolor tipo percha suele significar dolor en la parte posterior del cuello, hombros y espalda alta, más o menos donde apoyaria una percha. En personas con [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/) o [hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/), puede aparecer al estar de pie y aliviarse al sentarse o acostarse.
+El dolor tipo percha suele significar dolor en la parte posterior del cuello, hombros y espalda alta, más o menos donde apoyaría una percha. En personas con [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/) o [hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/), puede aparecer al estar de pie y aliviarse al sentarse o acostarse.
 
-La pesadez de extremidades puede ser igual de difícil de explicar. Tal vez no sea "dolor" exactamente. Los brazos o piernas pueden sentirse pesados, debiles, lentos, temblorosos o incapaces de seguir el ritmo al estar de pie, caminar, subir escaleras, ducharte o hacer recados.
+La pesadez de extremidades puede ser igual de difícil de explicar. Tal vez no sea "dolor" exactamente. Los brazos o piernas pueden sentirse pesados, débiles, lentos, temblorosos o incapaces de seguir el ritmo al estar de pie, caminar, subir escaleras, ducharte o hacer recados.
 
 Registrar ayuda porque estos síntomas pueden sonar vagos en una cita corta. Una línea de tiempo clara puede mostrar si el dolor o la pesadez siguen postura, calor, comidas, esfuerzo, hidratación, cambios de medicación o días de brote.
 
@@ -115,7 +115,7 @@ Registra:
 - cuánto tardó en calmarse
 - si volvió al levantarte de nuevo
 
-MedlinePlus Genetics senala que los síntomas de hipotensión ortostática pueden incluir dolor de cuello y hombros tipo percha, debilidad, mareo, visión borrosa, fatiga y desmayo, y que pueden empeorar con actividad fisica, calor, comidas grandes o estar de pie mucho tiempo.
+MedlinePlus Genetics senala que los síntomas de hipotensión ortostática pueden incluir dolor de cuello y hombros tipo percha, debilidad, mareo, visión borrosa, fatiga y desmayo, y que pueden empeorar con actividad física, calor, comidas grandes o estar de pie mucho tiempo.
 
 ## Une dolor y pesadez con otros síntomas
 
@@ -125,14 +125,14 @@ Agrega lo que ocurrió al mismo tiempo:
 
 - mareo o aturdimiento
 - cambios de visión
-- palpitaciones o corazon acelerado
+- palpitaciones o corazón acelerado
 - falta de aire
 - náuseas
 - sudoración, rubor o calor
 - brain fog
 - temblor
 - fatiga
-- presincope o desmayo
+- presíncope o desmayo
 
 Esto ayuda a tu médico a ver si el síntoma ocurrió solo o como parte de un episodio ortostático.
 

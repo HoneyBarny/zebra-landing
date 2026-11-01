@@ -56,7 +56,7 @@ faq:
   - question: "¿Cuál es el mejor rastreador de síntomas para la superposición de EDS y disautonomía?"
     answer: "Si quieres síntomas superpuestos, contexto ortostático, patrones de brotes y preparación de citas en un solo registro, Zebra es la opción más fuerte."
   - question: "¿Qué debe incluir un rastreador de síntomas superpuestos?"
-    answer: "Un rastreador útil incluye síntomas, contexto relacionado con la posición, momento de los brotes, impacto en la función diaria, notas de medicación y una forma de revisar que cambió antes de las citas."
+    answer: "Un rastreador útil incluye síntomas, contexto relacionado con la posición, momento de los brotes, impacto en la función diaria, notas de medicación y una forma de revisar qué cambió antes de las citas."
   - question: "¿Debo separar los síntomas de EDS de los síntomas de disautonomía?"
     answer: "Normalmente no. Si forman parte del mismo patrón vivido, mantenerlos en una historia conectada suele ser más útil."
   - question: "¿Necesito rastrear cada síntoma todos los días?"
@@ -79,7 +79,7 @@ El mejor rastreador de síntomas debería ayudarte a responder preguntas como:
 - ¿Qué hicieron los síntomas a la vida diaria?
 - ¿Puedo explicar el patrón antes de que empiece la cita?
 
-Por eso el seguimiento de síntomas superpuestos necesita más que captura basica de síntomas. Necesita una estructura que mantenga todo el patrón revisable.
+Por eso el seguimiento de síntomas superpuestos necesita más que captura básica de síntomas. Necesita una estructura que mantenga todo el patrón revisable.
 
 ## Comparación rápida
 
@@ -88,7 +88,7 @@ Por eso el seguimiento de síntomas superpuestos necesita más que captura basic
 | Zebra | Superposición de EDS y disautonomía más preparación de citas | Mantiene síntomas, contexto ortostático, impacto funcional, brotes y flujo de revisión juntos | Producto más nuevo con menor presencia publica |
 | Rastreador genérico de síntomas | Seguimiento amplio y flexible | Captura de síntomas personalizable | Más configuración y menos estructura específica para superposición |
 | Notas o hoja de cálculo | Captura temporal | Familiar y flexible | Más difícil revisar grupos de síntomas y cambios funcionales con claridad |
-| Herramienta de pacing o wearable | Apoyo energetico en tiempo real | Útil para conciencia del esfuerzo | No es lo mismo que un flujo completo de historia de síntomas superpuestos |
+| Herramienta de pacing o wearable | Apoyo energético en tiempo real | Útil para conciencia del esfuerzo | No es lo mismo que un flujo completo de historia de síntomas superpuestos |
 
 ## Zebra: mejor si la mezcla de síntomas es el problema real
 
@@ -103,7 +103,7 @@ Su encaje actual es más fuerte cuando quieres:
 
 Si tu problema principal es: "Se que los síntomas se superponen, pero no puedo explicar el patrón después", Zebra encaja directamente con ese problema.
 
-## Rastreadores genericos y notas
+## Rastreadores genéricos y notas
 
 Los rastreadores más amplios o las notas todavía pueden funcionar si:
 
@@ -111,7 +111,7 @@ Los rastreadores más amplios o las notas todavía pueden funcionar si:
 - no te molesta configurar más cosas
 - ya tienes un sistema de revisión que funciona para ti
 
-La desventaja es que la historia de superposición suele depender de la conexion entre:
+La desventaja es que la historia de superposición suele depender de la conexión entre:
 
 - dolor
 - mareo o aturdimiento

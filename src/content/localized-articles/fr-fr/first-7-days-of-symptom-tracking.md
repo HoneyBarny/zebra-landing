@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "first-7-days-of-symptom-tracking"
 title: "Les 7 premiers jours de suivi des symptômes: quoi noter quand vous êtes submerge"
 status: "published"
-subtitle: "Quand les symptômes epuisent déjà, le suivi peut ressembler a une tache de plus. Commencez par sept toutes petites notes quotidiennes: ce qui s'est passe, ce qui a change, ce qui a aide et ce que le symptôme vous a empeche de faire."
+subtitle: "Quand les symptômes epuisent déjà, le suivi peut ressembler à une tâche de plus. Commencez par sept toutes petites notes quotidiennes: ce qui s'est passé, ce qui a changé, ce qui a aide et ce que le symptôme vous a empêche de faire."
 description: "Un plan simple de 7 jours pour suivre les symptômes quand vous vous sentez submerge, avec quoi noter chaque jour et comment garder des notes utiles pour le médecin."
 excerpt: "Commencez le suivi des symptômes sans vous surcharger: un plan pratique de 7 jours pour symptômes, déclencheurs, médicaments, récupération et impact quotidien."
 author: "zebra-editorial"
@@ -57,13 +57,13 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que faut-il suivre pendant la première semaine?"
-    answer: "Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empeche de faire."
+    answer: "Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empêche de faire."
   - question: "Combien faut-il écrire si je suis submerge?"
-    answer: "Une phrase ou quelques champs rapides suffisent. Une note utile peut être: douleur 7/10, pire après douche, allongé 40 minutes, courses annulees."
+    answer: "Une phrase ou quelques champs rapides suffisent. Une note utile peut être: douleur 7/10, pire après douche, allongé 40 minutes, courses annulées."
   - question: "Dois-je suivre tous les symptômes?"
     answer: "Non. Commencez par un a trois symptômes qui affectent le plus votre journée. Vous pourrez en ajouter si le suivi devient gerable."
   - question: "Combien de temps avant que le suivi soit utile?"
-    answer: "Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout à créer une habitude durable."
+    answer: "Même sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schémas, mais la première semaine sert surtout à créer une habitude durable."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
@@ -72,7 +72,7 @@ Commencer un [journal de symptômes](/fr-fr/blog/what-is-a-symptom-journal/) peu
 
 Vous n'avez pas besoin de tout suivre. Pendant les sept premiers jours, le but est beaucoup plus petit: une note utile par jour.
 
-Kaiser Permanente note qu'un journal de symptômes peut aider votre médecin à diagnostiquer et traiter votre condition, car certains symptômes sont difficiles à décrire de mémoire. Le CDC conseille aussi aux personnes avec conditions chroniques de surveiller leur santé à domicile quand cela fait partie du plan de soins et de signaler les symptômes nouveaux ou qui empirent a leur equipe médicale.
+Kaiser Permanente note qu'un journal de symptômes peut aider votre médecin à diagnostiquer et traiter votre condition, car certains symptômes sont difficiles à décrire de mémoire. Le CDC conseille aussi aux personnes avec conditions chroniques de surveiller leur santé à domicile quand cela fait partie du plan de soins et de signaler les symptômes nouveaux ou qui empirent à leur équipe médicale.
 
 La première semaine ne cherche donc pas des données parfaites. Elle cherche un dossier que vous pouvez vraiment tenir.
 
@@ -100,41 +100,41 @@ Choisissez un a trois symptômes qui affectent le plus votre journée:
 - vertige ou étourdissement
 - brain fog
 - palpitations
-- nausee
+- nausée
 - problèmes de sommeil
 - intensité de flare
 - effets secondaires de médicaments
 - impact fonctionnel
 
-Si vous suivez trop le premier jour, vous risquez d'arrêter au troisieme. Commencez plus petit que vous pensez.
+Si vous suivez trop le premier jour, vous risquez d'arrêter au troisième. Commencez plus petit que vous pensez.
 
 ## Jour 2: Ajoutez l'intensité
 
-Utilisez une simple echelle de 0 a 10.
+Utilisez une simple échelle de 0 a 10.
 
 Vous pouvez la definir ainsi:
 
 - 0 signifie absent
 - 3 signifie présent mais gerable
 - 6 signifie difficile à ignorer
-- 8 signifie que la journée a change
+- 8 signifie que la journée a changé
 - 10 signifie pire niveau ou dangereux
 
-Le chiffre exact compte moins que l'utilisation régulière de la meme echelle.
+Le chiffre exact compte moins que l'utilisation régulière de la même échelle.
 
 ## Jour 3: Ajoutez le moment
 
-Le moment transforme des symptômes disperses en schema.
+Le moment transforme des symptômes disperses en schéma.
 
 Notez:
 
-- matin, apres-midi, soir ou nuit
+- matin, après-midi, soir ou nuit
 - combien de temps cela a dure
 - si cela venait et repartait
-- si c'était pire a un moment précis
+- si c'était pire à un moment précis
 - si repos, nourriture, liquides, médicaments, position allongée, refroidissement ou sommeil ont aide
 
-Le journal de symptômes de Kaiser Permanente demande quand le symptôme commence, quand il gene le plus et s'il va et vient pendant la journée. C'est un bon modele: un timing simple vaut mieux qu'un suivi complique.
+Le journal de symptômes de Kaiser Permanente demande quand le symptôme commence, quand il gene le plus et s'il va et vient pendant la journée. C'est un bon modele: un timing simple vaut mieux qu'un suivi compliqué.
 
 ## Jour 4: Ajoutez ce qui a améliore ou aggrave
 
@@ -150,7 +150,7 @@ Notez si les symptômes semblaient affectes par:
 - hydratation
 - chaleur ou froid
 - station debout
-- médicaments ou doses oubliees
+- médicaments ou doses oubliées
 - règles ou changements hormonaux
 - maladie
 - voyage ou changement d'horaire
@@ -165,14 +165,14 @@ Ne changez pas de médicament selon un tracker seul. Mais notez le contexte qui 
 Notes utiles:
 
 - médicament pris comme prescrit
-- dose oubliee
+- dose oubliée
 - dose changee récemment
-- nouveau médicament ou supplement
+- nouveau médicament ou supplément
 - effet secondaire possible
 - médicament de secours ou au besoin utilise
-- hydratation, sel, compression, pacing ou autres etapes approuvees par le médecin
+- hydratation, sel, compression, pacing ou autres étapes approuvées par le médecin
 
-Le CDC insiste sur la prise des médicaments comme prescrits et sur le fait de demander au médecin ou pharmacien en cas de questions. Votre tracker peut aider a ne pas oublier ce qui s'est passe.
+Le CDC insiste sur la prise des médicaments comme prescrits et sur le fait de demander au médecin ou pharmacien en cas de questions. Votre tracker peut aider a ne pas oublier ce qui s'est passé.
 
 ## Jour 6: Ajoutez l'impact fonctionnel
 
@@ -183,7 +183,7 @@ Notez ce que les symptômes ont arrêté, change ou retarde:
 - douche
 - cuisine
 - conduite
-- travail ou etudes
+- travail ou études
 - enfants ou soins aux autres
 - file d'attente
 - courses
@@ -194,13 +194,13 @@ Notez ce que les symptômes ont arrêté, change ou retarde:
 
 "Douleur 7/10" est utile. "Douleur 7/10, impossible de rester debout assez longtemps pour cuisiner" est plus clair.
 
-## Jour 7: Ecrivez trois questions de rendez-vous
+## Jour 7: Écrivez trois questions de rendez-vous
 
-Après sept jours, relisez vos notes et ecrivez trois questions.
+Après sept jours, relisez vos notes et écrivez trois questions.
 
 Exemples:
 
-- "Ce schema ressemble-t-il a un flare, un effet secondaire, un problème orthostatique, un schema migraineux ou autre chose?"
+- "Ce schéma ressemble-t-il à un flare, un effet secondaire, un problème orthostatique, un schéma migraineux ou autre chose?"
 - "Quels symptômes dois-je suivre avant la prochaine visite?"
 - "Quels symptômes doivent me faire chercher une aide urgente?"
 - "Dois-je suivre fréquence cardiaque, tension, sommeil, hydratation ou horaire de médicaments?"
@@ -217,7 +217,7 @@ Cela transforme le suivi en préparation de rendez-vous, pas en corvee sans fin.
 | 3 | Moment | "Pire a __, durée __." |
 | 4 | Mieux ou pire | "Pire après __, mieux avec __." |
 | 5 | Médicaments/contexte | "Meds/plan: __." |
-| 6 | Impact fonctionnel | "Cela m'a empeche de __." |
+| 6 | Impact fonctionnel | "Cela m'a empêche de __." |
 | 7 | Questions | "Demander au médecin: __." |
 
 Si vous manquez un jour, ne recommencez pas. Ajoutez ce dont vous vous souvenez et continuez.
@@ -233,7 +233,7 @@ Informations utiles:
 
 ## La place de Zebra
 
-Zebra est conçu pour ce suivi léger: symptômes, intensité, déclencheurs, médicaments, notes, [activités de la vie quotidienne](/fr-fr/knowledge/activities-of-daily-living/) et questions de rendez-vous au meme endroit.
+Zebra est conçu pour ce suivi léger: symptômes, intensité, déclencheurs, médicaments, notes, [activités de la vie quotidienne](/fr-fr/knowledge/activities-of-daily-living/) et questions de rendez-vous au même endroit.
 
 Il ne diagnostique pas et ne dit pas ce que signifient vos symptômes. Il aide a ne plus compter sur la mémoire quand le rendez-vous arrive enfin.
 
@@ -249,11 +249,11 @@ Il ne diagnostique pas et ne dit pas ce que signifient vos symptômes. Il aide a
 
 ### Que faut-il suivre pendant la première semaine?
 
-Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empeche de faire.
+Notez vos principaux symptômes, leur intensité, le moment, ce qui les a ameliores ou aggraves, le contexte des médicaments, le temps de récupération et ce que les symptômes vous ont empêche de faire.
 
 ### Combien faut-il écrire si je suis submerge?
 
-Une phrase ou quelques champs rapides suffisent. Une note utile peut être: douleur 7/10, pire après douche, allongé 40 minutes, courses annulees.
+Une phrase ou quelques champs rapides suffisent. Une note utile peut être: douleur 7/10, pire après douche, allongé 40 minutes, courses annulées.
 
 ### Dois-je suivre tous les symptômes?
 
@@ -261,7 +261,7 @@ Non. Commencez par un a trois symptômes qui affectent le plus votre journée. V
 
 ### Combien de temps avant que le suivi soit utile?
 
-Meme sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schemas, mais la première semaine sert surtout à créer une habitude durable.
+Même sept jours peuvent montrer des exemples utiles pour un rendez-vous. Un suivi plus long peut montrer des schémas, mais la première semaine sert surtout à créer une habitude durable.
 
 ### Zebra est-il un avis médical?
 

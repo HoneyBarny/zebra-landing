@@ -81,11 +81,11 @@ No hagas una revisión de pie en casa si tu médico te dijo que no, si estas sol
 
 Detente y sientate o acuestate si sientes:
 
-- qué podrias desmayarte
+- qué podrías desmayarte
 - dolor de pecho
 - dificultad para respirar
 - debilidad intensa
-- nuevos síntomas neurologicos
+- nuevos síntomas neurológicos
 - síntomas inusuales o graves para ti
 
 El tracking en casa nunca debe ser más importante que estar seguro.
@@ -102,7 +102,7 @@ Anota:
 - si comiste recientemente
 - hidratación y electrolitos
 - sal si tu médico la sigue contigo
-- cafeina o alcohol si aplica
+- cafeína o alcohol si aplica
 - uso de compresión
 - horario de medicación, dosis olvidadas o cambios recientes
 - enfermedad, periodo, pico de dolor, mal sueño, calor o día de brote
@@ -155,7 +155,7 @@ Las notas ortostáticas tratan de como responde el cuerpo a la postura, no solo 
 Registra:
 
 - mareo o aturdimiento
-- palpitaciones o corazon acelerado
+- palpitaciones o corazón acelerado
 - temblor
 - debilidad
 - visión borrosa o en tunel
@@ -165,11 +165,11 @@ Registra:
 - sudoración, rubor o calor
 - brain fog
 - fatiga
-- presincope o desmayo
+- presíncope o desmayo
 
 Si los síntomas mejoran al acostarte, anotalo también.
 
-## No conviertas criterios en autodiagnostico
+## No conviertas criterios en autodiagnóstico
 
 Fuentes de consenso describen POTS con aumento sostenido de frecuencia cardíaca al estar de pie, síntomas de intolerancia ortostática y sin hipotensión ortostática significativa. También enfatizan interpretación clínica y descartar otras causas como deshidratación, infección, anemia, fiebre, dolor, enfermedad tiroidea, efectos de medicamentos o reposo prolongado.
 
@@ -177,7 +177,7 @@ Así que tu nota en casa no debe decir "me diagnostique".
 
 Puede decir:
 
-"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudo. Podemos revisar si esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patrón de disautonomía o algo más?"
+"Registre varios episodios de pie. Los síntomas aparecieron al estar vertical, la frecuencia cardíaca subio y acostarme ayudo. Podemos revisar si esto encaja con POTS, hipotensión ortostática, síncope vasovagal, otro patrón de disautonomía o algo más?"
 
 Esa es una mejor pregunta para la cita.
 
@@ -245,7 +245,7 @@ No diagnostica POTS ni interpreta tus lecturas. Ayuda a llevar un registro más 
 - Detén cualquier revisión en casa si te sientes inseguro.
 - No cambies sal, líquidos, compresión o medicación sin tu médico por números en casa.
 - Los episodios cotidianos son tan importantes como las lecturas estructuradas.
-- El mejor resultado es una pregunta clara para el médico, no un autodiagnostico.
+- El mejor resultado es una pregunta clara para el médico, no un autodiagnóstico.
 
 ## FAQ
 

@@ -99,7 +99,7 @@ Registre:
 - duración total
 - intensidad: fácil, moderada, difícil o demasiado
 
-Ejemplo: "10 minutos caminata lenta afuera, pequena cuesta, calor. FC máxima 132, mareo 5/10, piernas pesadas. Me sente 15 minutos; fatiga hasta la noche."
+Ejemplo: "10 minutos caminata lenta afuera, pequeña cuesta, calor. FC máxima 132, mareo 5/10, piernas pesadas. Me sente 15 minutos; fatiga hasta la noche."
 
 Eso es más útil que "el ejercicio fue malo."
 
@@ -139,7 +139,7 @@ Síntomas posibles:
 
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - falta de aire
@@ -168,7 +168,7 @@ Si ya mide, escriba:
 - cuánto tardó en bajar
 - síntomas en cada punto
 
-No empiece un control intenso si empeora síntomas o ansiedad. Una nota sencilla como "el corazon acelerado no bajo durante 30 minutos" también puede ayudar.
+No empiece un control intenso si empeora síntomas o ansiedad. Una nota sencilla como "el corazón acelerado no bajo durante 30 minutos" también puede ayudar.
 
 ## Añada Hidratación, Sal, Comida, Calor Y Sueño
 
@@ -181,7 +181,7 @@ Notas útiles:
 - sal si su clínico la recomienda
 - comida omitida
 - comida grande
-- cafeina o alcohol
+- cafeína o alcohol
 - habitación calida o día caluroso
 - enfermedad o infección
 - mal sueño
@@ -221,13 +221,13 @@ Antes de una consulta, resuma:
 - qué ayuda a recuperarse
 - cuánto dura la recuperación
 - impacto diario
-- desmayo, dolor de pecho, falta de aire intensa, preocupación por oxigeno, lesión o síntomas neurologicos nuevos
+- desmayo, dolor de pecho, falta de aire intensa, preocupación por oxigeno, lesión o síntomas neurológicos nuevos
 
 Preguntas útiles:
 
 - "Que nivel de actividad es seguro para mi ahora?"
 - "Debo registrar frecuencia cardíaca, presión o tiempo de recuperación?"
-- "Tendria más sentido actividad sentada, reclinada, acuatica o guiada por fisioterapia?"
+- "Tendría más sentido actividad sentada, reclinada, acuática o guiada por fisioterapia?"
 - "El empeoramiento diferido cambia el plan?"
 - "Que síntomas significan que debo parar o buscar atención?"
 

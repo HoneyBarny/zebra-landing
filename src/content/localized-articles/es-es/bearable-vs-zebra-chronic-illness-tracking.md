@@ -52,7 +52,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Bearable es bueno para seguimiento de enfermedad crónica?"
-    answer: "Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas."
+    answer: "Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado específicamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas."
   - question: "¿En qué se diferencia Zebra de Bearable?"
     answer: "Zebra está posicionado alrededor de la superposición de POTS, EDS y fibromialgia, seguimiento con menos fricción, contexto ortostático e informes listos para el médico."
   - question: "¿Cuál es mejor para brain fog y días malos?"
@@ -96,7 +96,7 @@ Zebra está creado alrededor del problema que muchas personas describen: tener d
 
 ## Vista lado a lado
 
-| Categoria | Bearable | Zebra |
+| Categoría | Bearable | Zebra |
 | --- | --- | --- |
 | Enfoque principal | Rastreador genérico personalizable | Rastreador específico para condiciones superpuestas |
 | Mejor para | Usuarios que quieren un sistema amplio de seguimiento | Usuarios que quieren historia lista para citas y apoyo para superposición |
@@ -128,7 +128,7 @@ Zebra encaja mejor cuando el seguimiento genérico es exactamente lo que no ha e
 
 ### ¿Bearable es bueno para seguimiento de enfermedad crónica?
 
-Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado especificamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas.
+Sí. Es un rastreador genérico fuerte. La desventaja es que no está diseñado específicamente alrededor del caso de uso de superposición de Zebra ni de su flujo de preparación de citas.
 
 ### ¿En qué se diferencia Zebra de Bearable?
 

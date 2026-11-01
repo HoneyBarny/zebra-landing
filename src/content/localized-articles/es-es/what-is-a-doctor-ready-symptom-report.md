@@ -96,9 +96,9 @@ Esto es especialmente importante para personas con:
 - historial de no sentirse escuchadas
 - varias condiciones que se solapan
 
-## Qué hace que un informe sea debil
+## Qué hace que un informe sea débil
 
-Un informe debil suele tener uno de estos problemas:
+Un informe débil suele tener uno de estos problemas:
 
 - demasiados datos en bruto
 - ningún resumen al principio

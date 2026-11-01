@@ -69,7 +69,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Los síntomas de migraña y dolor de cabeza pueden ser difíciles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la nausea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más especificos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudo y qué te impidió hacer.
+Los síntomas de migraña y dolor de cabeza pueden ser difíciles de explicar cuando el ataque ya paso. Puedes recordar el dolor, la náusea, la sensibilidad a la luz o el brain fog, pero los detalles que ayudan al médico suelen ser más específicos: con qué frecuencia pasa, cuanto dura, qué tan intenso se vuelve, qué síntomas aparecen, que medicamento tomaste, qué ayudó, que no ayudo y qué te impidió hacer.
 
 Un diario de migraña o dolor de cabeza no diagnostica migraña, cefalea tensional, cefalea en racimos, dolor de cabeza por uso excesivo de medicamentos, POTS, EDS, MCAS, Long COVID ni otra condición. Ayuda a llevar un patrón más claro al médico.
 
@@ -88,7 +88,7 @@ Registra:
 - si fue un patrón nuevo o tu patrón habitual
 - si pudiste funcionar normalmente
 
-Ejemplo: "Empezó 9:30, sien derecha y detras del ojo, pulsante 7/10, nausea y sensibilidad a la luz, acostado de 10:00 a 12:00, perdi llamada de trabajo."
+Ejemplo: "Empezó 9:30, sien derecha y detras del ojo, pulsante 7/10, náusea y sensibilidad a la luz, acostado de 10:00 a 12:00, perdi llamada de trabajo."
 
 Eso ya es más útil que "migraña fuerte."
 
@@ -98,7 +98,7 @@ Los trastornos de dolor de cabeza suelen incluir más que dolor. Mantén visible
 
 Registra si tuviste:
 
-- nausea o vomitos
+- náusea o vomitos
 - sensibilidad a la luz
 - sensibilidad al sonido
 - sensibilidad a olores
@@ -127,7 +127,7 @@ Registra:
 - si los síntomas mejoraron
 - si necesitaste otra dosis
 - efectos secundarios
-- si fue recetado, de venta libre o no farmacologico
+- si fue recetado, de venta libre o no farmacológico
 - días en que tomaste medicina para dolor o migraña
 
 No cambies medicamentos por un diario solo. Lleva el patrón al médico, especialmente si usas medicación aguda con frecuencia o no funciona bien.
@@ -155,15 +155,15 @@ Registra:
 
 - calidad del sueño
 - hora de dormir y despertar si aplica
-- comidas saltadas o tardias
-- cambios de cafeina
+- comidas saltadas o tardías
+- cambios de cafeína
 - alcohol, si aplica
 - [hidratación](/es-es/knowledge/hydration/)
 - calor o esfuerzo
 - cambios de estrés
 - enfermedad o infección
 - día del ciclo, periodo, ovulación o cambios hormonales si aplica
-- estado de brote si tienes síntomas cronicos
+- estado de brote si tienes síntomas crónicos
 
 Esto ayuda especialmente cuando los dolores de cabeza se superponen con POTS, disautonomía, EDS, fibromialgia, Long COVID o ME/CFS.
 
@@ -189,7 +189,7 @@ Anota si el dolor cambio tu capacidad para:
 
 ## Saber que cambios necesitan ayuda más rápida
 
-Busca ayuda urgente por dolor de cabeza repentino y severo, síntomas neurologicos nuevos, desmayo, confusión, fiebre con rigidez de cuello, dolor después de golpe en la cabeza, dolor con perdida visual nueva o cualquier síntoma que tu médico te haya indicado como urgente.
+Busca ayuda urgente por dolor de cabeza repentino y severo, síntomas neurológicos nuevos, desmayo, confusión, fiebre con rigidez de cuello, dolor después de golpe en la cabeza, dolor con pérdida visual nueva o cualquier síntoma que tu médico te haya indicado como urgente.
 
 También pide consejo médico si los dolores son nuevos, cambian, son más frecuentes, se desencadenan por esfuerzo o tos, empeoran con postura o aparecen con vomitos sin explicación.
 
@@ -197,7 +197,7 @@ El diario puede ayudar después. La seguridad va primero.
 
 ## Qué resumir antes de la cita
 
-Antes de una cita con medicina primaria, neurologia, cardiología, alergia o enfermedad crónica, resume:
+Antes de una cita con medicina primaria, neurología, cardiología, alergia o enfermedad crónica, resume:
 
 - número de días con dolor de cabeza al mes
 - número de días severos

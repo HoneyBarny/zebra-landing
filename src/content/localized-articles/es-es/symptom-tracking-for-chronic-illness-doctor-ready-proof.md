@@ -64,7 +64,7 @@ Muchas personas con enfermedad crónica ya rastrean algo. El problema es que el 
 
 ## Qué significa realmente "prueba lista para el médico"
 
-Prueba lista para el médico no significa un diagnóstico. No significa un grafico que lo demuestre todo. Significa un registro organizado introducido por el paciente que te ayuda a comentar:
+Prueba lista para el médico no significa un diagnóstico. No significa un gráfico que lo demuestre todo. Significa un registro organizado introducido por el paciente que te ayuda a comentar:
 
 - qué síntomas están ocurriendo
 - qué cambió recientemente
@@ -109,9 +109,9 @@ Antes de una cita, trae hacia adelante el historial útil:
 
 ### 4. Compartir
 
-Lleva un resumen limpio, no un monton de notas sin procesar.
+Lleva un resumen limpio, no un montón de notas sin procesar.
 
-Este es el paso que muchos sistemas genericos de rastreo no apoyan bien.
+Este es el paso que muchos sistemas genéricos de rastreo no apoyan bien.
 
 ## Qué rastrear si tu objetivo es prueba para citas
 
@@ -133,9 +133,9 @@ Para muchas personas con enfermedad invisible, los síntomas no solo son difíci
 
 El rastreo se vuelve más útil cuando reduce esa presión.
 
-## Cómo se ve una prueba debil
+## Cómo se ve una prueba débil
 
-Una prueba debil suele verse como:
+Una prueba débil suele verse como:
 
 - notas dispersas sin línea de tiempo
 - nombres de síntomas sin contexto
@@ -172,7 +172,7 @@ Zebra no diagnostica condiciones ni controla como respondera un médico. Ayuda a
 - El rastreo de enfermedad crónica se vuelve útil cuando se convierte en un registro usable.
 - La prueba lista para el médico trata de organización, no de certeza.
 - Las categorías más útiles son síntomas, cambios, brotes, función, medicación y preguntas.
-- Un resumen limpio ayuda más que un gran monton de notas sin procesar.
+- Un resumen limpio ayuda más que un gran montón de notas sin procesar.
 
 ## FAQ
 

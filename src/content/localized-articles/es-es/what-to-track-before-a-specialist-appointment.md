@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "what-to-track-before-a-specialist-appointment"
 title: "Como rastrear síntomas antes de una cita con especialista"
 status: "published"
-subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar que cambió, que está afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
+subtitle: "Si tienes una cita con especialista cerca, lo más útil para rastrear no es todo lo que ha pasado alguna vez. Es el historial reciente de síntomas que te ayuda a explicar qué cambió, qué está afectando la vida diaria, que has probado y que preguntas necesitas responder. El objetivo es entrar con una imagen clara, no con un diario perfecto."
 description: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 excerpt: "Aprende que rastrear antes de una cita con especialista, incluyendo síntomas, brotes, medicación, cambios de función y tus preguntas principales."
 author: "zebra-editorial"
@@ -54,7 +54,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo rastrear antes de una cita con especialista?"
-    answer: "Rastrea tus síntomas principales, cuando ocurren, que cambió, patrones de brotes, impacto funcional, cambios de medicación o suplementos, mediciones relevantes en casa y tus preguntas principales para la visita."
+    answer: "Rastrea tus síntomas principales, cuándo ocurren, qué cambió, patrones de brotes, impacto funcional, cambios de medicación o suplementos, mediciones relevantes en casa y tus preguntas principales para la visita."
   - question: "¿Cuántos días debo rastrear antes de una cita médica?"
     answer: "Si la cita es pronto, empieza ahora. Un punto práctico es enfocarte en las últimas 2 a 4 semanas, más cualquier cambio anterior que sea especialmente importante o repetido."
   - question: "¿Necesito rastrear todos los síntomas antes de una cita?"
@@ -62,7 +62,7 @@ faq:
   - question: "¿Debo llevar una lista de medicación a una cita con especialista?"
     answer: "Sí. Una lista clara de medicamentos, suplementos y cambios recientes suele ser contexto útil y puede evitar que olvides detalles clave durante la visita."
   - question: "¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?"
-    answer: "Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningún registro."
+    answer: "Usa la versión mínima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeño registro real es mejor que ningún registro."
   - question: "¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?"
     answer: "Puede ayudar anotar síntomas relacionados con la posición, brotes recientes, cambios de hidratación y sal, y observaciones relevantes de frecuencia cardíaca o presión arterial en casa. Mantén las notas simples y enfocadas en la conversación."
 ---
@@ -117,7 +117,7 @@ Tu especialista no necesita solo el nombre de un síntoma. Necesita momento y ca
 
 Rastrea:
 
-- cuando empezaron los síntomas o empeoraron
+- cuándo empezaron los síntomas o empeoraron
 - si son diarios, ocasionales o basados en brotes
 - si aparecen después de estar de pie, actividad, mal sueño, calor, comidas o estrés
 - si algo mejoró o se volvió más severo
@@ -282,9 +282,9 @@ Normalmente no necesitas:
 
 Si rastrear consume tanta energía que dejas de hacerlo, es demasiado.
 
-## Si tienes brain fog, usa la versión minima útil
+## Si tienes brain fog, usa la versión mínima útil
 
-En días de brain fog, apunta a la versión más pequena que todavía ayude después.
+En días de brain fog, apunta a la versión más pequeña que todavía ayude después.
 
 Puede ser:
 
@@ -342,10 +342,10 @@ Las preguntas son parte de la preparación de la cita, no un extra opcional.
 ## Puntos clave
 
 - Rastrea síntomas recientes, no toda tu historia de vida.
-- Enfócate en qué cambió, que afecta la vida diaria y con qué quieres ayuda.
+- Enfócate en qué cambió, qué afecta la vida diaria y con qué quieres ayuda.
 - Lleva una lista clara de medicación y tus preguntas principales.
-- Si tienes brain fog, usa la versión minima útil en lugar de perseguir notas perfectas.
-- Un historial claro de síntomas es más útil que un monton disperso de detalles.
+- Si tienes brain fog, usa la versión mínima útil en lugar de perseguir notas perfectas.
+- Un historial claro de síntomas es más útil que un montón disperso de detalles.
 
 ## FAQ
 
@@ -367,7 +367,7 @@ Sí. Una lista clara de medicamentos, suplementos y cambios recientes suele ser 
 
 ### ¿Qué pasa si tengo brain fog y no puedo mantener notas detalladas?
 
-Usa la versión minima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeno registro real es mejor que ningún registro.
+Usa la versión mínima útil: un síntoma, una nota de severidad, un cambio y una línea sobre cómo afectó tu día. Un pequeño registro real es mejor que ningún registro.
 
 ### ¿Qué pasa si estoy rastreando síntomas de POTS o disautonomía?
 

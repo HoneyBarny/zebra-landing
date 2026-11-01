@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "prepare-for-a-specialist-appointment-chronic-illness"
 title: "Como preparar una cita con un especialista cuando tienes una enfermedad crónica"
 status: "published"
-subtitle: "Preparar una cita con un especialista cuando tienes una enfermedad crónica suele consistir menos en llevar más información y más en llevar la información correcta en un formato que puedas usar de verdad. El objetivo es entrar sabiendo que cambió, que afecta a la vida diaria, que has probado y con que quieres ayuda."
+subtitle: "Preparar una cita con un especialista cuando tienes una enfermedad crónica suele consistir menos en llevar más información y más en llevar la información correcta en un formato que puedas usar de verdad. El objetivo es entrar sabiendo qué cambió, qué afecta a la vida diaria, que has probado y con que quieres ayuda."
 description: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de línea temporal."
 excerpt: "Una checklist práctica para una cita con especialista cuando tienes enfermedad crónica, con resumen de síntomas, medicación, preguntas y preparación de línea temporal."
 author: "zebra-editorial"
@@ -54,7 +54,7 @@ faq:
   - question: "¿Y si me bloqueo durante la cita?"
     answer: "Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos cuando el brain fog o el estrés dificulten hablar con claridad."
   - question: "¿Debería llevar todas las notas que he tomado?"
-    answer: "No. Un resumen corto y estructurado suele ser más útil que un monton de notas en bruto."
+    answer: "No. Un resumen corto y estructurado suele ser más útil que un montón de notas en bruto."
 ---
 
 Preparar una cita con un especialista cuando tienes una enfermedad crónica suele consistir menos en llevar más información y más en llevar la información correcta en un formato que puedas usar de verdad. El objetivo es entrar sabiendo qué cambió, qué afecta a la vida diaria, qué has probado y con qué quieres ayuda.
@@ -88,7 +88,7 @@ Hazlo lo bastante corto para poder usarlo de verdad.
 
 Un especialista suele necesitar la secuencia:
 
-- cuando empeoraron los síntomas
+- cuándo empeoraron los síntomas
 - qué pasaba al mismo tiempo
 - qué cambió en medicación, hidratación, sueño, función o rutina
 
@@ -186,4 +186,4 @@ Usa un resumen escrito de síntomas y una lista de preguntas para poder mirarlos
 
 ### ¿Debería llevar todas las notas que he tomado?
 
-No. Un resumen corto y estructurado suele ser más útil que un monton de notas en bruto.
+No. Un resumen corto y estructurado suele ser más útil que un montón de notas en bruto.

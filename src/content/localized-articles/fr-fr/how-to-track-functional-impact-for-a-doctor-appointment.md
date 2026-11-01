@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-functional-impact-for-a-doctor-appointment"
 status: "published"
 title: "Comment suivre l'impact fonctionnel pour un rendez-vous médical"
-subtitle: "L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile."
+subtitle: "L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont changé dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empêche de faire, ce qu'ils ont changé, retarde ou rendu plus difficile."
 description: "Apprenez comment suivre l'impact fonctionnel avant un rendez-vous médical pour rendre les symptômes plus faciles à expliquer avec de vrais exemples du quotidien."
 excerpt: "Un cadre pratique pour suivre comment les symptômes affectent la vie quotidienne avant un rendez-vous médical."
 author: "zebra-editorial"
@@ -40,28 +40,28 @@ secondaryKeywords:
 seoTitle: "Comment suivre l'impact fonctionnel pour un rendez-vous médical | Zebra"
 metaDescription: "Apprenez comment suivre l'impact fonctionnel avant un rendez-vous médical pour rendre les symptômes plus faciles à expliquer avec de vrais exemples du quotidien."
 ogTitle: "Comment suivre l'impact fonctionnel"
-ogDescription: "Un guide pratique pour expliquer ce que les symptômes ont change dans la vie quotidienne avant un rendez-vous médical."
+ogDescription: "Un guide pratique pour expliquer ce que les symptômes ont changé dans la vie quotidienne avant un rendez-vous médical."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un resume de symptômes pret pour le médecin."
+heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un résumé de symptômes prêt pour le médecin."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder les symptômes et l'impact fonctionnel dans un dossier pret pour le médecin."
+ctaNote: "Utilisez Zebra pour garder les symptômes et l'impact fonctionnel dans un dossier prêt pour le médecin."
 schemaTypes:
   - "Article"
   - "HowTo"
   - "FAQPage"
 faq:
   - question: "Qu'est-ce que l'impact fonctionnel dans le suivi des symptômes?"
-    answer: "L'impact fonctionnel signifie ce que les symptômes ont change dans la vie quotidienne, comme le travail, l'école, les taches domestiques, la mobilité, la concentration ou les soins personnels."
+    answer: "L'impact fonctionnel signifie ce que les symptômes ont changé dans la vie quotidienne, comme le travail, l'école, les tâches domestiques, la mobilité, la concentration ou les soins personnels."
   - question: "Pourquoi suivre l'impact fonctionnel avant un rendez-vous médical?"
-    answer: "Les exemples fonctionnels rendent les symptômes plus faciles à comprendre parce qu'ils montrent ce qui a change, pas seulement ce que vous avez ressenti."
+    answer: "Les exemples fonctionnels rendent les symptômes plus faciles à comprendre parce qu'ils montrent ce qui a changé, pas seulement ce que vous avez ressenti."
   - question: "Dois-je suivre l'impact fonctionnel chaque jour?"
-    answer: "Non. Suivre les changements clairs, les jours de poussée ou les limites repetees peut suffire pour un resume de rendez-vous utile."
+    answer: "Non. Suivre les changements clairs, les jours de poussée ou les limites répétées peut suffire pour un résumé de rendez-vous utile."
 ---
 
-L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont change dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empeche de faire, ce qu'ils ont change, retarde ou rendu plus difficile.
+L'impact fonctionnel est la partie du suivi des symptômes qui explique ce que les symptômes ont changé dans la vraie vie. Au lieu d'écrire seulement douleur, fatigue, étourdissements ou brain fog, suivez ce que ces symptômes vous ont empêche de faire, ce qu'ils ont changé, retarde ou rendu plus difficile.
 
-C'est particulierement utile avant un rendez-vous médical, car les symptômes peuvent sembler vagues quand ils sont seulement listes par nom. [L'impact fonctionnel](/fr-fr/knowledge/functional-impact/) transforme le symptôme en exemple plus clair.
+C'est particulièrement utile avant un rendez-vous médical, car les symptômes peuvent sembler vagues quand ils sont seulement listes par nom. [L'impact fonctionnel](/fr-fr/knowledge/functional-impact/) transforme le symptôme en exemple plus clair.
 
 ## Ce que signifie l'impact fonctionnel
 
@@ -73,8 +73,8 @@ Exemples:
 - besoin de m'allonger après être reste debout
 - travail, école ou plans manques
 - impossible de cuisiner, nettoyer, me deplacer ou conduire
-- difficulte à suivre une conversation
-- besoin d'aide pour des taches basiques
+- difficulté à suivre une conversation
+- besoin d'aide pour des tâches basiques
 - récupération plus lente que d'habitude
 
 Ces exemples aident à montrer la sévérité sans avoir besoin d'un langage dramatique.
@@ -88,14 +88,14 @@ Une liste de symptômes peut dire:
 - douleur
 - brain fog
 
-Cette liste est utile, mais elle n'explique pas ce qui a change.
+Cette liste est utile, mais elle n'explique pas ce qui a changé.
 
 Une note de rendez-vous plus forte dit:
 
 - la fatigue a rendu la douche et la cuisine difficiles trois jours cette semaine
 - les étourdissements sont apparus après être reste debout et m'ont force a m'asseoir
 - le brain fog a rendu difficile de finir les messages de travail
-- la douleur a change combien de temps je pouvais marcher ou rester assis droit
+- la douleur a changé combien de temps je pouvais marcher ou rester assis droit
 
 C'est plus facile à discuter.
 
@@ -106,7 +106,7 @@ Utilisez une structure simple:
 1. Symptôme
 2. Ce qu'il a affecte
 3. À quelle fréquence cela s'est produit
-4. Ce qui a change récemment
+4. Ce qui a changé récemment
 5. Quelle question vous voulez poser
 
 Vous n'avez pas besoin d'un long journal. Vous avez besoin de quelques exemples qui decrivent l'effet réel.
@@ -124,55 +124,55 @@ Les catégories utiles incluent:
 - sommeil et récupération
 - concentration
 - plans sociaux
-- taches domestiques
+- tâches domestiques
 
 Choisissez les catégories qui correspondent à votre vie et à votre rendez-vous.
 
 ## Comment le garder durable
 
-Suivez les jours ou le fonctionnement a change le plus clairement.
+Suivez les jours ou le fonctionnement a changé le plus clairement.
 
 Bons moments à noter:
 
 - jours de poussée
 - jours ou vous avez du annuler quelque chose
-- jours ou un symptôme a change votre routine
+- jours ou un symptôme a changé votre routine
 - jours ou vous avez eu besoin de plus d'aide ou de repos
 - jours ou la récupération a pris plus longtemps que d'habitude
 
-Cela garde le dossier utile sans le transformer en une autre tache à survivre.
+Cela garde le dossier utile sans le transformer en une autre tâche à survivre.
 
-## Comment le transformer en resume de rendez-vous
+## Comment le transformer en résumé de rendez-vous
 
 Avant la visite, sortez:
 
 - les trois principaux symptômes qui affectent le fonctionnement
 - les exemples les plus clairs
-- ce qui a change récemment
+- ce qui a changé récemment
 - ce que vous voulez aider à décider ensuite
 
-Cela peut devenir une partie d'un [rapport pret pour le médecin](/fr-fr/knowledge/doctor-ready-report/) ou une courte note que vous relisez avant le rendez-vous.
+Cela peut devenir une partie d'un [rapport prêt pour le médecin](/fr-fr/knowledge/doctor-ready-report/) ou une courte note que vous relisez avant le rendez-vous.
 
 ## La place de Zebra
 
-Zebra garde symptômes, poussées et impact fonctionnel ensemble, afin que votre rapport montre non seulement ce que vous avez ressenti, mais ce que les symptômes ont change dans la vie quotidienne.
+Zebra garde symptômes, poussées et impact fonctionnel ensemble, afin que votre rapport montre non seulement ce que vous avez ressenti, mais ce que les symptômes ont changé dans la vie quotidienne.
 
 ## Points clés
 
 - L'impact fonctionnel rend les symptômes plus concrets.
-- Suivez ce que les symptômes ont change, limite, retarde ou interrompu.
+- Suivez ce que les symptômes ont changé, limite, retarde ou interrompu.
 - Quelques exemples clairs peuvent être plus utiles qu'une longue liste de symptômes.
 
 ## FAQ
 
 ### Qu'est-ce que l'impact fonctionnel dans le suivi des symptômes?
 
-L'impact fonctionnel signifie ce que les symptômes ont change dans la vie quotidienne, comme le travail, l'école, les taches domestiques, la mobilité, la concentration ou les soins personnels.
+L'impact fonctionnel signifie ce que les symptômes ont changé dans la vie quotidienne, comme le travail, l'école, les tâches domestiques, la mobilité, la concentration ou les soins personnels.
 
 ### Pourquoi suivre l'impact fonctionnel avant un rendez-vous médical?
 
-Les exemples fonctionnels rendent les symptômes plus faciles à comprendre parce qu'ils montrent ce qui a change, pas seulement ce que vous avez ressenti.
+Les exemples fonctionnels rendent les symptômes plus faciles à comprendre parce qu'ils montrent ce qui a changé, pas seulement ce que vous avez ressenti.
 
 ### Dois-je suivre l'impact fonctionnel chaque jour?
 
-Non. Suivre les changements clairs, les jours de poussée ou les limites repetees peut suffire pour un resume de rendez-vous utile.
+Non. Suivre les changements clairs, les jours de poussée ou les limites répétées peut suffire pour un résumé de rendez-vous utile.

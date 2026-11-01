@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "what-is-a-symptom-journal"
 title: "Qu’est-ce qu’un journal de symptômes?"
 status: "published"
-subtitle: "Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard."
+subtitle: "Un journal de symptômes est un suivi des symptômes, des changements et du contexte associé au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard."
 description: "Comprendre ce qu’est un journal de symptômes, ce qu’il peut contenir et pourquoi la structure compte dans le suivi d’une maladie chronique."
 excerpt: "Comprendre ce qu’est un journal de symptômes, ce qu’il peut contenir et pourquoi la structure compte dans le suivi d’une maladie chronique."
 author: "zebra-editorial"
@@ -49,13 +49,13 @@ schemaTypes:
 faq:
   - question: "A quoi sert un journal de symptômes?"
     answer: "Il aide à garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile à revoir ensuite."
-  - question: "Un journal de symptômes est-il la meme chose qu’un journal intime?"
+  - question: "Un journal de symptômes est-il la même chose qu’un journal intime?"
     answer: "Pas exactement. Il peut contenir des notes, mais son objectif principal est de créer un historique de symptômes utilisable."
-  - question: "Faut-il une app dediee pour tenir un journal de symptômes?"
-    answer: "Pas toujours. Mais une app dediee peut aider si vous voulez plus de structure et une relecture plus simple."
+  - question: "Faut-il une app dédiée pour tenir un journal de symptômes?"
+    answer: "Pas toujours. Mais une app dédiée peut aider si vous voulez plus de structure et une relecture plus simple."
 ---
 
-Un journal de symptômes est un suivi des symptômes, des changements et du contexte associe au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard.
+Un journal de symptômes est un suivi des symptômes, des changements et du contexte associé au fil du temps. Il peut être aussi simple qu’une app de notes ou aussi structure qu’un tracker dedie. Le but n’est pas de tenir un journal parfait. Le but est de rendre votre histoire de symptômes plus facile à comprendre et à discuter plus tard.
 
 ## Que mettre dans un journal de symptômes?
 
@@ -63,7 +63,7 @@ Les entrées utiles incluent souvent:
 
 - symptômes
 - intensité
-- ce qui a change
+- ce qui a changé
 - notes sur les poussées
 - impact sur le fonctionnement
 - contexte de médicaments ou de routine
@@ -79,15 +79,15 @@ Un journal de symptômes peut vous aider a:
 - préparer les rendez-vous
 - expliquer a quoi ressemblaient vraiment les mauvais jours
 
-C est particulierement utile lorsque la mémoire n’est pas fiable ou que les symptômes fluctuent.
+C est particulièrement utile lorsque la mémoire n’est pas fiable ou que les symptômes fluctuent.
 
 ## Ce qui rend ce suivi difficile
 
 Les problèmes fréquents incluent:
 
 - trop d’effort
-- la surcharge face a une page vide
-- la culpabilite après des jours manques
+- la surcharge face à une page vide
+- la culpabilité après des jours manques
 - un historique disperse dans plusieurs outils
 
 C est pour cela que la structure compte.
@@ -108,10 +108,10 @@ Zebra est un journal de symptômes structure pour les personnes qui veulent que 
 
 Il aide à garder une trace plus claire des symptômes, des changements et du contexte afin que l’historique soit plus facile à revoir ensuite.
 
-### Un journal de symptômes est-il la meme chose qu’un journal intime?
+### Un journal de symptômes est-il la même chose qu’un journal intime?
 
 Pas exactement. Il peut contenir des notes, mais son objectif principal est de créer un historique de symptômes utilisable.
 
-### Faut-il une app dediee pour tenir un journal de symptômes?
+### Faut-il une app dédiée pour tenir un journal de symptômes?
 
-Pas toujours. Mais une app dediee peut aider si vous voulez plus de structure et une relecture plus simple.
+Pas toujours. Mais une app dédiée peut aider si vous voulez plus de structure et une relecture plus simple.

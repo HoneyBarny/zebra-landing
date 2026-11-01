@@ -84,7 +84,7 @@ Un registro de brotes por enfermedad e infección no diagnostica infección, POT
 
 Escriba los detalles del día de enfermedad que cambiaron su patrón normal.
 
-Registre dolor de garganta, tos, congestion, fiebre, escalofrios, síntomas digestivos, síntomas urinarios, erupción o dolor; fecha de inicio; temperatura si se midio; resultados de COVID, gripe u otras pruebas si aplica; sueño alterado; cambios de apetito; vomitos o diarrea; comidas omitidas; menos líquidos; y si ya estaba en un brote.
+Registre dolor de garganta, tos, congestión, fiebre, escalofrios, síntomas digestivos, síntomas urinarios, erupción o dolor; fecha de inicio; temperatura si se midio; resultados de COVID, gripe u otras pruebas si aplica; sueño alterado; cambios de apetito; vomitos o diarrea; comidas omitidas; menos líquidos; y si ya estaba en un brote.
 
 Ejemplo: "Día 2 de resfriado, fiebre baja, mal sueño. Mareo mucho peor al estar de pie, frecuencia cardíaca más alta que lo habitual al caminar al baño, menos líquidos por náuseas."
 
@@ -94,7 +94,7 @@ Esa nota mantiene conectado el contexto de infección con el patrón de POTS.
 
 La pregunta clave no es solo "Que síntomas tuve?", sino "Que fue diferente de lo habitual?"
 
-Compare mareo peor que la línea base, frecuencia cardíaca más alta, palpitaciones más frecuentes, más sensación de desmayo al estar de pie, niebla mental o fatiga peores, ducha más difícil, menor tiempo de pie, más tiempo en cama y recuperación más lenta después de tareas basicas.
+Compare mareo peor que la línea base, frecuencia cardíaca más alta, palpitaciones más frecuentes, más sensación de desmayo al estar de pie, niebla mental o fatiga peores, ducha más difícil, menor tiempo de pie, más tiempo en cama y recuperación más lenta después de tareas básicas.
 
 Si ya registra [síntomas de base](/es-es/knowledge/baseline-symptoms/) en Zebra, compare el día de enfermedad con ese patrón habitual.
 
@@ -110,7 +110,7 @@ No cambie líquidos, sal, medicación o suplementos basandose solo en un registr
 
 Los síntomas de POTS y disautonomía pueden verse distintos cuando el cuerpo combate una enfermedad.
 
-Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [sincope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), falta de aire, molestia en el pecho, temblor, sudoración, náuseas, dolor de cabeza, piernas pesadas, debilidad, [niebla mental](/es-es/knowledge/brain-fog/) y [fatiga](/es-es/knowledge/fatigue/).
+Registre [mareo](/es-es/knowledge/dizziness/), [aturdimiento](/es-es/knowledge/lightheadedness/), casi desmayo o [síncope](/es-es/knowledge/syncope/), pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/), [palpitaciones](/es-es/knowledge/palpitations/), falta de aire, molestia en el pecho, temblor, sudoración, náuseas, dolor de cabeza, piernas pesadas, debilidad, [niebla mental](/es-es/knowledge/brain-fog/) y [fatiga](/es-es/knowledge/fatigue/).
 
 Si los síntomas son intensos, nuevos, de un solo lado o diferentes de su patrón habitual, siga las indicaciones de su clínico sobre atención urgente.
 

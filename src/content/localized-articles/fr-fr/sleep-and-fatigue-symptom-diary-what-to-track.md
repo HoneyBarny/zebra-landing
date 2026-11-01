@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "sleep-and-fatigue-symptom-diary-what-to-track"
 title: "Journal sommeil et fatigue: quoi suivre"
 status: "published"
-subtitle: "Les notes de sommeil et fatigue sont plus utiles quand heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, brain fog, activité et fonction du lendemain restent connectes. Le but n'est pas de diagnostiquer un trouble du sommeil, mais d'apporter des motifs plus clairs au médecin."
+subtitle: "Les notes de sommeil et fatigue sont plus utiles quand heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, brain fog, activité et fonction du lendemain restent connectés. Le but n'est pas de diagnostiquer un trouble du sommeil, mais d'apporter des motifs plus clairs au médecin."
 description: "Apprenez quoi suivre dans un journal sommeil et fatigue: horaires, qualité, reveils, siestes, médicaments, caféine, douleur, brain fog, activité et fonction du lendemain."
 excerpt: "Un guide pratique pour suivre sommeil, fatigue, douleur, brain fog, siestes, médicaments, activité et impact fonctionnel."
 author: "zebra-editorial"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes et contexte du jour."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder contexte de sommeil, fatigue, brain fog, douleur, activité, médicaments et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder contexte de sommeil, fatigue, brain fog, douleur, activité, médicaments et questions pour le médecin dans une même timeline."
 categories:
   - "Symptom Tracking"
   - "Fatigue"
@@ -60,18 +60,18 @@ faq:
   - question: "Que suivre dans un journal sommeil et fatigue?"
     answer: "Notez heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, siestes, caféine ou alcool si pertinent, horaire des médicaments, douleur, brain fog, sévérité de la fatigue, activité et impact fonctionnel du lendemain."
   - question: "Combien de temps tenir un journal de sommeil avant un rendez-vous?"
-    answer: "Beaucoup de ressources suggèrent une a deux semaines, mais votre médecin peut recommander une autre durée. Un suivi court et régulier est souvent plus utile que des mois de notes dispersees."
+    answer: "Beaucoup de ressources suggèrent une a deux semaines, mais votre médecin peut recommander une autre durée. Un suivi court et régulier est souvent plus utile que des mois de notes dispersées."
   - question: "Un journal de sommeil peut-il diagnostiquer un trouble du sommeil?"
     answer: "Non. Un journal peut organiser les motifs pour un médecin, mais le diagnostic peut demander une évaluation clinique ou des tests."
   - question: "Faut-il tout noter quand on a de la fatigue?"
-    answer: "Non. Notez le minimum utile: horaires de sommeil, qualité du sommeil, fatigue du lendemain, brain fog, douleur, activité et ce qui a change votre fonction."
+    answer: "Non. Notez le minimum utile: horaires de sommeil, qualité du sommeil, fatigue du lendemain, brain fog, douleur, activité et ce qui a changé votre fonction."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Le sommeil et la [fatigue](/fr-fr/knowledge/fatigue/) sont etroitement lies pour beaucoup de personnes avec maladie chronique, mais le motif peut être difficile à expliquer de mémoire. Vous pouvez vous rappeler avoir mal dormi. Vous pouvez vous rappeler que le lendemain était terrible. La partie utile pour un médecin est souvent la timeline entre les deux: heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, [brain fog](/fr-fr/knowledge/brain-fog/), activité et fonction le lendemain.
+Le sommeil et la [fatigue](/fr-fr/knowledge/fatigue/) sont étroitement lies pour beaucoup de personnes avec maladie chronique, mais le motif peut être difficile à expliquer de mémoire. Vous pouvez vous rappeler avoir mal dormi. Vous pouvez vous rappeler que le lendemain était terrible. La partie utile pour un médecin est souvent la timeline entre les deux: heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, siestes, médicaments, caféine, douleur, [brain fog](/fr-fr/knowledge/brain-fog/), activité et fonction le lendemain.
 
-Un journal sommeil et fatigue ne diagnostique pas insomnie, apnee du sommeil, ME/CFS, fibromyalgie, Long COVID ou autre condition. Il aide à apporter un dossier plus clair a un médecin.
+Un journal sommeil et fatigue ne diagnostique pas insomnie, apnee du sommeil, ME/CFS, fibromyalgie, Long COVID ou autre condition. Il aide à apporter un dossier plus clair à un médecin.
 
 ## Commencer par la note minimale utile
 
@@ -85,7 +85,7 @@ Commencez par:
 - qualité du sommeil: mauvaise, correcte, bonne
 - nombre de reveils
 - si douleur, symptômes, toilettes, chaleur, stress ou respiration vous ont reveille
-- niveau de repos ou de non-repos au reveil
+- niveau de repos ou de non-repos au réveil
 
 Exemple: "Coucher 23:30, lever 7:10, peut-être 5,5 h, reveille 3 fois par douleur de hanche, non repose 8/10."
 
@@ -93,21 +93,21 @@ C'est suffisant pour mieux interpréter le lendemain.
 
 ## Ajouter fatigue et fonction du lendemain
 
-Les notes de sommeil sont plus utiles quand elles sont connectees au lendemain.
+Les notes de sommeil sont plus utiles quand elles sont connectées au lendemain.
 
 Notez:
 
 - fatigue du matin
-- fatigue de l'apres-midi
+- fatigue de l'après-midi
 - brain fog
 - niveau de douleur
 - vertiges ou étourdissement
-- capacité a se doucher, cuisiner, travailler, etudier, conduire, faire de l'exercice ou voir des gens
+- capacité a se doucher, cuisiner, travailler, étudier, conduire, faire de l'exercice ou voir des gens
 - besoin de s'allonger
 - besoin d'une sieste
-- crash après des taches normales
+- crash après des tâches normales
 
-Cela separe "j'ai mal dormi" de "le sommeil perturbe a change ce que je pouvais faire."
+Cela separe "j'ai mal dormi" de "le sommeil perturbe a changé ce que je pouvais faire."
 
 ## Suivre les siestes sans jugement
 
@@ -122,7 +122,7 @@ Notez:
 - si elle a affecte le sommeil de nuit
 - si elle était prevue ou inevitable
 
-Pour les maladies avec énergie limitee, une sieste inevitable peut être une note d'impact fonctionnel, pas un échec.
+Pour les maladies avec énergie limitée, une sieste inevitable peut être une note d'impact fonctionnel, pas un échec.
 
 ## Garder médicaments, caféine et alcool proches
 
@@ -132,12 +132,12 @@ Notez le contexte:
 
 - horaire de caféine
 - alcool, si pertinent
-- médicament du sommeil ou complements, si votre médecin les suit avec vous
+- médicament du sommeil ou compléments, si votre médecin les suit avec vous
 - horaire des antalgiques
 - antihistaminiques ou autres médicaments pouvant affecter la somnolence
-- doses manquees ou changements de médicaments
+- doses manquées ou changements de médicaments
 - repas tardifs ou copieux, si pertinent
-- ecrans ou taches stressantes avant le coucher, si pertinent
+- écrans ou tâches stressantes avant le coucher, si pertinent
 
 Ne changez pas les médicaments seulement selon un journal. Utilisez les notes pour une conversation médicale.
 
@@ -171,7 +171,7 @@ Utilisez cette structure:
 4. Lendemain: fatigue, brain fog, douleur, fonction.
 5. Question: que demander au rendez-vous?
 
-Le point est la regularite, pas la perfection.
+Le point est la régularité, pas la perfection.
 
 ## Quoi resumer avant le rendez-vous
 
@@ -183,15 +183,15 @@ Avant une visite, sortez:
 - pires jours de fatigue
 - si les siestes étaient nécessaires
 - symptômes qui vous ont reveille
-- si la fatigue a affecte travail, etudes, aide a un proche, conduite ou taches de base
+- si la fatigue a affecte travail, études, aide à un proche, conduite ou tâches de base
 - motifs médicaments ou caféine à discuter
-- respiration, ronflement, reveil en cherchant l'air ou symptômes urgents à mentionner
+- respiration, ronflement, réveil en cherchant l'air ou symptômes urgents à mentionner
 
 Questions utiles:
 
 - "Un problème de sommeil pourrait-il aggraver ma fatigue, douleur, brain fog ou mes vertiges?"
 - "Dois-je suivre le sommeil plus longtemps?"
-- "Certains symptômes suggèrent-ils une etude du sommeil ou autre évaluation?"
+- "Certains symptômes suggèrent-ils une étude du sommeil ou autre évaluation?"
 - "L'horaire des médicaments pourrait-il affecter le sommeil ou la fatigue diurne?"
 - "Quels symptômes sont urgents?"
 
@@ -208,15 +208,15 @@ Contexte utile:
 
 ## Où Zebra aide
 
-Zebra aide à garder contexte de sommeil, fatigue, douleur, [poussées](/fr-fr/knowledge/flare/), médicaments, déclencheurs, activité, impact fonctionnel et questions pour le médecin dans une meme timeline.
+Zebra aide à garder contexte de sommeil, fatigue, douleur, [poussées](/fr-fr/knowledge/flare/), médicaments, déclencheurs, activité, impact fonctionnel et questions pour le médecin dans une même timeline.
 
 Zebra ne diagnostique pas les troubles du sommeil ou les causes de fatigue. Il vous aide à apporter un motif sommeil-symptômes plus clair au médecin qui peut l'évaluer.
 
 ## Points clés
 
-- Les notes de sommeil sont plus utiles quand elles sont reliees à la fatigue et à la fonction du lendemain.
+- Les notes de sommeil sont plus utiles quand elles sont reliées à la fatigue et à la fonction du lendemain.
 - Notez coucher, lever, qualité, reveils, siestes, médicaments, caféine, symptômes et impact.
-- Un court journal d'une ou deux semaines peut être plus utile que de longues notes dispersees.
+- Un court journal d'une ou deux semaines peut être plus utile que de longues notes dispersées.
 - Ne traitez pas le contexte du sommeil comme une preuve de cause; utilisez-le comme contexte de rendez-vous.
 - Le meilleur résultat est une courte liste de questions et un motif que votre médecin peut revoir.
 
@@ -228,7 +228,7 @@ Notez heure du coucher, heure du lever, qualité du sommeil, reveils nocturnes, 
 
 ### Combien de temps tenir un journal de sommeil avant un rendez-vous?
 
-Beaucoup de ressources suggèrent une a deux semaines, mais votre médecin peut recommander une autre durée. Un suivi court et régulier est souvent plus utile que des mois de notes dispersees.
+Beaucoup de ressources suggèrent une a deux semaines, mais votre médecin peut recommander une autre durée. Un suivi court et régulier est souvent plus utile que des mois de notes dispersées.
 
 ### Un journal de sommeil peut-il diagnostiquer un trouble du sommeil?
 
@@ -236,7 +236,7 @@ Non. Un journal peut organiser les motifs pour un médecin, mais le diagnostic p
 
 ### Faut-il tout noter quand on a de la fatigue?
 
-Non. Notez le minimum utile: horaires de sommeil, qualité du sommeil, fatigue du lendemain, brain fog, douleur, activité et ce qui a change votre fonction.
+Non. Notez le minimum utile: horaires de sommeil, qualité du sommeil, fatigue du lendemain, brain fog, douleur, activité et ce qui a changé votre fonction.
 
 ### Zebra est-il un avis médical?
 

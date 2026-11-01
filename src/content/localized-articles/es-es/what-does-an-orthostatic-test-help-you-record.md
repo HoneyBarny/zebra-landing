@@ -109,7 +109,7 @@ Zebra trata las observaciones ortostáticas como parte de la misma historia que 
 
 - Una prueba ortostática registra como cambian los síntomas y observaciones relacionadas con la postura.
 - Es más útil cuando se guarda en el mismo registro que los síntomas y el historial reciente.
-- Apoya la comunicación y la preparación, no el autodiagnostico.
+- Apoya la comunicación y la preparación, no el autodiagnóstico.
 
 ## FAQ
 

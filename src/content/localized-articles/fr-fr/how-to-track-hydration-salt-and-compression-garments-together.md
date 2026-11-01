@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-hydration-salt-and-compression-garments-together"
 status: "published"
 title: "Comment suivre hydratation, sel et vêtements de compression ensemble"
-subtitle: "L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, à la tolerance en position debout et a l'historique des poussées. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journée. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous."
+subtitle: "L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes séparées, mais ils sont plus utiles quand ils restent connectés aux symptômes, à la tolerance en position debout et a l'historique des poussées. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journée. Il est de garder assez de contexte pour revoir ce qui a changé avant un rendez-vous."
 description: "Apprenez comment suivre hydratation, sel, vêtements de compression, symptômes et tolerance en position debout ensemble sans transformer le dossier en travail supplémentaire."
 excerpt: "Un guide pratique pour suivre hydratation, sel, vêtements de compression et contexte des symptômes dans un dossier utile de maladie chronique."
 author: "zebra-editorial"
@@ -42,12 +42,12 @@ secondaryKeywords:
 seoTitle: "Comment suivre hydratation, sel et vêtements de compression | Zebra"
 metaDescription: "Apprenez comment suivre hydratation, sel, vêtements de compression, symptômes et tolerance en position debout ensemble sans créer plus de travail."
 ogTitle: "Comment suivre hydratation, sel et vêtements de compression"
-ogDescription: "Un guide pratique pour garder les strategies de soutien quotidiennes connectees a l'historique des symptômes et des rendez-vous."
+ogDescription: "Un guide pratique pour garder les strategies de soutien quotidiennes connectées a l'historique des symptômes et des rendez-vous."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Écran de resume Zebra montrant le contexte quotidien des symptômes et les profils."
+heroImageAlt: "Écran de résumé Zebra montrant le contexte quotidien des symptômes et les profils."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder hydratation, sel, soutiens, symptômes et poussées dans la meme chronologie."
+ctaNote: "Utilisez Zebra pour garder hydratation, sel, soutiens, symptômes et poussées dans la même chronologie."
 schemaTypes:
   - "Article"
   - "HowTo"
@@ -61,7 +61,7 @@ faq:
     answer: "Le suivi peut montrer du contexte et des profils à discuter avec un clinicien, mais il ne doit pas être traite comme une preuve ou un conseil médical."
 ---
 
-L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes separees, mais ils sont plus utiles quand ils restent connectes aux symptômes, à la tolerance en position debout et a l'historique des poussées. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journée. Il est de garder assez de contexte pour revoir ce qui a change avant un rendez-vous.
+L'hydratation, le sel et les vêtements de compression sont souvent suivis comme des habitudes séparées, mais ils sont plus utiles quand ils restent connectés aux symptômes, à la tolerance en position debout et a l'historique des poussées. Le but n'est pas de prouver ce qui a cause une meilleure ou une pire journée. Il est de garder assez de contexte pour revoir ce qui a changé avant un rendez-vous.
 
 Pour les personnes qui suivent le [POTS](/fr-fr/knowledge/pots/), la [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [l'intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), les routines de soutien peuvent compter parce que les symptômes changent souvent avec la position, l'activité, les liquides, la chaleur, le sommeil et le stress quotidien. Un dossier simple peut vous aider à discuter de ces changements sans reconstruire tout le mois de mémoire.
 
@@ -90,7 +90,7 @@ Par exemple:
 - Les symptômes ont-ils change quand la chaleur, le sommeil ou l'activité ont aussi change?
 - Avez-vous porte des vêtements de compression pendant la période que vous essayez de resumer?
 
-Ces notes ne prouvent pas une cause. Elles donnent à votre equipe de soins une image plus claire de ce qui s'est passe autour des symptômes.
+Ces notes ne prouvent pas une cause. Elles donnent à votre équipe de soins une image plus claire de ce qui s'est passé autour des symptômes.
 
 ## Comment éviter le sursuivi
 
@@ -125,16 +125,16 @@ Les changements comptent généralement plus que des totaux parfaits.
 Avant une visite, cherchez:
 
 - les jours ou les symptômes en position debout étaient pires
-- les routines de soutien qui ont change autour de ces jours
+- les routines de soutien qui ont changé autour de ces jours
 - les profils repetes
 - les questions que vous voulez poser
 - tout ce que vous ne voulez pas oublier
 
-L'objectif est un court resume de rendez-vous, pas un long tableur.
+L'objectif est un court résumé de rendez-vous, pas un long tableur.
 
 ## La place de Zebra
 
-Zebra aide à garder hydratation, sel, contexte de compression, symptômes, poussées, médicaments et notes dans une chronologie afin que votre routine quotidienne ne soit pas separee de l'histoire des symptômes que vous devez expliquer.
+Zebra aide à garder hydratation, sel, contexte de compression, symptômes, poussées, médicaments et notes dans une chronologie afin que votre routine quotidienne ne soit pas séparée de l'histoire des symptômes que vous devez expliquer.
 
 ## Points clés
 

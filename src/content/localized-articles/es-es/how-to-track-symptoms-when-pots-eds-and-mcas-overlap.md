@@ -53,7 +53,7 @@ entities:
 secondaryKeywords: 
   - "POTS EDS MCAS superposición"
   - "hEDS POTS MCAS síntomas"
-  - "registrar síntomas cronicos superpuestos"
+  - "registrar síntomas crónicos superpuestos"
   - "tracker de síntomas para POTS EDS MCAS"
 schemaTypes: 
   - "Article"
@@ -67,7 +67,7 @@ faq:
   - question: "¿Debo registrar desencadenantes como prueba?"
     answer: "No. Registra desencadenantes como contexto. Una nota de que calor, comida, estar de pie, estrés, infección, cambio de medicación o actividad ocurrieron cerca de un brote puede ser útil sin afirmar causa."
   - question: "¿Cómo mantengo el registro manejable con brain fog?"
-    answer: "Usa una estructura diaria corta: que cambió, que tan fuerte fue, que había cerca y que te impidió hacer."
+    answer: "Usa una estructura diaria corta: qué cambió, qué tan fuerte fue, que había cerca y qué te impidió hacer."
   - question: "¿Zebra diagnostica POTS, EDS o MCAS?"
     answer: "No. Zebra ayuda a organizar historial introducido por la persona para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -174,7 +174,7 @@ Si necesitas la versión específica para citas, usa la [Checklist de síntomas 
 
 ## Contexto de fuentes
 
-The Ehlers-Danlos Society senala que hEDS puede afectar muchos sistemas del cuerpo y habla de síntomas de MCAS como respuestas alergicas, síntomas GI y problemas de vejiga en su página educativa sobre hEDS. Fuentes de PubMed y PMC también describen interes clínico en la relación entre hEDS, POTS y MCAS, mientras enfatizan que las definiciones y la evidencia pueden ser complejas.
+The Ehlers-Danlos Society senala que hEDS puede afectar muchos sistemas del cuerpo y habla de síntomas de MCAS como respuestas alérgicas, síntomas GI y problemas de vejiga en su página educativa sobre hEDS. Fuentes de PubMed y PMC también describen interes clínico en la relación entre hEDS, POTS y MCAS, mientras enfatizan que las definiciones y la evidencia pueden ser complejas.
 
 Lectura útil:
 

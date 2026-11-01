@@ -19,7 +19,7 @@ metaDescription: "Apprenez comment transformer le suivi des symptômes en preuve
 ogTitle: "Suivi des symptômes pour maladie chronique"
 ogDescription: "Un cadre calme et pratique pour transformer le suivi des symptômes en quelque chose d'utile avant les rendez-vous."
 heroImage: "/screenshots/today-summary.png"
-heroImageAlt: "Diagramme montrant un cadre en quatre etapes pour transformer le suivi des symptômes en resume pret pour le médecin"
+heroImageAlt: "Diagramme montrant un cadre en quatre étapes pour transformer le suivi des symptômes en résumé prêt pour le médecin"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Commencez à créer une preuve prête pour le médecin dans Zebra."
@@ -49,7 +49,7 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Qu'est-ce qu'une preuve prête pour le médecin?"
-    answer: "Une preuve prête pour le médecin est un resume organise d'un historique saisi par le patient, qui aide à expliquer les symptômes, changements et questions avant un rendez-vous."
+    answer: "Une preuve prête pour le médecin est un résumé organise d'un historique saisi par le patient, qui aide à expliquer les symptômes, changements et questions avant un rendez-vous."
   - question: "Dois-je suivre tous les symptômes chaque jour?"
     answer: "Non. Suivez les symptômes et le contexte les plus susceptibles d'aider à comprendre les changements et à préparer les rendez-vous."
   - question: "Qu'est-ce qui rend un rapport de symptômes utile?"
@@ -67,7 +67,7 @@ Beaucoup de personnes avec une maladie chronique suivent déjà quelque chose. L
 Une preuve prête pour le médecin ne signifie pas un diagnostic. Elle ne signifie pas un seul graphique qui prouve tout. Elle signifie un dossier organise saisi par le patient qui aide à discuter:
 
 - quels symptômes se produisent
-- ce qui a change récemment
+- ce qui a changé récemment
 - ce qui affecte la vie quotidienne
 - ce qui a été essaye
 - quelles questions attendent encore une réponse
@@ -90,7 +90,7 @@ Notez les choses les plus susceptibles de compter plus tard:
 
 ### 2. Comprendre
 
-Cherchez ce qui a change, pas seulement ce qui existe.
+Cherchez ce qui a changé, pas seulement ce qui existe.
 
 Exemples:
 
@@ -109,9 +109,9 @@ Avant un rendez-vous, faites ressortir l'historique utile:
 
 ### 4. Partager
 
-Apportez un resume clair, pas une pile de notes brutes.
+Apportez un résumé clair, pas une pile de notes brutes.
 
-C'est l'étape que beaucoup de systèmes de suivi generiques soutiennent mal.
+C'est l'étape que beaucoup de systèmes de suivi génériques soutiennent mal.
 
 ## Que suivre si votre but est une preuve pour rendez-vous
 
@@ -129,7 +129,7 @@ Vous n'avez pas besoin d'un journal parfait de tout le corps. Vous avez besoin d
 
 ## Pourquoi la preuve compte autant dans la maladie chronique
 
-Pour beaucoup de personnes avec une maladie invisible, les symptômes ne sont pas seulement difficiles à gérer. Ils sont difficiles à décrire d'une façon qui tient dans un rendez-vous court. Le brain fog, le rejet, les visites pressees et l'historique fragmente rendent facile de repartir avec l'impression que la partie importante n'a jamais été dite.
+Pour beaucoup de personnes avec une maladie invisible, les symptômes ne sont pas seulement difficiles à gérer. Ils sont difficiles à décrire d'une façon qui tient dans un rendez-vous court. Le brain fog, le rejet, les visites pressées et l'historique fragmente rendent facile de repartir avec l'impression que la partie importante n'a jamais été dite.
 
 Le suivi devient plus utile quand il réduit cette pression.
 
@@ -137,21 +137,21 @@ Le suivi devient plus utile quand il réduit cette pression.
 
 Une preuve faible ressemble souvent a:
 
-- notes dispersees sans chronologie
+- notes dispersées sans chronologie
 - noms de symptômes sans contexte
-- aucun dossier de ce qui a change
+- aucun dossier de ce qui a changé
 - aucun historique de médicaments
 - aucun impact fonctionnel
-- questions rappelees trop tard
+- questions rappelées trop tard
 
-Cela ne signifie pas que le suivi était inutile. Cela signifie que le dossier n'a jamais été organise pour le moment où il devait être utilise.
+Cela ne signifie pas que le suivi était inutile. Cela signifie que le dossier n'a jamais été organise pour le moment où il devait être utilisé.
 
 ## A quoi ressemble une preuve plus forte
 
 Une preuve plus forte inclut généralement:
 
 - une chronologie récente
-- des changements de symptômes resumes clairement
+- des changements de symptômes résumés clairement
 - l'historique des poussées
 - ce qui a été affecte dans la vie quotidienne
 - médicaments pertinents ou changements de routine
@@ -161,9 +161,9 @@ Elle est plus facile à relire, plus facile à discuter et moins dependante d'un
 
 ## La place de Zebra
 
-Zebra est construit autour de ce flux exact. Le but n'est pas seulement de noter les symptômes. Le but est de garder ensemble l'historique des symptômes, les poussées, le fonctionnement, les médicaments, l'hydratation et les observations liées, afin qu'ils puissent devenir plus tard un rapport pret pour le médecin.
+Zebra est construit autour de ce flux exact. Le but n'est pas seulement de noter les symptômes. Le but est de garder ensemble l'historique des symptômes, les poussées, le fonctionnement, les médicaments, l'hydratation et les observations liées, afin qu'ils puissent devenir plus tard un rapport prêt pour le médecin.
 
-Cette meme approche est au coeur de la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/), pensee pour les journées a faible énergie et le brain fog.
+Cette même approche est au coeur de la page [suivi pour maladie invisible](/fr-fr/symptom-tracker-for-invisible-illness/), pensée pour les journées a faible énergie et le brain fog.
 
 Zebra ne diagnostique pas les conditions et ne controle pas la reaction d'un médecin. Il aide à organiser l'historique saisi par le patient pour rendre la conversation plus facile à préparer.
 
@@ -172,13 +172,13 @@ Zebra ne diagnostique pas les conditions et ne controle pas la reaction d'un mé
 - Le suivi des maladies chroniques devient utile quand il devient un dossier utilisable.
 - Une preuve prête pour le médecin concerne l'organisation, pas la certitude.
 - Les catégories les plus utiles sont symptômes, changements, poussées, fonctionnement, médicaments et questions.
-- Un resume clair aide plus qu'une grande pile de notes brutes.
+- Un résumé clair aide plus qu'une grande pile de notes brutes.
 
 ## FAQ
 
 ### Qu'est-ce qu'une preuve prête pour le médecin?
 
-Une preuve prête pour le médecin est un resume organise d'un historique saisi par le patient, qui aide à expliquer les symptômes, changements et questions avant un rendez-vous.
+Une preuve prête pour le médecin est un résumé organise d'un historique saisi par le patient, qui aide à expliquer les symptômes, changements et questions avant un rendez-vous.
 
 ### Dois-je suivre tous les symptômes chaque jour?
 

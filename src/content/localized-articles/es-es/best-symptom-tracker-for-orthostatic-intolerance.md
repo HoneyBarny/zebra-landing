@@ -72,7 +72,7 @@ El mejor rastreador debería ayudarte a responder preguntas como:
 
 - ¿Qué síntomas empeoran cuando estoy de pie?
 - ¿Qué parece mejorar cuando me tumbo?
-- ¿Qué más ocurria ese día?
+- ¿Qué más ocurría ese día?
 - ¿Se repitió el patrón?
 - ¿Puedo revisarlo antes de una cita sin reconstruirlo?
 
@@ -101,7 +101,7 @@ Su encaje actual es más fuerte cuando quieres:
 
 Si tu problema principal es "se que los síntomas al estar de pie importan, pero no puedo explicar todo el patrón después", Zebra encaja directamente con ese problema.
 
-## Notas, hojas de cálculo y rastreadores genericos
+## Notas, hojas de cálculo y rastreadores genéricos
 
 Las herramientas más simples aun pueden funcionar si solo necesitas captura a corto plazo.
 
@@ -111,7 +111,7 @@ Son un punto de partida razonable si:
 - haces un seguimiento ligero
 - ya tienes un sistema de revisión que funciona
 
-La desventaja es que la historia de intolerancia ortostática suele depender de la conexion entre:
+La desventaja es que la historia de intolerancia ortostática suele depender de la conexión entre:
 
 - síntomas
 - postura

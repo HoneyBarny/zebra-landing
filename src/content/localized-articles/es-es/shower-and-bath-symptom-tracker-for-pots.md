@@ -75,7 +75,7 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazon acelerado, náuseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
+Para algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, migraña o enfermedad crónica, ducharse no es una tarea diaria sencilla. Una ducha caliente puede traer mareo, corazón acelerado, náuseas, debilidad, sudoración, piernas temblorosas, dolor de cabeza, niebla mental o necesidad de acostarse después.
 
 Un registro de síntomas de ducha no diagnostica POTS, disautonomía, enfermedad por calor, efectos secundarios de medicación, ansiedad ni ninguna otra condición. Le ayuda a llevar un patrón cotidiano más claro a su clínico: qué tipo de ducha o baño desencadenó síntomas, qué ocurrió, qué ayudó y cuánto duró la recuperación.
 
@@ -86,7 +86,7 @@ No necesita un registro perfecto del baño. Empiece por los detalles que pueden 
 Registre:
 
 - ducha, baño, lavado de pelo, baño más ducha o lavado en lavabo
-- temperatura del agua: fria, templada, calida, caliente
+- temperatura del agua: fría, templada, calida, caliente
 - temperatura del baño o vapor
 - duración de la ducha
 - de pie, sentado o alternando
@@ -98,7 +98,7 @@ Registre:
 - horario de medicación
 - si ya estaba en un brote
 
-Ejemplo: "Ducha calida, 14 minutos, de pie todo el tiempo, lave el pelo. Mareo desde el minuto 8. Corazon acelerado después. Necesite 35 minutos acostada antes de poder vestirme."
+Ejemplo: "Ducha calida, 14 minutos, de pie todo el tiempo, lave el pelo. Mareo desde el minuto 8. Corazón acelerado después. Necesite 35 minutos acostada antes de poder vestirme."
 
 Ese tipo de nota es más fácil de revisar que "las duchas son horribles."
 
@@ -118,7 +118,7 @@ El patrón puede incluir:
 - horario de medicación
 - regla, infección, migraña o día de brote
 
-Use frases como "agua caliente más estar de pie" o "lavado de pelo más movimiento de brazos" en vez de decidir la causa demasiado pronto. Así la nota sigue siendo útil sin convertirse en autodiagnostico.
+Use frases como "agua caliente más estar de pie" o "lavado de pelo más movimiento de brazos" en vez de decidir la causa demasiado pronto. Así la nota sigue siendo útil sin convertirse en autodiagnóstico.
 
 ## Registre Síntomas Durante Y Después
 
@@ -128,7 +128,7 @@ Registre si noto:
 
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - náuseas
@@ -158,7 +158,7 @@ Notas posibles:
 - después de enfriarse
 - cuando los síntomas volvieron a la línea base
 
-No intente tomar mediciones en un baño resbaladizo si no es seguro. Una nota sencilla como "senti el corazon acelerado después de 10 minutos de pie en ducha calida" también sirve.
+No intente tomar mediciones en un baño resbaladizo si no es seguro. Una nota sencilla como "senti el corazón acelerado después de 10 minutos de pie en ducha calida" también sirve.
 
 ## Registre Lo Que Ayudó
 
@@ -199,7 +199,7 @@ Anote:
 
 ## Qué Resumir Antes De La Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitación, resuma:
+Antes de una consulta de atención primaria, cardiología, neurología, disautonomía, Long COVID, EDS o rehabilitación, resuma:
 
 - con qué frecuencia la ducha desencadena síntomas
 - si los banos son distintos de las duchas

@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-brain-fog-symptoms-for-a-doctor-appointment"
 status: "published"
 title: "Comment suivre les symptômes de brain fog pour un rendez-vous médical"
-subtitle: "Pour suivre les symptômes de brain fog pour un rendez-vous médical, concentrez-vous sur le moment où cela arrive, l'effet sur la vie quotidienne, ce qui a change autour et la fréquence d'apparition. Le brain fog est difficile à expliquer quand il reste abstrait. Il devient plus facile à discuter quand vous pouvez montrer ce qu'il a vraiment fait à votre journée."
+subtitle: "Pour suivre les symptômes de brain fog pour un rendez-vous médical, concentrez-vous sur le moment où cela arrive, l'effet sur la vie quotidienne, ce qui a changé autour et la fréquence d'apparition. Le brain fog est difficile à expliquer quand il reste abstrait. Il devient plus facile à discuter quand vous pouvez montrer ce qu'il a vraiment fait à votre journée."
 description: "Apprenez comment suivre les symptômes de brain fog, les changements de fonctionnement et le contexte pour rendre l'historique plus facile à expliquer aux rendez-vous."
 excerpt: "Apprenez comment suivre les symptômes de brain fog, les changements de fonctionnement et le contexte pour rendre l'historique plus facile à expliquer aux rendez-vous."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Modele de suivi du brain fog centre sur le moment, la sévérité et l'impact fonctionnel"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder le brain fog et les changements de fonctionnement dans le meme historique."
+ctaNote: "Utilisez Zebra pour garder le brain fog et les changements de fonctionnement dans le même historique."
 featured: false
 categories:
   - "Brain Fog"
@@ -51,13 +51,13 @@ schemaTypes:
 faq:
   - question: "Comment suivre le brain fog pour un rendez-vous médical?"
     answer: "Suivez quand il arrive, à quelle fréquence il arrive, ce qu'il affecte et quels autres symptômes ou changements sont apparus autour."
-  - question: "Que dire a un médecin au sujet du brain fog?"
-    answer: "Utilisez des exemples concrets de ce que cela a change dans la vie quotidienne, pas seulement l'etiquette elle-meme."
-  - question: "Dois-je suivre chaque episode de brain fog?"
-    answer: "Pas forcement. Un dossier des episodes plus forts ou repetes suffit souvent à rendre le profil plus clair."
+  - question: "Que dire à un médecin au sujet du brain fog?"
+    answer: "Utilisez des exemples concrets de ce que cela a changé dans la vie quotidienne, pas seulement l'étiquette elle-même."
+  - question: "Dois-je suivre chaque épisode de brain fog?"
+    answer: "Pas forcément. Un dossier des épisodes plus forts ou repetes suffit souvent à rendre le profil plus clair."
 ---
 
-Pour suivre les symptômes de brain fog pour un rendez-vous médical, concentrez-vous sur le moment où cela arrive, l'effet sur la vie quotidienne, ce qui a change autour et la fréquence d'apparition. Le brain fog est difficile à expliquer quand il reste abstrait. Il devient plus facile à discuter quand vous pouvez montrer ce qu'il a vraiment fait à votre journée.
+Pour suivre les symptômes de brain fog pour un rendez-vous médical, concentrez-vous sur le moment où cela arrive, l'effet sur la vie quotidienne, ce qui a changé autour et la fréquence d'apparition. Le brain fog est difficile à expliquer quand il reste abstrait. Il devient plus facile à discuter quand vous pouvez montrer ce qu'il a vraiment fait à votre journée.
 
 ## Que suivre
 
@@ -72,21 +72,21 @@ Un suivi utile du brain fog peut inclure:
 Exemples d'impact fonctionnel:
 
 - impossible de finir le travail
-- oubli de taches basiques
-- difficulte à suivre les conversations
+- oubli de tâches basiques
+- difficulté à suivre les conversations
 - besoin de plus de repos
 - impossible de conduire avec confiance
 
 ## Pourquoi le fonctionnement compte autant
 
-Si le brain fog est seulement décrit comme "ma pensee était bizarre", cela peut ne pas montrer à quel point il a été perturbant. L'impact fonctionnel rend le symptôme plus concret.
+Si le brain fog est seulement décrit comme "ma pensée était bizarre", cela peut ne pas montrer à quel point il a été perturbant. L'impact fonctionnel rend le symptôme plus concret.
 
 ## Gardez le dossier simple
 
 Vous n'avez pas besoin d'un long paragraphe à chaque fois. Une bonne entrée peut être:
 
 - brain fog pire que d'habitude
-- commence en fin de matinee
+- commence en fin de matinée
 - après un mauvais sommeil
 - impossible de me concentrer assez pour finir les e-mails
 
@@ -117,13 +117,13 @@ Cela transforme le brain fog d'une plainte vague en historique plus clair.
 
 ## La place de Zebra
 
-Zebra aide à garder le brain fog dans le meme dossier que les symptômes, les poussées, le fonctionnement et les autres changements, afin qu'il soit plus facile à revoir avant un rendez-vous.
+Zebra aide à garder le brain fog dans le même dossier que les symptômes, les poussées, le fonctionnement et les autres changements, afin qu'il soit plus facile à revoir avant un rendez-vous.
 
 ## Points clés
 
-- Suivez quand le brain fog arrive, ce qui a change et ce qu'il a affecte.
+- Suivez quand le brain fog arrive, ce qui a changé et ce qu'il a affecte.
 - L'impact fonctionnel rend généralement le symptôme plus facile à expliquer.
-- Gardez les entrées assez courtes pour les utiliser meme quand penser est plus difficile.
+- Gardez les entrées assez courtes pour les utiliser même quand penser est plus difficile.
 
 ## FAQ
 
@@ -131,10 +131,10 @@ Zebra aide à garder le brain fog dans le meme dossier que les symptômes, les p
 
 Suivez quand il arrive, à quelle fréquence il arrive, ce qu'il affecte et quels autres symptômes ou changements sont apparus autour.
 
-### Que dire a un médecin au sujet du brain fog?
+### Que dire à un médecin au sujet du brain fog?
 
-Utilisez des exemples concrets de ce que cela a change dans la vie quotidienne, pas seulement l'etiquette elle-meme.
+Utilisez des exemples concrets de ce que cela a changé dans la vie quotidienne, pas seulement l'étiquette elle-même.
 
-### Dois-je suivre chaque episode de brain fog?
+### Dois-je suivre chaque épisode de brain fog?
 
-Pas forcement. Un dossier des episodes plus forts ou repetes suffit souvent à rendre le profil plus clair.
+Pas forcément. Un dossier des épisodes plus forts ou repetes suffit souvent à rendre le profil plus clair.

@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "meal-and-gi-symptom-tracker-for-pots-and-eds"
 title: "Tracker de comidas y síntomas GI para POTS y EDS"
 status: "published"
-subtitle: "Las notas de comidas y síntomas GI son más útiles cuando horario de comida, nausea, hinchazón, reflujo, cambios intestinales, frecuencia cardíaca, mareo, hidratación, sal, medicamentos y recuperación quedan conectados. El objetivo no es probar un desencadenante alimentario, sino llevar patrones más claros al médico."
-description: "Aprende que registrar en un tracker de comidas y síntomas GI para POTS, EDS y disautonomía: horario, nausea, hinchazón, reflujo, intestino, frecuencia cardíaca, hidratación, sal, medicamentos y recuperación."
-excerpt: "Una guía práctica para registrar síntomas después de comer, nausea, hinchazón, reflujo, cambios intestinales, frecuencia cardíaca, mareo, hidratación, sal, medicamentos e impacto funcional."
+subtitle: "Las notas de comidas y síntomas GI son más útiles cuando horario de comida, náusea, hinchazón, reflujo, cambios intestinales, frecuencia cardíaca, mareo, hidratación, sal, medicamentos y recuperación quedan conectados. El objetivo no es probar un desencadenante alimentario, sino llevar patrones más claros al médico."
+description: "Aprende que registrar en un tracker de comidas y síntomas GI para POTS, EDS y disautonomía: horario, náusea, hinchazón, reflujo, intestino, frecuencia cardíaca, hidratación, sal, medicamentos y recuperación."
+excerpt: "Una guía práctica para registrar síntomas después de comer, náusea, hinchazón, reflujo, cambios intestinales, frecuencia cardíaca, mareo, hidratación, sal, medicamentos e impacto funcional."
 author: "zebra-editorial"
 publishedAt: "2026-08-09"
 updatedAt: "2026-08-09"
@@ -16,7 +16,7 @@ cluster: "Dysautonomia"
 category: "Symptom Tracking"
 primaryKeyword: "tracker de comidas y síntomas GI"
 seoTitle: "Tracker de comidas y síntomas GI para POTS y EDS | Zebra"
-metaDescription: "Registra comida, nausea, hinchazón, reflujo, intestino, frecuencia cardíaca, mareo, hidratación, sal, medicamentos y recuperación."
+metaDescription: "Registra comida, náusea, hinchazón, reflujo, intestino, frecuencia cardíaca, mareo, hidratación, sal, medicamentos y recuperación."
 ogTitle: "Tracker de comidas y síntomas GI para POTS y EDS"
 ogDescription: "Registra síntomas después de comer, cambios GI, contexto ortostático, hidratación, sal, medicamentos y recuperación."
 heroImage: "/screenshots/daily-tracking.png"
@@ -64,9 +64,9 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar si los síntomas empeoran después de comer?"
-    answer: "Registra hora de comida, tamano aproximado, síntomas, tiempo después de comer, mareo, frecuencia cardíaca o presión arterial si ya las mides, nausea, hinchazón, reflujo, cambios intestinales, hidratación, sal, medicamentos y recuperación."
+    answer: "Registra hora de comida, tamano aproximado, síntomas, tiempo después de comer, mareo, frecuencia cardíaca o presión arterial si ya las mides, náusea, hinchazón, reflujo, cambios intestinales, hidratación, sal, medicamentos y recuperación."
   - question: "¿Un tracker de comidas puede probar un desencadenante alimentario?"
-    answer: "No. Un tracker puede mostrar patrones para comentar, pero no puede probar un desencadenante alimentario ni diagnosticar una condición GI, alergica, autonómica o mastocitaria."
+    answer: "No. Un tracker puede mostrar patrones para comentar, pero no puede probar un desencadenante alimentario ni diagnosticar una condición GI, alérgica, autonómica o mastocitaria."
   - question: "¿Debo registrar cada ingrediente?"
     answer: "Normalmente no. Empieza con horario, tamano de la comida, cambios importantes, síntomas y recuperación. Registra ingredientes si tu médico lo pide o si aparece un patrón repetido."
   - question: "¿Por qué los síntomas de POTS a veces se sienten peor después de comer?"
@@ -75,7 +75,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Las comidas pueden cambiar síntomas en personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [EDS](/es-es/knowledge/eds/), reacciones tipo MCAS, reflujo, nausea, cambios intestinales, migraña o fatiga. Lo difícil es que el patrón muchas veces no es solo "comida". Horario, postura, hidratación, sal, medicamentos, calor, actividad, estrés y estado de brote pueden estar al lado de la comida.
+Las comidas pueden cambiar síntomas en personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [EDS](/es-es/knowledge/eds/), reacciones tipo MCAS, reflujo, náusea, cambios intestinales, migraña o fatiga. Lo difícil es que el patrón muchas veces no es solo "comida". Horario, postura, hidratación, sal, medicamentos, calor, actividad, estrés y estado de brote pueden estar al lado de la comida.
 
 Un tracker de comidas y síntomas GI no es una dieta y no puede diagnosticar intolerancia alimentaria, alergia, gastroparesia, MCAS, IBS, POTS, EDS ni otra condición. Ayuda a llevar una línea de tiempo más clara al médico que puede evaluarlo.
 
@@ -86,14 +86,14 @@ No necesitas registrar cada ingrediente al principio.
 Empieza con:
 
 - hora de comida o snack
-- tamano aproximado: pequeno, normal, grande
+- tamano aproximado: pequeño, normal, grande
 - si después estabas sentado, de pie o acostado
-- cuando empezaron los síntomas
+- cuándo empezaron los síntomas
 - cuánto duraron
 - si mejoraron con descanso, líquidos, sal, medicamentos o tiempo
 - qué dejaron de permitirte hacer
 
-Ejemplo: "Almuerzo 12:20, comida grande, sentado después. A las 12:50 nausea 6/10, corazon acelerado, mareo al estar de pie. Me acoste 30 minutos, mejoró hacia las 14:00."
+Ejemplo: "Almuerzo 12:20, comida grande, sentado después. A las 12:50 náusea 6/10, corazón acelerado, mareo al estar de pie. Me acoste 30 minutos, mejoró hacia las 14:00."
 
 Eso le da al médico una secuencia, no solo un recuerdo difuso.
 
@@ -101,16 +101,16 @@ Eso le da al médico una secuencia, no solo un recuerdo difuso.
 
 Usa etiquetas fáciles de revisar:
 
-- nausea
+- náusea
 - hinchazón
-- dolor abdominal o colicos
+- dolor abdominal o cólicos
 - reflujo o ardor
 - llenura temprana
 - vomitos
 - diarrea
 - estrenimiento
 - urgencia para ir al baño
-- perdida de apetito
+- pérdida de apetito
 - dificultad para terminar comidas
 
 Añade severidad solo si ayuda. Una escala de 0 a 10 puede funcionar, pero una nota funcional suele ser más útil: "no pude terminar el almuerzo", "perdi clase", "necesite baño urgente" o "no pude conducir después de cenar."
@@ -130,7 +130,7 @@ Registra si después de comer hubo:
 - debilidad
 - brain fog
 - necesidad de sentarte o acostarte
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 
 Si ya mides frecuencia cardíaca o presión arterial como parte de tu plan de cuidado, anota el número y la posición: acostado, sentado o de pie. No empieces monitoreo intenso si empeora síntomas o ansiedad; pregunta al médico qué es útil.
 
@@ -143,7 +143,7 @@ Contexto útil:
 - agua o electrolitos antes de la comida
 - sal si tu médico la recomendo
 - líquidos olvidados
-- cafeina o alcohol
+- cafeína o alcohol
 - prendas de compresión
 - horario de medicamentos
 - dosis olvidadas o cambios recientes
@@ -185,11 +185,11 @@ La recuperación importa porque un síntoma GI leve que causa un crash de dos ho
 
 ## Qué resumir antes de la cita
 
-Antes de una cita con gastroenterologia, cardiología, medicina primaria, alergia o EDS, resume:
+Antes de una cita con gastroenterología, cardiología, medicina primaria, alergia o EDS, resume:
 
 - síntomas que pasan más seguido después de comer
 - tiempo desde comida hasta inicio de síntomas
-- si comidas grandes son distintas a comidas pequenas
+- si comidas grandes son distintas a comidas pequeñas
 - si estar de pie después de comer empeora síntomas
 - contexto de frecuencia cardíaca o presión arterial, si se midio
 - hidratación y sal

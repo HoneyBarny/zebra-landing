@@ -61,22 +61,22 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Les symptômes POTS, EDS et MCAS peuvent-ils se chevaucher?"
-    answer: "Oui. Certaines personnes ont des diagnostics ou symptômes impliquant POTS, EDS ou hEDS et MCAS en meme temps, mais suivre le chevauchement ne remplace pas l'interprétation clinique."
+    answer: "Oui. Certaines personnes ont des diagnostics ou symptômes impliquant POTS, EDS ou hEDS et MCAS en même temps, mais suivre le chevauchement ne remplace pas l'interprétation clinique."
   - question: "Que dois-je suivre quand les symptômes se chevauchent?"
     answer: "Suivez le groupe principal de symptômes, le moment, les déclencheurs possibles, le contexte orthostatique, les changements de médicaments, l'impact fonctionnel et les questions pour le rendez-vous."
   - question: "Dois-je suivre les déclencheurs comme preuve?"
     answer: "Non. Suivez les déclencheurs comme contexte. Noter que chaleur, nourriture, station debout, stress, infection, changement de médicament ou activité étaient proches d'une poussée peut être utile sans affirmer une cause."
   - question: "Comment garder le suivi faisable avec le brain fog?"
-    answer: "Utilisez une structure quotidienne courte: ce qui a change, l'intensité, ce qui était autour et ce que cela vous a empeche de faire."
+    answer: "Utilisez une structure quotidienne courte: ce qui a changé, l'intensité, ce qui était autour et ce que cela vous a empêche de faire."
   - question: "Zebra diagnostique-t-il le POTS, l'EDS ou le MCAS?"
     answer: "Non. Zebra aide à organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
 Quand [POTS](/fr-fr/knowledge/pots/), [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [MCAS](/fr-fr/knowledge/mcas/) se chevauchent, le plus difficile n'est pas seulement d'avoir plus de symptômes. C'est d'expliquer vertiges, douleur, fatigue, flush, symptômes GI, changements de médicaments, déclencheurs et [impact fonctionnel](/fr-fr/knowledge/functional-impact/) comme un historique lisible plutôt que comme des fragments separes.
 
-C'est pourquoi le suivi du chevauchement a besoin d'une autre forme qu'un journal de symptômes classique. Une liste de symptômes peut devenir trop longue pour être utilisable. Un meilleur dossier montre ce qui a change, ce qui était proche et ce qui a rendu la vie quotidienne plus difficile.
+C'est pourquoi le suivi du chevauchement a besoin d'une autre forme qu'un journal de symptômes classique. Une liste de symptômes peut devenir trop longue pour être utilisable. Un meilleur dossier montre ce qui a changé, ce qui était proche et ce qui a rendu la vie quotidienne plus difficile.
 
-Des sources medicales et d'education patient decrivent des chevauchements entre hypermobilite, POTS ou dysautonomie et symptômes lies aux mastocytes, tout en rappelant que le diagnostic est complexe et doit rester clinique. Le but du suivi n'est pas de prouver un diagnostic. Le but est d'apporter une histoire plus claire aux soins.
+Des sources medicales et d'éducation patient decrivent des chevauchements entre hypermobilité, POTS ou dysautonomie et symptômes liés aux mastocytes, tout en rappelant que le diagnostic est complexe et doit rester clinique. Le but du suivi n'est pas de prouver un diagnostic. Le but est d'apporter une histoire plus claire aux soins.
 
 ## Commencer par le groupe, pas chaque symptôme
 
@@ -85,10 +85,10 @@ Les jours de chevauchement, commencez par nommer le groupe principal.
 Par exemple:
 
 - symptômes debout: vertiges, palpitations, tremblements, fatigue
-- symptômes du tissu conjonctif: douleur articulaire, instabilite, blessures, notes de subluxation
+- symptômes du tissu conjonctif: douleur articulaire, instabilité, blessures, notes de subluxation
 - symptômes type mastocytes: flush, démangeaisons, urticaire, troubles GI, gonflement, réactions à nourriture ou chaleur
-- symptômes cognitifs: brain fog, trous de mémoire, difficulte à trouver ses mots
-- impact fonctionnel: douche, station debout, conduite, travail, etudes, soins aux proches, cuisine
+- symptômes cognitifs: brain fog, trous de mémoire, difficulté à trouver ses mots
+- impact fonctionnel: douche, station debout, conduite, travail, études, soins aux proches, cuisine
 
 Vous n'avez pas besoin de suivre chaque sensation parfaitement. Le premier objectif est de garder assez de profil pour ne pas le reconstruire de mémoire avant le rendez-vous.
 
@@ -98,47 +98,47 @@ Les symptômes qui se chevauchent sont plus faciles à relire quand chaque entr�
 
 Notes utiles:
 
-- matin, apres-midi, soir ou nuit
+- matin, après-midi, soir ou nuit
 - avant ou après la station debout
 - avant ou après les repas
 - après chaleur, douche, courses, exercice, infection, mauvais sommeil, voyage ou stress
-- autour de changements de médicaments, complements, hydratation, sel ou compression
+- autour de changements de médicaments, compléments, hydratation, sel ou compression
 - combien de temps la récupération a pris
 
-Cela ne veut pas dire que l'evenement proche a cause les symptômes. Cela garde simplement le contexte disponible pour la discussion.
+Cela ne veut pas dire que l'événement proche a cause les symptômes. Cela garde simplement le contexte disponible pour la discussion.
 
-Pour le POTS et la dysautonomie, le [contexte orthostatique](/fr-fr/knowledge/orthostatic-intolerance/) peut être particulierement utile: ce qui s'est passe couche, assis, debout ou après être reste debout plus longtemps.
+Pour le POTS et la dysautonomie, le [contexte orthostatique](/fr-fr/knowledge/orthostatic-intolerance/) peut être particulièrement utile: ce qui s'est passé couche, assis, debout ou après être reste debout plus longtemps.
 
 ## Garder médicaments et changements près des symptômes
 
-Quand plusieurs conditions se chevauchent, les notes de médicaments et complements se dispersent vite.
+Quand plusieurs conditions se chevauchent, les notes de médicaments et compléments se dispersent vite.
 
 Suivez:
 
-- dates de debut
+- dates de début
 - dates d'arret
 - changements de dose
-- doses manquees, si pertinent
-- effets secondaires ou réactions suspectees
+- doses manquées, si pertinent
+- effets secondaires ou réactions suspectées
 - médicaments de secours ou au besoin
 - questions à poser
 
-La valeur n'est pas seulement la liste. La valeur est la chronologie. Si les symptômes ont change près d'un changement de médicament, vous pouvez apporter ce contexte sans essayer de vous rappeler la sequence plus tard.
+La valeur n'est pas seulement la liste. La valeur est la chronologie. Si les symptômes ont changé près d'un changement de médicament, vous pouvez apporter ce contexte sans essayer de vous rappeler la sequence plus tard.
 
 Pour une version plus detaillee, lisez [Comment suivre les changements de médicaments pendant une poussée](/fr-fr/blog/how-to-track-medication-changes-during-a-flare/).
 
 ## Ajouter l'impact fonctionnel pour donner un centre au rendez-vous
 
-Les symptômes peuvent sembler abstraits tant que vous n'expliquez pas ce qu'ils ont change.
+Les symptômes peuvent sembler abstraits tant que vous n'expliquez pas ce qu'ils ont changé.
 
 Au lieu d'écrire seulement "fatigue", ajoutez des exemples comme:
 
 - j'ai du m'allonger après la douche
 - je n'ai pas pu rester debout assez longtemps pour cuisiner
-- j'ai annule travail, etudes ou projets
+- j'ai annule travail, études ou projets
 - j'ai eu besoin d'aide pour les courses
 - je n'ai pas pu conduire
-- la douleur a change marche, escaliers, sommeil ou usage des mains
+- la douleur a changé marche, escaliers, sommeil ou usage des mains
 - le brain fog a rendu messages, formulaires ou conversations plus difficiles
 
 Cela aide à transformer une longue liste de symptômes en conversation de soins. L'impact fonctionnel répond à la question pratique: qu'est-ce que cela fait à votre vie?
@@ -155,16 +155,16 @@ Pour les poussées avec chevauchement, essayez ce format court:
 - impact fonctionnel
 - une question pour le prochain rendez-vous
 
-Ce format marche meme si vous ne remplissez qu'une partie. Une entrée partielle d'un mauvais jour est souvent plus utile qu'une entrée parfaite qui n'arrive jamais.
+Ce format marche même si vous ne remplissez qu'une partie. Une entrée partielle d'un mauvais jour est souvent plus utile qu'une entrée parfaite qui n'arrive jamais.
 
 ## Que prendre au rendez-vous
 
-Avant une consultation specialisee, transformez la chronologie en resume court:
+Avant une consultation spécialisée, transformez la chronologie en résumé court:
 
 - les 3 principaux groupes de symptômes
-- ce qui a change depuis la dernière visite
+- ce qui a changé depuis la dernière visite
 - pires jours ou semaines de poussée
-- changements de médicaments et complements
+- changements de médicaments et compléments
 - possibles profils de déclencheurs à demander
 - constantes orthostatiques ou observations à domicile, si suivies
 - exemples d'impact fonctionnel
@@ -174,14 +174,14 @@ Pour la version spécifique rendez-vous, utilisez la [checklist de symptômes po
 
 ## Contexte des sources
 
-The Ehlers-Danlos Society note que le hEDS peut toucher de nombreux systèmes du corps et discute des symptômes MCAS comme réponses allergiques, symptômes GI et problèmes de vessie dans sa page d'education hEDS. Des sources PubMed et PMC decrivent aussi l'interet clinique pour la relation entre hEDS, POTS et MCAS, tout en soulignant que definitions et preuves peuvent être complexes.
+The Ehlers-Danlos Society note que le hEDS peut toucher de nombreux systèmes du corps et discute des symptômes MCAS comme réponses allergiques, symptômes GI et problèmes de vessie dans sa page d'éducation hEDS. Des sources PubMed et PMC decrivent aussi l'interet clinique pour la relation entre hEDS, POTS et MCAS, tout en soulignant que definitions et preuves peuvent être complexes.
 
 Contexte utile:
 
 - [Aperçu hEDS de The Ehlers-Danlos Society](https://www.ehlers-danlos.com/heds/)
 - [Revue PubMed sur hEDS, POTS et MCAS](https://pubmed.ncbi.nlm.nih.gov/31267471/)
-- [Article PMC sur comorbidites hEDS et odyssee diagnostique](https://pmc.ncbi.nlm.nih.gov/articles/PMC11613559/)
-- [Article Frontiers 2025 sur POTS, hypermobilite et MCAS](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1513199/full)
+- [Article PMC sur comorbidites hEDS et odyssée diagnostique](https://pmc.ncbi.nlm.nih.gov/articles/PMC11613559/)
+- [Article Frontiers 2025 sur POTS, hypermobilité et MCAS](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1513199/full)
 
 ## Où Zebra s'insere
 
@@ -195,13 +195,13 @@ Il ne diagnostique pas le POTS, l'EDS, le MCAS ni aucune condition. Il aide à g
 - Suivez groupes, timing, contexte proche, changements de médicaments et impact fonctionnel.
 - Traitez les déclencheurs comme contexte, pas comme preuve.
 - Une entrée courte et partielle de mauvais jour vaut mieux qu'attendre un suivi parfait.
-- Le resume de rendez-vous le plus utile explique ce qui a change, ce qui s'est repete et a quoi ressemblait la vie quotidienne.
+- Le résumé de rendez-vous le plus utile explique ce qui a changé, ce qui s'est repete et a quoi ressemblait la vie quotidienne.
 
 ## FAQ
 
 ### Les symptômes POTS, EDS et MCAS peuvent-ils se chevaucher?
 
-Oui. Certaines personnes ont des diagnostics ou symptômes impliquant POTS, EDS ou hEDS et MCAS en meme temps, mais suivre le chevauchement ne remplace pas l'interprétation clinique.
+Oui. Certaines personnes ont des diagnostics ou symptômes impliquant POTS, EDS ou hEDS et MCAS en même temps, mais suivre le chevauchement ne remplace pas l'interprétation clinique.
 
 ### Que dois-je suivre quand les symptômes se chevauchent?
 
@@ -213,7 +213,7 @@ Non. Suivez les déclencheurs comme contexte. Noter que chaleur, nourriture, sta
 
 ### Comment garder le suivi faisable avec le brain fog?
 
-Utilisez une structure quotidienne courte: ce qui a change, l'intensité, ce qui était autour et ce que cela vous a empeche de faire.
+Utilisez une structure quotidienne courte: ce qui a changé, l'intensité, ce qui était autour et ce que cela vous a empêche de faire.
 
 ### Zebra diagnostique-t-il le POTS, l'EDS ou le MCAS?
 

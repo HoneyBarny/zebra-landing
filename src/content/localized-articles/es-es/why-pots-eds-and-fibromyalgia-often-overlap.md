@@ -110,7 +110,7 @@ Esto crea un registro que sigue siendo útil incluso cuando la interpretación e
 
 ## Dónde encaja Zebra
 
-Zebra se posiciono especificamente alrededor de este problema de solapamiento. Esta diseñado para personas cansadas de intentar forzar realidades de POTS, EDS y fibromialgia en herramientas separadas y cajas mentales separadas.
+Zebra se posiciono específicamente alrededor de este problema de solapamiento. Esta diseñado para personas cansadas de intentar forzar realidades de POTS, EDS y fibromialgia en herramientas separadas y cajas mentales separadas.
 
 La página [tracker para enfermedad invisible](/es-es/symptom-tracker-for-invisible-illness/) presenta este mismo enfoque para quienes manejan varias condiciones invisibles a la vez.
 

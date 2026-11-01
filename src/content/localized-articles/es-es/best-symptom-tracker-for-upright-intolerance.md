@@ -72,7 +72,7 @@ El mejor rastreador debería ayudarte a responder preguntas como:
 
 - ¿Qué síntomas empeoran cuando estoy en posición vertical?
 - ¿En qué postura estaba cuando cambiaron los síntomas?
-- ¿Qué más ocurria ese día?
+- ¿Qué más ocurría ese día?
 - ¿Qué me impidieron hacer los síntomas?
 - ¿Puedo revisarlo antes de una cita?
 
@@ -109,7 +109,7 @@ Intolerancia ortostática es la frase más formal. Intolerancia al estar de pie 
 
 Para la versión más formal, [Mejor rastreador de síntomas para intolerancia ortostática](/blog/best-symptom-tracker-for-orthostatic-intolerance/) es la página complementaria más cercana. Para una definición simple, empieza con [Que es la intolerancia ortostática?](/blog/what-is-orthostatic-intolerance/).
 
-Si registras síntomas de POTS especificamente, [Mejor app para seguimiento de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) y [Como registrar síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) son complementos más centrados en POTS.
+Si registras síntomas de POTS específicamente, [Mejor app para seguimiento de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) y [Como registrar síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) son complementos más centrados en POTS.
 
 ## ¿Qué debería incluir un rastreador de intolerancia al estar de pie?
 

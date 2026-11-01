@@ -67,7 +67,7 @@ faq:
   - question: "¿Debo seguir registrando frecuencia cardíaca y presión arterial después de la prueba?"
     answer: "Si tu clínico quiere observaciones en casa, registralas con posición, timing, síntomas y contexto. No cambies el tratamiento basandote solo en números."
   - question: "¿Qué síntomas son útiles de anotar?"
-    answer: "Suelen ser útiles mareo, aturdimiento, desmayo o casi desmayo, palpitaciones, fatiga, brain fog, nausea, debilidad, temblor y falta de aire."
+    answer: "Suelen ser útiles mareo, aturdimiento, desmayo o casi desmayo, palpitaciones, fatiga, brain fog, náusea, debilidad, temblor y falta de aire."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historial introducido por la persona para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -84,7 +84,7 @@ Antes de registrar algo nuevo, anota el lenguaje exacto del informe de la prueba
 
 Detalles útiles:
 
-- si el informe menciono POTS, hipotensión ortostática, sincope vasovagal, presincope, sincope o disautonomía
+- si el informe menciono POTS, hipotensión ortostática, síncope vasovagal, presíncope, síncope o disautonomía
 - qué síntomas ocurrieron durante la prueba
 - cambios de frecuencia cardíaca y presión arterial, si aparecen
 - cuánto tiempo estuviste erguida
@@ -108,7 +108,7 @@ Registra:
 
 Para personas evaluadas por [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), este contexto puede importar tanto como los nombres de síntomas.
 
-## Mantiene los síntomas cortos pero especificos
+## Mantiene los síntomas cortos pero específicos
 
 No necesitas escribir un parrafo cada vez.
 
@@ -116,10 +116,10 @@ Usa una lista corta:
 
 - mareo o aturdimiento
 - desmayo o casi desmayo
-- palpitaciones o corazon acelerado
+- palpitaciones o corazón acelerado
 - temblor
 - debilidad
-- nausea
+- náusea
 - brain fog
 - fatiga
 - molestia en el pecho
@@ -142,7 +142,7 @@ Notas útiles:
 - inicio, parada o cambio de dosis de medicamentos
 - dosis omitidas
 - nuevos efectos secundarios o preocupaciones
-- cafeina o alcohol, si importan
+- cafeína o alcohol, si importan
 
 El consenso de [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.03.029) senala que la historia clínica en sospecha de POTS debe considerar factores modificadores y posibles desencadenantes, incluidos deshidratación, calor, alcohol y ejercicio. Registrarlos como contexto puede hacer más precisa la cita de seguimiento.
 
@@ -167,7 +167,7 @@ Los clínicos no siempre pueden ver el coste de los síntomas si no llevas ejemp
 Después de una prueba de mesa inclinada positiva, puedes llevar preguntas como:
 
 - ¿Qué patrón mostró la prueba?
-- ¿Esto encaja con POTS, hipotensión ortostática, sincope vasovagal, otro patrón de disautonomía o algo más?
+- ¿Esto encaja con POTS, hipotensión ortostática, síncope vasovagal, otro patrón de disautonomía o algo más?
 - ¿Fueron importantes las lecturas de presión arterial en mi resultado?
 - ¿Qué síntomas deberían hacerme buscar atención urgente?
 - ¿Qué debo registrar antes de la próxima visita?
@@ -184,7 +184,7 @@ Lectura útil:
 - [Resumen de Cleveland Clinic sobre prueba de mesa inclinada](https://my.clevelandclinic.org/health/diagnostics/17043-tilt-table-test)
 - [MedlinePlus sobre pruebas autonómicas](https://medlineplus.gov/lab-tests/autonomic-testing/)
 - [Bateman Horne Center sobre NASA 10 Minute Lean Test](https://batemanhornecenter.org/assess-orthostatic-intolerance/)
-- [Consenso de Heart Rhythm Society sobre POTS y sincope vasovagal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
+- [Consenso de Heart Rhythm Society sobre POTS y síncope vasovagal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/)
 
 ## Dónde encaja Zebra
 
@@ -197,7 +197,7 @@ No interpreta tu prueba ni diagnostica POTS. Ayuda a organizar lo que pasa despu
 - Una prueba de mesa inclinada positiva debe ser interpretada por tu clínico.
 - Después de la prueba, registra síntomas con posición, timing, recuperación e impacto diario.
 - Mantiene hidratación, sal, compresión y medicación junto a síntomas cuando sean relevantes para tu plan.
-- Lleva el lenguaje exacto del informe y preguntas especificas al seguimiento.
+- Lleva el lenguaje exacto del informe y preguntas específicas al seguimiento.
 - Un registro corto y constante es más útil que notas dispersas.
 
 ## FAQ
@@ -216,7 +216,7 @@ Si tu clínico quiere observaciones en casa, registralas con posición, timing, 
 
 ### ¿Qué síntomas son útiles de anotar?
 
-Suelen ser útiles mareo, aturdimiento, desmayo o casi desmayo, palpitaciones, fatiga, brain fog, nausea, debilidad, temblor y falta de aire.
+Suelen ser útiles mareo, aturdimiento, desmayo o casi desmayo, palpitaciones, fatiga, brain fog, náusea, debilidad, temblor y falta de aire.
 
 ### ¿Zebra es consejo médico?
 

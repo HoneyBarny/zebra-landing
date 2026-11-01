@@ -3,9 +3,9 @@ locale: "es-es"
 originalSlug: "fibromyalgia-flare-tracker-what-to-log"
 title: "Tracker de brotes de fibromialgia: que registrar en un mal día"
 status: "published"
-subtitle: "Un brote de fibromialgia puede hacer que todo se sienta más fuerte: dolor, fatiga, problemas de sueño, brain fog, sensibilidad sensorial y estrés. Registra los detalles pequenos útiles sin convertir un mal día en un día de papeleo."
+subtitle: "Un brote de fibromialgia puede hacer que todo se sienta más fuerte: dolor, fatiga, problemas de sueño, brain fog, sensibilidad sensorial y estrés. Registra los detalles pequeños útiles sin convertir un mal día en un día de papeleo."
 description: "Aprende que registrar durante un brote de fibromialgia, incluyendo dolor, fatiga, sueño, brain fog, desencadenantes, pacing, recuperación e impacto funcional."
-excerpt: "Una guía práctica de tracker para brotes de fibromialgia: dolor, fatiga, sueño, brain fog, desencadenantes, recuperación y que ayudó."
+excerpt: "Una guía práctica de tracker para brotes de fibromialgia: dolor, fatiga, sueño, brain fog, desencadenantes, recuperación y qué ayudó."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -58,12 +58,12 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar durante un brote de fibromialgia?"
-    answer: "Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estrés, nivel de actividad, posibles desencadenantes, contexto de medicación, que ayudó, tiempo de recuperación e impacto diario."
+    answer: "Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de ánimo o estrés, nivel de actividad, posibles desencadenantes, contexto de medicación, qué ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Cuánto debo escribir en un mal día de brote?"
-    answer: "Mantenlo corto. Unos toques o una frase pueden bastar: intensidad de síntomas, posible desencadenante, que tuviste que dejar de hacer y que ayudó."
+    answer: "Mantenlo corto. Unos toques o una frase pueden bastar: intensidad de síntomas, posible desencadenante, que tuviste que dejar de hacer y qué ayudó."
   - question: "¿El tracking puede ayudar a identificar desencadenantes de brotes de fibromialgia?"
     answer: "El tracking puede ayudarte a notar patrones repetidos alrededor de cambios de sueño, estrés, exceso de actividad, enfermedad, clima, cambios de rutina o cambios de medicación, pero tu médico debe ayudarte a interpretarlos."
-  - question: "¿Debo registrar que ayudó durante un brote?"
+  - question: "¿Debo registrar qué ayudó durante un brote?"
     answer: "Sí. Registra pacing, descanso, movimiento suave, calor, relajación, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar que ayuda con el tiempo."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
@@ -73,7 +73,7 @@ Un brote de [fibromialgia](/es-es/knowledge/fibromyalgia/) puede hacer que todo 
 
 CDC describe la fibromialgia como una condición que puede causar dolor, fatiga, malestar emocional y mental, y problemas de sueño. Cleveland Clinic senala que los síntomas pueden empeorar durante brotes y que desencadenantes comunes pueden incluir estrés emocional, cambios de rutina, mal sueño, cambios de clima o temperatura, enfermedad, lesión y cambios de medicación o tratamiento.
 
-Eso hace que registrar sea útil, pero solo si es suficientemente pequeno para hacerlo cuando te sientes fatal.
+Eso hace que registrar sea útil, pero solo si es suficientemente pequeño para hacerlo cuando te sientes fatal.
 
 ## Empieza con una captura del brote
 
@@ -116,11 +116,11 @@ Notas útiles de brote:
 - no pude estar de pie mucho tiempo
 - necesite acostarme
 - necesite siesta
-- colapse después de tareas basicas
+- colapse después de tareas básicas
 - hablar, moverme o pensar se sintio lento
 - la recuperación tomo horas o el resto del día
 
-Esto ayuda a explicar la diferencia entre "doloroso pero funcional" y "no pude hacer tareas basicas."
+Esto ayuda a explicar la diferencia entre "doloroso pero funcional" y "no pude hacer tareas básicas."
 
 ## Agrega contexto de sueño
 
@@ -135,11 +135,11 @@ Registra:
 - despertar por dolor
 - despertar sin recuperación
 - cambio de horario de sueño
-- cafeina, alcohol, pantallas o comida tarde si es relevante
+- cafeína, alcohol, pantallas o comida tarde si es relevante
 
 No necesitas datos perfectos. "Dormi 4 horas, desperte dos veces por dolor" es útil.
 
-## Registra brain fog en términos practicos
+## Registra brain fog en términos prácticos
 
 El brain fog es más útil cuando se conecta con lo que cambió.
 
@@ -176,7 +176,7 @@ Contexto posible:
 
 Cambridge University Hospitals describe los brotes de dolor crónico como episodios de dolor mucho peor que pueden ocurrir después de exceso de actividad, enfermedad, tensión emocional o a veces sin razón clara. Esa parte de "sin razón clara" importa.
 
-## Anota que ayudó y que no
+## Anota qué ayudó y qué no
 
 Registra solo estrategias que realmente usaste.
 
@@ -220,7 +220,7 @@ Esto ayuda a tu médico a entender la gravedad más allá de un número.
 Usa esto en malos días:
 
 1. Intensidad del brote: 0-10.
-2. Síntomas principales: dolor, fatiga, fog, sueño, sensibilidad, animo, digestion.
+2. Síntomas principales: dolor, fatiga, fog, sueño, sensibilidad, ánimo, digestión.
 3. Dolor: ubicación y sensación.
 4. Sueño: horas y calidad.
 5. Contexto: estrés, actividad, clima, enfermedad, horario, medicamentos.
@@ -251,13 +251,13 @@ No diagnostica fibromialgia ni te dice que tratamiento usar. Ayuda a llevar un p
 - Registra dolor, fatiga, sueño, brain fog, sensibilidad, posibles desencadenantes, qué ayudó, recuperación e impacto diario.
 - No trates el tracking como prueba de que causaste el brote.
 - El impacto funcional suele explicar la gravedad mejor que solo nombres de síntomas.
-- Las notas pequenas y constantes son más útiles que notas perfectas ocasionales.
+- Las notas pequeñas y constantes son más útiles que notas perfectas ocasionales.
 
 ## FAQ
 
 ### ¿Qué debo registrar durante un brote de fibromialgia?
 
-Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de animo o estrés, nivel de actividad, posibles desencadenantes, contexto de medicación, qué ayudó, tiempo de recuperación e impacto diario.
+Registra ubicación e intensidad del dolor, fatiga, sueño, brain fog, sensibilidad, estado de ánimo o estrés, nivel de actividad, posibles desencadenantes, contexto de medicación, qué ayudó, tiempo de recuperación e impacto diario.
 
 ### ¿Cuánto debo escribir en un mal día de brote?
 
@@ -267,7 +267,7 @@ Mantenlo corto. Unos toques o una frase pueden bastar: intensidad de síntomas, 
 
 El tracking puede ayudarte a notar patrones repetidos alrededor de cambios de sueño, estrés, exceso de actividad, enfermedad, clima, cambios de rutina o cambios de medicación, pero tu médico debe ayudarte a interpretarlos.
 
-### ¿Debo registrar que ayudó durante un brote?
+### ¿Debo registrar qué ayudó durante un brote?
 
 Sí. Registra pacing, descanso, movimiento suave, calor, relajación, contexto de medicación, cambios de sueño u otras estrategias aprobadas por tu médico para comparar qué ayuda con el tiempo.
 

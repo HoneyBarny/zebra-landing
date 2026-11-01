@@ -57,7 +57,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar durante un brote tipo MCAS?"
-    answer: "Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y que te impidió hacer el episodio."
+    answer: "Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y qué te impidió hacer el episodio."
   - question: "¿El seguimiento puede diagnosticar MCAS?"
     answer: "No. El diagnóstico de MCAS requiere criterios clínicos e interpretación médica. El seguimiento puede organizar la historia de episodios para una visita médica."
   - question: "¿Debo tratar posibles disparadores como prueba?"
@@ -68,9 +68,9 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Un brote de [MCAS](/es-es/knowledge/mcas/) o una reacción tipo mastocitos puede ser difícil de explicar después porque el episodio puede involucrar más de un sistema del cuerpo a la vez: piel, intestino, respiración, pulso, presión arterial, mareo, hinchazón o una sensación repentina de "reacción alergica".
+Un brote de [MCAS](/es-es/knowledge/mcas/) o una reacción tipo mastocitos puede ser difícil de explicar después porque el episodio puede involucrar más de un sistema del cuerpo a la vez: piel, intestino, respiración, pulso, presión arterial, mareo, hinchazón o una sensación repentina de "reacción alérgica".
 
-Una nota útil no intenta probar que causó el episodio. Guarda los detalles que tu médico puede necesitar: qué pasó, cuándo empezó, qué sistemas estuvieron involucrados, qué había cerca, que tomaste, si los síntomas mejoraron y si el episodio afecto la seguridad o la vida diaria.
+Una nota útil no intenta probar qué causó el episodio. Guarda los detalles que tu médico puede necesitar: qué pasó, cuándo empezó, qué sistemas estuvieron involucrados, qué había cerca, que tomaste, si los síntomas mejoraron y si el episodio afecto la seguridad o la vida diaria.
 
 El diagnóstico de MCAS es complejo y debe quedar en manos clínicas. El seguimiento es para organizar, no para autodiagnosticar.
 
@@ -98,10 +98,10 @@ Las conversaciones sobre MCAS suelen centrarse en episodios que involucran más 
 Registra síntomas por grupo:
 
 - piel: enrojecimiento, picor, urticaria, sarpullido, hinchazón
-- intestino: dolor abdominal, colicos, diarrea, náuseas, vomitos, reflujo
+- intestino: dolor abdominal, cólicos, diarrea, náuseas, vomitos, reflujo
 - respiración: sibilancias, tos, falta de aire, opresión en garganta, nariz tapada
 - cardiovascular: pulso rápido, palpitaciones, síntomas de presión baja, desmayo
-- neurologico o general: mareo, aturdimiento, dolor de cabeza, debilidad repentina, brain fog, fatiga
+- neurológico o general: mareo, aturdimiento, dolor de cabeza, debilidad repentina, brain fog, fatiga
 
 No necesitas decidir si el episodio "cuenta". Solo registra con claridad lo que pasó.
 
@@ -116,7 +116,7 @@ Registra:
 - primer síntoma
 - peor síntoma
 - momento pico, si lo sabes
-- cuando empezaron a mejorar
+- cuándo empezaron a mejorar
 - tiempo total de recuperación
 - si los síntomas volvieron después
 
@@ -126,7 +126,7 @@ Ejemplo:
 | --- | --- |
 | 12:20 | Comi almuerzo |
 | 12:45 | Empezó enrojecimiento facial y picor |
-| 12:55 | Náuseas y colicos, 6/10 |
+| 12:55 | Náuseas y cólicos, 6/10 |
 | 1:05 | Tome medicación de rescate aprobada por mi médico |
 | 1:40 | Los síntomas bajan |
 | 3:00 | Aun cansado, cancele recados |
@@ -142,7 +142,7 @@ Contexto útil:
 - comida o bebida
 - alcohol
 - calor, frio, ducha o cambio brusco de temperatura
-- fragancia, humo, productos de limpieza u olores quimicos
+- fragancia, humo, productos de limpieza u olores químicos
 - polen, mascotas, moho o exposición ambiental
 - ejercicio o estrés físico
 - estrés emocional
@@ -185,8 +185,8 @@ Anota:
 
 Usa esta estructura:
 
-1. Hora: cuando empezó y cuánto duró.
-2. Sistemas: piel, intestino, respiración, cardiovascular, neurologico, general.
+1. Hora: cuándo empezó y cuánto duró.
+2. Sistemas: piel, intestino, respiración, cardiovascular, neurológico, general.
 3. Síntomas: síntomas más fuertes y gravedad.
 4. Posible contexto: comida, calor, fragancia, enfermedad, estrés, medicamentos, actividad.
 5. Acciones: medicación, plan de emergencia, contacto médico, descanso.
@@ -243,7 +243,7 @@ Zebra no diagnostica MCAS ni interpreta reacciones. Te ayuda a llevar una histor
 
 ### ¿Qué debo registrar durante un brote tipo MCAS?
 
-Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y que te impidió hacer el episodio.
+Registra la hora, síntomas, sistemas del cuerpo involucrados, posibles disparadores, contexto de medicamentos, acciones de seguridad, tiempo de recuperación y qué te impidió hacer el episodio.
 
 ### ¿El seguimiento puede diagnosticar MCAS?
 

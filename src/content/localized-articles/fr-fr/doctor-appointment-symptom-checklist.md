@@ -3,9 +3,9 @@ locale: "fr-fr"
 originalSlug: "doctor-appointment-symptom-checklist"
 title: "Checklist des symptômes pour un rendez-vous médical"
 status: "published"
-subtitle: "Une checklist des symptômes pour un rendez-vous médical vous aide à apporter les bons détails sans essayer de reconstruire tout votre historique de santé dans la salle d'attente. La checklist la plus utile inclut vos symptômes principaux, ce qui a change, les tendances de poussées, l'impact fonctionnel, les médicaments, les mesures pertinentes et les principales questions à poser."
+subtitle: "Une checklist des symptômes pour un rendez-vous médical vous aide à apporter les bons détails sans essayer de reconstruire tout votre historique de santé dans la salle d'attente. La checklist la plus utile inclut vos symptômes principaux, ce qui a changé, les tendances de poussées, l'impact fonctionnel, les médicaments, les mesures pertinentes et les principales questions à poser."
 description: "Utilisez cette checklist des symptômes pour organiser symptômes, poussées, médicaments, changements fonctionnels et questions avant une visite médicale."
-excerpt: "Une checklist pratique pour préparer des notes plus claires avant un rendez-vous médical, specialise ou cardiologique."
+excerpt: "Une checklist pratique pour préparer des notes plus claires avant un rendez-vous médical, spécialisé ou cardiologique."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
@@ -23,7 +23,7 @@ heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Écran de préparation de rendez-vous Zebra avec historique des symptômes et notes prêtes pour le médecin."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes, poussées, médicaments, mesures et questions de rendez-vous dans un historique pret pour le médecin."
+ctaNote: "Utilisez Zebra pour garder symptômes, poussées, médicaments, mesures et questions de rendez-vous dans un historique prêt pour le médecin."
 categories:
   - "Appointment Préparation"
   - "Doctor Reports"
@@ -54,9 +54,9 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Quels symptômes noter avant un rendez-vous médical?"
-    answer: "Notez les symptômes les plus pertinents pour la visite, surtout ceux qui sont nouveaux, aggraves, fréquents, perturbants ou lies au motif du rendez-vous."
-  - question: "Que faut-il apporter a un rendez-vous médical pour des symptômes chroniques?"
-    answer: "Apportez un bref resume des symptômes, la liste des médicaments et supplements, les changements récents, les mesures pertinentes, les notes de poussées importantes, des exemples d'impact fonctionnel et vos principales questions."
+    answer: "Notez les symptômes les plus pertinents pour la visite, surtout ceux qui sont nouveaux, aggraves, fréquents, perturbants ou liés au motif du rendez-vous."
+  - question: "Que faut-il apporter à un rendez-vous médical pour des symptômes chroniques?"
+    answer: "Apportez un bref résumé des symptômes, la liste des médicaments et supplements, les changements récents, les mesures pertinentes, les notes de poussées importantes, des exemples d'impact fonctionnel et vos principales questions."
   - question: "Quelle longueur devrait avoir ma checklist de symptômes?"
     answer: "Gardez-la assez courte pour être relue pendant la visite. Une page ou quelques sections organisées sont souvent plus utiles qu'un long journal."
   - question: "Faut-il inclure les médicaments et supplements?"
@@ -65,7 +65,7 @@ faq:
     answer: "Non. Cette checklist est un outil d'organisation pour préparer les rendez-vous. Elle ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Une checklist des symptômes pour un rendez-vous médical vous aide à apporter les bons détails sans essayer de reconstruire tout votre historique de santé dans la salle d'attente. La checklist la plus utile inclut vos symptômes principaux, ce qui a change, les tendances de poussées, l'impact fonctionnel, les médicaments, les mesures pertinentes et les principales questions à poser.
+Une checklist des symptômes pour un rendez-vous médical vous aide à apporter les bons détails sans essayer de reconstruire tout votre historique de santé dans la salle d'attente. La checklist la plus utile inclut vos symptômes principaux, ce qui a changé, les tendances de poussées, l'impact fonctionnel, les médicaments, les mesures pertinentes et les principales questions à poser.
 
 Le but n'est pas d'arriver avec des dossiers parfaits. Le but est de rendre le rendez-vous plus utile.
 
@@ -79,7 +79,7 @@ Avant le rendez-vous, essayez d'apporter:
 - quand chaque symptôme a commence ou change
 - ce qui aggrave ou améliore les symptômes
 - les dates récentes de poussées ou tendances de mauvais jours
-- des exemples de ce que les symptômes vous ont empeche de faire
+- des exemples de ce que les symptômes vous ont empêche de faire
 - les médicaments, supplements et changements récents
 - les mesures pertinentes à domicile, si vous les suivez
 - allergies ou anciens problèmes avec des médicaments
@@ -99,7 +99,7 @@ Pour beaucoup d'utilisateurs de Zebra, cela peut inclure:
 - palpitations
 - brain fog
 - douleur
-- nausee
+- nausée
 - essoufflement
 - faiblesse
 - intolérance a l'effort
@@ -107,9 +107,9 @@ Pour beaucoup d'utilisateurs de Zebra, cela peut inclure:
 
 Choisissez les symptômes nouveaux, aggraves, repetes ou les plus perturbants au quotidien. Si vous listez vingt symptômes, les plus importants peuvent se perdre. Trois a cinq donnent un centre à la conversation.
 
-MedlinePlus recommande de noter les détails des symptômes avant une visite, notamment ce qu'ils sont, quand ils apparaissent, depuis combien de temps ils existent et s'ils ont change. Voir [Make the most of your doctor visit](https://medlineplus.gov/ency/patientinstructions/000860.htm).
+MedlinePlus recommande de noter les détails des symptômes avant une visite, notamment ce qu'ils sont, quand ils apparaissent, depuis combien de temps ils existent et s'ils ont changé. Voir [Make the most of your doctor visit](https://medlineplus.gov/ency/patientinstructions/000860.htm).
 
-## 2. Ce qui a change
+## 2. Ce qui a changé
 
 Les médecins ont souvent besoin du changement, pas seulement du nom du symptôme.
 
@@ -117,12 +117,12 @@ Notez:
 
 - quand le symptôme a commence
 - s'il est devenu plus fréquent
-- si l'intensité a change
-- si la récupération a change
+- si l'intensité a changé
+- si la récupération a changé
 - si un nouveau symptôme est apparu
-- si une routine, un médicament, une infection, les règles, un voyage, la chaleur, le sommeil ou l'activité ont change dans la meme période
+- si une routine, un médicament, une infection, les règles, un voyage, la chaleur, le sommeil ou l'activité ont changé dans la même période
 
-Dans une maladie chronique, "je suis fatigue" peut être vrai mais difficile à utiliser. "La fatigue est passee du soir à toute la journée après une courte activité" donne plus de contexte.
+Dans une maladie chronique, "je suis fatigue" peut être vrai mais difficile à utiliser. "La fatigue est passée du soir à toute la journée après une courte activité" donne plus de contexte.
 
 ## 3. Tendances de poussées
 
@@ -144,15 +144,15 @@ Vous n'avez pas besoin de prouver un déclencheur. Il suffit de dire: "Ces chose
 
 L'impact fonctionnel est souvent oublie, mais il rend les notes beaucoup plus claires.
 
-Notez ce que les symptômes ont change dans la vraie vie:
+Notez ce que les symptômes ont changé dans la vraie vie:
 
-- travail, etudes ou responsabilites de soin manques
+- travail, études ou responsabilités de soin manques
 - besoin de s'allonger après la douche
 - impossibilité de rester debout dans une file
 - plans annulés
 - besoin d'aide pour les repas
 - impossibilité de conduire
-- difficultes à lire, parler, se concentrer ou répondre aux messages
+- difficultés à lire, parler, se concentrer ou répondre aux messages
 
 Le nom du symptôme dit ce que vous avez ressenti. L'impact fonctionnel montre ce que cela a coute.
 
@@ -165,9 +165,9 @@ Apportez une liste actuelle de:
 - vitamines
 - supplements
 - changements de dose
-- dates de debut ou d'arret
+- dates de début ou d'arret
 - effets secondaires ou inquietudes
-- doses oubliees si pertinent
+- doses oubliées si pertinent
 
 L'AHRQ conseille d'apporter tous les médicaments, y compris médicaments sur ordonnance, sans ordonnance, vitamines et supplements alimentaires ou a base de plantes, et d'écrire les questions avant le rendez-vous. Voir [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html).
 
@@ -180,25 +180,25 @@ Exemples:
 - fréquence cardiaque
 - pression artérielle
 - observations orthostatiques
-- temperature
+- température
 - notes de sommeil
 - changement de poids
 - nombre de pas ou changement d'activité, si utile
 
-Pour les rendez-vous lies au POTS ou à la dysautonomie, les observations de fréquence cardiaque ou de pression artérielle selon la position peuvent être un contexte utile. Pour d'autres rendez-vous, le timing des symptômes, l'impact fonctionnel et l'historique des médicaments peuvent compter davantage.
+Pour les rendez-vous liés au POTS ou à la dysautonomie, les observations de fréquence cardiaque ou de pression artérielle selon la position peuvent être un contexte utile. Pour d'autres rendez-vous, le timing des symptômes, l'impact fonctionnel et l'historique des médicaments peuvent compter davantage.
 
 ## 7. Vos principales questions
 
-Ecrivez les questions avant la visite.
+Écrivez les questions avant la visite.
 
-Les ressources de l'AHRQ suggèrent d'apporter vos principales questions et d'interroger sur les médicaments, tests, options de traitement, effets secondaires, interactions, alternatives et prochaines etapes. Voir [The 10 Questions You Should Know](https://www.ahrq.gov/questions/10questions.html).
+Les ressources de l'AHRQ suggèrent d'apporter vos principales questions et d'interroger sur les médicaments, tests, options de traitement, effets secondaires, interactions, alternatives et prochaines étapes. Voir [The 10 Questions You Should Know](https://www.ahrq.gov/questions/10questions.html).
 
 Formats utiles:
 
-- Quel schema semble le plus important ici?
+- Quel schéma semble le plus important ici?
 - Que dois-je suivre avant la prochaine visite?
 - Qu'est-ce qui rendrait cela urgent?
-- Quelles sont les prochaines etapes?
+- Quelles sont les prochaines étapes?
 - Quels sont les benefices et risques de ce test ou traitement?
 - Cela peut-il interagir avec quelque chose que je prends déjà?
 - Si les symptômes s'aggravent, qui dois-je contacter?
@@ -217,7 +217,7 @@ La chose pour laquelle j'ai le plus besoin d'aide est:
 2.
 3.
 
-### Ce qui a change
+### Ce qui a changé
 
 - A commence ou s'est aggrave:
 - Arrive le plus souvent quand:
@@ -231,7 +231,7 @@ La chose pour laquelle j'ai le plus besoin d'aide est:
 
 ### Impact fonctionnel
 
-- Cela m'a empeche de:
+- Cela m'a empêche de:
 - J'ai eu besoin d'aide pour:
 
 ### Médicaments et routines
@@ -250,12 +250,12 @@ La chose pour laquelle j'ai le plus besoin d'aide est:
 
 Zebra est construit pour les personnes qui doivent transformer des notes de symptômes en préparation de rendez-vous, pas seulement les stocker.
 
-Utilisez Zebra pour garder symptômes, poussées, médicaments, changements de routine, sel, eau, contexte orthostatique, notes et questions au meme endroit.
+Utilisez Zebra pour garder symptômes, poussées, médicaments, changements de routine, sel, eau, contexte orthostatique, notes et questions au même endroit.
 
-Pour le flux plus large, lisez [How to Track Symptoms Before a Specialist Appointment](/fr-fr/blog/what-to-track-before-a-specialist-appointment/). Pour le format de resume, lisez [How to Prepare a Monthly Symptom Summary](/fr-fr/blog/how-to-prepare-a-monthly-symptom-summary/).
+Pour le flux plus large, lisez [How to Track Symptoms Before a Specialist Appointment](/fr-fr/blog/what-to-track-before-a-specialist-appointment/). Pour le format de résumé, lisez [How to Prepare a Monthly Symptom Summary](/fr-fr/blog/how-to-prepare-a-monthly-symptom-summary/).
 
 ## Conclusion
 
-Une bonne checklist des symptômes pour un rendez-vous médical est courte, spécifique et facile à relire. Elle doit répondre à ce qui a change, ce qui s'est repete, ce qui a affecte la vie quotidienne, quels médicaments ou routines ont change et ce que vous devez décider ensuite.
+Une bonne checklist des symptômes pour un rendez-vous médical est courte, spécifique et facile à relire. Elle doit répondre à ce qui a changé, ce qui s'est repete, ce qui a affecte la vie quotidienne, quels médicaments ou routines ont changé et ce que vous devez décider ensuite.
 
 Vous n'essayez pas d'apporter un journal parfait. Vous essayez d'apporter le point de départ le plus clair pour la conversation.

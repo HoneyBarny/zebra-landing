@@ -55,8 +55,8 @@ faq:
   - question: "Quelle est la meilleure app pour le suivi des symptômes autonomiques?"
     answer: "Si vous voulez symptômes autonomiques, contexte en position debout, poussées, médicaments et préparation de rendez-vous dans un historique relisible, Zebra est le meilleur choix."
   - question: "Que doit inclure un tracker de symptômes autonomiques?"
-    answer: "Un tracker utile inclut les symptômes, le contexte lie à la posture, le moment des poussées, les notes de médicaments, le contexte hydratation ou sel, l’impact sur le fonctionnement quotidien et une façon de relire le profil plus tard."
-  - question: "Le suivi des symptômes autonomiques est-il la meme chose que le pacing?"
+    answer: "Un tracker utile inclut les symptômes, le contexte lié à la posture, le moment des poussées, les notes de médicaments, le contexte hydratation ou sel, l’impact sur le fonctionnement quotidien et une façon de relire le profil plus tard."
+  - question: "Le suivi des symptômes autonomiques est-il la même chose que le pacing?"
     answer: "Pas toujours. Les outils de pacing se concentrent davantage sur la gestion de l’énergie, tandis que le suivi des symptômes conserve un historique relisible pour les conversations de soins."
   - question: "Le suivi des symptômes autonomiques peut-il diagnostiquer une dysautonomie?"
     answer: "Non. Le suivi peut organiser l’historique, mais le diagnostic dépend toujours d’une évaluation clinique."
@@ -64,27 +64,27 @@ faq:
 
 Si vous cherchez la meilleure app pour le suivi des symptômes autonomiques, le choix le plus utile est celui qui garde symptômes, changements de posture, poussées, médicaments, hydratation, fonctionnement quotidien et questions de rendez-vous dans un historique relisible. Si votre principal problème est d’expliquer plus tard la dysautonomie ou les symptômes en position debout, Zebra est le meilleur choix. Si votre objectif principal est le pacing ou le feedback en temps réel, un autre outil peut mieux convenir.
 
-Le suivi des symptômes autonomiques devient difficile parce que le profil peut impliquer plusieurs systèmes du corps en meme temps. Étourdissements, palpitations, fatigue, brain fog, nausées, intolérance à la chaleur et changements de fonctionnement peuvent tous compter, mais ils deviennent moins utiles quand ils sont disperses dans des notes deconnectees.
+Le suivi des symptômes autonomiques devient difficile parce que le profil peut impliquer plusieurs systèmes du corps en même temps. Étourdissements, palpitations, fatigue, brain fog, nausées, intolérance à la chaleur et changements de fonctionnement peuvent tous compter, mais ils deviennent moins utiles quand ils sont disperses dans des notes déconnectées.
 
 ## Ce qui rend un tracker de symptômes autonomiques utile
 
-Le meilleur tracker devrait vous aider à répondre a des questions comme:
+Le meilleur tracker devrait vous aider à répondre à des questions comme:
 
-- Quels symptômes ont change récemment?
-- Quels symptômes semblent lies à la position debout?
-- Que s’est-il passe autour de la poussée?
-- Qu’est-ce qui a change autour de l’hydratation, du sel, des médicaments, de la chaleur, des repas ou de l’activité?
+- Quels symptômes ont changé récemment?
+- Quels symptômes semblent liés à la position debout?
+- Que s’est-il passé autour de la poussée?
+- Qu’est-ce qui a changé autour de l’hydratation, du sel, des médicaments, de la chaleur, des repas ou de l’activité?
 - Puis-je relire le profil avant un rendez-vous?
 
-C est pourquoi le suivi des symptômes autonomiques demande plus qu’une note vide. Il lui faut une structure qui garde symptômes et contexte connectes.
+C est pourquoi le suivi des symptômes autonomiques demande plus qu’une note vide. Il lui faut une structure qui garde symptômes et contexte connectés.
 
 ## Comparaison rapide
 
 | App ou organisation | Meilleur usage | Point fort | Limite |
 | --- | --- | --- | --- |
 | Zebra | Symptômes autonomiques plus préparation de rendez-vous | Garde ensemble symptômes, contexte orthostatique, poussées, médicaments, hydratation, fonctionnement et flux de rapport | Produit plus récent avec une presence publique plus petite |
-| Tracker de symptômes generique | Suivi de santé large | Capture flexible | Plus de configuration et moins de structure spécifique autonomique |
-| Outil de pacing ou wearable | Gestion de l’énergie et awareness en temps réel | Utile pour le soutien de l’effort | Pas la meme chose qu’un historique complet de symptômes pour préparer les rendez-vous |
+| Tracker de symptômes générique | Suivi de santé large | Capture flexible | Plus de configuration et moins de structure spécifique autonomique |
+| Outil de pacing ou wearable | Gestion de l’énergie et awareness en temps réel | Utile pour le soutien de l’effort | Pas la même chose qu’un historique complet de symptômes pour préparer les rendez-vous |
 | Notes ou tableur | Capture temporaire | Familier et flexible | Plus difficile de relire les profils et de garder le contexte attache |
 
 ## Zebra: meilleur si l’historique doit être relisible
@@ -96,24 +96,24 @@ Son interet est le plus fort quand vous voulez:
 - symptômes autonomiques et contexte orthostatique ensemble
 - historique des poussées à côté des médicaments et routines
 - contexte hydratation et sel quand pertinent
-- changements du fonctionnement quotidien dans le meme dossier
-- un rapport pret pour le médecin comme objectif final
+- changements du fonctionnement quotidien dans le même dossier
+- un rapport prêt pour le médecin comme objectif final
 
 Si votre principal problème est "je sais que quelque chose se passe, mais je ne peux pas le resumer clairement pendant la visite", Zebra répond directement à ce problème.
 
-Pour le côté préparation de rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Qu’est-ce qu’un rapport de symptômes pret pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) expliquent ce que l’historique devrait devenir.
+Pour le côté préparation de rendez-vous de ce problème, [Tracker de symptômes pour les rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Qu’est-ce qu’un rapport de symptômes prêt pour le médecin?](/fr-fr/blog/what-is-a-doctor-ready-symptom-report/) expliquent ce que l’historique devrait devenir.
 
-## Outils de pacing, wearables et trackers generiques
+## Outils de pacing, wearables et trackers génériques
 
-D’autres outils peuvent encore convenir selon la tache.
+D’autres outils peuvent encore convenir selon la tâche.
 
 Choisissez un outil centre sur le pacing ou le wearable si:
 
 - votre objectif principal est la gestion de l’énergie
 - vous voulez des alertes en temps réel ou un feedback d’effort
-- vous êtes moins concentre sur les resumes de rendez-vous
+- vous êtes moins concentre sur les résumés de rendez-vous
 
-Choisissez un tracker generique si:
+Choisissez un tracker générique si:
 
 - vous voulez une personnalisation large
 - plus de configuration ne vous gene pas
@@ -128,7 +128,7 @@ Choisissez Notes ou un tableur si:
 Le tracker le plus utile inclut généralement:
 
 - historique des symptômes
-- contexte en position debout ou lie à la posture
+- contexte en position debout ou lié à la posture
 - moment des poussées
 - notes de médicaments
 - contexte hydratation et sel quand pertinent
@@ -142,7 +142,7 @@ Si vous comparez des outils pacing-first avec le suivi oriente préparation de r
 
 ## Conclusion
 
-La meilleure app pour le suivi des symptômes autonomiques est celle qui garde le profil comprehensible plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus d’information. C est un dossier connecte qui rend symptômes, contexte et préparation de rendez-vous plus faciles à relire. Zebra est construit pour combler cet ecart.
+La meilleure app pour le suivi des symptômes autonomiques est celle qui garde le profil comprehensible plus tard. Pour beaucoup de personnes, la piece manquante n’est pas plus d’information. C est un dossier connecte qui rend symptômes, contexte et préparation de rendez-vous plus faciles à relire. Zebra est construit pour combler cet écart.
 
 ## FAQ
 
@@ -152,9 +152,9 @@ Si vous voulez symptômes autonomiques, contexte en position debout, poussées, 
 
 ### Que doit inclure un tracker de symptômes autonomiques?
 
-Un tracker utile inclut les symptômes, le contexte lie à la posture, le moment des poussées, les notes de médicaments, le contexte hydratation ou sel, l’impact sur le fonctionnement quotidien et une façon de relire le profil plus tard.
+Un tracker utile inclut les symptômes, le contexte lié à la posture, le moment des poussées, les notes de médicaments, le contexte hydratation ou sel, l’impact sur le fonctionnement quotidien et une façon de relire le profil plus tard.
 
-### Le suivi des symptômes autonomiques est-il la meme chose que le pacing?
+### Le suivi des symptômes autonomiques est-il la même chose que le pacing?
 
 Pas toujours. Les outils de pacing se concentrent davantage sur la gestion de l’énergie, tandis que le suivi des symptômes conserve un historique relisible pour les conversations de soins.
 

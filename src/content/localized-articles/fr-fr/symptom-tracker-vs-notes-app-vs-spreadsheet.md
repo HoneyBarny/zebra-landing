@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "symptom-tracker-vs-notes-app-vs-spreadsheet"
 title: "Suivi des symptômes vs app de notes vs tableur"
 status: "published"
-subtitle: "Une app de notes est ideale pour les pensees rapides. Un tableur est ideal quand vous voulez un controle total sur les colonnes. Un outil de suivi des symptômes est ideal quand le dossier doit survivre au brain fog, aux poussées, aux changements de médicaments et à la préparation des rendez-vous médicaux."
+subtitle: "Une app de notes est ideale pour les pensées rapides. Un tableur est ideal quand vous voulez un controle total sur les colonnes. Un outil de suivi des symptômes est ideal quand le dossier doit survivre au brain fog, aux poussées, aux changements de médicaments et à la préparation des rendez-vous médicaux."
 description: "Un guide pratique pour choisir entre une app de notes, un tableur ou un outil de suivi des symptômes pour maladie chronique et rendez-vous médicaux."
 excerpt: "Un guide pratique pour choisir entre une app de notes, un tableur ou un outil de suivi des symptômes pour maladie chronique et rendez-vous médicaux."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/pattern-comparison.png"
 heroImageAlt: "Comparaison des apps de notes, tableurs et outils de suivi des symptômes pour maladie chronique"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Voyez comment Zebra garde tout dans une meme chronologie."
+ctaNote: "Voyez comment Zebra garde tout dans une même chronologie."
 featured: false
 categories:
   - "Comparisons"
@@ -55,7 +55,7 @@ faq:
   - question: "Un tableur est-il meilleur qu'un outil de suivi des symptômes?"
     answer: "Cela dépend de votre façon de travailler. Les tableurs offrent du controle, mais ils creent aussi plus d'entretien. Un outil de suivi des symptômes est souvent plus facile pour un usage quotidien repete."
   - question: "Pourquoi ne pas utiliser simplement Apple Notes?"
-    answer: "Vous pouvez. Le problème n'est généralement pas de savoir si Notes peut stocker l'information. C'est de savoir si cette information reste assez organisee pour être utile plus tard."
+    answer: "Vous pouvez. Le problème n'est généralement pas de savoir si Notes peut stocker l'information. C'est de savoir si cette information reste assez organisée pour être utile plus tard."
 ---
 
 Un système de suivi des symptômes casse généralement dans l'un de deux moments:
@@ -65,9 +65,9 @@ Un système de suivi des symptômes casse généralement dans l'un de deux momen
 
 C'est la meilleure façon de comparer une app de notes, un tableur et un outil de suivi des symptômes.
 
-Pas selon celui qui a le plus de fonctionnalites.
+Pas selon celui qui a le plus de fonctionnalités.
 
-Selon celui qui fonctionne encore quand vous avez du brain fog, une poussée, peu de temps, ou quand vous essayez de vous rappeler ce qui a change depuis la dernière visite.
+Selon celui qui fonctionne encore quand vous avez du brain fog, une poussée, peu de temps, ou quand vous essayez de vous rappeler ce qui a changé depuis la dernière visite.
 
 ## Quand une app de notes fonctionne
 
@@ -80,9 +80,9 @@ Les apps de notes fonctionnent bien quand vous avez besoin de:
 
 Elles sont souvent le point de départ le plus simple.
 
-Utilisez une app de notes quand la pensee est petite et immediate:
+Utilisez une app de notes quand la pensée est petite et immediate:
 
-- "demander pour les étourdissements après le dejeuner"
+- "demander pour les étourdissements après le déjeuner"
 - "nouvelle douleur a l'epaule commencee mardi"
 - "mentionner que le sommeil empire"
 
@@ -95,9 +95,9 @@ Les tableurs fonctionnent bien quand vous voulez:
 - des colonnes
 - de la coherence
 - plus de controle manuel
-- une façon simple de suivre des catégories repetees
+- une façon simple de suivre des catégories répétées
 
-Utilisez un tableur quand vous voulez choisir chaque champ vous-meme:
+Utilisez un tableur quand vous voulez choisir chaque champ vous-même:
 
 - date
 - symptôme
@@ -116,9 +116,9 @@ Un outil de suivi des symptômes est généralement le plus fort quand vous avez
 - suivi des poussées
 - contexte des médicaments
 - impact fonctionnel
-- resume plus clair avant les rendez-vous
+- résumé plus clair avant les rendez-vous
 
-C'est particulierement vrai si le problème n'est plus: "j'oublie d'écrire les choses."
+C'est particulièrement vrai si le problème n'est plus: "j'oublie d'écrire les choses."
 
 Le problème est devenu:
 
@@ -138,7 +138,7 @@ Un bon dossier de symptômes n'a pas besoin d'être parfait. Il doit être utili
 
 - quand cela a-t-il commence?
 - est-ce normal pour vous?
-- qu'est-ce qui a change autour de ce moment?
+- qu'est-ce qui a changé autour de ce moment?
 - comment cela a-t-il affecte le fonctionnement quotidien?
 - les médicaments, le sel, l'eau, le sommeil, la chaleur ou l'activité ont-ils aussi change?
 
@@ -146,15 +146,15 @@ Un bon dossier de symptômes n'a pas besoin d'être parfait. Il doit être utili
 
 | Outil | Meilleur pour | Partie la plus difficile |
 | --- | --- | --- |
-| App de notes | Pensees rapides, questions, détails ponctuels | Transformer des notes dispersees en tendance |
-| Tableur | Colonnes personnalisees et controle manuel | Le tenir a jour les jours de faible énergie |
+| App de notes | Pensées rapides, questions, détails ponctuels | Transformer des notes dispersées en tendance |
+| Tableur | Colonnes personnalisées et controle manuel | Le tenir a jour les jours de faible énergie |
 | Suivi des symptômes | Historique continu et préparation des rendez-vous | Choisir un outil adapte à votre condition et à votre façon de travailler |
 
 ## Choisissez selon le travail
 
 Choisissez une app de notes si vous avez besoin d'un bloc-notes.
 
-Choisissez un tableur si vous aimez construire la structure vous-meme.
+Choisissez un tableur si vous aimez construire la structure vous-même.
 
 Choisissez un outil de suivi des symptômes si le dossier doit relier poussées, symptômes, contexte des médicaments, impact fonctionnel et préparation médicale sans reconstruire toute l'histoire à la main.
 
@@ -166,11 +166,11 @@ Zebra est fait pour le moment où les notes et les tableurs ne suffisent plus.
 
 Il est conçu pour les personnes qui veulent:
 
-- symptômes, poussées, fonctionnement, médicaments et contexte lie au meme endroit
+- symptômes, poussées, fonctionnement, médicaments et contexte lié au même endroit
 - suivi spécifique pour les chevauchements POTS, EDS et fibromyalgie
-- un rapport pret pour le médecin comme résultat d'un historique organise
+- un rapport prêt pour le médecin comme résultat d'un historique organise
 
-Si votre système actuel fonctionne et que vous pouvez l'utiliser de façon fiable avant les rendez-vous, vous n'avez peut-être pas besoin de le changer. Si votre système actuel est disperse, epuisant ou difficile à relire, c'est la qu'un outil dedie aide le plus.
+Si votre système actuel fonctionne et que vous pouvez l'utiliser de façon fiable avant les rendez-vous, vous n'avez peut-être pas besoin de le changer. Si votre système actuel est disperse, épuisant ou difficile à relire, c'est la qu'un outil dedie aide le plus.
 
 ## En bref
 
@@ -192,4 +192,4 @@ Cela dépend de votre façon de travailler. Les tableurs offrent du controle, ma
 
 ### Pourquoi ne pas utiliser simplement Apple Notes?
 
-Vous pouvez. Le problème n'est généralement pas de savoir si Notes peut stocker l'information. C'est de savoir si cette information reste assez organisee pour être utile plus tard.
+Vous pouvez. Le problème n'est généralement pas de savoir si Notes peut stocker l'information. C'est de savoir si cette information reste assez organisée pour être utile plus tard.

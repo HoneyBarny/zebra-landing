@@ -103,7 +103,7 @@ Si tu problema principal es "se que algo está pasando, pero no puedo resumirlo 
 
 Para el lado de preparación de citas de ese problema, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) y [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explican en que debería convertirse la historia.
 
-## Herramientas de pacing, wearables y rastreadores genericos
+## Herramientas de pacing, wearables y rastreadores genéricos
 
 Otras herramientas todavía pueden encajar según el trabajo.
 

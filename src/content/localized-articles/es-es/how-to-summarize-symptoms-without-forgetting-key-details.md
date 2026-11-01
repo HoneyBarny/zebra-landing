@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-summarize-symptoms-without-forgetting-key-details"
 status: "published"
 title: "Como resumir síntomas sin olvidar detalles clave"
-subtitle: "Para resumir síntomas sin olvidar detalles clave, empieza con que cambió, que afectó la vida diaria, que cambios de tratamiento o rutina importan y con que necesitas ayuda ahora. Un buen resumen de síntomas es lo bastante corto para usar bajo presión y lo bastante estructurado para evitar que los detalles importantes desaparezcan cuando llega el brain fog."
+subtitle: "Para resumir síntomas sin olvidar detalles clave, empieza con qué cambió, qué afectó la vida diaria, que cambios de tratamiento o rutina importan y con que necesitas ayuda ahora. Un buen resumen de síntomas es lo bastante corto para usar bajo presión y lo bastante estructurado para evitar que los detalles importantes desaparezcan cuando llega el brain fog."
 description: "Aprende como resumir síntomas con claridad para citas sin perder los detalles que más importan."
 excerpt: "Aprende como resumir síntomas con claridad para citas sin perder los detalles que más importan."
 author: "zebra-editorial"
@@ -51,7 +51,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cómo resumo síntomas para una visita médica?"
-    answer: "Enfócate en que cambió, cómo afectó la vida diaria, que contexto relevante cambio alrededor y que pregunta necesitas responder."
+    answer: "Enfócate en qué cambió, cómo afectó la vida diaria, que contexto relevante cambio alrededor y que pregunta necesitas responder."
   - question: "¿Cómo dejo de olvidar detalles importantes durante las citas?"
     answer: "Usa un resumen escrito antes de la visita en lugar de depender de la memoria en la consulta."
   - question: "¿Qué tan largo debe ser un resumen de síntomas?"
@@ -74,7 +74,7 @@ La respuesta no es recordar con más fuerza. Es resumir mejor.
 
 ## Usa un resumen de cuatro partes
 
-### 1. Que cambió
+### 1. Qué cambió
 
 Empieza con el cambio más claro:
 

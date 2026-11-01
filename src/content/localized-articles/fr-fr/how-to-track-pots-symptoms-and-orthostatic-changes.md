@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-pots-symptoms-and-orthostatic-changes"
 title: "Comment suivre les symptômes de POTS et les changements orthostatiques"
 status: "published"
-subtitle: "Pour bien suivre les symptômes de POTS, concentrez-vous sur les symptômes les plus importants, leur moment d’apparition, leur changement avec la posture et ce qui se passait autour. Le but n’est pas de collecter des chiffres sans fin. Le but est de construire un historique clair des symptômes en position verticale, des poussées et du contexte associe, que vous pourrez relire plus tard ou apporter a un rendez-vous."
+subtitle: "Pour bien suivre les symptômes de POTS, concentrez-vous sur les symptômes les plus importants, leur moment d’apparition, leur changement avec la posture et ce qui se passait autour. Le but n’est pas de collecter des chiffres sans fin. Le but est de construire un historique clair des symptômes en position verticale, des poussées et du contexte associé, que vous pourrez relire plus tard ou apporter à un rendez-vous."
 description: "Apprenez à suivre les symptômes de POTS, les changements en position verticale, les poussées et les observations pertinentes à domicile dans un historique clair."
 excerpt: "Apprenez à suivre les symptômes de POTS, les changements en position verticale, les poussées et les observations pertinentes à domicile dans un historique clair."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Guide de suivi des symptômes de POTS et des changements orthostatiques dans une seule chronologie"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder les symptômes et les changements en position verticale dans la meme chronologie."
+ctaNote: "Utilisez Zebra pour garder les symptômes et les changements en position verticale dans la même chronologie."
 featured: false
 categories:
   - "POTS"
@@ -52,14 +52,14 @@ faq:
   - question: "Quels symptômes faut-il suivre avec POTS?"
     answer: "Suivez les symptômes les plus fréquents, perturbants ou pertinents pour vos soins, surtout les étourdissements, palpitations, fatigue, brain fog et changements de symptômes en position verticale."
   - question: "Faut-il suivre la fréquence cardiaque debout avec les symptômes?"
-    answer: "Si c est pertinent pour vos soins, oui. Elle est souvent plus utile lorsqu’elle est associee aux notes de symptômes et de posture plutôt que gardee séparément."
+    answer: "Si c est pertinent pour vos soins, oui. Elle est souvent plus utile lorsqu’elle est associée aux notes de symptômes et de posture plutôt que gardée séparément."
   - question: "Faut-il faire un test orthostatique complet tous les jours?"
-    answer: "Non. Beaucoup de personnes beneficient davantage d’un melange de suivi quotidien des symptômes et d’observations structurees liées à la posture de temps en temps."
+    answer: "Non. Beaucoup de personnes beneficient davantage d’un melange de suivi quotidien des symptômes et d’observations structurées liées à la posture de temps en temps."
 ---
 
-Pour bien suivre les symptômes de POTS, concentrez-vous sur les symptômes les plus importants, leur moment d’apparition, leur changement avec la posture et ce qui se passait autour. Le but n’est pas de collecter des chiffres sans fin. Le but est de construire un historique clair des symptômes en position verticale, des poussées et du contexte associe, que vous pourrez relire plus tard ou apporter a un rendez-vous.
+Pour bien suivre les symptômes de POTS, concentrez-vous sur les symptômes les plus importants, leur moment d’apparition, leur changement avec la posture et ce qui se passait autour. Le but n’est pas de collecter des chiffres sans fin. Le but est de construire un historique clair des symptômes en position verticale, des poussées et du contexte associé, que vous pourrez relire plus tard ou apporter à un rendez-vous.
 
-Le suivi de POTS devient beaucoup plus utile lorsque les symptômes et les observations orthostatiques vivent dans le meme dossier au lieu d’être dans des apps separees ou des captures d’écran.
+Le suivi de POTS devient beaucoup plus utile lorsque les symptômes et les observations orthostatiques vivent dans le même dossier au lieu d’être dans des apps séparées ou des captures d’écran.
 
 ## Que suivre
 
@@ -73,7 +73,7 @@ Les catégories utiles pour POTS incluent souvent:
 - nausées
 - brain fog
 - intolérance à l’effort
-- presyncope
+- présyncope
 
 Vous n’avez pas besoin de suivre chaque sensation possible tous les jours. Commencez par les symptômes qui:
 
@@ -82,7 +82,7 @@ Vous n’avez pas besoin de suivre chaque sensation possible tous les jours. Com
 - affectent le plus le fonctionnement
 - sont les plus pertinents pour vos soins actuels
 
-## Suivre les changements lies à la posture
+## Suivre les changements liés à la posture
 
 L’une des parties les plus utiles du suivi de POTS consiste à noter si les symptômes changent lorsque vous:
 
@@ -122,7 +122,7 @@ Pour les jours de poussée, suivez:
 
 ## Suivre les mesures pertinentes à domicile
 
-Si les observations de fréquence cardiaque ou de tension artérielle à domicile font partie de vos soins actuels ou de votre préparation, gardez-les organisées et reliees aux symptômes. Un schema simple suffit souvent:
+Si les observations de fréquence cardiaque ou de tension artérielle à domicile font partie de vos soins actuels ou de votre préparation, gardez-les organisées et reliées aux symptômes. Un schéma simple suffit souvent:
 
 - date
 - posture
@@ -138,11 +138,11 @@ Si les observations de fréquence cardiaque ou de tension artérielle à domicil
 
 ## Où Zebra s’intègre
 
-Zebra est conçu pour garder symptômes, poussées, médicaments, hydratation, sel et observations orthostatiques dans un seul dossier afin que l’histoire reste connectee. C est particulierement utile pour les personnes avec POTS qui suivent aussi EDS, fibromyalgie ou d’autres symptômes qui se chevauchent.
+Zebra est conçu pour garder symptômes, poussées, médicaments, hydratation, sel et observations orthostatiques dans un seul dossier afin que l’histoire reste connectée. C est particulièrement utile pour les personnes avec POTS qui suivent aussi EDS, fibromyalgie ou d’autres symptômes qui se chevauchent.
 
 ## Points clés
 
-- Suivez ensemble symptômes, changements lies à la posture, contexte et poussées.
+- Suivez ensemble symptômes, changements liés à la posture, contexte et poussées.
 - Gardez le dossier assez simple pour l’utiliser les mauvais jours.
 - Utilisez les mesures à domicile comme contexte utile, pas comme autodiagnostic.
 - Un dossier connecte est plus facile à relire que plusieurs outils separes.
@@ -155,8 +155,8 @@ Suivez les symptômes les plus fréquents, perturbants ou pertinents pour vos so
 
 ### Faut-il suivre la fréquence cardiaque debout avec les symptômes?
 
-Si c est pertinent pour vos soins, oui. Elle est souvent plus utile lorsqu’elle est associee aux notes de symptômes et de posture plutôt que gardee séparément.
+Si c est pertinent pour vos soins, oui. Elle est souvent plus utile lorsqu’elle est associée aux notes de symptômes et de posture plutôt que gardée séparément.
 
 ### Faut-il faire un test orthostatique complet tous les jours?
 
-Non. Beaucoup de personnes beneficient davantage d’un melange de suivi quotidien des symptômes et d’observations structurees liées à la posture de temps en temps.
+Non. Beaucoup de personnes beneficient davantage d’un melange de suivi quotidien des symptômes et d’observations structurées liées à la posture de temps en temps.

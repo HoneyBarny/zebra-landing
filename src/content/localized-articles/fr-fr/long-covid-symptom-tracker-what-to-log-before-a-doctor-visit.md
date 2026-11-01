@@ -18,12 +18,12 @@ primaryKeyword: "suivi symptômes Long COVID"
 seoTitle: "Suivi des symptômes du Long COVID: quoi noter | Zebra"
 metaDescription: "Suivez le Long COVID avec fatigue, brain fog, PEM, vertiges, palpitations, essoufflement, activité, fonction et notes médecin."
 ogTitle: "Suivi des symptômes du Long COVID: quoi noter avant un rendez-vous"
-ogDescription: "Notez domaines de symptômes, aggravation retardee, symptômes orthostatiques, impact fonctionnel et questions medicales."
+ogDescription: "Notez domaines de symptômes, aggravation retardée, symptômes orthostatiques, impact fonctionnel et questions medicales."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Écran de suivi quotidien Zebra avec symptômes, notes et contexte fonctionnel."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder symptômes de Long COVID, contexte d'activité, crashes retardes, médicaments et questions pour le médecin dans une meme timeline."
+ctaNote: "Utilisez Zebra pour garder symptômes de Long COVID, contexte d'activité, crashes retardes, médicaments et questions pour le médecin dans une même timeline."
 categories:
   - "Symptom Tracking"
   - "Fatigue"
@@ -61,18 +61,18 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Que suivre pour le Long COVID?"
-    answer: "Notez les principaux domaines de symptômes, l'aggravation retardee après activité, les vertiges ou le pouls rapide debout, l'essoufflement, le sommeil, les médicaments, l'impact fonctionnel et les questions pour votre médecin."
+    answer: "Notez les principaux domaines de symptômes, l'aggravation retardée après activité, les vertiges ou le pouls rapide debout, l'essoufflement, le sommeil, les médicaments, l'impact fonctionnel et les questions pour votre médecin."
   - question: "Faut-il suivre l'activité si j'ai du PEM ou PESE?"
-    answer: "Oui, mais avec peu d'effort. Notez l'activité ou le facteur de stress, quand les symptômes ont empire, ce qui a change et combien de temps la récupération a pris."
+    answer: "Oui, mais avec peu d'effort. Notez l'activité ou le facteur de stress, quand les symptômes ont empire, ce qui a changé et combien de temps la récupération a pris."
   - question: "Un suivi de symptômes peut-il diagnostiquer le Long COVID?"
     answer: "Non. Le suivi peut organiser votre historique pour une visite médicale, mais le diagnostic et les décisions de traitement demandent une évaluation clinique."
   - question: "Comment suivre sans aggraver la fatigue?"
-    answer: "Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous."
+    answer: "Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passé autour, ce que cela vous a empêche de faire et une question pour le rendez-vous."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-[Le Long COVID](/fr-fr/knowledge/long-covid/) peut inclure des symptômes qui vont et viennent, changent avec le temps et touchent plusieurs parties de la vie quotidienne. Un suivi utile des symptômes du Long COVID ne doit pas vous demander un journal parfait. Il doit vous aider à garder les éléments les plus difficiles à reconstruire avant un rendez-vous médical: fatigue, brain fog, aggravation retardee, vertiges debout, essoufflement, palpitations, troubles du sommeil, douleur, médicaments, activité et fonction.
+[Le Long COVID](/fr-fr/knowledge/long-covid/) peut inclure des symptômes qui vont et viennent, changent avec le temps et touchent plusieurs parties de la vie quotidienne. Un suivi utile des symptômes du Long COVID ne doit pas vous demander un journal parfait. Il doit vous aider à garder les éléments les plus difficiles à reconstruire avant un rendez-vous médical: fatigue, brain fog, aggravation retardée, vertiges debout, essoufflement, palpitations, troubles du sommeil, douleur, médicaments, activité et fonction.
 
 Le but n'est pas de prouver chaque cause. Le but est de rendre votre historique plus facile à revoir avec un médecin.
 
@@ -97,16 +97,16 @@ Domaines utiles:
 
 Un jour difficile, choisissez les un a trois domaines principaux. C'est souvent suffisant.
 
-## Noter l'aggravation retardee sans trop suivre
+## Noter l'aggravation retardée sans trop suivre
 
-Beaucoup de personnes avec Long COVID decrivent des symptômes qui empirent après un effort physique, cognitif, emotionnel ou social. Les ressources CDC et NHS decrivent le post-exertional malaise ou post-exertional symptom exacerbation comme une partie fréquente du tableau Long COVID chez certaines personnes.
+Beaucoup de personnes avec Long COVID decrivent des symptômes qui empirent après un effort physique, cognitif, émotionnel ou social. Les ressources CDC et NHS decrivent le post-exertional malaise ou post-exertional symptom exacerbation comme une partie fréquente du tableau Long COVID chez certaines personnes.
 
 Si cela vous concerne, notez:
 
 - l'activité ou le facteur de stress
 - quand cela a eu lieu
 - quand les symptômes ont empire
-- quels symptômes ont change
+- quels symptômes ont changé
 - combien de temps la récupération a pris
 - ce que vous n'avez pas pu faire ensuite
 
@@ -151,16 +151,16 @@ Ajoutez des exemples:
 
 Cela aide le rendez-vous a se concentrer sur ce que les symptômes changent dans votre vie, pas seulement sur les noms des symptômes.
 
-## Garder médicaments, examens et notes de soins dans la meme timeline
+## Garder médicaments, examens et notes de soins dans la même timeline
 
-La prise en charge du Long COVID peut inclure plusieurs visites, examens, médicaments, complements, orientations et changements d'autogestion.
+La prise en charge du Long COVID peut inclure plusieurs visites, examens, médicaments, compléments, orientations et changements d'autogestion.
 
 Notez:
 
 - nouveaux médicaments
 - changements de dose ou d'horaire
-- doses manquees, si pertinent
-- complements si votre médecin les suit avec vous
+- doses manquées, si pertinent
+- compléments si votre médecin les suit avec vous
 - inhalateurs, antalgiques, médicaments du sommeil ou médicaments au besoin
 - examens et résultats à discuter
 - orientations ou plans de suivi
@@ -170,15 +170,15 @@ Ne changez pas le traitement seulement selon un suivi. Utilisez le dossier pour 
 
 ## Modele simple Long COVID
 
-Utilisez ceci quand l'énergie est limitee:
+Utilisez ceci quand l'énergie est limitée:
 
 1. Qu'est-ce qui a le plus change aujourd'hui?
 2. Qu'y avait-il autour: activité, maladie, stress, sommeil, repas, chaleur, médicament?
 3. Les symptômes ont-ils empire plus tard?
-4. Qu'est-ce que cela vous a empeche de faire?
+4. Qu'est-ce que cela vous a empêche de faire?
 5. Quelle question apporter au prochain rendez-vous?
 
-Si vous ne repondez qu'a une question, prenez la quatrieme. L'impact fonctionnel est souvent ce que la mémoire perd en premier.
+Si vous ne repondez qu'a une question, prenez la quatrième. L'impact fonctionnel est souvent ce que la mémoire perd en premier.
 
 ## Quoi resumer avant le rendez-vous
 
@@ -190,7 +190,7 @@ Avant une visite médicale, sortez:
 - symptômes debout ou palpitations, si presents
 - essoufflement ou symptômes thoraciques, si presents
 - changements de sommeil
-- changements de médicaments ou complements
+- changements de médicaments ou compléments
 - exemples d'impact fonctionnel
 - top 3 questions
 
@@ -199,7 +199,7 @@ Questions utiles:
 - "Quels symptômes devons-nous prioriser d'abord?"
 - "Certains symptômes pourraient-ils suggerer dysautonomie, POTS, PEM type ME/CFS, problème respiratoire, cardiaque, anemie, thyroide, effets médicamenteux ou autre chose à évaluer?"
 - "Que dois-je suivre d'ici le prochain rendez-vous?"
-- "Quels symptômes doivent mener a des soins urgents?"
+- "Quels symptômes doivent mener à des soins urgents?"
 - "Quelles limites d'activité ou conseils de pacing dois-je suivre?"
 
 ## Contexte des sources
@@ -215,27 +215,27 @@ Contexte utile:
 
 ## Où Zebra aide
 
-Zebra aide à garder symptômes, crashes retardes, contexte d'activité, [impact fonctionnel](/fr-fr/knowledge/functional-impact/), médicaments, constantes, notes et questions pour le médecin dans une meme timeline.
+Zebra aide à garder symptômes, crashes retardes, contexte d'activité, [impact fonctionnel](/fr-fr/knowledge/functional-impact/), médicaments, constantes, notes et questions pour le médecin dans une même timeline.
 
 Zebra ne diagnostique pas le Long COVID et ne decide pas du bon traitement. Il vous aide à apporter un dossier plus clair au médecin qui peut le faire.
 
 ## Points clés
 
 - Suivez le Long COVID par domaine de symptômes, pas en essayant de tout noter.
-- Gardez activité, aggravation retardee, récupération et impact fonctionnel ensemble.
+- Gardez activité, aggravation retardée, récupération et impact fonctionnel ensemble.
 - Notez séparément les symptômes debout si rester debout aggrave les symptômes.
 - Les médicaments et notes de soins sont plus faciles à revoir quand ils restent avec les symptômes.
-- Le meilleur résultat du suivi est un court resume pour le rendez-vous et de meilleures questions.
+- Le meilleur résultat du suivi est un court résumé pour le rendez-vous et de meilleures questions.
 
 ## FAQ
 
 ### Que suivre pour le Long COVID?
 
-Notez les principaux domaines de symptômes, l'aggravation retardee après activité, les vertiges ou le pouls rapide debout, l'essoufflement, le sommeil, les médicaments, l'impact fonctionnel et les questions pour votre médecin.
+Notez les principaux domaines de symptômes, l'aggravation retardée après activité, les vertiges ou le pouls rapide debout, l'essoufflement, le sommeil, les médicaments, l'impact fonctionnel et les questions pour votre médecin.
 
 ### Faut-il suivre l'activité si j'ai du PEM ou PESE?
 
-Oui, mais avec peu d'effort. Notez l'activité ou le facteur de stress, quand les symptômes ont empire, ce qui a change et combien de temps la récupération a pris.
+Oui, mais avec peu d'effort. Notez l'activité ou le facteur de stress, quand les symptômes ont empire, ce qui a changé et combien de temps la récupération a pris.
 
 ### Un suivi de symptômes peut-il diagnostiquer le Long COVID?
 
@@ -243,7 +243,7 @@ Non. Le suivi peut organiser votre historique pour une visite médicale, mais le
 
 ### Comment suivre sans aggraver la fatigue?
 
-Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passe autour, ce que cela vous a empeche de faire et une question pour le rendez-vous.
+Utilisez l'entrée minimale utile: ce qui a le plus change, ce qui s'est passé autour, ce que cela vous a empêche de faire et une question pour le rendez-vous.
 
 ### Zebra est-il un avis médical?
 

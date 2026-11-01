@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "doctor-appointment-symptom-checklist"
 title: "Lista de síntomas para una cita médica"
 status: "published"
-subtitle: "Una lista de síntomas para una cita médica te ayuda a llevar los detalles correctos sin intentar recordar todo tu historial de salud en la sala de espera. La lista más útil incluye tus síntomas principales, que cambió, patrones de brotes, impacto funcional, medicamentos, mediciones relevantes y las preguntas principales que necesitas responder."
+subtitle: "Una lista de síntomas para una cita médica te ayuda a llevar los detalles correctos sin intentar recordar todo tu historial de salud en la sala de espera. La lista más útil incluye tus síntomas principales, qué cambió, patrones de brotes, impacto funcional, medicamentos, mediciones relevantes y las preguntas principales que necesitas responder."
 description: "Usa esta lista de síntomas para una cita médica para organizar síntomas, brotes, medicamentos, cambios funcionales y preguntas antes de la visita."
 excerpt: "Una lista práctica de síntomas para preparar notas más claras antes de una cita médica, de especialista o de cardiología."
 author: "zebra-editorial"
@@ -55,7 +55,7 @@ schemaTypes:
 faq: 
   - question: "¿Qué síntomas debo anotar antes de una cita médica?"
     answer: "Anota los síntomas más relevantes para la visita, especialmente síntomas nuevos, peores, frecuentes, disruptivos o conectados con el motivo de la cita."
-  - question: "¿Qué debo llevar a una cita médica por síntomas cronicos?"
+  - question: "¿Qué debo llevar a una cita médica por síntomas crónicos?"
     answer: "Lleva un resumen breve de síntomas, lista de medicamentos y suplementos, cambios recientes, mediciones relevantes, notas de brotes importantes, ejemplos de impacto funcional y tus preguntas principales."
   - question: "¿Qué tan larga debe ser mi lista de síntomas?"
     answer: "Mantenla lo bastante corta para revisarla durante la visita. Una página o unas pocas secciones organizadas suelen ser más útiles que un diario largo."
@@ -69,7 +69,7 @@ Una lista de síntomas para una cita médica te ayuda a llevar los detalles corr
 
 El objetivo no es llegar con registros perfectos. El objetivo es hacer que la cita sea más fácil de usar.
 
-Esto importa en enfermedades cronicas porque los síntomas pueden cambiar despacio, solaparse o mezclarse durante los días de brote. Cuando por fin te sientas con el médico, puede ser difícil recordar qué pasó esta semana, qué pasó el mes pasado y que querias preguntar.
+Esto importa en enfermedades crónicas porque los síntomas pueden cambiar despacio, solaparse o mezclarse durante los días de brote. Cuando por fin te sientas con el médico, puede ser difícil recordar qué pasó esta semana, qué pasó el mes pasado y que querías preguntar.
 
 ## Lista rápida
 
@@ -99,7 +99,7 @@ Para muchas personas que usan Zebra, pueden incluir:
 - palpitaciones
 - brain fog
 - dolor
-- nausea
+- náusea
 - falta de aire
 - debilidad
 - intolerancia al ejercicio
@@ -107,9 +107,9 @@ Para muchas personas que usan Zebra, pueden incluir:
 
 Elige síntomas nuevos, peores, repetidos o que afecten más la vida diaria. Si enumeras veinte síntomas, los más importantes pueden perderse. Si eliges tres a cinco, la conversación tiene un centro.
 
-MedlinePlus recomienda anotar detalles de los síntomas antes de una visita, incluyendo cuales son, cuando aparecen, cuanto tiempo llevan ocurriendo y si han cambiado. Consulta [Make the most of your doctor visit](https://medlineplus.gov/ency/patientinstructions/000860.htm).
+MedlinePlus recomienda anotar detalles de los síntomas antes de una visita, incluyendo cuáles son, cuándo aparecen, cuánto tiempo llevan ocurriendo y si han cambiado. Consulta [Make the most of your doctor visit](https://medlineplus.gov/ency/patientinstructions/000860.htm).
 
-## 2. Que cambió
+## 2. Qué cambió
 
 Los médicos a menudo necesitan el cambio, no solo el nombre del síntoma.
 
@@ -169,7 +169,7 @@ Lleva una lista actual de:
 - efectos secundarios o preocupaciones
 - dosis omitidas si es relevante
 
-AHRQ aconseja llevar todos los medicamentos, incluidos medicamentos recetados, sin receta, vitaminas y suplementos dieteticos o herbales, y escribir preguntas antes de la cita. Consulta [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html).
+AHRQ aconseja llevar todos los medicamentos, incluidos medicamentos recetados, sin receta, vitaminas y suplementos dietéticos o herbales, y escribir preguntas antes de la cita. Consulta [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html).
 
 ## 6. Mediciones relevantes
 

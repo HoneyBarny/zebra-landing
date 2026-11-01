@@ -64,7 +64,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar si los síntomas de POTS son peores por la mañana?"
-    answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudó, tiempo de recuperación e impacto diario."
+    answer: "Registre hora de despertar, calidad del sueño, primer cambio de posición, tiempo de pie, líquidos, sal, desayuno, horario de medicación, síntomas, frecuencia cardíaca o presión arterial si ya las mide, qué ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Pueden los síntomas de POTS ser peores por la mañana?"
     answer: "Sí. NHS y PoTS UK describen que los síntomas de PoTS pueden ser peores por la mañana y cambiar de un día a otro. Un clínico debe evaluar su patrón específico."
   - question: "¿Debo medir mi frecuencia cardíaca antes de levantarme?"
@@ -75,7 +75,7 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mañanas son más difíciles que el resto del día. Levantarse de la cama puede traer mareo, corazon acelerado, náuseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
+Algunas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS, migraña o enfermedad crónica notan que las mañanas son más difíciles que el resto del día. Levantarse de la cama puede traer mareo, corazón acelerado, náuseas, temblor, debilidad, niebla mental, sudoración, dolor de cabeza o necesidad de sentarse otra vez.
 
 Un registro de síntomas matutinos de POTS no diagnostica POTS, disautonomía, presión baja, deshidratación, trastornos del sueño, efectos de medicación ni ninguna otra condición. Le ayuda a llevar a su clínico un patrón más claro de la primera hora: qué pasó al despertar, qué cambió los síntomas y cuánto afectó la mañana.
 
@@ -92,7 +92,7 @@ Registre:
 - insomnio o sueño inquieto
 - enfermedad, fiebre, dolor, migraña o brote durante la noche
 - momento del ciclo, si aplica
-- alcohol, cafeina o comidas tardias
+- alcohol, cafeína o comidas tardías
 - si desperto ya con síntomas
 
 Ejemplo: "Desperte 7:20 después de 5 horas de sueño interrumpido. Mareo antes de ponerme de pie, niebla mental 6/10. Empeoro al caminar al baño."
@@ -143,7 +143,7 @@ Notas matutinas comunes:
 
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - náuseas
@@ -169,7 +169,7 @@ Anote si intento:
 - sentarse al borde de la cama antes de ponerse de pie
 - levantarse más despacio
 - tomar líquidos antes de estar de pie
-- desayunar o comer un pequeno snack
+- desayunar o comer un pequeño snack
 - electrolitos
 - sal, si se recomendo
 - prendas de compresión
@@ -198,11 +198,11 @@ Registre si afectaron:
 - citas
 - planes sociales
 
-"Necesite 20 minutos antes del trabajo" y "falte al trabajo porque no podia mantenerme de pie" son patrones muy distintos.
+"Necesite 20 minutos antes del trabajo" y "falte al trabajo porque no podía mantenerme de pie" son patrones muy distintos.
 
 ## Qué Resumir Antes De Una Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, Long COVID, EDS, disautonomía o rehabilitación, resuma:
+Antes de una consulta de atención primaria, cardiología, neurología, Long COVID, EDS, disautonomía o rehabilitación, resuma:
 
 - cuantas mañanas por semana se ven afectadas
 - si los síntomas empiezan antes o después de ponerse de pie
@@ -213,7 +213,7 @@ Antes de una consulta de atención primaria, cardiología, neurologia, Long COVI
 - qué ayudó
 - tiempo de recuperación
 - impacto diario
-- desmayo, dolor de pecho, falta de aire intensa, confusión, lesión o nuevos síntomas neurologicos
+- desmayo, dolor de pecho, falta de aire intensa, confusión, lesión o nuevos síntomas neurológicos
 
 Preguntas útiles:
 

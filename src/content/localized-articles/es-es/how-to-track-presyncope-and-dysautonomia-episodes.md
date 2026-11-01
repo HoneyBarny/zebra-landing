@@ -1,10 +1,10 @@
 ---
 locale: "es-es"
 originalSlug: "how-to-track-presyncope-and-dysautonomia-episodes"
-title: "Como registrar presincope y episodios raros de disautonomía"
+title: "Como registrar presíncope y episodios raros de disautonomía"
 status: "published"
-subtitle: "El presincope puede ser difícil de explicar porque tal vez no llegas a desmayarte. Registra senales de aviso, postura, momento, desencadenantes, recuperación, signos vitales, medicamentos, hidratación e impacto diario para que tu médico vea el patrón."
-description: "Aprende como registrar presincope y episodios de disautonomía, incluyendo senales de aviso, postura, desencadenantes, recuperación, signos vitales y notas para la cita."
+subtitle: "El presíncope puede ser difícil de explicar porque tal vez no llegas a desmayarte. Registra senales de aviso, postura, momento, desencadenantes, recuperación, signos vitales, medicamentos, hidratación e impacto diario para que tu médico vea el patrón."
+description: "Aprende como registrar presíncope y episodios de disautonomía, incluyendo senales de aviso, postura, desencadenantes, recuperación, signos vitales y notas para la cita."
 excerpt: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía difíciles de describir."
 author: "zebra-editorial"
 publishedAt: "2026-08-08"
@@ -14,23 +14,23 @@ lastReviewed: "2026-08-08"
 featured: false
 cluster: "Dysautonomia"
 category: "Dysautonomia"
-primaryKeyword: "como registrar presincope"
-seoTitle: "Como registrar presincope y episodios de disautonomía | Zebra"
-metaDescription: "Registra presincope y episodios de disautonomía con senales de aviso, postura, desencadenantes, recuperación, signos vitales, medicamentos, hidratación y notas para el médico."
-ogTitle: "Como registrar presincope y episodios de disautonomía"
+primaryKeyword: "como registrar presíncope"
+seoTitle: "Como registrar presíncope y episodios de disautonomía | Zebra"
+metaDescription: "Registra presíncope y episodios de disautonomía con senales de aviso, postura, desencadenantes, recuperación, signos vitales, medicamentos, hidratación y notas para el médico."
+ogTitle: "Como registrar presíncope y episodios de disautonomía"
 ogDescription: "Una guía práctica para registrar casi desmayos, mareo y episodios de disautonomía difíciles de explicar."
 heroImage: "/screenshots/orthostatic-test-es.png"
 heroImageAlt: "Pantalla de prueba ortostática de Zebra con seguimiento de síntomas y signos vitales por posición."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener síntomas de presincope, desencadenantes, signos vitales, hidratación, medicamentos y notas para citas en una sola línea de tiempo."
+ctaNote: "Usa Zebra para mantener síntomas de presíncope, desencadenantes, signos vitales, hidratación, medicamentos y notas para citas en una sola línea de tiempo."
 categories: 
   - "Dysautonomia"
   - "POTS"
   - "Symptom Tracking"
   - "Appointment Preparation"
 tags: 
-  - "presincope"
+  - "presíncope"
   - "casi desmayo"
   - "disautonomía"
   - "intolerancia ortostática"
@@ -51,7 +51,7 @@ entities:
   - "Doctor-Ready Report"
 secondaryKeywords: 
   - "registrar casi desmayos"
-  - "tracker de síntomas de presincope"
+  - "tracker de síntomas de presíncope"
   - "tracker de episodios de disautonomía"
   - "episodios de intolerancia ortostática"
 schemaTypes: 
@@ -59,19 +59,19 @@ schemaTypes:
   - "HowTo"
   - "FAQPage"
 faq: 
-  - question: "¿Qué es el presincope?"
-    answer: "Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad."
-  - question: "¿Qué debo registrar durante un episodio de presincope?"
+  - question: "¿Qué es el presíncope?"
+    answer: "Presíncope significa sentir que podrías desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad."
+  - question: "¿Qué debo registrar durante un episodio de presíncope?"
     answer: "Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si están disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer."
   - question: "¿Debo registrar episodios que no terminan en desmayo?"
     answer: "Sí. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación."
-  - question: "¿Cuándo debo buscar ayuda médica por presincope?"
-    answer: "Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves."
+  - question: "¿Cuándo debo buscar ayuda médica por presíncope?"
+    answer: "Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurológicos o episodios que se sienten diferentes o graves."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El presincope es la sensación de "me voy a desmayar" que no siempre termina en [sincope](/es-es/knowledge/syncope/) completo. Puede ser breve, raro y difícil de describir después. A veces recuerdas más el miedo que los detalles.
+El presíncope es la sensación de "me voy a desmayar" que no siempre termina en [síncope](/es-es/knowledge/syncope/) completo. Puede ser breve, raro y difícil de describir después. A veces recuerdas más el miedo que los detalles.
 
 Por eso ayuda registrar. Una nota corta poco después del episodio puede mostrar a tu médico qué pasó, en que posición estabas, qué pudo desencadenarlo, cuánto tardó la recuperación y cómo afectó tu día.
 
@@ -89,7 +89,7 @@ Senales útiles:
 - náuseas
 - sudoración, rubor o calor repentino
 - temblor o debilidad
-- palpitaciones o corazon acelerado
+- palpitaciones o corazón acelerado
 - molestia en el pecho
 - falta de aire
 - brain fog o confusión
@@ -114,7 +114,7 @@ La guía de ACC, AHA y HRS describe la intolerancia ortostática como síntomas 
 
 ## Captura el contexto que pudo bajar tu umbral
 
-El presincope puede aparecer cuando varios factores se acumulan.
+El presíncope puede aparecer cuando varios factores se acumulan.
 
 Anota lo que aplicaba:
 
@@ -123,7 +123,7 @@ Anota lo que aplicaba:
 - deshidratación o menos líquidos de lo normal
 - comida omitida
 - comida grande
-- alcohol o cafeina si es relevante
+- alcohol o cafeína si es relevante
 - mal sueño
 - día de brote
 - infección, periodo, migraña o pico de dolor
@@ -160,7 +160,7 @@ Por ejemplo:
 - síntomas en ese mismo momento
 - qué pasó después de sentarte o acostarte
 
-No persigas números durante un episodio inseguro. Si sientes que podrias desmayarte, primero ponte a salvo. Los signos vitales solo ayudan si registrarlos no te pone en riesgo.
+No persigas números durante un episodio inseguro. Si sientes que podrías desmayarte, primero ponte a salvo. Los signos vitales solo ayudan si registrarlos no te pone en riesgo.
 
 ## Marca detalles de seguridad y senales de alarma
 
@@ -177,7 +177,7 @@ En tu tracker, marca:
 
 MedlinePlus senala que el desmayo a veces puede indicar un problema serio, así que episodios nuevos, graves o sin explicación merecen hablarse con un profesional de salud.
 
-## Plantilla rápida para presincope
+## Plantilla rápida para presíncope
 
 Usa esto cuando tengas brain fog:
 
@@ -194,10 +194,10 @@ El mejor tracker es el que puedes usar cuando estas agotado. Corto y constante g
 
 Información útil:
 
-- [Resumen de presincope de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/presyncope)
+- [Resumen de presíncope de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/presyncope)
 - [Resumen de disautonomía de Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6004-dysautonomia)
 - [Resumen de desmayo de MedlinePlus](https://medlineplus.gov/fainting.html)
-- [Guía de sincope ACC/AHA/HRS 2017](https://www.jacc.org/doi/10.1016/j.jacc.2017.03.003)
+- [Guía de síncope ACC/AHA/HRS 2017](https://www.jacc.org/doi/10.1016/j.jacc.2017.03.003)
 
 ## Dónde encaja Zebra
 
@@ -207,19 +207,19 @@ No te dice por qué ocurrió un episodio. Te ayuda a llevar una línea de tiempo
 
 ## Puntos clave
 
-- Registra presincope aunque no llegues a desmayarte.
+- Registra presíncope aunque no llegues a desmayarte.
 - Anota senales de aviso, postura, tiempo de pie, contexto, recuperación e impacto diario.
 - Agrega signos vitales solo si tu médico los quiere y es seguro registrarlos.
-- Marca claramente caidas, lesiones, perdida de conocimiento y síntomas inusuales.
+- Marca claramente caídas, lesiones, pérdida de conocimiento y síntomas inusuales.
 - Las notas cortas hechas pronto después del episodio suelen ser más útiles que notas largas desde la memoria.
 
 ## FAQ
 
-### ¿Qué es el presincope?
+### ¿Qué es el presíncope?
 
-Presincope significa sentir que podrias desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad.
+Presíncope significa sentir que podrías desmayarte sin perder completamente el conocimiento. Puede incluir mareo, debilidad, náuseas, sudoración, cambios visuales y sensación de inestabilidad.
 
-### ¿Qué debo registrar durante un episodio de presincope?
+### ¿Qué debo registrar durante un episodio de presíncope?
 
 Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, tiempo de recuperación, signos vitales si están disponibles, medicamentos, hidratación, sal y lo que tuviste que dejar de hacer.
 
@@ -227,9 +227,9 @@ Registra senales de aviso, postura, tiempo de pie, actividad, desencadenantes, t
 
 Sí. Los casi desmayos también pueden mostrar un patrón, especialmente si se repiten al estar de pie, con calor, comidas, duchas, esfuerzo, deshidratación o cambios de medicación.
 
-### ¿Cuándo debo buscar ayuda médica por presincope?
+### ¿Cuándo debo buscar ayuda médica por presíncope?
 
-Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurologicos o episodios que se sienten diferentes o graves.
+Pregunta a tu médico que síntomas son urgentes para ti. Busca atención urgente por síntomas preocupantes como dolor de pecho, dificultad para respirar, lesión, nuevos síntomas neurológicos o episodios que se sienten diferentes o graves.
 
 ### ¿Zebra es consejo médico?
 

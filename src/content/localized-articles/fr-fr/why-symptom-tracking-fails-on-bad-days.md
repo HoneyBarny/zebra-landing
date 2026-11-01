@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "why-symptom-tracking-fails-on-bad-days"
 title: "Pourquoi le suivi des symptômes echoue les mauvais jours"
 status: "published"
-subtitle: "Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin."
+subtitle: "Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passé. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin."
 description: "Apprenez pourquoi le suivi des symptômes s'effondre souvent les mauvais jours et comment une approche avec moins d'effort peut le rendre plus durable."
 excerpt: "Apprenez pourquoi le suivi des symptômes s'effondre souvent les mauvais jours et comment une approche avec moins d'effort peut le rendre plus durable."
 author: "zebra-editorial"
@@ -48,14 +48,14 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Pourquoi le suivi des symptômes est-il le plus difficile les mauvais jours?"
-    answer: "Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passe."
+    answer: "Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passé."
   - question: "Que faire si je manque des jours de suivi?"
     answer: "Recommencez avec aujourd'hui. Un dossier réel mais partiel est plus utile qu'une tentative tardive de rattrapage parfait."
   - question: "Les jours manques rendent-ils le suivi inutile?"
     answer: "Non. Un dossier imparfait mais utilisable reste precieux, surtout s'il capture les symptômes les plus forts et l'impact fonctionnel."
 ---
 
-Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passe. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin.
+Le suivi des symptômes echoue souvent les mauvais jours parce que les symptômes qui rendent le suivi important rendent aussi le suivi plus difficile. Fatigue, douleur, brain fog, étourdissements et surcharge reduisent l'énergie, la mémoire et la concentration nécessaires pour noter ce qui s'est passé. Quand un système de suivi suppose que vous pouvez toujours suivre, il casse exactement quand vous en avez le plus besoin.
 
 ## Le problème des mauvais jours
 
@@ -66,17 +66,17 @@ Les mauvais jours, les personnes gerent souvent:
 - moins de patience pour la configuration
 - moins de mémoire à la fin de la journée
 
-Cela signifie qu'un système de suivi conçu pour une regularite en bonne santé echouera souvent dans la realite de la maladie chronique.
+Cela signifie qu'un système de suivi conçu pour une régularité en bonne santé echouera souvent dans la réalité de la maladie chronique.
 
 ## Pourquoi cela mene a l'abandon
 
-Le schema est courant:
+Le schéma est courant:
 
 - départ motive
 - jour manque
-- culpabilite
+- culpabilité
 - pression de rattrapage
-- evitement
+- évitement
 - abandon
 
 Ce n'est pas un échec personnel. C'est souvent un échec de conception.
@@ -92,7 +92,7 @@ Un suivi adapte aux mauvais jours signifie généralement:
 
 Le but n'est pas les series. Il est de conserver assez d'historique pour aider plus tard.
 
-## Une meilleure norme de reussite
+## Une meilleure norme de réussite
 
 Les mauvais jours, reussir peut signifier:
 
@@ -100,7 +100,7 @@ Les mauvais jours, reussir peut signifier:
 - une note de sévérité
 - une note de fonctionnement
 
-Cela compte quand meme.
+Cela compte quand même.
 
 ## La place de Zebra
 
@@ -111,14 +111,14 @@ Pour les personnes qui cherchent un suivi pense pour la maladie invisible plutô
 ## Points clés
 
 - Le suivi echoue les mauvais jours parce que les symptômes reduisent la capacité nécessaire pour les noter.
-- La culpabilite et la pression de rattrapage aggravent l'abandon.
+- La culpabilité et la pression de rattrapage aggravent l'abandon.
 - Des entrées plus petites et des redemarrages plus faciles sont plus durables que la perfection.
 
 ## FAQ
 
 ### Pourquoi le suivi des symptômes est-il le plus difficile les mauvais jours?
 
-Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passe.
+Parce que la douleur, la fatigue, le brain fog et les étourdissements reduisent l'énergie et la concentration nécessaires pour noter ce qui s'est passé.
 
 ### Que faire si je manque des jours de suivi?
 

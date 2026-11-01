@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-mecfs-symptoms-without-triggering-pem"
 status: "published"
 title: "Comment suivre les symptômes d'EM/SFC sans declencher de PEM"
-subtitle: "Si vous avez une EM/SFC, la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au départ: votre énergie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider à repérer les tendances sans transformer la saisie en une autre forme d'effort."
+subtitle: "Si vous avez une EM/SFC, la partie la plus difficile du suivi des symptômes est souvent la même raison qui vous donne envie de suivre au départ: votre énergie est limitée, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider à repérer les tendances sans transformer la saisie en une autre forme d'effort."
 description: "Apprenez comment suivre les symptômes d'EM/SFC avec moins d'effort, afin de garder les tendances utiles sans créer plus de tension post-effort."
 excerpt: "Un guide a faible friction pour suivre les symptômes d'EM/SFC, les crashs retardes et le fonctionnement quotidien sans rendre le processus plus difficile à tenir."
 author: "zebra-editorial"
@@ -44,7 +44,7 @@ metaDescription: "Apprenez comment suivre les symptômes d'EM/SFC avec moins d'e
 ogTitle: "Comment suivre les symptômes d'EM/SFC sans declencher de PEM"
 ogDescription: "Une façon pratique et plus légère de garder un historique utile des symptômes sans transformer le suivi en nouvelle source d'effort."
 heroImage: "/screenshots/daily-tracking.png"
-heroImageAlt: "Écran de suivi quotidien Zebra montrant un check-in simple pour les symptômes, le fonctionnement et le contexte lie à la fatigue."
+heroImageAlt: "Écran de suivi quotidien Zebra montrant un check-in simple pour les symptômes, le fonctionnement et le contexte lié à la fatigue."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour garder les symptômes, les crashs retardes et les changements de fonctionnement quotidien dans un dossier plus facile à relire."
@@ -58,25 +58,25 @@ faq:
   - question: "Dois-je noter tous les symptômes chaque jour avec l'EM/SFC?"
     answer: "Non. Un rythme a faible effort est souvent plus durable qu'un suivi quotidien détaillé qui devient impossible à maintenir."
   - question: "Que suivre quand le PEM est retarde?"
-    answer: "Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, ce qui a change, combien de temps le crash à dure et quelles activités sont devenues plus difficiles."
+    answer: "Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, ce qui a changé, combien de temps le crash à dure et quelles activités sont devenues plus difficiles."
   - question: "Est-ce acceptable de sauter le suivi les pires jours?"
     answer: "Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplémentaire. Reprenez avec la plus petite entrée utile possible."
-  - question: "Un rapport pret pour le médecin peut-il aider si mon suivi est incomplet?"
-    answer: "Oui. Meme un dossier imparfait peut montrer les crashs récurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule."
+  - question: "Un rapport prêt pour le médecin peut-il aider si mon suivi est incomplet?"
+    answer: "Oui. Même un dossier imparfait peut montrer les crashs récurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule."
 ---
 
-Si vous avez une [EM/SFC](/fr-fr/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la meme raison qui vous donne envie de suivre au départ: votre énergie est limitee, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider à repérer les tendances sans transformer la saisie en une autre forme d'effort.
+Si vous avez une [EM/SFC](/fr-fr/knowledge/me-cfs/), la partie la plus difficile du suivi des symptômes est souvent la même raison qui vous donne envie de suivre au départ: votre énergie est limitée, votre mémoire est moins fiable les mauvais jours, et trop en faire dans le processus peut se retourner contre vous. Un système utile pour l'EM/SFC doit aider à repérer les tendances sans transformer la saisie en une autre forme d'effort.
 
 C'est encore plus important quand le [PEM](/fr-fr/knowledge/pem/) fait partie du tableau. Si une routine de suivi coute trop d'énergie, elle peut cesser d'être utile bien avant que le dossier devienne exploitable.
 
 ## Le but n'est pas un suivi parfait
 
-Pour l'EM/SFC, le but n'est généralement pas un journal détaillé de tout ce qui s'est passe.
+Pour l'EM/SFC, le but n'est généralement pas un journal détaillé de tout ce qui s'est passé.
 
 Le but est:
 
 - garder assez d'historique pour repérer les tendances
-- suivre les crashs et l'aggravation retardee
+- suivre les crashs et l'aggravation retardée
 - garder visibles les changements de fonctionnement quotidien
 - faciliter la préparation des rendez-vous plus tard
 
@@ -91,10 +91,10 @@ Les points de rupture courants incluent:
 - trop de champs
 - trop de texte à saisir
 - essayer de reconstruire toute la journée le soir
-- culpabilite après des entrées manquees
+- culpabilité après des entrées manquées
 - pression pour rattraper après un crash
 
-C'est proche de la meme boucle de mauvais jours décrite dans [Pourquoi le suivi des symptômes echoue les mauvais jours](/fr-fr/blog/why-symptom-tracking-fails-on-bad-days/), mais l'EM/SFC ajoute souvent une aggravation retardee qui rend la tendance encore plus difficile à reconstruire.
+C'est proche de la même boucle de mauvais jours décrite dans [Pourquoi le suivi des symptômes echoue les mauvais jours](/fr-fr/blog/why-symptom-tracking-fails-on-bad-days/), mais l'EM/SFC ajoute souvent une aggravation retardée qui rend la tendance encore plus difficile à reconstruire.
 
 ## Que suivre quand le PEM fait partie du tableau
 
@@ -102,11 +102,11 @@ Le dossier le plus utile garde généralement cinq choses ensemble:
 
 1. l'effort ou le facteur de stress
 2. quand les symptômes se sont aggraves
-3. quels symptômes ont change
+3. quels symptômes ont changé
 4. ce que cela a fait au fonctionnement
 5. combien de temps la récupération a pris
 
-C'est important parce que la partie retardee du [PEM](/fr-fr/knowledge/pem/) peut être facile à manquer si vous notez seulement comment vous vous sentiez sur le moment.
+C'est important parce que la partie retardée du [PEM](/fr-fr/knowledge/pem/) peut être facile à manquer si vous notez seulement comment vous vous sentiez sur le moment.
 
 ## Une structure de suivi EM/SFC avec moins d'effort
 
@@ -128,9 +128,9 @@ Si vous voulez la version minimum utile, suivez:
 - mauvais sommeil
 - rendez-vous ou trajets
 
-### Ce qui a change plus tard
+### Ce qui a changé plus tard
 
-- aggravation retardee
+- aggravation retardée
 - crash le lendemain
 - récupération plus longue
 - capacité réduite à fonctionner
@@ -151,9 +151,9 @@ Une des facons les plus claires de montrer le changement avec l'EM/SFC est de su
 
 Exemples:
 
-- besoin de m'allonger après une tache simple
+- besoin de m'allonger après une tâche simple
 - impossible de finir une conversation
-- difficulte à lire ou répondre aux messages
+- difficulté à lire ou répondre aux messages
 - besoin d'une récupération plus longue après être sorti
 - impossible de refaire une activité le lendemain
 
@@ -178,13 +178,13 @@ Cela donne un historique plus clair que d'essayer de reconstruire la chaîne plu
 - ne vous forcez pas à tout noter
 - ne depensez pas plus d'énergie dans le suivi que ce que le dossier vaut
 - ne traitez pas les jours manques comme un échec
-- ne separez pas symptômes, crashs et fonctionnement dans des systèmes completement differents
+- ne separez pas symptômes, crashs et fonctionnement dans des systèmes complètement différents
 
 Le dossier doit être durable avant de pouvoir être utile.
 
 ## Comment cela aide avant les rendez-vous
 
-Meme un historique a faible effort peut améliorer les rendez-vous parce qu'il montre:
+Même un historique a faible effort peut améliorer les rendez-vous parce qu'il montre:
 
 - les crashs récurrents
 - ce qui a tendance à aggraver les symptômes
@@ -200,9 +200,9 @@ Zebra est conçu pour garder le dossier utilisable les jours difficiles, pas seu
 ## Points clés
 
 - Le meilleur système de suivi pour l'EM/SFC est celui que vous pouvez continuer à utiliser sans tension supplémentaire.
-- Suivez ensemble l'aggravation retardee, les changements de fonctionnement et le temps de récupération.
+- Suivez ensemble l'aggravation retardée, les changements de fonctionnement et le temps de récupération.
 - Un petit dossier réel vaut mieux qu'un dossier parfait que vous ne pouvez pas maintenir.
-- Un suivi incomplet peut quand meme être utile si la tendance reste relisible.
+- Un suivi incomplet peut quand même être utile si la tendance reste relisible.
 
 ## FAQ
 
@@ -216,12 +216,12 @@ Non. Un rythme a faible effort est souvent plus durable qu'un suivi quotidien d�
 
 ### Que suivre quand le PEM est retarde?
 
-Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, ce qui a change, combien de temps le crash à dure et quelles activités sont devenues plus difficiles.
+Suivez l'effort ou le facteur de stress, quand les symptômes se sont aggraves, ce qui a changé, combien de temps le crash à dure et quelles activités sont devenues plus difficiles.
 
 ### Est-ce acceptable de sauter le suivi les pires jours?
 
 Oui. Un historique réel mais partiel vaut mieux que transformer le suivi en charge supplémentaire. Reprenez avec la plus petite entrée utile possible.
 
-### Un rapport pret pour le médecin peut-il aider si mon suivi est incomplet?
+### Un rapport prêt pour le médecin peut-il aider si mon suivi est incomplet?
 
-Oui. Meme un dossier imparfait peut montrer les crashs récurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule.
+Oui. Même un dossier imparfait peut montrer les crashs récurrents, les changements de symptômes et l'impact fonctionnel plus clairement que la mémoire seule.

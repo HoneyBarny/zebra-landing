@@ -80,7 +80,7 @@ Las apps de notas funcionan bien cuando necesitas:
 
 Suelen ser el lugar más fácil para empezar.
 
-Usa una app de notas cuando el pensamiento es pequeno e inmediato:
+Usa una app de notas cuando el pensamiento es pequeño e inmediato:
 
 - "preguntar por mareo después de comer"
 - "nuevo dolor de hombro empezó el martes"
@@ -97,7 +97,7 @@ Las hojas de cálculo funcionan bien cuando quieres:
 - más control manual
 - una forma simple de rastrear categorías repetidas
 
-Usa una hoja de cálculo cuando quieres elegir cada campo tu mismo:
+Usa una hoja de cálculo cuando quieres elegir cada campo tú mismo:
 
 - fecha
 - síntoma
@@ -154,7 +154,7 @@ Un buen registro de síntomas no necesita ser perfecto. Necesita ser usable cuan
 
 Elige una app de notas si necesitas un bloc rápido.
 
-Elige una hoja de cálculo si te gusta construir la estructura tu mismo.
+Elige una hoja de cálculo si te gusta construir la estructura tú mismo.
 
 Elige un rastreador de síntomas si el registro necesita conectar brotes, síntomas, contexto de medicación, impacto funcional y preparación médica sin reconstruir toda la historia a mano.
 

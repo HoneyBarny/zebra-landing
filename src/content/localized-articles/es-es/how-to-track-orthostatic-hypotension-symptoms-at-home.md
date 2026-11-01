@@ -73,7 +73,7 @@ faq:
 
 [La hipotensión ortostática](/es-es/knowledge/orthostatic-hypotension/) significa que la presión arterial baja después de ponerse de pie. Para muchas personas, lo más visible no es solo el número. Es el momento en que estar de pie trae mareo, aturdimiento, debilidad, visión borrosa, náuseas, confusión o sensación de desmayo.
 
-Una nota útil en casa conecta la lectura con la situación: postura, horario, síntomas, comidas, horario de medicamentos, hidratación y recuperación. Ese contexto ayuda a tu médico a revisar si el patrón parece hipotensión ortostática, [POTS](/es-es/knowledge/pots/), sincope vasovagal, efecto de medicamentos, deshidratación, otro patrón de disautonomía u otra cosa.
+Una nota útil en casa conecta la lectura con la situación: postura, horario, síntomas, comidas, horario de medicamentos, hidratación y recuperación. Ese contexto ayuda a tu médico a revisar si el patrón parece hipotensión ortostática, [POTS](/es-es/knowledge/pots/), síncope vasovagal, efecto de medicamentos, deshidratación, otro patrón de disautonomía u otra cosa.
 
 El seguimiento en casa no es un diagnóstico. Es una ayuda de memoria más clara.
 
@@ -87,7 +87,7 @@ Detente y sientate o acuestate si sientes:
 - dolor en el pecho
 - dificultad para respirar
 - debilidad intensa
-- síntomas neurologicos nuevos
+- síntomas neurológicos nuevos
 - confusión inusual
 - síntomas intensos o diferentes a tu patrón habitual
 
@@ -125,7 +125,7 @@ Ejemplo:
 | Hora | Posición | Presión | Pulso | Síntomas |
 | --- | --- | --- | --- | --- |
 | Base | Acostado | 118/72 | 68 | 1/10, tranquilo |
-| Minuto 1 | De pie | 96/64 | 76 | 5/10 mareado, debil |
+| Minuto 1 | De pie | 96/64 | 76 | 5/10 mareado, débil |
 | Minuto 3 | De pie | 92/60 | 78 | 7/10 visión borrosa |
 | Recuperación | Acostado | 112/70 | 70 | mejora tras 3 minutos |
 
@@ -146,7 +146,7 @@ Registra contexto como:
 - después de dormir mal
 - durante enfermedad
 - durante un brote
-- después de alcohol o cafeina, si aplica
+- después de alcohol o cafeína, si aplica
 - hidratación y electrolitos
 - uso de prendas de compresión, si son parte de tu plan
 - horario de medicamentos, dosis olvidadas o cambios recientes
@@ -163,7 +163,7 @@ Anota:
 - si acostarte ayudo
 - cuánto tardó en mejorar
 - si los síntomas volvieron al ponerte de pie otra vez
-- si el episodio cambio lo que podias hacer después
+- si el episodio cambio lo que podías hacer después
 - si necesitaste ayuda de otra persona
 
 Para preparar una cita, "me maree" sirve. "Me maree después de 2 minutos de pie, tuve una lectura de presión más baja, necesite acostarme 10 minutos y no pude terminar de cocinar" sirve mucho más.
@@ -181,7 +181,7 @@ En cada episodio, considera registrar:
 - medicamentos nuevos o cambios de dosis
 - suplementos, sal o electrolitos si tu médico los sigue contigo
 
-No detengas, empieces ni cambies medicamentos por una sola lectura en casa salvo que tu médico ya te haya dado instrucciones especificas.
+No detengas, empieces ni cambies medicamentos por una sola lectura en casa salvo que tu médico ya te haya dado instrucciones específicas.
 
 ## Plantilla simple
 
@@ -199,11 +199,11 @@ Las notas cortas y repetidas suelen ser más útiles que un registro perfecto.
 
 ## Qué preguntar a tu médico
 
-Lleva el patrón, no un autodiagnostico.
+Lleva el patrón, no un autodiagnóstico.
 
 Preguntas útiles:
 
-- "Estas lecturas parecen más hipotensión ortostática, POTS, sincope vasovagal, efectos de medicamentos, deshidratación u otro patrón?"
+- "Estas lecturas parecen más hipotensión ortostática, POTS, síncope vasovagal, efectos de medicamentos, deshidratación u otro patrón?"
 - "Que posiciones y momentos debo seguir registrando?"
 - "Debo registrar síntomas después de comidas o por la mañana?"
 - "Hay lecturas o síntomas urgentes para mi?"
@@ -213,7 +213,7 @@ Preguntas útiles:
 
 Contexto útil:
 
-- [Recomendaciones de consenso sobre hipotensión ortostática neurogenica y diarios de BP/HR en casa](https://pmc.ncbi.nlm.nih.gov/articles/PMC5533816/)
+- [Recomendaciones de consenso sobre hipotensión ortostática neurogénica y diarios de BP/HR en casa](https://pmc.ncbi.nlm.nih.gov/articles/PMC5533816/)
 - [Documento ASH sobre evaluación y tratamiento de hipotensión ortostática](https://pmc.ncbi.nlm.nih.gov/articles/PMC8033893/)
 - [Mayo Clinic sobre síntomas y preparación de cita para hipotensión ortostática](https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/symptoms-causes/syc-20352548)
 - [Mayo Clinic sobre diagnóstico y tratamiento](https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/diagnosis-treatment/drc-20352553)
@@ -231,7 +231,7 @@ Zebra no diagnostica hipotensión ortostática ni interpreta lecturas. Te ayuda 
 - Detén cualquier prueba de pie si no te sientes seguro.
 - El contexto como comidas, calor, medicamentos, hidratación y hora del día puede importar.
 - No cambies tratamiento solo por lecturas en casa.
-- El mejor resultado es una pregunta clara para la cita, no un autodiagnostico.
+- El mejor resultado es una pregunta clara para la cita, no un autodiagnóstico.
 
 ## FAQ
 

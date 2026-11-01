@@ -63,11 +63,11 @@ faq:
   - question: "¿Qué debo registrar para Long COVID?"
     answer: "Registra los principales grupos de síntomas, empeoramiento retrasado después de actividad, mareo o pulso rápido al estar de pie, falta de aire, sueño, medicamentos, impacto funcional y preguntas para tu médico."
   - question: "¿Debo registrar actividad si tengo PEM o PESE?"
-    answer: "Sí, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, que cambió y cuánto duró la recuperación."
+    answer: "Sí, pero con poco esfuerzo. Registra la actividad o estresor, cuando empeoraron los síntomas, qué cambió y cuánto duró la recuperación."
   - question: "¿Un rastreador de síntomas puede diagnosticar Long COVID?"
     answer: "No. El seguimiento puede organizar tu historia para una visita médica, pero el diagnóstico y las decisiones de tratamiento requieren evaluación clínica."
   - question: "¿Cómo puedo registrar sin empeorar la fatiga?"
-    answer: "Usa la entrada minima útil: que cambió más, que pasó cerca, que te impidió hacer y una pregunta para la cita."
+    answer: "Usa la entrada mínima útil: qué cambió más, qué pasó cerca, que te impidió hacer y una pregunta para la cita."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
@@ -93,7 +93,7 @@ Dominios útiles:
 - dolor muscular, articular o de pecho
 - síntomas digestivos
 - cambios en olfato o gusto
-- contexto de animo, estrés o aislamiento
+- contexto de ánimo, estrés o aislamiento
 
 En un día difícil, elige los principales uno a tres dominios. Muchas veces basta.
 
@@ -104,8 +104,8 @@ Muchas personas con Long COVID describen síntomas que empeoran después de esfu
 Si esto te pasa, registra:
 
 - cuál fue la actividad o estresor
-- cuando ocurrió
-- cuando empeoraron los síntomas
+- cuándo ocurrió
+- cuándo empeoraron los síntomas
 - qué síntomas cambiaron
 - cuánto duró la recuperación
 - qué no pudiste hacer después
@@ -114,7 +114,7 @@ Ejemplo:
 
 | Día | Contexto | Cambio posterior | Impacto |
 | --- | --- | --- | --- |
-| Lunes | Compra y llamada telefonica | Más fatiga y brain fog el martes | Necesite cama, perdi bloque de trabajo |
+| Lunes | Compra y llamada telefónica | Más fatiga y brain fog el martes | Necesite cama, perdi bloque de trabajo |
 | Jueves | Ducha y papeleo | Mareo y dolor de cabeza por la tarde | No pude cocinar cena |
 
 Esto ayuda a mostrar el patrón sin escribir un ensayo cada día.
@@ -161,7 +161,7 @@ Registra:
 - cambios de dosis u horario
 - dosis olvidadas, si aplica
 - suplementos si tu médico los sigue contigo
-- inhaladores, analgesicos, medicinas para dormir o medicinas de rescate
+- inhaladores, analgésicos, medicinas para dormir o medicinas de rescate
 - pruebas y resultados que quieras preguntar
 - derivaciones o planes de seguimiento
 - preguntas que surgieron después de la visita
@@ -243,7 +243,7 @@ No. El seguimiento puede organizar tu historia para una visita médica, pero el 
 
 ### ¿Cómo puedo registrar sin empeorar la fatiga?
 
-Usa la entrada minima útil: qué cambió más, qué pasó cerca, qué te impidió hacer y una pregunta para la cita.
+Usa la entrada mínima útil: qué cambió más, qué pasó cerca, qué te impidió hacer y una pregunta para la cita.
 
 ### ¿Zebra es consejo médico?
 

@@ -61,7 +61,7 @@ faq:
   - question: "¿Debo mantener los síntomas de EDS y disautonomía en notas separadas?"
     answer: "Normalmente es más útil mantenerlos en una línea de tiempo revisable para poder ver que tiende a pasar junto."
   - question: "¿Qué hace que los síntomas superpuestos sean más fáciles de explicar en las citas?"
-    answer: "Un resumen corto de que cambió, que se agrupa, que parece relacionado con la posición y que está haciendo a la vida diaria suele ser más fácil de revisar que notas dispersas."
+    answer: "Un resumen corto de qué cambió, qué se agrupa, que parece relacionado con la posición y que está haciendo a la vida diaria suele ser más fácil de revisar que notas dispersas."
 ---
 
 Los síntomas de [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/) y [disautonomía](/knowledge/dysautonomia/) a menudo se superponen de formas que hacen que el seguimiento diario y la preparación de citas sean confusos. Muchas personas terminan lidiando con [mareo](/knowledge/dizziness/), [fatiga](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), intolerancia al ejercicio, dolor y cambios de [función diaria](/knowledge/functional-impact/) al mismo tiempo, incluso cuando esos síntomas no parecen pertenecer a una sola etiqueta.

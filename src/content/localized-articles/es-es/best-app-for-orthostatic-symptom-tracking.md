@@ -72,7 +72,7 @@ La mejor app no es solo un lugar para registrar frecuencia cardíaca. Debería a
 
 - ¿Qué pasó cuando me puse de pie?
 - ¿Qué síntomas cambiaron con la postura?
-- ¿Qué más ocurria ese día?
+- ¿Qué más ocurría ese día?
 - ¿Se repitió el patrón?
 - ¿Puedo revisarlo antes de una cita sin reconstruirlo?
 
@@ -100,7 +100,7 @@ Su encaje actual es más fuerte cuando quieres:
 
 Si tu problema principal es "note algo importante cuando estaba de pie, pero no puedo explicar todo el patrón después", Zebra encaja directamente con ese problema.
 
-## Notas, hojas de cálculo y rastreadores genericos
+## Notas, hojas de cálculo y rastreadores genéricos
 
 Las herramientas más simples aun pueden funcionar si solo necesitas captura a corto plazo.
 
@@ -110,7 +110,7 @@ Son un punto de partida razonable si:
 - haces un seguimiento muy ligero
 - ya tienes un sistema de revisión que funciona para ti
 
-La desventaja es que la historia ortostática suele depender de la conexion entre:
+La desventaja es que la historia ortostática suele depender de la conexión entre:
 
 - síntomas
 - postura

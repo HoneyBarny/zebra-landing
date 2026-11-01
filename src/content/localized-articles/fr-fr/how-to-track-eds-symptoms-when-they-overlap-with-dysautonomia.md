@@ -4,8 +4,8 @@ originalSlug: "how-to-track-eds-symptoms-when-they-overlap-with-dysautonomia"
 status: "published"
 publishedAt: "2026-07-12"
 title: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie"
-subtitle: "Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous."
-description: "Apprenez comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie, avec profils de symptômes partages, fonctionnement quotidien et contexte lie à la position."
+subtitle: "Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a changé, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous."
+description: "Apprenez comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie, avec profils de symptômes partages, fonctionnement quotidien et contexte lié à la position."
 excerpt: "Un flux pratique pour garder les symptômes de chevauchement EDS et dysautonomie dans un dossier clair et utilisable."
 author: "zebra-editorial"
 scheduledAt: "2026-07-10"
@@ -42,7 +42,7 @@ secondaryKeywords:
 seoTitle: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie | Zebra"
 metaDescription: "Apprenez comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie, avec symptômes partages, impact fonctionnel et contexte orthostatique."
 ogTitle: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie"
-ogDescription: "Un flux avec peu de friction pour suivre les symptômes qui se chevauchent sans diviser votre historique en notes deconnectees."
+ogDescription: "Un flux avec peu de friction pour suivre les symptômes qui se chevauchent sans diviser votre historique en notes déconnectées."
 heroImage: "/screenshots/insight-history.png"
 heroImageAlt: "Écran d'historique Zebra montrant une revue de profils pour symptômes de maladie chronique qui se chevauchent."
 ctaLabel: "Télécharger Zebra"
@@ -56,31 +56,31 @@ faq:
   - question: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie?"
     answer: "Suivez les symptômes ensemble dans une chronologie, puis ajoutez le contexte qui les rend plus comprehensibles, comme les changements de position, les poussées, l'impact fonctionnel et les symptômes qui tendent à apparaitre ensemble."
   - question: "Dois-je separer les symptômes EDS des symptômes de dysautonomie?"
-    answer: "En général, non. Si les symptômes font partie du meme profil vecu, les garder ensemble est souvent plus utile que les diviser en dossiers deconnectes."
+    answer: "En général, non. Si les symptômes font partie du même profil vecu, les garder ensemble est souvent plus utile que les diviser en dossiers deconnectes."
   - question: "Quel contexte compte le plus pour les symptômes qui se chevauchent?"
-    answer: "Le contexte le plus utile est souvent le moment, la position, les déclencheurs, les changements de sévérité, les profils de poussées et ce que les symptômes vous ont empeche de faire."
+    answer: "Le contexte le plus utile est souvent le moment, la position, les déclencheurs, les changements de sévérité, les profils de poussées et ce que les symptômes vous ont empêche de faire."
   - question: "Dois-je suivre la fréquence cardiaque chaque fois que je note des symptômes qui se chevauchent?"
     answer: "Non. Utilisez les mesures quand elles sont pertinentes, mais gardez le dossier assez réaliste pour le maintenir les jours difficiles."
   - question: "Comment préparer des symptômes qui se chevauchent pour une visite médicale?"
-    answer: "Resumez ce qui a change, ce qui se regroupe, ce qui affecte le fonctionnement et quelles questions vous voulez resoudre. Un court historique revisable est généralement plus utile qu'une collection de notes dispersees."
+    answer: "Resumez ce qui a changé, ce qui se regroupe, ce qui affecte le fonctionnement et quelles questions vous voulez resoudre. Un court historique revisable est généralement plus utile qu'une collection de notes dispersées."
 ---
 
-Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a change, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
+Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a changé, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous.
 
-Si vous suivez à la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'etiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
+Si vous suivez à la fois [EDS](/fr-fr/knowledge/eds/) ou [hEDS](/fr-fr/knowledge/heds/) et [dysautonomie](/fr-fr/knowledge/dysautonomia/), il aide généralement de garder un dossier connecte au lieu de forcer les symptômes dans des systèmes separes. L'objectif n'est pas d'étiqueter parfaitement chaque symptôme en temps réel. L'objectif est de garder le profil revisable.
 
-Pour l'explication du chevauchement lui-meme, commencez par [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/). Cette page se concentre sur le flux de suivi.
+Pour l'explication du chevauchement lui-même, commencez par [Comment les symptômes EDS et dysautonomie se chevauchent](/fr-fr/blog/how-eds-and-dysautonomia-symptoms-overlap/). Cette page se concentre sur le flux de suivi.
 
 ## Ce que le suivi du chevauchement doit vous aider à voir
 
 Un dossier de chevauchement utile rend quatre choses plus faciles à répondre plus tard:
 
 1. Quels symptômes tendent à apparaitre ensemble
-2. Ce qui semble lie à la position
+2. Ce qui semble lié à la position
 3. Ce qui change pendant les poussées
 4. Ce que les symptômes font à la vie quotidienne
 
-C'est pourquoi le suivi du chevauchement doit rester assez simple pour être utilise les mauvais jours. Si le système est trop détaillé pour être maintenu, il cesse d'aider.
+C'est pourquoi le suivi du chevauchement doit rester assez simple pour être utilisé les mauvais jours. Si le système est trop détaillé pour être maintenu, il cesse d'aider.
 
 ## Suivez les symptômes dans une seule chronologie, pas dans des silos separes
 
@@ -94,7 +94,7 @@ Une meilleure structure est une chronologie qui capture:
 - impact fonctionnel
 - mesures seulement quand elles sont utiles
 
-C'est particulierement important pour les profils de chevauchement, car la relation entre les symptômes compte souvent plus qu'une seule entrée.
+C'est particulièrement important pour les profils de chevauchement, car la relation entre les symptômes compte souvent plus qu'une seule entrée.
 
 ## Que suivre ensemble
 
@@ -107,7 +107,7 @@ Pour beaucoup de personnes, les catégories de chevauchement les plus utiles inc
 - palpitations
 - faiblesse
 - essoufflement
-- nausee
+- nausée
 - tremblements
 
 Vous n'avez pas besoin de chaque symptôme possible chaque jour. Commencez par les symptômes qui:
@@ -143,12 +143,12 @@ C'est souvent la façon la plus claire de montrer pourquoi le profil compte.
 
 Suivez des exemples comme:
 
-- besoin de récupération supplémentaire après des taches basiques
-- difficulte a se doucher ou à rester debout assez longtemps pour cuisiner
+- besoin de récupération supplémentaire après des tâches basiques
+- difficulté a se doucher ou à rester debout assez longtemps pour cuisiner
 - impossible de penser assez clairement pour finir le travail
 - besoin de s'allonger pendant la journée
 - plans annulés parce que les symptômes se sont empiles
-- difficulte à quitter la maison ou à conduire en sécurité
+- difficulté à quitter la maison ou à conduire en sécurité
 
 Cet [impact fonctionnel](/fr-fr/knowledge/functional-impact/) donne aux rendez-vous beaucoup plus de contexte qu'une liste de symptômes seule.
 
@@ -181,7 +181,7 @@ Les mesures peuvent aider quand elles sont pertinentes pour le profil ou les soi
 - tension artérielle
 - observations orthostatiques
 
-Mais les mesures doivent rester rattachees aux symptômes et au contexte. Sinon, elles deviennent un autre flux de données deconnecte.
+Mais les mesures doivent rester rattachées aux symptômes et au contexte. Sinon, elles deviennent un autre flux de données deconnecte.
 
 ## Un modele de suivi du chevauchement avec peu de friction
 
@@ -201,18 +201,18 @@ Si vous voulez la version minimum utile, essayez ceci:
 - effort
 - moment des médicaments
 
-### Ce qui a change
+### Ce qui a changé
 
 - plus fréquent
 - plus sévère
 - à dure plus longtemps
-- est arrive dans une nouvelle combinaison
+- est arrivé dans une nouvelle combinaison
 
 ### Ce que cela a fait au fonctionnement
 
 - travail
-- taches domestiques
-- pensee
+- tâches domestiques
+- pensée
 - marche
 - plans sociaux
 
@@ -226,15 +226,15 @@ Avant un rendez-vous, resumez:
 
 - ce qui a le plus change
 - quels symptômes se regroupent
-- ce qui semble lie à la position
+- ce qui semble lié à la position
 - ce qui affecte le fonctionnement
 - ce que vous voulez aider à comprendre
 
-Si vous allez bientot consulter, [Que suivre avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) et [Que suivre avant un rendez-vous spécialiste EDS](/fr-fr/blog/what-to-track-before-an-eds-specialist-appointment/) aident à transformer le dossier quotidien en resume de visite plus clair.
+Si vous allez bientot consulter, [Que suivre avant un rendez-vous spécialiste](/fr-fr/blog/what-to-track-before-a-specialist-appointment/) et [Que suivre avant un rendez-vous spécialiste EDS](/fr-fr/blog/what-to-track-before-an-eds-specialist-appointment/) aident à transformer le dossier quotidien en résumé de visite plus clair.
 
 ## Ce que Zebra ajoute
 
-Zebra est conçu pour les personnes dont l'historique cesse d'avoir du sens quand les symptômes sont disperses entre differents outils. Au lieu de separer les symptômes qui se chevauchent en notes isolees, il aide à garder la chronologie, le contexte et le flux de revue connectes dans un seul dossier.
+Zebra est conçu pour les personnes dont l'historique cesse d'avoir du sens quand les symptômes sont disperses entre différents outils. Au lieu de separer les symptômes qui se chevauchent en notes isolées, il aide à garder la chronologie, le contexte et le flux de revue connectés dans un seul dossier.
 
 ## Points clés
 
@@ -251,11 +251,11 @@ Suivez les symptômes ensemble dans une chronologie, puis ajoutez le contexte qu
 
 ### Dois-je separer les symptômes EDS des symptômes de dysautonomie?
 
-En général, non. Si les symptômes font partie du meme profil vecu, les garder ensemble est souvent plus utile que les diviser en dossiers deconnectes.
+En général, non. Si les symptômes font partie du même profil vecu, les garder ensemble est souvent plus utile que les diviser en dossiers deconnectes.
 
 ### Quel contexte compte le plus pour les symptômes qui se chevauchent?
 
-Le contexte le plus utile est souvent le moment, la position, les déclencheurs, les changements de sévérité, les profils de poussées et ce que les symptômes vous ont empeche de faire.
+Le contexte le plus utile est souvent le moment, la position, les déclencheurs, les changements de sévérité, les profils de poussées et ce que les symptômes vous ont empêche de faire.
 
 ### Dois-je suivre la fréquence cardiaque chaque fois que je note des symptômes qui se chevauchent?
 
@@ -263,4 +263,4 @@ Non. Utilisez les mesures quand elles sont pertinentes, mais gardez le dossier a
 
 ### Comment préparer des symptômes qui se chevauchent pour une visite médicale?
 
-Resumez ce qui a change, ce qui se regroupe, ce qui affecte le fonctionnement et quelles questions vous voulez resoudre. Un court historique revisable est généralement plus utile qu'une collection de notes dispersees.
+Resumez ce qui a changé, ce qui se regroupe, ce qui affecte le fonctionnement et quelles questions vous voulez resoudre. Un court historique revisable est généralement plus utile qu'une collection de notes dispersées.

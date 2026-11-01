@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "first-7-days-of-symptom-tracking"
 title: "Primeros 7 días de seguimiento de síntomas: que registrar si estas abrumado"
 status: "published"
-subtitle: "Cuando los síntomas ya agotan, registrar puede parecer otra tarea más. Empieza con siete notas diarias pequenas: que pasó, que cambió, que ayudó y que te impidió hacer el síntoma."
+subtitle: "Cuando los síntomas ya agotan, registrar puede parecer otra tarea más. Empieza con siete notas diarias pequeñas: qué pasó, qué cambió, qué ayudó y qué te impidió hacer el síntoma."
 description: "Un plan simple de 7 días para seguir síntomas cuando te sientes abrumado, con que registrar cada día y como mantener notas útiles para el médico."
 excerpt: "Empieza a seguir síntomas sin sobrecargarte: un plan práctico de 7 días para síntomas, desencadenantes, medicamentos, recuperación e impacto diario."
 author: "zebra-editorial"
@@ -63,16 +63,16 @@ faq:
   - question: "¿Tengo que registrar todos los síntomas?"
     answer: "No. Empieza con uno a tres síntomas que más afecten tu día. Puedes agregar más después si se siente manejable."
   - question: "¿Cuánto tiempo tarda en ser útil el seguimiento?"
-    answer: "Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible."
+    answer: "Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un hábito sostenible."
   - question: "¿Zebra es consejo médico?"
     answer: "No. Zebra ayuda a organizar información ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
 Empezar un [diario de síntomas](/es-es/blog/what-is-a-symptom-journal/) puede sentirse al reves cuando ya estas abrumado. El día es difícil, tu cerebro está cansado, y ahora se supone que seas tu propio secretario de salud?
 
-No tienes que registrarlo todo. Durante los primeros siete días, el objetivo es más pequeno: una nota útil al día.
+No tienes que registrarlo todo. Durante los primeros siete días, el objetivo es más pequeño: una nota útil al día.
 
-Kaiser Permanente senala que un diario de síntomas puede ayudar a tu médico a diagnosticar y tratar tu condición porque algunos síntomas son difíciles de describir desde la memoria. CDC también aconseja a personas con condiciones cronicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo médico sobre síntomas nuevos o que empeoran.
+Kaiser Permanente senala que un diario de síntomas puede ayudar a tu médico a diagnosticar y tratar tu condición porque algunos síntomas son difíciles de describir desde la memoria. CDC también aconseja a personas con condiciones crónicas monitorizar su salud en casa cuando sea parte del plan de cuidado y avisar al equipo médico sobre síntomas nuevos o que empeoran.
 
 Así que la primera semana no va de datos perfectos. Va de crear un registro que puedas mantener.
 
@@ -106,7 +106,7 @@ Elige uno a tres síntomas que más afecten tu día:
 - efectos secundarios de medicación
 - impacto funcional
 
-Si registras demasiado el día uno, tal vez pares en el día tres. Empieza más pequeno de lo que crees.
+Si registras demasiado el día uno, tal vez pares en el día tres. Empieza más pequeño de lo que crees.
 
 ## Día 2: Agrega intensidad
 
@@ -136,7 +136,7 @@ Registra:
 
 El diario de síntomas de Kaiser Permanente pregunta cuando empiezan los síntomas, cuando molestan más y si van y vienen durante el día. Es un buen modelo: timing simple gana a tracking complicado.
 
-## Día 4: Agrega que mejoró o empeoro
+## Día 4: Agrega qué mejoró o empeoro
 
 No intentas probar un desencadenante. Estas reuniendo pistas.
 
@@ -172,7 +172,7 @@ Notas útiles:
 - medicamento de rescate o según necesidad usado
 - hidratación, sal, compresión, pacing u otros pasos aprobados por el médico
 
-CDC enfatiza tomar medicamentos como fueron indicados y preguntar al médico o farmaceutico si tienes dudas. Tu tracker puede ayudarte a recordar qué pasó antes de que la pregunta desaparezca.
+CDC enfatiza tomar medicamentos como fueron indicados y preguntar al médico o farmacéutico si tienes dudas. Tu tracker puede ayudarte a recordar qué pasó antes de que la pregunta desaparezca.
 
 ## Día 6: Agrega impacto funcional
 
@@ -210,7 +210,7 @@ Esto convierte el tracking en preparación para la cita, no en una tarea infinit
 
 ## Plantilla inicial de 7 días
 
-| Día | Que registrar | Versión minima |
+| Día | Que registrar | Versión mínima |
 | --- | --- | --- |
 | 1 | Tres síntomas principales | "Hoy el problema principal fue..." |
 | 2 | Intensidad | "Síntoma fue __/10." |
@@ -239,7 +239,7 @@ No diagnostica ni te dice que significan tus síntomas. Ayuda a dejar de depende
 
 ## Puntos clave
 
-- La primera semana de seguimiento de síntomas debe ser pequena.
+- La primera semana de seguimiento de síntomas debe ser pequeña.
 - Empieza con uno a tres síntomas, no toda tu historia médica.
 - Agrega intensidad, momento, contexto, medicación, recuperación e impacto funcional poco a poco.
 - Una nota de una frase sigue siendo útil.
@@ -261,7 +261,7 @@ No. Empieza con uno a tres síntomas que más afecten tu día. Puedes agregar m�
 
 ### ¿Cuánto tiempo tarda en ser útil el seguimiento?
 
-Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un habito sostenible.
+Incluso siete días pueden revelar ejemplos útiles para una cita. El seguimiento largo puede mostrar patrones, pero la primera semana busca crear un hábito sostenible.
 
 ### ¿Zebra es consejo médico?
 

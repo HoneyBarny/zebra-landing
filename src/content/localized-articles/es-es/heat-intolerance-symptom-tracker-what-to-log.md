@@ -76,7 +76,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historia ingresada por el paciente para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-El calor puede convertir un día manejable en un día lleno de síntomas para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), EDS o HSD, Long COVID, ME/CFS, migraña o brotes cronicos. Una habitación caliente, clima de verano, ducha tibia, esperar en una fila, transporte publico, cocinar, ejercicio o pocos líquidos pueden aparecer en la misma línea de tiempo.
+El calor puede convertir un día manejable en un día lleno de síntomas para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), EDS o HSD, Long COVID, ME/CFS, migraña o brotes crónicos. Una habitación caliente, clima de verano, ducha tibia, esperar en una fila, transporte público, cocinar, ejercicio o pocos líquidos pueden aparecer en la misma línea de tiempo.
 
 Un tracker de intolerancia al calor no diagnostica POTS, disautonomía, enfermedad por calor, MCAS, EDS ni otra condición. Ayuda a llevar un patrón más claro al médico: cuál fue la exposición, qué síntomas siguieron, qué ayudó, cuánto duró la recuperación y qué cambió en tu día.
 
@@ -92,7 +92,7 @@ Registra:
 - sauna, jacuzzi o piscina caliente
 - esperar de pie
 - cocinar cerca del calor
-- coche, tren, autobus o avion sin suficiente enfriamiento
+- coche, tren, autobus o avión sin suficiente enfriamiento
 - evento al aire libre
 - ejercicio o caminar con calor
 - fiebre, infección o enfermedad
@@ -106,7 +106,7 @@ Las notas de calor son más útiles cuando muestran secuencia.
 Registra:
 
 - cuándo empezó la exposición
-- cuando empezaron los síntomas
+- cuándo empezaron los síntomas
 - primer síntoma
 - peor síntoma
 - cuánto duraron
@@ -114,7 +114,7 @@ Registra:
 - cuánto duró la recuperación
 - si los síntomas volvieron después
 
-Ejemplo: "Ducha caliente 8:10, de pie 12 minutos. A las 8:25, corazon acelerado, piernas debiles, mareo 7/10. Me acoste, tome electrolitos, mejoró a las 9:15 pero fatiga hasta el almuerzo."
+Ejemplo: "Ducha caliente 8:10, de pie 12 minutos. A las 8:25, corazón acelerado, piernas débiles, mareo 7/10. Me acoste, tome electrolitos, mejoró a las 9:15 pero fatiga hasta el almuerzo."
 
 Eso es más fácil de revisar que "el calor me destruyo."
 
@@ -131,12 +131,12 @@ Registra si el calor fue seguido por:
 - falta de aire
 - temblor
 - sudar más o menos de lo esperado
-- nausea
+- náusea
 - dolor de cabeza
 - visión borrosa
 - debilidad
 - brain fog
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - necesidad de sentarte o acostarte
 
 Si ya mides frecuencia cardíaca o presión arterial como parte de tu cuidado, anota número y posición: acostado, sentado, de pie o después de ducharte. Pregunta al médico que datos son útiles.
@@ -151,7 +151,7 @@ Contexto útil:
 - electrolitos
 - sal si tu médico la recomienda
 - comidas saltadas
-- cafeina o alcohol
+- cafeína o alcohol
 - horario de medicamentos
 - dosis olvidada o cambio reciente
 - [prendas de compresión](/es-es/knowledge/compression-garments/)
@@ -202,7 +202,7 @@ Anota:
 - cuánto tiempo necesitaste descansar
 - si volviste a tu baseline
 - si quedo fatiga después
-- si brain fog, dolor de cabeza, nausea o mareo siguieron
+- si brain fog, dolor de cabeza, náusea o mareo siguieron
 - si perdiste trabajo, escuela, recados, cocinar, conducir, ducharte, ejercicio o planes sociales
 - si necesitaste ayuda de alguien
 
@@ -210,7 +210,7 @@ Anota:
 
 ## Qué resumir antes de la cita
 
-Antes de una cita con cardiología, neurologia, medicina primaria, EDS, Long COVID o disautonomía, resume:
+Antes de una cita con cardiología, neurología, medicina primaria, EDS, Long COVID o disautonomía, resume:
 
 - qué situaciones de calor desencadenan síntomas más seguido
 - si duchas calientes son distintas al clima caliente

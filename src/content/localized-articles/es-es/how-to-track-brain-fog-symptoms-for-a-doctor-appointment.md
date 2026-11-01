@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-track-brain-fog-symptoms-for-a-doctor-appointment"
 status: "published"
 title: "Como rastrear síntomas de brain fog para una cita médica"
-subtitle: "Para rastrear síntomas de brain fog para una cita médica, enfócate en cuando ocurre, como afecta la vida diaria, que cambió alrededor y con que frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes señalar que hizo realmente a tu día."
+subtitle: "Para rastrear síntomas de brain fog para una cita médica, enfócate en cuando ocurre, cómo afecta la vida diaria, qué cambió alrededor y con qué frecuencia aparece. El brain fog es difícil de explicar cuando se queda abstracto. Se vuelve más fácil de hablar cuando puedes señalar que hizo realmente a tu día."
 description: "Aprende como rastrear síntomas de brain fog, cambios de función y contexto para que la historia sea más fácil de explicar en citas."
 excerpt: "Aprende como rastrear síntomas de brain fog, cambios de función y contexto para que la historia sea más fácil de explicar en citas."
 author: "zebra-editorial"
@@ -50,7 +50,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cómo rastreo brain fog para una cita médica?"
-    answer: "Rastrea cuando ocurre, con que frecuencia ocurre, que afecta y que otros síntomas o cambios aparecieron alrededor."
+    answer: "Rastrea cuando ocurre, con qué frecuencia ocurre, que afecta y que otros síntomas o cambios aparecieron alrededor."
   - question: "¿Qué debo decirle a un médico sobre brain fog?"
     answer: "Usa ejemplos concretos de lo que cambió en la vida diaria, no solo la etiqueta en si."
   - question: "¿Necesito rastrear cada episodio de brain fog?"
@@ -63,7 +63,7 @@ Para rastrear síntomas de brain fog para una cita médica, enfócate en cuándo
 
 El rastreo útil de brain fog puede incluir:
 
-- cuando apareció
+- cuándo apareció
 - qué tan intenso se sintio
 - qué no pudiste hacer
 - qué más estaba pasando alrededor
@@ -72,14 +72,14 @@ El rastreo útil de brain fog puede incluir:
 Ejemplos de impacto funcional:
 
 - no pude terminar el trabajo
-- olvide tareas basicas
+- olvide tareas básicas
 - me costo seguir conversaciones
 - necesite más descanso
 - no pude conducir con confianza
 
 ## Por qué la función importa tanto
 
-Si el brain fog solo se describe como "mi pensamiento se sentia mal", puede que no comunique lo disruptivo que realmente fue. El impacto funcional hace que el síntoma sea más concreto.
+Si el brain fog solo se describe como "mi pensamiento se sentía mal", puede que no comunique lo disruptivo que realmente fue. El impacto funcional hace que el síntoma sea más concreto.
 
 ## Mantén el registro simple
 

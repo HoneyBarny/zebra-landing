@@ -83,7 +83,7 @@ Eso afecta:
 Bearable es fuerte si quieres:
 
 - un rastreador de síntomas amplio
-- un sistema personalizable que puedas moldear tu mismo
+- un sistema personalizable que puedas moldear tú mismo
 - una app que no este atada a un patrón de condición específico
 
 Esa flexibilidad es útil para personas que disfrutan construir su propio setup y no les molestan más decisiones iniciales.
@@ -103,7 +103,7 @@ Para el panorama más amplio de apps para POTS, [Mejores apps de rastreo de sín
 
 ## Vista lado a lado
 
-| Categoria | Bearable | Zebra |
+| Categoría | Bearable | Zebra |
 | --- | --- | --- |
 | Enfoque central | Rastreador genérico personalizable | Rastreador de preparación de citas orientado a POTS y disautonomía |
 | Mejor para | Usuarios que quieren flexibilidad amplia | Usuarios que quieren contexto ortostático y preparación de citas más clara |

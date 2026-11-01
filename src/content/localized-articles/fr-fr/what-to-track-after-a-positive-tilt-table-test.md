@@ -14,7 +14,7 @@ lastReviewed: "2026-08-08"
 featured: false
 cluster: "POTS"
 category: "POTS"
-primaryKeyword: "quoi suivre apres test table basculante positif"
+primaryKeyword: "quoi suivre après test table basculante positif"
 seoTitle: "Que suivre après un test de table basculante positif | Zebra"
 metaDescription: "Après un test de table basculante positif, suivez symptômes, contexte debout, récupération, médicaments, hydratation, sel et questions."
 ogTitle: "Que suivre après un test de table basculante positif"
@@ -51,7 +51,7 @@ entities:
   - "Functional Impact"
   - "Doctor-Ready Report"
 secondaryKeywords:
-  - "test table basculante positif prochaines etapes"
+  - "test table basculante positif prochaines étapes"
   - "suivre symptômes après test table basculante"
   - "test table basculante POTS suivi"
   - "tracker symptômes orthostatiques"
@@ -67,7 +67,7 @@ faq:
   - question: "Dois-je continuer à suivre fréquence cardiaque et tension après le test?"
     answer: "Si votre clinicien souhaite des observations à domicile, suivez-les avec position, timing, symptômes et contexte. Ne changez pas le traitement sur les chiffres seuls."
   - question: "Quels symptômes sont utiles à noter?"
-    answer: "Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement."
+    answer: "Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausée, faiblesse, tremblements et essoufflement."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par la personne pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
@@ -84,11 +84,11 @@ Avant de suivre quoi que ce soit de nouveau, notez les mots exacts du rapport de
 
 Détails utiles:
 
-- si le rapport mentionne POTS, hypotension orthostatique, syncope vasovagale, presyncope, syncope ou dysautonomie
+- si le rapport mentionne POTS, hypotension orthostatique, syncope vasovagale, présyncope, syncope ou dysautonomie
 - quels symptômes sont apparus pendant le test
 - changements de fréquence cardiaque et tension, s'ils sont listes
-- combien de temps vous etiez debout
-- si un médicament a été utilise pendant le test
+- combien de temps vous étiez debout
+- si un médicament a été utilisé pendant le test
 - ce que votre clinicien vous a dit de faire ensuite
 
 Si les mots semblent confus, c'est normal. Apportez les mots exacts au suivi au lieu de les traduire de mémoire.
@@ -99,14 +99,14 @@ Les notes post-test les plus utiles relient souvent symptômes, position et temp
 
 Suivez:
 
-- ce qui s'est passe après la station debout
-- combien de temps vous etiez debout avant les symptômes
+- ce qui s'est passé après la station debout
+- combien de temps vous étiez debout avant les symptômes
 - si les symptômes se sont ameliores allongé
 - si s'asseoir a suffi ou si seul s'allonger a aide
 - si les symptômes sont arrives après douche, chaleur, repas, courses ou escaliers
 - si la récupération a pris minutes, heures ou le reste de la journée
 
-Pour les personnes evaluees pour [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), ce contexte peut compter autant que le nom des symptômes.
+Pour les personnes évaluées pour [POTS](/fr-fr/knowledge/pots/), [dysautonomie](/fr-fr/knowledge/dysautonomia/) ou [intolérance orthostatique](/fr-fr/knowledge/orthostatic-intolerance/), ce contexte peut compter autant que le nom des symptômes.
 
 ## Garder les symptômes courts mais précis
 
@@ -119,7 +119,7 @@ Utilisez une liste courte:
 - palpitations ou coeur qui s'emballe
 - tremblements
 - faiblesse
-- nausee
+- nausée
 - brain fog
 - fatigue
 - gene thoracique
@@ -139,8 +139,8 @@ Notes utiles:
 - eau ou électrolytes
 - sel si votre clinicien vous a demande de le suivre
 - utilisation de vêtements de compression
-- debut, arret ou changement de dose de médicaments
-- doses manquees
+- début, arret ou changement de dose de médicaments
+- doses manquées
 - nouveaux effets secondaires ou inquietudes
 - caféine ou alcool si pertinent
 
@@ -148,14 +148,14 @@ Le consensus de la [Heart Rhythm Society](https://doi.org/10.1016/j.hrthm.2015.0
 
 ## Ajouter l'impact fonctionnel
 
-L'impact fonctionnel est souvent la différence entre "j'avais des vertiges" et "cela a change ma journée".
+L'impact fonctionnel est souvent la différence entre "j'avais des vertiges" et "cela a changé ma journée".
 
 Notez des exemples comme:
 
 - j'ai du m'allonger après la douche
 - je ne pouvais pas rester dans une file
 - je ne pouvais pas cuisiner ou faire la vaisselle
-- j'ai annule travail, etudes, soins a un proche ou projets
+- j'ai annule travail, études, soins à un proche ou projets
 - j'ai eu besoin d'aide pour me deplacer
 - je ne pouvais pas conduire
 - il m'a fallu des heures pour recuperer après une petite sortie
@@ -198,7 +198,7 @@ Il n'interprète pas votre test et ne diagnostique pas le POTS. Il aide à organ
 - Après le test, suivez symptômes avec position, timing, récupération et impact quotidien.
 - Gardez hydratation, sel, compression et médicaments près des symptômes quand c'est pertinent pour votre plan.
 - Apportez les mots exacts du rapport et des questions precises au suivi.
-- Un dossier court et régulier est plus utile que des notes dispersees.
+- Un dossier court et régulier est plus utile que des notes dispersées.
 
 ## FAQ
 
@@ -216,7 +216,7 @@ Si votre clinicien souhaite des observations à domicile, suivez-les avec positi
 
 ### Quels symptômes sont utiles à noter?
 
-Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausee, faiblesse, tremblements et essoufflement.
+Les symptômes souvent utiles incluent vertiges, tête légère, malaise ou presque malaise, palpitations, fatigue, brain fog, nausée, faiblesse, tremblements et essoufflement.
 
 ### Zebra est-il un avis médical?
 

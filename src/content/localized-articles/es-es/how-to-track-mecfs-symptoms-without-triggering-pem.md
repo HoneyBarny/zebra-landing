@@ -40,7 +40,7 @@ secondaryKeywords:
   - "diario de síntomas de bajo esfuerzo"
   - "rastrear fatiga y bajones"
 seoTitle: "Como rastrear síntomas de EM/SFC sin provocar PEM | Zebra"
-metaDescription: "Aprende como rastrear síntomas de EM/SFC con menos esfuerzo, incluyendo bajones retrasados, función diaria y el registro minimo útil."
+metaDescription: "Aprende como rastrear síntomas de EM/SFC con menos esfuerzo, incluyendo bajones retrasados, función diaria y el registro mínimo útil."
 ogTitle: "Como rastrear síntomas de EM/SFC sin provocar PEM"
 ogDescription: "Una forma práctica y de bajo esfuerzo de conservar historial útil de síntomas sin convertir el rastreo en otra fuente de esfuerzo."
 heroImage: "/screenshots/daily-tracking.png"
@@ -54,13 +54,13 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cómo puedo rastrear síntomas de EM/SFC sin empeorarme?"
-    answer: "Usa el registro minimo útil: algunos síntomas clave, el cambio principal en la función y cualquier contexto importante de esfuerzo o bajón retrasado."
+    answer: "Usa el registro mínimo útil: algunos síntomas clave, el cambio principal en la función y cualquier contexto importante de esfuerzo o bajón retrasado."
   - question: "¿Debo registrar todos los síntomas todos los días con EM/SFC?"
     answer: "No. Un patrón de bajo esfuerzo suele ser más sostenible que un registro diario detallado que se vuelve imposible de mantener."
   - question: "¿Qué debo rastrear cuando el PEM aparece con retraso?"
-    answer: "Rastrea el esfuerzo o estresor, cuando empeoraron los síntomas, que cambió, cuánto duró el bajón y que actividades se volvieron más difíciles."
+    answer: "Rastrea el esfuerzo o estresor, cuando empeoraron los síntomas, qué cambió, cuánto duró el bajón y que actividades se volvieron más difíciles."
   - question: "¿Esta bien saltarme el rastreo en los peores días?"
-    answer: "Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar."
+    answer: "Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequeña que puedas manejar."
   - question: "¿Puede ayudar un informe listo para el médico si mi rastreo esta incompleto?"
     answer: "Sí. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola."
 ---
@@ -110,7 +110,7 @@ Eso importa porque la parte retrasada de [PEM](/knowledge/pem/) puede ser fácil
 
 ## Una estructura de rastreo de EM/SFC con menos esfuerzo
 
-Si quieres la versión minima útil, rastrea:
+Si quieres la versión mínima útil, rastrea:
 
 ### Síntomas principales de hoy
 
@@ -122,7 +122,7 @@ Si quieres la versión minima útil, rastrea:
 
 ### Qué pudo haber contribuido
 
-- actividad fisica
+- actividad física
 - esfuerzo cognitivo
 - estrés
 - mal sueño
@@ -151,7 +151,7 @@ Una de las formas más claras de mostrar cambio con EM/SFC es rastrear que se vo
 
 Ejemplos:
 
-- necesite acostarme después de una tarea basica
+- necesite acostarme después de una tarea básica
 - no pude terminar una conversación
 - tuve problemas para leer o responder mensajes
 - necesite más recuperación después de salir de casa
@@ -167,7 +167,7 @@ Rastrea:
 
 - cuál fue la actividad
 - cuando la hiciste
-- cuando empeoraron los síntomas
+- cuándo empeoraron los síntomas
 - cómo fue el bajón
 - cuánto tardó la recuperación
 
@@ -201,14 +201,14 @@ Zebra está creado para mantener el registro usable en días difíciles, no solo
 
 - El mejor sistema de rastreo para EM/SFC es el que puedes seguir usando sin tensión extra.
 - Rastrea juntos el empeoramiento retrasado, los cambios funcionales y el tiempo de recuperación.
-- Un pequeno registro real es mejor que un registro perfecto que no puedes sostener.
+- Un pequeño registro real es mejor que un registro perfecto que no puedes sostener.
 - El rastreo incompleto todavía puede ser útil si el patrón sigue siendo revisable.
 
 ## FAQ
 
 ### ¿Cómo puedo rastrear síntomas de EM/SFC sin empeorarme?
 
-Usa el registro minimo útil: algunos síntomas clave, el cambio principal en la función y cualquier contexto importante de esfuerzo o bajón retrasado.
+Usa el registro mínimo útil: algunos síntomas clave, el cambio principal en la función y cualquier contexto importante de esfuerzo o bajón retrasado.
 
 ### ¿Debo registrar todos los síntomas todos los días con EM/SFC?
 
@@ -220,7 +220,7 @@ Rastrea el esfuerzo o estresor, cuando empeoraron los síntomas, qué cambió, c
 
 ### ¿Esta bien saltarme el rastreo en los peores días?
 
-Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequena que puedas manejar.
+Sí. Un historial real aunque parcial es mejor que convertir el rastreo en otra carga. Retoma con la entrada útil más pequeña que puedas manejar.
 
 ### ¿Puede ayudar un informe listo para el médico si mi rastreo esta incompleto?
 

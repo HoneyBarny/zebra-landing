@@ -92,9 +92,9 @@ El rastreo amable con días malos suele significar:
 
 El punto no son las rachas. Es conservar suficiente historial para ayudar después.
 
-## Un mejor estándar de exito
+## Un mejor estándar de éxito
 
-En días malos, el exito puede significar:
+En días malos, el éxito puede significar:
 
 - un síntoma
 - una nota de severidad
@@ -112,7 +112,7 @@ Para quienes buscan un seguimiento pensado para la enfermedad invisible en lugar
 
 - El rastreo falla en días malos porque los síntomas reducen la capacidad necesaria para registrarlos.
 - La culpa y la presión por ponerse al día empeoran el abandono.
-- Entradas más pequenas y reinicios más fáciles son más sostenibles que la perfección.
+- Entradas más pequeñas y reinicios más fáciles son más sostenibles que la perfección.
 
 ## FAQ
 

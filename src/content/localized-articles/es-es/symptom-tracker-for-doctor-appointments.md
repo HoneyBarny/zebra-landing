@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "symptom-tracker-for-doctor-appointments"
 title: "Tracker de síntomas para citas médicas"
 status: "published"
-subtitle: "Si necesitas un tracker de síntomas para citas médicas, la mejor opción es la que te ayuda a explicar que cambió, con que frecuencia ocurrió, que afectó a la vida diaria y que preguntas siguen abiertas. La idea no es recopilar datos perfectos. La idea es entrar en la visita con un registro que puedas usar de verdad."
+subtitle: "Si necesitas un tracker de síntomas para citas médicas, la mejor opción es la que te ayuda a explicar qué cambió, con qué frecuencia ocurrió, qué afectó a la vida diaria y que preguntas siguen abiertas. La idea no es recopilar datos perfectos. La idea es entrar en la visita con un registro que puedas usar de verdad."
 description: "Aprende que buscar en un tracker de síntomas para citas médicas y por qué un historial estructurado funciona mejor que notas dispersas."
 excerpt: "Una guía práctica para elegir un tracker de síntomas que ayude antes de citas con especialistas y visitas de seguimiento."
 author: "zebra-editorial"
@@ -145,13 +145,13 @@ Mantiene:
 - función y notas
 - preguntas para la cita
 
-en un solo registro, para que el último paso sea un [informe de síntomas listo para el médico](/blog/what-is-a-doctor-ready-symptom-report/), no un monton de entradas desconectadas.
+en un solo registro, para que el último paso sea un [informe de síntomas listo para el médico](/blog/what-is-a-doctor-ready-symptom-report/), no un montón de entradas desconectadas.
 
 Eso es especialmente útil para personas que registran POTS, disautonomía, EDS o enfermedad crónica solapada, donde los síntomas cambian por postura, actividad o patrón de brotes y se vuelven más difíciles de reconstruir después.
 
-## Lo que suele faltar en una configuración más debil
+## Lo que suele faltar en una configuración más débil
 
-Una configuración más debil para preparar citas suele tener uno de estos problemas:
+Una configuración más débil para preparar citas suele tener uno de estos problemas:
 
 - los síntomas se registran sin momento
 - las notas están dispersas entre apps
@@ -173,7 +173,7 @@ Elige una app de notas si:
 Elige una hoja de cálculo si:
 
 - te gustan las columnas y el control manual
-- estas dispuesta a mantener el sistema tu misma
+- estas dispuesta a mantener el sistema tú misma
 - no te importa dedicar más tiempo a configurarlo
 
 Elige un tracker dedicado si:

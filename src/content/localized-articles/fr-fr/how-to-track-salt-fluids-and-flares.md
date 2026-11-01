@@ -3,7 +3,7 @@ locale: "fr-fr"
 originalSlug: "how-to-track-salt-fluids-and-flares"
 title: "Comment suivre le sel, les liquides et les poussées"
 status: "published"
-subtitle: "Si vous suivez un POTS ou des symptômes lies a une dysautonomie, le sel, les liquides et l'historique des poussées sont souvent plus utiles quand ils restent dans le meme dossier que vos symptômes. Le but n'est pas de créer un journal de gestion parfait. Il s'agit de rendre les changements quotidiens plus faciles à remarquer et plus faciles à relire avant les rendez-vous."
+subtitle: "Si vous suivez un POTS ou des symptômes liés à une dysautonomie, le sel, les liquides et l'historique des poussées sont souvent plus utiles quand ils restent dans le même dossier que vos symptômes. Le but n'est pas de créer un journal de gestion parfait. Il s'agit de rendre les changements quotidiens plus faciles à remarquer et plus faciles à relire avant les rendez-vous."
 description: "Apprenez comment suivre le sel, les liquides, les poussées et les symptômes dans un dossier clair sans créer plus de surcharge quotidienne."
 excerpt: "Apprenez comment suivre le sel, les liquides, les poussées et les symptômes dans un dossier clair sans créer plus de surcharge quotidienne."
 author: "zebra-editorial"
@@ -22,7 +22,7 @@ heroImage: "/screenshots/today-summary.png"
 heroImageAlt: "Suivi quotidien pour liquides, sel, sévérité de poussée et symptômes"
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Utilisez Zebra pour garder le sel, les liquides, les poussées et les symptômes dans la meme chronologie."
+ctaNote: "Utilisez Zebra pour garder le sel, les liquides, les poussées et les symptômes dans la même chronologie."
 featured: false
 categories:
   - "POTS"
@@ -53,16 +53,16 @@ faq:
   - question: "Ai-je besoin de chiffres exacts chaque jour?"
     answer: "Pas toujours. Un suivi large et régulier peut rester utile, surtout si votre objectif est de reconnaitre les changements et de préparer les rendez-vous."
   - question: "Pourquoi suivre les jours de poussée séparément?"
-    answer: "Les jours de poussée sont souvent les plus difficiles a se rappeler clairement plus tard, donc leur donner une place propre dans le dossier peut être particulierement utile."
+    answer: "Les jours de poussée sont souvent les plus difficiles a se rappeler clairement plus tard, donc leur donner une place propre dans le dossier peut être particulièrement utile."
 ---
 
-Si vous suivez un POTS ou des symptômes lies a une dysautonomie, le sel, les liquides et l'historique des poussées sont souvent plus utiles quand ils restent dans le meme dossier que vos symptômes. Le but n'est pas de créer un journal de gestion parfait. Il s'agit de rendre les changements quotidiens plus faciles à remarquer et plus faciles à relire avant les rendez-vous.
+Si vous suivez un POTS ou des symptômes liés à une dysautonomie, le sel, les liquides et l'historique des poussées sont souvent plus utiles quand ils restent dans le même dossier que vos symptômes. Le but n'est pas de créer un journal de gestion parfait. Il s'agit de rendre les changements quotidiens plus faciles à remarquer et plus faciles à relire avant les rendez-vous.
 
 ## Pourquoi ces catégories vont ensemble
 
 Les gens suivent souvent:
 
-- les symptômes a un endroit
+- les symptômes à un endroit
 - l'hydratation ailleurs
 - le sel vaguement ou pas du tout
 - les jours de poussée seulement quand ils sont assez mauvais pour s'en souvenir
@@ -87,7 +87,7 @@ Vous n'avez pas besoin du tableur d'hydratation le plus détaillé du monde. Vou
 Ce type de suivi est utile quand il vous aide à répondre:
 
 - a quoi ressemblaient les mauvais jours
-- ce qui a change autour de ces jours
+- ce qui a changé autour de ces jours
 - si votre routine a bouge
 - ce que vous voulez discuter avec un professionnel de santé
 
@@ -97,7 +97,7 @@ Il n'est pas utile quand il devient un deuxieme travail a temps plein.
 
 - utilisez des catégories larges, pas des détails sans fin
 - notez les changements, pas seulement les totaux
-- donnez la priorite aux jours de poussée et aux changements evidents
+- donnez la priorité aux jours de poussée et aux changements évidents
 - gardez le contexte des symptômes attache
 
 ## La place de Zebra
@@ -108,7 +108,7 @@ Zebra est conçu pour garder symptômes, poussées, hydratation, sel, médicamen
 
 - Suivez le sel, les liquides et les poussées ensemble quand c'est possible.
 - Gardez le dossier assez simple pour l'utiliser les mauvais jours.
-- Concentrez-vous sur ce qui a change et ce qui compte pour la relecture, pas sur une mesure parfaite.
+- Concentrez-vous sur ce qui a changé et ce qui compte pour la relecture, pas sur une mesure parfaite.
 
 ## FAQ
 
@@ -122,4 +122,4 @@ Pas toujours. Un suivi large et régulier peut rester utile, surtout si votre ob
 
 ### Pourquoi suivre les jours de poussée séparément?
 
-Les jours de poussée sont souvent les plus difficiles a se rappeler clairement plus tard, donc leur donner une place propre dans le dossier peut être particulierement utile.
+Les jours de poussée sont souvent les plus difficiles a se rappeler clairement plus tard, donc leur donner une place propre dans le dossier peut être particulièrement utile.

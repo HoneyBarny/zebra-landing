@@ -63,7 +63,7 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Qué debo registrar si estar en una fila desencadena síntomas?"
-    answer: "Registre cuanto tiempo estuvo erguido, si estaba quieto o moviendose, calor, aglomeración, líquidos, sal, comidas, compresión, síntomas, frecuencia cardíaca o presión arterial si ya las mide, que ayudó, tiempo de recuperación e impacto diario."
+    answer: "Registre cuánto tiempo estuvo erguido, si estaba quieto o moviendose, calor, aglomeración, líquidos, sal, comidas, compresión, síntomas, frecuencia cardíaca o presión arterial si ya las mide, qué ayudó, tiempo de recuperación e impacto diario."
   - question: "¿Puede estar de pie mucho tiempo empeorar síntomas de POTS?"
     answer: "Sí. Fuentes sobre POTS describen empeoramiento con estar de pie, estar de pie durante mucho tiempo, comprar, esperar, ambientes calidos y falta de líquidos o sal. Un clínico debe evaluar su patrón."
   - question: "¿Debo registrar cada vez que estoy de pie?"
@@ -74,7 +74,7 @@ faq:
     answer: "No. Zebra ayuda a ordenar información introducida por el paciente para consultas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS o enfermedad crónica, estar quieto de pie puede ser más difícil que caminar. Una fila de caja, espera en farmacia, parada de bus, fila de concierto, control de seguridad, pasillo escolar, cocina o sala de espera puede traer mareo, corazon acelerado, náuseas, temblor, piernas pesadas, niebla mental, sudoración, acumulación de sangre o casi desmayo.
+Para muchas personas con [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/), [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), Long COVID, solapamiento con EDS o HSD, ME/CFS o enfermedad crónica, estar quieto de pie puede ser más difícil que caminar. Una fila de caja, espera en farmacia, parada de bus, fila de concierto, control de seguridad, pasillo escolar, cocina o sala de espera puede traer mareo, corazón acelerado, náuseas, temblor, piernas pesadas, niebla mental, sudoración, acumulación de sangre o casi desmayo.
 
 Un registro de síntomas al estar en una fila no diagnostica POTS, disautonomía, presión baja, deshidratación, ansiedad ni ninguna otra condición. Le ayuda a llevar a su clínico un patrón más claro de estar de pie durante mucho tiempo: cuál era la situación, cuánto duró, qué síntomas aparecieron, qué ayudó y qué cambió en su día.
 
@@ -96,7 +96,7 @@ Registre:
 - tiempo total erguido
 - si pudo sentarse
 
-Ejemplo: "Fila del supermercado, quieta 12 minutos después de 25 minutos comprando. Tienda calida. Mareo 6/10, corazon acelerado, piernas pesadas. Me sente en el coche con agua; mejoró en 20 minutos."
+Ejemplo: "Fila del supermercado, quieta 12 minutos después de 25 minutos comprando. Tienda calida. Mareo 6/10, corazón acelerado, piernas pesadas. Me sente en el coche con agua; mejoró en 20 minutos."
 
 Eso es más fácil de explicar que "hacer compras me destruyo."
 
@@ -125,7 +125,7 @@ Registre si noto:
 
 - [mareo](/es-es/knowledge/dizziness/)
 - [aturdimiento](/es-es/knowledge/lightheadedness/)
-- casi desmayo o [sincope](/es-es/knowledge/syncope/)
+- casi desmayo o [síncope](/es-es/knowledge/syncope/)
 - pulso acelerado o [taquicardia](/es-es/knowledge/tachycardia/)
 - [palpitaciones](/es-es/knowledge/palpitations/)
 - náuseas
@@ -140,7 +140,7 @@ Registre si noto:
 - [niebla mental](/es-es/knowledge/brain-fog/)
 - [fatiga](/es-es/knowledge/fatigue/)
 
-Si ya mide frecuencia cardíaca o presión arterial como parte de su plan, añada posición y momento: antes de estar de pie, de pie, después de sentarse o después de acostarse. No mida en publico si no es seguro o empeora los síntomas.
+Si ya mide frecuencia cardíaca o presión arterial como parte de su plan, añada posición y momento: antes de estar de pie, de pie, después de sentarse o después de acostarse. No mida en público si no es seguro o empeora los síntomas.
 
 ## Añada Hidratación, Sal, Comidas, Calor Y Compresión
 
@@ -153,7 +153,7 @@ Notas útiles:
 - sal si su clínico la recomienda
 - comida omitida
 - comida grande o rica en carbohidratos
-- cafeina o alcohol
+- cafeína o alcohol
 - habitación caliente, sol, abrigo o aglomeración
 - medias, pantys, faja abdominal o sin compresión
 - horario de medicación
@@ -201,7 +201,7 @@ Escriba:
 
 ## Qué Resumir Antes De La Consulta
 
-Antes de una consulta de atención primaria, cardiología, neurologia, disautonomía, Long COVID, EDS o rehabilitación, resuma:
+Antes de una consulta de atención primaria, cardiología, neurología, disautonomía, Long COVID, EDS o rehabilitación, resuma:
 
 - qué situaciones de pie desencadenan síntomas con más frecuencia
 - cuantos minutos erguido suelen provocar síntomas
@@ -212,13 +212,13 @@ Antes de una consulta de atención primaria, cardiología, neurologia, disautono
 - qué ayuda
 - tiempo de recuperación
 - impacto diario
-- desmayo, lesión, dolor de pecho, falta de aire intensa, confusión o nuevos síntomas neurologicos
+- desmayo, lesión, dolor de pecho, falta de aire intensa, confusión o nuevos síntomas neurológicos
 
 Preguntas útiles:
 
 - "Podría estar relacionado con intolerancia ortostática o acumulación de sangre?"
 - "Debo registrar frecuencia cardíaca o presión durante estar de pie mucho tiempo?"
-- "Compresión, líquidos, sal o maniobras fisicas son adecuados para mi?"
+- "Compresión, líquidos, sal o maniobras físicas son adecuados para mi?"
 - "Que síntomas deberían ser urgentes?"
 - "Podemos hablar de adaptaciones practicas para filas, compras o transporte?"
 

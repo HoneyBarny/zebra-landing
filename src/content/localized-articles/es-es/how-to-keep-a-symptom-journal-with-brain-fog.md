@@ -22,7 +22,7 @@ heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Plantilla de diario de síntomas de cuatro partes para personas con brain fog"
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Usa Zebra para mantener el registro minimo útil en días de brain fog."
+ctaNote: "Usa Zebra para mantener el registro mínimo útil en días de brain fog."
 featured: false
 categories: 
   - "Brain Fog"
@@ -51,9 +51,9 @@ schemaTypes:
   - "FAQPage"
 faq: 
   - question: "¿Cómo llevo un diario de síntomas cuando tengo brain fog?"
-    answer: "Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea síntomas, cambios e impacto funcional en el formato útil más pequeno."
+    answer: "Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea síntomas, cambios e impacto funcional en el formato útil más pequeño."
   - question: "¿Qué debo escribir en días malos de brain fog?"
-    answer: "El síntoma más fuerte, que cambió y una línea sobre cómo afectó tu día suelen ser suficientes."
+    answer: "El síntoma más fuerte, qué cambió y una línea sobre cómo afectó tu día suelen ser suficientes."
   - question: "¿Necesito ponerme al día con los días perdidos?"
     answer: "No. Reiniciar hoy suele ser más sostenible que intentar reconstruirlo todo perfectamente."
 ---
@@ -73,7 +73,7 @@ Un diario de síntomas amigable para brain fog debería ser:
 
 No debería exigirte ser articulado, motivado u organizado en el momento.
 
-## La entrada minima útil
+## La entrada mínima útil
 
 En un día difícil, una entrada útil puede ser tan simple como:
 
@@ -134,7 +134,7 @@ Zebra está creado alrededor de seguimiento corto y estructurado en lugar de dia
 ## Puntos clave
 
 - Un diario de síntomas amigable para brain fog debe ser corto y estructurado.
-- La entrada minima útil es suficiente.
+- La entrada mínima útil es suficiente.
 - Los días perdidos no deberían convertirse en un proyecto de ponerse al día.
 - Rastrea los síntomas y el impacto que probablemente importen después.
 
@@ -142,7 +142,7 @@ Zebra está creado alrededor de seguimiento corto y estructurado en lugar de dia
 
 ### ¿Cómo llevo un diario de síntomas cuando tengo brain fog?
 
-Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea síntomas, cambios e impacto funcional en el formato útil más pequeno.
+Usa una estructura corta y repetida en lugar de una página en blanco. Rastrea síntomas, cambios e impacto funcional en el formato útil más pequeño.
 
 ### ¿Qué debo escribir en días malos de brain fog?
 

@@ -74,7 +74,7 @@ Centra el resumen en los síntomas que más importan:
 - aturdimiento
 - palpitaciones
 - frecuencia cardíaca rápida
-- presincope o desmayo
+- presíncope o desmayo
 - fatiga
 - intolerancia al ejercicio
 - brain fog si empeora con síntomas al estar de pie
@@ -92,7 +92,7 @@ Por ejemplo:
 - si la frecuencia cardíaca cambio de forma notable con la postura
 - si también registraste la presión arterial
 
-Mantenlo como contexto, no como autodiagnostico.
+Mantenlo como contexto, no como autodiagnóstico.
 
 ### 3. Lista de medicamentos y suplementos
 

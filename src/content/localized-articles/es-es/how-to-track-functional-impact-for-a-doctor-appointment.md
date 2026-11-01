@@ -54,7 +54,7 @@ faq:
   - question: "¿Qué es impacto funcional en el rastreo de síntomas?"
     answer: "Impacto funcional significa que cambiaron los síntomas en la vida diaria, como trabajo, escuela, tareas de casa, movilidad, concentración o autocuidado."
   - question: "¿Por qué debo rastrear impacto funcional antes de una cita médica?"
-    answer: "Los ejemplos funcionales hacen que los síntomas sean más fáciles de entender porque muestran que cambió, no solo lo que sentiste."
+    answer: "Los ejemplos funcionales hacen que los síntomas sean más fáciles de entender porque muestran qué cambió, no solo lo que sentiste."
   - question: "¿Necesito rastrear impacto funcional todos los días?"
     answer: "No. Rastrear cambios claros, días de brote o límites repetidos puede ser suficiente para un resumen de cita útil."
 ---
@@ -74,10 +74,10 @@ Ejemplos:
 - falte al trabajo, a la escuela o a planes
 - no pude cocinar, limpiar, trasladarme o conducir
 - tuve problemas para seguir una conversación
-- necesite ayuda con tareas basicas
+- necesite ayuda con tareas básicas
 - me recupere más lento que lo habitual
 
-Estos ejemplos ayudan a mostrar severidad sin necesitar lenguaje dramatico.
+Estos ejemplos ayudan a mostrar severidad sin necesitar lenguaje dramático.
 
 ## Por qué los síntomas solos no siempre bastan
 
@@ -95,7 +95,7 @@ Una nota de cita más fuerte dice:
 - la fatiga hizo difícil ducharme y cocinar tres días esta semana
 - el mareo apareció después de estar de pie y me obligo a sentarme
 - el brain fog hizo difícil terminar mensajes de trabajo
-- el dolor cambio cuanto tiempo podia caminar o sentarme erguido
+- el dolor cambio cuánto tiempo podía caminar o sentarme erguido
 
 Eso es más fácil de conversar.
 
@@ -124,7 +124,7 @@ Categorías útiles incluyen:
 - sueño y recuperación
 - concentración
 - planes sociales
-- tareas domesticas
+- tareas domésticas
 
 Elige las categorías que encajan con tu vida y tu cita.
 

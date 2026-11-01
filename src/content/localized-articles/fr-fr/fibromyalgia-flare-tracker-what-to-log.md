@@ -62,16 +62,16 @@ faq:
   - question: "Combien faut-il écrire pendant une mauvaise journée de flare?"
     answer: "Gardez cela court. Quelques taps ou une phrase peuvent suffire: intensité des symptômes, déclencheur possible, ce que vous avez du arrêter et ce qui a aide."
   - question: "Le suivi peut-il aider à identifier les déclencheurs de flare de fibromyalgie?"
-    answer: "Le suivi peut aider à remarquer des schemas autour du sommeil, du stress, de l'exces d'activité, de la maladie, de la meteo, des changements de routine ou de médicaments, mais votre médecin doit aider a les interpréter."
+    answer: "Le suivi peut aider à remarquer des schémas autour du sommeil, du stress, de l'excès d'activité, de la maladie, de la meteo, des changements de routine ou de médicaments, mais votre médecin doit aider à les interpréter."
   - question: "Faut-il noter ce qui a aide pendant un flare?"
-    answer: "Oui. Notez pacing, repos, mouvement doux, chaleur, relaxation, contexte des médicaments, changements de sommeil ou autres strategies approuvees par votre médecin afin de comparer ce qui aide avec le temps."
+    answer: "Oui. Notez pacing, repos, mouvement doux, chaleur, relaxation, contexte des médicaments, changements de sommeil ou autres strategies approuvées par votre médecin afin de comparer ce qui aide avec le temps."
   - question: "Zebra est-il un avis médical?"
     answer: "Non. Zebra aide à organiser l'historique saisi par le patient pour les rendez-vous. Il ne diagnostique pas, ne traite pas et ne remplace pas les soins médicaux."
 ---
 
-Un flare de [fibromyalgie](/fr-fr/knowledge/fibromyalgia/) peut rendre tout plus fort: douleur, fatigue, problèmes de sommeil, [brain fog](/fr-fr/knowledge/brain-fog/), sensibilité sensorielle et stress. Pendant une mauvaise journée, le but n'est pas d'écrire un journal parfait. Le but est de garder assez de détails pour que votre futur vous et votre médecin comprennent ce qui s'est passe.
+Un flare de [fibromyalgie](/fr-fr/knowledge/fibromyalgia/) peut rendre tout plus fort: douleur, fatigue, problèmes de sommeil, [brain fog](/fr-fr/knowledge/brain-fog/), sensibilité sensorielle et stress. Pendant une mauvaise journée, le but n'est pas d'écrire un journal parfait. Le but est de garder assez de détails pour que votre futur vous et votre médecin comprennent ce qui s'est passé.
 
-Le CDC décrit la fibromyalgie comme une condition pouvant causer douleur, fatigue, detresse emotionnelle et mentale, et problèmes de sommeil. Cleveland Clinic note que les symptômes peuvent empirer pendant les flare-ups et que les déclencheurs fréquents peuvent inclure stress emotionnel, changements de routine, mauvais sommeil, meteo ou temperature, maladie, blessure et changements de médicaments ou de traitement.
+Le CDC décrit la fibromyalgie comme une condition pouvant causer douleur, fatigue, detresse émotionnelle et mentale, et problèmes de sommeil. Cleveland Clinic note que les symptômes peuvent empirer pendant les flare-ups et que les déclencheurs fréquents peuvent inclure stress émotionnel, changements de routine, mauvais sommeil, meteo ou température, maladie, blessure et changements de médicaments ou de traitement.
 
 Le suivi est donc utile, mais seulement s'il reste assez petit pour être fait quand vous vous sentez très mal.
 
@@ -83,9 +83,9 @@ Utilisez:
 
 - intensité du flare de 0 a 10
 - trois principaux symptômes
-- ce qui a change aujourd'hui
+- ce qui a changé aujourd'hui
 - ce que vous avez du arrêter
-- ce qui a aide, meme un peu
+- ce qui a aide, même un peu
 
 Exemple: "Flare 8/10. Douleur brulante diffuse, grosse fatigue, fog. Mal dormi, froid, trop de courses hier. Appel travail annule. Chaleur et silence ont aide."
 
@@ -93,17 +93,17 @@ C'est suffisant.
 
 ## Notez la douleur sans écrire un roman
 
-La douleur de fibromyalgie peut bouger, s'etendre ou changer de qualité.
+La douleur de fibromyalgie peut bouger, s'étendre ou changer de qualité.
 
 Notez:
 
 - emplacement: tout le corps, cou, dos, hanches, jambes, bras, machoire, mains, pieds
 - sensation: courbature, brulure, coup de couteau, pulsation, sensibilité, type grippe
 - intensité de 0 a 10
-- si toucher, vêtements, bruit, lumière ou temperature l'ont aggravee
-- si la douleur est restee dans une zone ou a bouge pendant la journée
+- si toucher, vêtements, bruit, lumière ou température l'ont aggravée
+- si la douleur est restée dans une zone ou a bouge pendant la journée
 
-Le NHS note que la douleur de fibromyalgie peut être ressentie comme une douleur sourde, une brulure, une douleur vive ou lancinante, et que la sensibilité au toucher, à la lumière, aux aliments, à la fumee ou a d'autres stimuli peut faire flamber les symptômes.
+Le NHS note que la douleur de fibromyalgie peut être ressentie comme une douleur sourde, une brulure, une douleur vive ou lancinante, et que la sensibilité au toucher, à la lumière, aux aliments, à la fumée ou a d'autres stimuli peut faire flamber les symptômes.
 
 ## Notez la fatigue et la capacité de récupération
 
@@ -111,16 +111,16 @@ La fatigue n'est pas seulement "être fatigue".
 
 Notes utiles:
 
-- reveil non réparateur
+- réveil non réparateur
 - sensation type grippe
 - impossible de rester debout longtemps
 - besoin de s'allonger
 - besoin d'une sieste
-- crash après des taches simples
-- parole, mouvement ou pensee ralentis
+- crash après des tâches simples
+- parole, mouvement ou pensée ralentis
 - récupération en heures ou le reste de la journée
 
-Cela aide à expliquer la différence entre "douloureux mais fonctionnel" et "incapable de faire les taches de base."
+Cela aide à expliquer la différence entre "douloureux mais fonctionnel" et "incapable de faire les tâches de base."
 
 ## Ajoutez le contexte du sommeil
 
@@ -130,25 +130,25 @@ Notez:
 
 - heures dormies
 - qualité du sommeil
-- difficulte a s'endormir
+- difficulté a s'endormir
 - reveils fréquents
-- reveil à cause de la douleur
-- reveil non réparateur
+- réveil à cause de la douleur
+- réveil non réparateur
 - horaire de sommeil change
-- caféine, alcool, ecrans ou repas tardif si pertinent
+- caféine, alcool, écrans ou repas tardif si pertinent
 
 Vous n'avez pas besoin de données parfaites. "Dormi 4 heures, reveille deux fois par douleur" est utile.
 
 ## Notez le brain fog de façon pratique
 
-Le brain fog est plus utile quand il est lie à ce qu'il a change.
+Le brain fog est plus utile quand il est lié à ce qu'il a changé.
 
 Au lieu d'écrire seulement "foggy", notez:
 
 - mots oublies
-- etapes manquees en cuisinant
+- étapes manquées en cuisinant
 - impossible de suivre une conversation
-- impossible de travailler, lire, conduire, etudier ou remplir des formulaires
+- impossible de travailler, lire, conduire, étudier ou remplir des formulaires
 - horaires de médicaments melanges
 - besoin de rappels
 - sensation de lenteur mentale
@@ -157,24 +157,24 @@ Cela transforme un symptôme vague en impact fonctionnel.
 
 ## Capturez les déclencheurs possibles sans vous blamer
 
-Le suivi des flares n'est pas un exercice de culpabilite. Certains flares arrivent meme quand vous faites tout "correctement".
+Le suivi des flares n'est pas un exercice de culpabilité. Certains flares arrivent même quand vous faites tout "correctement".
 
 Contexte possible:
 
-- exces d'activité ou activité inhabituelle
+- excès d'activité ou activité inhabituelle
 - mauvais sommeil
-- stress emotionnel
+- stress émotionnel
 - maladie ou sensation d'être a plat
-- changement de meteo ou temperature
-- voyage ou routine perturbee
+- changement de meteo ou température
+- voyage ou routine perturbée
 - surcharge sensorielle
 - règles ou changement hormonal
 - migraine
 - symptômes digestifs
-- debut, arret, oubli ou changement de dose de médicament
+- début, arret, oubli ou changement de dose de médicament
 - pic de douleur d'une autre condition
 
-Cambridge University Hospitals décrit les flare-ups de douleur chronique comme des episodes de douleur bien pire qui peuvent arriver après exces d'activité, maladie, tension emotionnelle ou parfois sans raison claire. Cette partie "sans raison claire" compte.
+Cambridge University Hospitals décrit les flare-ups de douleur chronique comme des épisodes de douleur bien pire qui peuvent arriver après excès d'activité, maladie, tension émotionnelle ou parfois sans raison claire. Cette partie "sans raison claire" compte.
 
 ## Notez ce qui a aide et ce qui n'a pas aide
 
@@ -184,7 +184,7 @@ Exemples:
 
 - pacing
 - pauses
-- etirements doux
+- étirements doux
 - courte marche ou mouvement léger
 - chaleur
 - piece calme
@@ -192,18 +192,18 @@ Exemples:
 - respiration de relaxation
 - médicaments comme prescrits
 - nourriture et liquides
-- annuler ou simplifier les taches
+- annuler ou simplifier les tâches
 - demander de l'aide
 
-Notez aussi quand quelque chose s'est retourne contre vous. "Menage 20 minutes, douleur passee de 6 a 9" est une information utile.
+Notez aussi quand quelque chose s'est retourne contre vous. "Menage 20 minutes, douleur passée de 6 a 9" est une information utile.
 
 ## Notez l'impact fonctionnel
 
 L'impact fonctionnel est souvent la partie la plus utile pour le rendez-vous.
 
-Ecrivez ce que le flare a change:
+Écrivez ce que le flare a changé:
 
-- travail ou etudes manques
+- travail ou études manques
 - plans annulés
 - impossible de se doucher
 - impossible de cuisiner
@@ -226,7 +226,7 @@ Utilisez ceci pendant les mauvais jours:
 5. Contexte: stress, activité, meteo, maladie, horaire, médicaments.
 6. Ce qui a aide: pacing, chaleur, repos, mouvement, calme, contexte médicament.
 7. Impact: ce que vous avez du arrêter, annuler ou changer.
-8. Récupération: meme jour, lendemain, plusieurs jours.
+8. Récupération: même jour, lendemain, plusieurs jours.
 
 Si c'est trop, utilisez seulement les lignes 1, 2 et 7.
 
@@ -241,17 +241,17 @@ Informations utiles:
 
 ## La place de Zebra
 
-Zebra aide à garder notes de [flare](/fr-fr/knowledge/flare/), intensité des symptômes, fatigue, brain fog, contexte médicament, déclencheurs, notes de sommeil et [impact fonctionnel](/fr-fr/knowledge/functional-impact/) au meme endroit.
+Zebra aide à garder notes de [flare](/fr-fr/knowledge/flare/), intensité des symptômes, fatigue, brain fog, contexte médicament, déclencheurs, notes de sommeil et [impact fonctionnel](/fr-fr/knowledge/functional-impact/) au même endroit.
 
-Il ne diagnostique pas la fibromyalgie et ne vous dit pas quel traitement utiliser. Il aide à apporter un schema de flare plus clair au médecin.
+Il ne diagnostique pas la fibromyalgie et ne vous dit pas quel traitement utiliser. Il aide à apporter un schéma de flare plus clair au médecin.
 
 ## Points clés
 
-- Un tracker de flare de fibromyalgie doit être assez court pour être utilise pendant une mauvaise journée.
+- Un tracker de flare de fibromyalgie doit être assez court pour être utilisé pendant une mauvaise journée.
 - Notez douleur, fatigue, sommeil, brain fog, sensibilité, déclencheurs possibles, ce qui a aide, récupération et impact quotidien.
 - Ne traitez pas le suivi comme une preuve que vous avez cause le flare.
 - L'impact fonctionnel explique souvent la gravité mieux que les noms de symptômes seuls.
-- De petites notes regulieres sont plus utiles que des notes parfaites occasionnelles.
+- De petites notes régulières sont plus utiles que des notes parfaites occasionnelles.
 
 ## FAQ
 
@@ -265,11 +265,11 @@ Gardez cela court. Quelques taps ou une phrase peuvent suffire: intensité des s
 
 ### Le suivi peut-il aider à identifier les déclencheurs de flare de fibromyalgie?
 
-Le suivi peut aider à remarquer des schemas autour du sommeil, du stress, de l'exces d'activité, de la maladie, de la meteo, des changements de routine ou de médicaments, mais votre médecin doit aider a les interpréter.
+Le suivi peut aider à remarquer des schémas autour du sommeil, du stress, de l'excès d'activité, de la maladie, de la meteo, des changements de routine ou de médicaments, mais votre médecin doit aider à les interpréter.
 
 ### Faut-il noter ce qui a aide pendant un flare?
 
-Oui. Notez pacing, repos, mouvement doux, chaleur, relaxation, contexte des médicaments, changements de sommeil ou autres strategies approuvees par votre médecin afin de comparer ce qui aide avec le temps.
+Oui. Notez pacing, repos, mouvement doux, chaleur, relaxation, contexte des médicaments, changements de sommeil ou autres strategies approuvées par votre médecin afin de comparer ce qui aide avec le temps.
 
 ### Zebra est-il un avis médical?
 

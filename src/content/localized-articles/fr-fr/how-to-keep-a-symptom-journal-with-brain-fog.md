@@ -3,9 +3,9 @@ locale: "fr-fr"
 originalSlug: "how-to-keep-a-symptom-journal-with-brain-fog"
 status: "published"
 title: "Comment tenir un journal de symptômes avec le brain fog"
-subtitle: "Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile."
-description: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce a un système structure et peu exigeant qui aide encore avant les rendez-vous."
-excerpt: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce a un système structure et peu exigeant qui aide encore avant les rendez-vous."
+subtitle: "Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensée est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile."
+description: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce à un système structure et peu exigeant qui aide encore avant les rendez-vous."
+excerpt: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce à un système structure et peu exigeant qui aide encore avant les rendez-vous."
 author: "zebra-editorial"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
@@ -15,7 +15,7 @@ cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
 primaryKeyword: "comment tenir journal symptômes brain fog"
 seoTitle: "Comment tenir un journal de symptômes avec le brain fog | Zebra"
-metaDescription: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce a un système structure et peu exigeant qui aide encore avant les rendez-vous."
+metaDescription: "Apprenez comment tenir un journal de symptômes avec le brain fog grâce à un système structure et peu exigeant qui aide encore avant les rendez-vous."
 ogTitle: "Comment tenir un journal de symptômes avec le brain fog"
 ogDescription: "Une approche peu exigeante du journal de symptômes quand mémoire, concentration et ecriture sont plus difficiles que d'habitude."
 heroImage: "/screenshots/daily-tracking.png"
@@ -51,14 +51,14 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "Comment tenir un journal de symptômes quand j'ai du brain fog?"
-    answer: "Utilisez une structure courte et repetee au lieu d'une page blanche. Suivez les symptômes, les changements et l'impact fonctionnel dans le plus petit format utile."
+    answer: "Utilisez une structure courte et répétée au lieu d'une page blanche. Suivez les symptômes, les changements et l'impact fonctionnel dans le plus petit format utile."
   - question: "Que dois-je noter les mauvais jours de brain fog?"
-    answer: "Le symptôme le plus fort, ce qui a change et une ligne sur son effet sur votre journée suffisent souvent."
+    answer: "Le symptôme le plus fort, ce qui a changé et une ligne sur son effet sur votre journée suffisent souvent."
   - question: "Dois-je rattraper les jours manques?"
     answer: "Non. Recommencer aujourd'hui est généralement plus durable que d'essayer de tout reconstruire parfaitement."
 ---
 
-Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensee est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile.
+Si vous avez du brain fog, le meilleur journal de symptômes est celui que vous pouvez encore utiliser quand votre pensée est lente, votre mémoire semble peu fiable et écrire un paragraphe complet semble impossible. Cela veut généralement dire une structure plus courte, moins de décisions et une barre plus basse pour ce qui compte comme une entrée utile.
 
 Un journal de symptômes n'echoue pas parce que vous manquez des détails. Il echoue quand le processus vous demande plus que ce que vous pouvez donner les jours ou vous en avez le plus besoin.
 
@@ -79,7 +79,7 @@ Un jour difficile, une entrée utile peut être aussi simple que:
 
 - symptôme
 - sévérité
-- ce qui a change
+- ce qui a changé
 - une note de fonctionnement
 
 Exemple:
@@ -95,10 +95,10 @@ C'est assez pour aider votre futur vous à comprendre la journée plus tard.
 
 Les pages blanches creent trop de décisions.
 
-Utilisez les memes prompts chaque fois:
+Utilisez les mêmes prompts chaque fois:
 
 - quels symptômes sont apparus
-- ce qui a change
+- ce qui a changé
 - ce qui a affecte ma journée
 - quelque chose d'important autour
 
@@ -129,7 +129,7 @@ Cela vous donne l'historique le plus utile avec le moins d'effort.
 
 ## La place de Zebra
 
-Zebra est construit autour d'un suivi court et structure plutôt que d'un journal long. C'est particulierement utile pour les personnes avec brain fog, poussées et conditions qui se chevauchent qui ont besoin d'un dossier qu'elles peuvent encore utiliser avant les rendez-vous.
+Zebra est construit autour d'un suivi court et structure plutôt que d'un journal long. C'est particulièrement utile pour les personnes avec brain fog, poussées et conditions qui se chevauchent qui ont besoin d'un dossier qu'elles peuvent encore utiliser avant les rendez-vous.
 
 ## Points clés
 
@@ -142,11 +142,11 @@ Zebra est construit autour d'un suivi court et structure plutôt que d'un journa
 
 ### Comment tenir un journal de symptômes quand j'ai du brain fog?
 
-Utilisez une structure courte et repetee au lieu d'une page blanche. Suivez les symptômes, les changements et l'impact fonctionnel dans le plus petit format utile.
+Utilisez une structure courte et répétée au lieu d'une page blanche. Suivez les symptômes, les changements et l'impact fonctionnel dans le plus petit format utile.
 
 ### Que dois-je noter les mauvais jours de brain fog?
 
-Le symptôme le plus fort, ce qui a change et une ligne sur son effet sur votre journée suffisent souvent.
+Le symptôme le plus fort, ce qui a changé et une ligne sur son effet sur votre journée suffisent souvent.
 
 ### Dois-je rattraper les jours manques?
 

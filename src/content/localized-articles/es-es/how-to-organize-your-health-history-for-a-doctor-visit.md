@@ -3,7 +3,7 @@ locale: "es-es"
 originalSlug: "how-to-organize-your-health-history-for-a-doctor-visit"
 title: "Como organizar tu historial de salud para una cita médica"
 status: "published"
-subtitle: "Para organizar tu historial de salud antes de una cita médica, empieza por reunir los cambios recientes de síntomas, cambios de medicación, impacto funcional y tus preguntas principales en un resumen corto. Tu médico no necesita ver primero cada nota que has tomado. Necesita la versión que le ayuda a entender que cambió y en que necesitas ayuda ahora."
+subtitle: "Para organizar tu historial de salud antes de una cita médica, empieza por reunir los cambios recientes de síntomas, cambios de medicación, impacto funcional y tus preguntas principales en un resumen corto. Tu médico no necesita ver primero cada nota que has tomado. Necesita la versión que le ayuda a entender qué cambió y en qué necesitas ayuda ahora."
 description: "Aprende a organizar historial de síntomas, medicación, cambios funcionales y preguntas en un resumen claro para una cita médica."
 excerpt: "Aprende a organizar historial de síntomas, medicación, cambios funcionales y preguntas en un resumen claro para una cita médica."
 author: "zebra-editorial"
@@ -52,12 +52,12 @@ faq:
   - question: "¿Cómo organizo mi historial de salud para una cita médica?"
     answer: "Reune cambios recientes de síntomas, impacto funcional, cambios de medicación y preguntas en un resumen corto y estructurado."
   - question: "¿Debería llevar una línea temporal a una cita médica?"
-    answer: "Sí, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas."
+    answer: "Sí, si ayuda a mostrar cuando cambiaron los síntomas y qué ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas."
   - question: "¿Cuánto detalle debería incluir?"
-    answer: "Incluye el detalle suficiente para explicar que cambió y que importa ahora. Guarda los detalles extra para preguntas de seguimiento si hacen falta."
+    answer: "Incluye el detalle suficiente para explicar qué cambió y qué importa ahora. Guarda los detalles extra para preguntas de seguimiento si hacen falta."
 ---
 
-Para organizar tu historial de salud antes de una cita médica, empieza por reunir los cambios recientes de síntomas, cambios de medicación, impacto funcional y tus preguntas principales en un resumen corto. Tu médico no necesita ver primero cada nota que has tomado. Necesita la versión que le ayuda a entender qué cambió y en que necesitas ayuda ahora.
+Para organizar tu historial de salud antes de una cita médica, empieza por reunir los cambios recientes de síntomas, cambios de medicación, impacto funcional y tus preguntas principales en un resumen corto. Tu médico no necesita ver primero cada nota que has tomado. Necesita la versión que le ayuda a entender qué cambió y en qué necesitas ayuda ahora.
 
 Para muchas personas con enfermedad crónica, lo difícil no es la historia en si. Es que la historia esta repartida entre memoria, notas, capturas de pantalla, informes antiguos y sistemas de seguimiento a medio terminar.
 
@@ -79,9 +79,9 @@ Reune:
 
 Nombra los síntomas que más importan para esta visita.
 
-### 2. Que cambió
+### 2. Qué cambió
 
-Escribe que empeoró, se hizo más frecuente o empezó hace poco.
+Escribe qué empeoró, se hizo más frecuente o empezó hace poco.
 
 ### 3. Impacto funcional
 
@@ -110,7 +110,7 @@ Si tu línea temporal es demasiado larga para releerla rápido, acortala.
 
 Intenta no empezar con:
 
-- cada detalle pequeno
+- cada detalle pequeño
 - notas duplicadas
 - historia no relacionada
 - capturas de pantalla sin explicación
@@ -136,7 +136,7 @@ Reune cambios recientes de síntomas, impacto funcional, cambios de medicación 
 
 ### ¿Debería llevar una línea temporal a una cita médica?
 
-Sí, si ayuda a mostrar cuando cambiaron los síntomas y que ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas.
+Sí, si ayuda a mostrar cuando cambiaron los síntomas y qué ocurrió alrededor. Una línea temporal corta suele ser más fácil de usar que notas dispersas.
 
 ### ¿Cuánto detalle debería incluir?
 
