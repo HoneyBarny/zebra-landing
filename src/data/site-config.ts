@@ -31,6 +31,7 @@ export const siteConfig = baseSiteConfig as {
   analytics: {
     /** Empty until set via PUBLIC_META_PIXEL_ID. Empty means the pixel never loads. */
     metaPixelId: string;
+    postHogKey: string;
     /** Empty until set via PUBLIC_APPLE_PT. Optional — `ct` alone still attributes. */
     appleCampaignProviderToken: string;
   };

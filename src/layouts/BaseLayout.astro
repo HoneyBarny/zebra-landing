@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import { siteConfig } from '../data/site-config';
 import ConsentBanner from '../components/ConsentBanner.astro';
+import PostHogAnalytics from '../components/PostHogAnalytics.astro';
 
 interface Props {
 	lang?: string;
@@ -185,6 +186,7 @@ const resolvedOgImage = ogImage
 				})();
 			</script>
 		)}
+		<PostHogAnalytics />
 	</head>
 	<body>
 		{/*

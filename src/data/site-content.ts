@@ -1779,10 +1779,10 @@ export const privacyPage = {
   backLabel: 'Back to Zebra',
   eyebrow: 'Privacy',
   title: 'Privacy Policy',
-  updated: 'Last updated: September 12, 2026',
+  updated: 'Last updated: November 7, 2026',
   intro: [
     'Zebra is a symptom tracker for people with POTS, EDS, and Fibromyalgia. This policy covers both the Zebra app and this website.',
-    'The app and the website are separate. The app keeps your health data on your device and in your own iCloud, and never sends it to us. The website is marketing, and — only if you agree to it — measures how well our ads work. Nothing connects the two: this website cannot see anything you enter in the app, and the app does not report back to this website.',
+    'The app and the website are separate. The app keeps your health data on your device and in your own iCloud, and never sends it to us. Both send anonymous usage counts with no health information (see below). The website is marketing, and — only if you agree to it — measures how well our ads work. Nothing connects the two: this website cannot see anything you enter in the app, and the app does not report back to this website.',
   ],
   sections: [
     {
@@ -1814,6 +1814,14 @@ export const privacyPage = {
       paragraphs: [
         'Zebra Premium subscriptions are processed entirely through Apple. We do not collect, see, or store your payment information. Subscription management is handled through your Apple ID account.',
         'To check whether Premium is active, the app uses RevenueCat, a subscription service. RevenueCat receives your App Store purchase and subscription records, an anonymous identifier the app creates, and the technical information any network request carries, such as your IP address. It does not receive your health data, and the app does not give it your name or email address.',
+      ],
+    },
+    {
+      heading: 'Anonymous usage analytics (app and website)',
+      paragraphs: [
+        'The app and this website send anonymous usage counts to PostHog, an analytics service, so we can see where Zebra is hard to use. In the app these are events such as: the app was opened, an onboarding screen was shown, onboarding was finished, a first entry was saved, the plans screen was shown, a purchase was completed. On this website they are page visits and presses of the App Store buttons.',
+        'They never include your health information: no symptoms, conditions, flare severity, notes, medications, test results or doctor reports. Each event carries a random identifier that is not linked to your name, email address or Apple ID, plus details such as the app version and how many days ago you installed it. PostHog is set not to keep your IP address or work out your location, and nothing is recorded on screen.',
+        'On this website nothing is stored in your browser for this: no cookie and no local storage. In the app you can turn it off at any time in Me → Data and privacy → Share anonymous usage. PostHog holds these events in the United States.',
       ],
     },
     {

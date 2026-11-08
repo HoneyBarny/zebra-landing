@@ -32,6 +32,9 @@ export const siteConfig = {
   analytics: {
     metaPixelId: import.meta.env.PUBLIC_META_PIXEL_ID || '',
     appleCampaignProviderToken: import.meta.env.PUBLIC_APPLE_PT || '',
+    // Public, write-only PostHog project key (Zebra project, shared with the
+    // app). Safe in the page source. Empty string turns website analytics off.
+    postHogKey: import.meta.env.PUBLIC_POSTHOG_KEY ?? 'phc_wNaqK2TE8xabTmkcgDuHUJPHay9sZoKKGjrUotXhmvQa',
   },
   assets: {
     favicon: {

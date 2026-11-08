@@ -6,6 +6,7 @@ interface ImportMetaEnv {
 	 * and no Meta script or network request is added to the page.
 	 */
 	readonly PUBLIC_META_PIXEL_ID?: string;
+	readonly PUBLIC_POSTHOG_KEY?: string;
 	/**
 	 * Apple App Analytics provider token, from App Store Connect →
 	 * App Analytics → Campaigns. Optional: without it, App Store links still

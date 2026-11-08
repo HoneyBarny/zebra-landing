@@ -5,7 +5,7 @@ import { siteConfig, toAbsoluteUrl } from '../data/site-config';
 export const GET: APIRoute = () => {
   const body = `# Zebra Privacy Summary
 
-Last updated: 2026-07-25
+Last updated: 2026-11-07
 
 Zebra is private by design. The current landing page describes Zebra as an iPhone app that does not require a Zebra account and does not run a separate Zebra health-data server.
 
@@ -15,7 +15,7 @@ Zebra is private by design. The current landing page describes Zebra as an iPhon
 - Zebra does not require a Zebra account.
 - Zebra does not run a separate Zebra health-data server.
 - Zebra summarizes patient-entered history for the user's own care conversations.
-- The iOS app contains no analytics or advertising SDK.
+- The iOS app contains no advertising SDK. It sends anonymous usage events (app opened, onboarding steps, first entry, paywall shown, purchase) to PostHog, with a random ID, no IP address kept, no location and no health information. Users can turn this off in Me → Data and privacy.
 
 ## Marketing Website
 
@@ -25,6 +25,7 @@ The app and this website are separate systems. The website cannot see anything e
 - If accepted, Meta receives page views and App Store button clicks, plus what any site receives from a browser request such as IP address.
 - Meta receives nothing health-related. No app data reaches this website.
 - A visitor can change the decision at any time via the "Cookie preferences" control on the privacy policy page and in the site footer. The choice is stored only in the visitor's own browser.
+- This website sends anonymous page views and App Store button clicks to PostHog without storing anything in the browser (no cookie, no local storage), so it is not behind the consent banner.
 - App Store links carry an Apple campaign parameter that Apple reads server-side. It runs no script and stores nothing in the browser.
 
 ## Important Note

@@ -1,0 +1,44 @@
+---
+/**
+ * Anonymous visit counts for the website (PostHog, same project as the app).
+ *
+ * Nothing is stored in the visitor's browser: `persistence: 'memory'` keeps
+ * the anonymous ID only for the open page, so there is no cookie and no
+ * localStorage, and the Meta consent banner is not needed for this. The
+ * project discards IP addresses (PostHog project setting).
+ *
+ * Sends: one pageview per page, and `appstore_click` with the button's
+ * placement. No autocapture, no session recording, no surveys.
+ */
+---
+
+<script>
+	import posthog from 'posthog-js';
+	import { siteConfig } from '../data/site-config';
+
+	const key = siteConfig.analytics.postHogKey;
+	if (key) {
+		posthog.init(key, {
+			api_host: 'https://us.i.posthog.com',
+			persistence: 'memory',
+			person_profiles: 'identified_only',
+			autocapture: false,
+			capture_pageview: true,
+			capture_pageleave: false,
+			disable_session_recording: true,
+			disable_surveys: true,
+			mask_personal_data_properties: true,
+		});
+
+		document.addEventListener('click', (event) => {
+			const target = event.target instanceof Element
+				? event.target.closest('[data-app-store-cta="true"]')
+				: null;
+			if (!(target instanceof HTMLElement)) return;
+			posthog.capture('appstore_click', {
+				cta_location: target.dataset.ctaLocation || 'unknown',
+				cta_label: target.dataset.ctaLabel || target.textContent?.trim() || 'unknown',
+			});
+		});
+	}
+</script>
