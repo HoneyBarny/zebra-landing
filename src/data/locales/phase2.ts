@@ -394,7 +394,7 @@ export const phase2Pages = {
         backLabel: 'Retour a Zebra',
         eyebrow: 'Confidentialite',
         title: 'Politique de confidentialite',
-        updated: 'Derniere mise a jour : 7 novembre 2026',
+        updated: 'Dernière mise à jour : 7 novembre 2026',
         intro: ['Zebra est une app de suivi des symptômes pour les personnes avec POTS, SED et fibromyalgie. Cette politique couvre l app Zebra et ce site web.', 'L app et le site sont separes. L app contient vos donnees de sante et ne nous les envoie pas. Le site sert au marketing et mesure l efficacite de nos publicites seulement si vous l acceptez. Rien ne relie les deux : ce site ne peut pas voir ce que vous saisissez dans l app, et l app ne renvoie rien a ce site.'],
         sections: [
           { heading: 'Donnees de sante dans l app', paragraphs: ['Toutes les informations de sante saisies dans Zebra, y compris check-ins, poussees, tests orthostatiques, symptômes, médicaments, sel et hydratation, sont stockees localement sur votre appareil avec SwiftData d Apple. Selon vos reglages Apple/iCloud et la versión actuelle de l app, ces donnees peuvent se synchroniser de maniere privee via votre compte iCloud personnel avec CloudKit. Nous ne recevons, consultons ni stockons vos donnees de sante sur nos serveurs.'] },
@@ -424,7 +424,7 @@ export const phase2Pages = {
         backLabel: 'Retour a Zebra',
         eyebrow: 'Conditions',
         title: 'Conditions d utilisation',
-        updated: 'Derniere mise a jour : 18 mai 2026',
+        updated: 'Dernière mise à jour : 18 mai 2026',
         intro: ['En telechargeant ou en utilisant l app Zebra ou ce site, vous acceptez ces conditions. Si vous ne les acceptez pas, veuillez ne pas utiliser Zebra.'],
         sections: [
           { heading: 'Objet de l app', paragraphs: ['Zebra est un outil personnel de suivi des symptômes pour les personnes avec POTS, SED et fibromyalgie. Il aide a enregistrer et relire vos propres informations de sante et a générer des resumes a partager avec vos soignants.'] },
