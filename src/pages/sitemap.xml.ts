@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { execFileSync } from 'node:child_process';
 import { stat } from 'node:fs/promises';
 import { join } from 'node:path';
 
@@ -67,6 +68,18 @@ function sitemapEntry({ route, lastmod, alternates = [] }: SitemapUrl) {
 }
 
 async function getFileDate(...paths: string[]) {
+  // Use the last commit that touched these files. File times are no use on the
+  // deploy runner: a fresh checkout stamps every file with the deploy time.
+  try {
+    const committed = execFileSync('git', ['log', '-1', '--format=%cs', '--', ...paths], {
+      cwd: process.cwd(),
+      encoding: 'utf8',
+    }).trim();
+    if (committed) return committed;
+  } catch {
+    // No git history available: fall back to file times.
+  }
+
   const stats = await Promise.all(paths.map((path) => stat(join(process.cwd(), path))));
   const latest = stats.reduce(
     (max, entry) => (entry.mtime > max ? entry.mtime : max),
