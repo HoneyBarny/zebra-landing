@@ -44,7 +44,7 @@ metaDescription: "Aprende que rastrear antes de una cita con especialista en EDS
 ogTitle: "Que rastrear antes de una cita con especialista en EDS"
 ogDescription: "Una checklist tranquila y práctica para preparar un historial de síntomas de EDS más claro antes de una visita con especialista."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Pantalla de preparación de citas de Zebra mostrando un resumen de consulta y síntomas cambiados antes de una visita con especialista."
+heroImageAlt: "Pantalla de preparación de citas de Zebra mostrando una vista previa del informe médico y síntomas cambiados antes de una visita con especialista."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Usa Zebra para mantener tu historial de síntomas de EDS, contexto de solapamiento y preguntas de cita en un registro listo para el médico."

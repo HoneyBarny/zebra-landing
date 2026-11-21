@@ -42,7 +42,7 @@ metaDescription: "Lernen Sie, wie man eine monatliche Symptomzusammenfassung aus
 ogTitle: "Wie man eine monatliche Symptomzusammenfassung vorbereitet"
 ogDescription: "Ein einfacher Rahmen, um Symptomtracking in eine terminbereite monatliche Zusammenfassung zu verwandeln."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Zebra-Terminvorbereitungsbildschirm mit einer Konsultationszusammenfassung."
+heroImageAlt: "Zebra-Terminvorbereitungsbildschirm mit einer Arztbericht-Vorschau."
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Nutzen Sie Zebra, um tägliches Tracking in eine klarere monatliche Symptomzusammenfassung zu verwandeln."

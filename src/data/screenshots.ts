@@ -10,7 +10,7 @@ export const screenshots = {
   appointmentPreparation: {
     id: 'appointment-preparation',
     src: '/screenshots/appointment-preparation.png',
-    alt: 'Zebra doctor-ready report and appointment preparation screen showing changed symptoms, a consultation brief preview, and patient-entered history for a specialist visit.',
+    alt: 'Zebra doctor-ready report and appointment preparation screen showing changed symptoms, a doctor report preview, and patient-entered history for a specialist visit.',
     width: 1530,
     height: 3036,
     label: 'Appointment preparation',
@@ -65,7 +65,7 @@ export const screenshotStory = {
   doctorReport: {
     ...screenshots.appointmentPreparation,
     label: 'Doctor report preview',
-    meta: 'Consultation brief preview',
+    meta: '30-day summary',
   },
   dailyTracking: {
     ...screenshots.dailyCheckIn,

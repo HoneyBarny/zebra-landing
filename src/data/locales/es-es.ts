@@ -341,7 +341,7 @@ export const homePageEsEs = {
     media: {
       ...screenshotStory.doctorReport,
       label: 'Vista previa del informe',
-      meta: 'Resumen para consulta',
+      meta: 'Resumen de 30 días',
       alt: 'Pantalla de Zebra con informe para el médico y preparación de cita a partir del historial introducido por la persona.',
     },
   },
@@ -409,7 +409,7 @@ export const homePageEsEs = {
       'La página empieza por el informe, pero el producto sigue construido alrededor de check-ins cortos que funcionan también en días malos.',
     label: 'Capturas de la app Zebra',
     items: [
-      { ...screenshotStory.doctorReport, label: 'Vista previa del informe', meta: 'Resumen para consulta', title: 'Vista previa del informe', body: 'Revisa un resumen antes de la cita.' },
+      { ...screenshotStory.doctorReport, label: 'Vista previa del informe', meta: 'Resumen de 30 días', title: 'Vista previa del informe', body: 'Revisa un resumen antes de la cita.' },
       { ...screenshotStory.dailyTracking, label: 'Check-in diario', meta: 'Síntomas, desencadenantes, hidratación, medicación', title: 'Check-in diario', body: 'Registra síntomas, desencadenantes, hidratación, medicación y notas.' },
       { ...screenshotStory.orthostaticTest, label: 'Evidencia ortostática', meta: 'Test ortostático dentro del flujo de informe', title: 'Evidencia ortostática', body: 'Mantiene las constantes por posición conectadas con el resto del día.' },
       { ...screenshotStory.trends, label: 'Historial de patrones', meta: 'Los patrones se convierten en historial útil', title: 'Historial de patrones', body: 'Observa patrones repetidos y conclusiones guardadas con el tiempo.' },

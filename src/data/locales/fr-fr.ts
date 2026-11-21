@@ -336,7 +336,7 @@ export const homePageFrFr = {
     media: {
       ...screenshotStory.doctorReport,
       label: 'Aperçu du rapport',
-      meta: 'Aperçu du résumé de consultation',
+      meta: 'Synthèse sur 30 jours',
       alt: 'Écran Zebra de rapport médical et préparation de rendez-vous à partir de l\'historique saisi par la personne.',
     },
   },
@@ -404,7 +404,7 @@ export const homePageFrFr = {
       'La page met le rapport en premier, mais le produit reste construit autour de check-ins courts qui restent utilisables les mauvais jours.',
     label: 'Captures d\'écran de l\'app Zebra',
     items: [
-      { ...screenshotStory.doctorReport, label: 'Aperçu du rapport', meta: 'Aperçu du résumé de consultation', title: 'Aperçu du rapport', body: 'Relisez un résumé avant le rendez-vous.' },
+      { ...screenshotStory.doctorReport, label: 'Aperçu du rapport', meta: 'Synthèse sur 30 jours', title: 'Aperçu du rapport', body: 'Relisez un résumé avant le rendez-vous.' },
       { ...screenshotStory.dailyTracking, label: 'Check-in quotidien', meta: 'Symptômes, déclencheurs, hydratation, médicaments', title: 'Check-in quotidien', body: 'Suivez symptômes, déclencheurs, hydratation, médicaments et notes.' },
       { ...screenshotStory.orthostaticTest, label: 'Données orthostatiques', meta: 'Test orthostatique dans le parcours du rapport', title: 'Données orthostatiques', body: 'Gardez les constantes selon la position connectées au reste de la journée.' },
       { ...screenshotStory.trends, label: 'Historique des tendances', meta: 'Les tendances deviennent un historique utile', title: 'Historique des tendances', body: 'Voyez les tendances récurrentes et les observations sauvegardées dans le temps.' },

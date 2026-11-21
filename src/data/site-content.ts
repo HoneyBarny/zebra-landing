@@ -588,7 +588,7 @@ export const homePage = {
       {
         ...screenshotStory.doctorReport,
         title: 'Doctor report preview',
-        body: 'Review a consultation brief before the appointment.',
+        body: 'Review your doctor report before the appointment.',
       },
       {
         ...screenshotStory.dailyTracking,

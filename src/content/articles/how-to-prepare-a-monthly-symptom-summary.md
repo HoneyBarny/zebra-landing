@@ -41,7 +41,7 @@ metaDescription: "Learn how to prepare a monthly symptom summary from symptoms, 
 ogTitle: "How to Prepare a Monthly Symptom Summary"
 ogDescription: "A simple framework for turning symptom tracking into an appointment-ready monthly summary."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Zebra appointment preparation screen showing a consultation summary."
+heroImageAlt: "Zebra appointment preparation screen showing a doctor report preview."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Use Zebra to turn daily tracking into a clearer monthly symptom summary."

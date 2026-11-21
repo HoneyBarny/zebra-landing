@@ -44,7 +44,7 @@ metaDescription: "Lernen Sie, was man vor einem EDS-Spezialistentermin tracken s
 ogTitle: "Was man vor einem EDS-Spezialistentermin tracken sollte"
 ogDescription: "Eine ruhige, praktische Checkliste, um vor einem Spezialistenbesuch einen klareren EDS-Symptomverlauf vorzubereiten."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Zebra-Terminvorbereitungsbildschirm mit einer Beratungsnotiz und veränderten Symptomen vor einem Spezialistenbesuch."
+heroImageAlt: "Zebra-Terminvorbereitungsbildschirm mit einer Arztbericht-Vorschau und veränderten Symptomen vor einem Spezialistenbesuch."
 ctaLabel: "Zebra laden"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Nutzen Sie Zebra, um Ihren EDS-Symptomverlauf, Überschneidungskontext und Terminfragen in einem arztbereiten Verlauf zu behalten."
