@@ -42,7 +42,7 @@ metaDescription: "Learn what to track before an EDS specialist appointment, incl
 ogTitle: "What to Track Before an EDS Specialist Appointment"
 ogDescription: "A calm, practical checklist for preparing a clearer EDS symptom history before a specialist visit."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Zebra appointment preparation screen showing a consultation brief and changed symptoms before a specialist visit."
+heroImageAlt: "Zebra appointment preparation screen showing a doctor report preview and changed symptoms before a specialist visit."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Use Zebra to keep your EDS symptom history, overlap context, and appointment questions in one doctor-ready record."

@@ -21,7 +21,7 @@ heroImage: "/screenshots/appointment-preparation.png"
 heroImageAlt: "Zebra Prepare screen for an upcoming appointment."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Save what you want to raise as it comes up, mark your Top 3, and bring a short brief that lists them first."
+ctaNote: "Save what you want to raise as it comes up, mark your Top 3, and bring a doctor report that lists them first."
 categories:
   - "Appointment Preparation"
   - "Symptom Tracking"
@@ -154,9 +154,9 @@ Zebra keeps your own record of what you want to raise, so the list exists before
 
 - On **Today**, tap "Raise at my next visit" to save a symptom or a few words as it comes up.
 - In **Prepare**, reword or reorder the list, and mark up to three as your **Top 3**.
-- Your **consultation brief** lists the Top 3 first, so you can hand them over or read from them.
+- Your **doctor report** lists the Top 3 first, so you can hand them over or read from them.
 
-The visit list and the brief preview are free. Exporting or sharing the report as a PDF needs Premium. Zebra does not change your medical record, read your clinician's notes, or diagnose anything. Your entries are your own notes, dated, which can help you remember what you raised and when. See [Zebra's doctor report](/doctor-report/) and [what a doctor-ready symptom report is](/blog/what-is-a-doctor-ready-symptom-report/).
+The visit list and the report preview are free. Exporting or sharing the report as a PDF needs Premium. Zebra does not change your medical record, read your clinician's notes, or diagnose anything. Your entries are your own notes, dated, which can help you remember what you raised and when. See [Zebra's doctor report](/doctor-report/) and [what a doctor-ready symptom report is](/blog/what-is-a-doctor-ready-symptom-report/).
 
 ## Key takeaways
 

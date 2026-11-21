@@ -341,8 +341,8 @@ export const homePageDeDe = {
     media: {
       ...screenshotStory.doctorReport,
       label: 'Arztbericht-Vorschau',
-      meta: 'Terminbrief-Vorschau',
-      alt: 'Zebra-Arztbericht und Terminvorbereitung mit veränderten Symptomen, Terminbrief-Vorschau und selbst eingegebenem Verlauf.',
+      meta: '30-Tage-Zusammenfassung',
+      alt: 'Zebra-Arztbericht und Terminvorbereitung mit veränderten Symptomen, Arztbericht-Vorschau und selbst eingegebenem Verlauf.',
     },
   },
   appointmentPrep: {
@@ -412,7 +412,7 @@ export const homePageDeDe = {
       {
         ...screenshotStory.doctorReport,
         label: 'Arztbericht-Vorschau',
-        meta: 'Terminbrief-Vorschau',
+        meta: '30-Tage-Zusammenfassung',
         title: 'Arztbericht-Vorschau',
         body: 'Prüfen Sie vor dem Termin eine kurze Übersicht.',
       },

@@ -42,7 +42,7 @@ metaDescription: "Aprende como preparar un resumen mensual de síntomas a partir
 ogTitle: "Como preparar un resumen mensual de síntomas"
 ogDescription: "Un marco simple para convertir el seguimiento de síntomas en un resumen mensual listo para citas."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Pantalla de preparación de citas de Zebra que muestra un resumen de consulta."
+heroImageAlt: "Pantalla de preparación de citas de Zebra que muestra una vista previa del informe médico."
 ctaLabel: "Descargar Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Usa Zebra para convertir el seguimiento diario en un resumen mensual de síntomas más claro."

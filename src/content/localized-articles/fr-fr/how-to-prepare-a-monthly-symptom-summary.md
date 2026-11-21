@@ -42,7 +42,7 @@ metaDescription: "Apprenez comment préparer un résumé mensuel des symptômes 
 ogTitle: "Comment préparer un résumé mensuel des symptômes"
 ogDescription: "Un cadre simple pour transformer le suivi des symptômes en résumé mensuel prêt pour rendez-vous."
 heroImage: "/screenshots/appointment-preparation.png"
-heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un résumé de consultation."
+heroImageAlt: "Écran de préparation de rendez-vous Zebra montrant un aperçu du rapport médical."
 ctaLabel: "Télécharger Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
 ctaNote: "Utilisez Zebra pour transformer le suivi quotidien en résumé mensuel des symptômes plus clair."
