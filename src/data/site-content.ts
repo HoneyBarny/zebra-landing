@@ -1771,7 +1771,7 @@ export const homePageEnglish = {
 
 export const privacyPage = {
   seo: {
-    title: 'Zebra Privacy Policy: Health Data Stays on Your Device',
+    title: 'Zebra Privacy Policy: Your Health Data Never Reaches Us',
     description:
       'How Zebra handles your data: app health data stays on your iPhone and in your own iCloud, never on Zebra’s servers. Website ad measurement is opt-in.',
   },
