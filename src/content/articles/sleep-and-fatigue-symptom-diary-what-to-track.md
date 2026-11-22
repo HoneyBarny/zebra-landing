@@ -1,27 +1,27 @@
 ---
-title: "Sleep and Fatigue Symptom Diary: What to Track"
+title: "Sleep and Fatigue Diary: What to Track So Your Doctor Can Tell Them Apart"
 status: "published"
-subtitle: "Sleep and fatigue notes are most useful when bedtime, wake time, sleep quality, night waking, naps, medications, caffeine, pain, brain fog, activity, and next-day function stay connected. The goal is not to diagnose a sleep disorder. The goal is to bring clearer patterns to your clinician."
-description: "Learn what to track in a sleep and fatigue symptom diary, including sleep timing, quality, night waking, naps, medications, caffeine, pain, brain fog, activity, and next-day function."
-excerpt: "A practical guide to tracking sleep, fatigue, pain, brain fog, naps, medication context, activity, and next-day functional impact."
+subtitle: "Unrefreshing sleep, daytime fatigue and a crash after exertion can all feel like being exhausted. A few separate notes each day help a clinician see which one you are describing."
+description: "What to record in a sleep and fatigue diary so a clinician can tell unrefreshing sleep, daytime fatigue or sleepiness, and post-exertional crashes apart."
+excerpt: "Three kinds of exhaustion, three short notes: how you woke, how the day went, and what happened in the days after effort."
 author: "roman-bun"
 publishedAt: "2026-08-09"
-updatedAt: "2026-08-09"
+updatedAt: "2026-11-22"
 nextReview: "2027-02-09"
-lastReviewed: "2026-08-09"
+lastReviewed: "2026-11-22"
 featured: false
 cluster: "Fatigue"
 category: "Symptom Tracking"
 primaryKeyword: "sleep and fatigue symptom diary"
-seoTitle: "Sleep and Fatigue Symptom Diary: What to Track | Zebra"
-metaDescription: "Track sleep and fatigue with bedtime, wake time, sleep quality, naps, meds, caffeine, pain, brain fog, activity, and next-day function."
-ogTitle: "Sleep and Fatigue Symptom Diary: What to Track"
-ogDescription: "Track sleep context, fatigue, brain fog, pain, medication timing, activity, and next-day impact in one reviewable record."
+seoTitle: "Sleep, Fatigue or Crash? What to Track in a Diary | Zebra"
+metaDescription: "What to record about sleep and fatigue so your doctor can tell unrefreshing sleep, daytime fatigue and post-exertional crashes apart."
+ogTitle: "Sleep and Fatigue Diary: Telling Poor Sleep, Fatigue and Crashes Apart"
+ogDescription: "Three short daily notes that help a clinician see whether you mean unrefreshing sleep, daytime fatigue or a crash after effort."
 heroImage: "/screenshots/daily-tracking.png"
 heroImageAlt: "Zebra daily tracking screen showing symptoms, notes, and daily context."
 ctaLabel: "Download Zebra"
 ctaHref: "https://apps.apple.com/us/app/zebra-symptom-tracker/id6768839130"
-ctaNote: "Use Zebra to keep sleep context, fatigue, brain fog, pain, activity, medications, and appointment questions in one timeline."
+ctaNote: "Use Zebra for a quick daily check-in: flare severity, symptoms, triggers and notes in one place."
 categories:
   - "Symptom Tracking"
   - "Fatigue"
@@ -56,185 +56,128 @@ schemaTypes:
   - "FAQPage"
 faq:
   - question: "What should I track in a sleep and fatigue diary?"
-    answer: "Track bedtime, wake time, sleep quality, night waking, naps, caffeine or alcohol if relevant, medication timing, pain, brain fog, fatigue severity, activity, and next-day functional impact."
+    answer: "Keep three short notes: the night (bedtime, wake time, naps, waking, how refreshed you felt), the day (sleepy or out of energy, when it was worst, whether rest helped), and effort (what you did and whether symptoms got worse in the following days)."
+  - question: "What is the difference between fatigue and sleepiness?"
+    answer: "MedlinePlus describes drowsiness as feeling the need to sleep, and fatigue as a lack of energy and motivation. Writing down which one you mean helps your clinician."
   - question: "How long should I keep a sleep diary before a doctor visit?"
-    answer: "Many sleep diary resources suggest one to two weeks, but your clinician may recommend a different length. A short consistent record is often more useful than months of scattered notes."
+    answer: "The NHLBI says it may help to keep a sleep diary for 1 to 2 weeks before seeing your doctor. Your clinician may suggest a different length."
   - question: "Can a sleep diary diagnose a sleep disorder?"
     answer: "No. A sleep diary can help organize patterns for a clinician, but diagnosis may require clinical evaluation or testing."
-  - question: "Should I track every detail if I have fatigue?"
-    answer: "No. Track the smallest useful set: sleep timing, sleep quality, next-day fatigue, brain fog, pain, activity, and what changed your function."
   - question: "Is Zebra medical advice?"
     answer: "No. Zebra helps organize patient-entered history for appointments. It does not diagnose, treat, or replace medical care."
 ---
 
-Sleep and [fatigue](/knowledge/fatigue/) are tightly linked for many people with chronic illness, but the pattern can be hard to explain from memory. You may remember that you slept badly. You may remember that the next day was awful. The useful part for a clinician is often the timeline between them: bedtime, wake time, sleep quality, night waking, naps, medications, caffeine, pain, [brain fog](/knowledge/brain-fog/), activity, and next-day function.
+**Short answer:** keep three separate notes. Each morning: when you slept, how often you woke, and whether you woke refreshed. Each day: whether you felt sleepy or simply out of energy, and whether rest helped. After effort: what you did and whether symptoms got worse in the days that followed. Kept apart, they show which kind of exhaustion it is.
 
-A sleep and fatigue diary does not diagnose insomnia, sleep apnea, ME/CFS, fibromyalgia, Long COVID, or any other condition. It helps you bring a clearer record to a clinician who can decide what needs evaluation.
+"I'm exhausted" can mean very different things, and a clinician may need to know which one you mean. This guide is only about keeping them apart in your notes. It does not tell you which one you have; that is your clinician's job.
 
-## Start with the minimum useful sleep note
+## Three kinds of exhaustion that get mixed up
 
-You do not need perfect sleep data.
+- **Unrefreshing sleep.** You slept, but you do not wake up feeling better. The [CDC's page on ME/CFS symptoms](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html) describes people who do not feel better or less tired even after a full night's sleep.
+- **Daytime fatigue or sleepiness.** [MedlinePlus](https://medlineplus.gov/ency/article/003088.htm) separates the two: drowsiness is feeling the need to sleep, fatigue is a lack of energy and motivation.
+- **A crash after effort.** The same CDC page describes symptoms getting worse after physical or mental activity, and says recovery from a crash can take days, weeks or longer. The [CDC's clinical guidance](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html) says symptoms typically worsen 12 to 48 hours after activity, so the crash may not land on the day you did the thing.
 
-Start with:
+All three can feel the same in the moment. The notes below keep them on separate lines.
 
-- bedtime
-- wake time
-- estimated hours slept
-- sleep quality: poor, okay, good
-- how many times you woke up
-- whether pain, symptoms, bathroom trips, heat, stress, or breathing issues woke you
-- how refreshed or unrefreshed you felt
+## Note 1: the night
 
-Example: "Bed 11:30, woke 7:10, slept maybe 5.5 hours, woke 3 times from hip pain, unrefreshed 8/10."
+The [NHLBI's insomnia page](https://www.nhlbi.nih.gov/health/insomnia/diagnosis) suggests writing down when you go to sleep, wake up and take naps, plus caffeine, alcohol and exercise timing.
 
-That is enough to make the next day easier to interpret.
+Add three things that matter for telling the types apart:
 
-## Add next-day fatigue and function
+- how many times you woke, and what woke you (pain, symptoms, bathroom, heat)
+- roughly how many hours you think you slept
+- how refreshed you felt on waking, from 0 (not at all) to 10
 
-Sleep notes are more useful when connected to the next day.
+Example: "Bed 11:30, up 7:10, about 6 hours, woke twice with hip pain. Refreshed 2/10."
 
-Track:
+A night with enough hours and a low refreshed score reads differently from a short, broken night. Both are worth writing down.
 
-- morning fatigue
-- afternoon fatigue
-- brain fog
-- pain level
-- dizziness or lightheadedness
-- ability to shower, cook, work, study, drive, exercise, or socialize
-- whether you needed to lie down
-- whether you needed a nap
-- whether you crashed after normal tasks
+## Note 2: the day
 
-This helps separate "I slept badly" from "sleep disruption changed what I could do."
+[MedlinePlus's fatigue page](https://medlineplus.gov/fatigue.html) suggests a fatigue diary to find patterns through the day, such as when you feel more tired and when you have more energy.
 
-## Track naps without judgment
+Note:
 
-Naps can be part of coping, recovery, or a sign that fatigue is interfering with the day. The goal is not to judge the nap. The goal is to keep the timing visible.
+- **sleepy or drained?** Did you want to sleep, or did you have no energy even though you were not sleepy?
+- **when it was worst:** morning, afternoon or evening
+- **did rest help?** Did a nap or lying down leave you better, the same, or worse?
+- **what it stopped:** work, cooking, driving, a conversation
 
-Track:
+Example: "Not sleepy, just no energy. Worst after lunch. Lay down 40 minutes, no better. Skipped the shop."
 
-- nap time
-- nap length
-- whether it helped
-- whether you woke worse
-- whether it affected nighttime sleep
-- whether the nap was planned or unavoidable
+## Note 3: effort and what came after
 
-For people with energy-limiting illness, an unavoidable nap can be a functional impact note, not a failure.
+This note matters most if you suspect crashes. Write what you did that took effort, physical or mental, and then check back over the next couple of days.
 
-## Keep medication, caffeine, and alcohol context nearby
+Example: "Tues: 2-hour appointment and drive. Thurs: much worse, in bed most of the day."
 
-Many sleep diary templates include caffeine, alcohol, exercise, medications, and evening routines because those details can shape sleep or help clinicians ask better questions.
+The full method for linking exertion to a delayed crash, and for keeping it low-effort, is in [how to track ME/CFS symptoms without triggering PEM](/blog/how-to-track-mecfs-symptoms-without-triggering-pem/). There is no need to repeat it here.
 
-Track context like:
+## Keep it short
 
-- caffeine timing
-- alcohol, if relevant
-- sleep medication or supplements, if your clinician tracks them with you
-- pain medication timing
-- antihistamines or other medications that may affect sleepiness
-- missed doses or medication changes
-- late meals or large meals, if relevant
-- screen time or stressful tasks before bed, if relevant
+Three lines a day is enough. On the worst days, one line is enough: "Woke unrefreshed, crashed after yesterday." [Why symptom tracking fails on bad days](/blog/why-symptom-tracking-fails-on-bad-days/) explains why a smaller note you keep beats a full one you stop.
 
-Do not change medication based on a diary alone. Use the notes for a care conversation.
+## How the notes look side by side
 
-## Link sleep to flares, PEM, and pain
+| What you noticed | Night note | Day note | Effort note |
+| --- | --- | --- | --- |
+| Woke unrefreshed | Enough hours, refreshed score low | Tired from the start of the day | Nothing unusual the day before |
+| Daytime sleepiness | Short or broken night | Wanted to sleep, a nap helped | Nothing unusual |
+| Crash after effort | May be normal | Worse than usual, rest did not help | Effort 1 to 2 days earlier |
 
-For some people, sleep disruption is part of a broader flare pattern.
+This is a way to present your notes, not a diagnosis. Real weeks are messier, and the types can overlap. Bring the notes and let your clinician read them.
 
-Track whether poor sleep happened near:
+## Before the appointment
 
-- [fibromyalgia](/knowledge/fibromyalgia/) pain flare
-- [ME/CFS](/knowledge/me-cfs/) or [PEM](/knowledge/pem/) crash
-- [Long COVID](/knowledge/long-covid/) symptom worsening
-- migraine
-- orthostatic symptoms
-- stress or sensory overload
-- illness
-- period or hormone changes
-- medication changes
+The NHLBI suggests keeping a sleep diary for 1 to 2 weeks before seeing your doctor. When the time comes, pull out:
 
-Do not treat one bad night as proof of cause. Look for repeat patterns you can discuss.
+- typical bedtime and wake time
+- nights with frequent waking, and what woke you
+- how many mornings you woke unrefreshed
+- days you felt sleepy versus days you felt drained
+- whether rest or naps helped
+- any crash that came a day or two after effort
+- any snoring, gasping or breathing problems at night, to mention
 
-## A simple 2-week doctor-ready structure
+Questions you might ask:
 
-Sleep resources often suggest using a diary for one to two weeks before discussing sleep problems with a clinician. If two weeks is too much, start with one week.
-
-Use this structure:
-
-1. Night: bedtime, wake time, estimated sleep, waking.
-2. Sleep quality: poor, okay, good.
-3. Context: pain, meds, caffeine, nap, stress, symptoms.
-4. Next day: fatigue, brain fog, pain, function.
-5. Question: what should I ask at the visit?
-
-The point is consistency, not perfection.
-
-## What to summarize before the appointment
-
-Before a visit, pull out:
-
-- average bedtime and wake time
-- nights with frequent waking
-- unrefreshed mornings
-- worst fatigue days
-- whether naps were needed
-- symptoms that woke you
-- whether fatigue affected work, school, caregiving, driving, or basic tasks
-- medication or caffeine patterns you want to ask about
-- any breathing, snoring, gasping, or urgent symptoms to mention
-
-Helpful questions:
-
-- "Could a sleep issue be worsening my fatigue, pain, brain fog, or dizziness?"
-- "Should I track sleep for longer?"
-- "Do any symptoms suggest a sleep study or other evaluation?"
-- "Could medication timing be affecting sleep or daytime fatigue?"
-- "What symptoms should be urgent?"
-
-## Source context
-
-Helpful background:
-
-- [Sleep Foundation sleep diary overview](https://www.sleepfoundation.org/sleep-diary)
-- [Baylor Medicine sleep journal questions](https://www.bcm.edu/healthcare/specialties/sleep-medicine/sleep-journal)
-- [NHLBI insomnia diagnosis and sleep diary guidance](https://www.nhlbi.nih.gov/health/insomnia/diagnosis)
-- [MedlinePlus fatigue overview and fatigue diary note](https://medlineplus.gov/fatigue.html)
-- [Mayo Clinic ME/CFS diagnosis and pacing/sleep discussion](https://www.mayoclinic.org/diseases-conditions/chronic-fatigue-syndrome/diagnosis-treatment/drc-20360510)
-- [Kaiser Permanente pain diary overview](https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.learning-about-a-pain-diary.abk1346)
+- "Could a sleep problem be making my daytime fatigue worse?"
+- "Should I keep this diary for longer?"
+- "Do these notes suggest a sleep study or other evaluation?"
+- "Could medication timing be affecting my sleep or my energy?"
 
 ## Where Zebra fits
 
-Zebra helps keep sleep context, fatigue, pain, [flares](/knowledge/flare/), medications, triggers, activity, functional impact, and appointment questions in one timeline.
+Zebra's daily check-in records flare severity, symptoms, triggers and notes, so the three notes above can go in the notes field next to the day's symptoms. With Premium, a 30-day PDF [doctor report](/doctor-report/) puts that history in front of your clinician.
 
-It does not diagnose sleep disorders or fatigue causes. It helps you bring a clearer sleep-and-symptom pattern to the clinician who can evaluate it.
+It does not diagnose sleep disorders or tell you why you are tired.
 
 ## Key takeaways
 
-- Sleep notes are most useful when connected to next-day fatigue and function.
-- Track bedtime, wake time, sleep quality, waking, naps, medications, caffeine, symptoms, and impact.
-- A short one- or two-week diary can be more useful than scattered long-term notes.
-- Do not treat sleep context as proof of cause; use it as appointment context.
-- The best output is a concise question list and a pattern your clinician can review.
+- Unrefreshing sleep, daytime fatigue and crashes after effort can feel the same; keep them on separate lines.
+- Night note: sleep and wake times, naps, waking, how refreshed you felt.
+- Day note: sleepy or drained, when it was worst, whether rest helped.
+- Effort note: what you did, and how you were one to two days later.
+- Bring the notes to your clinician; do not diagnose yourself from them.
 
 ## FAQ
 
 ### What should I track in a sleep and fatigue diary?
 
-Track bedtime, wake time, sleep quality, night waking, naps, caffeine or alcohol if relevant, medication timing, pain, brain fog, fatigue severity, activity, and next-day functional impact.
+Keep three short notes: the night (bedtime, wake time, naps, waking, how refreshed you felt), the day (sleepy or out of energy, when it was worst, whether rest helped), and effort (what you did and whether symptoms got worse in the following days).
+
+### What is the difference between fatigue and sleepiness?
+
+MedlinePlus describes drowsiness as feeling the need to sleep, and fatigue as a lack of energy and motivation. Writing down which one you mean helps your clinician.
 
 ### How long should I keep a sleep diary before a doctor visit?
 
-Many sleep diary resources suggest one to two weeks, but your clinician may recommend a different length. A short consistent record is often more useful than months of scattered notes.
+The NHLBI says it may help to keep a sleep diary for 1 to 2 weeks before seeing your doctor. Your clinician may suggest a different length.
 
 ### Can a sleep diary diagnose a sleep disorder?
 
 No. A sleep diary can help organize patterns for a clinician, but diagnosis may require clinical evaluation or testing.
-
-### Should I track every detail if I have fatigue?
-
-No. Track the smallest useful set: sleep timing, sleep quality, next-day fatigue, brain fog, pain, activity, and what changed your function.
 
 ### Is Zebra medical advice?
 
