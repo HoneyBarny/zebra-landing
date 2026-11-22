@@ -4,7 +4,7 @@ status: "published"
 subtitle: "The best symptom tracker app for POTS depends on whether you need pacing support, flexible symptom notes, or one place to prepare for an appointment. Compare the tradeoffs before choosing."
 description: "Compare POTS symptom tracker apps by tracking scope, bad-day usability, appointment proof, and setup effort."
 excerpt: "Compare POTS symptom tracker apps by tracking scope, bad-day usability, appointment proof, and setup effort."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
 updatedAt: "2026-09-02"
 nextReview: "2027-03-02"
@@ -63,7 +63,7 @@ If you are looking for the best symptom tracker app for POTS, the right choice d
 
 The frustrating part is that many people with POTS are not looking for "an app." They are looking for a way to stop stitching together three or four tools every time they have an appointment coming up.
 
-If you are comparing across POTS, dysautonomia, and EDS together, start with the broader hub: [Best Symptom Tracker for POTS, Dysautonomia, and EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+If you are comparing across POTS, dysautonomia, EDS, and Fibromyalgia together, see [Best Chronic Illness Symptom Tracker Apps](/best-chronic-illness-symptom-tracker-apps/).
 
 ## What makes a POTS tracker actually useful?
 
@@ -76,7 +76,7 @@ For POTS, the best app is not the one with the most graphs. It is the one that h
 
 That is why generic symptom tracking and true appointment-prep tracking are not the same thing.
 
-If the upright-symptom side is the main reason you are comparing apps, the more specific guides on [orthostatic symptom tracking](/blog/best-app-for-orthostatic-symptom-tracking/) and [upright intolerance tracking](/blog/best-symptom-tracker-for-upright-intolerance/) may be the better next step.
+If the upright-symptom side is the main reason you are comparing apps, read [how to track POTS symptoms and orthostatic changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) and [what orthostatic intolerance is](/blog/what-is-orthostatic-intolerance/) next.
 
 ## How to compare POTS tracker apps
 
@@ -123,7 +123,7 @@ The biggest differentiators in Zebra's current positioning are:
 
 If your main question is "How do I stop showing up unprepared?" Zebra is the strongest fit in this set.
 
-For the appointment-specific version of this decision, see [Best App for POTS Cardiology Appointment Prep](/blog/best-app-for-pots-cardiology-appointment-prep/).
+If you are getting ready for a cardiology visit, see [what to bring to a POTS cardiology appointment](/blog/what-to-bring-to-a-pots-cardiology-appointment/).
 
 ## Bearable: best if you want broad customization
 

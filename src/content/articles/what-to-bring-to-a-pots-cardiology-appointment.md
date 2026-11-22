@@ -4,11 +4,11 @@ status: "published"
 subtitle: "For a POTS cardiology appointment, the most useful things to bring are a short symptom summary, a medication and supplement list, relevant home heart rate or blood pressure observations, and a clear list of questions. You do not need a perfect binder. You need the information that helps your cardiologist understand what happens when you are upright, what changed recently, and what is affecting daily life."
 description: "A practical POTS cardiology appointment checklist covering symptoms, orthostatic observations, medications, salt, hydration, and questions."
 excerpt: "A practical POTS cardiology appointment checklist covering symptoms, orthostatic observations, medications, salt, hydration, and questions."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
+lastReviewed: "2026-11-22"
 cluster: "Appointment Preparation"
 category: "Appointment Preparation"
 primaryKeyword: "what to bring to a pots cardiology appointment"
@@ -66,7 +66,7 @@ Cardiology visits are easy to waste when the whole story is trapped across memor
 
 ### 1. A short symptom summary
 
-Focus on the symptoms that matter most:
+Focus on the symptoms that matter most. These are common POTS symptoms listed by [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) and [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30):
 
 - dizziness
 - lightheadedness
@@ -90,7 +90,7 @@ For example:
 - whether heart rate changed noticeably with position
 - whether blood pressure was also tracked
 
-Keep this as context, not as self-diagnosis.
+Keep this as context, not as self-diagnosis. A tilt table test is the main way providers diagnose POTS, according to [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots).
 
 ### 3. Medication and supplement list
 
@@ -115,7 +115,7 @@ If symptoms change with:
 - dehydration
 - meals
 
-bring a short note on those patterns. You do not need certainty. You need useful context.
+bring a short note on those patterns. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) names heat, large meals, and strenuous exercise among the things that can make POTS symptoms worse. You do not need certainty. You need useful context.
 
 ### 5. Questions for the visit
 

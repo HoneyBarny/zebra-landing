@@ -38,8 +38,9 @@ const schema = [
     name: author.name,
     description: author.bio,
     mainEntity: {
-      '@type': 'Organization',
+      '@type': author.schemaType,
       name: author.name,
+      ...(author.schemaType === 'Person' ? { jobTitle: author.role, worksFor: { '@type': 'Organization', name: 'Zebra', url: toAbsoluteUrl('/') } } : {}),
       description: author.bio,
       url: toAbsoluteUrl(`/authors/${author.slug}/`),
     },
@@ -66,6 +67,7 @@ const schema = [
         />
         <p class="eyebrow">Author</p>
         <h1>{author.name}</h1>
+        <p>{author.role}</p>
         <p class="blog-hero-copy">{author.bio}</p>
       </section>
 
@@ -100,7 +102,7 @@ const schema = [
           </article>
           <article class="feature-card">
             <p class="mini-label">Medical disclaimer</p>
-            <p>{author.medicalDisclaimer}</p>
+            <p>{author.medicalDisclaimer} <a href="/how-we-write-health-content/">How we write and source health content</a>.</p>
           </article>
           <article class="feature-card">
             <p class="mini-label">Content freshness</p>

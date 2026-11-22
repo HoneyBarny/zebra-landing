@@ -998,6 +998,7 @@ export const homePage = {
       { href: '/knowledge/brain-fog/', label: 'Brain Fog' },
       { href: '/knowledge/doctor-ready-report/', label: 'Doctor Reports' },
       { href: '/authors/', label: 'Authors' },
+      { href: '/how-we-write-health-content/', label: 'How we write' },
       { href: siteConfig.routes.support, label: 'Support' },
       { href: siteConfig.routes.privacy, label: 'Privacy' },
       { href: siteConfig.routes.terms, label: 'Terms' },
@@ -1069,7 +1070,12 @@ export const homePage = {
       // The App Store listing names https://zebratracker.app as its seller URL,
       // so the two identify each other. The developer page is not used: it is
       // the individual developer account, not the Zebra organization.
-      sameAs: [siteConfig.appStore.url],
+      sameAs: [siteConfig.appStore.url, 'https://www.producthunt.com/products/zebra-symptom-tracker-for-pots-eds'],
+      founder: {
+        '@type': 'Person',
+        name: 'Roman Bun',
+        url: new URL('/authors/roman-bun/', siteConfig.siteUrl).toString(),
+      },
       contactPoint: {
         '@type': 'ContactPoint',
         email: siteConfig.support.email,

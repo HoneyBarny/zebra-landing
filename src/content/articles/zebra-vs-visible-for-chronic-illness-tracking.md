@@ -4,7 +4,7 @@ status: "published"
 subtitle: "Zebra and Visible help with related chronic-illness problems, but they are not trying to do the same job. Visible is built around pacing and energy management with wearable support. Zebra is built around symptom history, orthostatic context, and doctor-ready appointment prep. If pacing is your main problem, Visible may fit better. If explaining what changed before an appointment is the harder problem, Zebra is the stronger fit."
 description: "Compare Zebra and Visible to see which is better for pacing, symptom tracking, orthostatic context, and doctor-appointment preparation."
 excerpt: "A practical comparison of Zebra and Visible for pacing, symptom tracking, and appointment preparation."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -133,7 +133,7 @@ in one place for later review.
 
 If the real problem is appointment reconstruction, Zebra fits that use case more directly.
 
-For a broader dysautonomia-focused comparison, start with [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-for-dysautonomia/). If you describe the problem as autonomic symptoms rather than dysautonomia, [Best App for Autonomic Symptom Tracking](/blog/best-app-for-autonomic-symptom-tracking/) is the closer match.
+For a broader comparison of POTS and dysautonomia trackers, start with [Best Symptom Tracker Apps for POTS](/blog/best-symptom-tracker-apps-for-pots-2026/).
 
 ## Which one is better for brain fog and bad days?
 
@@ -159,7 +159,7 @@ But if your current setup already feels too fragmented, adding another tool only
 
 If your bigger problem is still “I have too many disconnected tools,” Zebra is often the better simplification step.
 
-If you are preparing for a cardiology visit specifically, [Best App for POTS Cardiology Appointment Prep](/blog/best-app-for-pots-cardiology-appointment-prep/) and [Best App for Dysautonomia Cardiology Appointment Prep](/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) narrow the choice around appointment outcomes.
+If you are preparing for a cardiology visit specifically, see [what to bring to a POTS cardiology appointment](/blog/what-to-bring-to-a-pots-cardiology-appointment/).
 
 ## Bottom line
 

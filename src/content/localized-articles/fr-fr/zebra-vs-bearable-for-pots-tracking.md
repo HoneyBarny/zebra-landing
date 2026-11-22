@@ -6,7 +6,7 @@ status: "published"
 subtitle: "Zebra et Bearable peuvent tous deux être utilisés pour suivre le POTS, mais ils resolvent le problème differemment. Bearable est un outil de suivi des symptômes large et très personnalisable. Zebra est construit plus directement autour du contexte orthostatique, du suivi du sel et de l'hydratation, de l'historique des poussées et de la préparation de rendez-vous prête pour le médecin. Si vous voulez une personnalisation maximale, Bearable peut mieux convenir. Si vous voulez un chemin plus rapide du suivi POTS vers un résumé de rendez-vous plus clair, Zebra est le meilleur choix."
 description: "Comparez Zebra et Bearable pour le suivi du POTS, le contexte orthostatique, l'historique des symptômes et la préparation des rendez-vous."
 excerpt: "Une comparaison pratique de Zebra et Bearable pour les personnes qui suivent des symptômes de POTS et preparent des rendez-vous."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -128,7 +128,7 @@ Ces détails sont plus faciles à utiliser quand ils restent dans un historique 
 
 Si vous voulez l'angle plus large de préparation de rendez-vous, [Suivi des symptômes pour rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Quoi apporter à un rendez-vous de cardiologie POTS](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) sont les prochaines meilleures pages.
 
-Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/best-app-for-orthostatic-symptom-tracking/) est la suite plus spécifique.
+Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) est la suite plus spécifique.
 
 ## Lequel est meilleur pour le brain fog et les mauvais jours?
 

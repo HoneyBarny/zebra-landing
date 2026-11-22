@@ -205,6 +205,8 @@ export const GET: APIRoute = async () => {
       lastmod: staticRouteDates.get(route) ?? latestArticleDate,
       alternates: route === '/' ? localeAlternates : alternatesForPath(route),
     })),
+    { route: '/about/', lastmod: await getFileDate('src/pages/about.astro') },
+    { route: '/how-we-write-health-content/', lastmod: await getFileDate('src/pages/how-we-write-health-content.astro') },
     ...Object.values(localeRoutes)
       .filter((route) => route !== '/')
       .map((route) => ({

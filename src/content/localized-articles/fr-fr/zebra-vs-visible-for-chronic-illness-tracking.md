@@ -6,7 +6,7 @@ status: "published"
 subtitle: "Zebra et Visible aident avec des problèmes liés aux maladies chroniques, mais ils ne cherchent pas à faire le même travail. Visible est construit autour du pacing et de la gestion de l'énergie avec support wearable. Zebra est construit autour de l'historique des symptômes, du contexte orthostatique et de la préparation de rendez-vous prête pour le médecin. Si le pacing est votre principal problème, Visible peut mieux convenir. Si expliquer ce qui a changé avant un rendez-vous est le problème le plus difficile, Zebra est le meilleur choix."
 description: "Comparez Zebra et Visible pour le pacing, le suivi des symptômes, le contexte orthostatique et la préparation des rendez-vous médicaux."
 excerpt: "Une comparaison pratique de Zebra et Visible pour le pacing, le suivi des symptômes et la préparation des rendez-vous."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -135,7 +135,7 @@ au même endroit pour les relire plus tard.
 
 Si le vrai problème est de reconstruire l'histoire avant un rendez-vous, Zebra correspond plus directement à ce cas d'usage.
 
-Pour une comparaison plus large orientée dysautonomie, commencez par [Best Symptom Tracker for Dysautonomia](/fr-fr/blog/best-symptom-tracker-for-dysautonomia/). Si vous decrivez le problème comme des symptômes autonomes plutôt que comme une dysautonomie, [Best App for Autonomic Symptom Tracking](/fr-fr/blog/best-app-for-autonomic-symptom-tracking/) est le meilleur point de départ.
+Pour une comparaison plus large orientée dysautonomie, commencez par [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-apps-for-pots-2026/). Si vous decrivez le problème comme des symptômes autonomes plutôt que comme une dysautonomie, [Best App for Autonomic Symptom Tracking](/blog/best-symptom-tracker-apps-for-pots-2026/) est le meilleur point de départ.
 
 ## Lequel est meilleur pour le brain fog et les mauvais jours?
 
@@ -161,7 +161,7 @@ Mais si votre système actuel vous semble déjà trop fragmente, ajouter un autr
 
 Si votre plus gros problème reste "j'ai trop d'outils deconnectes", Zebra est souvent la meilleure étape de simplification.
 
-Si vous preparez une visite de cardiologie en particulier, [Best App for POTS Cardiology Appointment Prep](/fr-fr/blog/best-app-for-pots-cardiology-appointment-prep/) et [Best App for Dysautonomia Cardiology Appointment Prep](/fr-fr/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) resserrent le choix autour des résultats de rendez-vous.
+Si vous preparez une visite de cardiologie en particulier, [Best App for POTS Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) et [Best App for Dysautonomia Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) resserrent le choix autour des résultats de rendez-vous.
 
 ## Conclusion
 

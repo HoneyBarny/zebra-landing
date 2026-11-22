@@ -5,7 +5,7 @@ import { siteConfig, toAbsoluteUrl } from '../data/site-config';
 export const GET: APIRoute = () => {
   const body = `# Zebra Pricing
 
-Last updated: 2026-07-25
+Last updated: 2026-11-22
 
 Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 
@@ -20,7 +20,7 @@ Zebra is available for iPhone on the Apple App Store: ${siteConfig.appStore.url}
 - $4.99/month, $39.99/year, or $59.99 once (lifetime, no renewal)
 - Longer history views (90-day and 6-month)
 - Doctor-ready PDF report export
-- The app paywall is built around a 7-day free trial for eligible new subscribers; confirm the current Apple purchase sheet before subscribing
+- 7-day free trial on the monthly and annual plans for eligible new subscribers. The lifetime purchase has no trial. Confirm the current Apple purchase sheet before subscribing
 
 ## Important Notes
 

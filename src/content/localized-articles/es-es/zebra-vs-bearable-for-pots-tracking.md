@@ -6,7 +6,7 @@ status: "published"
 subtitle: "Zebra y Bearable pueden usarse para rastrear POTS, pero resuelven el problema de forma distinta. Bearable es un rastreador de síntomas amplio y muy personalizable. Zebra está construido más directamente alrededor del contexto ortostático, el rastreo de sal e hidratación, el historial de brotes y la preparación de citas lista para el médico. Si quieres máxima personalización, Bearable puede encajar mejor. Si quieres un camino más rápido desde el rastreo de POTS hasta un resumen de cita más claro, Zebra encaja mejor."
 description: "Compara Zebra y Bearable para rastreo de POTS, contexto ortostático, historial de síntomas y preparación de citas."
 excerpt: "Una comparación práctica de Zebra y Bearable para personas que rastrean síntomas de POTS y preparan citas."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -128,7 +128,7 @@ Esos detalles son más fáciles de usar cuando permanecen en un historial conect
 
 Si quieres el angulo más amplio de preparación de citas, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) y [Que llevar a una cita de cardiología por POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) son las siguientes mejores paginas.
 
-Si los síntomas al estar erguido son la mayor pieza que falta, [Mejor app para rastreo de síntomas ortostáticos](/blog/best-app-for-orthostatic-symptom-tracking/) es el seguimiento más específico.
+Si los síntomas al estar erguido son la mayor pieza que falta, [Mejor app para rastreo de síntomas ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es el seguimiento más específico.
 
 ## ¿Cuál es mejor para brain fog y días malos?
 

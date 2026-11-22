@@ -1,7 +1,29 @@
 export const authorProfiles = {
+  'roman-bun': {
+    slug: 'roman-bun',
+    name: 'Roman Bun',
+    schemaType: 'Person',
+    role: 'Founder and developer of Zebra',
+    bio: 'Roman Bun is the founder and independent developer of Zebra, a symptom tracker for POTS, EDS and Fibromyalgia. He writes and edits the Zebra guides. He is not a clinician, and no clinician reviews the guides.',
+    editorialPolicy:
+      'Guides explain tracking and appointment preparation. They do not diagnose, interpret readings or recommend treatment.',
+    researchMethodology:
+      'Medical statements come from public sources listed at the end of each guide. Tracking advice comes from the app and from research into what people with these conditions say is hard.',
+    updatePolicy:
+      'A guide is updated when the app changes or when a source it relies on changes. Each guide shows its last update date.',
+    medicalDisclaimer:
+      'General information, not medical advice. Talk to your clinician before changing anything in your care.',
+    sourcesPolicy:
+      'Each guide lists the sources it cites. Product claims match what the app does today.',
+    citationStandards:
+      'Medical definitions and thresholds are cited to clinical societies, hospitals, public health agencies or patient organizations.',
+    contentFreshnessPolicy:
+      'Guides show published and updated dates. Full policy: zebratracker.app/how-we-write-health-content/.',
+  },
   'zebra-editorial': {
     slug: 'zebra-editorial',
     name: 'About Zebra content',
+    schemaType: 'Organization',
     role: 'How the guides are written and sourced',
     bio: 'Zebra guides are general information to help you prepare for appointments. They are not medical advice. Where a guide relies on research or medical guidance, the sources are listed at the end of the guide.',
     editorialPolicy:
@@ -166,6 +188,13 @@ type KnowledgeEntity = {
   };
   aliases?: string[];
   featured?: boolean;
+  seoTitle?: string;
+  explainer?: {
+    title: string;
+    body: string;
+    sourceLabel: string;
+    sourceHref: string;
+  };
 };
 
 export const knowledgeEntities: KnowledgeEntity[] = [
@@ -204,6 +233,13 @@ export const knowledgeEntities: KnowledgeEntity[] = [
     hubSection: 'definitions',
     relatedCategorySlugs: ['symptom-tracking', 'appointment-preparation', 'brain-fog'],
     featured: true,
+    seoTitle: 'EDS: Why People with Ehlers-Danlos Are Called Zebras | Zebra',
+    explainer: {
+      title: 'Why are people with EDS called zebras?',
+      body: 'Medical students are often taught: when you hear hoofbeats, think of horses, not zebras. It means looking for the common diagnosis first. The Ehlers-Danlos Society adopted the zebra as its symbol because people with EDS and hypermobility spectrum disorders are often the less common answer that gets missed. Many people with EDS call themselves zebras, and a group of zebras is called a dazzle.',
+      sourceLabel: 'The Ehlers-Danlos Society: Why the Zebra?',
+      sourceHref: 'https://www.ehlers-danlos.com/why-the-zebra/',
+    },
   },
   {
     slug: 'heds',

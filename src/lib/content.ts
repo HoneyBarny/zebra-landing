@@ -1,6 +1,7 @@
 import type { CollectionEntry } from 'astro:content';
 
 import {
+  authorProfiles,
   categoryMeta,
   clusterMeta,
   entityMeta,
@@ -371,6 +372,16 @@ export function getArticleSchema(article: ArticleEntry, canonical: string, local
     datePublished: article.data.publishedAt,
     dateModified: article.data.updatedAt ?? article.data.publishedAt,
     image: [new URL(article.data.heroImage, siteConfig.siteUrl).toString()],
+    author: (() => {
+      const profile = authorProfiles[article.data.author as keyof typeof authorProfiles];
+      if (!profile || profile.schemaType !== 'Person') return undefined;
+      return {
+        '@type': 'Person',
+        name: profile.name,
+        jobTitle: profile.role,
+        url: new URL(authorUrl(profile.slug), siteConfig.siteUrl).toString(),
+      };
+    })(),
     publisher: {
       '@type': 'Organization',
       name: 'Zebra',

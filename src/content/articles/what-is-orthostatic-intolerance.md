@@ -4,11 +4,11 @@ status: "published"
 subtitle: "Orthostatic intolerance is a term used when symptoms appear or worsen while sitting upright or standing and improve when you lie down. It describes a symptom pattern, not a diagnosis by itself."
 description: "A simple explanation of orthostatic intolerance, upright symptoms, and why position-related tracking can be useful."
 excerpt: "A simple explanation of orthostatic intolerance, upright symptoms, and why position-related tracking can be useful."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
+lastReviewed: "2026-11-22"
 cluster: "Reference / Glossary"
 category: "Reference / Glossary"
 primaryKeyword: "what is orthostatic intolerance"
@@ -55,11 +55,13 @@ faq:
 
 Orthostatic intolerance is a term used when symptoms appear or worsen while sitting upright or standing and improve when you lie down. It describes a symptom pattern, not a diagnosis by itself.
 
+[Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/orthostatic-intolerance) describes orthostatic intolerance as a group of conditions that cause symptoms when you stand, with symptoms that get better when you lie down. The [CDC](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html) notes that people with ME/CFS often feel worse when standing or sitting upright, and calls this orthostatic intolerance.
+
 People often use this term when talking about dizziness, lightheadedness, weakness, brain fog, palpitations, or feeling unwell when upright for too long.
 
 ## What symptoms can be part of orthostatic intolerance?
 
-Symptoms may include:
+Symptoms may include the following. Most are on [Cleveland Clinic's list](https://my.clevelandclinic.org/health/diseases/orthostatic-intolerance), the CDC names weakness, and palpitations and brain fog are listed for [POTS](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots), one type of orthostatic intolerance:
 
 - dizziness
 - lightheadedness
@@ -74,7 +76,7 @@ Not everyone has the same pattern, and one person's bad day may look different f
 
 ## Is orthostatic intolerance the same as POTS?
 
-No. POTS is one condition that involves orthostatic symptoms, but orthostatic intolerance is a broader term. It describes the upright symptom pattern itself rather than naming the exact condition behind it.
+No. POTS is one condition that involves orthostatic symptoms, but orthostatic intolerance is a broader term. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/orthostatic-intolerance) lists POTS as one type of orthostatic intolerance. It describes the upright symptom pattern itself rather than naming the exact condition behind it.
 
 ## Why the term matters
 

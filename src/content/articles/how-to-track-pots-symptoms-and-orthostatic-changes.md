@@ -4,11 +4,11 @@ status: "published"
 subtitle: "To track POTS symptoms well, focus on the symptoms that matter most, when they happen, how they change with position, and what else was happening around them. The goal is not to collect endless numbers. It is to build a clear history of upright symptoms, flares, and related context that you can review later or bring to an appointment."
 description: "Learn how to track POTS symptoms, upright changes, flares, and relevant home observations in one clear history."
 excerpt: "Learn how to track POTS symptoms, upright changes, flares, and relevant home observations in one clear history."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-09-02"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-09-02"
+lastReviewed: "2026-11-22"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "how to track pots symptoms"
@@ -63,7 +63,7 @@ If you are already taking heart rate or blood pressure readings at home, use [PO
 
 ## What to track
 
-Useful POTS tracking categories often include:
+Useful POTS tracking categories often include symptoms that [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) and [Dysautonomia International](https://www.dysautonomiainternational.org/page.php?ID=30) list for POTS:
 
 - dizziness or lightheadedness
 - rapid heart rate or palpitations
@@ -91,6 +91,8 @@ One of the most useful parts of POTS tracking is noting whether symptoms change 
 - stand
 - stay upright for longer
 
+[Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) notes that POTS symptoms start soon after sitting up or standing, and that lying down may help them go away.
+
 This does not mean every check-in has to be a full orthostatic test. It means your record should capture that position matters.
 
 ## Track the surrounding context
@@ -107,7 +109,7 @@ Helpful context can include:
 - meals
 - medication timing
 
-That does not prove a cause. It makes your history easier to interpret.
+Heat, large meals, and strenuous exercise are among the things [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) says can make POTS symptoms worse. Still, a note does not prove a cause. It makes your history easier to interpret.
 
 ## Track flares, not just average days
 

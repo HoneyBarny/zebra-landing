@@ -4,11 +4,11 @@ status: "published"
 subtitle: "To track brain fog symptoms for a doctor appointment, focus on when it happens, how it affects daily life, what changed around it, and how often it is showing up. Brain fog is hard to explain when it stays abstract. It becomes easier to discuss when you can point to what it actually did to your day."
 description: "Learn how to track brain fog symptoms, function changes, and context so the history is easier to explain at appointments."
 excerpt: "Learn how to track brain fog symptoms, function changes, and context so the history is easier to explain at appointments."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
+lastReviewed: "2026-11-22"
 cluster: "Brain Fog and Difficult Days"
 category: "Brain Fog and Difficult Days"
 primaryKeyword: "how to track brain fog symptoms for a doctor appointment"
@@ -77,7 +77,7 @@ Examples of function impact:
 
 ## Why function matters so much
 
-If brain fog is only described as "my thinking felt off," it may not communicate how disruptive it really was. Functional impact makes the symptom more concrete.
+If brain fog is only described as "my thinking felt off," it may not communicate how disruptive it really was. Functional impact makes the symptom more concrete. [Cleveland Clinic](https://my.clevelandclinic.org/health/symptoms/brain-fog) describes brain fog as a range of symptoms, such as trouble concentrating, forgetfulness, and slower thinking, and suggests telling a healthcare provider if it affects your day-to-day life.
 
 ## Keep the record simple
 
@@ -100,7 +100,7 @@ It may be useful to note whether brain fog tends to show up with:
 - exertion
 - heat
 
-This is context, not proof of cause.
+Brain fog is a listed symptom of [POTS](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots), and [MedlinePlus](https://medlineplus.gov/fibromyalgia.html) describes thinking and memory problems in fibromyalgia as "fibro fog." [Cleveland Clinic](https://my.clevelandclinic.org/health/symptoms/brain-fog) names lack of sleep as one possible cause. This is still context, not proof of cause.
 
 ## How to prepare it for the appointment
 

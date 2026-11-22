@@ -4,7 +4,7 @@ status: "published"
 subtitle: "A fibromyalgia flare can make everything louder: pain, fatigue, sleep problems, brain fog, sensory sensitivity, and stress. Track the smallest useful details so you can spot patterns without turning a bad day into a paperwork day."
 description: "Learn what to track during a fibromyalgia flare, including pain, fatigue, sleep, brain fog, triggers, pacing, recovery, and functional impact."
 excerpt: "A practical fibromyalgia flare tracker guide for logging pain, fatigue, sleep, brain fog, triggers, recovery, and what helped."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
 nextReview: "2027-02-08"
@@ -227,6 +227,8 @@ Use this on bad days:
 8. Recovery: same day, next day, several days.
 
 If that is too much, use the first, second, and seventh lines only.
+
+When it is time to explain the pain itself in the appointment, see [how to describe fibromyalgia pain to a doctor](/blog/how-to-describe-fibromyalgia-pain-to-a-doctor/).
 
 ## Source context
 

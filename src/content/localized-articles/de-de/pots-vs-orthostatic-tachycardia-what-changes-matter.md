@@ -6,7 +6,7 @@ title: "Orthostatische Tachykardie beim Aufstehen: Welche Veränderungen zählen
 subtitle: "POTS und orthostatische Tachykardie hängen zusammen, sind aber nicht dieselbe Erklärungsebene. Orthostatische Tachykardie beschreibt ein positionsbezogenes Herzfrequenzmuster. POTS ist ein breiteres klinisches Syndrom, zu dem meist Symptome wie Schwindel, Palpitationen, Fatigue und Intoleranz im Aufrechtsein gehören. Wenn Sie für Ihre Versorgung tracken, ist die nützlichste Frage nicht nur, ob Ihre Herzfrequenz steigt. Wichtig ist, was sich mit der Position verändert, welche Symptome damit auftreten und was dieses Muster mit Ihrem Alltag macht."
 description: "Erfahren Sie den Unterschied zwischen POTS und orthostatischer Tachykardie und welche Symptome, Vitalwerte und Alltagsveränderungen beim Tracking am nützlichsten sind."
 excerpt: "Ein praktischer Vergleich von POTS und orthostatischer Tachykardie, plus was Sie tracken sollten, wenn Sie einen klareren arztbereiten Verlauf brauchen."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-15"
 scheduledAt: "2026-07-15"
 updatedAt: "2026-07-15"

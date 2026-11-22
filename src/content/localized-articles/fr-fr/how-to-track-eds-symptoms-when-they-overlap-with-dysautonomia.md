@@ -7,7 +7,7 @@ title: "Comment suivre les symptômes EDS quand ils se chevauchent avec la dysau
 subtitle: "Quand les symptômes EDS se chevauchent avec la dysautonomie, le problème principal n'est pas seulement le volume de symptômes. C'est le flou des symptômes. Étourdissements, fatigue, brain fog, douleur, palpitations et changements de fonctionnement peuvent s'empiler jusqu'a rendre difficile de savoir ce qui a changé, ce qui tend à arriver ensemble et ce que vous devez mentionner au prochain rendez-vous."
 description: "Apprenez comment suivre les symptômes EDS quand ils se chevauchent avec la dysautonomie, avec profils de symptômes partages, fonctionnement quotidien et contexte lié à la position."
 excerpt: "Un flux pratique pour garder les symptômes de chevauchement EDS et dysautonomie dans un dossier clair et utilisable."
-author: "zebra-editorial"
+author: "roman-bun"
 scheduledAt: "2026-07-10"
 updatedAt: "2026-07-12"
 lastReviewed: "2026-07-12"

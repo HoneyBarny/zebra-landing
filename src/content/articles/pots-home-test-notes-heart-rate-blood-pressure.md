@@ -4,17 +4,17 @@ status: "published"
 subtitle: "If you already record home orthostatic measurements, the useful part is not a single heart-rate number. Keep each reading connected to posture, timing, symptoms, medications, hydration, safety context, and what changed afterward."
 description: "Learn what to record during POTS home test notes: posture, timing, heart rate, blood pressure, symptoms, medications, hydration, safety, and appointment questions."
 excerpt: "A practical guide to recording home orthostatic heart rate, blood pressure, symptoms, and context for POTS or orthostatic intolerance conversations."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-08-08"
-updatedAt: "2026-09-02"
+updatedAt: "2026-11-22"
 nextReview: "2027-02-08"
-lastReviewed: "2026-09-02"
+lastReviewed: "2026-11-22"
 featured: false
 cluster: "POTS"
 category: "POTS"
 primaryKeyword: "POTS home test notes"
-seoTitle: "POTS Home Test Notes: Heart Rate and Blood Pressure | Zebra"
-metaDescription: "Record POTS home test notes with posture, timing, heart rate, blood pressure, symptoms, hydration, medications, safety, and doctor questions."
+seoTitle: "POTS Heart Rate Chart and At-Home Test Notes | Zebra"
+metaDescription: "What the heart rate numbers in POTS mean, a lying-to-standing chart you can copy, and what to record at home for your doctor, with safety steps."
 ogTitle: "POTS Home Test Notes: What to Record"
 ogDescription: "A practical guide to recording orthostatic heart rate, blood pressure, symptoms, and context for appointments."
 heroImage: "/screenshots/orthostatic-test.png"
@@ -78,6 +78,19 @@ Zebra's [orthostatic vitals tracker](/orthostatic-vitals-test/) is built for tha
 ## Can you test for POTS at home?
 
 **Short answer:** no, not as a diagnosis. A home check can record heart rate and blood pressure lying and standing, along with symptoms and context, so a clinician can judge the pattern. POTS is diagnosed by a clinician, using the test results, symptoms and other causes ruled out. The [American College of Cardiology 2022 expert consensus](https://www.jacc.org/doi/10.1016/j.jacc.2022.02.003) describes the active stand test that clinics use; if you try a home version, follow your clinician's instructions and stop if you feel unsafe.
+
+## POTS heart rate chart: what the numbers mean
+
+**Short answer:** the number clinicians look at is the rise in heart rate from lying to standing, not one standing reading. The [Heart Rhythm Society 2015 consensus](https://doi.org/10.1016/j.hrthm.2015.03.029) uses a sustained rise of at least 30 beats per minute within 10 minutes of standing (at least 40 for ages 12 to 19), with symptoms on standing and without a large drop in blood pressure.
+
+| What is measured | Threshold in the consensus | What to write down |
+| --- | --- | --- |
+| Heart rate rise, adults | 30 bpm or more within 10 minutes of standing | Lying heart rate, then each standing reading with its minute |
+| Heart rate rise, ages 12 to 19 | 40 bpm or more within 10 minutes | Same as above |
+| Blood pressure | No orthostatic hypotension (a large, sustained drop on standing) | Blood pressure lying and at each standing time point |
+| Symptoms | Symptoms that come on with standing | Main symptom and a 0 to 10 rating at each time point |
+
+These thresholds are for a clinician's test, not a home diagnosis. A rise of 30 at home does not mean you have POTS, and a smaller rise does not rule it out. Bring the numbers to your clinician and let them interpret them.
 
 ## Home notes are not a medical test result
 

@@ -4,7 +4,7 @@ status: "published"
 subtitle: "A doctor appointment symptom checklist helps you bring the right details without trying to remember your whole health history in the waiting room. The most useful checklist includes your main symptoms, what changed, flare patterns, functional impact, medications, relevant measurements, and the top questions you need answered."
 description: "Use this doctor appointment symptom checklist to organize symptoms, flares, medications, function changes, and questions before a visit."
 excerpt: "A practical symptom checklist for preparing clearer notes before a doctor, specialist, or cardiology appointment."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-08-08"
 updatedAt: "2026-08-08"
 nextReview: "2027-02-08"
@@ -255,6 +255,8 @@ The main thing I need help with is:
 This is enough to make the appointment more focused.
 
 If a visit note leaves things out or gets something wrong, see [what to do if your doctor's notes are wrong or leave things out](/blog/what-to-do-if-your-doctors-notes-are-wrong/).
+
+If "what changed" is hard to answer, start a few weeks earlier: [how to set a symptom baseline before a specialist visit](/blog/how-to-set-a-symptom-baseline-before-a-specialist-visit/).
 
 ## How Zebra can help
 

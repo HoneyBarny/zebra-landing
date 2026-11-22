@@ -1,0 +1,72 @@
+---
+import LegalPage from '../components/content/LegalPage.astro';
+import { siteConfig } from '../data/site-config';
+
+const page = {
+  seo: {
+    title: 'How Zebra Writes and Sources Health Content',
+    description:
+      'Who writes the Zebra guides, where the medical information comes from, and what they are not: no clinician reviews them, and they are not medical advice.',
+  },
+  backHref: siteConfig.routes.home,
+  backLabel: 'Back to Zebra',
+  eyebrow: 'Editorial policy',
+  title: 'How we write and source health content',
+  updated: 'Last updated: November 22, 2026',
+  intro: [
+    'The guides on this site help people with POTS, EDS, Fibromyalgia and related conditions track symptoms and prepare for appointments. They are general information, not medical advice.',
+  ],
+  sections: [
+    {
+      heading: 'Who writes the guides',
+      paragraphs: [
+        'Roman Bun, the founder and developer of Zebra, writes and edits the guides. He is not a doctor, nurse or other clinician.',
+        'He uses AI writing tools to help draft and edit. Medical statements are checked against the sources listed in each guide before it is published.',
+      ],
+    },
+    {
+      heading: 'No clinician reviews these guides',
+      paragraphs: [
+        'No doctor or other clinician reviews the guides, before or after they are published. Read them as a starting point for a conversation with your own clinician, not as a substitute for one.',
+      ],
+    },
+    {
+      heading: 'Where the information comes from',
+      paragraphs: [
+        'Medical definitions and thresholds come from public sources, such as the Heart Rhythm Society consensus on POTS, the American College of Cardiology, Cleveland Clinic, MedlinePlus, the CDC and the Ehlers-Danlos Society. Each guide lists its own sources at the end.',
+        'Advice on what to track comes from what the Zebra app does and from research into what people with these conditions say is hard: public community posts, app reviews and patient-organization material.',
+      ],
+    },
+    {
+      heading: 'What the guides do not do',
+      paragraphs: [
+        'They do not diagnose a condition, interpret your readings or recommend treatment. Do not change salt, fluids, medication or activity based on a guide. Ask your clinician.',
+        'If you feel faint, have chest pain or trouble breathing, or your symptoms feel severe or unusual for you, get medical help.',
+      ],
+    },
+    {
+      heading: 'Translations',
+      paragraphs: [
+        'The German, Spanish and French guides are translated from English. They have not been reviewed by a native speaker or a clinician.',
+      ],
+    },
+    {
+      heading: 'Dates and corrections',
+      paragraphs: [
+        'Each guide shows when it was published and last updated. Guides are updated when the app changes or when a source they rely on changes.',
+        'If you find a mistake, email us and we will correct it and update the date:',
+      ],
+      appendContactEmail: true,
+    },
+  ],
+  relatedLinks: [
+    { href: '/about/', label: 'About Zebra' },
+    { href: '/authors/roman-bun/', label: 'Roman Bun' },
+    { href: siteConfig.routes.blog, label: 'Guides' },
+    { href: siteConfig.routes.privacy, label: 'Privacy Policy' },
+  ],
+  contactEmail: siteConfig.support.email,
+};
+---
+
+<LegalPage page={page} />

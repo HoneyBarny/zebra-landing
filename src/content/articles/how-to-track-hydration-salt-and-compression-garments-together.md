@@ -5,11 +5,11 @@ title: "How to Track Hydration, Salt, and Compression Garments Together"
 subtitle: "Hydration, salt, and compression garments are often tracked as separate habits, but they are more useful when they stay connected to symptoms, upright tolerance, and flare history. The point is not to prove what caused a better or worse day. It is to keep enough context to review what changed before an appointment."
 description: "Learn how to track hydration, salt, compression garments, symptoms, and upright tolerance together without turning the record into extra work."
 excerpt: "A practical guide to tracking hydration, salt, compression garments, and symptom context in one useful chronic illness record."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-22"
 scheduledAt: "2026-07-22"
-updatedAt: "2026-07-22"
-lastReviewed: "2026-07-22"
+updatedAt: "2026-11-22"
+lastReviewed: "2026-11-22"
 nextReview: "2027-01-08"
 featured: false
 cluster: "POTS and Dysautonomia Tracking"
@@ -62,7 +62,7 @@ faq:
 
 Hydration, salt, and compression garments are often tracked as separate habits, but they are more useful when they stay connected to symptoms, upright tolerance, and flare history. The point is not to prove what caused a better or worse day. It is to keep enough context to review what changed before an appointment.
 
-For people tracking [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), or [orthostatic intolerance](/knowledge/orthostatic-intolerance/), support routines can matter because symptoms often shift with position, activity, fluids, heat, sleep, and daily stress. A simple record can help you discuss those shifts without rebuilding the whole month from memory.
+For people tracking [POTS](/knowledge/pots/), [dysautonomia](/knowledge/dysautonomia/), or [orthostatic intolerance](/knowledge/orthostatic-intolerance/), support routines can matter because symptoms often shift with position, activity, and heat, which [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) lists among the things that can make POTS symptoms worse. Many people also notice changes with fluids, sleep, and daily stress. A simple record can help you discuss those shifts without rebuilding the whole month from memory.
 
 ## What to track together
 
@@ -81,6 +81,8 @@ You do not need a perfect wellness log. You need a record that is clear enough t
 ## Why these details belong beside symptoms
 
 Hydration, salt, and compression garments are only useful in a history when they have context.
+
+They are common parts of dysautonomia care. The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) describes more fluid and electrolytes as a way to help increase blood volume and compression clothing as a way to reduce blood pooling, and it notes that more fluid and salt is not appropriate for everyone. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) ties extra fluid and salt to the hypovolemic form of POTS. That is one more reason to record your own routine rather than a general rule.
 
 For example:
 

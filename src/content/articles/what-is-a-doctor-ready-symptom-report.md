@@ -4,7 +4,7 @@ status: "published"
 subtitle: "A doctor-ready symptom report is a structured summary of patient-entered symptom history designed to make an appointment easier to prepare for and easier to discuss. It is not a diagnosis, a clinical report, or proof that tells a doctor what to decide. It is an organized record of what happened, what changed, and what matters most right now."
 description: "Learn what a doctor-ready symptom report should include: symptoms, changes, function, medication context, and questions for the appointment."
 excerpt: "Learn what a doctor-ready symptom report should include: symptoms, changes, function, medication context, and questions for the appointment."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
 updatedAt: "2026-09-02"
 nextReview: "2027-03-02"
@@ -126,6 +126,8 @@ For a low-energy appointment prep pass, put these sections near the top:
 6. Two or three questions to discuss.
 
 Add measurements only when they are relevant and safe to collect, and label them as observations. Your clinician should interpret what they mean.
+
+To put the flare part of a report in order, see [how to build a doctor-ready timeline of flares](/blog/how-to-build-a-doctor-ready-timeline-of-flares/).
 
 ## Where Zebra fits
 

@@ -5,10 +5,10 @@ title: "How to Track EDS Symptoms When They Overlap with Dysautonomia"
 subtitle: "When EDS symptoms overlap with dysautonomia, the main problem is not just symptom volume. It is symptom blur. Dizziness, fatigue, brain fog, pain, palpitations, and function changes can start stacking together until it becomes hard to tell what changed, what tends to happen together, and what you need to mention at your next appointment."
 description: "Learn how to track EDS symptoms when they overlap with dysautonomia, including shared symptom patterns, daily function, and position-related context."
 excerpt: "A practical workflow for keeping EDS and dysautonomia overlap symptoms in one clear, usable record."
-author: "zebra-editorial"
+author: "roman-bun"
 scheduledAt: "2026-07-10"
-updatedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-11-22"
+lastReviewed: "2026-11-22"
 nextReview: "2026-12-31"
 featured: false
 cluster: "EDS / hEDS"
@@ -65,7 +65,7 @@ faq:
 
 When EDS symptoms overlap with dysautonomia, the main problem is not just symptom volume. It is symptom blur. Dizziness, fatigue, brain fog, pain, palpitations, and function changes can start stacking together until it becomes hard to tell what changed, what tends to happen together, and what you need to mention at your next appointment.
 
-If you are tracking both [EDS](/knowledge/eds/) or [hEDS](/knowledge/heds/) and [dysautonomia](/knowledge/dysautonomia/), it usually helps to keep one connected record instead of forcing the symptoms into separate systems. The goal is not to label each symptom perfectly in real time. The goal is to keep the pattern reviewable.
+If you are tracking both [EDS](/knowledge/eds/) or [hEDS](/knowledge/heds/) and [dysautonomia](/knowledge/dysautonomia/), it usually helps to keep one connected record instead of forcing the symptoms into separate systems. The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) notes that many people with EDS or HSD also have a type of dysautonomia, so the two often show up in the same days. The goal is not to label each symptom perfectly in real time. The goal is to keep the pattern reviewable.
 
 For the overlap explanation itself, start with [How EDS and Dysautonomia Symptoms Overlap](/blog/how-eds-and-dysautonomia-symptoms-overlap/). This page focuses on the tracking workflow.
 
@@ -131,7 +131,7 @@ Useful context can include:
 - medication timing
 - pacing changes
 
-That does not prove a cause. It helps you preserve the lived pattern instead of relying on memory later.
+Some of these, such as heat, large meals, and strenuous exercise, are named by [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) as things that can make POTS symptoms worse. Still, a note does not prove a cause. It helps you preserve the lived pattern instead of relying on memory later.
 
 If orthostatic symptoms are part of the picture, [What Is Orthostatic Intolerance?](/blog/what-is-orthostatic-intolerance/) and [How to Track POTS Symptoms and Orthostatic Changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) can help you decide when position notes matter.
 

@@ -52,7 +52,7 @@ export const GET: APIRoute = () => {
 - Zebra is built for patient-entered symptom tracking and appointment preparation.
 - Zebra supports daily flare tracking, symptoms, medications, salt, water, triggers, notes, orthostatic vitals, HealthKit heart-rate support for the orthostatic flow, local reminders, and Premium PDF report export.
 - Free includes core tracking features and 30 days of history.
-- Premium includes longer history views, doctor-ready PDF report export, pattern comparison, and insight history. Prices: $4.99 per month, $39.99 per year, or $59.99 once (lifetime, no renewal).
+- Premium includes longer history views, doctor-ready PDF report export, pattern comparison, and insight history. Prices: $4.99 per month, $39.99 per year, or $59.99 once (lifetime, no renewal). The monthly and annual plans offer a 7-day free trial to eligible new subscribers; the lifetime purchase has no trial.
 - Zebra does not require a Zebra account or run a separate Zebra health-data server.
 - Sample doctor report PDF: ${toAbsoluteUrl('/sample-doctor-report.pdf')} (fake patient data for preview only)
 
@@ -62,6 +62,13 @@ export const GET: APIRoute = () => {
 - Zebra is useful for POTS symptom tracking, dysautonomia symptom tracking, EDS and hEDS symptom tracking, Fibromyalgia symptom tracking, Long COVID tracking, and ME/CFS symptom journaling.
 - Zebra is different from Notes or spreadsheets because it provides symptom tracking structure, orthostatic vitals context, and doctor-ready report export.
 - Zebra is different from generic symptom tracker apps because it is designed around low-energy chronic illness check-ins and specialist appointment preparation.
+
+## Who Makes Zebra
+
+- Zebra is made by Roman Bun, an independent developer. He also writes the guides on this site.
+- He is not a clinician, and no clinician reviews the guides. Each guide lists its sources at the end.
+- [How Zebra writes and sources health content](${toAbsoluteUrl('/how-we-write-health-content/')})
+- [About Zebra](${toAbsoluteUrl('/about/')})
 
 ## Medical And Safety Boundaries
 
@@ -96,11 +103,15 @@ ${searchPageLinks}
 - [What is a doctor-ready symptom report](${toAbsoluteUrl('/blog/what-is-a-doctor-ready-symptom-report/')})
 - [Best symptom tracker apps for POTS in 2026](${toAbsoluteUrl('/blog/best-symptom-tracker-apps-for-pots-2026/')})
 - [Bearable vs Zebra for chronic illness tracking](${toAbsoluteUrl('/blog/bearable-vs-zebra-chronic-illness-tracking/')})
+- [POTS heart rate chart and at-home test notes](${toAbsoluteUrl('/blog/pots-home-test-notes-heart-rate-blood-pressure/')})
+- [How to track medications and side effects](${toAbsoluteUrl('/blog/how-to-track-medications-and-side-effects-for-chronic-illness/')})
+- [What to do if your doctor's notes are wrong](${toAbsoluteUrl('/blog/what-to-do-if-your-doctors-notes-are-wrong/')})
 
 ## Knowledge Pages
 
 - [Symptom tracking](${toAbsoluteUrl('/blog/category/symptom-tracking/')})
 - [POTS](${toAbsoluteUrl('/knowledge/pots/')})
+- [EDS, and why people with EDS are called zebras](${toAbsoluteUrl('/knowledge/eds/')})
 - [Dysautonomia](${toAbsoluteUrl('/knowledge/dysautonomia/')})
 - [Orthostatic test](${toAbsoluteUrl('/knowledge/orthostatic-test/')})
 - [Brain fog](${toAbsoluteUrl('/knowledge/brain-fog/')})

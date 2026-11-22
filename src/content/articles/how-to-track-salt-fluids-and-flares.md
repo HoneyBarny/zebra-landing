@@ -4,11 +4,11 @@ status: "published"
 subtitle: "If you are tracking POTS or related dysautonomia symptoms, salt, fluids, and flare history are often more useful when they live in the same record as your symptoms. The goal is not to create a perfect management log. It is to make daily changes easier to notice and easier to review before appointments."
 description: "Learn how to track salt, fluids, flares, and symptoms in one clear record without creating more daily overwhelm."
 excerpt: "Learn how to track salt, fluids, flares, and symptoms in one clear record without creating more daily overwhelm."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
+lastReviewed: "2026-11-22"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "how to track salt and fluids with pots"
@@ -77,6 +77,8 @@ Keep it simple:
 - main symptoms
 - function impact
 - medication changes when relevant
+
+Salt and fluid advice is not the same for everyone. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) describes more fluid and salt as something a provider may suggest for the hypovolemic form of POTS, and the [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) notes that it is not appropriate for everyone. Track what your own care plan includes.
 
 You do not need the world's most detailed hydration spreadsheet. You need a record that still helps later.
 

@@ -4,11 +4,11 @@ status: "published"
 subtitle: "An orthostatic test helps you record what happens to symptoms and, when relevant, heart rate or blood pressure as you move through different positions such as lying down, sitting, and standing. It is useful because it captures a structured snapshot of upright symptom change instead of leaving that history spread across memory and disconnected notes."
 description: "Learn what an orthostatic test helps you record and why position-based observations are more useful when kept with symptom history."
 excerpt: "Learn what an orthostatic test helps you record and why position-based observations are more useful when kept with symptom history."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-09-02"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-09-02"
+lastReviewed: "2026-11-22"
 cluster: "POTS and Dysautonomia Tracking"
 category: "POTS and Dysautonomia Tracking"
 primaryKeyword: "orthostatic test tracker"
@@ -67,7 +67,7 @@ In a tracking context, an orthostatic test can help you record:
 - relevant blood pressure observations
 - how you felt during the process
 
-The goal is not to make a diagnosis on your own. The goal is to create a clearer record.
+The goal is not to make a diagnosis on your own. The goal is to create a clearer record. Clinical versions, such as a tilt table test, measure heart rate and blood pressure as you change position, according to [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots).
 
 ## Why this matters
 
@@ -99,7 +99,7 @@ An orthostatic test does not:
 - explain every symptom
 - replace clinical testing
 
-It is a tracking and communication tool.
+It is a tracking and communication tool. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/orthostatic-intolerance) says orthostatic intolerance is diagnosed from your medical history and tests such as standing tests and a head-up tilt table test, done by a healthcare provider.
 
 ## Where Zebra fits
 

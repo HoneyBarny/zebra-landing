@@ -6,7 +6,7 @@ title: "Beste Symptomtracker-Apps für POTS 2026"
 subtitle: "Wenn Sie nach der besten Symptomtracker-App für POTS suchen, hängt die richtige Wahl davon ab, wobei Sie wirklich Hilfe brauchen. Wenn Sie einen Ort für Symptome, Schübe, Salz und Hydration, orthostatische Beobachtungen und einen arztbereiten Bericht wollen, passt Zebra am stärksten. Wenn Sie vor allem Pacing-Unterstützung wollen, passt Visible möglicherweise besser. Wenn Sie einen breiten, stark anpassbaren Symptomtracker wollen, bleibt Bearable eine wichtige Option. Wenn Sie nur herzfrequenzorientiertes Logging wollen, nutzen manche Menschen TachyMon oder ähnliche Tools neben einer anderen App."
 description: "Vergleichen Sie die besten Symptomtracker-Apps für POTS 2026, inklusive Zebra, Bearable, Visible und notizbasierten Workarounds."
 excerpt: "Vergleichen Sie die besten Symptomtracker-Apps für POTS 2026, inklusive Zebra, Bearable, Visible und notizbasierten Workarounds."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
 updatedAt: "2026-06-29"
 nextReview: "2026-12-26"
@@ -67,7 +67,7 @@ Der frustrierende Teil ist, dass viele Menschen mit POTS nicht nach "einer App" 
 
 Wenn Sie direkt den Zebra-Pfad sehen möchten, ist die deutsche Owner-Seite als [POTS-Tagebuch und POTS-Symptomtracker](/de-de/pots-tracker/) der passendste Einstieg.
 
-Wenn Sie POTS, Dysautonomie und EDS zusammen vergleichen, starten Sie mit der breiteren Übersicht: [Bester Symptomtracker für POTS, Dysautonomie und EDS](/blog/best-symptom-tracker-for-pots-dysautonomia-eds/).
+Wenn Sie POTS, Dysautonomie und EDS zusammen vergleichen, starten Sie mit der breiteren Übersicht: [Bester Symptomtracker für POTS, Dysautonomie und EDS](/best-chronic-illness-symptom-tracker-apps/).
 
 ## Was macht einen POTS-Tracker wirklich nützlich?
 
@@ -80,7 +80,7 @@ Bei POTS ist die beste App nicht die mit den meisten Diagrammen. Es ist die App,
 
 Deshalb sind generisches Symptomtracking und echte Terminvorbereitung nicht dasselbe.
 
-Wenn Symptome im Aufrechtsein der Hauptgrund sind, warum Sie Apps vergleichen, können die spezifischeren Leitfäden zu [orthostatischem Symptomtracking](/blog/best-app-for-orthostatic-symptom-tracking/) und [Tracking bei Upright Intolerance](/blog/best-symptom-tracker-for-upright-intolerance/) der bessere nächste Schritt sein.
+Wenn Symptome im Aufrechtsein der Hauptgrund sind, warum Sie Apps vergleichen, können die spezifischeren Leitfäden zu [orthostatischem Symptomtracking](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) und [Tracking bei Upright Intolerance](/blog/what-is-orthostatic-intolerance/) der bessere nächste Schritt sein.
 
 ## Kurzer Vergleich
 
@@ -116,7 +116,7 @@ Wenn Ihre Hauptfrage lautet: "Wie höre ich auf, unvorbereitet zum Termin zu kom
 
 Der nächste sinnvolle Schritt ist oft, orthostatische Beobachtungen nicht separat zu sammeln, sondern sie mit Symptomen und Notizen im [Schellong-Test- und Orthostase-Ablauf](/de-de/orthostatic-vitals-test/) zu dokumentieren.
 
-Für die terminspezifische Version dieser Entscheidung lesen Sie [Beste App für POTS-Kardiologie-Terminvorbereitung](/blog/best-app-for-pots-cardiology-appointment-prep/).
+Für die terminspezifische Version dieser Entscheidung lesen Sie [Beste App für POTS-Kardiologie-Terminvorbereitung](/blog/what-to-bring-to-a-pots-cardiology-appointment/).
 
 ## Bearable: am besten, wenn Sie breite Anpassung wollen
 

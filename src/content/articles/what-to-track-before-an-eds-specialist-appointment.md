@@ -5,10 +5,10 @@ title: "What to Track Before an EDS Specialist Appointment"
 subtitle: "Before an EDS specialist appointment, the most useful thing to track is the pattern that explains what has changed, how your body feels day to day, what affects function, and what overlap symptoms might matter. You do not need a perfect life history. You need a clean recent record you can actually review when the visit starts."
 description: "Learn what to track before an EDS specialist appointment, including joint symptoms, overlap patterns, daily function, medications, and your top questions."
 excerpt: "A practical checklist for tracking the symptoms, changes, and questions that make an EDS specialist appointment more useful."
-author: "zebra-editorial"
+author: "roman-bun"
 scheduledAt: "2026-07-07"
-updatedAt: "2026-07-12"
-lastReviewed: "2026-07-12"
+updatedAt: "2026-11-22"
+lastReviewed: "2026-11-22"
 nextReview: "2026-12-31"
 featured: false
 cluster: "EDS / hEDS"
@@ -65,7 +65,7 @@ faq:
 
 Before an EDS specialist appointment, the most useful thing to track is the pattern that explains what has changed, how your body feels day to day, what affects function, and what overlap symptoms might matter. You do not need a perfect life history. You need a clean recent record you can actually review when the visit starts.
 
-For many people dealing with [EDS](/knowledge/eds/) or [hEDS](/knowledge/heds/), the hard part is not noticing symptoms. It is turning a messy month of pain, instability, fatigue, dizziness, and brain fog into a short story that still makes sense in the room. That is where a clear [health history](/knowledge/health-history/) helps.
+For many people dealing with [EDS](/knowledge/eds/) or [hEDS](/knowledge/heds/), the hard part is not noticing symptoms. It is turning a messy month of pain, instability, fatigue, dizziness, and brain fog into a short story that still makes sense in the room. That is where a clear [health history](/knowledge/health-history/) helps. The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/what-is-eds/) describes joint instability, pain, and fatigue as common problems in EDS.
 
 ## What an EDS specialist usually needs to understand quickly
 
@@ -122,7 +122,7 @@ This is especially helpful if your month has felt hard to summarize out loud.
 
 ## 3. Overlap symptoms that belong in the same record
 
-Many people with EDS are also trying to explain overlap symptoms like dizziness, fatigue, palpitations, brain fog, and upright intolerance. If those are part of your picture, include them in the same record instead of keeping them in a separate app or note.
+Many people with EDS are also trying to explain overlap symptoms like dizziness, fatigue, palpitations, brain fog, and upright intolerance. The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) notes that many people with EDS or HSD have a type of dysautonomia as well, most often a form of orthostatic intolerance. If those are part of your picture, include them in the same record instead of keeping them in a separate app or note.
 
 This is where [How EDS and Dysautonomia Symptoms Overlap](/blog/how-eds-and-dysautonomia-symptoms-overlap/) can help frame what you are seeing. If position-related symptoms matter, [How to Track POTS Symptoms and Orthostatic Changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) gives a simple tracking model.
 

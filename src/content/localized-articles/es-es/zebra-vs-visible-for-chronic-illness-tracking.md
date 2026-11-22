@@ -6,7 +6,7 @@ status: "published"
 subtitle: "Zebra y Visible ayudan con problemas relacionados de enfermedades crónicas, pero no intentan hacer el mismo trabajo. Visible está construido alrededor del pacing y la gestión de energía con apoyo de wearable. Zebra está construido alrededor del historial de síntomas, el contexto ortostático y la preparación de citas lista para el médico. Si el pacing es tu principal problema, Visible puede encajar mejor. Si explicar qué cambió antes de una cita es el problema más difícil, Zebra encaja mejor."
 description: "Compara Zebra y Visible para pacing, rastreo de síntomas, contexto ortostático y preparación de citas médicas."
 excerpt: "Una comparación práctica de Zebra y Visible para pacing, rastreo de síntomas y preparación de citas."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -135,7 +135,7 @@ en un solo lugar para revisarlos después.
 
 Si el problema real es reconstruir la historia antes de una cita, Zebra encaja con ese caso de uso de forma más directa.
 
-Para una comparación más amplia enfocada en disautonomía, empieza con [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-for-dysautonomia/). Si describes el problema como síntomas autonómicos en lugar de disautonomía, [Best App for Autonomic Symptom Tracking](/blog/best-app-for-autonomic-symptom-tracking/) es el enlace más cercano.
+Para una comparación más amplia enfocada en disautonomía, empieza con [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-apps-for-pots-2026/). Si describes el problema como síntomas autonómicos en lugar de disautonomía, [Best App for Autonomic Symptom Tracking](/blog/best-symptom-tracker-apps-for-pots-2026/) es el enlace más cercano.
 
 ## ¿Cuál es mejor para brain fog y días malos?
 
@@ -161,7 +161,7 @@ Pero si tu sistema actual ya se siente demasiado fragmentado, añadir otra herra
 
 Si tu problema más grande sigue siendo "tengo demasiadas herramientas desconectadas", Zebra suele ser el mejor paso para simplificar.
 
-Si estas preparando una visita de cardiología específicamente, [Best App for POTS Cardiology Appointment Prep](/blog/best-app-for-pots-cardiology-appointment-prep/) y [Best App for Dysautonomia Cardiology Appointment Prep](/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) acotan la elección alrededor de resultados de cita.
+Si estas preparando una visita de cardiología específicamente, [Best App for POTS Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) y [Best App for Dysautonomia Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) acotan la elección alrededor de resultados de cita.
 
 ## Conclusión
 

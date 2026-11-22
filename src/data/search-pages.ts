@@ -104,7 +104,7 @@ const commonRelated = [
   { label: 'Doctor report', href: '/doctor-report/' },
   { label: 'Zebra vs Bearable', href: '/zebra-vs-bearable/' },
   { label: 'Zebra vs Visible', href: '/zebra-vs-visible/' },
-  { label: 'Best POTS tracker apps', href: '/best-pots-symptom-tracker-apps/' },
+  { label: 'Best POTS tracker apps', href: '/blog/best-symptom-tracker-apps-for-pots-2026/' },
   { label: 'Invisible illness tracker', href: '/symptom-tracker-for-invisible-illness/' },
 ];
 
@@ -853,69 +853,6 @@ export const searchPages: SearchPage[] = [
         { factor: 'Mobile use', first: 'Can be fiddly on phone', second: 'Built for iPhone check-ins' },
         { factor: 'Brain fog', first: 'High decision load', second: 'Short guided flow' },
         { factor: 'Appointment output', first: 'Manual formatting', second: 'Doctor-ready PDF report with Premium' },
-      ],
-    },
-  }),
-  withDefaults({
-    slug: 'best-pots-symptom-tracker-apps',
-    kind: 'comparison',
-    lastReviewed,
-    title: 'Best POTS Symptom Tracker Apps | Zebra',
-    description:
-      'Compare what to look for in a POTS symptom tracker app: orthostatic vitals, salt, water, meds, flares, and doctor-ready reports.',
-    eyebrow: 'Best apps',
-    h1: 'Best POTS symptom tracker apps: what actually matters before appointments.',
-    directAnswer:
-      'The best POTS symptom tracker app should keep upright symptoms, orthostatic vitals, salt, water, medications, flares, triggers, notes, and appointment questions in one reviewable history.',
-    summary: [
-      'This page is for choosing between app types, not for learning how to track POTS. For POTS, the app matters less than whether you can keep using it on low-energy days and bring a clear history to the clinician who asks what changed.',
-    ],
-    whyTitle: 'What to look for in a POTS tracker',
-    why: [
-      'Orthostatic vitals should stay connected to symptoms and daily context.',
-      'Salt, water, medications, heat, illness, and flare notes should be easy to add.',
-      'The app should help with appointment prep, not only daily tracking.',
-    ],
-    tracksTitle: 'Why Zebra is a strong fit',
-    tracks: commonTracks,
-    bestFor: [
-      'People comparing POTS tracker apps for orthostatic vitals, salt, water, meds, symptoms, and appointment prep.',
-      'People who want condition-aware structure without building a tracker from scratch.',
-      'People who want an iPhone app focused on doctor report preparation.',
-    ],
-    notFor: [
-      'People who need Android support today.',
-      'People who mainly want fitness, workouts, or habit streaks.',
-      'People looking for diagnosis, treatment advice, or clinician interpretation.',
-    ],
-    trust:
-      'This page helps compare tracking features. Ask a clinician about diagnosis, treatment, salt/fluid changes, medications, and concerning symptoms.',
-    cta: 'Try Zebra for POTS tracking',
-    related: [
-      { label: 'POTS tracker', href: '/pots-tracker/' },
-      { label: 'Orthostatic vitals test', href: '/orthostatic-vitals-test/' },
-      { label: 'Doctor report', href: '/doctor-report/' },
-      { label: 'Best app for orthostatic symptom tracking', href: '/blog/best-app-for-orthostatic-symptom-tracking/' },
-    ],
-    faqs: [
-      {
-        question: 'What should a POTS tracker include?',
-        answer:
-          'A useful POTS tracker should include symptoms, flares, orthostatic vitals, salt, water, medications, triggers, notes, and a way to prepare for appointments.',
-      },
-      {
-        question: 'Is Zebra only for POTS?',
-        answer:
-          'No. Zebra is built for POTS, dysautonomia, EDS/hEDS, Fibromyalgia, Long COVID, ME/CFS, and overlapping invisible illness symptoms.',
-      },
-    ],
-    comparison: {
-      columns: ['Generic tracker', 'Zebra'],
-      rows: [
-        { factor: 'POTS context', first: 'Often requires custom setup', second: 'POTS-aware from the start' },
-        { factor: 'Orthostatic vitals', first: 'May be separate or missing', second: 'Built into the tracking flow' },
-        { factor: 'Salt and water', first: 'May need workarounds', second: 'Tracked beside symptoms' },
-        { factor: 'Appointment prep', first: 'Often requires manual summary', second: 'Doctor-ready report workflow' },
       ],
     },
   }),

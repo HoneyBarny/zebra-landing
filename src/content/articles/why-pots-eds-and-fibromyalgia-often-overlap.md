@@ -4,11 +4,11 @@ status: "published"
 subtitle: "POTS, EDS, and Fibromyalgia often overlap because they can share symptoms, daily limitations, and diagnostic pathways, even though they are not the same condition. Many people end up tracking dizziness, fatigue, pain, brain fog, function changes, and flares across more than one label at once."
 description: "Learn why POTS, EDS, and Fibromyalgia symptoms often overlap and why that makes tracking and appointment prep harder."
 excerpt: "Learn why POTS, EDS, and Fibromyalgia symptoms often overlap and why that makes tracking and appointment prep harder."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-06-29"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-26"
-lastReviewed: "2026-06-29"
+lastReviewed: "2026-11-22"
 cluster: "Condition Overlap"
 category: "Condition Overlap"
 primaryKeyword: "pots eds fibromyalgia overlap"
@@ -56,7 +56,7 @@ faq:
 
 POTS, EDS, and Fibromyalgia often overlap because they can share symptoms, daily limitations, and diagnostic pathways, even though they are not the same condition. Many people end up tracking dizziness, fatigue, pain, brain fog, function changes, and flares across more than one label at once.
 
-That overlap can make care and tracking much harder, especially when each condition is treated like a separate story.
+That overlap can make care and tracking much harder, especially when each condition is treated like a separate story. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) lists hypermobile Ehlers-Danlos syndrome as a risk factor for POTS, and the [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) notes that many people with EDS also have a type of dysautonomia.
 
 ## What overlap looks like in real life
 
@@ -68,6 +68,8 @@ For many patients, overlap means:
 - brain fog
 - sleep disruption
 - symptoms that do not stay neatly in one bucket
+
+These symptoms appear across the conditions' own descriptions. [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots) lists dizziness, fatigue, and brain fog for POTS. [MedlinePlus](https://medlineplus.gov/fibromyalgia.html) lists pain, fatigue, trouble sleeping, and problems with thinking and memory for fibromyalgia. The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/what-is-eds/) names pain, joint instability, and fatigue in EDS.
 
 The result is often confusion about what to track, what to mention, and which specialist each problem belongs to.
 

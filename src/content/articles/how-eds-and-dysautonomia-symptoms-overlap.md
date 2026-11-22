@@ -4,11 +4,11 @@ status: "published"
 subtitle: "EDS and dysautonomia symptoms often overlap in ways that make day-to-day tracking and appointment prep confusing. Many people end up dealing with dizziness, fatigue, brain fog, exercise intolerance, pain, and function changes at the same time, even when those symptoms do not feel like they belong to just one label."
 description: "Learn how EDS and dysautonomia symptoms can overlap, what that looks like in daily life, and how to track the pattern more clearly."
 excerpt: "A practical explanation of EDS and dysautonomia overlap, plus how to keep the symptom history reviewable."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-06-29"
-updatedAt: "2026-07-04"
+updatedAt: "2026-11-22"
 nextReview: "2026-12-31"
-lastReviewed: "2026-07-04"
+lastReviewed: "2026-11-22"
 cluster: "EDS / hEDS"
 category: "Symptom Tracking"
 primaryKeyword: "eds and dysautonomia symptoms overlap"
@@ -64,6 +64,8 @@ faq:
 
 [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/), and [dysautonomia](/knowledge/dysautonomia/) symptoms often overlap in ways that make day-to-day tracking and appointment prep confusing. Many people end up dealing with [dizziness](/knowledge/dizziness/), [fatigue](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), exercise intolerance, pain, and changing [daily function](/knowledge/functional-impact/) at the same time, even when those symptoms do not feel like they belong to just one label.
 
+The [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/) notes that many people with EDS or HSD also have a type of dysautonomia, and [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6004-dysautonomia) lists Ehlers-Danlos syndrome among the conditions that can lead to it.
+
 This is one reason overlap can be so hard to explain in care. The problem is not just symptom volume. It is symptom blur. When several symptoms rise and fall together, it becomes harder to remember what changed first, what clusters together, and what matters most to mention at your next appointment.
 
 ## Why overlap feels harder to track than one-condition symptoms
@@ -92,7 +94,7 @@ Overlap can include:
 
 That does not mean every symptom has the same source. It means the lived pattern is often intertwined.
 
-For some people, the overlap also includes [orthostatic intolerance](/knowledge/orthostatic-intolerance/), palpitations, shakiness, or symptoms that worsen after being upright longer. If that part of the picture matters, [How to Track POTS Symptoms and Orthostatic Changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) is a useful companion.
+For some people, the overlap also includes [orthostatic intolerance](/knowledge/orthostatic-intolerance/), palpitations, shakiness, or symptoms that worsen after being upright longer. According to the [Ehlers-Danlos Society](https://www.ehlers-danlos.com/dysautonomia/), a form of orthostatic intolerance is the most common type of dysautonomia in people with EDS and HSD. If that part of the picture matters, [How to Track POTS Symptoms and Orthostatic Changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) is a useful companion.
 
 ## Why this matters for tracking
 

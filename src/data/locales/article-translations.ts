@@ -33,6 +33,10 @@ export const articleLocaleCopy = {
       sourcesNote: 'Allgemeine Informationen, keine medizinische Beratung.',
       sourcesInGuide: 'Quellen in diesem Ratgeber',
       generalSources: 'Allgemeine Quellen der Zebra-Recherche',
+      by: 'Von',
+      authorRole: 'Gründer von Zebra',
+      notClinicianReviewed: 'Nicht ärztlich geprüft. Allgemeine Informationen, keine medizinische Beratung.',
+      howWeWrite: 'So schreiben wir Gesundheitsinhalte (Englisch)',
     },
   },
   'es-es': {
@@ -55,6 +59,10 @@ export const articleLocaleCopy = {
       sourcesNote: 'Información general, no es consejo médico.',
       sourcesInGuide: 'Fuentes de esta guía',
       generalSources: 'Fuentes generales de la investigación de Zebra',
+      by: 'Por',
+      authorRole: 'fundador de Zebra',
+      notClinicianReviewed: 'No revisado por un profesional sanitario. Información general, no es consejo médico.',
+      howWeWrite: 'Cómo escribimos contenido de salud (en inglés)',
     },
   },
   'fr-fr': {
@@ -78,6 +86,10 @@ export const articleLocaleCopy = {
       sourcesNote: 'Informations générales, pas un avis médical.',
       sourcesInGuide: 'Sources de ce guide',
       generalSources: 'Sources générales de la recherche Zebra',
+      by: 'Par',
+      authorRole: 'fondateur de Zebra',
+      notClinicianReviewed: 'Non relu par un professionnel de santé. Informations générales, pas un avis médical.',
+      howWeWrite: 'Comment nous rédigeons nos contenus santé (en anglais)',
     },
   },
 } as const;

@@ -7,8 +7,10 @@ import RelatedArticles from '../components/content/RelatedArticles.astro';
 import { articleSources, nationalSourcesByLang } from '../data/article-sources';
 import { homePage } from '../data/site-content';
 import { articleAlternatesFor, publishedLocalesByOriginal } from '../lib/article-alternates';
+import { authorProfiles } from '../data/content-taxonomy';
 import {
   articleUrl,
+  authorUrl,
   categoryUrlFromName,
   dateLabel,
   estimateReadingTime,
@@ -49,6 +51,14 @@ interface Props {
     directRoute: string;
     relatedReading: string;
     keepExploring: string;
+    sources?: string;
+    sourcesNote?: string;
+    sourcesInGuide?: string;
+    generalSources?: string;
+    by?: string;
+    authorRole?: string;
+    notClinicianReviewed?: string;
+    howWeWrite?: string;
   };
 }
 
@@ -87,8 +97,13 @@ const {
     sourcesNote: 'General information, not medical advice.',
     sourcesInGuide: 'Sources in this guide',
     generalSources: 'General sources behind Zebra’s research',
+    by: 'By',
+    authorRole: 'founder of Zebra',
+    notClinicianReviewed: 'Not reviewed by a clinician. General information, not medical advice.',
+    howWeWrite: 'How we write health content',
   },
 } = Astro.props;
+const author = authorProfiles[article.data.author as keyof typeof authorProfiles];
 
 const alternates = articleAlternatesFor(
   alternatesPath.replace(/^\/blog\//, '').replace(/\/$/, ''),
@@ -151,6 +166,11 @@ const seoTitle = article.data.seoTitle.length > 60
               <span>{labels.updated} {dateLabel(article.data.updatedAt ?? article.data.publishedAt, dateLocale)}</span>
               <span>{estimateReadingTime(article.body)} {labels.minRead}</span>
             </div>
+            {author?.schemaType === 'Person' && (
+              <p class="article-meta-row">
+                <span>{labels.by} <a href={authorUrl(author.slug)}>{author.name}</a>, {labels.authorRole}</span>
+              </p>
+            )}
             <div class="article-chip-row">
               {article.data.categories.map((category) => (
                 <a class="article-chip" href={localePath === '/' ? categoryUrlFromName(category) : `${localePath}blog/`}>
@@ -175,6 +195,9 @@ const seoTitle = article.data.seoTitle.length > 60
 
       <section class="section article-shell">
         <div class="article-main">
+          <p class="article-notice">
+            {labels.notClinicianReviewed} <a href="/how-we-write-health-content/">{labels.howWeWrite}</a>
+          </p>
           <slot />
 
           <section class="article-cta-card" aria-label="Download Zebra">

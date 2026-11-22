@@ -6,7 +6,7 @@ status: "published"
 subtitle: "Zebra und Visible helfen bei verwandten Problemen rund um chronische Erkrankungen, aber sie versuchen nicht, dieselbe Aufgabe zu lösen. Visible ist um Pacing und Energiemanagement mit Wearable-Unterstützung gebaut. Zebra ist um Symptomverlauf, orthostatischen Kontext und arztbereite Terminvorbereitung gebaut. Wenn Pacing Ihr Hauptproblem ist, kann Visible besser passen. Wenn es schwieriger ist, vor einem Termin zu erklären, was sich verändert hat, ist Zebra die stärkere Wahl."
 description: "Vergleichen Sie Zebra und Visible für Pacing, Symptomtracking, orthostatischen Kontext und Arzttermin-Vorbereitung."
 excerpt: "Ein praktischer Vergleich von Zebra und Visible für Pacing, Symptomtracking und Terminvorbereitung."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -133,7 +133,7 @@ Zebra passt besser, wenn Sie Folgendes an einem Ort behalten wollen:
 
 Wenn das eigentliche Problem die Rekonstruktion vor Terminen ist, passt Zebra direkter zu diesem Anwendungsfall.
 
-Für einen breiteren dysautonomieorientierten Vergleich starten Sie mit [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-for-dysautonomia/). Wenn Sie das Problem eher als autonome Symptome beschreiben, passt [Best App for Autonomic Symptom Tracking](/blog/best-app-for-autonomic-symptom-tracking/) besser.
+Für einen breiteren dysautonomieorientierten Vergleich starten Sie mit [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-apps-for-pots-2026/). Wenn Sie das Problem eher als autonome Symptome beschreiben, passt [Best App for Autonomic Symptom Tracking](/blog/best-symptom-tracker-apps-for-pots-2026/) besser.
 
 ## Welche App ist besser für Brain Fog und schlechte Tage?
 
@@ -159,7 +159,7 @@ Wenn Ihr aktuelles System aber schon zu fragmentiert wirkt, hilft ein weiteres T
 
 Wenn Ihr größeres Problem weiterhin lautet: "Ich habe zu viele getrennte Tools", ist Zebra oft der bessere Schritt zur Vereinfachung.
 
-Wenn Sie sich speziell auf einen Kardiologietermin vorbereiten, grenzen [Best App for POTS Cardiology Appointment Prep](/blog/best-app-for-pots-cardiology-appointment-prep/) und [Best App for Dysautonomia Cardiology Appointment Prep](/blog/best-app-for-dysautonomia-cardiology-appointment-prep/) die Wahl nach Terminzielen ein.
+Wenn Sie sich speziell auf einen Kardiologietermin vorbereiten, grenzen [Best App for POTS Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) und [Best App for Dysautonomia Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) die Wahl nach Terminzielen ein.
 
 ## Fazit
 

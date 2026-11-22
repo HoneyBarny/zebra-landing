@@ -4,7 +4,7 @@ status: "published"
 subtitle: "Zebra and Bearable can both be used for POTS tracking, but they solve the problem differently. Bearable is a broad, highly customizable symptom tracker. Zebra is built more directly around orthostatic context, salt and hydration tracking, flare history, and doctor-ready appointment prep. If you want maximum customization, Bearable may fit better. If you want a faster path from POTS tracking to a clearer appointment summary, Zebra is the stronger fit."
 description: "Compare Zebra and Bearable for POTS tracking, orthostatic context, symptom history, and appointment preparation."
 excerpt: "A practical comparison of Zebra and Bearable for people tracking POTS symptoms and preparing for appointments."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-24"
 updatedAt: "2026-07-24"
 nextReview: "2027-01-24"
@@ -126,7 +126,7 @@ Those details are easier to use when they stay in one connected history.
 
 If you want the broader appointment-prep angle, [Symptom Tracker for Doctor Appointments](/blog/symptom-tracker-for-doctor-appointments/) and [What to Bring to a POTS Cardiology Appointment](/blog/what-to-bring-to-a-pots-cardiology-appointment/) are the next best pages to read.
 
-If upright symptoms are the biggest missing piece, [Best App for Orthostatic Symptom Tracking](/blog/best-app-for-orthostatic-symptom-tracking/) is the more specific follow-up.
+If upright symptoms are the biggest missing piece, read [how to track POTS symptoms and orthostatic changes](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/).
 
 ## Which one is better for brain fog and bad days?
 

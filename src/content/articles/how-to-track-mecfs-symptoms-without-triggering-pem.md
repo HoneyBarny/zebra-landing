@@ -5,11 +5,11 @@ title: "How to Track ME/CFS Symptoms Without Triggering PEM"
 subtitle: "If you have ME/CFS, the hardest part of symptom tracking is often the same part that makes you want to track in the first place: your energy is limited, your recall is unreliable on worse days, and overdoing the process can backfire. A useful tracking system for ME/CFS should help you notice patterns without turning logging into another form of exertion."
 description: "Learn how to track ME/CFS symptoms in a lower-effort way that preserves useful patterns without creating more post-exertional strain."
 excerpt: "A low-friction guide to tracking ME/CFS symptoms, delayed crashes, and daily function without making the process harder to sustain."
-author: "zebra-editorial"
+author: "roman-bun"
 publishedAt: "2026-07-17"
 scheduledAt: "2026-07-17"
-updatedAt: "2026-07-22"
-lastReviewed: "2026-07-22"
+updatedAt: "2026-11-22"
+lastReviewed: "2026-11-22"
 nextReview: "2026-12-31"
 featured: false
 cluster: "ME/CFS"
@@ -66,11 +66,11 @@ faq:
 
 If you have [ME/CFS](/knowledge/me-cfs/), the hardest part of symptom tracking is often the same part that makes you want to track in the first place: your energy is limited, your recall is unreliable on worse days, and overdoing the process can backfire. A useful tracking system for ME/CFS should help you notice patterns without turning logging into another form of exertion.
 
-That matters even more when [PEM](/knowledge/pem/) is part of the picture. If a tracking routine costs too much energy, it can stop being helpful long before the record becomes useful.
+That matters even more when [PEM](/knowledge/pem/) is part of the picture. If a tracking routine costs too much energy, it can stop being helpful long before the record becomes useful. The [CDC](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html) describes PEM as a worsening of symptoms after any type of activity, physical or mental, and says recovery from a crash can take days, weeks, or longer.
 
 ## The goal is not perfect tracking
 
-For ME/CFS, the goal is usually not a detailed diary of everything that happened.
+For ME/CFS, the goal is usually not a detailed diary of everything that happened. The [CDC's clinical guidance](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html) says activity and symptom diaries may help people identify their personal limits, which is a smaller job than recording everything.
 
 The goal is:
 
@@ -105,7 +105,7 @@ The most useful record usually keeps five things together:
 4. what it did to function
 5. how long recovery took
 
-That matters because the delayed part of [PEM](/knowledge/pem/) can be easy to miss if you only log how you felt in the moment.
+That matters because the delayed part of [PEM](/knowledge/pem/) can be easy to miss if you only log how you felt in the moment. The [CDC](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html) notes that PEM symptoms may not appear right away after activity.
 
 ## A lower-effort ME/CFS tracking structure
 
