@@ -67,7 +67,7 @@ faq:
 
 Vor einem EDS-Spezialistentermin ist das Nützlichste, das Muster zu tracken, das erklärt, was sich verändert hat, wie sich Ihr Körper im Alltag anfühlt, was die Funktion beeinflusst und welche Überschneidungssymptome wichtig sein könnten. Sie brauchen keine perfekte Lebensgeschichte. Sie brauchen einen klaren aktuellen Verlauf, den Sie wirklich prüfen können, wenn der Besuch beginnt.
 
-Für viele Menschen mit [EDS](/knowledge/eds/) oder [hEDS](/knowledge/heds/) ist der schwierige Teil nicht, Symptome zu bemerken. Es ist, einen chaotischen Monat mit Schmerzen, Instabilität, Fatigue, Schwindel und Brain Fog in eine kurze Geschichte zu verwandeln, die im Terminraum noch Sinn ergibt. Hier hilft eine klare [Krankengeschichte](/knowledge/health-history/).
+Für viele Menschen mit [EDS](/de-de/knowledge/eds/) oder [hEDS](/de-de/knowledge/heds/) ist der schwierige Teil nicht, Symptome zu bemerken. Es ist, einen chaotischen Monat mit Schmerzen, Instabilität, Fatigue, Schwindel und Brain Fog in eine kurze Geschichte zu verwandeln, die im Terminraum noch Sinn ergibt. Hier hilft eine klare [Krankengeschichte](/de-de/knowledge/health-history/).
 
 ## Was ein EDS-Spezialist meist schnell verstehen muss
 
@@ -81,7 +81,7 @@ Die meisten Besuche laufen besser, wenn Ihre Notizen helfen, fünf Fragen zu bea
 
 Das bedeutet: Die beste Vorbereitung ist kein riesiges Symptomtagebuch. Es ist eine aktuelle, organisierte Zusammenfassung, die das Gespräch unterstützt.
 
-Wenn Sie zuerst eine allgemeinere Version brauchen, beginnen Sie mit [Wie man Symptome vor einem Spezialistentermin trackt](/blog/what-to-track-before-a-specialist-appointment/). Wenn Ihr größeres Problem ist, die ganze Geschichte zusammenzubringen, ist [Wie man die Krankengeschichte für einen Arztbesuch organisiert](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) eine gute Ergänzung.
+Wenn Sie zuerst eine allgemeinere Version brauchen, beginnen Sie mit [Wie man Symptome vor einem Spezialistentermin trackt](/de-de/blog/what-to-track-before-a-specialist-appointment/). Wenn Ihr größeres Problem ist, die ganze Geschichte zusammenzubringen, ist [Wie man die Krankengeschichte für einen Arztbesuch organisiert](/de-de/blog/how-to-organize-your-health-history-for-a-doctor-visit/) eine gute Ergänzung.
 
 ## Was man vor einem EDS-Spezialistentermin tracken sollte
 
@@ -126,7 +126,7 @@ Das ist besonders hilfreich, wenn sich Ihr Monat schwer laut zusammenfassen läs
 
 Viele Menschen mit EDS versuchen auch, Überschneidungssymptome wie Schwindel, Fatigue, Herzklopfen, Brain Fog und Upright Intolerance zu erklären. Wenn diese Teil Ihres Bildes sind, nehmen Sie sie in denselben Verlauf auf, statt sie in einer anderen App oder Notiz zu behalten.
 
-Hier kann [Wie sich EDS- und Dysautonomie-Symptome überschneiden](/blog/how-eds-and-dysautonomia-symptoms-overlap/) helfen, einzuordnen, was Sie sehen. Wenn lagebezogene Symptome wichtig sind, bietet [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) ein einfaches Tracking-Modell.
+Hier kann [Wie sich EDS- und Dysautonomie-Symptome überschneiden](/de-de/blog/how-eds-and-dysautonomia-symptoms-overlap/) helfen, einzuordnen, was Sie sehen. Wenn lagebezogene Symptome wichtig sind, bietet [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) ein einfaches Tracking-Modell.
 
 Nützlicher Überschneidungskontext kann einschliessen:
 
@@ -151,7 +151,7 @@ Tracken Sie Beispiele wie:
 - brauchte Hilfe bei Haushaltsaufgaben
 - konnte nicht klar genug denken, um Arbeit oder Nachrichten zu beenden
 
-Diese Art von [Funktionsauswirkung](/knowledge/functional-impact/) macht den Symptomverlauf viel leichter verständlich.
+Diese Art von [Funktionsauswirkung](/de-de/knowledge/functional-impact/) macht den Symptomverlauf viel leichter verständlich.
 
 ## 5. Schübe und schwerere Tage
 
@@ -193,7 +193,7 @@ Beispiele:
 - Welche Muster sind vor dem nächsten Besuch am wichtigsten zu tracken?
 - Welche Veränderungen sollte ich genauer beobachten?
 - Wie sollte ich Überschneidungssymptome für die Nachsorge organisieren?
-- Was gehört in einen [arztbereiten Bericht](/knowledge/doctor-ready-report/)?
+- Was gehört in einen [arztbereiten Bericht](/de-de/knowledge/doctor-ready-report/)?
 
 Das ist wichtig, weil viele Menschen nach Terminen merken, was sie vergessen haben zu fragen.
 
@@ -239,7 +239,7 @@ Das reicht, um einen nützlichen aktuellen Verlauf zu erstellen, ohne den Prozes
 
 Zebra ist für den Teil gebaut, der vor dem Termin oft auseinanderfällt: Symptome, Überschneidungskontext, Alltagsfunktion und Fragenvorbereitung in einem Verlauf zu behalten, der später noch Sinn ergibt.
 
-Wenn Sie die Berichtsseite dieses Arbeitsablaufs wollen, erklärt [Was ist ein arztbereiter Symptombericht?](/blog/what-is-a-doctor-ready-symptom-report/), was eine nützliche Zusammenfassung wirklich enthält.
+Wenn Sie die Berichtsseite dieses Arbeitsablaufs wollen, erklärt [Was ist ein arztbereiter Symptombericht?](/de-de/blog/what-is-a-doctor-ready-symptom-report/), was eine nützliche Zusammenfassung wirklich enthält.
 
 ## Wichtigste Punkte
 

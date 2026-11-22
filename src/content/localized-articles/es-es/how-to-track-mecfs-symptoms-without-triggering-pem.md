@@ -65,9 +65,9 @@ faq:
     answer: "Sí. Incluso un registro imperfecto puede mostrar bajones recurrentes, cambios de síntomas e impacto funcional con más claridad que la memoria sola."
 ---
 
-Si tienes [EM/SFC](/knowledge/me-cfs/), la parte más difícil del rastreo de síntomas suele ser la misma razón por la que quieres rastrear: tu energía es limitada, tu memoria no es fiable en los días peores, y excederte con el proceso puede salir mal. Un sistema útil para EM/SFC debe ayudarte a notar patrones sin convertir el registro en otra forma de esfuerzo.
+Si tienes [EM/SFC](/es-es/knowledge/me-cfs/), la parte más difícil del rastreo de síntomas suele ser la misma razón por la que quieres rastrear: tu energía es limitada, tu memoria no es fiable en los días peores, y excederte con el proceso puede salir mal. Un sistema útil para EM/SFC debe ayudarte a notar patrones sin convertir el registro en otra forma de esfuerzo.
 
-Eso importa aun más cuando [PEM](/knowledge/pem/) forma parte del cuadro. Si una rutina de rastreo cuesta demasiada energía, puede dejar de ser útil mucho antes de que el registro llegue a servir.
+Eso importa aun más cuando [PEM](/es-es/knowledge/pem/) forma parte del cuadro. Si una rutina de rastreo cuesta demasiada energía, puede dejar de ser útil mucho antes de que el registro llegue a servir.
 
 ## El objetivo no es rastreo perfecto
 
@@ -94,7 +94,7 @@ Puntos de fallo comunes incluyen:
 - culpa después de entradas perdidas
 - presión por ponerse al día después de un bajón
 
-Esto se parece al mismo ciclo de días malos descrito en [Por qué el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/), pero EM/SFC suele añadir empeoramiento retrasado que hace que el patrón sea aun más difícil de reconstruir.
+Esto se parece al mismo ciclo de días malos descrito en [Por qué el rastreo de síntomas falla en los días malos](/es-es/blog/why-symptom-tracking-fails-on-bad-days/), pero EM/SFC suele añadir empeoramiento retrasado que hace que el patrón sea aun más difícil de reconstruir.
 
 ## Qué rastrear cuando PEM forma parte del cuadro
 
@@ -106,7 +106,7 @@ El registro más útil suele mantener cinco cosas juntas:
 4. que hizo a la función
 5. cuánto tardó la recuperación
 
-Eso importa porque la parte retrasada de [PEM](/knowledge/pem/) puede ser fácil de pasar por alto si solo registras como te sentiste en el momento.
+Eso importa porque la parte retrasada de [PEM](/es-es/knowledge/pem/) puede ser fácil de pasar por alto si solo registras como te sentiste en el momento.
 
 ## Una estructura de rastreo de EM/SFC con menos esfuerzo
 
@@ -115,7 +115,7 @@ Si quieres la versión mínima útil, rastrea:
 ### Síntomas principales de hoy
 
 - fatiga
-- [brain fog](/knowledge/brain-fog/)
+- [brain fog](/es-es/knowledge/brain-fog/)
 - dolor
 - mareo
 - alteración del sueño
@@ -191,11 +191,11 @@ Incluso un historial de bajo esfuerzo puede mejorar las citas porque muestra:
 - qué cambió más
 - cómo se ve ahora la vida diaria
 
-Si te estas preparando para recibir atención, [Que rastrear antes de una cita con especialista](/blog/what-to-track-before-a-specialist-appointment/) y [Como resumir síntomas sin olvidar detalles clave](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudarte a convertir el registro en algo más fácil de revisar.
+Si te estas preparando para recibir atención, [Que rastrear antes de una cita con especialista](/es-es/blog/what-to-track-before-a-specialist-appointment/) y [Como resumir síntomas sin olvidar detalles clave](/es-es/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudarte a convertir el registro en algo más fácil de revisar.
 
 ## Dónde encaja Zebra
 
-Zebra está creado para mantener el registro usable en días difíciles, no solo en los buenos. Eso importa para la [fatiga](/knowledge/fatigue/) y EM/SFC porque el proceso solo ayuda si sigue siendo posible usarlo cuando baja la energía.
+Zebra está creado para mantener el registro usable en días difíciles, no solo en los buenos. Eso importa para la [fatiga](/es-es/knowledge/fatigue/) y EM/SFC porque el proceso solo ayuda si sigue siendo posible usarlo cuando baja la energía.
 
 ## Puntos clave
 

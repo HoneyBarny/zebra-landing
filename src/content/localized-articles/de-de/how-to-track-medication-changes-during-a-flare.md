@@ -147,7 +147,7 @@ Vor einem Besuch ziehen Sie heraus:
 - Funktionsveränderungen
 - Ihre Fragen
 
-Das kann Teil eines [arztbereiten Symptomberichts](/blog/what-is-a-doctor-ready-symptom-report/) werden.
+Das kann Teil eines [arztbereiten Symptomberichts](/de-de/blog/what-is-a-doctor-ready-symptom-report/) werden.
 
 Für eine Routine auch außerhalb von Schüben, mit Nebenwirkungen und Bedarfsmedikamenten, lesen Sie, [wie Sie Medikamente und Nebenwirkungen erfassen](/de-de/blog/how-to-track-medications-and-side-effects-for-chronic-illness/).
 

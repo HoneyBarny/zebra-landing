@@ -61,7 +61,7 @@ faq:
 
 Un resumen mensual de síntomas convierte notas diarias dispersas en una revisión corta de qué cambió, qué se repitió, qué afectó la función y que preguntas quieres llevar a la atención médica. Debe ser lo bastante corto para usar antes de una cita y lo bastante claro para revisar cuando el brain fog esta alto.
 
-Este tipo de resumen es útil porque el seguimiento sin procesar puede volverse difícil de usar. Un mes de entradas solo ayuda si puedes convertirlo en un [informe listo para el médico](/knowledge/doctor-ready-report/) o una nota para la cita.
+Este tipo de resumen es útil porque el seguimiento sin procesar puede volverse difícil de usar. Un mes de entradas solo ayuda si puedes convertirlo en un [informe listo para el médico](/es-es/knowledge/doctor-ready-report/) o una nota para la cita.
 
 ## Empieza con la respuesta principal
 

@@ -99,7 +99,7 @@ Zebra es más fuerte si quieres:
 
 Si tu problema principal es "rastreé cosas, pero todavía tengo que reconstruir el mes desde la memoria", Zebra cubre ese hueco de forma más directa.
 
-Para el panorama más amplio de apps para POTS, [Mejores apps de rastreo de síntomas para POTS en 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) compara Zebra, Bearable, Visible y alternativas simples en un solo lugar.
+Para el panorama más amplio de apps para POTS, [Mejores apps de rastreo de síntomas para POTS en 2026](/es-es/blog/best-symptom-tracker-apps-for-pots-2026/) compara Zebra, Bearable, Visible y alternativas simples en un solo lugar.
 
 ## Vista lado a lado
 
@@ -126,9 +126,9 @@ Eso es porque las citas por POTS a menudo requieren conservar:
 
 Esos detalles son más fáciles de usar cuando permanecen en un historial conectado.
 
-Si quieres el angulo más amplio de preparación de citas, [Rastreador de síntomas para citas médicas](/blog/symptom-tracker-for-doctor-appointments/) y [Que llevar a una cita de cardiología por POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/) son las siguientes mejores paginas.
+Si quieres el angulo más amplio de preparación de citas, [Rastreador de síntomas para citas médicas](/es-es/blog/symptom-tracker-for-doctor-appointments/) y [Que llevar a una cita de cardiología por POTS](/es-es/blog/what-to-bring-to-a-pots-cardiology-appointment/) son las siguientes mejores paginas.
 
-Si los síntomas al estar erguido son la mayor pieza que falta, [Mejor app para rastreo de síntomas ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es el seguimiento más específico.
+Si los síntomas al estar erguido son la mayor pieza que falta, [Mejor app para rastreo de síntomas ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es el seguimiento más específico.
 
 ## ¿Cuál es mejor para brain fog y días malos?
 
@@ -146,7 +146,7 @@ Zebra puede funcionar mejor si:
 - quieres menos decisiones de configuración
 - la parte más difícil es entender el patrón después
 
-Si ese es tu problema principal, [Por qué el rastreo de síntomas falla en los días malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica el patrón directamente.
+Si ese es tu problema principal, [Por qué el rastreo de síntomas falla en los días malos](/es-es/blog/why-symptom-tracking-fails-on-bad-days/) explica el patrón directamente.
 
 ## En resumen
 

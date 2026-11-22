@@ -102,7 +102,7 @@ Por eso un tracker dedicado suele funcionar mejor que notas dispersas. No porque
 | Hoja de cálculo | Estructura manual | Más mantenimiento y más decisiones |
 | Tracker de síntomas | Historial estructurado continuo | Requiere elegir uno creado para tu caso |
 
-Si quieres una versión más amplia de esa comparación, [Symptom Tracker vs Notes App vs Spreadsheet](/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) entra en más detalle.
+Si quieres una versión más amplia de esa comparación, [Symptom Tracker vs Notes App vs Spreadsheet](/es-es/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) entra en más detalle.
 
 ## Por qué preparar una cita cambia como se ve el mejor tracker
 
@@ -130,7 +130,7 @@ Centrate en las partes de tu historia que facilitan la conversación:
 - cambios funcionales como trabajo, caminar, conducir o autocuidado
 - las preguntas principales que quieres responder
 
-Si quieres una checklist más completa, [What to Track Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/) cubre las categorías más útiles con más detalle.
+Si quieres una checklist más completa, [What to Track Before a Specialist Appointment](/es-es/blog/what-to-track-before-a-specialist-appointment/) cubre las categorías más útiles con más detalle.
 
 ## Qué hace que Zebra encaje en las citas médicas
 
@@ -145,7 +145,7 @@ Mantiene:
 - función y notas
 - preguntas para la cita
 
-en un solo registro, para que el último paso sea un [informe de síntomas listo para el médico](/blog/what-is-a-doctor-ready-symptom-report/), no un montón de entradas desconectadas.
+en un solo registro, para que el último paso sea un [informe de síntomas listo para el médico](/es-es/blog/what-is-a-doctor-ready-symptom-report/), no un montón de entradas desconectadas.
 
 Eso es especialmente útil para personas que registran POTS, disautonomía, EDS o enfermedad crónica solapada, donde los síntomas cambian por postura, actividad o patrón de brotes y se vuelven más difíciles de reconstruir después.
 

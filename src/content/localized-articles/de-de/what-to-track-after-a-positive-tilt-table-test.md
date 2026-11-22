@@ -72,7 +72,7 @@ faq:
     answer: "Nein. Zebra hilft, selbst eingegebenen Verlauf für Termine zu ordnen. Es diagnostiziert und behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Ein positiver [Kipptischtest](/knowledge/orthostatic-test/) kann mehr Fragen als Antworten hinterlassen. Der nützliche nächste Schritt ist, Symptome, Stehkontext, Erholungszeit, Medikamente, Hydration, Salz und Alltagsauswirkung zu erfassen, damit Ihr Arzt versteht, wie das Testergebnis ausserhalb des Labors aussieht.
+Ein positiver [Kipptischtest](/de-de/knowledge/orthostatic-test/) kann mehr Fragen als Antworten hinterlassen. Der nützliche nächste Schritt ist, Symptome, Stehkontext, Erholungszeit, Medikamente, Hydration, Salz und Alltagsauswirkung zu erfassen, damit Ihr Arzt versteht, wie das Testergebnis ausserhalb des Labors aussieht.
 
 Das ist wichtig, weil der Test nur ein Teil der Geschichte ist. Cleveland Clinic erklärt, dass ein Kipptischtest Herzfrequenz, Blutdruck und Symptome misst, während der Körper von liegend zu aufrecht bewegt wird. Ein positives Ergebnis bedeutet, dass der Körper im Test auffällig reagiert hat, aber die Bedeutung hängt vom Muster und Ihrer medizinischen Vorgeschichte ab.
 
@@ -106,7 +106,7 @@ Tracken Sie:
 - ob Symptome nach Duschen, Hitze, Mahlzeiten, Erledigungen oder Treppen auftraten
 - ob Erholung Minuten, Stunden oder den Rest des Tages dauerte
 
-Bei Abklärung von [POTS](/knowledge/pots/), [Dysautonomie](/knowledge/dysautonomia/) oder [orthostatischer Intoleranz](/knowledge/orthostatic-intolerance/) kann dieser Kontext genauso wichtig sein wie die Symptomnamen.
+Bei Abklärung von [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/) oder [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/) kann dieser Kontext genauso wichtig sein wie die Symptomnamen.
 
 ## Symptome kurz, aber konkret halten
 
@@ -188,7 +188,7 @@ Nützlicher Hintergrund:
 
 ## Wo Zebra passt
 
-Zebra hilft, die Geschichte nach dem Test an einem Ort zu halten: Symptome, [orthostatische Beobachtungen](/knowledge/orthostatic-test/), Medikamente, Hydration, Salz, Notizen, Auslöser und Fragen für den Folgetermin.
+Zebra hilft, die Geschichte nach dem Test an einem Ort zu halten: Symptome, [orthostatische Beobachtungen](/de-de/knowledge/orthostatic-test/), Medikamente, Hydration, Salz, Notizen, Auslöser und Fragen für den Folgetermin.
 
 Zebra interpretiert Ihren Test nicht und diagnostiziert kein POTS. Es hilft, das, was danach passiert, so zu ordnen, dass der Folgetermin weniger Raten braucht.
 

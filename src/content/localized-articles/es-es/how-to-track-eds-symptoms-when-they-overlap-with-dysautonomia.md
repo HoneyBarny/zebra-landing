@@ -67,9 +67,9 @@ faq:
 
 Cuando los síntomas de EDS se superponen con disautonomía, el problema principal no es solo la cantidad de síntomas. Es la mezcla de síntomas. Mareo, fatiga, brain fog, dolor, palpitaciones y cambios de función pueden empezar a apilarse hasta que se vuelve difícil saber qué cambió, qué tiende a pasar junto y que necesitas mencionar en tu próxima cita.
 
-Si estas rastreando tanto [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/) como [disautonomía](/knowledge/dysautonomia/), normalmente ayuda mantener un registro conectado en lugar de forzar los síntomas en sistemas separados. El objetivo no es etiquetar cada síntoma perfectamente en tiempo real. El objetivo es mantener el patrón revisable.
+Si estas rastreando tanto [EDS](/es-es/knowledge/eds/) o [hEDS](/es-es/knowledge/heds/) como [disautonomía](/es-es/knowledge/dysautonomia/), normalmente ayuda mantener un registro conectado en lugar de forzar los síntomas en sistemas separados. El objetivo no es etiquetar cada síntoma perfectamente en tiempo real. El objetivo es mantener el patrón revisable.
 
-Para la explicación de la superposición en si, empieza con [Como se superponen los síntomas de EDS y disautonomía](/blog/how-eds-and-dysautonomia-symptoms-overlap/). Esta página se centra en el flujo de seguimiento.
+Para la explicación de la superposición en si, empieza con [Como se superponen los síntomas de EDS y disautonomía](/es-es/blog/how-eds-and-dysautonomia-symptoms-overlap/). Esta página se centra en el flujo de seguimiento.
 
 ## Qué debería ayudarte a ver el rastreo de superposición
 
@@ -135,7 +135,7 @@ El contexto útil puede incluir:
 
 Eso no prueba una causa. Ayuda a preservar el patrón vivido en lugar de depender de la memoria después.
 
-Si los síntomas ortostáticos son parte del cuadro, [Que es la intolerancia ortostática?](/blog/what-is-orthostatic-intolerance/) y [Como rastrear síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) pueden ayudarte a decidir cuando importan las notas de posición.
+Si los síntomas ortostáticos son parte del cuadro, [Que es la intolerancia ortostática?](/es-es/blog/what-is-orthostatic-intolerance/) y [Como rastrear síntomas de POTS y cambios ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) pueden ayudarte a decidir cuando importan las notas de posición.
 
 ## Rastrea lo que la superposición hace a la función
 
@@ -150,7 +150,7 @@ Rastrea ejemplos como:
 - cancele planes porque los síntomas se apilaron
 - me costo salir de casa o conducir con seguridad
 
-Este [impacto funcional](/knowledge/functional-impact/) da a las citas mucho más contexto que una lista de síntomas sola.
+Este [impacto funcional](/es-es/knowledge/functional-impact/) da a las citas mucho más contexto que una lista de síntomas sola.
 
 ## Rastrea grupos y brotes, no solo momentos aislados
 
@@ -230,7 +230,7 @@ Antes de una cita, resume:
 - qué afecta la función
 - qué quieres ayuda para entender
 
-Si vas a una consulta pronto, [Que rastrear antes de una cita con un especialista](/blog/what-to-track-before-a-specialist-appointment/) y [Que rastrear antes de una cita con un especialista en EDS](/blog/what-to-track-before-an-eds-specialist-appointment/) ayudan a convertir el registro diario en un resumen de visita más claro.
+Si vas a una consulta pronto, [Que rastrear antes de una cita con un especialista](/es-es/blog/what-to-track-before-a-specialist-appointment/) y [Que rastrear antes de una cita con un especialista en EDS](/es-es/blog/what-to-track-before-an-eds-specialist-appointment/) ayudan a convertir el registro diario en un resumen de visita más claro.
 
 ## Qué agrega Zebra
 

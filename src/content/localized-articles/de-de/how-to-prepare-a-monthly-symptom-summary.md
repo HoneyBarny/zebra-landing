@@ -61,7 +61,7 @@ faq:
 
 Eine monatliche Symptomzusammenfassung macht aus verstreuten täglichen Notizen eine kurze Prüfung davon, was sich verändert hat, was sich wiederholt hat, was die Funktion beeinflusst hat und welche Fragen Sie in die Versorgung mitnehmen möchten. Sie sollte kurz genug für die Nutzung vor einem Termin und klar genug für eine Prüfung bei starkem Brain Fog sein.
 
-Diese Art von Zusammenfassung ist nützlich, weil rohes Tracking schwer nutzbar werden kann. Ein Monat Einträge hilft nur, wenn Sie daraus einen klaren [arztbereiten Bericht](/knowledge/doctor-ready-report/) oder eine Terminnotiz machen können.
+Diese Art von Zusammenfassung ist nützlich, weil rohes Tracking schwer nutzbar werden kann. Ein Monat Einträge hilft nur, wenn Sie daraus einen klaren [arztbereiten Bericht](/de-de/knowledge/doctor-ready-report/) oder eine Terminnotiz machen können.
 
 Wenn Sie diesen Schritt in Zebra machen möchten, führt die Seite [Symptombericht für den Arzt](/de-de/doctor-report/) vom eigenen Verlauf zum exportierbaren Bericht.
 

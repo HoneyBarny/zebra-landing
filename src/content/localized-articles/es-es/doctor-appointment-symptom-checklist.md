@@ -252,7 +252,7 @@ Zebra está construido para personas que necesitan convertir notas de síntomas 
 
 Usa Zebra para mantener síntomas, brotes, medicamentos, cambios de rutina, sal, agua, contexto ortostático, notas y preguntas en un solo lugar.
 
-Para el flujo más amplio, lee [How to Track Symptoms Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/). Para el formato de resumen, lee [How to Prepare a Monthly Symptom Summary](/blog/how-to-prepare-a-monthly-symptom-summary/).
+Para el flujo más amplio, lee [How to Track Symptoms Before a Specialist Appointment](/es-es/blog/what-to-track-before-a-specialist-appointment/). Para el formato de resumen, lee [How to Prepare a Monthly Symptom Summary](/es-es/blog/how-to-prepare-a-monthly-symptom-summary/).
 
 ## Conclusión
 

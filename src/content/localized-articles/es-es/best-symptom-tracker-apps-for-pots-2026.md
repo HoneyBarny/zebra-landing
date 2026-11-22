@@ -78,7 +78,7 @@ Para POTS, la mejor app no es la que tiene más gráficos. Es la que ayuda a res
 
 Por eso el rastreo genérico de síntomas y el verdadero rastreo para preparación de citas no son lo mismo.
 
-Si los síntomas al estar de pie son la razón principal por la que estas comparando apps, las guías más específicas sobre [rastreo de síntomas ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) y [rastreo de intolerancia al estar de pie](/blog/what-is-orthostatic-intolerance/) pueden ser el mejor siguiente paso.
+Si los síntomas al estar de pie son la razón principal por la que estas comparando apps, las guías más específicas sobre [rastreo de síntomas ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) y [rastreo de intolerancia al estar de pie](/es-es/blog/what-is-orthostatic-intolerance/) pueden ser el mejor siguiente paso.
 
 ## Comparación rápida
 
@@ -112,7 +112,7 @@ Los mayores diferenciadores del posicionamiento actual de Zebra son:
 
 Si tu pregunta principal es "Como dejo de llegar sin preparación?", Zebra es la opción más fuerte en este grupo.
 
-Para la versión específica de citas de esta decisión, consulta [Mejor app para preparar una cita de cardiología por POTS](/blog/what-to-bring-to-a-pots-cardiology-appointment/). Para ver directamente el camino de Zebra, la página [Registro de POTS](/es-es/pots-tracker/) es el punto de entrada más directo.
+Para la versión específica de citas de esta decisión, consulta [Mejor app para preparar una cita de cardiología por POTS](/es-es/blog/what-to-bring-to-a-pots-cardiology-appointment/). Para ver directamente el camino de Zebra, la página [Registro de POTS](/es-es/pots-tracker/) es el punto de entrada más directo.
 
 ## Bearable: mejor si quieres personalización amplia
 

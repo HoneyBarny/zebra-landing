@@ -67,9 +67,9 @@ faq:
 
 Wenn EDS-Symptome sich mit Dysautonomie überlappen, ist das Hauptproblem nicht nur die Symptommenge. Es ist Symptomverschwimmen. Schwindel, Fatigue, Brain Fog, Schmerzen, Palpitationen und Funktionsveränderungen können sich stapeln, bis schwer erkennbar ist, was sich verändert hat, was oft zusammen passiert und was Sie beim nächsten Termin erwähnen müssen.
 
-Wenn Sie sowohl [EDS](/knowledge/eds/) oder [hEDS](/knowledge/heds/) als auch [Dysautonomie](/knowledge/dysautonomia/) tracken, hilft es meist, einen verbundenen Verlauf zu behalten, statt die Symptome in getrennte Systeme zu zwingen. Das Ziel ist nicht, jedes Symptom in Echtzeit perfekt zu labeln. Das Ziel ist, das Muster prüfbar zu halten.
+Wenn Sie sowohl [EDS](/de-de/knowledge/eds/) oder [hEDS](/de-de/knowledge/heds/) als auch [Dysautonomie](/de-de/knowledge/dysautonomia/) tracken, hilft es meist, einen verbundenen Verlauf zu behalten, statt die Symptome in getrennte Systeme zu zwingen. Das Ziel ist nicht, jedes Symptom in Echtzeit perfekt zu labeln. Das Ziel ist, das Muster prüfbar zu halten.
 
-Für die Erklärung der Überlappung selbst beginnen Sie mit [Wie EDS- und Dysautonomie-Symptome sich überlappen](/blog/how-eds-and-dysautonomia-symptoms-overlap/). Diese Seite konzentriert sich auf den Tracking-Workflow.
+Für die Erklärung der Überlappung selbst beginnen Sie mit [Wie EDS- und Dysautonomie-Symptome sich überlappen](/de-de/blog/how-eds-and-dysautonomia-symptoms-overlap/). Diese Seite konzentriert sich auf den Tracking-Workflow.
 
 ## Was Overlap-Tracking später sichtbar machen sollte
 
@@ -135,7 +135,7 @@ Nützlicher Kontext kann enthalten:
 
 Das beweist keine Ursache. Es hilft, das gelebte Muster zu bewahren, statt später auf Erinnerung angewiesen zu sein.
 
-Wenn orthostatische Symptome Teil des Bildes sind, können [Was ist orthostatische Intoleranz?](/blog/what-is-orthostatic-intolerance/) und [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) helfen zu entscheiden, wann Positionsnotizen wichtig sind.
+Wenn orthostatische Symptome Teil des Bildes sind, können [Was ist orthostatische Intoleranz?](/de-de/blog/what-is-orthostatic-intolerance/) und [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) helfen zu entscheiden, wann Positionsnotizen wichtig sind.
 
 ## Tracken Sie, was die Überlappung mit der Funktion macht
 
@@ -150,7 +150,7 @@ Tracken Sie Beispiele wie:
 - sagte Plänee ab, weil Symptome sich stapelten
 - hatte Mühe, das Haus zu verlassen oder sicher zu fahren
 
-Diese [Funktionsauswirkung](/knowledge/functional-impact/) gibt Terminen viel mehr Kontext als eine Symptomliste allein.
+Diese [Funktionsauswirkung](/de-de/knowledge/functional-impact/) gibt Terminen viel mehr Kontext als eine Symptomliste allein.
 
 ## Tracken Sie Cluster und Schübe, nicht nur isolierte Momente
 
@@ -230,7 +230,7 @@ Fassen Sie vor einem Termin zusammen:
 - was die Funktion beeinflusst
 - wobei Sie Hilfe zum Verstehen wollen
 
-Wenn bald Versorgung ansteht, helfen [Was vor einem Facharzttermin tracken](/blog/what-to-track-before-a-specialist-appointment/) und [Was vor einem EDS-Facharzttermin tracken](/blog/what-to-track-before-an-eds-specialist-appointment/), den täglichen Verlauf in eine klarere Besuchszusammenfassung zu verwandeln.
+Wenn bald Versorgung ansteht, helfen [Was vor einem Facharzttermin tracken](/de-de/blog/what-to-track-before-a-specialist-appointment/) und [Was vor einem EDS-Facharzttermin tracken](/de-de/blog/what-to-track-before-an-eds-specialist-appointment/), den täglichen Verlauf in eine klarere Besuchszusammenfassung zu verwandeln.
 
 ## Was Zebra hinzufügt
 

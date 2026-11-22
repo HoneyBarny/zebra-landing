@@ -135,7 +135,7 @@ au même endroit pour les relire plus tard.
 
 Si le vrai problème est de reconstruire l'histoire avant un rendez-vous, Zebra correspond plus directement à ce cas d'usage.
 
-Pour une comparaison plus large orientée dysautonomie, commencez par [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-apps-for-pots-2026/). Si vous decrivez le problème comme des symptômes autonomes plutôt que comme une dysautonomie, [Best App for Autonomic Symptom Tracking](/blog/best-symptom-tracker-apps-for-pots-2026/) est le meilleur point de départ.
+Pour une comparaison plus large orientée dysautonomie, commencez par [Best Symptom Tracker for Dysautonomia](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/). Si vous decrivez le problème comme des symptômes autonomes plutôt que comme une dysautonomie, [Best App for Autonomic Symptom Tracking](/fr-fr/blog/best-symptom-tracker-apps-for-pots-2026/) est le meilleur point de départ.
 
 ## Lequel est meilleur pour le brain fog et les mauvais jours?
 
@@ -161,7 +161,7 @@ Mais si votre système actuel vous semble déjà trop fragmente, ajouter un autr
 
 Si votre plus gros problème reste "j'ai trop d'outils deconnectes", Zebra est souvent la meilleure étape de simplification.
 
-Si vous preparez une visite de cardiologie en particulier, [Best App for POTS Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) et [Best App for Dysautonomia Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) resserrent le choix autour des résultats de rendez-vous.
+Si vous preparez une visite de cardiologie en particulier, [Best App for POTS Cardiology Appointment Prep](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) et [Best App for Dysautonomia Cardiology Appointment Prep](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) resserrent le choix autour des résultats de rendez-vous.
 
 ## Conclusion
 

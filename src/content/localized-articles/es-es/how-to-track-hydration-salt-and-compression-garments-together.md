@@ -63,7 +63,7 @@ faq:
 
 La hidratación, la sal y las prendas de compresión suelen rastrearse como habitos separados, pero son más útiles cuando permanecen conectadas con síntomas, tolerancia al estar de pie e historia de brotes. El punto no es probar qué causó un día mejor o peor. Es mantener suficiente contexto para revisar qué cambió antes de una cita.
 
-Para personas que rastrean [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los síntomas suelen cambiar con posición, actividad, líquidos, calor, sueño y estrés diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
+Para personas que rastrean [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/) o [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), las rutinas de apoyo pueden importar porque los síntomas suelen cambiar con posición, actividad, líquidos, calor, sueño y estrés diario. Un registro simple puede ayudarte a hablar de esos cambios sin reconstruir todo el mes desde la memoria.
 
 ## Qué rastrear junto
 

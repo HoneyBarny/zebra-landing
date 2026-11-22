@@ -61,7 +61,7 @@ faq:
 
 El impacto funcional es la parte del rastreo de síntomas que explica que cambiaron los síntomas en la vida real. En lugar de solo anotar dolor, fatiga, mareo o brain fog, rastrea que te impidieron hacer esos síntomas, que cambiaron, retrasaron o hicieron más difícil.
 
-Esto es especialmente útil antes de una cita médica porque los síntomas pueden sonar vagos cuando se listan solo por nombre. El [impacto funcional](/knowledge/functional-impact/) convierte el síntoma en un ejemplo más claro.
+Esto es especialmente útil antes de una cita médica porque los síntomas pueden sonar vagos cuando se listan solo por nombre. El [impacto funcional](/es-es/knowledge/functional-impact/) convierte el síntoma en un ejemplo más claro.
 
 ## Qué significa impacto funcional
 
@@ -151,7 +151,7 @@ Antes de la visita, saca:
 - qué cambió recientemente
 - qué quieres ayuda para decidir después
 
-Eso puede volverse parte de un [informe listo para el médico](/knowledge/doctor-ready-report/) o una nota corta que revisas antes de la cita.
+Eso puede volverse parte de un [informe listo para el médico](/es-es/knowledge/doctor-ready-report/) o una nota corta que revisas antes de la cita.
 
 ## Dónde encaja Zebra
 

@@ -254,7 +254,7 @@ Zebra ist für Menschen gebaut, die Symptomnotizen nicht nur speichern, sondern 
 
 Nutzen Sie Zebra, um Symptome, Schübe, Medikamente, Routineveränderungen, Salz, Wasser, orthostatischen Kontext, Notizen und Fragen an einem Ort zu halten.
 
-Für den breiteren Ablauf lesen Sie [How to Track Symptoms Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/). Für das Zusammenfassungsformat lesen Sie [How to Prepare a Monthly Symptom Summary](/blog/how-to-prepare-a-monthly-symptom-summary/).
+Für den breiteren Ablauf lesen Sie [How to Track Symptoms Before a Specialist Appointment](/de-de/blog/what-to-track-before-a-specialist-appointment/). Für das Zusammenfassungsformat lesen Sie [How to Prepare a Monthly Symptom Summary](/de-de/blog/how-to-prepare-a-monthly-symptom-summary/).
 
 ## Fazit
 

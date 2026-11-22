@@ -64,7 +64,7 @@ faq:
     answer: "Eine kurze Zusammenfassung davon, was sich verändert hat, was gemeinsam auftritt, was positionsbezogen wirkt und was es mit dem Alltag macht, ist meist leichter zu prüfen als verstreute Notizen."
 ---
 
-[EDS](/knowledge/eds/)-, [hEDS](/knowledge/heds/)- und [Dysautonomie](/knowledge/dysautonomia/)-Symptome überlappen sich oft auf eine Weise, die Alltagstracking und Terminvorbereitung verwirrend macht. Viele Menschen haben gleichzeitig mit [Schwindel](/knowledge/dizziness/), [Fatigue](/knowledge/fatigue/), [Brain Fog](/knowledge/brain-fog/), Belastungsintoleranz, Schmerzen und veränderter [Alltagsfunktion](/knowledge/functional-impact/) zu tun, auch wenn sich diese Symptome nicht so anfühlen, als gehörten sie nur zu einem Label.
+[EDS](/de-de/knowledge/eds/)-, [hEDS](/de-de/knowledge/heds/)- und [Dysautonomie](/de-de/knowledge/dysautonomia/)-Symptome überlappen sich oft auf eine Weise, die Alltagstracking und Terminvorbereitung verwirrend macht. Viele Menschen haben gleichzeitig mit [Schwindel](/de-de/knowledge/dizziness/), [Fatigue](/de-de/knowledge/fatigue/), [Brain Fog](/de-de/knowledge/brain-fog/), Belastungsintoleranz, Schmerzen und veränderter [Alltagsfunktion](/de-de/knowledge/functional-impact/) zu tun, auch wenn sich diese Symptome nicht so anfühlen, als gehörten sie nur zu einem Label.
 
 Das ist ein Grund, warum Überlappung in der Versorgung so schwer zu erklären sein kann. Das Problem ist nicht nur die Menge an Symptomen. Es ist Symptomverschwimmen. Wenn mehrere Symptome gemeinsam steigen und fallen, wird es schwerer zu erinnern, was sich zuerst verändert hat, was zusammen auftritt und was beim nächsten Termin am wichtigsten zu erwähnen ist.
 
@@ -79,7 +79,7 @@ Menschen haben dann häufig:
 - Terminfragen in Notizen
 - Erinnerungen an die schlimmsten Tage, die die Lücken füllen
 
-Deshalb ist ein Verlauf für das ganze Muster meist nützlicher als isolierte Kategorienotizen. Wenn Sie die einfachere allgemeine Version dieses Problems brauchen, erklärt [Warum Symptomtracking an schlechten Tagen scheitert](/blog/why-symptom-tracking-fails-on-bad-days/), warum Tracking oft bricht, wenn Symptome schlimmer werden.
+Deshalb ist ein Verlauf für das ganze Muster meist nützlicher als isolierte Kategorienotizen. Wenn Sie die einfachere allgemeine Version dieses Problems brauchen, erklärt [Warum Symptomtracking an schlechten Tagen scheitert](/de-de/blog/why-symptom-tracking-fails-on-bad-days/), warum Tracking oft bricht, wenn Symptome schlimmer werden.
 
 ## Wie Überlappung aussehen kann
 
@@ -94,7 +94,7 @@ Deshalb ist ein Verlauf für das ganze Muster meist nützlicher als isolierte Ka
 
 Das bedeutet nicht, dass jedes Symptom dieselbe Ursache hat. Es bedeutet, dass das gelebte Muster oft verflochten ist.
 
-Bei manchen Menschen gehören auch [orthostatische Intoleranz](/knowledge/orthostatic-intolerance/), Palpitationen, Zittrigkeit oder Symptome dazu, die sich nach längerem Aufrechtsein verschlechtern. Wenn dieser Teil des Bildes wichtig ist, ist [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) eine nützliche Begleitseite.
+Bei manchen Menschen gehören auch [orthostatische Intoleranz](/de-de/knowledge/orthostatic-intolerance/), Palpitationen, Zittrigkeit oder Symptome dazu, die sich nach längerem Aufrechtsein verschlechtern. Wenn dieser Teil des Bildes wichtig ist, ist [Wie man POTS-Symptome und orthostatische Veränderungen trackt](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) eine nützliche Begleitseite.
 
 ## Warum das fürs Tracking wichtig ist
 
@@ -128,7 +128,7 @@ Wenn Sie ein praktisches Modell wollen, kombinieren Sie:
 - was schwerer zu tun wurde
 - alles, was klar neu oder schlimmer ist
 
-Diese Struktur hält den Verlauf nutzbar, auch wenn das Diagnosegespräch noch unvollständig ist. Für die Terminvorbereitungs-Version helfen [Was vor einem Facharzttermin tracken](/blog/what-to-track-before-a-specialist-appointment/) und [Wie Sie Ihre Krankengeschichte für einen Arztbesuch ordnen](/blog/how-to-organize-your-health-history-for-a-doctor-visit/), das Muster in etwas leichter Prüfbares zu verwandeln.
+Diese Struktur hält den Verlauf nutzbar, auch wenn das Diagnosegespräch noch unvollständig ist. Für die Terminvorbereitungs-Version helfen [Was vor einem Facharzttermin tracken](/de-de/blog/what-to-track-before-a-specialist-appointment/) und [Wie Sie Ihre Krankengeschichte für einen Arztbesuch ordnen](/de-de/blog/how-to-organize-your-health-history-for-a-doctor-visit/), das Muster in etwas leichter Prüfbares zu verwandeln.
 
 ## Häufige Fehler, wenn überlappende Symptome unübersichtlich werden
 
@@ -139,7 +139,7 @@ Häufige Fallen sind:
 - Funktionsveränderungen zu ignorieren, weil sie schwerer zusammenzufassen wirken
 - bis zum Termin zu warten und den ganzen Monat aus der Erinnerung neu aufzubauen
 
-Wenn Brain Fog Teil des Problems ist, können [Wie man Brain-Fog-Symptome für einen Arzttermin trackt](/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) und [Wie man Symptome zusammenfasst, ohne wichtige Details zu vergessen](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) helfen, den Verlauf leichter zu halten.
+Wenn Brain Fog Teil des Problems ist, können [Wie man Brain-Fog-Symptome für einen Arzttermin trackt](/de-de/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) und [Wie man Symptome zusammenfasst, ohne wichtige Details zu vergessen](/de-de/blog/how-to-summarize-symptoms-without-forgetting-key-details/) helfen, den Verlauf leichter zu halten.
 
 ## Was Überlappung bei Terminen leichter erklärbar macht
 

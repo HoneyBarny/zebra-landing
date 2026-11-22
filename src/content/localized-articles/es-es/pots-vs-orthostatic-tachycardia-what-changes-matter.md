@@ -65,7 +65,7 @@ faq:
     answer: "Un informe conciso puede ayudarte a revisar patrones recurrentes, grupos de síntomas y las preguntas que quieres llevar a la atención médica."
 ---
 
-POTS y la taquicardia ortostática están relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. [POTS](/knowledge/pots/) es un síndrome clínico más amplio que suele incluir síntomas como mareo, [palpitaciones](/knowledge/palpitations/), fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria.
+POTS y la taquicardia ortostática están relacionados, pero no son el mismo nivel de explicación. La taquicardia ortostática describe un patrón de frecuencia cardíaca relacionado con la postura. [POTS](/es-es/knowledge/pots/) es un síndrome clínico más amplio que suele incluir síntomas como mareo, [palpitaciones](/es-es/knowledge/palpitations/), fatiga e intolerancia al estar de pie. Si registras para tu atención médica, la pregunta más útil no es solo si sube tu frecuencia cardíaca. Es que cambia con la postura, que síntomas aparecen con eso y que hace ese patrón a la vida diaria.
 
 Para el seguimiento de síntomas, esa diferencia importa porque los números por si solos rara vez bastan. Un historial más claro suele combinar síntomas, contexto relacionado con la postura y cambios funcionales en un solo registro.
 
@@ -73,8 +73,8 @@ Para el seguimiento de síntomas, esa diferencia importa porque los números por
 
 La distinción práctica es:
 
-- [Taquicardia ortostática](/knowledge/orthostatic-tachycardia/) es un patrón descriptivo
-- [POTS](/knowledge/pots/) es un síndrome clínico más amplio
+- [Taquicardia ortostática](/es-es/knowledge/orthostatic-tachycardia/) es un patrón descriptivo
+- [POTS](/es-es/knowledge/pots/) es un síndrome clínico más amplio
 
 Eso significa que puedes registrar taquicardia ortostática como parte de tu historia sin asumir que explica todo el cuadro.
 
@@ -107,7 +107,7 @@ Eso suele incluir:
 - mareo o aturdimiento
 - fatiga
 - palpitaciones
-- [taquicardia](/knowledge/tachycardia/)
+- [taquicardia](/es-es/knowledge/tachycardia/)
 - brain fog
 - intolerancia al ejercicio
 - sensibilidad al calor
@@ -135,9 +135,9 @@ El registro más útil suele combinar:
 - impacto funcional
 - frecuencia cardíaca o presión arterial si es relevante
 
-Por la misma razón, [Como registrar síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) funciona mejor que un registro solo de constantes.
+Por la misma razón, [Como registrar síntomas de POTS y cambios ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) funciona mejor que un registro solo de constantes.
 
-Si la pregunta más amplia es que aporta tu prueba estructurada, [Que ayuda a registrar una prueba ortostática?](/blog/what-does-an-orthostatic-test-help-you-record/) explica ese flujo.
+Si la pregunta más amplia es que aporta tu prueba estructurada, [Que ayuda a registrar una prueba ortostática?](/es-es/blog/what-does-an-orthostatic-test-help-you-record/) explica ese flujo.
 
 ## Qué no hacer
 
@@ -181,11 +181,11 @@ Si quieres una estructura sencilla, registra:
 - hacer recados
 - concentrarte
 
-Eso te da un registro mucho más fácil de revisar antes de una visita o incluir en un [informe listo para el médico](/knowledge/doctor-ready-report/).
+Eso te da un registro mucho más fácil de revisar antes de una visita o incluir en un [informe listo para el médico](/es-es/knowledge/doctor-ready-report/).
 
 ## Dónde encaja Zebra
 
-Zebra está creado para el espacio entre "note algo importante" y "puedo explicar claramente el patrón después". Eso es especialmente útil cuando los síntomas de [intolerancia ortostática](/knowledge/orthostatic-intolerance/), [taquicardia](/knowledge/tachycardia/) y cambios en la función diaria necesitan mantenerse conectados.
+Zebra está creado para el espacio entre "note algo importante" y "puedo explicar claramente el patrón después". Eso es especialmente útil cuando los síntomas de [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), [taquicardia](/es-es/knowledge/tachycardia/) y cambios en la función diaria necesitan mantenerse conectados.
 
 ## Ideas clave
 

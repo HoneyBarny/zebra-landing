@@ -80,7 +80,7 @@ Bei POTS ist die beste App nicht die mit den meisten Diagrammen. Es ist die App,
 
 Deshalb sind generisches Symptomtracking und echte Terminvorbereitung nicht dasselbe.
 
-Wenn Symptome im Aufrechtsein der Hauptgrund sind, warum Sie Apps vergleichen, können die spezifischeren Leitfäden zu [orthostatischem Symptomtracking](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) und [Tracking bei Upright Intolerance](/blog/what-is-orthostatic-intolerance/) der bessere nächste Schritt sein.
+Wenn Symptome im Aufrechtsein der Hauptgrund sind, warum Sie Apps vergleichen, können die spezifischeren Leitfäden zu [orthostatischem Symptomtracking](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) und [Tracking bei Upright Intolerance](/de-de/blog/what-is-orthostatic-intolerance/) der bessere nächste Schritt sein.
 
 ## Kurzer Vergleich
 
@@ -116,7 +116,7 @@ Wenn Ihre Hauptfrage lautet: "Wie höre ich auf, unvorbereitet zum Termin zu kom
 
 Der nächste sinnvolle Schritt ist oft, orthostatische Beobachtungen nicht separat zu sammeln, sondern sie mit Symptomen und Notizen im [Schellong-Test- und Orthostase-Ablauf](/de-de/orthostatic-vitals-test/) zu dokumentieren.
 
-Für die terminspezifische Version dieser Entscheidung lesen Sie [Beste App für POTS-Kardiologie-Terminvorbereitung](/blog/what-to-bring-to-a-pots-cardiology-appointment/).
+Für die terminspezifische Version dieser Entscheidung lesen Sie [Beste App für POTS-Kardiologie-Terminvorbereitung](/de-de/blog/what-to-bring-to-a-pots-cardiology-appointment/).
 
 ## Bearable: am besten, wenn Sie breite Anpassung wollen
 

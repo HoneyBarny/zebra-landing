@@ -72,7 +72,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historial introducido por la persona para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Una prueba de [mesa inclinada](/knowledge/orthostatic-test/) positiva puede dejar más preguntas que respuestas. El siguiente paso útil es registrar síntomas, contexto al estar de pie, tiempo de recuperación, medicación, hidratación, sal e impacto en la vida diaria para que tu clínico entienda como se ve el resultado fuera del laboratorio.
+Una prueba de [mesa inclinada](/es-es/knowledge/orthostatic-test/) positiva puede dejar más preguntas que respuestas. El siguiente paso útil es registrar síntomas, contexto al estar de pie, tiempo de recuperación, medicación, hidratación, sal e impacto en la vida diaria para que tu clínico entienda como se ve el resultado fuera del laboratorio.
 
 Esto importa porque la prueba es solo una parte de la historia. Cleveland Clinic explica que una prueba de mesa inclinada monitorea frecuencia cardíaca, presión arterial y síntomas mientras el cuerpo pasa de estar acostado a estar erguido. Un resultado positivo significa que el cuerpo respondio de forma anormal durante la prueba, pero el significado depende del patrón y de tu historia médica.
 
@@ -106,7 +106,7 @@ Registra:
 - si los síntomas ocurrieron después de ducha, calor, comidas, recados o escaleras
 - si la recuperación tomo minutos, horas o el resto del día
 
-Para personas evaluadas por [POTS](/knowledge/pots/), [disautonomía](/knowledge/dysautonomia/) o [intolerancia ortostática](/knowledge/orthostatic-intolerance/), este contexto puede importar tanto como los nombres de síntomas.
+Para personas evaluadas por [POTS](/es-es/knowledge/pots/), [disautonomía](/es-es/knowledge/dysautonomia/) o [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), este contexto puede importar tanto como los nombres de síntomas.
 
 ## Mantiene los síntomas cortos pero específicos
 
@@ -188,7 +188,7 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra ayuda a mantener la historia después de la prueba en un solo lugar: síntomas, [observaciones ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, notas, desencadenantes y preguntas de seguimiento.
+Zebra ayuda a mantener la historia después de la prueba en un solo lugar: síntomas, [observaciones ortostáticas](/es-es/knowledge/orthostatic-test/), medicación, hidratación, sal, notas, desencadenantes y preguntas de seguimiento.
 
 No interpreta tu prueba ni diagnostica POTS. Ayuda a organizar lo que pasa después para que la cita de seguimiento tenga menos suposiciones.
 

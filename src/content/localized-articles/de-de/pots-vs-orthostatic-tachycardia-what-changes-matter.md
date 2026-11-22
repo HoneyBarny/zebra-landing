@@ -65,7 +65,7 @@ faq:
     answer: "Ein kurzer Bericht kann helfen, wiederkehrende Muster, Symptomgruppen und die Fragen zu prüfen, die Sie in die Versorgung mitbringen möchten."
 ---
 
-POTS und orthostatische Tachykardie hängen zusammen, sind aber nicht dieselbe Erklärungsebene. Orthostatische Tachykardie beschreibt ein positionsbezogenes Herzfrequenzmuster. [POTS](/knowledge/pots/) ist ein breiteres klinisches Syndrom, zu dem meist Symptome wie Schwindel, [Palpitationen](/knowledge/palpitations/), Fatigue und Intoleranz im Aufrechtsein gehören. Wenn Sie für Ihre Versorgung tracken, ist die nützlichste Frage nicht nur, ob Ihre Herzfrequenz steigt. Wichtig ist, was sich mit der Position verändert, welche Symptome damit auftreten und was dieses Muster mit Ihrem Alltag macht.
+POTS und orthostatische Tachykardie hängen zusammen, sind aber nicht dieselbe Erklärungsebene. Orthostatische Tachykardie beschreibt ein positionsbezogenes Herzfrequenzmuster. [POTS](/de-de/knowledge/pots/) ist ein breiteres klinisches Syndrom, zu dem meist Symptome wie Schwindel, [Palpitationen](/de-de/knowledge/palpitations/), Fatigue und Intoleranz im Aufrechtsein gehören. Wenn Sie für Ihre Versorgung tracken, ist die nützlichste Frage nicht nur, ob Ihre Herzfrequenz steigt. Wichtig ist, was sich mit der Position verändert, welche Symptome damit auftreten und was dieses Muster mit Ihrem Alltag macht.
 
 Für Symptomtracking ist dieser Unterschied wichtig, weil Zahlen allein selten reichen. Ein klarerer Verlauf kombiniert meist Symptome, positionsbezogenen Kontext und Funktionsveränderungen in einem Verlauf.
 
@@ -73,8 +73,8 @@ Für Symptomtracking ist dieser Unterschied wichtig, weil Zahlen allein selten r
 
 Die praktische Unterscheidung ist:
 
-- [Orthostatische Tachykardie](/knowledge/orthostatic-tachycardia/) ist ein beschreibendes Muster
-- [POTS](/knowledge/pots/) ist ein breiteres klinisches Syndrom
+- [Orthostatische Tachykardie](/de-de/knowledge/orthostatic-tachycardia/) ist ein beschreibendes Muster
+- [POTS](/de-de/knowledge/pots/) ist ein breiteres klinisches Syndrom
 
 Das bedeutet: Sie können orthostatische Tachykardie als Teil Ihres Verlaufs tracken, ohne anzunehmen, dass damit das ganze Bild erklärt ist.
 
@@ -107,7 +107,7 @@ Das umfasst oft:
 - Schwindel oder Benommenheit
 - Fatigue
 - Palpitationen
-- [Tachykardie](/knowledge/tachycardia/)
+- [Tachykardie](/de-de/knowledge/tachycardia/)
 - Brain Fog
 - Belastungsintoleranz
 - Hitzeempfindlichkeit
@@ -135,9 +135,9 @@ Der nützlichste Verlauf kombiniert meist:
 - Auswirkungen auf den Alltag
 - Herzfrequenz oder Blutdruck, wenn relevant
 
-Aus demselben Grund funktioniert [So tracken Sie POTS-Symptome und orthostatische Veränderungen](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) besser als ein reines Vitalwerte-Protokoll.
+Aus demselben Grund funktioniert [So tracken Sie POTS-Symptome und orthostatische Veränderungen](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) besser als ein reines Vitalwerte-Protokoll.
 
-Wenn die größere Frage ist, was ein strukturierter Test hinzufügt, erklärt [Was hilft ein orthostatischer Test festzuhalten?](/blog/what-does-an-orthostatic-test-help-you-record/) diesen Ablauf.
+Wenn die größere Frage ist, was ein strukturierter Test hinzufügt, erklärt [Was hilft ein orthostatischer Test festzuhalten?](/de-de/blog/what-does-an-orthostatic-test-help-you-record/) diesen Ablauf.
 
 ## Was Sie vermeiden sollten
 
@@ -181,11 +181,11 @@ Wenn Sie eine einfache Struktur möchten, tracken Sie:
 - Erledigungen
 - Konzentration
 
-So entsteht ein Verlauf, der vor einem Termin oder in einem [arztbereiten Bericht](/knowledge/doctor-ready-report/) viel leichter zu prüfen ist.
+So entsteht ein Verlauf, der vor einem Termin oder in einem [arztbereiten Bericht](/de-de/knowledge/doctor-ready-report/) viel leichter zu prüfen ist.
 
 ## Wo Zebra hineinpasst
 
-Zebra ist für die Lücke zwischen "Ich habe etwas Wichtiges bemerkt" und "Ich kann das Muster später klar erklären" gebaut. Das ist besonders nützlich, wenn Symptome von [orthostatischer Intoleranz](/knowledge/orthostatic-intolerance/), [Tachykardie](/knowledge/tachycardia/) und Alltagsveränderungen zusammenbleiben müssen.
+Zebra ist für die Lücke zwischen "Ich habe etwas Wichtiges bemerkt" und "Ich kann das Muster später klar erklären" gebaut. Das ist besonders nützlich, wenn Symptome von [orthostatischer Intoleranz](/de-de/knowledge/orthostatic-intolerance/), [Tachykardie](/de-de/knowledge/tachycardia/) und Alltagsveränderungen zusammenbleiben müssen.
 
 ## Wichtigste Punkte
 

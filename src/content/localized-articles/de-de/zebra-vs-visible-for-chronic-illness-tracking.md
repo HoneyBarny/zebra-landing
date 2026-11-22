@@ -133,7 +133,7 @@ Zebra passt besser, wenn Sie Folgendes an einem Ort behalten wollen:
 
 Wenn das eigentliche Problem die Rekonstruktion vor Terminen ist, passt Zebra direkter zu diesem Anwendungsfall.
 
-Für einen breiteren dysautonomieorientierten Vergleich starten Sie mit [Best Symptom Tracker for Dysautonomia](/blog/best-symptom-tracker-apps-for-pots-2026/). Wenn Sie das Problem eher als autonome Symptome beschreiben, passt [Best App for Autonomic Symptom Tracking](/blog/best-symptom-tracker-apps-for-pots-2026/) besser.
+Für einen breiteren dysautonomieorientierten Vergleich starten Sie mit [Best Symptom Tracker for Dysautonomia](/de-de/blog/best-symptom-tracker-apps-for-pots-2026/). Wenn Sie das Problem eher als autonome Symptome beschreiben, passt [Best App for Autonomic Symptom Tracking](/de-de/blog/best-symptom-tracker-apps-for-pots-2026/) besser.
 
 ## Welche App ist besser für Brain Fog und schlechte Tage?
 
@@ -159,7 +159,7 @@ Wenn Ihr aktuelles System aber schon zu fragmentiert wirkt, hilft ein weiteres T
 
 Wenn Ihr größeres Problem weiterhin lautet: "Ich habe zu viele getrennte Tools", ist Zebra oft der bessere Schritt zur Vereinfachung.
 
-Wenn Sie sich speziell auf einen Kardiologietermin vorbereiten, grenzen [Best App for POTS Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) und [Best App for Dysautonomia Cardiology Appointment Prep](/blog/what-to-bring-to-a-pots-cardiology-appointment/) die Wahl nach Terminzielen ein.
+Wenn Sie sich speziell auf einen Kardiologietermin vorbereiten, grenzen [Best App for POTS Cardiology Appointment Prep](/de-de/blog/what-to-bring-to-a-pots-cardiology-appointment/) und [Best App for Dysautonomia Cardiology Appointment Prep](/de-de/blog/what-to-bring-to-a-pots-cardiology-appointment/) die Wahl nach Terminzielen ein.
 
 ## Fazit
 

@@ -72,7 +72,7 @@ faq:
     answer: "No. Zebra ayuda a organizar historial introducido por la persona para citas. No diagnostica, no trata y no reemplaza la atención médica."
 ---
 
-Cuando [POTS](/knowledge/pots/), [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/) y [MCAS](/knowledge/mcas/) se superponen, lo difícil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e [impacto funcional](/knowledge/functional-impact/) como un historial legible en lugar de fragmentos separados.
+Cuando [POTS](/es-es/knowledge/pots/), [EDS](/es-es/knowledge/eds/) o [hEDS](/es-es/knowledge/heds/) y [MCAS](/es-es/knowledge/mcas/) se superponen, lo difícil no es solo tener más síntomas. Es intentar explicar mareo, dolor, fatiga, flushing, síntomas GI, cambios de medicación, desencadenantes e [impacto funcional](/es-es/knowledge/functional-impact/) como un historial legible en lugar de fragmentos separados.
 
 Por eso el registro de superposición necesita una forma distinta de un diario de síntomas normal. Una lista de síntomas puede volverse demasiado larga para usar. Un registro mejor muestra qué cambió, qué pasó cerca y qué hizo más difícil la vida diaria.
 
@@ -107,7 +107,7 @@ Notas útiles incluyen:
 
 Esto no significa que el evento cercano haya causado los síntomas. Simplemente mantiene el contexto disponible para conversarlo.
 
-Para POTS y disautonomía, el [contexto ortostático](/knowledge/orthostatic-intolerance/) puede ser especialmente útil: qué pasó acostada, sentada, de pie o después de estar erguida más tiempo.
+Para POTS y disautonomía, el [contexto ortostático](/es-es/knowledge/orthostatic-intolerance/) puede ser especialmente útil: qué pasó acostada, sentada, de pie o después de estar erguida más tiempo.
 
 ## Mantiene medicación y cambios junto a síntomas
 
@@ -125,7 +125,7 @@ Registra:
 
 El valor no es solo la lista. El valor es la línea temporal. Si los síntomas cambiaron cerca de un cambio de medicación, puedes llevar ese contexto sin intentar recordar la secuencia después.
 
-Para una versión más profunda, lee [Como registrar cambios de medicación durante un brote](/blog/how-to-track-medication-changes-during-a-flare/).
+Para una versión más profunda, lee [Como registrar cambios de medicación durante un brote](/es-es/blog/how-to-track-medication-changes-during-a-flare/).
 
 ## Añade impacto funcional para que la cita tenga un centro
 
@@ -170,7 +170,7 @@ Antes de una visita con especialista, convierte la línea temporal en un resumen
 - ejemplos de impacto funcional
 - tus 3 preguntas principales
 
-Si necesitas la versión específica para citas, usa la [Checklist de síntomas para cita médica](/blog/doctor-appointment-symptom-checklist/) o [Como organizar tu historial de salud para una visita médica](/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
+Si necesitas la versión específica para citas, usa la [Checklist de síntomas para cita médica](/es-es/blog/doctor-appointment-symptom-checklist/) o [Como organizar tu historial de salud para una visita médica](/es-es/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
 
 ## Contexto de fuentes
 
@@ -185,7 +185,7 @@ Lectura útil:
 
 ## Dónde encaja Zebra
 
-Zebra está creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola línea temporal.
+Zebra está creado para el problema de registro que produce la superposición: síntomas, brotes, [constantes ortostáticas](/es-es/knowledge/orthostatic-test/), medicación, hidratación, sal, desencadenantes, notas y preguntas de cita en una sola línea temporal.
 
 No diagnostica POTS, EDS, MCAS ni ninguna condición. Ayuda a mantener el historial introducido por la persona organizado para revisarlo antes de una visita médica.
 

@@ -128,7 +128,7 @@ Ces détails sont plus faciles à utiliser quand ils restent dans un historique 
 
 Si vous voulez l'angle plus large de préparation de rendez-vous, [Suivi des symptômes pour rendez-vous médicaux](/fr-fr/blog/symptom-tracker-for-doctor-appointments/) et [Quoi apporter à un rendez-vous de cardiologie POTS](/fr-fr/blog/what-to-bring-to-a-pots-cardiology-appointment/) sont les prochaines meilleures pages.
 
-Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) est la suite plus spécifique.
+Si les symptômes en position debout sont la plus grande piece manquante, [Meilleure app pour le suivi des symptômes orthostatiques](/fr-fr/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) est la suite plus spécifique.
 
 ## Lequel est meilleur pour le brain fog et les mauvais jours?
 

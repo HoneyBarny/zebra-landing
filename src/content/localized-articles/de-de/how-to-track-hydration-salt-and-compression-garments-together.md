@@ -63,7 +63,7 @@ faq:
 
 Hydration, Salz und Kompressionskleidung werden oft als getrennte Gewohnheiten getrackt, sind aber nützlicher, wenn sie mit Symptomen, Toleranz im Aufrechtsein und Schubverlauf verbunden bleiben. Es geht nicht darum zu beweisen, was einen besseren oder schlechteren Tag verursacht hat. Es geht darum, genug Kontext zu behalten, um vor einem Termin zu prüfen, was sich verändert hat.
 
-Für Menschen, die [POTS](/knowledge/pots/), [Dysautonomie](/knowledge/dysautonomia/) oder [orthostatische Intoleranz](/knowledge/orthostatic-intolerance/) tracken, können Unterstützungsroutinen wichtig sein, weil Symptome sich oft mit Position, Aktivität, Flüssigkeit, Hitze, Schlaf und Alltagsstress verschieben. Ein einfacher Verlauf kann helfen, diese Veränderungen zu besprechen, ohne den ganzen Monat aus der Erinnerung neu aufzubauen.
+Für Menschen, die [POTS](/de-de/knowledge/pots/), [Dysautonomie](/de-de/knowledge/dysautonomia/) oder [orthostatische Intoleranz](/de-de/knowledge/orthostatic-intolerance/) tracken, können Unterstützungsroutinen wichtig sein, weil Symptome sich oft mit Position, Aktivität, Flüssigkeit, Hitze, Schlaf und Alltagsstress verschieben. Ein einfacher Verlauf kann helfen, diese Veränderungen zu besprechen, ohne den ganzen Monat aus der Erinnerung neu aufzubauen.
 
 ## Was zusammen tracken
 

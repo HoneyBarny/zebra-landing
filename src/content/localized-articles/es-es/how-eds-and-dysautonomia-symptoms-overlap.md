@@ -64,7 +64,7 @@ faq:
     answer: "Un resumen corto de qué cambió, qué se agrupa, que parece relacionado con la posición y que está haciendo a la vida diaria suele ser más fácil de revisar que notas dispersas."
 ---
 
-Los síntomas de [EDS](/knowledge/eds/), [hEDS](/knowledge/heds/) y [disautonomía](/knowledge/dysautonomia/) a menudo se superponen de formas que hacen que el seguimiento diario y la preparación de citas sean confusos. Muchas personas terminan lidiando con [mareo](/knowledge/dizziness/), [fatiga](/knowledge/fatigue/), [brain fog](/knowledge/brain-fog/), intolerancia al ejercicio, dolor y cambios de [función diaria](/knowledge/functional-impact/) al mismo tiempo, incluso cuando esos síntomas no parecen pertenecer a una sola etiqueta.
+Los síntomas de [EDS](/es-es/knowledge/eds/), [hEDS](/es-es/knowledge/heds/) y [disautonomía](/es-es/knowledge/dysautonomia/) a menudo se superponen de formas que hacen que el seguimiento diario y la preparación de citas sean confusos. Muchas personas terminan lidiando con [mareo](/es-es/knowledge/dizziness/), [fatiga](/es-es/knowledge/fatigue/), [brain fog](/es-es/knowledge/brain-fog/), intolerancia al ejercicio, dolor y cambios de [función diaria](/es-es/knowledge/functional-impact/) al mismo tiempo, incluso cuando esos síntomas no parecen pertenecer a una sola etiqueta.
 
 Esta es una razón por la que la superposición puede ser tan difícil de explicar en la atención médica. El problema no es solo la cantidad de síntomas. Es la mezcla de síntomas. Cuando varios síntomas suben y bajan juntos, se vuelve más difícil recordar qué cambió primero, qué se agrupa y qué importa más mencionar en la próxima cita.
 
@@ -79,7 +79,7 @@ Muchas personas terminan con:
 - preguntas para citas en notas
 - recuerdos de los peores días llenando los huecos
 
-Por eso un registro de patrón completo suele ser más útil que notas de categorías aisladas. Si necesitas la versión general más simple de ese problema, [Por qué el rastreo de síntomas falla en días malos](/blog/why-symptom-tracking-fails-on-bad-days/) explica por qué el seguimiento suele romperse cuando los síntomas empeoran.
+Por eso un registro de patrón completo suele ser más útil que notas de categorías aisladas. Si necesitas la versión general más simple de ese problema, [Por qué el rastreo de síntomas falla en días malos](/es-es/blog/why-symptom-tracking-fails-on-bad-days/) explica por qué el seguimiento suele romperse cuando los síntomas empeoran.
 
 ## Cómo puede verse la superposición
 
@@ -94,7 +94,7 @@ La superposición puede incluir:
 
 Eso no significa que cada síntoma tenga la misma fuente. Significa que el patrón vivido a menudo está entrelazado.
 
-Para algunas personas, la superposición también incluye [intolerancia ortostática](/knowledge/orthostatic-intolerance/), palpitaciones, temblores o síntomas que empeoran después de estar de pie durante más tiempo. Si esa parte del cuadro importa, [Como rastrear síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es una página complementaria útil.
+Para algunas personas, la superposición también incluye [intolerancia ortostática](/es-es/knowledge/orthostatic-intolerance/), palpitaciones, temblores o síntomas que empeoran después de estar de pie durante más tiempo. Si esa parte del cuadro importa, [Como rastrear síntomas de POTS y cambios ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) es una página complementaria útil.
 
 ## Por qué esto importa para el seguimiento
 
@@ -128,7 +128,7 @@ Si quieres un modelo práctico, combina:
 - lo que se volvió más difícil de hacer
 - cualquier cosa claramente nueva o peor
 
-Esa estructura mantiene el registro usable incluso cuando la conversación diagnóstica todavía esta incompleta. Para la versión de preparación de citas, [Que rastrear antes de una cita con un especialista](/blog/what-to-track-before-a-specialist-appointment/) y [Como organizar tu historial de salud para una visita médica](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) ayudan a convertir el patrón en algo más fácil de revisar.
+Esa estructura mantiene el registro usable incluso cuando la conversación diagnóstica todavía esta incompleta. Para la versión de preparación de citas, [Que rastrear antes de una cita con un especialista](/es-es/blog/what-to-track-before-a-specialist-appointment/) y [Como organizar tu historial de salud para una visita médica](/es-es/blog/how-to-organize-your-health-history-for-a-doctor-visit/) ayudan a convertir el patrón en algo más fácil de revisar.
 
 ## Errores comunes cuando los síntomas superpuestos se vuelven desordenados
 
@@ -139,7 +139,7 @@ Errores comunes incluyen:
 - ignorar cambios de función porque parecen más difíciles de resumir
 - esperar hasta la cita para reconstruir todo el mes desde la memoria
 
-Si brain fog es parte del problema, [Como rastrear síntomas de brain fog para una cita médica](/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) y [Como resumir síntomas sin olvidar detalles clave](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudar a mantener el registro más ligero.
+Si brain fog es parte del problema, [Como rastrear síntomas de brain fog para una cita médica](/es-es/blog/how-to-track-brain-fog-symptoms-for-a-doctor-appointment/) y [Como resumir síntomas sin olvidar detalles clave](/es-es/blog/how-to-summarize-symptoms-without-forgetting-key-details/) pueden ayudar a mantener el registro más ligero.
 
 ## Qué hace que la superposición sea más fácil de explicar en citas
 

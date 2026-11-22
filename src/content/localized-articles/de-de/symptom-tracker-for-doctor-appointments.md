@@ -102,7 +102,7 @@ Deshalb funktioniert ein eigener Tracker oft besser als verstreute Notizen. Nich
 | Tabelle | Manuelle Struktur | Mehr Pflege und mehr Entscheidungen |
 | Symptomtracker | Laufender strukturierter Verlauf | Man muss einen wählen, der zum eigenen Zweck passt |
 
-Wenn Sie die breitere Version dieses Vergleichs möchten, geht [Symptom Tracker vs Notes App vs Spreadsheet](/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) tiefer darauf ein.
+Wenn Sie die breitere Version dieses Vergleichs möchten, geht [Symptom Tracker vs Notes App vs Spreadsheet](/de-de/blog/symptom-tracker-vs-notes-app-vs-spreadsheet/) tiefer darauf ein.
 
 ## Warum Terminvorbereitung verändert, wie der beste Tracker aussieht
 
@@ -130,7 +130,7 @@ Konzentrieren Sie sich auf die Teile Ihres Verlaufs, die das Gespräch leichter 
 - Funktionsveränderungen wie Arbeit, Gehen, Autofahren oder Selbstversorgung
 - die wichtigsten Fragen, die beantwortet werden sollen
 
-Wenn Sie eine vollständigere Checkliste möchten, behandelt [What to Track Before a Specialist Appointment](/blog/what-to-track-before-a-specialist-appointment/) die nützlichsten Kategorien genauer.
+Wenn Sie eine vollständigere Checkliste möchten, behandelt [What to Track Before a Specialist Appointment](/de-de/blog/what-to-track-before-a-specialist-appointment/) die nützlichsten Kategorien genauer.
 
 ## Warum Zebra zu Arztterminen passt
 
@@ -145,7 +145,7 @@ Es hält:
 - Alltag, Funktion und Notizen
 - Terminfragen
 
-in einem Verlauf zusammen, damit der letzte Schritt ein [arztbereiter Symptombericht](/blog/what-is-a-doctor-ready-symptom-report/) ist und kein Stapel unverbundener Einträge.
+in einem Verlauf zusammen, damit der letzte Schritt ein [arztbereiter Symptombericht](/de-de/blog/what-is-a-doctor-ready-symptom-report/) ist und kein Stapel unverbundener Einträge.
 
 Das ist besonders nützlich für Menschen, die POTS, Dysautonomie, EDS oder sich überschneidende chronische Erkrankungen tracken, bei denen Symptome sich nach Position, Aktivität oder Schubmuster verändern und später schwerer zu rekonstruieren sind.
 

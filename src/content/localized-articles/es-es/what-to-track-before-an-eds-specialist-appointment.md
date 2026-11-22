@@ -67,7 +67,7 @@ faq:
 
 Antes de una cita con especialista en EDS, lo más útil es rastrear el patrón que explica qué cambió, cómo se siente tu cuerpo día a día, qué afecta la función y qué síntomas de solapamiento podrían importar. No necesitas un historial de vida perfecto. Necesitas un registro reciente y claro que puedas revisar cuando empiece la visita.
 
-Para muchas personas que lidian con [EDS](/knowledge/eds/) o [hEDS](/knowledge/heds/), la parte difícil no es notar síntomas. Es convertir un mes desordenado de dolor, inestabilidad, fatiga, mareo y brain fog en una historia corta que todavía tenga sentido en la consulta. Ahí ayuda un [historial de salud](/knowledge/health-history/) claro.
+Para muchas personas que lidian con [EDS](/es-es/knowledge/eds/) o [hEDS](/es-es/knowledge/heds/), la parte difícil no es notar síntomas. Es convertir un mes desordenado de dolor, inestabilidad, fatiga, mareo y brain fog en una historia corta que todavía tenga sentido en la consulta. Ahí ayuda un [historial de salud](/es-es/knowledge/health-history/) claro.
 
 ## Qué suele necesitar entender rápido un especialista en EDS
 
@@ -81,7 +81,7 @@ La mayoría de visitas avanzan mejor cuando tus notas ayudan a responder cinco p
 
 Eso significa que la mejor preparación no es un diario gigante de síntomas. Es un resumen reciente y organizado que apoya la conversación.
 
-Si primero necesitas una versión general, empieza con [Como rastrear síntomas antes de una cita con especialista](/blog/what-to-track-before-a-specialist-appointment/). Si tu problema más grande es juntar toda la historia, [Como organizar tu historial de salud para una visita médica](/blog/how-to-organize-your-health-history-for-a-doctor-visit/) es un buen complemento.
+Si primero necesitas una versión general, empieza con [Como rastrear síntomas antes de una cita con especialista](/es-es/blog/what-to-track-before-a-specialist-appointment/). Si tu problema más grande es juntar toda la historia, [Como organizar tu historial de salud para una visita médica](/es-es/blog/how-to-organize-your-health-history-for-a-doctor-visit/) es un buen complemento.
 
 ## Qué rastrear antes de una cita con especialista en EDS
 
@@ -126,7 +126,7 @@ Esto ayuda especialmente si tu mes se ha sentido difícil de resumir en voz alta
 
 Muchas personas con EDS también intentan explicar síntomas de solapamiento como mareo, fatiga, palpitaciones, brain fog e intolerancia a estar erguido. Si esos forman parte de tu cuadro, incluyelos en el mismo registro en lugar de mantenerlos en otra app o nota.
 
-Aquí [Como se solapan los síntomas de EDS y disautonomía](/blog/how-eds-and-dysautonomia-symptoms-overlap/) puede ayudar a enmarcar lo que estas viendo. Si importan los síntomas relacionados con la posición, [Como rastrear síntomas de POTS y cambios ortostáticos](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) ofrece un modelo simple de rastreo.
+Aquí [Como se solapan los síntomas de EDS y disautonomía](/es-es/blog/how-eds-and-dysautonomia-symptoms-overlap/) puede ayudar a enmarcar lo que estas viendo. Si importan los síntomas relacionados con la posición, [Como rastrear síntomas de POTS y cambios ortostáticos](/es-es/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) ofrece un modelo simple de rastreo.
 
 El contexto útil de solapamiento puede incluir:
 
@@ -151,7 +151,7 @@ Rastrea ejemplos como:
 - necesite ayuda con tareas del hogar
 - no pude pensar con suficiente claridad para terminar trabajo o mensajes
 
-Este tipo de [impacto funcional](/knowledge/functional-impact/) hace que el historial de síntomas sea mucho más fácil de entender.
+Este tipo de [impacto funcional](/es-es/knowledge/functional-impact/) hace que el historial de síntomas sea mucho más fácil de entender.
 
 ## 5. Brotes y días más difíciles
 
@@ -193,7 +193,7 @@ Ejemplos:
 - ¿Qué patrones importan más rastrear antes de la próxima visita?
 - ¿Qué cambios debería vigilar más de cerca?
 - ¿Cómo debería organizar síntomas de solapamiento para el seguimiento?
-- Que pertenece a un [informe listo para el médico](/knowledge/doctor-ready-report/)?
+- Que pertenece a un [informe listo para el médico](/es-es/knowledge/doctor-ready-report/)?
 
 Esto importa porque muchas personas salen de citas recordando lo que olvidaron preguntar.
 
@@ -239,7 +239,7 @@ Eso basta para crear un historial reciente útil sin construir un proceso demasi
 
 Zebra está creado para la parte que suele deshacerse antes de la cita: mantener síntomas, contexto de solapamiento, función diaria y preparación de preguntas en un registro que todavía tenga sentido después.
 
-Si quieres la parte del informe de ese flujo, [Que es un informe de síntomas listo para el médico?](/blog/what-is-a-doctor-ready-symptom-report/) explica que contiene realmente un resumen útil.
+Si quieres la parte del informe de ese flujo, [Que es un informe de síntomas listo para el médico?](/es-es/blog/what-is-a-doctor-ready-symptom-report/) explica que contiene realmente un resumen útil.
 
 ## Puntos clave
 

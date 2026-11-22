@@ -61,7 +61,7 @@ faq:
 
 Funktionsauswirkung ist der Teil des Symptomtrackings, der erklärt, was Symptome im echten Leben verändert haben. Statt nur Schmerzen, Fatigue, Schwindel oder Brain Fog aufzuschreiben, tracken Sie, woran diese Symptome Sie gehindert haben, was sie verändert, verzögert oder schwerer gemacht haben.
 
-Das ist vor einem Arzttermin besonders nützlich, weil Symptome vage klingen können, wenn sie nur als Namen aufgelistet werden. [Funktionsauswirkung](/knowledge/functional-impact/) macht aus dem Symptom ein klareres Beispiel.
+Das ist vor einem Arzttermin besonders nützlich, weil Symptome vage klingen können, wenn sie nur als Namen aufgelistet werden. [Funktionsauswirkung](/de-de/knowledge/functional-impact/) macht aus dem Symptom ein klareres Beispiel.
 
 ## Was Funktionsauswirkung bedeutet
 
@@ -151,7 +151,7 @@ Vor dem Besuch ziehen Sie heraus:
 - was sich kürzlich verändert hat
 - wobei Sie als Nächstes Entscheidungshilfe wollen
 
-Das kann Teil eines [arztbereiten Berichts](/knowledge/doctor-ready-report/) werden oder eine kurze Notiz, die Sie vor dem Termin prüfen.
+Das kann Teil eines [arztbereiten Berichts](/de-de/knowledge/doctor-ready-report/) werden oder eine kurze Notiz, die Sie vor dem Termin prüfen.
 
 ## Wo Zebra passt
 

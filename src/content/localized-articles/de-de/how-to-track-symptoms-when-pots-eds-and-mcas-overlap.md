@@ -72,7 +72,7 @@ faq:
     answer: "Nein. Zebra hilft, selbst eingegebenen Verlauf für Termine zu ordnen. Es diagnostiziert und behandelt nicht und ersetzt keine medizinische Versorgung."
 ---
 
-Wenn sich [POTS](/knowledge/pots/), [EDS](/knowledge/eds/) oder [hEDS](/knowledge/heds/) und [MCAS](/knowledge/mcas/) überlappen, ist das Schwierige nicht nur, mehr Symptome zu haben. Es ist der Versuch, Schwindel, Schmerz, Fatigue, Flush, GI-Symptome, Medikamentenänderungen, Auslöser und [Alltagsauswirkung](/knowledge/functional-impact/) als einen lesbaren Verlauf statt als getrennte Fragmente zu erklären.
+Wenn sich [POTS](/de-de/knowledge/pots/), [EDS](/de-de/knowledge/eds/) oder [hEDS](/de-de/knowledge/heds/) und [MCAS](/de-de/knowledge/mcas/) überlappen, ist das Schwierige nicht nur, mehr Symptome zu haben. Es ist der Versuch, Schwindel, Schmerz, Fatigue, Flush, GI-Symptome, Medikamentenänderungen, Auslöser und [Alltagsauswirkung](/de-de/knowledge/functional-impact/) als einen lesbaren Verlauf statt als getrennte Fragmente zu erklären.
 
 Deshalb braucht Überlappungstracking eine andere Form als ein normales Symptomtagebuch. Eine reine Symptomliste wird schnell zu lang. Ein besserer Verlauf zeigt, was sich verändert hat, was in der Nähe passiert ist und was den Alltag schwerer gemacht hat.
 
@@ -107,7 +107,7 @@ Nützliche Timing-Notizen sind:
 
 Das bedeutet nicht, dass der nahe Kontext die Symptome verursacht hat. Er bleibt einfach für das Gespräch verfügbar.
 
-Bei POTS und Dysautonomie kann [orthostatischer Kontext](/knowledge/orthostatic-intolerance/) besonders nützlich sein: was im Liegen, Sitzen, Stehen oder nach längerem Aufrechtsein passiert ist.
+Bei POTS und Dysautonomie kann [orthostatischer Kontext](/de-de/knowledge/orthostatic-intolerance/) besonders nützlich sein: was im Liegen, Sitzen, Stehen oder nach längerem Aufrechtsein passiert ist.
 
 ## Medikamente und Änderungen neben Symptomen halten
 
@@ -125,7 +125,7 @@ Tracken Sie:
 
 Der Wert ist nicht nur die Liste. Der Wert ist die Timeline. Wenn Symptome nahe an einer Medikamentenänderung wechselten, können Sie diesen Kontext mitbringen, ohne später die Reihenfolge rekonstruieren zu müssen.
 
-Mehr dazu steht in [Wie man Medikamentenänderungen während eines Schubs trackt](/blog/how-to-track-medication-changes-during-a-flare/).
+Mehr dazu steht in [Wie man Medikamentenänderungen während eines Schubs trackt](/de-de/blog/how-to-track-medication-changes-during-a-flare/).
 
 ## Alltagsauswirkung ergänzen, damit der Termin einen Mittelpunkt hat
 
@@ -170,7 +170,7 @@ Vor einem Facharzttermin machen Sie aus der Timeline eine kurze Zusammenfassung:
 - Beispiele für Alltagsauswirkung
 - Ihre wichtigsten 3 Fragen
 
-Für die terminbezogene Version nutzen Sie die [Symptom-Checkliste für Arzttermine](/blog/doctor-appointment-symptom-checklist/) oder [Wie Sie Ihre Krankengeschichte für einen Arztbesuch ordnen](/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
+Für die terminbezogene Version nutzen Sie die [Symptom-Checkliste für Arzttermine](/de-de/blog/doctor-appointment-symptom-checklist/) oder [Wie Sie Ihre Krankengeschichte für einen Arztbesuch ordnen](/de-de/blog/how-to-organize-your-health-history-for-a-doctor-visit/).
 
 ## Quellenkontext
 
@@ -185,7 +185,7 @@ Nützlicher Hintergrund:
 
 ## Wo Zebra passt
 
-Zebra ist für genau das Tracking-Problem gebaut, das Überlappung erzeugt: Symptome, Schübe, [orthostatische Vitalwerte](/knowledge/orthostatic-test/), Medikamente, Hydration, Salz, Auslöser, Notizen und Terminfragen in einer Timeline.
+Zebra ist für genau das Tracking-Problem gebaut, das Überlappung erzeugt: Symptome, Schübe, [orthostatische Vitalwerte](/de-de/knowledge/orthostatic-test/), Medikamente, Hydration, Salz, Auslöser, Notizen und Terminfragen in einer Timeline.
 
 Zebra diagnostiziert POTS, EDS, MCAS oder andere Erkrankungen nicht. Es hilft, selbst eingegebenen Verlauf so zu ordnen, dass Sie ihn vor einem Arzttermin prüfen können.
 

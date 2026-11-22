@@ -65,9 +65,9 @@ faq:
     answer: "Ja. Auch ein unvollkommener Verlauf kann wiederkehrende Crashs, Symptomveränderungen und Funktionsauswirkung klarer zeigen als Erinnerung allein."
 ---
 
-Wenn Sie [ME/CFS](/knowledge/me-cfs/) haben, ist der schwierigste Teil des Symptomtrackings oft genau der Grund, warum Sie überhaupt tracken möchten: Ihre Energie ist begrenzt, Ihre Erinnerung ist an schlechteren Tagen unzuverlässig, und zu viel Aufwand kann nach hinten losgehen. Ein nützliches Tracking-System für ME/CFS sollte helfen, Muster zu erkennen, ohne das Protokollieren zu einer weiteren Form von Anstrengung zu machen.
+Wenn Sie [ME/CFS](/de-de/knowledge/me-cfs/) haben, ist der schwierigste Teil des Symptomtrackings oft genau der Grund, warum Sie überhaupt tracken möchten: Ihre Energie ist begrenzt, Ihre Erinnerung ist an schlechteren Tagen unzuverlässig, und zu viel Aufwand kann nach hinten losgehen. Ein nützliches Tracking-System für ME/CFS sollte helfen, Muster zu erkennen, ohne das Protokollieren zu einer weiteren Form von Anstrengung zu machen.
 
-Das ist noch wichtiger, wenn [PEM](/knowledge/pem/) Teil des Bildes ist. Wenn eine Tracking-Routine zu viel Energie kostet, kann sie aufhören hilfreich zu sein, lange bevor der Verlauf nützlich wird.
+Das ist noch wichtiger, wenn [PEM](/de-de/knowledge/pem/) Teil des Bildes ist. Wenn eine Tracking-Routine zu viel Energie kostet, kann sie aufhören hilfreich zu sein, lange bevor der Verlauf nützlich wird.
 
 ## Das Ziel ist nicht perfektes Tracking
 
@@ -94,7 +94,7 @@ Häufige Bruchstellen sind:
 - Schuldgefühle nach ausgelassenen Einträgen
 - Druck, nach einem Crash alles nachzutragen
 
-Das ist nah an der Schleife schlechter Tage, die in [Warum Symptomtracking an schlechten Tagen scheitert](/blog/why-symptom-tracking-fails-on-bad-days/) beschrieben wird, aber ME/CFS fügt oft eine verzögerte Verschlechterung hinzu, die das Muster noch schwerer rekonstruierbar macht.
+Das ist nah an der Schleife schlechter Tage, die in [Warum Symptomtracking an schlechten Tagen scheitert](/de-de/blog/why-symptom-tracking-fails-on-bad-days/) beschrieben wird, aber ME/CFS fügt oft eine verzögerte Verschlechterung hinzu, die das Muster noch schwerer rekonstruierbar macht.
 
 ## Was man tracken sollte, wenn PEM Teil des Bildes ist
 
@@ -106,7 +106,7 @@ Der nützlichste Verlauf hält meist fünf Dinge zusammen:
 4. was es mit der Funktion gemacht hat
 5. wie lange die Erholung gedauert hat
 
-Das ist wichtig, weil der verzögerte Teil von [PEM](/knowledge/pem/) leicht übersehen werden kann, wenn Sie nur loggen, wie Sie sich im Moment gefühlt haben.
+Das ist wichtig, weil der verzögerte Teil von [PEM](/de-de/knowledge/pem/) leicht übersehen werden kann, wenn Sie nur loggen, wie Sie sich im Moment gefühlt haben.
 
 ## Eine ME/CFS-Tracking-Struktur mit weniger Aufwand
 
@@ -115,7 +115,7 @@ Wenn Sie die minimal nützliche Version wollen, tracken Sie:
 ### Die wichtigsten Symptome heute
 
 - Fatigue
-- [Brain Fog](/knowledge/brain-fog/)
+- [Brain Fog](/de-de/knowledge/brain-fog/)
 - Schmerzen
 - Schwindel
 - Schlafstörung
@@ -191,11 +191,11 @@ Auch ein aufwandsarmer Verlauf kann Termine besser machen, weil er zeigt:
 - was sich am stärksten verändert hat
 - wie der Alltag jetzt aussieht
 
-Wenn Sie sich auf Versorgung vorbereiten, können [Was man vor einem Spezialistentermin tracken sollte](/blog/what-to-track-before-a-specialist-appointment/) und [Wie man Symptome zusammenfasst, ohne wichtige Details zu vergessen](/blog/how-to-summarize-symptoms-without-forgetting-key-details/) helfen, den Verlauf in etwas leichter Prüfbares zu verwandeln.
+Wenn Sie sich auf Versorgung vorbereiten, können [Was man vor einem Spezialistentermin tracken sollte](/de-de/blog/what-to-track-before-a-specialist-appointment/) und [Wie man Symptome zusammenfasst, ohne wichtige Details zu vergessen](/de-de/blog/how-to-summarize-symptoms-without-forgetting-key-details/) helfen, den Verlauf in etwas leichter Prüfbares zu verwandeln.
 
 ## Wo Zebra passt
 
-Zebra ist darauf ausgelegt, den Verlauf an schweren Tagen nutzbar zu halten, nicht nur an guten. Das ist bei [Fatigue](/knowledge/fatigue/) und ME/CFS wichtig, weil der Prozess nur hilft, wenn er auch noch möglich ist, wenn Energie fällt.
+Zebra ist darauf ausgelegt, den Verlauf an schweren Tagen nutzbar zu halten, nicht nur an guten. Das ist bei [Fatigue](/de-de/knowledge/fatigue/) und ME/CFS wichtig, weil der Prozess nur hilft, wenn er auch noch möglich ist, wenn Energie fällt.
 
 ## Wichtigste Punkte
 

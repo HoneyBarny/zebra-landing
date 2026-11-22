@@ -99,7 +99,7 @@ Zebra ist stärker, wenn Sie wollen:
 
 Wenn Ihr Hauptproblem lautet: "Ich habe Dinge getrackt, aber ich muss den Monat trotzdem aus der Erinnerung neu aufbauen", passt Zebra direkter in diese Lücke.
 
-Für die breitere POTS-App-Landschaft vergleicht [Beste Symptomtracker-Apps für POTS 2026](/blog/best-symptom-tracker-apps-for-pots-2026/) Zebra, Bearable, Visible und einfachere Umwege an einem Ort.
+Für die breitere POTS-App-Landschaft vergleicht [Beste Symptomtracker-Apps für POTS 2026](/de-de/blog/best-symptom-tracker-apps-for-pots-2026/) Zebra, Bearable, Visible und einfachere Umwege an einem Ort.
 
 ## Vergleich nebeneinander
 
@@ -126,9 +126,9 @@ Das liegt daran, dass POTS-Termine oft verlangen, dass Sie Folgendes bewahren:
 
 Diese Details sind leichter nutzbar, wenn sie in einem verbundenen Verlauf bleiben.
 
-Wenn Sie den breiteren Terminvorbereitungswinkel wollen, sind [Symptomtracker für Arzttermine](/blog/symptom-tracker-for-doctor-appointments/) und [Was man zu einem POTS-Kardiologietermin mitbringen sollte](/blog/what-to-bring-to-a-pots-cardiology-appointment/) die nächsten besten Seiten.
+Wenn Sie den breiteren Terminvorbereitungswinkel wollen, sind [Symptomtracker für Arzttermine](/de-de/blog/symptom-tracker-for-doctor-appointments/) und [Was man zu einem POTS-Kardiologietermin mitbringen sollte](/de-de/blog/what-to-bring-to-a-pots-cardiology-appointment/) die nächsten besten Seiten.
 
-Wenn Symptome im Aufrechten die größte Lücke sind, ist [Beste App für orthostatisches Symptomtracking](/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) die spezifischere Folge.
+Wenn Symptome im Aufrechten die größte Lücke sind, ist [Beste App für orthostatisches Symptomtracking](/de-de/blog/how-to-track-pots-symptoms-and-orthostatic-changes/) die spezifischere Folge.
 
 ## Welche App ist besser für Brain Fog und schlechte Tage?
 
@@ -146,7 +146,7 @@ Zebra kann besser funktionieren, wenn:
 - Sie weniger Einrichtungsentscheidungen wollen
 - der schwerere Teil ist, das Muster später zu verstehen
 
-Wenn das Ihr Hauptproblem ist, erklärt [Warum Symptomtracking an schlechten Tagen scheitert](/blog/why-symptom-tracking-fails-on-bad-days/) das Muster direkt.
+Wenn das Ihr Hauptproblem ist, erklärt [Warum Symptomtracking an schlechten Tagen scheitert](/de-de/blog/why-symptom-tracking-fails-on-bad-days/) das Muster direkt.
 
 ## Fazit
 

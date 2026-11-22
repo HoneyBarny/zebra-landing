@@ -147,7 +147,7 @@ Antes de una visita, extrae:
 - cambios funcionales
 - tus preguntas
 
-Esto puede convertirse en parte de un [informe de síntomas listo para el médico](/blog/what-is-a-doctor-ready-symptom-report/).
+Esto puede convertirse en parte de un [informe de síntomas listo para el médico](/es-es/blog/what-is-a-doctor-ready-symptom-report/).
 
 ## Dónde encaja Zebra
 
