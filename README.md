@@ -7,7 +7,6 @@ From the SEO audit of 2026-11-26 (`~/SaaS/_research/seo-audits/ZEBRA_SEO_AUDIT_2
 - [x] Fixes 1–4 (PR #4): merged and deployed on 2026-11-26, live as `227b378`.
 - [ ] Optional: a native speaker reads the new German, Spanish and French sentences on the knowledge pages (the "not medical advice" note and the App Store card, in `src/data/locales/entity-translations.ts` and `phase2.ts`).
 - [ ] Search Console → URL Inspection → Request indexing for: `/`, `/knowledge/`, `/about/`, `/blog/what-to-track-after-a-positive-tilt-table-test/`, `/de-de/knowledge/pots/`, `/knowledge/eds/`.
-- [ ] Bing Webmaster Tools: sign in and use "Import from Google Search Console" (about 10 minutes).
 - [ ] Pick a support email address to replace the personal Gmail in the site's structured data (Q-010).
 - [ ] Decide whether to merge the 3 Bearable comparison pages into one and the 2 Visible pages into one, with redirects.
 
