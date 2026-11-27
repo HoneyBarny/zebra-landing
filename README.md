@@ -1,5 +1,20 @@
 # Astro Starter Kit: Minimal
 
+## Roman's SEO steps (2026-11-27)
+
+From the SEO audit of 2026-11-26 (`~/SaaS/_research/seo-audits/ZEBRA_SEO_AUDIT_2026-11-26.md`).
+
+- [x] Fixes 1–4 (PR #4): merged and deployed on 2026-11-26, live as `227b378`.
+- [ ] Optional: a native speaker reads the new German, Spanish and French sentences on the knowledge pages (the "not medical advice" note and the App Store card, in `src/data/locales/entity-translations.ts` and `phase2.ts`).
+- [ ] Search Console → URL Inspection → Request indexing for: `/`, `/knowledge/`, `/about/`, `/blog/what-to-track-after-a-positive-tilt-table-test/`, `/de-de/knowledge/pots/`, `/knowledge/eds/`.
+- [ ] Bing Webmaster Tools: sign in and use "Import from Google Search Console" (about 10 minutes).
+- [ ] Pick a support email address to replace the personal Gmail in the site's structured data (Q-010).
+- [ ] Decide whether to merge the 3 Bearable comparison pages into one and the 2 Visible pages into one, with redirects.
+
+Claude follow-ups (no action needed from Roman):
+- Send the remaining 338 Zebra URLs to Bing, 100 a day (about 4 days).
+- Recheck Google indexing between 6 and 10 December 2026.
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
