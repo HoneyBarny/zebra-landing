@@ -8,7 +8,7 @@ import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../components/content/ArticleCard.astro';
 import { authorProfiles } from '../../data/content-taxonomy';
 import { homePage } from '../../data/site-content';
-import { toAbsoluteUrl } from '../../data/site-config';
+import { founderPerson, siteConfig, toAbsoluteUrl } from '../../data/site-config';
 import {
   articleUrl,
   dateLabel,
@@ -39,6 +39,7 @@ const schema = [
     description: author.bio,
     mainEntity: {
       '@type': author.schemaType,
+      ...(author.slug === 'roman-bun' ? { '@id': founderPerson['@id'], sameAs: founderPerson.sameAs } : {}),
       name: author.name,
       ...(author.schemaType === 'Person' ? { jobTitle: author.role, worksFor: { '@type': 'Organization', name: 'Zebra', url: toAbsoluteUrl('/') } } : {}),
       description: author.bio,
@@ -69,6 +70,7 @@ const schema = [
         <h1>{author.name}</h1>
         <p>{author.role}</p>
         <p class="blog-hero-copy">{author.bio}</p>
+        <a class="inline-cta" href={siteConfig.appStore.url}>Download Zebra on the App Store</a>
       </section>
 
       <section class="section section-band section-band--soft">

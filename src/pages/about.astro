@@ -1,6 +1,6 @@
 ---
 import LegalPage from '../components/content/LegalPage.astro';
-import { siteConfig } from '../data/site-config';
+import { founderPerson, siteConfig, toAbsoluteUrl } from '../data/site-config';
 
 const page = {
   seo: {
@@ -45,6 +45,7 @@ const page = {
     },
   ],
   relatedLinks: [
+    { href: siteConfig.appStore.url, label: 'Download Zebra on the App Store' },
     { href: '/how-we-write-health-content/', label: 'How we write health content' },
     { href: siteConfig.routes.privacy, label: 'Privacy Policy' },
     { href: siteConfig.routes.terms, label: 'Terms of Use' },
@@ -52,6 +53,18 @@ const page = {
   ],
   contactEmail: siteConfig.support.email,
 };
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: page.title,
+    url: toAbsoluteUrl('/about/'),
+    description: page.seo.description,
+    about: { '@id': `${siteConfig.siteUrl}#organization` },
+    mainEntity: { ...founderPerson, jobTitle: 'Founder and developer of Zebra' },
+  },
+];
 ---
 
-<LegalPage page={page} />
+<LegalPage page={page} schema={schema} />
