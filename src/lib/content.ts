@@ -10,7 +10,7 @@ import {
 } from '../data/content-taxonomy';
 import { localizedEntityName } from '../data/locales/entity-translations';
 import { localeRoutes } from '../data/locales/shared';
-import { siteConfig } from '../data/site-config';
+import { founderPerson, siteConfig } from '../data/site-config';
 
 export type ArticleEntry = CollectionEntry<'articles'>;
 export type ArticleStatus = ArticleEntry['data']['status'];
@@ -377,6 +377,7 @@ export function getArticleSchema(article: ArticleEntry, canonical: string, local
       if (!profile || profile.schemaType !== 'Person') return undefined;
       return {
         '@type': 'Person',
+        ...(profile.slug === 'roman-bun' ? { '@id': founderPerson['@id'] } : {}),
         name: profile.name,
         jobTitle: profile.role,
         url: new URL(authorUrl(profile.slug), siteConfig.siteUrl).toString(),

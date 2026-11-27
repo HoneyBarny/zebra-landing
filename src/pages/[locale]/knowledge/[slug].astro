@@ -8,6 +8,7 @@ import SiteFooter from '../../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../../components/content/ArticleCard.astro';
 import { clusterMeta } from '../../../data/content-taxonomy';
+import { siteConfig } from '../../../data/site-config';
 import {
   getEntityPageCopy,
   localizeEntities,
@@ -147,11 +148,22 @@ const schema = [
             </ul>
           </article>
           <article class="feature-card">
-            <p class="mini-label">{pageCopy.whyItMatters}</p>
-            <h2>{pageCopy.answerFirstTitle}</h2>
-            <p>{pageCopy.answerFirstBody}</p>
+            <p class="mini-label">{pageCopy.medicalInfoLabel}</p>
+            <h2>{pageCopy.medicalInfoTitle}</h2>
+            <p>
+              {pageCopy.medicalInfoBody} <a href="/how-we-write-health-content/">{pageCopy.howWeWrite}</a>.
+            </p>
           </article>
         </div>
+      </section>
+
+      <section class="section">
+        <section class="article-cta-card" aria-label={pageCopy.ctaLink}>
+          <p class="eyebrow">{pageCopy.ctaEyebrow}</p>
+          <h2>{pageCopy.ctaTitle}</h2>
+          <p>{pageCopy.ctaNote}</p>
+          <a class="inline-cta" href={siteConfig.appStore.url}>{pageCopy.ctaLink}</a>
+        </section>
       </section>
 
       {hubSections.length > 0 && (
@@ -159,7 +171,6 @@ const schema = [
           <div class="section-intro">
             <p class="eyebrow">{pageCopy.conditionMap}</p>
             <h2>{entity.name} {pageCopy.clusterHubSuffix}</h2>
-            <p class="section-intro-body">{pageCopy.conditionMapBody}</p>
           </div>
           <div class="cluster-section-grid">
             {hubSections.map((section) => (

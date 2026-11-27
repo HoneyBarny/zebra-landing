@@ -7,6 +7,7 @@ import SiteFooter from '../../components/landing/SiteFooter.astro';
 import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
 import ArticleCard from '../../components/content/ArticleCard.astro';
 import { homePage } from '../../data/site-content';
+import { siteConfig } from '../../data/site-config';
 import { alternatesForPath } from '../../data/locales/shared';
 import {
   articleUrl,
@@ -85,7 +86,7 @@ const schema = [
             { label: entity.name },
           ]}
         />
-        <p class="eyebrow">{entity.entityType === 'condition' ? 'Condition hub' : 'Entity'}</p>
+        <p class="eyebrow">{entity.entityType === 'condition' ? 'Condition hub' : 'Term'}</p>
         <h1>{entity.name}</h1>
         <p class="blog-hero-copy">{entity.definition}</p>
         <div class="article-chip-row">
@@ -132,16 +133,23 @@ const schema = [
         </div>
       </section>
 
+      <section class="section">
+        <section class="article-cta-card" aria-label="Download Zebra">
+          <p class="eyebrow">Put this into practice</p>
+          <h2>Download Zebra</h2>
+          <p>
+            Use Zebra to keep symptoms, flares, medications and orthostatic readings in one
+            timeline you can bring to your next appointment.
+          </p>
+          <a class="inline-cta" href={siteConfig.appStore.url}>Download Zebra on the App Store</a>
+        </section>
+      </section>
+
       {hubSections.length > 0 && (
         <section class="section">
           <div class="section-intro">
             <p class="eyebrow">Condition map</p>
             <h2>{entity.name} cluster hub</h2>
-            <p class="section-intro-body">
-              These pages are generated from Zebra’s entity graph so the condition hub can keep
-              related symptoms, workflows, testing context, and reports connected without manual
-              link lists.
-            </p>
           </div>
           <div class="cluster-section-grid">
             {hubSections.map((section) => (
@@ -192,7 +200,7 @@ const schema = [
       {childEntities.length > 0 && (
         <section class="section">
           <div class="section-intro">
-            <p class="eyebrow">Related entities</p>
+            <p class="eyebrow">Related terms</p>
             <h2>What belongs near {entity.name}</h2>
           </div>
           <div class="knowledge-grid">
@@ -210,7 +218,7 @@ const schema = [
         <section class="section section-band">
           <div class="section-intro">
             <p class="eyebrow">Nearby concepts</p>
-            <h2>Other pages the graph connects automatically</h2>
+            <h2>Other related terms</h2>
           </div>
           <div class="guides-grid">
             {relatedEntities
@@ -218,7 +226,7 @@ const schema = [
               .map((item) => (
                 <a class="guide-card" href={entityUrl(item.slug)}>
                   <strong>{item.name}</strong>
-                  <span>Open entity</span>
+                  <span>Read definition</span>
                 </a>
               ))}
           </div>

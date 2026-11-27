@@ -37,9 +37,10 @@ interface LegalPageData {
 
 interface Props {
   page: LegalPageData;
+  schema?: Array<Record<string, unknown>>;
 }
 
-const { page } = Astro.props;
+const { page, schema } = Astro.props;
 ---
 
 <BaseLayout
@@ -48,6 +49,7 @@ const { page } = Astro.props;
   description={page.seo.description}
   alternates={page.seo.alternates}
   consentBanner={page.consentBanner}
+  schema={schema}
 >
   <main class="legal-shell">
     <a class="legal-back" href={page.backHref}>{`← ${page.backLabel}`}</a>

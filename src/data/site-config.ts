@@ -55,3 +55,17 @@ export const indexableRoutes = [
 export function toAbsoluteUrl(path: string) {
   return new URL(path, siteConfig.siteUrl).toString();
 }
+
+/**
+ * The founder as one schema.org Person. Every page that names Roman (article
+ * author, Organization founder, author page, About) uses this `@id`, so search
+ * engines and AI answers read them as one person. `sameAs` holds his own public
+ * profiles, the same ones the Offload site uses.
+ */
+export const founderPerson = {
+  '@type': 'Person',
+  '@id': toAbsoluteUrl('/authors/roman-bun/#person'),
+  name: 'Roman Bun',
+  url: toAbsoluteUrl('/authors/roman-bun/'),
+  sameAs: ['https://www.threads.com/@roman_bun', 'https://x.com/romanbunn'],
+} as const;

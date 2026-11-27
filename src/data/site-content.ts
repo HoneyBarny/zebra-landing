@@ -1,5 +1,5 @@
 import { heroShowcase, screenshots, screenshotStory } from './screenshots';
-import { siteConfig } from './site-config';
+import { founderPerson, siteConfig } from './site-config';
 
 const faqItems = [
   {
@@ -1071,11 +1071,7 @@ export const homePage = {
       // so the two identify each other. The developer page is not used: it is
       // the individual developer account, not the Zebra organization.
       sameAs: [siteConfig.appStore.url, 'https://www.producthunt.com/products/zebra-symptom-tracker-for-pots-eds'],
-      founder: {
-        '@type': 'Person',
-        name: 'Roman Bun',
-        url: new URL('/authors/roman-bun/', siteConfig.siteUrl).toString(),
-      },
+      founder: founderPerson,
       contactPoint: {
         '@type': 'ContactPoint',
         email: siteConfig.support.email,
